@@ -1,0 +1,965 @@
+{
+  "schema": "oewn-gloss-batch-v2",
+  "batch": 70,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 3450,
+  "senses": [
+    {
+      "senseId": "contract%1:10:01::",
+      "lemma": "contract",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make",
+      "synsetId": "06750143-n",
+      "words": 18,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1134,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make"
+      ]
+    },
+    {
+      "senseId": "growing%1:22:00::",
+      "lemma": "growing",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level",
+      "synsetId": "13510240-n",
+      "words": 29,
+      "rare": 8,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1140,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(biology) the process of an individual organism growing organically",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level"
+      ]
+    },
+    {
+      "senseId": "growing%1:22:01::",
+      "lemma": "growing",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(electronics) the production of (semiconductor) crystals by slow crystallization from the molten state",
+      "synsetId": "13510047-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1140,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(electronics) the production of (semiconductor) crystals by slow crystallization from the molten state"
+      ]
+    },
+    {
+      "senseId": "image%1:07:00::",
+      "lemma": "image",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(Jungian psychology) a personal facade that one presents to the world",
+      "synsetId": "04685073-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1142,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(Jungian psychology) a personal facade that one presents to the world"
+      ]
+    },
+    {
+      "senseId": "active%3:00:02::",
+      "lemma": "active",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "tending to become more severe or wider in scope",
+      "synsetId": "00037570-a",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1155,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "tending to become more severe or wider in scope"
+      ]
+    },
+    {
+      "senseId": "dance%2:36:00::",
+      "lemma": "dance",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "move in a pattern; usually to musical accompaniment; do or perform a dance",
+      "synsetId": "01712535-v",
+      "words": 13,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1160,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "move in a pattern",
+        "usually to musical accompaniment",
+        "do or perform a dance"
+      ]
+    },
+    {
+      "senseId": "independent%3:00:02::",
+      "lemma": "independent",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(of a clause) capable of standing syntactically alone as a complete sentence",
+      "synsetId": "00733659-a",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1163,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(of a clause) capable of standing syntactically alone as a complete sentence"
+      ]
+    },
+    {
+      "senseId": "fan%2:35:01::",
+      "lemma": "fan",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "strike out (a batter), (of a pitcher)",
+      "synsetId": "01412417-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1181,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "strike out (a batter), (of a pitcher)"
+      ]
+    },
+    {
+      "senseId": "color%3:00:00::",
+      "lemma": "color",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "having or capable of producing colors",
+      "synsetId": "00395196-a",
+      "words": 6,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1209,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "having or capable of producing colors"
+      ]
+    },
+    {
+      "senseId": "marriage%1:26:00::",
+      "lemma": "marriage",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the state of being a married couple voluntarily joined for life (or until divorce)",
+      "synsetId": "13987306-n",
+      "words": 14,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1221,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the state of being a married couple voluntarily joined for life (or until divorce)"
+      ]
+    },
+    {
+      "senseId": "sweet%4:02:00::",
+      "lemma": "sweet",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "in an affectionate or loving manner (‘sweet’ is sometimes a poetic or informal variant of ‘sweetly’)",
+      "synsetId": "00474454-r",
+      "words": 16,
+      "rare": 7,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1230,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "in an affectionate or loving manner (‘sweet’ is sometimes a poetic or informal variant of ‘sweetly’)"
+      ]
+    },
+    {
+      "senseId": "male%3:00:00::",
+      "lemma": "male",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation",
+      "synsetId": "01479992-a",
+      "words": 18,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1274,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation"
+      ]
+    },
+    {
+      "senseId": "plant%1:03:00::",
+      "lemma": "plant",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(botany) a living organism lacking the power of locomotion",
+      "synsetId": "00017402-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1277,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(botany) a living organism lacking the power of locomotion"
+      ]
+    },
+    {
+      "senseId": "primary%1:17:00::",
+      "lemma": "primary",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(astronomy) a celestial body (especially a star) relative to other objects in orbit around it",
+      "synsetId": "09421644-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1301,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(astronomy) a celestial body (especially a star) relative to other objects in orbit around it"
+      ]
+    },
+    {
+      "senseId": "cell%1:03:00::",
+      "lemma": "cell",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "synsetId": "00006484-n",
+      "words": 33,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1315,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(biology) the basic structural and functional unit of all organisms",
+        "they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals"
+      ]
+    },
+    {
+      "senseId": "politics%1:04:00::",
+      "lemma": "politics",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the profession devoted to governing and to political affairs",
+      "synsetId": "00613259-n",
+      "words": 9,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1330,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the profession devoted to governing and to political affairs"
+      ]
+    },
+    {
+      "senseId": "politics%1:09:00::",
+      "lemma": "politics",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the study of government of states and other political units",
+      "synsetId": "06157599-n",
+      "words": 10,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1330,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the study of government of states and other political units"
+      ]
+    },
+    {
+      "senseId": "weather%1:19:00::",
+      "lemma": "weather",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+      "synsetId": "11545095-n",
+      "words": 20,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1339,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation"
+      ]
+    },
+    {
+      "senseId": "complex%1:12:00::",
+      "lemma": "complex",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior",
+      "synsetId": "07497661-n",
+      "words": 19,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1344,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior"
+      ]
+    },
+    {
+      "senseId": "queen%2:38:00::",
+      "lemma": "queen",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "become a queen",
+      "synsetId": "01974005-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1359,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "become a queen"
+      ]
+    },
+    {
+      "senseId": "sitting%1:04:01::",
+      "lemma": "sitting",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(photography) the act of assuming a certain position (as for a photograph or portrait)",
+      "synsetId": "00345247-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1362,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(photography) the act of assuming a certain position (as for a photograph or portrait)"
+      ]
+    },
+    {
+      "senseId": "learned%3:00:02::",
+      "lemma": "learned",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "established by conditioning or learning",
+      "synsetId": "01641174-a",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1379,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "established by conditioning or learning"
+      ]
+    },
+    {
+      "senseId": "species%1:14:00::",
+      "lemma": "species",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(biology) taxonomic group whose members can interbreed",
+      "synsetId": "08127339-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1397,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(biology) taxonomic group whose members can interbreed"
+      ]
+    },
+    {
+      "senseId": "wearing%1:22:00::",
+      "lemma": "wearing",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(geology) the mechanical process of wearing or grinding something down (as by particles washing over it), also figuratively",
+      "synsetId": "13496741-n",
+      "words": 18,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1402,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(geology) the mechanical process of wearing or grinding something down (as by particles washing over it), also figuratively"
+      ]
+    },
+    {
+      "senseId": "bottom%2:40:00::",
+      "lemma": "bottom",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "provide with a bottom or a seat",
+      "synsetId": "02342695-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1411,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "provide with a bottom or a seat"
+      ]
+    },
+    {
+      "senseId": "square%1:25:00::",
+      "lemma": "square",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon",
+      "synsetId": "13901273-n",
+      "words": 17,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1431,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(geometry) a plane rectangle with four equal sides and four right angles",
+        "a four-sided regular polygon"
+      ]
+    },
+    {
+      "senseId": "critical%3:00:04::",
+      "lemma": "critical",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "at or of a point at which a property or phenomenon suffers an abrupt change especially having enough mass to sustain a chain reaction",
+      "synsetId": "00654957-a",
+      "words": 24,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1445,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "at or of a point at which a property or phenomenon suffers an abrupt change especially having enough mass to sustain a chain reaction"
+      ]
+    },
+    {
+      "senseId": "digital%3:00:00::",
+      "lemma": "digital",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "of a circuit or device that represents magnitudes in digits",
+      "synsetId": "00111512-a",
+      "words": 10,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1446,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "of a circuit or device that represents magnitudes in digits"
+      ]
+    },
+    {
+      "senseId": "mental%3:01:03::",
+      "lemma": "mental",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "of or relating to the chin- or liplike structure in insects and certain mollusks",
+      "synsetId": "02745650-a",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1451,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "of or relating to the chin- or liplike structure in insects and certain mollusks"
+      ]
+    },
+    {
+      "senseId": "hearing%1:04:01::",
+      "lemma": "hearing",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence",
+      "synsetId": "01202187-n",
+      "words": 28,
+      "rare": 3,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1483,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence"
+      ]
+    },
+    {
+      "senseId": "hill%1:06:00::",
+      "lemma": "hill",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(baseball) the slight elevation on which the pitcher stands",
+      "synsetId": "03797867-n",
+      "words": 9,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1484,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(baseball) the slight elevation on which the pitcher stands"
+      ]
+    },
+    {
+      "senseId": "seat%1:15:01::",
+      "lemma": "seat",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a space reserved for sitting (as in a theater or on a train or airplane)",
+      "synsetId": "08665191-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1493,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a space reserved for sitting (as in a theater or on a train or airplane)"
+      ]
+    },
+    {
+      "senseId": "engineering%1:06:00::",
+      "lemma": "engineering",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a room (as on a ship) in which the engine is located",
+      "synsetId": "03293411-n",
+      "words": 12,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1531,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a room (as on a ship) in which the engine is located"
+      ]
+    },
+    {
+      "senseId": "strength%1:07:05::",
+      "lemma": "strength",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "capability in terms of personnel and materiel that affect the capacity to fight a war",
+      "synsetId": "05210917-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1547,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "capability in terms of personnel and materiel that affect the capacity to fight a war"
+      ]
+    },
+    {
+      "senseId": "camp%1:06:00::",
+      "lemma": "camp",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "temporary living quarters specially built by the army for soldiers",
+      "synsetId": "02948281-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1554,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "temporary living quarters specially built by the army for soldiers"
+      ]
+    },
+    {
+      "senseId": "cast%2:36:01::",
+      "lemma": "cast",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "select to play,sing, or dance a part in a play, movie, musical, opera, or ballet",
+      "synsetId": "01714340-v",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1555,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "select to play,sing, or dance a part in a play, movie, musical, opera, or ballet"
+      ]
+    },
+    {
+      "senseId": "television%1:06:00::",
+      "lemma": "television",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+      "synsetId": "04411547-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1571,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points"
+      ]
+    },
+    {
+      "senseId": "television%1:06:01::",
+      "lemma": "television",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an electronic device that receives television signals and displays them on a screen",
+      "synsetId": "04413042-n",
+      "words": 13,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1571,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "an electronic device that receives television signals and displays them on a screen"
+      ]
+    },
+    {
+      "senseId": "till%2:36:00::",
+      "lemma": "till",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation",
+      "synsetId": "01744489-v",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1572,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation"
+      ]
+    },
+    {
+      "senseId": "function%1:24:00::",
+      "lemma": "function",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)",
+      "synsetId": "13806028-n",
+      "words": 30,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1585,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)"
+      ]
+    },
+    {
+      "senseId": "influence%2:32:00::",
+      "lemma": "influence",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "induce into action by using one's charm",
+      "synsetId": "00778568-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1590,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "induce into action by using one's charm"
+      ]
+    },
+    {
+      "senseId": "copy%1:10:00::",
+      "lemma": "copy",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a reproduction of a written record (e.g. of a legal or school record)",
+      "synsetId": "06517508-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1614,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a reproduction of a written record (e.g. of a legal or school record)"
+      ]
+    },
+    {
+      "senseId": "garden%2:36:00::",
+      "lemma": "garden",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "work in the garden",
+      "synsetId": "01744850-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1619,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "work in the garden"
+      ]
+    },
+    {
+      "senseId": "horse%1:14:00::",
+      "lemma": "horse",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "troops trained to fight on horseback",
+      "synsetId": "08414813-n",
+      "words": 6,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1649,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "troops trained to fight on horseback"
+      ]
+    },
+    {
+      "senseId": "map%1:24:00::",
+      "lemma": "map",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)",
+      "synsetId": "13806028-n",
+      "words": 30,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1654,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)"
+      ]
+    },
+    {
+      "senseId": "farm%2:36:00::",
+      "lemma": "farm",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "cultivate by growing, often involving improvements by means of agricultural techniques",
+      "synsetId": "01743695-v",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1679,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "cultivate by growing, often involving improvements by means of agricultural techniques"
+      ]
+    },
+    {
+      "senseId": "technical%1:04:00::",
+      "lemma": "technical",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct; does not usually involve physical contact during play",
+      "synsetId": "00772845-n",
+      "words": 27,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1695,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct",
+        "does not usually involve physical contact during play"
+      ]
+    },
+    {
+      "senseId": "variety%1:14:00::",
+      "lemma": "variety",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics",
+      "synsetId": "08118051-n",
+      "words": 23,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1699,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics"
+      ]
+    },
+    {
+      "senseId": "injury%1:11:01::",
+      "lemma": "injury",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a casualty to military personnel resulting from combat",
+      "synsetId": "07354849-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1716,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a casualty to military personnel resulting from combat"
+      ]
+    },
+    {
+      "senseId": "reference%2:36:00::",
+      "lemma": "reference",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "refer to",
+      "synsetId": "01709116-v",
+      "words": 2,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1726,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "refer to"
+      ]
+    }
+  ]
+}

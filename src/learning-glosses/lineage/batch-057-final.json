@@ -1,0 +1,1206 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 57,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 41,
+      "of": 50,
+      "rate": 0.82
+    },
+    "selfApproved": [
+      "cut%2:42:00::",
+      "fight%1:10:00::",
+      "force%2:32:00::",
+      "force%2:35:03::",
+      "issue%2:32:02::",
+      "running%5:00:00:functioning:00",
+      "term%1:09:00::",
+      "strong%5:00:00:forceful:00",
+      "account%1:10:02::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "84a950846a66a525c427f319f14d41b7e0e22fd4ae2faaee782658f82e333b08"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "cut%2:36:01::",
+      "lemma": "cut",
+      "pos": "v",
+      "definition": "form by probing, penetrating, or digging",
+      "sourceBranches": [
+        "form by probing, penetrating, or digging"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make a shape or opening by digging into something, pushing a tool into it, or making a hole through it.",
+      "scope": "This is not slicing something apart with a blade, as in preparing food, but forming a shape or passage by digging into material.",
+      "examples": [
+        "The miners cut a tunnel deep into the hillside.",
+        "Using a narrow spade, she cut a channel through the clay for the new pipe."
+      ],
+      "branchCoverage": [
+        "form by probing, penetrating, or digging -> make a shape or opening by digging into something, pushing a tool into it, or making a hole through it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%2:36:01:: -> make a shape by digging or probing into something; cut%2:41:10:: -> manage to cope or succeed; cut%2:42:00:: -> deliberately not go to a class or event; cut%3:00:05:: -> made neat by having the edges trimmed",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%2:41:10::",
+      "lemma": "cut",
+      "pos": "v",
+      "definition": "be able to manage or manage successfully",
+      "sourceBranches": [
+        "be able to manage or manage successfully"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "be able to cope with a situation or handle it well enough.",
+      "scope": "This is not physically slicing anything; it means having the ability or resources to cope with a demand.",
+      "examples": [
+        "Do you think this old van can cut it on the mountain roads?",
+        "After the injury, he was not sure he could cut it in the majors."
+      ],
+      "branchCoverage": [
+        "be able to manage or manage successfully -> be able to cope with a situation or handle it well enough"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%2:36:01:: -> make a shape by digging or probing into something; cut%2:41:10:: -> manage to cope or succeed; cut%2:42:00:: -> deliberately not go to a class or event; cut%3:00:05:: -> made neat by having the edges trimmed",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%2:42:00::",
+      "lemma": "cut",
+      "pos": "v",
+      "definition": "intentionally fail to attend",
+      "sourceBranches": [
+        "intentionally fail to attend"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "deliberately not go to a class, meeting, or similar event.",
+      "scope": "This is not leaving an event early or arriving late; it means choosing not to go at all.",
+      "examples": [
+        "He cut chemistry twice last week, and the teacher noticed.",
+        "She cut her morning lecture to finish an essay."
+      ],
+      "branchCoverage": [
+        "intentionally fail to attend -> deliberately not go to a class, meeting, or similar event"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%2:36:01:: -> make a shape by digging or probing into something; cut%2:41:10:: -> manage to cope or succeed; cut%2:42:00:: -> deliberately not go to a class or event; cut%3:00:05:: -> made neat by having the edges trimmed",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 'cut the staff meeting' is unidiomatic and risks reading as leaving early; use 'skipped the staff meeting' or a class example."
+    },
+    {
+      "senseId": "cut%3:00:05::",
+      "lemma": "cut",
+      "pos": "a",
+      "definition": "made neat and tidy by trimming",
+      "sourceBranches": [
+        "made neat and tidy by trimming"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "made neat and orderly because its edges or ends have been shortened.",
+      "scope": "This describes a tidy result after the edges are trimmed, not the act of slicing something into pieces.",
+      "examples": [
+        "The hedge looked crisp and neatly cut after the gardener finished.",
+        "He arrived with freshly cut hair and a pressed shirt."
+      ],
+      "branchCoverage": [
+        "made neat and tidy by trimming -> made neat and orderly because its edges or ends have been shortened"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%2:36:01:: -> make a shape by digging or probing into something; cut%2:41:10:: -> manage to cope or succeed; cut%2:42:00:: -> deliberately not go to a class or event; cut%3:00:05:: -> made neat by having the edges trimmed",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "field%1:19:00::",
+      "lemma": "field",
+      "pos": "n",
+      "definition": "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it",
+      "sourceBranches": [
+        "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the area around an object that gives off radiation, where its electromagnetic vibrations can push on another similar object without touching it.",
+      "scope": "This is not the ground where crops grow or a sports playing area; it is the invisible region of physical influence around an object.",
+      "examples": [
+        "The electric field around the charged sphere weakens with distance.",
+        "Engineers mapped the field around the transmitter to check for interference."
+      ],
+      "branchCoverage": [
+        "the space around a radiating body within which its electromagnetic oscillations can exert force on another similar body not in contact with it -> the area around an object that gives off radiation, where its electromagnetic vibrations can push on another similar object without touching it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "field%1:19:00:: -> the area around a body where its magnetic or electric force is felt; field%1:09:01:: -> the area you can see through a lens or instrument; field%1:14:02:: -> all the competitors in a contest or sporting event",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "field%1:09:01::",
+      "lemma": "field",
+      "pos": "n",
+      "definition": "the area that is visible (as through an optical instrument)",
+      "sourceBranches": [
+        "the area that is visible (as through an optical instrument)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the part of a scene you can see, especially through a lens, telescope, or similar instrument.",
+      "scope": "This is not the invisible region of physical influence around an object; it is the extent of what the eye or an instrument can see.",
+      "examples": [
+        "The moon drifted slowly across the field of the telescope.",
+        "Adjust the microscope until the cells fill the field of view."
+      ],
+      "branchCoverage": [
+        "the area that is visible (as through an optical instrument) -> the part of a scene you can see, especially through a lens, telescope, or similar instrument"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "field%1:19:00:: -> the area around a body where its magnetic or electric force is felt; field%1:09:01:: -> the area you can see through a lens or instrument; field%1:14:02:: -> all the competitors in a contest or sporting event",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "field%1:14:02::",
+      "lemma": "field",
+      "pos": "n",
+      "definition": "all the competitors in a particular contest or sporting event",
+      "sourceBranches": [
+        "all the competitors in a particular contest or sporting event"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "all the people or teams competing in one particular contest or sporting event.",
+      "scope": "This is not the ground on which a game is played; it means the set of people or teams competing.",
+      "examples": [
+        "The field for Sunday's marathon includes three former champions.",
+        "A strong field of eight runners lined up for the final."
+      ],
+      "branchCoverage": [
+        "all the competitors in a particular contest or sporting event -> all the people or teams competing in one particular contest or sporting event"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "field%1:19:00:: -> the area around a body where its magnetic or electric force is felt; field%1:09:01:: -> the area you can see through a lens or instrument; field%1:14:02:: -> all the competitors in a contest or sporting event",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mother%1:18:01::",
+      "lemma": "mother",
+      "pos": "n",
+      "definition": "a term of address for a mother superior",
+      "sourceBranches": [
+        "a term of address for a mother superior"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a title used when speaking to the woman in charge of a convent.",
+      "scope": "This is not the everyday word for a child's female parent; it is a title used to address the head of a convent.",
+      "examples": [
+        "'Yes, Mother, I will lock the gate tonight,' the novice replied.",
+        "'Mother, the sisters are waiting for you in the chapel.'"
+      ],
+      "branchCoverage": [
+        "a term of address for a mother superior -> a title used when speaking to the woman in charge of a convent"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fight%2:41:10::",
+      "lemma": "fight",
+      "pos": "v",
+      "definition": "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for",
+      "sourceBranches": [
+        "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person",
+        "be an advocate for"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "work hard and persistently, sometimes in an attention-seeking way, for a goal, cause, or person, and speak up in support of them.",
+      "scope": "This is not trading blows with someone; it is sustained effort or public support for a cause or person.",
+      "examples": [
+        "She has fought for years to keep the local library open.",
+        "The group fights tirelessly for the rights of migrant workers."
+      ],
+      "branchCoverage": [
+        "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person -> work hard and persistently, sometimes in an attention-seeking way, for a goal, cause, or person",
+        "be an advocate for -> speak up in support of them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fight%2:41:10:: -> work hard and aggressively to gain something; fight%1:10:00:: -> an angry argument",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fight%1:10:00::",
+      "lemma": "fight",
+      "pos": "n",
+      "definition": "an intense verbal dispute",
+      "sourceBranches": [
+        "an intense verbal dispute"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a heated argument in which people exchange angry words.",
+      "scope": "This is not a physical brawl or a battle; it is a fierce argument carried on in words.",
+      "examples": [
+        "The couple had a bitter fight over money last night.",
+        "They got into a shouting fight over the phone about the unpaid rent."
+      ],
+      "branchCoverage": [
+        "an intense verbal dispute -> a heated argument in which people exchange angry words"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fight%2:41:10:: -> work hard and aggressively to gain something; fight%1:10:00:: -> an angry argument",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2's 'a fight broke out' suggests a physical brawl, not a verbal dispute; replace with a clearly verbal row."
+    },
+    {
+      "senseId": "fine%3:00:00::",
+      "lemma": "fine",
+      "pos": "a",
+      "definition": "of textures that are smooth to the touch or substances consisting of relatively small particles",
+      "sourceBranches": [
+        "of textures that are smooth to the touch or substances consisting of relatively small particles"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "smooth when you touch it, or made up of very small grains or bits.",
+      "scope": "This is not praise for excellence or high quality; it concerns physical texture or the size of particles.",
+      "examples": [
+        "Sift the flour until it is fine and free of lumps.",
+        "The fabric has a fine, soft weave that feels cool against the skin."
+      ],
+      "branchCoverage": [
+        "of textures that are smooth to the touch or substances consisting of relatively small particles -> smooth when you touch it, or made up of very small grains or bits"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fine%3:00:00:: -> made of very small particles or smooth to the touch; fine%5:00:00:elegant:00 -> showing elegance, refinement, or high accomplishment",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fine%5:00:00:elegant:00",
+      "lemma": "fine",
+      "pos": "a",
+      "definition": "characterized by elegance or refinement or accomplishment",
+      "sourceBranches": [
+        "characterized by elegance or refinement or accomplishment"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "showing good taste, polished manners, or a high level of skill and achievement.",
+      "scope": "This is not about small particles or smooth texture; it praises taste, style, or achievement.",
+      "examples": [
+        "She gave a fine performance of the violin concerto.",
+        "The hotel is known for its fine dining and attentive service."
+      ],
+      "branchCoverage": [
+        "characterized by elegance or refinement or accomplishment -> showing good taste, polished manners, or a high level of skill and achievement"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fine%3:00:00:: -> made of very small particles or smooth to the touch; fine%5:00:00:elegant:00 -> showing elegance, refinement, or high accomplishment",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "force%2:32:00::",
+      "lemma": "force",
+      "pos": "v",
+      "definition": "impose urgently, importunately, or inexorably",
+      "sourceBranches": [
+        "impose urgently, importunately, or inexorably"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make someone accept something by pressing them hard and refusing to let up.",
+      "scope": "This is not physical shoving, squeezing into a space, or pushing someone into an action or state; it is imposing demands or views with relentless pressure.",
+      "examples": [
+        "He forced his opinions on everyone at the dinner table.",
+        "The government forced the new rules on small businesses with no consultation."
+      ],
+      "branchCoverage": [
+        "impose urgently, importunately, or inexorably -> make someone accept something by pressing them hard and refusing to let up"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "force%2:32:00:: -> make someone do something by urgent pressure; force%2:35:00:: -> squeeze something into a tight space; force%2:35:02:: -> push someone into an action or state; force%2:35:05:: -> do something by using physical power; force%2:35:03:: -> take something away by using power",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss's 'or do something' overlaps the force-into-a-state sense; restrict to imposing views or demands and exclude that sense in scope."
+    },
+    {
+      "senseId": "force%2:35:00::",
+      "lemma": "force",
+      "pos": "v",
+      "definition": "squeeze like a wedge into a tight space",
+      "sourceBranches": [
+        "squeeze like a wedge into a tight space"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "squeeze something into a narrow, tight opening, the way a wedge, a pointed block used to split or grip, is driven in",
+      "scope": "This sense is about pressing an object into a confined gap, not about pushing a person toward an action or state, not about acting with physical power in general, and not about taking something away.",
+      "examples": [
+        "She forced the key into the lock and turned it.",
+        "He forced the cork back into the bottle with his thumb."
+      ],
+      "branchCoverage": [
+        "squeeze like a wedge into a tight space -> squeeze something into a narrow, tight opening, the way a wedge, a pointed block used to split or grip, is driven in"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "force%2:32:00:: -> make someone do something by urgent pressure; force%2:35:00:: -> squeeze something into a tight space; force%2:35:02:: -> push someone into an action or state; force%2:35:05:: -> do something by using physical power; force%2:35:03:: -> take something away by using power",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "force%2:35:02::",
+      "lemma": "force",
+      "pos": "v",
+      "definition": "force into or from an action or state, either physically or metaphorically",
+      "sourceBranches": [
+        "force into or from an action or state, either physically or metaphorically"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make a person or thing go into or come out of an activity or condition, either by physical pressure or in a non-literal, figurative way",
+      "scope": "This sense is about moving someone into or out of a state, not about making a person perform a particular act under urgent pressure, and not about taking something from someone.",
+      "examples": [
+        "The injury forced him out of the final.",
+        "Rising costs have forced many small shops into debt."
+      ],
+      "branchCoverage": [
+        "force into or from an action or state, either physically or metaphorically -> make a person or thing go into or come out of an activity or condition, either by physical pressure or in a non-literal, figurative way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "force%2:32:00:: -> make someone do something by urgent pressure; force%2:35:00:: -> squeeze something into a tight space; force%2:35:02:: -> push someone into an action or state; force%2:35:05:: -> do something by using physical power; force%2:35:03:: -> take something away by using power",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "force%2:35:05::",
+      "lemma": "force",
+      "pos": "v",
+      "definition": "do forcibly; exert force",
+      "sourceBranches": [
+        "do forcibly",
+        "exert force"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "carry out an action with physical power, or put physical power to work",
+      "scope": "This sense is about applying bodily strength to do something, not about squeezing an object into a gap, not about taking something away from someone, and not about making a person act.",
+      "examples": [
+        "Burglars forced the lock on the side gate.",
+        "She forced the door open with her shoulder."
+      ],
+      "branchCoverage": [
+        "do forcibly -> carry out an action with physical power",
+        "exert force -> put physical power to work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "force%2:32:00:: -> make someone do something by urgent pressure; force%2:35:00:: -> squeeze something into a tight space; force%2:35:02:: -> push someone into an action or state; force%2:35:05:: -> do something by using physical power; force%2:35:03:: -> take something away by using power",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "force%2:35:03::",
+      "lemma": "force",
+      "pos": "v",
+      "definition": "take by force",
+      "sourceBranches": [
+        "take by force"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to capture a place or position by using military power.",
+      "scope": "This is taking a place by force, not robbing something from a person, not doing an action with physical strength in general, and not pressing an object into a narrow gap.",
+      "examples": [
+        "The rebels forced the city gates at dawn.",
+        "Troops forced the bridge and cut the supply line."
+      ],
+      "branchCoverage": [
+        "take by force -> to capture a place or position by using military power"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "force%2:32:00:: -> make someone do something by urgent pressure; force%2:35:00:: -> squeeze something into a tight space; force%2:35:02:: -> push someone into an action or state; force%2:35:05:: -> do something by using physical power; force%2:35:03:: -> take something away by using power",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Wrong sense: OEWN's 'take by force' example is 'Storm the fort' (capturing a place), not robbing a person. Rewrite gloss and both examples."
+    },
+    {
+      "senseId": "issue%1:04:01::",
+      "lemma": "issue",
+      "pos": "n",
+      "definition": "the act of providing an item for general use or for official purposes (usually in quantity)",
+      "sourceBranches": [
+        "the act of providing an item for general use or for official purposes (usually in quantity)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of giving out something, often in large numbers, so it can be used generally or for an official purpose",
+      "scope": "This sense names the act of handing things out, not the verb for writing and giving out a document, and not a subject or problem under discussion.",
+      "examples": [
+        "The issue of new passports was delayed by a computer failure.",
+        "The issue of uniforms to new recruits takes place on the first day."
+      ],
+      "branchCoverage": [
+        "the act of providing an item for general use or for official purposes (usually in quantity) -> the act of giving out something, often in large numbers, so it can be used generally or for an official purpose"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "issue%1:04:01:: -> the act of giving out something for use or official purposes; issue%2:32:02:: -> write and hand out something official",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "issue%2:32:02::",
+      "lemma": "issue",
+      "pos": "v",
+      "definition": "make out and issue",
+      "sourceBranches": [
+        "make out and issue"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "write out and give out a document, such as a licence, ticket, or cheque",
+      "scope": "This sense is the verb for handing out a document, not the noun for the act of giving things out, and not announcing something publicly.",
+      "examples": [
+        "The embassy issued her a new passport within a week.",
+        "The court issued a warrant for his arrest."
+      ],
+      "branchCoverage": [
+        "make out and issue -> write out and give out a document, such as a licence, ticket, or cheque"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "issue%1:04:01:: -> the act of giving out something for use or official purposes; issue%2:32:02:: -> write and hand out something official",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'official' beyond 'make out and issue'; OEWN also covers cheques. Say 'write out and give out a document'."
+    },
+    {
+      "senseId": "rest%1:10:00::",
+      "lemma": "rest",
+      "pos": "n",
+      "definition": "a musical notation indicating a silence of a specified duration",
+      "sourceBranches": [
+        "a musical notation indicating a silence of a specified duration"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a written sign in music showing that there should be no sound for a set length of time",
+      "scope": "This sense is the printed symbol for silence in music, not a period of sleep or relaxation, and not a gentle word for death.",
+      "examples": [
+        "The score marks a two-beat rest before the violins enter.",
+        "In this exercise you must count the rests as well as the notes."
+      ],
+      "branchCoverage": [
+        "a musical notation indicating a silence of a specified duration -> a written sign in music showing that there should be no sound for a set length of time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rest%1:10:00:: -> a written musical sign for a set period of silence; rest%1:26:01:: -> a gentle word for death",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rest%1:26:01::",
+      "lemma": "rest",
+      "pos": "n",
+      "definition": "euphemisms for death (based on an analogy between lying in a bed and in a tomb)",
+      "sourceBranches": [
+        "euphemisms for death (based on an analogy between lying in a bed and in a tomb)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a mild or indirect word for death, comparing lying in bed with lying in a grave",
+      "scope": "This sense is a gentle way of speaking about death, not the printed symbol for silence in music and not a period of sleep or relaxation.",
+      "examples": [
+        "She was laid to rest beside her parents in the village churchyard.",
+        "The old fisherman had gone to his rest after a long life at sea."
+      ],
+      "branchCoverage": [
+        "euphemisms for death (based on an analogy between lying in a bed and in a tomb) -> a mild or indirect word for death, comparing lying in bed with lying in a grave"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rest%1:10:00:: -> a written musical sign for a set period of silence; rest%1:26:01:: -> a gentle word for death",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "running%5:00:00:functioning:00",
+      "lemma": "running",
+      "pos": "a",
+      "definition": "(of e.g. a machine) performing or capable of performing",
+      "sourceBranches": [
+        "(of e.g. a machine) performing or capable of performing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "said of a machine: working now, or able to work",
+      "scope": "This sense describes a machine that works, not a person taking part in a foot race, and not an action done while moving quickly on foot.",
+      "examples": [
+        "The old pump is still in running order after thirty years.",
+        "Make sure the engine is in running order before you engage the blades."
+      ],
+      "branchCoverage": [
+        "(of e.g. a machine) performing or capable of performing -> said of a machine: working now, or able to work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "running%5:00:00:functioning:00 -> working or able to work, said of a machine; running%1:04:00:: -> taking part in a race on foot; running%3:00:01:: -> done or started while running",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Both examples use the progressive verb ('is running'), not the adjective; use 'a running engine' or 'in running order'."
+    },
+    {
+      "senseId": "running%1:04:00::",
+      "lemma": "running",
+      "pos": "n",
+      "definition": "the act of participating in an athletic competition involving running on a track",
+      "sourceBranches": [
+        "the act of participating in an athletic competition involving running on a track"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of taking part in an athletic race on foot on a track",
+      "scope": "This sense is the sport of racing on foot, not a machine that is working and not an action carried out while moving quickly.",
+      "examples": [
+        "He took up competitive running at school and now races over 400 metres.",
+        "Track running puts far more strain on the legs than road racing."
+      ],
+      "branchCoverage": [
+        "the act of participating in an athletic competition involving running on a track -> the act of taking part in an athletic race on foot on a track"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "running%5:00:00:functioning:00 -> working or able to work, said of a machine; running%1:04:00:: -> taking part in a race on foot; running%3:00:01:: -> done or started while running",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "running%3:00:01::",
+      "lemma": "running",
+      "pos": "a",
+      "definition": "executed or initiated by running",
+      "sourceBranches": [
+        "executed or initiated by running"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "done or begun while moving on foot faster than walking",
+      "scope": "This sense describes an action carried out on the move, not a machine that is working and not the sport of racing on a track.",
+      "examples": [
+        "He took a running jump at the low wall.",
+        "The sprinter was at full speed thanks to a running start."
+      ],
+      "branchCoverage": [
+        "executed or initiated by running -> done or begun while moving on foot faster than walking"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "running%5:00:00:functioning:00 -> working or able to work, said of a machine; running%1:04:00:: -> taking part in a race on foot; running%3:00:01:: -> done or started while running",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "space%1:10:00::",
+      "lemma": "space",
+      "pos": "n",
+      "definition": "a blank character used to separate successive words in writing or printing",
+      "sourceBranches": [
+        "a blank character used to separate successive words in writing or printing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an empty character, such as the one the long bar on a keyboard types, that keeps each word apart from the next in writing or printing",
+      "scope": "This sense is the blank character between words, not an empty area or room, and not the region beyond the earth.",
+      "examples": [
+        "There is an extra space before the word \"and\" in that line.",
+        "Use a single space after each full stop."
+      ],
+      "branchCoverage": [
+        "a blank character used to separate successive words in writing or printing -> an empty character, such as the one the long bar on a keyboard types, that keeps each word apart from the next in writing or printing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "term%1:09:00::",
+      "lemma": "term",
+      "pos": "n",
+      "definition": "any distinct quantity contained in a polynomial",
+      "sourceBranches": [
+        "any distinct quantity contained in a polynomial"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one of the separate quantities, such as 3x or 5, that are added together in a polynomial",
+      "scope": "This sense is one of the added quantities in a mathematical expression, not a word or phrase with a fixed meaning, and not a fixed period of time.",
+      "examples": [
+        "In 2x + 5, the first term is 2x and the second is 5.",
+        "Combine the like terms before you solve the equation."
+      ],
+      "branchCoverage": [
+        "any distinct quantity contained in a polynomial -> one of the separate quantities, such as 3x or 5, that are added together in a polynomial"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "term%1:09:00:: -> any separate quantity in a polynomial; term%1:10:01:: -> one of the main phrases in a logical statement",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss drops 'polynomial' for vague 'expression of several parts'. Keep it: 'one of the separate quantities, like 3x or 5, added together in a polynomial.'"
+    },
+    {
+      "senseId": "term%1:10:01::",
+      "lemma": "term",
+      "pos": "n",
+      "definition": "one of the substantive phrases in a logical proposition",
+      "sourceBranches": [
+        "one of the substantive phrases in a logical proposition"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one of the meaningful word groups that form a statement in logic, as opposed to connecting words",
+      "scope": "Not a word or phrase in everyday speech, and not a period of time or a condition in an agreement.",
+      "examples": [
+        "In the statement 'every swan is white', 'every swan' is the subject term.",
+        "The logician split the sentence into two terms joined by 'and'."
+      ],
+      "branchCoverage": [
+        "one of the substantive phrases in a logical proposition -> one of the meaningful word groups that form a statement in logic"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "term%1:09:00:: -> any separate quantity in a polynomial; term%1:10:01:: -> one of the main phrases in a logical statement",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "date%1:13:00::",
+      "lemma": "date",
+      "pos": "n",
+      "definition": "sweet edible fruit of the date palm with a single long woody seed",
+      "sourceBranches": [
+        "sweet edible fruit of the date palm with a single long woody seed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "sweet fruit that can be eaten, from a kind of palm tree, with one long hard seed inside",
+      "scope": "Not the day or year when something happens, and not a romantic outing.",
+      "examples": [
+        "She stuffed the chicken with chopped dates and almonds.",
+        "Many families break their fast with a few dates and a glass of water."
+      ],
+      "branchCoverage": [
+        "sweet edible fruit of the date palm with a single long woody seed -> sweet fruit that can be eaten, from a kind of palm tree, with one long hard seed inside"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "date%1:13:00:: -> the sweet fruit of the date palm, with one long seed; date%1:28:03:: -> a particular day, month, or year",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "date%1:28:03::",
+      "lemma": "date",
+      "pos": "n",
+      "definition": "the particular day, month, or year (usually according to the Gregorian calendar) that an event occurred",
+      "sourceBranches": [
+        "the particular day, month, or year (usually according to the Gregorian calendar) that an event occurred"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the exact day, month, or year when something happened, usually counted by the calendar used in most countries today",
+      "scope": "Not the sweet fruit of a palm tree, and not a romantic meeting.",
+      "examples": [
+        "The date of the wedding has not been fixed yet.",
+        "Historians still argue about the exact date of the battle."
+      ],
+      "branchCoverage": [
+        "the particular day, month, or year (usually according to the Gregorian calendar) that an event occurred -> the exact day, month, or year when something happened, usually counted by the calendar used in most countries today"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "date%1:13:00:: -> the sweet fruit of the date palm, with one long seed; date%1:28:03:: -> a particular day, month, or year",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "land%1:21:00::",
+      "lemma": "land",
+      "pos": "n",
+      "definition": "extensive landed property (especially in the country) retained by the owner for their own use",
+      "sourceBranches": [
+        "extensive landed property (especially in the country) retained by the owner for their own use"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a large area of ground owned by someone, often in the countryside, kept by the owner for their own use",
+      "scope": "Not a country or nation, and not the solid part of the earth's surface.",
+      "examples": [
+        "The family has held this land for five generations.",
+        "The duke's land stretches from the river all the way to the hills."
+      ],
+      "branchCoverage": [
+        "extensive landed property (especially in the country) retained by the owner for their own use -> a large area of ground owned by someone, often in the countryside, kept by the owner for their own use"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "project%2:31:00::",
+      "lemma": "project",
+      "pos": "v",
+      "definition": "present for consideration, examination, criticism, etc.",
+      "sourceBranches": [
+        "present for consideration, examination, criticism, etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to put something forward so that other people can think about it, examine it, or say what is wrong with it",
+      "scope": "Not to show a picture on a screen, and not to draw a flat technical shape.",
+      "examples": [
+        "The mayor projected a vision of a greener city in her speech.",
+        "The company projected a new strategy to its investors."
+      ],
+      "branchCoverage": [
+        "present for consideration, examination, criticism, etc -> to put something forward so that other people can think about it, examine it, or say what is wrong with it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "project%2:31:00:: -> present something for others to consider or judge; project%2:36:08:: -> draw a projection of something; project%2:39:01:: -> show an image on a screen",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "project%2:36:08::",
+      "lemma": "project",
+      "pos": "v",
+      "definition": "draw a projection of",
+      "sourceBranches": [
+        "draw a projection of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to draw a flat figure that shows a shape or solid object as seen from one direction, the way a map shows part of the earth",
+      "scope": "Not to show an image with a machine on a screen, and not to put an idea forward for others to judge.",
+      "examples": [
+        "The students projected the cube onto three flat planes.",
+        "Map makers must decide how to project the curved surface of the earth onto paper."
+      ],
+      "branchCoverage": [
+        "draw a projection of -> to draw a flat figure that shows a shape or solid object as seen from one direction, the way a map shows part of the earth"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "project%2:31:00:: -> present something for others to consider or judge; project%2:36:08:: -> draw a projection of something; project%2:39:01:: -> show an image on a screen",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "project%2:39:01::",
+      "lemma": "project",
+      "pos": "v",
+      "definition": "project on a screen",
+      "sourceBranches": [
+        "project on a screen"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make a picture, film, or computer image appear on a screen",
+      "scope": "Not to draw a flat technical shape, and not to put an idea forward for others to judge.",
+      "examples": [
+        "The teacher projected the slides onto the whiteboard.",
+        "They projected the film onto the side of the building."
+      ],
+      "branchCoverage": [
+        "project on a screen -> to make a picture, film, or computer image appear on a screen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "project%2:31:00:: -> present something for others to consider or judge; project%2:36:08:: -> draw a projection of something; project%2:39:01:: -> show an image on a screen",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shot%1:04:07::",
+      "lemma": "shot",
+      "pos": "n",
+      "definition": "the launching of a missile or spacecraft to a specified destination",
+      "sourceBranches": [
+        "the launching of a missile or spacecraft to a specified destination"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of sending a missile or spacecraft into the air toward a chosen place",
+      "scope": "Not the firing of a gun at a person, and not a throw of a ball.",
+      "examples": [
+        "The Apollo 11 moon shot lifted off from Florida in 1969.",
+        "The test flight was a missile shot aimed at a target in the Pacific."
+      ],
+      "branchCoverage": [
+        "the launching of a missile or spacecraft to a specified destination -> the act of sending a missile or spacecraft into the air toward a chosen place"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "shot%1:04:07:: -> the firing of a missile or spacecraft toward a target; shot%1:10:00:: -> a hostile remark aimed at someone; shot%1:04:10:: -> a throw of the ball toward the basket",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shot%1:10:00::",
+      "lemma": "shot",
+      "pos": "n",
+      "definition": "an aggressive remark directed at a person like a missile and intended to have a telling effect",
+      "sourceBranches": [
+        "an aggressive remark directed at a person like a missile and intended to have a telling effect"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a hostile comment aimed directly at a person, like a weapon, meant to hit home and have a strong effect",
+      "scope": "Not a throw of a ball, and not the launching of a rocket.",
+      "examples": [
+        "He took a parting shot at his old boss on the way out.",
+        "Her column included a sharp shot at a rival company."
+      ],
+      "branchCoverage": [
+        "an aggressive remark directed at a person like a missile and intended to have a telling effect -> a hostile comment aimed directly at a person, like a weapon, meant to hit home and have a strong effect"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "shot%1:04:07:: -> the firing of a missile or spacecraft toward a target; shot%1:10:00:: -> a hostile remark aimed at someone; shot%1:04:10:: -> a throw of the ball toward the basket",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shot%1:04:10::",
+      "lemma": "shot",
+      "pos": "n",
+      "definition": "throwing the basketball toward the hoop",
+      "sourceBranches": [
+        "throwing the basketball toward the hoop"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of throwing the ball toward the basket in basketball",
+      "scope": "Not the launching of a rocket, and not a hostile remark.",
+      "examples": [
+        "He missed the final shot and the game went into overtime.",
+        "Her jump shot has improved a lot this season."
+      ],
+      "branchCoverage": [
+        "throwing the basketball toward the hoop -> the act of throwing the ball toward the basket in basketball"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "shot%1:04:07:: -> the firing of a missile or spacecraft toward a target; shot%1:10:00:: -> a hostile remark aimed at someone; shot%1:04:10:: -> a throw of the ball toward the basket",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "strong%5:00:00:alcoholic:00",
+      "lemma": "strong",
+      "pos": "a",
+      "definition": "being distilled rather than fermented; having a high alcoholic content",
+      "sourceBranches": [
+        "being distilled rather than fermented",
+        "having a high alcoholic content"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of a drink: made by distilling, a process of heating and cooling vapor, rather than by fermenting, and containing a lot of alcohol",
+      "scope": "Not about physical power or a forceful effect, and not about being safe from attack.",
+      "examples": [
+        "The bar serves strong spirits alongside wine and beer.",
+        "A single glass of that strong liquor was enough to make him sleepy."
+      ],
+      "branchCoverage": [
+        "being distilled rather than fermented -> made by distilling, a process of heating and cooling vapor, rather than by fermenting",
+        "having a high alcoholic content -> containing a lot of alcohol"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "strong%5:00:00:alcoholic:00 -> distilled rather than fermented, with a lot of alcohol; strong%5:00:00:invulnerable:00 -> safe from attack and impossible to tamper with; strong%3:00:04:: -> having a powerful effect on the body or in chemistry; strong%5:00:00:forceful:00 -> powerful and certain",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "strong%5:00:00:invulnerable:00",
+      "lemma": "strong",
+      "pos": "a",
+      "definition": "immune to attack; incapable of being tampered with",
+      "sourceBranches": [
+        "immune to attack",
+        "incapable of being tampered with"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "safe from attack and impossible for anyone to interfere with or alter",
+      "scope": "Not about a drink with a lot of alcohol, and not about physical power or a forceful effect.",
+      "examples": [
+        "The fortress was strong enough to resist every attack.",
+        "The system's defenses are strong, and no outsider has managed to tamper with them."
+      ],
+      "branchCoverage": [
+        "immune to attack -> safe from attack",
+        "incapable of being tampered with -> impossible for anyone to interfere with or alter"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "strong%5:00:00:alcoholic:00 -> distilled rather than fermented, with a lot of alcohol; strong%5:00:00:invulnerable:00 -> safe from attack and impossible to tamper with; strong%3:00:04:: -> having a powerful effect on the body or in chemistry; strong%5:00:00:forceful:00 -> powerful and certain",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "strong%3:00:04::",
+      "lemma": "strong",
+      "pos": "a",
+      "definition": "having a strong physiological or chemical effect",
+      "sourceBranches": [
+        "having a strong physiological or chemical effect"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "having a powerful effect on the body or in chemical reactions",
+      "scope": "This means a powerful effect on the body or in chemical processes, not physical power, safety from attack, or a drink's alcohol content.",
+      "examples": [
+        "The doctor warned that the drug was too strong for a child of that age.",
+        "This acid is strong enough to burn through metal."
+      ],
+      "branchCoverage": [
+        "having a strong physiological or chemical effect -> having a powerful effect on the body or in chemical reactions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "strong%5:00:00:alcoholic:00 -> distilled rather than fermented, with a lot of alcohol; strong%5:00:00:invulnerable:00 -> safe from attack and impossible to tamper with; strong%3:00:04:: -> having a powerful effect on the body or in chemistry; strong%5:00:00:forceful:00 -> powerful and certain",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "strong%5:00:00:forceful:00",
+      "lemma": "strong",
+      "pos": "a",
+      "definition": "strong and sure",
+      "sourceBranches": [
+        "strong and sure"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "powerful and steady, so that it can be relied on",
+      "scope": "This sense means forceful and certain together, not a powerful effect on the body or in chemistry, safety from attack, or a drink with a lot of alcohol.",
+      "examples": [
+        "He kept a strong and sure grip on the rope.",
+        "Her voice was strong and sure as she gave the order."
+      ],
+      "branchCoverage": [
+        "strong and sure -> powerful and steady, so that it can be relied on"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "strong%5:00:00:alcoholic:00 -> distilled rather than fermented, with a lot of alcohol; strong%5:00:00:invulnerable:00 -> safe from attack and impossible to tamper with; strong%3:00:04:: -> having a powerful effect on the body or in chemistry; strong%5:00:00:forceful:00 -> powerful and certain",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Convincing' is added beyond 'strong and sure'; say 'strong and steady, so it can be relied on.' Replace definition-restating examples with 'a strong, steady grip'."
+    },
+    {
+      "senseId": "account%1:10:02::",
+      "lemma": "account",
+      "pos": "n",
+      "definition": "an itemized statement of money owed for goods shipped or services rendered",
+      "sourceBranches": [
+        "an itemized statement of money owed for goods shipped or services rendered"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a bill that lists each charge for goods delivered or work done and shows the money owed",
+      "scope": "This is a bill of charges for goods or work, not a description that explains something or a verb meaning to justify conduct.",
+      "examples": [
+        "The hotel emailed the account after checkout.",
+        "Please settle your account within thirty days of the invoice date."
+      ],
+      "branchCoverage": [
+        "an itemized statement of money owed for goods shipped or services rendered -> a bill that lists each charge for goods delivered or work done and shows the money owed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "account%1:10:02:: -> a bill listing money owed for goods or services; account%1:10:04:: -> a description that makes something understandable; account%2:32:00:: -> give a justifying explanation",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "First example is unidiomatic; a hotel leaves a bill, not 'the account' under a door. Try 'The hotel emailed the account after checkout.'"
+    },
+    {
+      "senseId": "account%1:10:04::",
+      "lemma": "account",
+      "pos": "n",
+      "definition": "a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.",
+      "sourceBranches": [
+        "a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a description that explains how something is built, how it works, or the conditions around it, so that it can be understood",
+      "scope": "This is a description that explains how something is built, works or came about, not a bill of charges or a defence of someone's conduct.",
+      "examples": [
+        "Her account of the accident matched what the witnesses saw.",
+        "The manual gives a clear account of how the pump works."
+      ],
+      "branchCoverage": [
+        "a statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc -> a description that explains how something is built, how it works, or the conditions around it, so that it can be understood"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "account%1:10:02:: -> a bill listing money owed for goods or services; account%1:10:04:: -> a description that makes something understandable; account%2:32:00:: -> give a justifying explanation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "account%2:32:00::",
+      "lemma": "account",
+      "pos": "v",
+      "definition": "furnish a justifying analysis or explanation",
+      "sourceBranches": [
+        "furnish a justifying analysis or explanation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "give a reasoned explanation that shows why something happened or why what was done was right",
+      "scope": "This is the verb meaning to explain or justify, not the noun for a bill of charges or for a description of how something works.",
+      "examples": [
+        "The manager was called in to account for the missing funds.",
+        "How do you account for the sudden fall in sales?"
+      ],
+      "branchCoverage": [
+        "furnish a justifying analysis or explanation -> give a reasoned explanation that shows why something happened or why what was done was right"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "account%1:10:02:: -> a bill listing money owed for goods or services; account%1:10:04:: -> a description that makes something understandable; account%2:32:00:: -> give a justifying explanation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "include%2:41:03::",
+      "lemma": "include",
+      "pos": "v",
+      "definition": "allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of",
+      "sourceBranches": [
+        "allow participation in or the right to be part of",
+        "permit to exercise the rights, functions, and responsibilities of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "allow someone to take part in or belong to something, and let them exercise the rights, roles and responsibilities that go with it",
+      "scope": "This sense is about letting a person join and exercise rights, not about a group or list containing something as one of its parts.",
+      "examples": [
+        "The club voted to include younger members in the decision-making process.",
+        "The new pension rules include part-time staff in the scheme, giving them the same rights as full-time workers."
+      ],
+      "branchCoverage": [
+        "allow participation in or the right to be part of -> allow someone to take part in or belong to something",
+        "permit to exercise the rights, functions, and responsibilities of -> let them exercise the rights, roles and responsibilities that go with it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "period%1:10:00::",
+      "lemma": "period",
+      "pos": "n",
+      "definition": "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations",
+      "sourceBranches": [
+        "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the punctuation mark written as a dot (.), used to show a statement has ended or placed after an abbreviation",
+      "scope": "This is the punctuation mark, not a length of time such as a school term or a historical era.",
+      "examples": [
+        "Put a period at the end of every sentence in your essay.",
+        "In American usage, the abbreviation 'Dr' is written with a period after it."
+      ],
+      "branchCoverage": [
+        "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations -> the punctuation mark written as a dot (.), used to show a statement has ended or placed after an abbreviation"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "position%1:04:04::",
+      "lemma": "position",
+      "pos": "n",
+      "definition": "the act of positing; an assumption taken as a postulate or axiom",
+      "sourceBranches": [
+        "the act of positing",
+        "an assumption taken as a postulate or axiom"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of laying something down as a starting point, or a basic assumption accepted without proof and used as a basis for reasoning",
+      "scope": "This is a starting assumption laid down for reasoning, not a job, a side's opinion in a dispute, social rank, or the circumstances someone is in.",
+      "examples": [
+        "Euclid's geometry begins with the position that all right angles are equal.",
+        "The whole theory starts from the position that every event has a cause."
+      ],
+      "branchCoverage": [
+        "the act of positing -> the act of laying something down as a starting point",
+        "an assumption taken as a postulate or axiom -> a basic assumption accepted without proof and used as a basis for reasoning"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "position%1:04:04:: -> an assumption put forward as a starting point; position%1:04:03:: -> the job or role another person normally fills; position%1:10:00:: -> an opinion held against another in an argument; position%1:26:00:: -> a person's rank or standing compared with others; position%1:26:02:: -> the situation you find yourself in",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "position%1:04:03::",
+      "lemma": "position",
+      "pos": "n",
+      "definition": "the post or function properly or customarily occupied or served by another",
+      "sourceBranches": [
+        "the post or function properly or customarily occupied or served by another"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the job or role that another person rightly or usually holds and carries out",
+      "scope": "This is the job or role that another person holds, not a person's rank in society, a stated opinion, or the situation someone is in.",
+      "examples": [
+        "She was asked to fill the position left vacant by the retiring teacher.",
+        "The young officer moved into the position his mentor had held for years."
+      ],
+      "branchCoverage": [
+        "the post or function properly or customarily occupied or served by another -> the job or role that another person rightly or usually holds and carries out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "position%1:04:04:: -> an assumption put forward as a starting point; position%1:04:03:: -> the job or role another person normally fills; position%1:10:00:: -> an opinion held against another in an argument; position%1:26:00:: -> a person's rank or standing compared with others; position%1:26:02:: -> the situation you find yourself in",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "position%1:10:00::",
+      "lemma": "position",
+      "pos": "n",
+      "definition": "an opinion that is held in opposition to another in an argument or dispute",
+      "sourceBranches": [
+        "an opinion that is held in opposition to another in an argument or dispute"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a view held by one side in an argument or disagreement, set against the view of the other side",
+      "scope": "This is one side's opinion set against another's in a dispute, not a job, a starting assumption, social rank, or a person's circumstances.",
+      "examples": [
+        "The union's position on pay has not changed since the talks began.",
+        "Each side restated its position before the judge."
+      ],
+      "branchCoverage": [
+        "an opinion that is held in opposition to another in an argument or dispute -> a view held by one side in an argument or disagreement, set against the view of the other side"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "position%1:04:04:: -> an assumption put forward as a starting point; position%1:04:03:: -> the job or role another person normally fills; position%1:10:00:: -> an opinion held against another in an argument; position%1:26:00:: -> a person's rank or standing compared with others; position%1:26:02:: -> the situation you find yourself in",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "position%1:26:00::",
+      "lemma": "position",
+      "pos": "n",
+      "definition": "the relative position or standing of things or especially persons in a society",
+      "sourceBranches": [
+        "the relative position or standing of things or especially persons in a society"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the rank or standing of a person, or less often of a thing, compared with others in society",
+      "scope": "This is rank or standing compared with others in a society, not a job, an opinion in an argument, or the situation someone happens to be in.",
+      "examples": [
+        "Her family's position in society gave her access to the best schools.",
+        "The award raised the young scientist's position among his peers."
+      ],
+      "branchCoverage": [
+        "the relative position or standing of things or especially persons in a society -> the rank or standing of a person, or less often of a thing, compared with others in society"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "position%1:04:04:: -> an assumption put forward as a starting point; position%1:04:03:: -> the job or role another person normally fills; position%1:10:00:: -> an opinion held against another in an argument; position%1:26:00:: -> a person's rank or standing compared with others; position%1:26:02:: -> the situation you find yourself in",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "position%1:26:02::",
+      "lemma": "position",
+      "pos": "n",
+      "definition": "a condition or position in which you find yourself",
+      "sourceBranches": [
+        "a condition or position in which you find yourself"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the situation or condition you are in",
+      "scope": "This is the circumstances a person is in, not social rank, a job, a starting assumption, or an opinion held in an argument.",
+      "examples": [
+        "Losing her job put her in a position where she had to sell the house.",
+        "The failed talks left both sides in a difficult position."
+      ],
+      "branchCoverage": [
+        "a condition or position in which you find yourself -> the situation or condition you are in"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "position%1:04:04:: -> an assumption put forward as a starting point; position%1:04:03:: -> the job or role another person normally fills; position%1:10:00:: -> an opinion held against another in an argument; position%1:26:00:: -> a person's rank or standing compared with others; position%1:26:02:: -> the situation you find yourself in",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

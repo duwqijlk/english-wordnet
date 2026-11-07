@@ -1,0 +1,1196 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 65,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 43,
+      "of": 50,
+      "rate": 0.86
+    },
+    "selfApproved": [
+      "pass%2:42:08::",
+      "card%1:06:01::",
+      "straight%5:00:00:conventional:01",
+      "culture%1:26:00::",
+      "standard%1:06:02::",
+      "charge%2:32:00::"
+    ],
+    "selfDeferred": [
+      "charge%2:40:05::"
+    ],
+    "lineage": {
+      "draft": "0dd8bf067e5afaaaeccdf74a2e89f8b4a59d7424125e73d79d849b02721d7b21"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "pass%1:10:02::",
+      "lemma": "pass",
+      "pos": "n",
+      "definition": "an automatic advance to the next round in a tournament without playing an opponent",
+      "sourceBranches": [
+        "an automatic advance to the next round in a tournament without playing an opponent"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an automatic move up to the next round of a tournament when there is no opponent to play",
+      "scope": "This is a free place in a competition, not a document giving permission to go somewhere.",
+      "examples": [
+        "She got a pass to the final when her opponent withdrew with an injury.",
+        "Because only seven teams entered, the top seed received a pass into the second round."
+      ],
+      "branchCoverage": [
+        "an automatic advance to the next round in a tournament without playing an opponent -> an automatic move up to the next round of a tournament when there is no opponent to play"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pass%1:10:02:: -> an automatic advance to the next round of a tournament; pass%1:10:03:: -> a document giving permission to go somewhere; pass%2:30:11:: -> die and lose all bodily functions; pass%2:42:08:: -> stretch over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pass%1:10:03::",
+      "lemma": "pass",
+      "pos": "n",
+      "definition": "a document indicating permission to do something without restrictions",
+      "sourceBranches": [
+        "a document indicating permission to do something without restrictions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an official paper that shows you may do something, with no limits placed on it",
+      "scope": "This is written permission, not a free place in a competition.",
+      "examples": [
+        "You need a pass to enter the research wing of the library.",
+        "The guard checked our passes at the gate before letting us in."
+      ],
+      "branchCoverage": [
+        "a document indicating permission to do something without restrictions -> an official paper that shows you may do something, with no limits placed on it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pass%1:10:02:: -> an automatic advance to the next round of a tournament; pass%1:10:03:: -> a document giving permission to go somewhere; pass%2:30:11:: -> die and lose all bodily functions; pass%2:42:08:: -> stretch over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pass%2:30:11::",
+      "lemma": "pass",
+      "pos": "v",
+      "definition": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "sourceBranches": [
+        "pass from physical life and lose all bodily attributes and functions necessary to sustain life"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to die, leaving the body and losing all physical features and every working function needed to stay alive",
+      "scope": "This means dying, not moving past a place or handing something to another person.",
+      "examples": [
+        "Her grandfather passed away peacefully at home last winter.",
+        "The poet passed in 1890, leaving a small body of work."
+      ],
+      "branchCoverage": [
+        "pass from physical life and lose all bodily attributes and functions necessary to sustain life -> to die, leaving the body and losing all physical features and every working function needed to stay alive"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pass%1:10:02:: -> an automatic advance to the next round of a tournament; pass%1:10:03:: -> a document giving permission to go somewhere; pass%2:30:11:: -> die and lose all bodily functions; pass%2:42:08:: -> stretch over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pass%2:42:08::",
+      "lemma": "pass",
+      "pos": "v",
+      "definition": "stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point",
+      "sourceBranches": [
+        "stretch out over a distance, space, time, or scope",
+        "run or extend between two points or beyond a certain point"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to spread or reach across a length, an area, a period of time, or a range, going between two points or past a given point",
+      "scope": "This describes how far something spreads or reaches, not a person dying.",
+      "examples": [
+        "The pipeline passes across two hundred miles of open desert.",
+        "A narrow road passes over the mountain and down into the next valley."
+      ],
+      "branchCoverage": [
+        "stretch out over a distance, space, time, or scope -> to spread or reach across a length, an area, a period of time, or a range",
+        "run or extend between two points or beyond a certain point -> going between two points or past a given point"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pass%1:10:02:: -> an automatic advance to the next round of a tournament; pass%1:10:03:: -> a document giving permission to go somewhere; pass%2:30:11:: -> die and lose all bodily functions; pass%2:42:08:: -> stretch over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example shows a custom being handed down, a different sense; replace with a road or line extending across space or time."
+    },
+    {
+      "senseId": "professional%3:01:00::",
+      "lemma": "professional",
+      "pos": "a",
+      "definition": "of or relating to a profession",
+      "sourceBranches": [
+        "of or relating to a profession"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "connected with a kind of work that requires special training and formal qualifications",
+      "scope": "This describes a link to a trained occupation, not an activity carried out by its members.",
+      "examples": [
+        "She joined a professional body for engineers after graduating.",
+        "Professional standards in medicine are enforced by a national council."
+      ],
+      "branchCoverage": [
+        "of or relating to a profession -> connected with a kind of work that requires special training and formal qualifications"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "professional%3:01:00:: -> relating to a profession; professional%5:00:00:white-collar:00 -> done by members of a profession",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "professional%5:00:00:white-collar:00",
+      "lemma": "professional",
+      "pos": "a",
+      "definition": "engaged in by members of a profession",
+      "sourceBranches": [
+        "engaged in by members of a profession"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "carried out by people who hold a job requiring special training and formal recognition",
+      "scope": "This describes work done by such people, not a general link to the occupation itself.",
+      "examples": [
+        "The firm offers professional services to small businesses.",
+        "He took professional advice before signing the contract."
+      ],
+      "branchCoverage": [
+        "engaged in by members of a profession -> carried out by people who hold a job requiring special training and formal recognition"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "professional%3:01:00:: -> relating to a profession; professional%5:00:00:white-collar:00 -> done by members of a profession",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "risk%1:07:01::",
+      "lemma": "risk",
+      "pos": "n",
+      "definition": "the probability of being exposed to an infectious agent",
+      "sourceBranches": [
+        "the probability of being exposed to an infectious agent"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "how likely it is that a person will come into contact with a germ that causes disease",
+      "scope": "This is the chance of meeting a germ, not the danger of losing money.",
+      "examples": [
+        "Health workers face a high risk of exposure to the virus.",
+        "The risk of infection rises sharply in crowded rooms."
+      ],
+      "branchCoverage": [
+        "the probability of being exposed to an infectious agent -> how likely it is that a person will come into contact with a germ that causes disease"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sleep%1:26:01::",
+      "lemma": "sleep",
+      "pos": "n",
+      "definition": "euphemisms for death (based on an analogy between lying in a bed and in a tomb)",
+      "sourceBranches": [
+        "euphemisms for death (based on an analogy between lying in a bed and in a tomb)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a gentle way of saying death, comparing rest in a bed with rest in a grave",
+      "scope": "This means death, not the natural rest of the body at night.",
+      "examples": [
+        "The poem speaks of the eternal sleep that follows a long life.",
+        "After months of illness, he fell into his final sleep."
+      ],
+      "branchCoverage": [
+        "euphemisms for death (based on an analogy between lying in a bed and in a tomb) -> a gentle way of saying death, comparing rest in a bed with rest in a grave"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "table%1:17:00::",
+      "lemma": "table",
+      "pos": "n",
+      "definition": "flat tableland with steep edges",
+      "sourceBranches": [
+        "flat tableland with steep edges"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a raised area of land with a level top and steep sides",
+      "scope": "This is a raised landform, not a piece of furniture or a group of people sharing a meal.",
+      "examples": [
+        "Seen from the ridge, the table stretched for miles with sheer edges on every side.",
+        "Ranchers graze cattle on the high table above the valley."
+      ],
+      "branchCoverage": [
+        "flat tableland with steep edges -> a raised area of land with a level top and steep sides"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "table%1:17:00:: -> a flat raised area of land with steep sides; table%1:14:01:: -> a group of people assembled to eat together",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "table%1:14:01::",
+      "lemma": "table",
+      "pos": "n",
+      "definition": "a company of people assembled at a table for a meal or game",
+      "sourceBranches": [
+        "a company of people assembled at a table for a meal or game"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the whole group of people seated together for a meal or a game",
+      "scope": "This is a group of diners or players, not the furniture itself or a flat hill.",
+      "examples": [
+        "The whole table went quiet when the host raised his glass.",
+        "Our table won every round of cards that evening."
+      ],
+      "branchCoverage": [
+        "a company of people assembled at a table for a meal or game -> the whole group of people seated together for a meal or a game"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "table%1:17:00:: -> a flat raised area of land with steep sides; table%1:14:01:: -> a group of people assembled to eat together",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ball%1:11:00::",
+      "lemma": "ball",
+      "pos": "n",
+      "definition": "a lavish dance requiring formal attire",
+      "sourceBranches": [
+        "a lavish dance requiring formal attire"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a grand evening of dancing where guests must wear very formal clothes",
+      "scope": "This is a formal social dance, not a round toy or a game played with one.",
+      "examples": [
+        "She wore a long silk gown to the charity ball.",
+        "The debutantes were presented at the winter ball."
+      ],
+      "branchCoverage": [
+        "a lavish dance requiring formal attire -> a grand evening of dancing where guests must wear very formal clothes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ball%1:11:00:: -> a formal dance with fancy clothes; ball%1:06:02:: -> a round object used as a toy",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ball%1:06:02::",
+      "lemma": "ball",
+      "pos": "n",
+      "definition": "a spherical object used as a plaything",
+      "sourceBranches": [
+        "a spherical object used as a plaything"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a round object that children or players throw, kick, or bounce for fun",
+      "scope": "This is a toy you play with, not a formal dance.",
+      "examples": [
+        "The dog chased the ball across the lawn.",
+        "He kicked the ball into the net from thirty yards."
+      ],
+      "branchCoverage": [
+        "a spherical object used as a plaything -> a round object that children or players throw, kick, or bounce for fun"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ball%1:11:00:: -> a formal dance with fancy clothes; ball%1:06:02:: -> a round object used as a toy",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "box%1:06:04::",
+      "lemma": "box",
+      "pos": "n",
+      "definition": "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned",
+      "sourceBranches": [
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one of the marked spaces on a field for a bat-and-ball game where the hitter, the catcher, or the coaches stand",
+      "scope": "This is a marked area on a playing field, not a container for storing things or a difficult situation.",
+      "examples": [
+        "The coach argued with the umpire from the box near first base.",
+        "The catcher crouched in the box and signaled for a fastball."
+      ],
+      "branchCoverage": [
+        "any one of several designated areas on a ball field where the batter or catcher or coaches are positioned -> one of the marked spaces on a field for a bat-and-ball game where the hitter, the catcher, or the coaches stand"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "box%1:06:04:: -> a marked area on a sports field; box%1:26:00:: -> a difficult situation with no easy way out",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "box%1:26:00::",
+      "lemma": "box",
+      "pos": "n",
+      "definition": "a predicament from which a skillful or graceful escape is impossible",
+      "sourceBranches": [
+        "a predicament from which a skillful or graceful escape is impossible"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a difficult situation with no clever or dignified way out",
+      "scope": "Not a marked area on a sports field; this sense names a trap-like difficulty with no graceful exit.",
+      "examples": [
+        "By promising the same slot to two speakers, the organizer had put himself in a box.",
+        "Caught between her boss and her team, she was in a box with no polite exit."
+      ],
+      "branchCoverage": [
+        "a predicament from which a skillful or graceful escape is impossible -> a difficult situation with no clever or dignified way out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "box%1:06:04:: -> a marked area on a sports field; box%1:26:00:: -> a difficult situation with no easy way out",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "card%1:06:01::",
+      "lemma": "card",
+      "pos": "n",
+      "definition": "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities",
+      "sourceBranches": [
+        "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a board holding electronic pathways, fitted into an expansion slot inside a computer to add new abilities",
+      "scope": "Not a greeting left after a visit, not thin stiff paper, and not a funny person; this sense is the computer part.",
+      "examples": [
+        "The old desktop still runs fine after I swapped in a faster graphics card.",
+        "He opened the case and slid the network card into an empty slot."
+      ],
+      "branchCoverage": [
+        "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities -> a board holding electronic pathways, fitted into an expansion slot inside a computer to add new abilities"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "card%1:06:01:: -> a circuit board that fits into a computer slot; card%1:10:04:: -> a printed greeting left to show who called; card%1:18:00:: -> a witty person who makes jokes; card%1:27:00:: -> thin cardboard, usually rectangular",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'small'; full-length expansion cards exist. Say 'expansion slot', not just 'slot'."
+    },
+    {
+      "senseId": "card%1:10:04::",
+      "lemma": "card",
+      "pos": "n",
+      "definition": "a printed or written greeting that is left to indicate that you have visited",
+      "sourceBranches": [
+        "a printed or written greeting that is left to indicate that you have visited"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a friendly printed or handwritten message left behind to show that you stopped by",
+      "scope": "Not the stiff paper itself and not a computer part; this sense is the message left after a call.",
+      "examples": [
+        "Nobody was home, so she left a card under the door.",
+        "The visitors left a card on the hall table to show they had called."
+      ],
+      "branchCoverage": [
+        "a printed or written greeting that is left to indicate that you have visited -> a friendly printed or handwritten message left behind to show that you stopped by"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "card%1:06:01:: -> a circuit board that fits into a computer slot; card%1:10:04:: -> a printed greeting left to show who called; card%1:18:00:: -> a witty person who makes jokes; card%1:27:00:: -> thin cardboard, usually rectangular",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "card%1:18:00::",
+      "lemma": "card",
+      "pos": "n",
+      "definition": "a witty amusing person who makes jokes",
+      "sourceBranches": [
+        "a witty amusing person who makes jokes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a funny, quick-witted person who tells jokes",
+      "scope": "Not the stiff paper, the computer part, or a greeting; this sense describes a humorous person.",
+      "examples": [
+        "Uncle Ray is quite a card; he had the whole table laughing.",
+        "She's a real card at parties, always ready with a punchline."
+      ],
+      "branchCoverage": [
+        "a witty amusing person who makes jokes -> a funny, quick-witted person who tells jokes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "card%1:06:01:: -> a circuit board that fits into a computer slot; card%1:10:04:: -> a printed greeting left to show who called; card%1:18:00:: -> a witty person who makes jokes; card%1:27:00:: -> thin cardboard, usually rectangular",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "card%1:27:00::",
+      "lemma": "card",
+      "pos": "n",
+      "definition": "thin cardboard, usually rectangular",
+      "sourceBranches": [
+        "thin cardboard, usually rectangular"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "thin stiff paper material, most often made in rectangular sheets",
+      "scope": "Not the computer part, the greeting, or the funny person; this sense is the raw material itself.",
+      "examples": [
+        "The models were built from sheets of card and glue.",
+        "She cut a rectangle of card to back the photograph."
+      ],
+      "branchCoverage": [
+        "thin cardboard, usually rectangular -> thin stiff paper material, most often made in rectangular sheets"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "card%1:06:01:: -> a circuit board that fits into a computer slot; card%1:10:04:: -> a printed greeting left to show who called; card%1:18:00:: -> a witty person who makes jokes; card%1:27:00:: -> thin cardboard, usually rectangular",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dark%5:00:00:evil:00",
+      "lemma": "dark",
+      "pos": "a",
+      "definition": "stemming from evil characteristics or forces; wicked or dishonorable",
+      "sourceBranches": [
+        "stemming from evil characteristics or forces",
+        "wicked or dishonorable"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "coming from wicked forces or qualities; morally bad or shameful",
+      "scope": "Not about lack of light and not about difficult writing; this sense judges something as morally evil.",
+      "examples": [
+        "The film hints at dark forces at work behind the throne.",
+        "He had a dark side that few of his friends ever saw."
+      ],
+      "branchCoverage": [
+        "stemming from evil characteristics or forces -> coming from wicked forces or qualities",
+        "wicked or dishonorable -> morally bad or shameful"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dark%5:00:00:evil:00 -> coming from evil forces; dark%5:00:00:incomprehensible:00 -> hard to understand because of the style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dark%5:00:00:incomprehensible:00",
+      "lemma": "dark",
+      "pos": "a",
+      "definition": "marked by difficulty of style or expression",
+      "sourceBranches": [
+        "marked by difficulty of style or expression"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "written or spoken in a way that is hard to follow because of its style or wording",
+      "scope": "Not about evil and not about low light; this sense concerns writing or speech that is hard to understand.",
+      "examples": [
+        "The author's dark, convoluted sentences make the essay a struggle to read.",
+        "Even the experts found the treaty's dark wording hard to interpret."
+      ],
+      "branchCoverage": [
+        "marked by difficulty of style or expression -> written or spoken in a way that is hard to follow because of its style or wording"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dark%5:00:00:evil:00 -> coming from evil forces; dark%5:00:00:incomprehensible:00 -> hard to understand because of the style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "note%1:26:00::",
+      "lemma": "note",
+      "pos": "n",
+      "definition": "high status importance owing to marked superiority",
+      "sourceBranches": [
+        "high status importance owing to marked superiority"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "great importance and standing that comes from being clearly better than others",
+      "scope": "Not a short written message or a single musical sound; this sense is about high standing and importance.",
+      "examples": [
+        "A scientist of note, she was invited to lead the panel.",
+        "The gallery holds several paintings of note from that period."
+      ],
+      "branchCoverage": [
+        "high status importance owing to marked superiority -> great importance and standing that comes from being clearly better than others"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "piece%1:10:02::",
+      "lemma": "piece",
+      "pos": "n",
+      "definition": "an artistic or literary composition",
+      "sourceBranches": [
+        "an artistic or literary composition"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a created work of art, music or literature",
+      "scope": "Not a fragment or part of something, and not a coin; this sense is a finished creative work.",
+      "examples": [
+        "The gallery acquired a striking piece by a young sculptor.",
+        "She played a short piece by Chopin at the recital."
+      ],
+      "branchCoverage": [
+        "an artistic or literary composition -> a created work of art, music or literature"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "piece%1:10:02:: -> an artistic or literary work; piece%2:30:00:: -> repair something by adding parts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "piece%2:30:00::",
+      "lemma": "piece",
+      "pos": "v",
+      "definition": "repair by adding pieces",
+      "sourceBranches": [
+        "repair by adding pieces"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "mend something by joining extra parts onto it",
+      "scope": "Not creating a work of art; this sense is about mending an object with added parts.",
+      "examples": [
+        "He pieced the torn map back together on the kitchen table.",
+        "We pieced the fence back together after the storm."
+      ],
+      "branchCoverage": [
+        "repair by adding pieces -> mend something by joining extra parts onto it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "piece%1:10:02:: -> an artistic or literary work; piece%2:30:00:: -> repair something by adding parts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "straight%3:00:04::",
+      "lemma": "straight",
+      "pos": "a",
+      "definition": "characterized by honesty and fairness",
+      "sourceBranches": [
+        "characterized by honesty and fairness"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "honest and fair in the way one deals with others",
+      "scope": "Not the sense of an even line or of tidy order; this sense judges how someone treats other people.",
+      "examples": [
+        "She was straight with me about the risks from the start.",
+        "He's a straight dealer who never hides a fee."
+      ],
+      "branchCoverage": [
+        "characterized by honesty and fairness -> honest and fair in the way one deals with others"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "straight%3:00:04:: -> honest and fair; straight%5:00:00:conventional:01 -> rigidly conventional or old-fashioned; straight%5:00:00:tidy:00 -> neatly arranged, not disordered",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "straight%5:00:00:conventional:01",
+      "lemma": "straight",
+      "pos": "a",
+      "definition": "rigidly conventional or old-fashioned",
+      "sourceBranches": [
+        "rigidly conventional or old-fashioned"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "strictly following old customs; not modern in style or outlook",
+      "scope": "Not about honesty and not about tidiness; this sense criticizes stiff attachment to tradition.",
+      "examples": [
+        "The club was too straight for her taste, with its rules and formal dinners.",
+        "He comes from a straight, old-fashioned family that frowns on tattoos."
+      ],
+      "branchCoverage": [
+        "rigidly conventional or old-fashioned -> strictly following old customs; not modern in style or outlook"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "straight%3:00:04:: -> honest and fair; straight%5:00:00:conventional:01 -> rigidly conventional or old-fashioned; straight%5:00:00:tidy:00 -> neatly arranged, not disordered",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'unwilling to accept newer ways'; old-fashioned does not require unwillingness. Say 'not modern in style or custom'."
+    },
+    {
+      "senseId": "straight%5:00:00:tidy:00",
+      "lemma": "straight",
+      "pos": "a",
+      "definition": "neatly arranged; not disorderly",
+      "sourceBranches": [
+        "neatly arranged",
+        "not disorderly"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "put in order and free from mess",
+      "scope": "Not a line without curves, and not honesty; this sense is about an orderly arrangement of things.",
+      "examples": [
+        "Put the cushions straight before the visitors arrive.",
+        "After the party, it took an hour to get the house straight again."
+      ],
+      "branchCoverage": [
+        "neatly arranged -> put in order",
+        "not disorderly -> free from mess"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "straight%3:00:04:: -> honest and fair; straight%5:00:00:conventional:01 -> rigidly conventional or old-fashioned; straight%5:00:00:tidy:00 -> neatly arranged, not disordered",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "visit%1:04:03::",
+      "lemma": "visit",
+      "pos": "n",
+      "definition": "a temporary stay (e.g., as a guest)",
+      "sourceBranches": [
+        "a temporary stay (e.g., as a guest)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a stay that lasts only a short time, for example as a guest",
+      "scope": "This is not the act of going to see a person or place, but the time spent staying there.",
+      "examples": [
+        "We had a lovely visit with my aunt in Bristol last summer.",
+        "Her visit to the mountain village lasted a full week."
+      ],
+      "branchCoverage": [
+        "a temporary stay (e.g., as a guest) -> a stay that lasts only a short time, for example as a guest"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wall%1:17:01::",
+      "lemma": "wall",
+      "pos": "n",
+      "definition": "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)",
+      "sourceBranches": [
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a smooth surface of rock that rises straight up or almost straight up, as in a cave or on a mountain",
+      "scope": "This is not a built barrier that divides or protects a space, but a natural rock surface.",
+      "examples": [
+        "The climbers edged along a sheer wall of granite.",
+        "Water trickled down the cave wall into a shallow pool."
+      ],
+      "branchCoverage": [
+        "a vertical (or almost vertical) smooth rock face (as of a cave or mountain) -> a smooth surface of rock that rises straight up or almost straight up, as in a cave or on a mountain"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wall%1:17:01:: -> a steep smooth rock face; wall%1:06:01:: -> a bank built to defend a place",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wall%1:06:01::",
+      "lemma": "wall",
+      "pos": "n",
+      "definition": "an embankment built around a space for defensive purposes",
+      "sourceBranches": [
+        "an embankment built around a space for defensive purposes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a raised bank of earth built around an area to protect it from attack",
+      "scope": "This is not a natural rock face or a dividing structure inside a building, but a raised earth barrier for defence.",
+      "examples": [
+        "The old town was ringed by a high wall of packed earth.",
+        "Soldiers reinforced the earthen wall around their camp."
+      ],
+      "branchCoverage": [
+        "an embankment built around a space for defensive purposes -> a raised bank of earth built around an area to protect it from attack"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wall%1:17:01:: -> a steep smooth rock face; wall%1:06:01:: -> a bank built to defend a place",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "culture%1:26:00::",
+      "lemma": "culture",
+      "pos": "n",
+      "definition": "a highly developed state of perfection; having a flawless or impeccable quality",
+      "sourceBranches": [
+        "a highly developed state of perfection",
+        "having a flawless or impeccable quality"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a very advanced condition of complete excellence, with a quality that has no faults at all",
+      "scope": "This is not the customs, arts or way of life of a group, but a high level of personal refinement.",
+      "examples": [
+        "The old professor was a man of great culture and exquisite taste.",
+        "Her prose shows culture and polish rare among young writers."
+      ],
+      "branchCoverage": [
+        "a highly developed state of perfection -> a very advanced condition of complete excellence",
+        "having a flawless or impeccable quality -> with a quality that has no faults at all"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2's 'a culture and polish' is unidiomatic; 'culture' is uncountable in this sense; rephrase, e.g. 'shows culture and polish'."
+    },
+    {
+      "senseId": "respect%1:04:03::",
+      "lemma": "respect",
+      "pos": "n",
+      "definition": "a courteous expression (by word or deed) of esteem or regard",
+      "sourceBranches": [
+        "a courteous expression (by word or deed) of esteem or regard"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a polite act or word that shows good opinion and high regard for someone",
+      "scope": "This is not the inner feeling of admiration, but an outward act or word that shows it.",
+      "examples": [
+        "He bowed deeply as a mark of respect.",
+        "The students paid their respects at the memorial."
+      ],
+      "branchCoverage": [
+        "a courteous expression (by word or deed) of esteem or regard -> a polite act or word that shows good opinion and high regard for someone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "respect%1:04:03:: -> a courteous act showing esteem; respect%1:07:00:: -> polite care for people's feelings",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "respect%1:07:00::",
+      "lemma": "respect",
+      "pos": "n",
+      "definition": "courteous regard for people's feelings",
+      "sourceBranches": [
+        "courteous regard for people's feelings"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "polite care and consideration for how other people feel",
+      "scope": "This is not an outward act or word of esteem, but the care taken not to hurt people's feelings.",
+      "examples": [
+        "She spoke to the grieving family with great respect.",
+        "He showed respect for his colleagues by listening without interrupting."
+      ],
+      "branchCoverage": [
+        "courteous regard for people's feelings -> polite care and consideration for how other people feel"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "respect%1:04:03:: -> a courteous act showing esteem; respect%1:07:00:: -> polite care for people's feelings",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "response%1:07:00::",
+      "lemma": "response",
+      "pos": "n",
+      "definition": "the manner in which an electrical or mechanical device responds to an input signal or a range of input signals",
+      "sourceBranches": [
+        "the manner in which an electrical or mechanical device responds to an input signal or a range of input signals"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the way a machine or electrical device reacts to a signal put into it, or to a range of such signals",
+      "scope": "This is not a spoken or written answer, but how a device reacts to a signal.",
+      "examples": [
+        "The engineer measured the response of the circuit to a range of frequencies.",
+        "A slow response from the sensor delayed the alarm."
+      ],
+      "branchCoverage": [
+        "the manner in which an electrical or mechanical device responds to an input signal or a range of input signals -> the way a machine or electrical device reacts to a signal put into it, or to a range of such signals"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "response%1:07:00:: -> the way a device reacts to a signal; response%1:10:03:: -> words said or sung by the congregation in church",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "response%1:10:03::",
+      "lemma": "response",
+      "pos": "n",
+      "definition": "a phrase recited or sung by the congregation following a versicle by the priest or minister",
+      "sourceBranches": [
+        "a phrase recited or sung by the congregation following a versicle by the priest or minister"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "words said or sung back by the people in a church service after the priest or minister speaks a short verse",
+      "scope": "This is not an ordinary reply or a device reaction, but the words the congregation says back in worship.",
+      "examples": [
+        "The congregation sang the response after each versicle.",
+        "She knew the responses by heart from years of attending the service."
+      ],
+      "branchCoverage": [
+        "a phrase recited or sung by the congregation following a versicle by the priest or minister -> words said or sung back by the people in a church service after the priest or minister speaks a short verse"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "response%1:07:00:: -> the way a device reacts to a signal; response%1:10:03:: -> words said or sung by the congregation in church",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rock%1:10:01::",
+      "lemma": "rock",
+      "pos": "n",
+      "definition": "a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western",
+      "sourceBranches": [
+        "a genre of popular music originating in the 1950s",
+        "a blend of black rhythm-and-blues with white country-and-western"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a style of popular music that began in the 1950s, mixing black rhythm-and-blues with white country-and-western music",
+      "scope": "This is not the hard mineral substance, but a style of music.",
+      "examples": [
+        "My father grew up listening to rock on the radio in the sixties.",
+        "The band played a mix of rock and blues all night."
+      ],
+      "branchCoverage": [
+        "a genre of popular music originating in the 1950s -> a style of popular music that began in the 1950s",
+        "a blend of black rhythm-and-blues with white country-and-western -> mixing black rhythm-and-blues with white country-and-western music"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rock%1:10:01:: -> a genre of popular music from the 1950s; rock%1:13:00:: -> hard bright stick candy",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rock%1:13:00::",
+      "lemma": "rock",
+      "pos": "n",
+      "definition": "hard bright-colored stick candy (typically flavored with peppermint)",
+      "sourceBranches": [
+        "hard bright-colored stick candy (typically flavored with peppermint)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a hard, brightly colored stick of candy, usually flavored with peppermint",
+      "scope": "This is not the mineral substance or the music style, but a kind of hard candy.",
+      "examples": [
+        "She bought a stick of rock at the seaside.",
+        "The children sucked on peppermint rock until their tongues turned red."
+      ],
+      "branchCoverage": [
+        "hard bright-colored stick candy (typically flavored with peppermint) -> a hard, brightly colored stick of candy, usually flavored with peppermint"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rock%1:10:01:: -> a genre of popular music from the 1950s; rock%1:13:00:: -> hard bright stick candy",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "standard%1:06:02::",
+      "lemma": "standard",
+      "pos": "n",
+      "definition": "an upright pole or beam (especially one used as a support)",
+      "sourceBranches": [
+        "an upright pole or beam (especially one used as a support)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a straight-up pole or thick bar, especially one that holds something up",
+      "scope": "This is not a rule or level used for judging, but a physical post that holds something up.",
+      "examples": [
+        "The lamp standard on the corner was damaged by the lorry.",
+        "The awning was supported by a wooden standard on each side."
+      ],
+      "branchCoverage": [
+        "an upright pole or beam (especially one used as a support) -> a straight-up pole or thick bar, especially one that holds something up"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'of wood or metal', not in the definition; example 2's 'brass standard' reads oddly; use a clearer support-pole sentence."
+    },
+    {
+      "senseId": "write%2:36:01::",
+      "lemma": "write",
+      "pos": "v",
+      "definition": "mark or trace words or symbols on a surface",
+      "sourceBranches": [
+        "mark or trace words or symbols on a surface"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to mark or draw words or symbols on a surface",
+      "scope": "This is not forming the individual letters of a word or creating computer code, but putting words or symbols onto a surface.",
+      "examples": [
+        "She wrote her name at the top of the page.",
+        "He wrote the phone number on a sticky note."
+      ],
+      "branchCoverage": [
+        "mark or trace words or symbols on a surface -> to mark or draw words or symbols on a surface"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "write%2:36:01:: -> mark words or symbols on a surface; write%2:36:03:: -> form the letters of a word; write%2:36:10:: -> create computer code",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "write%2:36:03::",
+      "lemma": "write",
+      "pos": "v",
+      "definition": "write or name the letters that comprise the conventionally accepted form of (a word or part of a word)",
+      "sourceBranches": [
+        "write or name the letters that comprise the conventionally accepted form of (a word or part of a word)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "set down or say aloud the letters that make up the usual accepted spelling of a word or part of a word",
+      "scope": "This is about getting the letters of a word right, not about covering a surface with marks or composing a whole text.",
+      "examples": [
+        "She can write her name now, but she still mixes up b and d.",
+        "How do you write your surname — with one n or two?"
+      ],
+      "branchCoverage": [
+        "write or name the letters that comprise the conventionally accepted form of (a word or part of a word) -> set down or say aloud the letters that make up the usual accepted spelling of a word or part of a word"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "write%2:36:01:: -> mark words or symbols on a surface; write%2:36:03:: -> form the letters of a word; write%2:36:10:: -> create computer code",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "write%2:36:10::",
+      "lemma": "write",
+      "pos": "v",
+      "definition": "create code, write a computer program",
+      "sourceBranches": [
+        "create code, write a computer program"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "create the code for a computer program, the instructions that direct what the machine does",
+      "scope": "This means composing software instructions, not putting words or symbols onto paper.",
+      "examples": [
+        "She learned to write simple games in Python.",
+        "He spent the weekend writing code for the new app."
+      ],
+      "branchCoverage": [
+        "create code, write a computer program -> create the code for a computer program, the instructions that direct what the machine does"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "write%2:36:01:: -> mark words or symbols on a surface; write%2:36:03:: -> form the letters of a word; write%2:36:10:: -> create computer code",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%1:19:00::",
+      "lemma": "charge",
+      "pos": "n",
+      "definition": "the quantity of unbalanced electricity in a body (either positive or negative) and construed as an excess or deficiency of electrons",
+      "sourceBranches": [
+        "the quantity of unbalanced electricity in a body (either positive or negative) and construed as an excess or deficiency of electrons"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the amount of unbalanced electricity held in a body or object, positive or negative, seen as too many or too few electrons",
+      "scope": "This is the stored electrical imbalance itself, not the act of putting power into a battery and not the price asked for something.",
+      "examples": [
+        "Rubbing the glass rod gave it a positive charge.",
+        "Opposite charges attract, while like charges push apart."
+      ],
+      "branchCoverage": [
+        "the quantity of unbalanced electricity in a body (either positive or negative) and construed as an excess or deficiency of electrons -> the amount of unbalanced electricity held in a body or object, positive or negative, seen as too many or too few electrons"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%2:30:00::",
+      "lemma": "charge",
+      "pos": "v",
+      "definition": "energize a battery by passing a current through it in the direction opposite to discharge",
+      "sourceBranches": [
+        "energize a battery by passing a current through it in the direction opposite to discharge"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "put power back into a battery by running a current through it the reverse way, not letting the power out",
+      "scope": "This is refilling a battery with power, not giving an object a static electrical imbalance.",
+      "examples": [
+        "You should charge your phone overnight so the battery is full.",
+        "The mechanic charged the car battery with a small current."
+      ],
+      "branchCoverage": [
+        "energize a battery by passing a current through it in the direction opposite to discharge -> put power back into a battery by running a current through it the reverse way, not letting the power out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%1:06:01::",
+      "lemma": "charge",
+      "pos": "n",
+      "definition": "heraldry consisting of a design or image depicted on a shield",
+      "sourceBranches": [
+        "heraldry consisting of a design or image depicted on a shield"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a design or picture shown on a shield in heraldry, the old system of family coats of arms",
+      "scope": "This is an emblem drawn on a shield, not an amount of electricity and not a claim of guilt.",
+      "examples": [
+        "The lion is a common charge on medieval shields.",
+        "Each charge on the family's coat of arms had a special meaning."
+      ],
+      "branchCoverage": [
+        "heraldry consisting of a design or image depicted on a shield -> a design or picture shown on a shield in heraldry, the old system of family coats of arms"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%1:10:04::",
+      "lemma": "charge",
+      "pos": "n",
+      "definition": "an assertion that someone is guilty of a fault or offence",
+      "sourceBranches": [
+        "an assertion that someone is guilty of a fault or offence"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a statement claiming that someone has done something wrong or broken a rule",
+      "scope": "This is a claim that a person did wrong, not the act of bringing a case in court and not the price of something.",
+      "examples": [
+        "She denied the charge that she had copied his work.",
+        "He faced a serious charge of cheating on the exam."
+      ],
+      "branchCoverage": [
+        "an assertion that someone is guilty of a fault or offence -> a statement claiming that someone has done something wrong or broken a rule"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%2:32:01::",
+      "lemma": "charge",
+      "pos": "v",
+      "definition": "impose a task upon, assign a responsibility to",
+      "sourceBranches": [
+        "impose a task upon, assign a responsibility to"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "give someone a duty or job to do and make them responsible for it",
+      "scope": "This is giving a person a duty, not putting power into a battery and not bringing a case in court.",
+      "examples": [
+        "The captain charged her with keeping the team's records.",
+        "He was charged with organizing the whole event."
+      ],
+      "branchCoverage": [
+        "impose a task upon, assign a responsibility to -> give someone a duty or job to do and make them responsible for it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%2:40:01::",
+      "lemma": "charge",
+      "pos": "v",
+      "definition": "pay with a credit card; pay with plastic money; postpone payment by recording a purchase as a debt",
+      "sourceBranches": [
+        "pay with a credit card",
+        "pay with plastic money",
+        "postpone payment by recording a purchase as a debt"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "pay for something with a credit card, or plastic money, putting off payment by recording the purchase as money owed",
+      "scope": "This is buying now and paying later with a card, not noting a sum in an account and not asking someone for money.",
+      "examples": [
+        "I'll charge the tickets to my credit card.",
+        "She charged the meal instead of paying cash."
+      ],
+      "branchCoverage": [
+        "pay with a credit card -> pay for something with a credit card",
+        "pay with plastic money -> or plastic money",
+        "postpone payment by recording a purchase as a debt -> putting off payment by recording the purchase as money owed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%2:40:05::",
+      "lemma": "charge",
+      "pos": "v",
+      "definition": "cause to be admitted; of persons to an institution",
+      "decision": "defer",
+      "reason": "The sense \"cause to be admitted, of persons to an institution\" is archaic legal usage: modern English says \"commit someone to a hospital\" or \"admit someone to an institution\". The only natural sentences need a court or parish context that reads stilted in a learner example, so two idiomatic examples cannot be written.",
+      "sourceBranches": [
+        "cause to be admitted",
+        "of persons to an institution"
+      ],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "verdict": "self-deferred",
+      "reviewerNote": "Valid rare/archaic sense and accurate gloss, but both examples read stilted ('charged to a hospital/institutions'); confirm attested usage."
+    },
+    {
+      "senseId": "charge%2:30:03::",
+      "lemma": "charge",
+      "pos": "v",
+      "definition": "cause formation of a net electrical charge in or on",
+      "sourceBranches": [
+        "cause formation of a net electrical charge in or on"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make an object hold a net amount of electricity, either more or fewer electrons than normal",
+      "scope": "This is making an object hold electricity, not refilling a battery with power.",
+      "examples": [
+        "Friction can charge a balloon so that it attracts small bits of paper.",
+        "The cloud was charged with static electricity before the storm."
+      ],
+      "branchCoverage": [
+        "cause formation of a net electrical charge in or on -> make an object hold a net amount of electricity, either more or fewer electrons than normal"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%2:32:00::",
+      "lemma": "charge",
+      "pos": "v",
+      "definition": "file a formal charge against",
+      "sourceBranches": [
+        "file a formal charge against"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to bring a formal accusation against someone",
+      "scope": "This is bringing a legal case against a person, not merely saying they did wrong and not giving them a duty.",
+      "examples": [
+        "The police charged him with robbery.",
+        "She was charged with fraud and released on bail."
+      ],
+      "branchCoverage": [
+        "file a formal charge against -> to bring a formal accusation against someone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'in a court of law' adds a restriction; police charge suspects before court, as example 1 shows. Drop it."
+    },
+    {
+      "senseId": "charge%2:40:02::",
+      "lemma": "charge",
+      "pos": "v",
+      "definition": "enter a certain amount as a charge",
+      "sourceBranches": [
+        "enter a certain amount as a charge"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "record a particular sum of money as an amount owed",
+      "scope": "This is noting a sum owed in an account, not paying with a card and not making an electrical imbalance.",
+      "examples": [
+        "The hotel charged the room rate to our account.",
+        "The clerk charged the full amount to the customer's account."
+      ],
+      "branchCoverage": [
+        "enter a certain amount as a charge -> record a particular sum of money as an amount owed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge%1:19:00:: -> the amount of unbalanced electricity in a body; charge%2:30:00:: -> put power into a battery; charge%1:06:01:: -> a design or image on a heraldic shield; charge%1:10:04:: -> an assertion that someone is guilty; charge%2:32:01:: -> give someone a task or responsibility; charge%2:40:01:: -> pay with a credit card; charge%2:40:05:: -> send someone to an institution; charge%2:30:03:: -> give something an electric charge; charge%2:32:00:: -> accuse someone formally in court; charge%2:40:02:: -> record an amount as a charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

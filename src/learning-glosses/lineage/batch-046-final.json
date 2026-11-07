@@ -1,0 +1,1155 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 46,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "still%1:06:02::",
+      "down%1:08:00::"
+    ],
+    "lineage": {
+      "draft": "e843e09c016ddf8a544cbf2b9fb0ee907af510ab0b07726289b9315895f2b874"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "well%4:02:01::",
+      "lemma": "well",
+      "pos": "r",
+      "definition": "without unusual distress or resentment; with good humor",
+      "decision": "gloss",
+      "simpleMeaning": "In a calm, good-humored way, without becoming unusually upset or resentful.",
+      "scope": "This is not about doing something skillfully or pleasingly, and not about being healthy; it describes accepting something without upset or resentment.",
+      "examples": [
+        "She took the bad news well and asked what she could do to help.",
+        "He lost the match but took it well, shaking hands with his opponent."
+      ],
+      "branchCoverage": [
+        "without unusual distress or resentment -> without becoming unusually upset or resentful",
+        "with good humor -> in a calm, good-humored way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "without unusual distress or resentment",
+        "with good humor"
+      ],
+      "lemmaPartition": "well%4:02:01:: = calm, good-humored acceptance with no distress or resentment; well%1:06:02:: = open vertical shaft through building floors; well%4:02:12:: = skill or pleasing manner in doing something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "well%1:06:02::",
+      "lemma": "well",
+      "pos": "n",
+      "definition": "an open shaft through the floors of a building (as for a stairway)",
+      "decision": "gloss",
+      "simpleMeaning": "An open vertical space that runs through the floors of a building, such as the space a staircase passes through.",
+      "scope": "This is not the water source dug in the ground, and not the adverb senses about skill or calm acceptance; it is the open vertical space inside a building.",
+      "examples": [
+        "The staircase is built around an open well.",
+        "Light from the roof reaches the ground floor through the well."
+      ],
+      "branchCoverage": [
+        "an open shaft through the floors of a building (as for a stairway) -> an open vertical space that runs through the floors of a building, such as the space a staircase passes through"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an open shaft through the floors of a building (as for a stairway)"
+      ],
+      "lemmaPartition": "well%4:02:01:: = calm, good-humored acceptance with no distress or resentment; well%1:06:02:: = open vertical shaft through building floors; well%4:02:12:: = skill or pleasing manner in doing something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "well%4:02:12::",
+      "lemma": "well",
+      "pos": "r",
+      "definition": "with skill or in a pleasing manner",
+      "decision": "gloss",
+      "simpleMeaning": "In a skillful way, or in a way that gives pleasure.",
+      "scope": "This is not about accepting something calmly and not about health; it describes doing something with skill or in a pleasing way.",
+      "examples": [
+        "She sings well and has a clear, strong voice.",
+        "The team played well in the second half."
+      ],
+      "branchCoverage": [
+        "with skill or in a pleasing manner -> in a skillful way, or in a way that gives pleasure"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "with skill or in a pleasing manner"
+      ],
+      "lemmaPartition": "well%4:02:01:: = calm, good-humored acceptance with no distress or resentment; well%1:06:02:: = open vertical shaft through building floors; well%4:02:12:: = skill or pleasing manner in doing something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "way%1:06:00::",
+      "lemma": "way",
+      "pos": "n",
+      "definition": "any artifact consisting of a road or path affording passage from one place to another",
+      "decision": "gloss",
+      "simpleMeaning": "A road, path, or other built route that lets people or vehicles go from one place to another.",
+      "scope": "This is not a method of doing something, not a direction, and not a share of something; it is a built route for travel.",
+      "examples": [
+        "A narrow way leads from the village down to the river.",
+        "A public way runs along the edge of the field."
+      ],
+      "branchCoverage": [
+        "any artifact consisting of a road or path affording passage from one place to another -> a road, path, or other built route that lets people or vehicles go from one place to another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any artifact consisting of a road or path affording passage from one place to another"
+      ],
+      "lemmaPartition": "way%1:06:00:: = built road or path for travel between places; way%1:21:00:: = one share of something divided among people",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "way%1:21:00::",
+      "lemma": "way",
+      "pos": "n",
+      "definition": "a portion of something divided into shares",
+      "decision": "gloss",
+      "simpleMeaning": "One of the shares into which something is divided among several people.",
+      "scope": "This is not a road or route and not a method of doing something; it is one share of something divided among people.",
+      "examples": [
+        "The land was divided three ways between the brothers.",
+        "They split the prize money four ways."
+      ],
+      "branchCoverage": [
+        "a portion of something divided into shares -> one of the shares into which something is divided among several people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a portion of something divided into shares"
+      ],
+      "lemmaPartition": "way%1:06:00:: = built road or path for travel between places; way%1:21:00:: = one share of something divided among people",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "need%1:26:01::",
+      "lemma": "need",
+      "pos": "n",
+      "definition": "a state of extreme poverty or destitution",
+      "decision": "gloss",
+      "simpleMeaning": "A condition of being extremely poor and lacking the basic things required to live.",
+      "scope": "This is not a requirement or something you must have, and not a feeling of wanting something; it is extreme poverty.",
+      "examples": [
+        "The charity provides meals for families living in great need.",
+        "After the war, many people lived in desperate need."
+      ],
+      "branchCoverage": [
+        "a state of extreme poverty or destitution -> a condition of being extremely poor and lacking the basic things required to live"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a state of extreme poverty or destitution"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%1:21:00::",
+      "lemma": "right",
+      "pos": "n",
+      "definition": "(frequently plural) the interest possessed by law or custom in some intangible thing",
+      "decision": "gloss",
+      "simpleMeaning": "A claim or interest that law or custom gives someone over something that cannot be touched, such as an idea or a benefit.",
+      "scope": "This is not the hand on one side of the body and not the conservative political side; it is a legal or customary claim over something intangible.",
+      "examples": [
+        "She sold the film rights to her novel.",
+        "The company owns the rights to the software."
+      ],
+      "branchCoverage": [
+        "(frequently plural) the interest possessed by law or custom in some intangible thing -> a claim or interest that law or custom gives someone over something that cannot be touched, such as an idea or a benefit"
+      ],
+      "labelBranches": [
+        "(frequently plural) -> grammar note saying the word is often used in the plural; the rest of the branch carries the meaning"
+      ],
+      "sourceBranches": [
+        "(frequently plural) the interest possessed by law or custom in some intangible thing"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%5:00:00:outside:00",
+      "lemma": "right",
+      "pos": "a",
+      "definition": "(of the side of cloth or clothing) facing or intended to face outward",
+      "decision": "gloss",
+      "simpleMeaning": "Describing the side of cloth or clothing that faces or is meant to face outward.",
+      "scope": "This is not the sense meaning correct or suitable, and not the political sense; it describes the outer face of cloth or clothing.",
+      "examples": [
+        "The right side of the fabric is smooth and slightly shiny.",
+        "Sew the two pieces together with their right sides facing each other."
+      ],
+      "branchCoverage": [
+        "(of the side of cloth or clothing) facing or intended to face outward -> describing the side of cloth or clothing that faces or is meant to face outward"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of the side of cloth or clothing) facing or intended to face outward"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%4:02:01::",
+      "lemma": "right",
+      "pos": "r",
+      "definition": "in the right manner; correctly; suitably",
+      "decision": "gloss",
+      "simpleMeaning": "In a correct way, or in a suitable way.",
+      "scope": "This is not the direction toward the right side, not the informal intensifier, and not the adjective senses; it means correctly or suitably.",
+      "examples": [
+        "You spelled my name right.",
+        "If I remember right, the meeting starts at nine."
+      ],
+      "branchCoverage": [
+        "in the right manner -> in a correct way, or in a suitable way",
+        "correctly -> in a correct way",
+        "suitably -> in a suitable way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in the right manner",
+        "correctly",
+        "suitably"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%5:00:00:extraordinary:00",
+      "lemma": "right",
+      "pos": "a",
+      "definition": "(informal) very; used informally as an intensifier",
+      "decision": "gloss",
+      "simpleMeaning": "Used in casual speech to mean very or completely, adding emphasis.",
+      "scope": "This is not the sense meaning correct or suitable, and not the direction or hand senses; it only adds emphasis in casual speech.",
+      "examples": [
+        "That was a right mess you left in the kitchen.",
+        "He made a right fool of himself at the party."
+      ],
+      "branchCoverage": [
+        "(informal) very -> used in casual speech to mean very",
+        "used informally as an intensifier -> or completely, adding emphasis"
+      ],
+      "labelBranches": [
+        "(informal) -> usage label saying the sense is casual; the word 'very' in the same branch carries the meaning"
+      ],
+      "sourceBranches": [
+        "(informal) very",
+        "used informally as an intensifier"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%5:00:02:proper:00",
+      "lemma": "right",
+      "pos": "a",
+      "definition": "in accord with accepted standards of usage or procedure",
+      "decision": "gloss",
+      "simpleMeaning": "Following the accepted standards for how something should be done or used.",
+      "scope": "This is not the sense of being best suited to a purpose, and not the direction or hand senses; it means following accepted standards or procedure.",
+      "examples": [
+        "The right way to address a judge is 'Your Honor'.",
+        "Use the right form when you apply for a passport."
+      ],
+      "branchCoverage": [
+        "in accord with accepted standards of usage or procedure -> following the accepted standards for how something should be done or used"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in accord with accepted standards of usage or procedure"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%3:00:03::",
+      "lemma": "right",
+      "pos": "a",
+      "definition": "of or belonging to the political or intellectual right",
+      "decision": "gloss",
+      "simpleMeaning": "Belonging to the conservative side in politics or in ideas.",
+      "scope": "This is not the direction toward that side and not the hand; it describes belonging to the conservative side in politics or ideas.",
+      "examples": [
+        "The right wing of the party blocked the vote.",
+        "The right faction of the party wants lower taxes."
+      ],
+      "branchCoverage": [
+        "of or belonging to the political or intellectual right -> belonging to the conservative side in politics or in ideas"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or belonging to the political or intellectual right"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%4:02:03::",
+      "lemma": "right",
+      "pos": "r",
+      "definition": "toward or on the right; also used figuratively",
+      "decision": "gloss",
+      "simpleMeaning": "Toward or on the side of the body opposite the left, and also used in a figurative way.",
+      "scope": "This is not the sense meaning correctly or suitably, and not the informal intensifier; it gives direction toward one side, literally or figuratively.",
+      "examples": [
+        "Turn right at the traffic lights.",
+        "The party has moved right since the election."
+      ],
+      "branchCoverage": [
+        "toward or on the right -> toward or on the side of the body opposite the left",
+        "also used figuratively -> and also used in a figurative way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "toward or on the right",
+        "also used figuratively"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%5:00:00:opportune:00",
+      "lemma": "right",
+      "pos": "a",
+      "definition": "most suitable or right for a particular purpose",
+      "decision": "gloss",
+      "simpleMeaning": "Best suited to a particular purpose or occasion.",
+      "scope": "This is not the sense of following accepted rules or standards, and not the direction or hand senses; it means best suited to a particular purpose.",
+      "examples": [
+        "She was the right person to lead the team.",
+        "We waited for the right moment to ask the question."
+      ],
+      "branchCoverage": [
+        "most suitable or right for a particular purpose -> best suited to a particular purpose or occasion"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "most suitable or right for a particular purpose"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%1:08:00::",
+      "lemma": "right",
+      "pos": "n",
+      "definition": "the hand that is on the right side of the body",
+      "decision": "gloss",
+      "simpleMeaning": "The hand on the side of the body that is opposite the left hand.",
+      "scope": "This is not the legal claim sense and not the political side; it is the hand on that side of the body.",
+      "examples": [
+        "He broke his right hand playing football.",
+        "She raised her right hand to take the oath."
+      ],
+      "branchCoverage": [
+        "the hand that is on the right side of the body -> the hand on the side of the body that is opposite the left hand"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the hand that is on the right side of the body"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%2:30:00::",
+      "lemma": "right",
+      "pos": "v",
+      "definition": "make right or correct",
+      "decision": "gloss",
+      "simpleMeaning": "To correct something wrong or put it back into proper order.",
+      "scope": "This is not the adjective meaning correct or suitable, and not a direction; it is the action of correcting something.",
+      "examples": [
+        "The new leader promised to right the wrongs of the old system.",
+        "He tried to right the mistake before the report was sent."
+      ],
+      "branchCoverage": [
+        "make right or correct -> to correct something wrong or put it back into proper order"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make right or correct"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%5:00:00:right-handed:00",
+      "lemma": "right",
+      "pos": "a",
+      "definition": "intended for the right hand",
+      "decision": "gloss",
+      "simpleMeaning": "Made to be used with the hand on the side opposite the left.",
+      "scope": "This is not the hand itself and not the political side; it describes things made for use with that hand.",
+      "examples": [
+        "She bought a right-hand glove to replace the one she lost.",
+        "Most scissors are made for right-handed users."
+      ],
+      "branchCoverage": [
+        "intended for the right hand -> made to be used with the hand on the side opposite the left"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "intended for the right hand"
+      ],
+      "lemmaPartition": "right%1:21:00:: = legal or customary claim over something intangible; right%5:00:00:outside:00 = outer face of cloth or clothing; right%4:02:01:: = correctly or suitably, as an adverb; right%5:00:00:extraordinary:00 = casual intensifier meaning very; right%5:00:02:proper:00 = conforming to accepted standards or procedure; right%3:00:03:: = belonging to the conservative political or intellectual side; right%4:02:03:: = direction toward the right side, also figurative; right%5:00:00:opportune:00 = best suited for a particular purpose; right%1:08:00:: = the right hand; right%2:30:00:: = to correct or put right; right%5:00:00:right-handed:00 = made for use with the right hand",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "work%2:30:10::",
+      "lemma": "work",
+      "pos": "v",
+      "definition": "arrive at a certain condition through repeated motion",
+      "decision": "gloss",
+      "simpleMeaning": "To reach a certain state slowly through repeated movement or pressure.",
+      "scope": "This is not about doing a job or about a machine functioning; it describes something slowly reaching a state through repeated movement.",
+      "examples": [
+        "The screw had worked loose during the long drive.",
+        "The knot worked free as the rope was pulled."
+      ],
+      "branchCoverage": [
+        "arrive at a certain condition through repeated motion -> to reach a certain state slowly through repeated movement or pressure"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "arrive at a certain condition through repeated motion"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "day%1:28:07::",
+      "lemma": "day",
+      "pos": "n",
+      "definition": "the period of time taken by a particular planet (e.g. Mars) to make a complete rotation on its axis",
+      "decision": "gloss",
+      "simpleMeaning": "The time a planet such as Mars takes to turn once around its own axis.",
+      "scope": "This is not the everyday calendar period on Earth, not the time of daylight, and not a period in history; it is one planet's rotation time.",
+      "examples": [
+        "A day on Mars lasts about 24 hours and 37 minutes.",
+        "Scientists measured the length of a day on Venus."
+      ],
+      "branchCoverage": [
+        "the period of time taken by a particular planet (e.g. Mars) to make a complete rotation on its axis -> the time a planet such as Mars takes to turn once around its own axis"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the period of time taken by a particular planet (e.g. Mars) to make a complete rotation on its axis"
+      ],
+      "lemmaPartition": "day%1:28:07:: = one planet's rotation period, such as a day on Mars; day%1:28:06:: = Earth's rotation period relative to a fixed star",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "day%1:28:06::",
+      "lemma": "day",
+      "pos": "n",
+      "definition": "the time for one complete rotation of the earth relative to a particular star, about 4 minutes shorter than a mean solar day",
+      "decision": "gloss",
+      "simpleMeaning": "The time Earth takes to turn once relative to a distant star, about four minutes shorter than a full turn measured by the sun.",
+      "scope": "This is not the ordinary period measured by the sun and not the rotation time of another planet; it is Earth's turn relative to a fixed star.",
+      "examples": [
+        "A sidereal day is about 23 hours and 56 minutes long.",
+        "Astronomers track a star for one sidereal day to measure Earth's rotation."
+      ],
+      "branchCoverage": [
+        "the time for one complete rotation of the earth relative to a particular star, about 4 minutes shorter than a mean solar day -> the time Earth takes to turn once relative to a distant star, about four minutes shorter than a full turn measured by the sun"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the time for one complete rotation of the earth relative to a particular star, about 4 minutes shorter than a mean solar day"
+      ],
+      "lemmaPartition": "day%1:28:07:: = one planet's rotation period, such as a day on Mars; day%1:28:06:: = Earth's rotation period relative to a fixed star",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "off%5:00:00:inactive:08",
+      "lemma": "off",
+      "pos": "a",
+      "definition": "not performing or scheduled for duties",
+      "decision": "gloss",
+      "simpleMeaning": "Not working at the moment or not scheduled to work.",
+      "scope": "This is not about a machine being switched off, not about being away from a place, and not about food that has gone bad; it means not scheduled to work.",
+      "examples": [
+        "I am off tomorrow, so we can meet for lunch.",
+        "The guard was off duty when the alarm sounded."
+      ],
+      "branchCoverage": [
+        "not performing or scheduled for duties -> not working at the moment or not scheduled to work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "not performing or scheduled for duties"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "still%3:00:03::",
+      "lemma": "still",
+      "pos": "a",
+      "definition": "used of pictures; of a single or static photograph not presented so as to create the illusion of motion; or representing objects not capable of motion",
+      "decision": "gloss",
+      "simpleMeaning": "Describing a photograph or picture that does not move like a film, or one that shows objects that cannot move.",
+      "scope": "This is not the distillery sense and not the sense of calm air or water; it describes pictures that do not move.",
+      "examples": [
+        "The camera can take still pictures as well as video.",
+        "A still image of the mountain hung above the desk."
+      ],
+      "branchCoverage": [
+        "used of pictures -> describing a photograph or picture",
+        "of a single or static photograph not presented so as to create the illusion of motion -> that does not move like a film",
+        "or representing objects not capable of motion -> or one that shows objects that cannot move"
+      ],
+      "labelBranches": [
+        "used of pictures -> usage label showing the adjective applies to pictures; the meaning is carried by the other two branches"
+      ],
+      "sourceBranches": [
+        "used of pictures",
+        "of a single or static photograph not presented so as to create the illusion of motion",
+        "or representing objects not capable of motion"
+      ],
+      "lemmaPartition": "still%3:00:03:: = adjective for a non-moving picture or image; still%1:06:02:: = noun for a place where alcohol is distilled",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "still%1:06:02::",
+      "lemma": "still",
+      "pos": "n",
+      "definition": "a plant and works where alcoholic drinks are made by distillation",
+      "decision": "gloss",
+      "simpleMeaning": "A factory or set of buildings where strong alcoholic drinks are made by heating and cooling liquid to separate and strengthen the alcohol.",
+      "scope": "This is not the adjective describing a motionless picture; it is a place or set of equipment where alcohol is distilled.",
+      "examples": [
+        "The old still has been turned into a museum.",
+        "A new still was built beside the river last year."
+      ],
+      "branchCoverage": [
+        "a plant and works where alcoholic drinks are made by distillation -> a factory or set of buildings where strong alcoholic drinks are made by heating and cooling liquid to separate and strengthen the alcohol"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a plant and works where alcoholic drinks are made by distillation"
+      ],
+      "lemmaPartition": "still%3:00:03:: = adjective for a non-moving picture or image; still%1:06:02:: = noun for a place where alcohol is distilled",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example implies a distillation apparatus, not the factory/plant sense; scope also says 'equipment'."
+    },
+    {
+      "senseId": "take%2:30:08::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "ascertain or determine by measuring, computing or take a reading from a dial",
+      "decision": "gloss",
+      "simpleMeaning": "To find out a value by measuring it, calculating it, or reading it from a dial or gauge.",
+      "scope": "This is not about removing or carrying something away, not about eating or drinking, and not about falling ill; it means finding out a value by measuring, calculating, or reading an instrument.",
+      "examples": [
+        "The nurse took my temperature.",
+        "The engineer took a reading from the dial."
+      ],
+      "branchCoverage": [
+        "ascertain or determine by measuring, computing or take a reading from a dial -> to find out a value by measuring it, calculating it, or reading it from a dial or gauge"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "ascertain or determine by measuring, computing or take a reading from a dial"
+      ],
+      "lemmaPartition": "take%2:30:08:: = measure or read a value; take%2:29:08:: = fall ill with a disease; take%2:30:00:: = remove something concrete or abstract; take%2:30:09:: = be seized or affected by a feeling or condition; take%2:31:03:: = consider something as an example; take%2:31:07:: = interpret in a certain way; take%2:33:09:: = aim blows, a weapon, or a camera toward something; take%2:34:00:: = eat or drink regularly; take%2:40:08:: = get into a position of having safety or comfort; take%2:41:00:: = assume a position or role; take%2:41:16:: = develop a habit or apply oneself to a practice",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:29:08::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "be stricken by an illness, fall victim to an illness",
+      "decision": "gloss",
+      "simpleMeaning": "To become ill with a disease or catch an illness.",
+      "scope": "This is not about eating, drinking, or accepting something, and not about measuring; it means becoming ill with a disease.",
+      "examples": [
+        "She took ill during the flight and was rushed to hospital.",
+        "Several soldiers took sick after drinking the water."
+      ],
+      "branchCoverage": [
+        "be stricken by an illness, fall victim to an illness -> to become ill with a disease or catch an illness"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be stricken by an illness, fall victim to an illness"
+      ],
+      "lemmaPartition": "take%2:30:08:: = measure or read a value; take%2:29:08:: = fall ill with a disease; take%2:30:00:: = remove something concrete or abstract; take%2:30:09:: = be seized or affected by a feeling or condition; take%2:31:03:: = consider something as an example; take%2:31:07:: = interpret in a certain way; take%2:33:09:: = aim blows, a weapon, or a camera toward something; take%2:34:00:: = eat or drink regularly; take%2:40:08:: = get into a position of having safety or comfort; take%2:41:00:: = assume a position or role; take%2:41:16:: = develop a habit or apply oneself to a practice",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:30:00::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+      "decision": "gloss",
+      "simpleMeaning": "To remove a physical object, for example by lifting it, pushing it, or pulling it off, or to remove something that has no physical form.",
+      "scope": "This is not eating or drinking something, not beginning a job or role, and not understanding a remark in a particular way.",
+      "examples": [
+        "Please take the books off the table.",
+        "The new law took away our freedom to choose."
+      ],
+      "branchCoverage": [
+        "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract -> To remove a physical object, for example by lifting it, pushing it, or pulling it off, or to remove something that has no physical form"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:30:09::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "be seized or affected in a specified way",
+      "decision": "gloss",
+      "simpleMeaning": "To be suddenly affected by a particular feeling or physical condition.",
+      "scope": "This is not deliberately getting rid of something, not choosing a case as an example, and not beginning a job or role.",
+      "examples": [
+        "The horse took fright at the sound of the gun.",
+        "He took sick during the trip and had to stay in bed."
+      ],
+      "branchCoverage": [
+        "be seized or affected in a specified way -> To be suddenly affected by a particular feeling or physical condition"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be seized or affected in a specified way"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:31:03::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "take into consideration for exemplifying purposes",
+      "decision": "gloss",
+      "simpleMeaning": "To consider a particular case as an example when explaining a general point.",
+      "scope": "This is not measuring a value, not understanding a remark in a certain way, and not eating or drinking.",
+      "examples": [
+        "Take my brother, for example: he never reads the instructions.",
+        "Let's take the case of a small shop owner."
+      ],
+      "branchCoverage": [
+        "take into consideration for exemplifying purposes -> To consider a particular case as an example when explaining a general point"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "take into consideration for exemplifying purposes"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:31:07::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "interpret something in a certain way; convey a particular meaning or impression",
+      "decision": "gloss",
+      "simpleMeaning": "To understand or explain something in a particular way, or to carry a particular meaning or give a particular impression.",
+      "scope": "This is not considering a case as an example, not speaking an opinion aloud, and not removing an object.",
+      "examples": [
+        "I took his silence as agreement.",
+        "The phrase can be taken in two different ways."
+      ],
+      "branchCoverage": [
+        "interpret something in a certain way -> To understand or explain something in a particular way",
+        "convey a particular meaning or impression -> to carry a particular meaning or give a particular impression"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "interpret something in a certain way",
+        "convey a particular meaning or impression"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:33:09::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "point or cause to go (blows, weapons, or objects such as photographic equipment) towards",
+      "decision": "gloss",
+      "simpleMeaning": "To aim or send something, such as a blow, a weapon, or a camera, towards a target.",
+      "scope": "This is not eating or drinking, not getting into shelter, and not holding a position or role.",
+      "examples": [
+        "The boxer took a swing at his opponent.",
+        "She took a photograph of the sunset."
+      ],
+      "branchCoverage": [
+        "point or cause to go (blows, weapons, or objects such as photographic equipment) towards -> To aim or send something, such as a blow, a weapon, or a camera, towards a target"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "point or cause to go (blows, weapons, or objects such as photographic equipment) towards"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:34:00::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "serve oneself to, or consume regularly",
+      "decision": "gloss",
+      "simpleMeaning": "To eat or drink something, especially by helping oneself to it as part of a regular routine.",
+      "scope": "This is not removing an object, not aiming a weapon or camera, and not holding a job or role.",
+      "examples": [
+        "Do you take sugar in your tea?",
+        "The doctor told him to take his medicine after meals."
+      ],
+      "branchCoverage": [
+        "serve oneself to, or consume regularly -> To eat or drink something, especially by helping oneself to it as part of a regular routine"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "serve oneself to, or consume regularly"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:40:08::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "to get into a position of having, e.g., safety, comfort",
+      "decision": "gloss",
+      "simpleMeaning": "To get into a situation in which one has something such as safety or comfort.",
+      "scope": "This is not consuming food or drink, not seizing power or a role, and not measuring a value.",
+      "examples": [
+        "The hikers took shelter under a rock.",
+        "The refugees took refuge in a nearby church."
+      ],
+      "branchCoverage": [
+        "to get into a position of having, e.g., safety, comfort -> To get into a situation in which one has something such as safety or comfort"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "to get into a position of having, e.g., safety, comfort"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:41:00::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "assume, as of positions or roles",
+      "decision": "gloss",
+      "simpleMeaning": "To begin to hold a position, job, or role.",
+      "scope": "This is not consuming something, not removing an object, and not developing a habit.",
+      "examples": [
+        "She took office in January.",
+        "He took command of the regiment."
+      ],
+      "branchCoverage": [
+        "assume, as of positions or roles -> To begin to hold a position, job, or role"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "assume, as of positions or roles"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "take%2:41:16::",
+      "lemma": "take",
+      "pos": "v",
+      "definition": "develop a habit; apply oneself to a practice or occupation",
+      "decision": "gloss",
+      "simpleMeaning": "To start doing something regularly until it becomes a habit, or to begin to give serious effort to an activity or job.",
+      "scope": "This is not assuming an official position, not consuming food or drink, and not being suddenly struck by an illness.",
+      "examples": [
+        "He took up running at the age of fifty.",
+        "She took to gardening after she retired."
+      ],
+      "branchCoverage": [
+        "develop a habit -> To start doing something regularly until it becomes a habit",
+        "apply oneself to a practice or occupation -> to begin to give serious effort to an activity or job"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "develop a habit",
+        "apply oneself to a practice or occupation"
+      ],
+      "lemmaPartition": "take%2:30:08:: = find out a value by measuring or reading a dial; take%2:29:08:: = be struck by an illness; take%2:30:00:: = remove a physical or abstract thing; take%2:30:09:: = be suddenly affected by a feeling or condition; take%2:31:03:: = consider a case as an example; take%2:31:07:: = understand or explain in a particular way; take%2:33:09:: = aim a blow, weapon, or camera towards a target; take%2:34:00:: = eat or drink something regularly; take%2:40:08:: = get into a place of safety or comfort; take%2:41:00:: = begin to hold a position or role; take%2:41:16:: = develop a habit or give serious effort to an activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "life%1:19:00::",
+      "lemma": "life",
+      "pos": "n",
+      "definition": "the organic phenomenon that distinguishes living organisms from nonliving ones",
+      "decision": "gloss",
+      "simpleMeaning": "The natural quality that makes animals, plants, and other organisms different from things such as rocks, water, and machines.",
+      "scope": "This is not a person's span of years, not liveliness or energy, and not organisms considered together.",
+      "examples": [
+        "Scientists still cannot explain what gives a cell life.",
+        "The origin of life on Earth remains a mystery."
+      ],
+      "branchCoverage": [
+        "the organic phenomenon that distinguishes living organisms from nonliving ones -> The natural quality that makes animals, plants, and other organisms different from things such as rocks, water, and machines"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the organic phenomenon that distinguishes living organisms from nonliving ones"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "say%2:32:13::",
+      "lemma": "say",
+      "pos": "v",
+      "definition": "state as one's opinion or judgement; declare",
+      "decision": "gloss",
+      "simpleMeaning": "To express an opinion or judgment, especially in a firm, open way.",
+      "scope": "This is not merely producing words, not asking a question, and not reporting a fact stated by someone else.",
+      "examples": [
+        "I say we cancel the trip.",
+        "The critic said the film was a masterpiece."
+      ],
+      "branchCoverage": [
+        "state as one's opinion or judgement -> To express an opinion or judgment",
+        "declare -> especially in a firm, open way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "state as one's opinion or judgement",
+        "declare"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "world%1:09:01::",
+      "lemma": "world",
+      "pos": "n",
+      "definition": "the concerns of this life as distinguished from heaven and the afterlife",
+      "decision": "gloss",
+      "simpleMeaning": "The everyday matters of earthly existence, as opposed to heaven and what comes after death.",
+      "scope": "This is not the planet Earth, not the whole of human society, and not a particular area of activity or interest.",
+      "examples": [
+        "He withdrew from the world to live in a monastery.",
+        "Monks renounce the world and its pleasures."
+      ],
+      "branchCoverage": [
+        "the concerns of this life as distinguished from heaven and the afterlife -> The everyday matters of earthly existence, as opposed to heaven and what comes after death"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the concerns of this life as distinguished from heaven and the afterlife"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "down%1:08:00::",
+      "lemma": "down",
+      "pos": "n",
+      "definition": "fine soft dense hair (as the fine short hair of cattle or deer or the wool of sheep or the undercoat of certain dogs)",
+      "decision": "gloss",
+      "simpleMeaning": "Fine, soft, thick hair, such as the short hair of cattle or deer, the wool of sheep, or the soft underlayer of fur on some dogs.",
+      "scope": "This is not the direction opposite up, not a feeling of low spirits, and not a machine that has stopped working.",
+      "examples": [
+        "The dog's thick down keeps it warm through the winter.",
+        "Cashmere comes from the fine down of goats."
+      ],
+      "branchCoverage": [
+        "fine soft dense hair (as the fine short hair of cattle or deer or the wool of sheep or the undercoat of certain dogs) -> Fine, soft, thick hair, such as the short hair of cattle or deer, the wool of sheep, or the soft underlayer of fur on some dogs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fine soft dense hair (as the fine short hair of cattle or deer or the wool of sheep or the undercoat of certain dogs)"
+      ],
+      "lemmaPartition": "down%1:08:00:: = fine soft hair such as animal undercoat; down%5:00:00:inoperative:00 = not working, temporarily or permanently",
+      "verdict": "self-approved",
+      "reviewerNote": "Both examples describe bird down (feathers), a separate sense; use animal hair, wool, or dog undercoat instead."
+    },
+    {
+      "senseId": "down%5:00:00:inoperative:00",
+      "lemma": "down",
+      "pos": "a",
+      "definition": "not functioning (temporarily or permanently)",
+      "decision": "gloss",
+      "simpleMeaning": "Not working, whether for a short time or permanently.",
+      "scope": "This is not the direction opposite up, not feeling sad, and not the fine soft hair of animals.",
+      "examples": [
+        "The network is down again.",
+        "The factory was down for two weeks after the fire."
+      ],
+      "branchCoverage": [
+        "not functioning (temporarily or permanently) -> Not working, whether for a short time or permanently"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "not functioning (temporarily or permanently)"
+      ],
+      "lemmaPartition": "down%1:08:00:: = fine soft hair such as animal undercoat; down%5:00:00:inoperative:00 = not working, temporarily or permanently",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "through%4:02:05::",
+      "lemma": "through",
+      "pos": "r",
+      "definition": "throughout the entire extent",
+      "decision": "gloss",
+      "simpleMeaning": "Over the whole of something, from one end or side to the other.",
+      "scope": "This is not the preposition that comes before a noun, not the sense 'by means of', and not the sense 'finished'.",
+      "examples": [
+        "The rain soaked us through.",
+        "He slept the whole night through."
+      ],
+      "branchCoverage": [
+        "throughout the entire extent -> Over the whole of something, from one end or side to the other"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "throughout the entire extent"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "last%1:23:01::",
+      "lemma": "last",
+      "pos": "n",
+      "definition": "a unit of capacity for grain equal to 80 bushels",
+      "decision": "gloss",
+      "simpleMeaning": "An old unit for measuring grain, equal to 80 bushels.",
+      "scope": "This is not the final item in a series and not a verb meaning to continue for a period of time.",
+      "examples": [
+        "The old barn once held a last of grain.",
+        "Records show that the farm sold two lasts of barley that year."
+      ],
+      "branchCoverage": [
+        "a unit of capacity for grain equal to 80 bushels -> An old unit for measuring grain, equal to 80 bushels"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a unit of capacity for grain equal to 80 bushels"
+      ],
+      "lemmaPartition": "last%1:23:01:: = old unit for measuring grain, equal to 80 bushels; last%5:00:00:worst:00 = having the lowest position or least importance",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "last%5:00:00:worst:00",
+      "lemma": "last",
+      "pos": "a",
+      "definition": "lowest in rank or importance",
+      "decision": "gloss",
+      "simpleMeaning": "Having the lowest position or the least importance.",
+      "scope": "This is not coming after all others in time or order, and not the old grain measure.",
+      "examples": [
+        "Money was the last thing on his mind.",
+        "The team ended the season in last place."
+      ],
+      "branchCoverage": [
+        "lowest in rank or importance -> Having the lowest position or the least importance"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "lowest in rank or importance"
+      ],
+      "lemmaPartition": "last%1:23:01:: = old unit for measuring grain, equal to 80 bushels; last%5:00:00:worst:00 = having the lowest position or least importance",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "love%1:12:01::",
+      "lemma": "love",
+      "pos": "n",
+      "definition": "a deep feeling of sexual desire and attraction",
+      "decision": "gloss",
+      "simpleMeaning": "A strong, deep feeling of sexual desire and attraction.",
+      "scope": "This is not warm affection for family or friends, not a strong liking for an activity, and not the zero score in tennis.",
+      "examples": [
+        "Their love was driven by desire rather than friendship.",
+        "The poem celebrates physical love."
+      ],
+      "branchCoverage": [
+        "a deep feeling of sexual desire and attraction -> A strong, deep feeling of sexual desire and attraction"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a deep feeling of sexual desire and attraction"
+      ],
+      "lemmaPartition": "love%1:12:01:: = deep sexual desire and attraction; love%1:23:00:: = zero score in tennis or squash",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "love%1:23:00::",
+      "lemma": "love",
+      "pos": "n",
+      "definition": "a score of zero in tennis or squash",
+      "decision": "gloss",
+      "simpleMeaning": "A score of zero in tennis or squash.",
+      "scope": "This is not romantic or sexual affection and not a strong liking for something.",
+      "examples": [
+        "The score was 15-love.",
+        "She won the game at love."
+      ],
+      "branchCoverage": [
+        "a score of zero in tennis or squash -> A score of zero in tennis or squash"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a score of zero in tennis or squash"
+      ],
+      "lemmaPartition": "love%1:12:01:: = deep sexual desire and attraction; love%1:23:00:: = zero score in tennis or squash",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "man%1:18:05::",
+      "lemma": "man",
+      "pos": "n",
+      "definition": "a manservant who acts as a personal attendant to their employer",
+      "decision": "gloss",
+      "simpleMeaning": "A male servant who looks after an employer's personal needs.",
+      "scope": "This is not any adult male, not a husband or boyfriend, and not a human being in general.",
+      "examples": [
+        "The duke's man helped him dress for dinner.",
+        "He rang the bell, and his man appeared with his coat."
+      ],
+      "branchCoverage": [
+        "a manservant who acts as a personal attendant to their employer -> A male servant who looks after an employer's personal needs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a manservant who acts as a personal attendant to their employer"
+      ],
+      "lemmaPartition": "man%1:18:05:: = male servant attending to an employer's personal needs; man%1:18:06:: = grown male with a strong, brave, and capable character",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "man%1:18:06::",
+      "lemma": "man",
+      "pos": "n",
+      "definition": "an adult male person who has a manly character (virile and courageous competent)",
+      "decision": "gloss",
+      "simpleMeaning": "A grown male who is strong, brave, and capable.",
+      "scope": "This is not a male servant, not any male person regardless of character, and not humanity as a whole.",
+      "examples": [
+        "He faced the crisis like a man.",
+        "Be a man and admit you were wrong."
+      ],
+      "branchCoverage": [
+        "an adult male person who has a manly character (virile and courageous competent) -> A grown male who is strong, brave, and capable"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an adult male person who has a manly character (virile and courageous competent)"
+      ],
+      "lemmaPartition": "man%1:18:05:: = male servant attending to an employer's personal needs; man%1:18:06:: = grown male with a strong, brave, and capable character",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "look%2:32:00::",
+      "lemma": "look",
+      "pos": "v",
+      "definition": "convey by one's expression",
+      "decision": "gloss",
+      "simpleMeaning": "To show a feeling or message through the expression on one's face.",
+      "scope": "This is not directing your eyes at something and not appearing a certain way to other people.",
+      "examples": [
+        "She looked daggers at him across the table.",
+        "He looked his thanks and left."
+      ],
+      "branchCoverage": [
+        "convey by one's expression -> To show a feeling or message through the expression on one's face"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "convey by one's expression"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "use%1:04:02::",
+      "lemma": "use",
+      "pos": "n",
+      "definition": "exerting shrewd or devious influence especially for one's own advantage",
+      "decision": "gloss",
+      "simpleMeaning": "The act of cleverly or unfairly influencing people, especially to gain an advantage for oneself.",
+      "scope": "This is not the ordinary act of employing an object for a purpose, and not the helpfulness or value of something.",
+      "examples": [
+        "He got the job through the use of charm and flattery.",
+        "The report exposed the use of pressure tactics by the company."
+      ],
+      "branchCoverage": [
+        "exerting shrewd or devious influence especially for one's own advantage -> The act of cleverly or unfairly influencing people, especially to gain an advantage for oneself"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "exerting shrewd or devious influence especially for one's own advantage"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "part%1:08:01::",
+      "lemma": "part",
+      "pos": "n",
+      "definition": "a line of scalp that can be seen when sections of hair are combed in opposite directions",
+      "decision": "gloss",
+      "simpleMeaning": "The line on the head where hair is combed in opposite directions, showing a narrow strip of skin.",
+      "scope": "This is not a piece of a whole, not a role in a play, and not a region of a country.",
+      "examples": [
+        "She wears her hair with a center part.",
+        "The hairdresser made a sharp part on the left."
+      ],
+      "branchCoverage": [
+        "a line of scalp that can be seen when sections of hair are combed in opposite directions -> The line on the head where hair is combed in opposite directions, showing a narrow strip of skin"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a line of scalp that can be seen when sections of hair are combed in opposite directions"
+      ],
+      "lemmaPartition": "part%1:08:01:: = line where hair is combed in opposite directions; part%1:09:00:: = piece that helps make up a whole",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "part%1:09:00::",
+      "lemma": "part",
+      "pos": "n",
+      "definition": "one of the portions into which something is regarded as divided and which together constitute a whole",
+      "decision": "gloss",
+      "simpleMeaning": "One of the pieces that something is thought of as being divided into, which together make up the whole.",
+      "scope": "This is not the line where hair is divided on the head, not a role played by an actor, and not a section of a larger region.",
+      "examples": [
+        "The first chapter is the best part of the book.",
+        "Each part of the machine has a specific job."
+      ],
+      "branchCoverage": [
+        "one of the portions into which something is regarded as divided and which together constitute a whole -> One of the pieces that something is thought of as being divided into, which together make up the whole"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "one of the portions into which something is regarded as divided and which together constitute a whole"
+      ],
+      "lemmaPartition": "part%1:08:01:: = line where hair is combed in opposite directions; part%1:09:00:: = piece that helps make up a whole",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

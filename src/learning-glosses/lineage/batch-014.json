@@ -1,0 +1,1024 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 14,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 650,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "design%2:36:01::",
+      "lemma": "design",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "create the design for; create or execute in an artistic or highly skilled manner",
+      "synsetId": "01644092-v",
+      "words": 14,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 658,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "create the design for",
+        "create or execute in an artistic or highly skilled manner"
+      ]
+    },
+    {
+      "senseId": "guess%2:31:01::",
+      "lemma": "guess",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "judge tentatively or form an estimate of (quantities or time)",
+      "synsetId": "00674352-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 663,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "judge tentatively or form an estimate of (quantities or time)"
+      ]
+    },
+    {
+      "senseId": "guess%2:32:00::",
+      "lemma": "guess",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "put forward, of a guess, in spite of possible refutation",
+      "synsetId": "00918880-v",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 663,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "put forward, of a guess, in spite of possible refutation"
+      ]
+    },
+    {
+      "senseId": "interest%1:07:02::",
+      "lemma": "interest",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the power of attracting or holding one's attention (because it is unusual or exciting etc.)",
+      "synsetId": "05199719-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 664,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the power of attracting or holding one's attention (because it is unusual or exciting etc.)"
+      ]
+    },
+    {
+      "senseId": "interest%2:37:00::",
+      "lemma": "interest",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "excite the curiosity of; engage the interest of",
+      "synsetId": "01825361-v",
+      "words": 8,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 664,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "excite the curiosity of",
+        "engage the interest of"
+      ]
+    },
+    {
+      "senseId": "king%1:18:00::",
+      "lemma": "king",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a male sovereign; ruler of a kingdom",
+      "synsetId": "10251212-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 666,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a male sovereign",
+        "ruler of a kingdom"
+      ]
+    },
+    {
+      "senseId": "learn%2:31:03::",
+      "lemma": "learn",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "commit to memory; learn by heart",
+      "synsetId": "00605971-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 667,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "commit to memory",
+        "learn by heart"
+      ]
+    },
+    {
+      "senseId": "alone%5:00:00:unaccompanied:00",
+      "lemma": "alone",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "lacking companions or companionship",
+      "synsetId": "02258956-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 671,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lacking companions or companionship"
+      ]
+    },
+    {
+      "senseId": "average%5:00:00:common:01",
+      "lemma": "average",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "lacking special distinction, rank, or status; commonly encountered",
+      "synsetId": "00488278-s",
+      "words": 8,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 672,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lacking special distinction, rank, or status",
+        "commonly encountered"
+      ]
+    },
+    {
+      "senseId": "average%1:09:01::",
+      "lemma": "average",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an intermediate scale value regarded as normal or usual",
+      "synsetId": "05865563-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 672,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an intermediate scale value regarded as normal or usual"
+      ]
+    },
+    {
+      "senseId": "average%2:41:00::",
+      "lemma": "average",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "achieve or reach on average",
+      "synsetId": "02532960-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 672,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "achieve or reach on average"
+      ]
+    },
+    {
+      "senseId": "average%2:42:00::",
+      "lemma": "average",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "amount to or come to an average, without loss or gain",
+      "synsetId": "02651473-v",
+      "words": 11,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 672,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "amount to or come to an average, without loss or gain"
+      ]
+    },
+    {
+      "senseId": "bank%1:14:00::",
+      "lemma": "bank",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a financial institution that accepts deposits and channels the money into lending activities",
+      "synsetId": "08437235-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 673,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a financial institution that accepts deposits and channels the money into lending activities"
+      ]
+    },
+    {
+      "senseId": "bank%1:17:01::",
+      "lemma": "bank",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "sloping land (especially the slope beside a body of water)",
+      "synsetId": "09236472-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 673,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "sloping land (especially the slope beside a body of water)"
+      ]
+    },
+    {
+      "senseId": "certain%3:00:02::",
+      "lemma": "certain",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having or feeling no doubt or uncertainty; confident and assured",
+      "synsetId": "00337729-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 675,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having or feeling no doubt or uncertainty",
+        "confident and assured"
+      ]
+    },
+    {
+      "senseId": "certain%5:00:00:definite:00",
+      "lemma": "certain",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "definite but not specified or identified",
+      "synsetId": "00704329-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 675,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "definite but not specified or identified"
+      ]
+    },
+    {
+      "senseId": "church%1:14:00::",
+      "lemma": "church",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "one of the groups of Christians who have their own beliefs and forms of worship",
+      "synsetId": "08099479-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 676,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one of the groups of Christians who have their own beliefs and forms of worship"
+      ]
+    },
+    {
+      "senseId": "church%2:38:00::",
+      "lemma": "church",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "perform a special church rite or service for",
+      "synsetId": "02083398-v",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 676,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "perform a special church rite or service for"
+      ]
+    },
+    {
+      "senseId": "east%1:24:02::",
+      "lemma": "east",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the direction corresponding to the eastward cardinal compass point",
+      "synsetId": "13857863-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 677,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the direction corresponding to the eastward cardinal compass point"
+      ]
+    },
+    {
+      "senseId": "east%1:24:00::",
+      "lemma": "east",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the cardinal compass point that is at 90 degrees",
+      "synsetId": "13854554-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 677,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the cardinal compass point that is at 90 degrees"
+      ]
+    },
+    {
+      "senseId": "hands%1:04:00::",
+      "lemma": "hands",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(with ‘in’) guardianship over; in divorce cases it is the right to house and care for and discipline a child",
+      "synsetId": "00820339-n",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 678,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(with ‘in’) guardianship over",
+        "in divorce cases it is the right to house and care for and discipline a child"
+      ]
+    },
+    {
+      "senseId": "hot%3:00:02::",
+      "lemma": "hot",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(extended meanings, especially of psychological heat) marked by intensity or vehemence especially of passion or enthusiasm",
+      "synsetId": "01259404-a",
+      "words": 16,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 679,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(extended meanings, especially of psychological heat) marked by intensity or vehemence especially of passion or enthusiasm"
+      ]
+    },
+    {
+      "senseId": "hot%3:00:01::",
+      "lemma": "hot",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning",
+      "synsetId": "01250274-a",
+      "words": 26,
+      "rare": 5,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 679,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "used of physical heat",
+        "having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning"
+      ]
+    },
+    {
+      "senseId": "hot%5:00:00:violent:00",
+      "lemma": "hot",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "characterized by violent and forceful activity or movement; very intense",
+      "synsetId": "02521858-s",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 679,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterized by violent and forceful activity or movement",
+        "very intense"
+      ]
+    },
+    {
+      "senseId": "medical%1:04:00::",
+      "lemma": "medical",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person",
+      "synsetId": "00143181-n",
+      "words": 20,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 681,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a thorough physical examination",
+        "includes a variety of tests depending on the age and sex and health of the person"
+      ]
+    },
+    {
+      "senseId": "medical%3:00:00::",
+      "lemma": "medical",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "requiring or amenable to treatment by medicine especially as opposed to surgery",
+      "synsetId": "01172532-a",
+      "words": 12,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 681,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "requiring or amenable to treatment by medicine especially as opposed to surgery"
+      ]
+    },
+    {
+      "senseId": "medical%3:01:02::",
+      "lemma": "medical",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "of or belonging to Aesculapius or the healing art",
+      "synsetId": "02617872-a",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 681,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or belonging to Aesculapius or the healing art"
+      ]
+    },
+    {
+      "senseId": "medical%3:01:00::",
+      "lemma": "medical",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "relating to the study or practice of medicine",
+      "synsetId": "02770888-a",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 681,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "relating to the study or practice of medicine"
+      ]
+    },
+    {
+      "senseId": "movie%1:10:00::",
+      "lemma": "movie",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+      "synsetId": "06626039-n",
+      "words": 21,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 682,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+      ]
+    },
+    {
+      "senseId": "original%1:06:00::",
+      "lemma": "original",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an original creation (i.e., an audio recording) from which copies can be made",
+      "synsetId": "03732765-n",
+      "words": 14,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 683,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an original creation (i.e., an audio recording) from which copies can be made"
+      ]
+    },
+    {
+      "senseId": "original%5:00:00:primary:00",
+      "lemma": "original",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(of e.g. information) not secondhand or by way of something intermediary",
+      "synsetId": "01858967-s",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 683,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of e.g. information) not secondhand or by way of something intermediary"
+      ]
+    },
+    {
+      "senseId": "performance%1:04:00::",
+      "lemma": "performance",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it",
+      "synsetId": "00098324-n",
+      "words": 16,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 685,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of performing",
+        "of doing something successfully",
+        "using knowledge as distinguished from merely possessing it"
+      ]
+    },
+    {
+      "senseId": "performance%1:10:00::",
+      "lemma": "performance",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a dramatic or musical entertainment",
+      "synsetId": "06904543-n",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 685,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a dramatic or musical entertainment"
+      ]
+    },
+    {
+      "senseId": "press%1:10:00::",
+      "lemma": "press",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the print media responsible for gathering and publishing news in the form of newspapers or magazines",
+      "synsetId": "06274022-n",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 686,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the print media responsible for gathering and publishing news in the form of newspapers or magazines"
+      ]
+    },
+    {
+      "senseId": "press%2:35:00::",
+      "lemma": "press",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "exert pressure or force to or upon",
+      "synsetId": "01449876-v",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 686,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "exert pressure or force to or upon"
+      ]
+    },
+    {
+      "senseId": "sent%3:00:00::",
+      "lemma": "sent",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "caused or enabled to go or be conveyed or transmitted",
+      "synsetId": "02116728-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 689,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "caused or enabled to go or be conveyed or transmitted"
+      ]
+    },
+    {
+      "senseId": "tried%5:00:00:reliable:00",
+      "lemma": "tried",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "tested and proved to be reliable",
+      "synsetId": "00728040-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 691,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "tested and proved to be reliable"
+      ]
+    },
+    {
+      "senseId": "worth%1:07:00::",
+      "lemma": "worth",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the quality that renders something desirable or valuable or useful",
+      "synsetId": "05145473-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 693,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the quality that renders something desirable or valuable or useful"
+      ]
+    },
+    {
+      "senseId": "worth%1:23:00::",
+      "lemma": "worth",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an indefinite quantity of something having a specified value",
+      "synsetId": "13786482-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 693,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an indefinite quantity of something having a specified value"
+      ]
+    },
+    {
+      "senseId": "worth%5:00:00:worthy:00",
+      "lemma": "worth",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(often used ironically) worthy of being treated in a particular way",
+      "synsetId": "02596626-s",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 693,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(often used ironically) worthy of being treated in a particular way"
+      ]
+    },
+    {
+      "senseId": "bill%1:10:01::",
+      "lemma": "bill",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an itemized statement of money owed for goods shipped or services rendered",
+      "synsetId": "06528946-n",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 696,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an itemized statement of money owed for goods shipped or services rendered"
+      ]
+    },
+    {
+      "senseId": "bill%2:32:00::",
+      "lemma": "bill",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "advertise especially by posters or placards",
+      "synsetId": "00979185-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 696,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "advertise especially by posters or placards"
+      ]
+    },
+    {
+      "senseId": "bill%2:32:01::",
+      "lemma": "bill",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "publicize or announce by placards",
+      "synsetId": "00993932-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 696,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "publicize or announce by placards"
+      ]
+    },
+    {
+      "senseId": "cool%3:00:03::",
+      "lemma": "cool",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "inducing the impression of coolness; used especially of greens and blues and violets when referring to color",
+      "synsetId": "02542621-a",
+      "words": 17,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 698,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "inducing the impression of coolness",
+        "used especially of greens and blues and violets when referring to color"
+      ]
+    },
+    {
+      "senseId": "cool%5:00:00:composed:00",
+      "lemma": "cool",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "marked by calm self-control (especially in trying circumstances); unemotional",
+      "synsetId": "00532977-s",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 698,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by calm self-control (especially in trying circumstances)",
+        "unemotional"
+      ]
+    },
+    {
+      "senseId": "cool%1:07:02::",
+      "lemma": "cool",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "great coolness and composure under strain",
+      "synsetId": "04911339-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 698,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "great coolness and composure under strain"
+      ]
+    },
+    {
+      "senseId": "director%1:18:02::",
+      "lemma": "director",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "someone who supervises the actors and directs the action in the production of a show",
+      "synsetId": "10034960-n",
+      "words": 15,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 699,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "someone who supervises the actors and directs the action in the production of a show"
+      ]
+    },
+    {
+      "senseId": "director%1:18:03::",
+      "lemma": "director",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "member of a board of directors",
+      "synsetId": "10035230-n",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 699,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "member of a board of directors"
+      ]
+    },
+    {
+      "senseId": "exactly%4:02:01::",
+      "lemma": "exactly",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "indicating exactness or preciseness",
+      "synsetId": "00159432-r",
+      "words": 4,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 700,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "indicating exactness or preciseness"
+      ]
+    },
+    {
+      "senseId": "giving%1:04:01::",
+      "lemma": "giving",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "disposing of property by voluntary transfer without receiving value in return",
+      "synsetId": "00091599-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 701,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "disposing of property by voluntary transfer without receiving value in return"
+      ]
+    }
+  ]
+}

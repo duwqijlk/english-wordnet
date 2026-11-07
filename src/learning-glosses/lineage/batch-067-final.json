@@ -1,0 +1,1204 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 67,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 43,
+      "of": 50,
+      "rate": 0.86
+    },
+    "selfApproved": [
+      "focus%2:30:01::",
+      "ice%1:06:02::",
+      "section%1:04:00::",
+      "consider%2:31:05::",
+      "drop%1:06:01::",
+      "fair%5:00:00:legible:00",
+      "positive%5:00:00:confident:00"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "cde91256e457b784b7413998e3d4d33370227652fc74b874a9420d578975f637"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "content%1:06:00::",
+      "lemma": "content",
+      "pos": "n",
+      "definition": "something (a person or object or scene) selected by an artist or photographer for graphic representation",
+      "sourceBranches": [
+        "something (a person or object or scene) selected by an artist or photographer for graphic representation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the person, object, or scene that an artist or photographer chooses to show in a picture",
+      "scope": "This is the subject chosen for a picture, not the material held inside something or the feeling of being satisfied.",
+      "examples": [
+        "The content of the photograph is a child sleeping in a doorway.",
+        "The artist changed the content of the picture from a vase to a bowl of fruit."
+      ],
+      "branchCoverage": [
+        "something (a person or object or scene) selected by an artist or photographer for graphic representation -> the person, object, or scene that an artist or photographer chooses to show in a picture"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "credit%1:09:00::",
+      "lemma": "credit",
+      "pos": "n",
+      "definition": "an estimate, based on previous dealings, of a person's or an organization's ability to fulfill their financial commitments",
+      "sourceBranches": [
+        "an estimate, based on previous dealings, of a person's or an organization's ability to fulfill their financial commitments"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a judgement, based on past dealings, of how reliably a person or organization can pay what it owes",
+      "scope": "This is an assessment of someone's ability to repay, not a loan arrangement, an academic unit, or a note naming a source.",
+      "examples": [
+        "The bank refused the loan because the company's credit was poor.",
+        "Suppliers check a new customer's credit before agreeing to monthly payments."
+      ],
+      "branchCoverage": [
+        "an estimate, based on previous dealings, of a person's or an organization's ability to fulfill their financial commitments -> a judgement, based on past dealings, of how reliably a person or organization can pay what it owes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "credit%1:09:00:: -> an estimate of a borrower's ability to repay; credit%1:04:00:: -> an academic unit for completing a course; credit%1:04:01:: -> praise for an achievement in the phrase 'to your credit'; credit%1:10:02:: -> a note naming the source of information; credit%1:21:00:: -> a buy-now-pay-later payment arrangement",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "credit%1:04:00::",
+      "lemma": "credit",
+      "pos": "n",
+      "definition": "recognition by a college or university that a course of studies has been successfully completed; typically measured in semester hours",
+      "sourceBranches": [
+        "recognition by a college or university that a course of studies has been successfully completed",
+        "typically measured in semester hours"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a college or university's official recognition that a student has passed a course, usually counted in hours for each semester",
+      "scope": "This is the academic unit for finishing a course, not praise for an achievement or a lender's trust in repayment.",
+      "examples": [
+        "She earned three credits for the biology course.",
+        "He needs six more credits to graduate."
+      ],
+      "branchCoverage": [
+        "recognition by a college or university that a course of studies has been successfully completed -> a college or university's official recognition that a student has passed a course",
+        "typically measured in semester hours -> usually counted in hours for each semester"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "credit%1:09:00:: -> an estimate of a borrower's ability to repay; credit%1:04:00:: -> an academic unit for completing a course; credit%1:04:01:: -> praise for an achievement in the phrase 'to your credit'; credit%1:10:02:: -> a note naming the source of information; credit%1:21:00:: -> a buy-now-pay-later payment arrangement",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "credit%1:04:01::",
+      "lemma": "credit",
+      "pos": "n",
+      "definition": "used in the phrase ‘to your credit’ in order to indicate an achievement deserving praise",
+      "sourceBranches": [
+        "used in the phrase ‘to your credit’ in order to indicate an achievement deserving praise"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "praise you have earned for an achievement, used in the phrase ‘to your …’",
+      "scope": "This is praise for an achievement, not an academic course unit or a lender's trust in repayment.",
+      "examples": [
+        "Winning the scholarship was greatly to her credit.",
+        "It is to his credit that he admitted the mistake at once."
+      ],
+      "branchCoverage": [
+        "used in the phrase ‘to your credit’ in order to indicate an achievement deserving praise -> praise you have earned for an achievement, used in the phrase ‘to your …’"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "credit%1:09:00:: -> an estimate of a borrower's ability to repay; credit%1:04:00:: -> an academic unit for completing a course; credit%1:04:01:: -> praise for an achievement in the phrase 'to your credit'; credit%1:10:02:: -> a note naming the source of information; credit%1:21:00:: -> a buy-now-pay-later payment arrangement",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "credit%1:10:02::",
+      "lemma": "credit",
+      "pos": "n",
+      "definition": "a short note recognizing a source of information or of a quoted passage",
+      "sourceBranches": [
+        "a short note recognizing a source of information or of a quoted passage"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a brief note that names where a piece of information or a quoted passage came from",
+      "scope": "This is a note naming a source, not praise for an achievement or an academic course unit.",
+      "examples": [
+        "The photo credit at the bottom of the page names the photographer.",
+        "She added a credit for the original article at the end of her essay."
+      ],
+      "branchCoverage": [
+        "a short note recognizing a source of information or of a quoted passage -> a brief note that names where a piece of information or a quoted passage came from"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "credit%1:09:00:: -> an estimate of a borrower's ability to repay; credit%1:04:00:: -> an academic unit for completing a course; credit%1:04:01:: -> praise for an achievement in the phrase 'to your credit'; credit%1:10:02:: -> a note naming the source of information; credit%1:21:00:: -> a buy-now-pay-later payment arrangement",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "credit%1:21:00::",
+      "lemma": "credit",
+      "pos": "n",
+      "definition": "arrangement for deferred payment for goods and services",
+      "sourceBranches": [
+        "arrangement for deferred payment for goods and services"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an agreement that lets someone receive goods or services now and pay for them later",
+      "scope": "This is a buy-now-pay-later arrangement, not a lender's estimate of repayment ability or a note naming a source.",
+      "examples": [
+        "The shop offered him six months' credit on the new sofa.",
+        "They bought the car on credit and paid it off over two years."
+      ],
+      "branchCoverage": [
+        "arrangement for deferred payment for goods and services -> an agreement that lets someone receive goods or services now and pay for them later"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "credit%1:09:00:: -> an estimate of a borrower's ability to repay; credit%1:04:00:: -> an academic unit for completing a course; credit%1:04:01:: -> praise for an achievement in the phrase 'to your credit'; credit%1:10:02:: -> a note naming the source of information; credit%1:21:00:: -> a buy-now-pay-later payment arrangement",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cross%2:35:00::",
+      "lemma": "cross",
+      "pos": "v",
+      "definition": "breed animals or plants using parents of different races and varieties",
+      "sourceBranches": [
+        "breed animals or plants using parents of different races and varieties"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to produce young animals or plants from parents of different breeds or types",
+      "scope": "This is breeding two different varieties, not moving to the other side of something or folding limbs into a shape.",
+      "examples": [
+        "The farmer crossed a hardy local sheep with a larger foreign breed.",
+        "These roses were crossed to produce a flower that resists disease."
+      ],
+      "branchCoverage": [
+        "breed animals or plants using parents of different races and varieties -> to produce young animals or plants from parents of different breeds or types"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cross%2:35:00:: -> breeding animals or plants of different varieties; cross%2:38:04:: -> folding something into the shape of an X",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cross%2:38:04::",
+      "lemma": "cross",
+      "pos": "v",
+      "definition": "fold so as to resemble a cross",
+      "sourceBranches": [
+        "fold so as to resemble a cross"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to fold something so its parts lie over each other in the shape of an X",
+      "scope": "This is folding limbs or objects into an X shape, not moving to the other side of something or breeding plants.",
+      "examples": [
+        "She crossed her legs and leaned back in the chair.",
+        "He crossed his arms and refused to answer."
+      ],
+      "branchCoverage": [
+        "fold so as to resemble a cross -> to fold something so its parts lie over each other in the shape of an X"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cross%2:35:00:: -> breeding animals or plants of different varieties; cross%2:38:04:: -> folding something into the shape of an X",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "focus%1:19:00::",
+      "lemma": "focus",
+      "pos": "n",
+      "definition": "a point of convergence of light (or other radiation) or a point from which it diverges",
+      "sourceBranches": [
+        "a point of convergence of light (or other radiation) or a point from which it diverges"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the point where light or other radiation comes together, or the point it spreads out from",
+      "scope": "This is the optical meeting or spreading point of light, not the centre of an infection or the main subject of attention.",
+      "examples": [
+        "The magnifying glass burned a hole by bringing sunlight to a focus on the leaf.",
+        "In the diagram, the rays spread out again after passing through the focus."
+      ],
+      "branchCoverage": [
+        "a point of convergence of light (or other radiation) or a point from which it diverges -> the point where light or other radiation comes together, or the point it spreads out from"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "focus%1:19:00:: -> the point where light rays meet or spread out; focus%1:26:00:: -> the centre of an infection in the body; focus%2:30:00:: -> an image becoming sharp by itself; focus%2:30:01:: -> turning a lens to make an image sharp",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "focus%1:26:00::",
+      "lemma": "focus",
+      "pos": "n",
+      "definition": "a central point or locus of an infection in an organism",
+      "sourceBranches": [
+        "a central point or locus of an infection in an organism"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the main spot where an infection collects inside a living body",
+      "scope": "This is the site of an infection in the body, not a point where light rays meet or the main subject of attention.",
+      "examples": [
+        "The scan revealed a focus of infection in her left lung.",
+        "Surgeons removed the focus of infection from the bone."
+      ],
+      "branchCoverage": [
+        "a central point or locus of an infection in an organism -> the main spot where an infection collects inside a living body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "focus%1:19:00:: -> the point where light rays meet or spread out; focus%1:26:00:: -> the centre of an infection in the body; focus%2:30:00:: -> an image becoming sharp by itself; focus%2:30:01:: -> turning a lens to make an image sharp",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "focus%2:30:00::",
+      "lemma": "focus",
+      "pos": "v",
+      "definition": "become focussed or come into focus",
+      "sourceBranches": [
+        "become focussed or come into focus"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to grow sharp and clear, as an image does when a lens is turned",
+      "scope": "This is an image becoming sharp by itself, not a person turning a lens to make it sharp.",
+      "examples": [
+        "The picture on the screen slowly focused as the projector warmed up.",
+        "Wait a moment while the camera focuses."
+      ],
+      "branchCoverage": [
+        "become focussed or come into focus -> to grow sharp and clear, as an image does when a lens is turned"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "focus%1:19:00:: -> the point where light rays meet or spread out; focus%1:26:00:: -> the centre of an infection in the body; focus%2:30:00:: -> an image becoming sharp by itself; focus%2:30:01:: -> turning a lens to make an image sharp",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "focus%2:30:01::",
+      "lemma": "focus",
+      "pos": "v",
+      "definition": "put (an image) into focus",
+      "sourceBranches": [
+        "put (an image) into focus"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make an image sharp",
+      "scope": "This is a person turning a lens to make an image sharp, not an image becoming sharp on its own.",
+      "examples": [
+        "She focused the microscope before looking at the cells.",
+        "He focused the camera on the bird in the tree."
+      ],
+      "branchCoverage": [
+        "put (an image) into focus -> to make an image sharp"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "focus%1:19:00:: -> the point where light rays meet or spread out; focus%1:26:00:: -> the centre of an infection in the body; focus%2:30:00:: -> an image becoming sharp by itself; focus%2:30:01:: -> turning a lens to make an image sharp",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Turn a lens' adds a method; 'put an image into focus' can be done other ways. Say 'to make an image sharp'."
+    },
+    {
+      "senseId": "ice%1:06:02::",
+      "lemma": "ice",
+      "pos": "n",
+      "definition": "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride; used as a stimulant to the nervous system and as an appetite suppressant",
+      "sourceBranches": [
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride",
+        "used as a stimulant to the nervous system and as an appetite suppressant"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a drug derived from amphetamine, also called Methedrine, in the form of a crystalline hydrochloride; it speeds up the nervous system and reduces hunger",
+      "scope": "This is the stimulant drug also called Methedrine, not frozen water, a frozen dessert, a sugar topping, or a skating rink.",
+      "examples": [
+        "The rehab centre helps young people who are addicted to ice.",
+        "Customs officers seized two kilos of ice at the airport."
+      ],
+      "branchCoverage": [
+        "an amphetamine derivative (trade name Methedrine) used in the form of a crystalline hydrochloride -> a drug derived from amphetamine, also called Methedrine, in the form of a crystalline hydrochloride",
+        "used as a stimulant to the nervous system and as an appetite suppressant -> it speeds up the nervous system and reduces hunger"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ice%1:06:02:: -> the stimulant drug also called Methedrine; ice%1:13:00:: -> a frozen fruit dessert with no milk; ice%1:13:01:: -> a sweet sugar coating for cakes; ice%1:06:00:: -> a rink for skating or hockey",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'sold' and 'clear'; the source says 'used in the form of a crystalline hydrochloride', not sale or clarity."
+    },
+    {
+      "senseId": "ice%1:13:00::",
+      "lemma": "ice",
+      "pos": "n",
+      "definition": "a frozen dessert with fruit flavoring (especially one containing no milk)",
+      "sourceBranches": [
+        "a frozen dessert with fruit flavoring (especially one containing no milk)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a frozen dessert flavored with fruit, especially one made without milk",
+      "scope": "A sweet frozen fruit dessert, not the sugar topping for cakes, the skating rink, the drug, or frozen water.",
+      "examples": [
+        "We bought lemon ice at the fair on a hot afternoon.",
+        "The children shared a bowl of cherry ice after dinner."
+      ],
+      "branchCoverage": [
+        "a frozen dessert with fruit flavoring (especially one containing no milk) -> a frozen dessert flavored with fruit, especially one made without milk"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ice%1:06:02:: -> the stimulant drug also called Methedrine; ice%1:13:00:: -> a frozen fruit dessert with no milk; ice%1:13:01:: -> a sweet sugar coating for cakes; ice%1:06:00:: -> a rink for skating or hockey",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ice%1:13:01::",
+      "lemma": "ice",
+      "pos": "n",
+      "definition": "a flavored sugar topping used to coat and decorate cakes",
+      "sourceBranches": [
+        "a flavored sugar topping used to coat and decorate cakes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a sweet sugar coating with added flavor, spread over cakes to cover and decorate them",
+      "scope": "A sugar coating for cakes, not the frozen fruit dessert, the skating rink, or frozen water.",
+      "examples": [
+        "She spread pink ice over the birthday cake.",
+        "The wedding cake was decorated with delicate white ice."
+      ],
+      "branchCoverage": [
+        "a flavored sugar topping used to coat and decorate cakes -> a sweet sugar coating with added flavor, spread over cakes to cover and decorate them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ice%1:06:02:: -> the stimulant drug also called Methedrine; ice%1:13:00:: -> a frozen fruit dessert with no milk; ice%1:13:01:: -> a sweet sugar coating for cakes; ice%1:06:00:: -> a rink for skating or hockey",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ice%1:06:00::",
+      "lemma": "ice",
+      "pos": "n",
+      "definition": "a rink with a floor of ice for ice hockey or ice skating",
+      "sourceBranches": [
+        "a rink with a floor of ice for ice hockey or ice skating"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a rink with a frozen floor used for hockey or for skating",
+      "scope": "A rink or arena with a frozen floor, not frozen water in general or the frozen fruit dessert.",
+      "examples": [
+        "The ice at the community center opens at nine.",
+        "Our hockey club rents the ice for practice twice a week."
+      ],
+      "branchCoverage": [
+        "a rink with a floor of ice for ice hockey or ice skating -> a rink with a frozen floor used for hockey or for skating"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ice%1:06:02:: -> the stimulant drug also called Methedrine; ice%1:13:00:: -> a frozen fruit dessert with no milk; ice%1:13:01:: -> a sweet sugar coating for cakes; ice%1:06:00:: -> a rink for skating or hockey",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leading%5:00:00:up:00",
+      "lemma": "leading",
+      "pos": "a",
+      "definition": "having the leading position or higher score in a contest",
+      "sourceBranches": [
+        "having the leading position or higher score in a contest"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in front of others or with a higher score in a competition",
+      "scope": "Being ahead in a contest, not merely important, main, or most successful in general.",
+      "examples": [
+        "With two laps left, she was the leading runner.",
+        "The leading side held its advantage until the final whistle."
+      ],
+      "branchCoverage": [
+        "having the leading position or higher score in a contest -> in front of others or with a higher score in a competition"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "region%1:23:00::",
+      "lemma": "region",
+      "pos": "n",
+      "definition": "the approximate amount of something (usually used prepositionally as in ‘in the region of’)",
+      "sourceBranches": [
+        "the approximate amount of something (usually used prepositionally as in ‘in the region of’)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a rough or estimated amount of something, usually used after a preposition to mean ‘about’ or ‘around’",
+      "scope": "An approximate quantity or sum, not a geographic area or a part of the body.",
+      "examples": [
+        "The repairs will cost in the region of two hundred dollars.",
+        "He earns somewhere in the region of fifty thousand a year."
+      ],
+      "branchCoverage": [
+        "the approximate amount of something (usually used prepositionally as in ‘in the region of’) -> a rough or estimated amount of something, usually used after a preposition to mean ‘about’ or ‘around’"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "section%1:04:00::",
+      "lemma": "section",
+      "pos": "n",
+      "definition": "the cutting of or into body tissues or organs (especially by a surgeon as part of an operation)",
+      "sourceBranches": [
+        "the cutting of or into body tissues or organs (especially by a surgeon as part of an operation)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of cutting into body tissue or an organ, especially by a surgeon during an operation",
+      "scope": "A surgical cut into tissue, not a part of a whole, a fruit segment, or a group of instruments.",
+      "examples": [
+        "The surgeon made a section through the tissue to reach the growth.",
+        "The operation involved a section through the abdominal wall."
+      ],
+      "branchCoverage": [
+        "the cutting of or into body tissues or organs (especially by a surgeon as part of an operation) -> the act of cutting into body tissue or an organ, especially by a surgeon during an operation"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "section%1:04:00:: -> surgical cutting; section%1:09:00:: -> part of a whole; section%1:13:00:: -> citrus fruit segment; section%1:14:01:: -> orchestra instrument group",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 ('a small section of the muscle') reads as a portion, not a cut; replace with a clear incision example."
+    },
+    {
+      "senseId": "section%1:09:00::",
+      "lemma": "section",
+      "pos": "n",
+      "definition": "one of the portions into which something is regarded as divided and which together constitute a whole",
+      "sourceBranches": [
+        "one of the portions into which something is regarded as divided and which together constitute a whole"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one of the parts that something is thought of as being divided into, which together make up the whole",
+      "scope": "A part of a whole such as a document or machine, not a surgical cut, a fruit segment, or an orchestra group.",
+      "examples": [
+        "The book is divided into three sections.",
+        "Each section of the machine can be replaced separately."
+      ],
+      "branchCoverage": [
+        "one of the portions into which something is regarded as divided and which together constitute a whole -> one of the parts that something is thought of as being divided into, which together make up the whole"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "section%1:04:00:: -> surgical cutting; section%1:09:00:: -> part of a whole; section%1:13:00:: -> citrus fruit segment; section%1:14:01:: -> orchestra instrument group",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "section%1:13:00::",
+      "lemma": "section",
+      "pos": "n",
+      "definition": "a segment of a citrus fruit",
+      "sourceBranches": [
+        "a segment of a citrus fruit"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one of the parts that make up a citrus fruit",
+      "scope": "A piece inside an orange, lemon, or similar fruit, not a part of a document or an orchestra group.",
+      "examples": [
+        "She peeled the orange and separated the sections.",
+        "He ate a section of grapefruit with his breakfast."
+      ],
+      "branchCoverage": [
+        "a segment of a citrus fruit -> one of the parts that make up a citrus fruit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "section%1:04:00:: -> surgical cutting; section%1:09:00:: -> part of a whole; section%1:13:00:: -> citrus fruit segment; section%1:14:01:: -> orchestra instrument group",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "section%1:14:01::",
+      "lemma": "section",
+      "pos": "n",
+      "definition": "a division of an orchestra containing all instruments of the same class",
+      "sourceBranches": [
+        "a division of an orchestra containing all instruments of the same class"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a group within an orchestra made up of all the instruments of one kind",
+      "scope": "A group of like instruments in an orchestra, not a part of a document, a fruit segment, or a surgical cut.",
+      "examples": [
+        "The string section played softly under the soloist.",
+        "The brass section drowned out the woodwinds."
+      ],
+      "branchCoverage": [
+        "a division of an orchestra containing all instruments of the same class -> a group within an orchestra made up of all the instruments of one kind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "section%1:04:00:: -> surgical cutting; section%1:09:00:: -> part of a whole; section%1:13:00:: -> citrus fruit segment; section%1:14:01:: -> orchestra instrument group",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sort%1:22:00::",
+      "lemma": "sort",
+      "pos": "n",
+      "definition": "an operation that segregates items into groups according to a specified criterion",
+      "sourceBranches": [
+        "an operation that segregates items into groups according to a specified criterion"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a process that separates things into groups based on a particular rule",
+      "scope": "A process of grouping things by a rule, not a type or kind of thing.",
+      "examples": [
+        "A quick sort by date put the oldest orders at the top.",
+        "The sort separated the ripe fruit from the unripe."
+      ],
+      "branchCoverage": [
+        "an operation that segregates items into groups according to a specified criterion -> a process that separates things into groups based on a particular rule"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "speed%1:06:00::",
+      "lemma": "speed",
+      "pos": "n",
+      "definition": "a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression",
+      "sourceBranches": [
+        "a central nervous system stimulant that increases energy and decreases appetite",
+        "used to treat narcolepsy and some forms of depression"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a drug that stimulates the central nervous system, raising energy and lowering appetite, used to treat narcolepsy and some kinds of depression",
+      "scope": "A stimulant drug, not the rate of movement or a camera lens ratio.",
+      "examples": [
+        "Doctors no longer prescribe speed for weight loss.",
+        "The stimulant speed can cause severe insomnia."
+      ],
+      "branchCoverage": [
+        "a central nervous system stimulant that increases energy and decreases appetite -> a drug that stimulates the central nervous system, raising energy and lowering appetite",
+        "used to treat narcolepsy and some forms of depression -> used to treat narcolepsy and some kinds of depression"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "speed%1:06:00:: -> stimulant drug; speed%1:24:00:: -> camera lens ratio",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "speed%1:24:00::",
+      "lemma": "speed",
+      "pos": "n",
+      "definition": "the ratio of the focal length to the diameter of a (camera) lens system",
+      "sourceBranches": [
+        "the ratio of the focal length to the diameter of a (camera) lens system"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the ratio of the focal length to the diameter of a camera lens system",
+      "scope": "A number describing a camera lens, not the rate of movement or a stimulant drug.",
+      "examples": [
+        "A lens with a speed of f/1.8 gathers a lot of light.",
+        "Photographers pick a lens speed to suit the available light."
+      ],
+      "branchCoverage": [
+        "the ratio of the focal length to the diameter of a (camera) lens system -> the ratio of the focal length to the diameter of a camera lens system"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "speed%1:06:00:: -> stimulant drug; speed%1:24:00:: -> camera lens ratio",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "travel%2:38:05::",
+      "lemma": "travel",
+      "pos": "v",
+      "definition": "travel from place to place, as for the purpose of finding work, preaching, or acting as a judge",
+      "sourceBranches": [
+        "travel from place to place, as for the purpose of finding work, preaching, or acting as a judge"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "move from one place to another, for example to find work, to preach, or to serve as a judge",
+      "scope": "Moving between places for work or duty, not taking a single trip for pleasure.",
+      "examples": [
+        "He traveled from town to town looking for work.",
+        "The judge travels the circuit hearing cases in each county."
+      ],
+      "branchCoverage": [
+        "travel from place to place, as for the purpose of finding work, preaching, or acting as a judge -> move from one place to another, for example to find work, to preach, or to serve as a judge"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "travel%2:38:05:: -> moving place to place for work or duty; travel%2:38:02:: -> going upon or across something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "travel%2:38:02::",
+      "lemma": "travel",
+      "pos": "v",
+      "definition": "travel upon or across",
+      "sourceBranches": [
+        "travel upon or across"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to go over or across something, for example a road or a stretch of land",
+      "scope": "This is not moving from place to place to find work or preach, but going over the surface of a route or area.",
+      "examples": [
+        "They travelled the old coast road in a single afternoon.",
+        "Few trains travel this line in winter."
+      ],
+      "branchCoverage": [
+        "travel upon or across -> go over or across something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "travel%2:38:05:: -> moving place to place for work or duty; travel%2:38:02:: -> going upon or across something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "consider%2:31:05::",
+      "lemma": "consider",
+      "pos": "v",
+      "definition": "regard or treat with consideration, respect, and esteem",
+      "sourceBranches": [
+        "regard or treat with consideration, respect, and esteem"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to regard someone with respect and treat them with care",
+      "scope": "This is not taking facts into account when deciding, but holding a person in respect and treating them well.",
+      "examples": [
+        "Children in that village are taught to consider their elders.",
+        "A good host considers the comfort of every guest."
+      ],
+      "branchCoverage": [
+        "regard or treat with consideration, respect, and esteem -> to regard someone with respect and treat them with care"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "consider%2:31:05:: -> treating someone with respect; consider%2:32:00:: -> taking something into account",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples 'well/highly considered' are not idiomatic for people; use 'highly regarded'. Also replace 'high esteem' with plainer wording."
+    },
+    {
+      "senseId": "consider%2:32:00::",
+      "lemma": "consider",
+      "pos": "v",
+      "definition": "show consideration for; take into account",
+      "sourceBranches": [
+        "show consideration for",
+        "take into account"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to be mindful of something and include it when making a decision",
+      "scope": "This is not holding a person in respect, but taking a fact or factor into account.",
+      "examples": [
+        "Please consider her age when you plan the walk.",
+        "The judge considered all the evidence before ruling."
+      ],
+      "branchCoverage": [
+        "show consideration for -> be mindful of",
+        "take into account -> include it when making a decision"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "consider%2:31:05:: -> treating someone with respect; consider%2:32:00:: -> taking something into account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "contact%1:06:01::",
+      "lemma": "contact",
+      "pos": "n",
+      "definition": "a thin curved glass or plastic lens designed to fit over the cornea in order to correct vision or to deliver medication",
+      "sourceBranches": [
+        "a thin curved glass or plastic lens designed to fit over the cornea in order to correct vision or to deliver medication"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thin curved lens of glass or plastic worn on the eye to fix sight or give medicine",
+      "scope": "This is not a person you know or an act of touching, but a lens worn directly on the eye.",
+      "examples": [
+        "He put his contact lenses in before the match.",
+        "These contacts are made to release medicine slowly."
+      ],
+      "branchCoverage": [
+        "a thin curved glass or plastic lens designed to fit over the cornea in order to correct vision or to deliver medication -> a thin curved lens of glass or plastic worn on the eye to fix sight or give medicine"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drop%1:06:01::",
+      "lemma": "drop",
+      "pos": "n",
+      "definition": "a curtain that can be lowered and raised onto a stage from the flies; often used as background scenery",
+      "sourceBranches": [
+        "a curtain that can be lowered and raised onto a stage from the flies",
+        "often used as background scenery"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a stage curtain that can be raised and lowered from above, often used as background scenery",
+      "scope": "This is not a fall or a small amount of liquid, but a piece of stage scenery.",
+      "examples": [
+        "The drop came down to reveal a painted forest.",
+        "They lowered the drop for the final scene."
+      ],
+      "branchCoverage": [
+        "a curtain that can be lowered and raised onto a stage from the flies -> a stage curtain that can be raised and lowered from above",
+        "often used as background scenery -> often used as background scenery"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drop%1:06:01:: -> a stage curtain lowered from above; drop%1:11:00:: -> a fast fall under gravity; drop%2:32:00:: -> saying something casually",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Added 'painted' narrows background scenery to a painted cloth; keep 'background scenery' or 'backdrop' without 'painted'."
+    },
+    {
+      "senseId": "drop%1:11:00::",
+      "lemma": "drop",
+      "pos": "n",
+      "definition": "a free and rapid descent by the force of gravity",
+      "sourceBranches": [
+        "a free and rapid descent by the force of gravity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a fast, unchecked fall straight down, pulled by gravity",
+      "scope": "This is not a stage curtain or a casual remark, but a fall through the air.",
+      "examples": [
+        "It was a sheer drop of fifty metres to the water.",
+        "The drop from the cliff took only a few seconds."
+      ],
+      "branchCoverage": [
+        "a free and rapid descent by the force of gravity -> a fast, unchecked fall straight down, pulled by gravity"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drop%1:06:01:: -> a stage curtain lowered from above; drop%1:11:00:: -> a fast fall under gravity; drop%2:32:00:: -> saying something casually",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drop%2:32:00::",
+      "lemma": "drop",
+      "pos": "v",
+      "definition": "utter with seeming casualness",
+      "sourceBranches": [
+        "utter with seeming casualness"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to say something as if it does not matter much",
+      "scope": "This is not letting an object fall, but the casual way a remark is spoken.",
+      "examples": [
+        "She dropped a hint about the party and walked away.",
+        "He dropped the news as if it were nothing."
+      ],
+      "branchCoverage": [
+        "utter with seeming casualness -> say something as if it does not matter much"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drop%1:06:01:: -> a stage curtain lowered from above; drop%1:11:00:: -> a fast fall under gravity; drop%2:32:00:: -> saying something casually",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fair%5:00:00:equitable:00",
+      "lemma": "fair",
+      "pos": "a",
+      "definition": "gained or earned without cheating or stealing",
+      "sourceBranches": [
+        "gained or earned without cheating or stealing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "got or won honestly, with no cheating or theft",
+      "scope": "This is not a manuscript with few corrections, but money or winnings honestly come by.",
+      "examples": [
+        "It was a fair win, and nobody questioned it.",
+        "She made a fair profit from the sale."
+      ],
+      "branchCoverage": [
+        "gained or earned without cheating or stealing -> got or won honestly, with no cheating or theft"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fair%5:00:00:equitable:00 -> honestly earned, without cheating; fair%5:00:00:legible:00 -> a manuscript with few corrections",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fair%5:00:00:legible:00",
+      "lemma": "fair",
+      "pos": "a",
+      "definition": "(of a manuscript) having few alterations or corrections",
+      "sourceBranches": [
+        "(of a manuscript) having few alterations or corrections"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "describing a manuscript that has only a few changes or corrections",
+      "scope": "This is not honest dealing in money matters, but the state of a written draft.",
+      "examples": [
+        "The author sent a fair copy of the chapter to the editor.",
+        "The manuscript was fair, with only a few corrections in the margin."
+      ],
+      "branchCoverage": [
+        "(of a manuscript) having few alterations or corrections -> describing a manuscript that has only a few changes or corrections"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fair%5:00:00:equitable:00 -> honestly earned, without cheating; fair%5:00:00:legible:00 -> a manuscript with few corrections",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Added 'handwritten' restriction; definition applies to a manuscript, which may be typed. Say 'a manuscript with few changes'."
+    },
+    {
+      "senseId": "positive%3:00:05::",
+      "lemma": "positive",
+      "pos": "a",
+      "definition": "reckoned, situated or tending in the direction which naturally or arbitrarily is taken to indicate increase or progress or onward motion",
+      "sourceBranches": [
+        "reckoned, situated or tending in the direction which naturally or arbitrarily is taken to indicate increase or progress or onward motion"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "counted, placed or moving in the direction that is taken to mean increase, progress or forward movement",
+      "scope": "This is not being sure of oneself, but the direction of increase or forward movement.",
+      "examples": [
+        "On the graph, values rise in the positive direction.",
+        "The company reported positive growth for a third year."
+      ],
+      "branchCoverage": [
+        "reckoned, situated or tending in the direction which naturally or arbitrarily is taken to indicate increase or progress or onward motion -> counted, placed or moving in the direction that is taken to mean increase, progress or forward movement"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "positive%3:00:05:: -> pointing toward increase or progress; positive%5:00:00:confident:00 -> overly sure of oneself; positive%5:00:00:formal:01 -> officially set or required; positive%3:01:00:: -> relating to positivism; positive%5:00:00:charged:00 -> carrying a plus electric charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "positive%5:00:00:confident:00",
+      "lemma": "positive",
+      "pos": "a",
+      "definition": "marked by excessive confidence",
+      "sourceBranches": [
+        "marked by excessive confidence"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "showing more belief in oneself than the facts justify",
+      "scope": "This is not the direction of growth, but too much self-assurance.",
+      "examples": [
+        "He was so positive of success that he made no other plans.",
+        "Her positive manner annoyed the more cautious engineers."
+      ],
+      "branchCoverage": [
+        "marked by excessive confidence -> showing more belief in oneself than the facts justify"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "positive%3:00:05:: -> pointing toward increase or progress; positive%5:00:00:confident:00 -> overly sure of oneself; positive%5:00:00:formal:01 -> officially set or required; positive%3:01:00:: -> relating to positivism; positive%5:00:00:charged:00 -> carrying a plus electric charge",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'He was positive that...' shows the certain sense, not excessive confidence; replace with an example of overconfidence."
+    },
+    {
+      "senseId": "positive%5:00:00:formal:01",
+      "lemma": "positive",
+      "pos": "a",
+      "definition": "formally laid down or imposed",
+      "sourceBranches": [
+        "formally laid down or imposed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "officially stated and required by an authority",
+      "scope": "This is not a hopeful or confident feeling, but a rule or order set by authority.",
+      "examples": [
+        "The law lays a positive duty on employers to keep staff safe.",
+        "Under the treaty, each state has a positive obligation to act."
+      ],
+      "branchCoverage": [
+        "formally laid down or imposed -> officially stated and required by an authority"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "positive%3:00:05:: -> pointing toward increase or progress; positive%5:00:00:confident:00 -> overly sure of oneself; positive%5:00:00:formal:01 -> officially set or required; positive%3:01:00:: -> relating to positivism; positive%5:00:00:charged:00 -> carrying a plus electric charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "positive%3:01:00::",
+      "lemma": "positive",
+      "pos": "a",
+      "definition": "of or relating to positivism",
+      "sourceBranches": [
+        "of or relating to positivism"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Of or relating to the philosophy that knowledge comes only from observable facts and scientific evidence.",
+      "scope": "This refers to the philosophy that knowledge rests on observable facts, not to optimism, firm confidence, an imposed rule, or electric charge.",
+      "examples": [
+        "Comte's positive philosophy held that society should be studied with the methods of natural science.",
+        "The course traces the positive tradition, which treats only observable facts as real knowledge."
+      ],
+      "branchCoverage": [
+        "of or relating to positivism -> Of or relating to the philosophy that knowledge comes only from observable facts and scientific evidence"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "positive%3:00:05:: -> pointing toward increase or progress; positive%5:00:00:confident:00 -> overly sure of oneself; positive%5:00:00:formal:01 -> officially set or required; positive%3:01:00:: -> relating to positivism; positive%5:00:00:charged:00 -> carrying a plus electric charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "positive%5:00:00:charged:00",
+      "lemma": "positive",
+      "pos": "a",
+      "definition": "having a positive charge",
+      "sourceBranches": [
+        "having a positive charge"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Carrying the type of electric charge that is the opposite of the negative kind.",
+      "scope": "This describes the sign of an electric charge, not optimism, firm confidence, an imposed rule, or a direction of increase.",
+      "examples": [
+        "Protons carry a positive charge, while electrons carry the opposite one.",
+        "The glass rod became positively charged after being rubbed with silk."
+      ],
+      "branchCoverage": [
+        "having a positive charge -> Carrying the type of electric charge that is the opposite of the negative kind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "positive%3:00:05:: -> pointing toward increase or progress; positive%5:00:00:confident:00 -> overly sure of oneself; positive%5:00:00:formal:01 -> officially set or required; positive%3:01:00:: -> relating to positivism; positive%5:00:00:charged:00 -> carrying a plus electric charge",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sale%1:10:00::",
+      "lemma": "sale",
+      "pos": "n",
+      "definition": "an agreement (or contract) in which property is transferred from the seller (vendor) to the buyer (vendee) for a fixed price in money (paid or agreed to be paid by the buyer)",
+      "sourceBranches": [
+        "an agreement (or contract) in which property is transferred from the seller (vendor) to the buyer (vendee) for a fixed price in money (paid or agreed to be paid by the buyer)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A deal in which property passes from one person to another for a set amount of money, paid now or promised later.",
+      "scope": "This is the legal deal that transfers property for money, not a period of reduced prices or the act of offering goods.",
+      "examples": [
+        "The sale of the house was completed once the buyer paid the agreed price.",
+        "Under the contract of sale, the seller must hand over the goods by Friday."
+      ],
+      "branchCoverage": [
+        "an agreement (or contract) in which property is transferred from the seller (vendor) to the buyer (vendee) for a fixed price in money (paid or agreed to be paid by the buyer) -> A deal in which property passes from one person to another for a set amount of money, paid now or promised later"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "minute%1:23:00::",
+      "lemma": "minute",
+      "pos": "n",
+      "definition": "a unit of angular distance equal to a 60th of a degree",
+      "sourceBranches": [
+        "a unit of angular distance equal to a 60th of a degree"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A unit for measuring angles, equal to one sixtieth of a degree.",
+      "scope": "This is a measure of angle, not a unit of time or a written record of a meeting.",
+      "examples": [
+        "The star lies two minutes of arc north of the pole.",
+        "Each minute of arc is one sixtieth of a degree."
+      ],
+      "branchCoverage": [
+        "a unit of angular distance equal to a 60th of a degree -> A unit for measuring angles, equal to one sixtieth of a degree"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nature%1:07:01::",
+      "lemma": "nature",
+      "pos": "n",
+      "definition": "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions",
+      "sourceBranches": [
+        "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The whole set of a person's feelings and mental qualities that shape how they usually act and respond.",
+      "scope": "This means a person's inner character, not the natural world, the countryside, or the basic qualities of a thing.",
+      "examples": [
+        "It was not in her nature to complain, even when things went wrong.",
+        "He has a gentle nature that puts nervous patients at ease."
+      ],
+      "branchCoverage": [
+        "the complex of emotional and intellectual attributes that determine a person's characteristic actions and reactions -> The whole set of a person's feelings and mental qualities that shape how they usually act and respond"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "quick%5:00:00:intelligent:00",
+      "lemma": "quick",
+      "pos": "a",
+      "definition": "apprehending and responding with speed and sensitivity",
+      "sourceBranches": [
+        "apprehending and responding with speed and sensitivity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Understanding things fast and reacting with keen awareness.",
+      "scope": "This describes an alert, perceptive mind, not fast movement or a short duration.",
+      "examples": [
+        "She is quick to notice when a colleague is upset.",
+        "The child's quick mind grasped the puzzle at once."
+      ],
+      "branchCoverage": [
+        "apprehending and responding with speed and sensitivity -> Understanding things fast and reacting with keen awareness"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "significant%5:00:00:meaningful:00",
+      "lemma": "significant",
+      "pos": "a",
+      "definition": "rich in significance or implication",
+      "sourceBranches": [
+        "rich in significance or implication"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Full of meaning and suggesting more than is actually said.",
+      "scope": "This describes something full of meaning, not something large, important, or statistically notable.",
+      "examples": [
+        "Her silence was significant, hinting that she disagreed.",
+        "He gave me a significant look before leaving the room."
+      ],
+      "branchCoverage": [
+        "rich in significance or implication -> Full of meaning and suggesting more than is actually said"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "agree%2:40:02::",
+      "lemma": "agree",
+      "pos": "v",
+      "definition": "be agreeable or suitable",
+      "sourceBranches": [
+        "be agreeable or suitable"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Be pleasant or suitable for someone or something.",
+      "scope": "This means to suit or be good for something, not to share an opinion or to give consent.",
+      "examples": [
+        "The mild climate agrees with her health.",
+        "Such a rich meal does not agree with me."
+      ],
+      "branchCoverage": [
+        "be agreeable or suitable -> Be pleasant or suitable for someone or something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%2:35:12::",
+      "lemma": "clean",
+      "pos": "v",
+      "definition": "deprive wholly of money in a gambling game, robbery, etc.",
+      "sourceBranches": [
+        "deprive wholly of money in a gambling game, robbery, etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Take every bit of someone's money from them in gambling, robbery, or the like.",
+      "scope": "This means to strip someone of all their money, not to wash something or make it free of dirt.",
+      "examples": [
+        "The card sharp cleaned him out in a single night of poker.",
+        "The gang cleaned out the till before the alarm sounded."
+      ],
+      "branchCoverage": [
+        "deprive wholly of money in a gambling game, robbery, etc -> Take every bit of someone's money from them in gambling, robbery, or the like"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean%2:35:12:: -> strip someone of all their money; clean%3:00:03:: -> not polluting, especially not radioactive; clean%5:00:00:adroit:00 -> smooth and precise in execution; clean%2:29:00:: -> wash the body",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%3:00:03::",
+      "lemma": "clean",
+      "pos": "a",
+      "definition": "not spreading pollution or contamination; especially radioactive contamination",
+      "sourceBranches": [
+        "not spreading pollution or contamination",
+        "especially radioactive contamination"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Not spreading pollution or contamination, especially radioactive material.",
+      "scope": "This describes something that does not pollute, not something washed, free of dirt, or skilfully done.",
+      "examples": [
+        "The plant uses clean energy that releases no harmful pollution.",
+        "Engineers tested the soil to confirm it was clean of radioactive contamination."
+      ],
+      "branchCoverage": [
+        "not spreading pollution or contamination -> Not spreading pollution or contamination",
+        "especially radioactive contamination -> especially radioactive material"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean%2:35:12:: -> strip someone of all their money; clean%3:00:03:: -> not polluting, especially not radioactive; clean%5:00:00:adroit:00 -> smooth and precise in execution; clean%2:29:00:: -> wash the body",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%5:00:00:adroit:00",
+      "lemma": "clean",
+      "pos": "a",
+      "definition": "free from clumsiness; precisely or deftly executed",
+      "sourceBranches": [
+        "free from clumsiness",
+        "precisely or deftly executed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Done exactly and smoothly, with no awkwardness.",
+      "scope": "This describes a skilful, precise action, not something free of dirt or something that does not pollute.",
+      "examples": [
+        "The surgeon made a clean cut through the tissue.",
+        "With one clean stroke, he split the log in two."
+      ],
+      "branchCoverage": [
+        "free from clumsiness -> with no awkwardness",
+        "precisely or deftly executed -> Done exactly and smoothly"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean%2:35:12:: -> strip someone of all their money; clean%3:00:03:: -> not polluting, especially not radioactive; clean%5:00:00:adroit:00 -> smooth and precise in execution; clean%2:29:00:: -> wash the body",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%2:29:00::",
+      "lemma": "clean",
+      "pos": "v",
+      "definition": "clean one's body or parts thereof, as by washing",
+      "sourceBranches": [
+        "clean one's body or parts thereof, as by washing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Make one's body or a part of it free of dirt, for example by washing.",
+      "scope": "This is about washing the body, not about removing dirt from clothes or rooms, or about taking all someone's money.",
+      "examples": [
+        "The children cleaned themselves up before dinner.",
+        "He cleaned his teeth after breakfast."
+      ],
+      "branchCoverage": [
+        "clean one's body or parts thereof, as by washing -> Make one's body or a part of it free of dirt, for example by washing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean%2:35:12:: -> strip someone of all their money; clean%3:00:03:: -> not polluting, especially not radioactive; clean%5:00:00:adroit:00 -> smooth and precise in execution; clean%2:29:00:: -> wash the body",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

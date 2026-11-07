@@ -1,0 +1,1016 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 38,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1850,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "fix%2:30:01::",
+      "lemma": "fix",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "restore by replacing a part or putting together what is torn or broken",
+      "synsetId": "00261534-v",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1681,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "restore by replacing a part or putting together what is torn or broken"
+      ]
+    },
+    {
+      "senseId": "fly%1:06:00::",
+      "lemma": "fly",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth",
+      "synsetId": "03377906-n",
+      "words": 20,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1682,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth"
+      ]
+    },
+    {
+      "senseId": "fly%1:06:01::",
+      "lemma": "fly",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent",
+      "synsetId": "04419232-n",
+      "words": 18,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1682,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent"
+      ]
+    },
+    {
+      "senseId": "fly%5:00:00:alert:00",
+      "lemma": "fly",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(British informal) not to be deceived or hoodwinked",
+      "synsetId": "00092990-s",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1682,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(British informal) not to be deceived or hoodwinked"
+      ]
+    },
+    {
+      "senseId": "fly%1:05:00::",
+      "lemma": "fly",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "two-winged insects characterized by active flight",
+      "synsetId": "02192818-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1682,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "two-winged insects characterized by active flight"
+      ]
+    },
+    {
+      "senseId": "investigation%1:04:00::",
+      "lemma": "investigation",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the work of inquiring into something thoroughly and systematically",
+      "synsetId": "00635107-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1685,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the work of inquiring into something thoroughly and systematically"
+      ]
+    },
+    {
+      "senseId": "investigation%1:09:00::",
+      "lemma": "investigation",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an inquiry into unfamiliar or questionable activities",
+      "synsetId": "05808619-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1685,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an inquiry into unfamiliar or questionable activities"
+      ]
+    },
+    {
+      "senseId": "operating%3:44:00::",
+      "lemma": "operating",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "involved in a kind of operation",
+      "synsetId": "03162996-a",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1686,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "involved in a kind of operation"
+      ]
+    },
+    {
+      "senseId": "operating%5:00:01:operative:00",
+      "lemma": "operating",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "being in effect or operation",
+      "synsetId": "00836557-s",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1686,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "being in effect or operation"
+      ]
+    },
+    {
+      "senseId": "raise%2:30:01::",
+      "lemma": "raise",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "raise the level or amount of something",
+      "synsetId": "00158311-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1689,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "raise the level or amount of something"
+      ]
+    },
+    {
+      "senseId": "raise%2:38:00::",
+      "lemma": "raise",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "raise from a lower to a higher position",
+      "synsetId": "01978076-v",
+      "words": 8,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1689,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "raise from a lower to a higher position"
+      ]
+    },
+    {
+      "senseId": "responsibility%1:07:00::",
+      "lemma": "responsibility",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a form of trustworthiness; the trait of being answerable to someone for something or being responsible for one's conduct",
+      "synsetId": "04676604-n",
+      "words": 19,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1690,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a form of trustworthiness",
+        "the trait of being answerable to someone for something or being responsible for one's conduct"
+      ]
+    },
+    {
+      "senseId": "responsibility%1:04:00::",
+      "lemma": "responsibility",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the social force that binds you to the courses of action demanded by that force",
+      "synsetId": "01132241-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1690,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the social force that binds you to the courses of action demanded by that force"
+      ]
+    },
+    {
+      "senseId": "roll%1:11:02::",
+      "lemma": "roll",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "rotary motion of an object around its own axis",
+      "synsetId": "07456219-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1691,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "rotary motion of an object around its own axis"
+      ]
+    },
+    {
+      "senseId": "roll%1:11:01::",
+      "lemma": "roll",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a long heavy sea wave as it advances towards the shore",
+      "synsetId": "07364132-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1691,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a long heavy sea wave as it advances towards the shore"
+      ]
+    },
+    {
+      "senseId": "roll%2:42:00::",
+      "lemma": "roll",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "occur in soft rounded shapes",
+      "synsetId": "02693093-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1691,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "occur in soft rounded shapes"
+      ]
+    },
+    {
+      "senseId": "slightly%4:02:02::",
+      "lemma": "slightly",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "in a slim or slender manner",
+      "synsetId": "00460568-r",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1692,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in a slim or slender manner"
+      ]
+    },
+    {
+      "senseId": "suggest%2:32:04::",
+      "lemma": "suggest",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "drop a hint; intimate by a hint",
+      "synsetId": "00929401-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1693,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "drop a hint",
+        "intimate by a hint"
+      ]
+    },
+    {
+      "senseId": "surprise%1:04:00::",
+      "lemma": "surprise",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of surprising someone",
+      "synsetId": "00554692-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1694,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of surprising someone"
+      ]
+    },
+    {
+      "senseId": "surprise%2:31:00::",
+      "lemma": "surprise",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "cause to be surprised",
+      "synsetId": "00727236-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1694,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cause to be surprised"
+      ]
+    },
+    {
+      "senseId": "technical%3:01:00::",
+      "lemma": "technical",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of or relating to technique or proficiency in a practical skill",
+      "synsetId": "02820043-a",
+      "words": 11,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1695,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to technique or proficiency in a practical skill"
+      ]
+    },
+    {
+      "senseId": "technical%3:00:00::",
+      "lemma": "technical",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "characterizing or showing skill in or specialized knowledge of applied arts and sciences",
+      "synsetId": "01112409-a",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1695,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterizing or showing skill in or specialized knowledge of applied arts and sciences"
+      ]
+    },
+    {
+      "senseId": "technical%3:01:03::",
+      "lemma": "technical",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "of or relating to a practical subject that is organized according to scientific principles",
+      "synsetId": "02820431-a",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1695,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to a practical subject that is organized according to scientific principles"
+      ]
+    },
+    {
+      "senseId": "technical%1:06:00::",
+      "lemma": "technical",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a pickup truck with a gun mounted on it",
+      "synsetId": "04406404-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1695,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a pickup truck with a gun mounted on it"
+      ]
+    },
+    {
+      "senseId": "treat%1:11:00::",
+      "lemma": "treat",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an occurrence that causes special pleasure or delight",
+      "synsetId": "07304081-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1697,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an occurrence that causes special pleasure or delight"
+      ]
+    },
+    {
+      "senseId": "treat%2:30:01::",
+      "lemma": "treat",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition",
+      "synsetId": "00516235-v",
+      "words": 19,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1697,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition"
+      ]
+    },
+    {
+      "senseId": "treat%2:29:00::",
+      "lemma": "treat",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "provide treatment for",
+      "synsetId": "00078513-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1697,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "provide treatment for"
+      ]
+    },
+    {
+      "senseId": "unique%5:00:00:specific:00",
+      "lemma": "unique",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(followed by ‘to’) applying exclusively to a given category or condition or locality",
+      "synsetId": "01108735-s",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1698,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(followed by ‘to’) applying exclusively to a given category or condition or locality"
+      ]
+    },
+    {
+      "senseId": "unique%5:00:00:incomparable:00",
+      "lemma": "unique",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "radically distinctive and without equal",
+      "synsetId": "00507765-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1698,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "radically distinctive and without equal"
+      ]
+    },
+    {
+      "senseId": "variety%1:14:01::",
+      "lemma": "variety",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a collection containing a variety of sorts of things",
+      "synsetId": "08415730-n",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1699,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a collection containing a variety of sorts of things"
+      ]
+    },
+    {
+      "senseId": "violence%1:26:00::",
+      "lemma": "violence",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a turbulent state resulting in injuries and destruction etc.",
+      "synsetId": "14003462-n",
+      "words": 9,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1700,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a turbulent state resulting in injuries and destruction etc"
+      ]
+    },
+    {
+      "senseId": "appreciate%2:37:00::",
+      "lemma": "appreciate",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "recognize with gratitude; be grateful for",
+      "synsetId": "01809949-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1704,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "recognize with gratitude",
+        "be grateful for"
+      ]
+    },
+    {
+      "senseId": "breaking%1:04:00::",
+      "lemma": "breaking",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of breaking something",
+      "synsetId": "00377208-n",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1706,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of breaking something"
+      ]
+    },
+    {
+      "senseId": "discovered%5:00:00:determined:00",
+      "lemma": "discovered",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "discovered or determined by scientific observation",
+      "synsetId": "01615012-s",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1707,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "discovered or determined by scientific observation"
+      ]
+    },
+    {
+      "senseId": "dry%3:00:01::",
+      "lemma": "dry",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet",
+      "synsetId": "02562150-a",
+      "words": 18,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1709,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "free from liquid or moisture",
+        "lacking natural or normal moisture or depleted of water",
+        "or no longer wet"
+      ]
+    },
+    {
+      "senseId": "dry%1:18:00::",
+      "lemma": "dry",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a reformer who opposes the use of intoxicating beverages",
+      "synsetId": "10057647-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1709,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a reformer who opposes the use of intoxicating beverages"
+      ]
+    },
+    {
+      "senseId": "dry%3:00:05::",
+      "lemma": "dry",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "lacking moisture or volatile components",
+      "synsetId": "02566037-a",
+      "words": 5,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1709,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lacking moisture or volatile components"
+      ]
+    },
+    {
+      "senseId": "dry%5:00:00:humorous:00",
+      "lemma": "dry",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "humorously sarcastic or mocking",
+      "synsetId": "01269202-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1709,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "humorously sarcastic or mocking"
+      ]
+    },
+    {
+      "senseId": "edge%1:06:00::",
+      "lemma": "edge",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a sharp side formed by the intersection of two surfaces of an object",
+      "synsetId": "03269047-n",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1710,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sharp side formed by the intersection of two surfaces of an object"
+      ]
+    },
+    {
+      "senseId": "edge%2:38:00::",
+      "lemma": "edge",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "advance slowly, as if by inches",
+      "synsetId": "02076429-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1710,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "advance slowly, as if by inches"
+      ]
+    },
+    {
+      "senseId": "excited%5:00:00:agitated:00",
+      "lemma": "excited",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(of persons) excessively affected by emotion",
+      "synsetId": "00086315-s",
+      "words": 6,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1712,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of persons) excessively affected by emotion"
+      ]
+    },
+    {
+      "senseId": "excited%5:00:00:wild:02",
+      "lemma": "excited",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "marked by uncontrolled excitement or emotion",
+      "synsetId": "02399292-s",
+      "words": 6,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1712,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by uncontrolled excitement or emotion"
+      ]
+    },
+    {
+      "senseId": "injury%1:26:00::",
+      "lemma": "injury",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any physical damage to the body caused by violence or accident or fracture etc.; the condition of an injury",
+      "synsetId": "14309164-n",
+      "words": 19,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1716,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any physical damage to the body caused by violence or accident or fracture etc",
+        "the condition of an injury"
+      ]
+    },
+    {
+      "senseId": "iron%1:06:01::",
+      "lemma": "iron",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a golf club that has a relatively narrow metal head",
+      "synsetId": "03590242-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1717,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a golf club that has a relatively narrow metal head"
+      ]
+    },
+    {
+      "senseId": "lovely%5:00:00:lovable:00",
+      "lemma": "lovely",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "lovable especially in a childlike or naive way",
+      "synsetId": "01462677-s",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1718,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lovable especially in a childlike or naive way"
+      ]
+    },
+    {
+      "senseId": "mad%5:00:00:wild:02",
+      "lemma": "mad",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "marked by uncontrolled excitement or emotion",
+      "synsetId": "02399292-s",
+      "words": 6,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1719,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by uncontrolled excitement or emotion"
+      ]
+    },
+    {
+      "senseId": "mad%5:00:00:insane:00",
+      "lemma": "mad",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "affected with madness or insanity",
+      "synsetId": "02082451-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1719,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "affected with madness or insanity"
+      ]
+    },
+    {
+      "senseId": "magazine%1:06:02::",
+      "lemma": "magazine",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "product consisting of a paperback periodic publication as a physical object",
+      "synsetId": "03709749-n",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1720,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "product consisting of a paperback periodic publication as a physical object"
+      ]
+    },
+    {
+      "senseId": "magazine%1:10:00::",
+      "lemma": "magazine",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+      "synsetId": "06607555-n",
+      "words": 20,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1720,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it"
+      ]
+    },
+    {
+      "senseId": "magazine%1:14:00::",
+      "lemma": "magazine",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a business firm that publishes magazines",
+      "synsetId": "08080139-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1720,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a business firm that publishes magazines"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1016 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 52,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 2550,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "service%1:14:05::",
+      "lemma": "service",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a company or agency that performs a public service; subject to government regulation",
+      "synsetId": "08202965-n",
+      "words": 13,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 323,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a company or agency that performs a public service",
+        "subject to government regulation"
+      ]
+    },
+    {
+      "senseId": "service%1:07:00::",
+      "lemma": "service",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "a means of serving",
+      "synsetId": "05157079-n",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 323,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a means of serving"
+      ]
+    },
+    {
+      "senseId": "country%1:15:02::",
+      "lemma": "country",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
+      "synsetId": "08514304-n",
+      "words": 21,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 324,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ]
+    },
+    {
+      "senseId": "open%5:00:00:unconstricted:00",
+      "lemma": "open",
+      "pos": "a",
+      "senseIndex": 13,
+      "definition": "without undue constriction as from e.g. tenseness or inhibition",
+      "synsetId": "01452245-s",
+      "words": 10,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 325,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "without undue constriction as from e.g. tenseness or inhibition"
+      ]
+    },
+    {
+      "senseId": "open%2:41:01::",
+      "lemma": "open",
+      "pos": "v",
+      "senseIndex": 3,
+      "definition": "begin or set in action, of meetings, speeches, recitals, etc.",
+      "synsetId": "02430309-v",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 325,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "begin or set in action, of meetings, speeches, recitals, etc"
+      ]
+    },
+    {
+      "senseId": "open%5:00:00:ingenuous:00",
+      "lemma": "open",
+      "pos": "a",
+      "senseIndex": 19,
+      "definition": "openly straightforward and direct without reserve or secretiveness",
+      "synsetId": "01313228-s",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 325,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "openly straightforward and direct without reserve or secretiveness"
+      ]
+    },
+    {
+      "senseId": "open%5:00:00:coarse:00",
+      "lemma": "open",
+      "pos": "a",
+      "senseIndex": 8,
+      "definition": "(of textures) full of small openings or gaps",
+      "synsetId": "02239857-s",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 325,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of textures) full of small openings or gaps"
+      ]
+    },
+    {
+      "senseId": "open%5:00:00:vulnerable:00",
+      "lemma": "open",
+      "pos": "a",
+      "senseIndex": 7,
+      "definition": "not defended or capable of being defended",
+      "synsetId": "02533823-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 325,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not defended or capable of being defended"
+      ]
+    },
+    {
+      "senseId": "general%5:00:00:comprehensive:00",
+      "lemma": "general",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "of worldwide scope or applicability",
+      "synsetId": "00529364-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 330,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of worldwide scope or applicability"
+      ]
+    },
+    {
+      "senseId": "area%1:07:00::",
+      "lemma": "area",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "the extent of a 2-dimensional surface enclosed within a boundary",
+      "synsetId": "05135784-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 334,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the extent of a 2-dimensional surface enclosed within a boundary"
+      ]
+    },
+    {
+      "senseId": "black%5:00:00:dishonorable:00",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 11,
+      "definition": "(used of conduct or character) deserving or bringing disgrace or shame",
+      "synsetId": "01230419-s",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used of conduct or character) deserving or bringing disgrace or shame"
+      ]
+    },
+    {
+      "senseId": "black%5:00:00:evil:00",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 4,
+      "definition": "stemming from evil characteristics or forces; wicked or dishonorable",
+      "synsetId": "01135435-s",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "stemming from evil characteristics or forces",
+        "wicked or dishonorable"
+      ]
+    },
+    {
+      "senseId": "black%5:00:00:unfortunate:00",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "(of events) having extremely unfortunate or dire consequences; bringing ruin",
+      "synsetId": "01053787-s",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of events) having extremely unfortunate or dire consequences",
+        "bringing ruin"
+      ]
+    },
+    {
+      "senseId": "black%1:06:00::",
+      "lemma": "black",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "black clothing (worn as a sign of mourning)",
+      "synsetId": "02849379-n",
+      "words": 8,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "black clothing (worn as a sign of mourning)"
+      ]
+    },
+    {
+      "senseId": "black%5:00:00:dirty:01",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 13,
+      "definition": "soiled with dirt or soot",
+      "synsetId": "00422521-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "soiled with dirt or soot"
+      ]
+    },
+    {
+      "senseId": "black%5:00:00:sarcastic:00",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 8,
+      "definition": "harshly ironic or sinister",
+      "synsetId": "02086637-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "harshly ironic or sinister"
+      ]
+    },
+    {
+      "senseId": "black%5:00:00:colored:00",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 6,
+      "definition": "(of the face) made black especially as with suffused blood",
+      "synsetId": "00397357-s",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of the face) made black especially as with suffused blood"
+      ]
+    },
+    {
+      "senseId": "law%1:09:02::",
+      "lemma": "law",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do",
+      "synsetId": "06171434-n",
+      "words": 20,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 337,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do"
+      ]
+    },
+    {
+      "senseId": "law%1:09:01::",
+      "lemma": "law",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a generalization that describes recurring facts or events in nature",
+      "synsetId": "05881589-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 337,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a generalization that describes recurring facts or events in nature"
+      ]
+    },
+    {
+      "senseId": "whole%5:00:00:healthy:00",
+      "lemma": "whole",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "exhibiting or restored to vigorous good health",
+      "synsetId": "01174940-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 341,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "exhibiting or restored to vigorous good health"
+      ]
+    },
+    {
+      "senseId": "whole%5:00:00:undiversified:00",
+      "lemma": "whole",
+      "pos": "a",
+      "senseIndex": 4,
+      "definition": "acting together as a single undiversified whole",
+      "synsetId": "00787771-s",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 341,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "acting together as a single undiversified whole"
+      ]
+    },
+    {
+      "senseId": "car%1:06:04::",
+      "lemma": "car",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "a conveyance for passengers or freight on a cable railway",
+      "synsetId": "02937835-n",
+      "words": 10,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 342,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a conveyance for passengers or freight on a cable railway"
+      ]
+    },
+    {
+      "senseId": "face%1:06:01::",
+      "lemma": "face",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "the side upon which the use of a thing depends (usually the most prominent surface of an object)",
+      "synsetId": "03318547-n",
+      "words": 18,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 343,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the side upon which the use of a thing depends (usually the most prominent surface of an object)"
+      ]
+    },
+    {
+      "senseId": "face%1:10:01::",
+      "lemma": "face",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "a contorted facial expression",
+      "synsetId": "06890628-n",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 343,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a contorted facial expression"
+      ]
+    },
+    {
+      "senseId": "working%5:00:00:functioning:00",
+      "lemma": "working",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "(of e.g. a machine) performing or capable of performing",
+      "synsetId": "01095421-s",
+      "words": 10,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 350,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of e.g. a machine) performing or capable of performing"
+      ]
+    },
+    {
+      "senseId": "working%5:00:02:operative:00",
+      "lemma": "working",
+      "pos": "a",
+      "senseIndex": 4,
+      "definition": "serving to permit or facilitate further work or activity",
+      "synsetId": "00836873-s",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 350,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "serving to permit or facilitate further work or activity"
+      ]
+    },
+    {
+      "senseId": "course%1:06:00::",
+      "lemma": "course",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "facility consisting of a circumscribed area of land or water laid out for a sport",
+      "synsetId": "03124441-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 351,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "facility consisting of a circumscribed area of land or water laid out for a sport"
+      ]
+    },
+    {
+      "senseId": "book%1:06:02::",
+      "lemma": "book",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "a number of sheets (ticket or stamps etc.) bound together on one edge",
+      "synsetId": "02873887-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 361,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ]
+    },
+    {
+      "senseId": "book%1:10:01::",
+      "lemma": "book",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a written version of a play or other dramatic composition; used in preparing for a performance",
+      "synsetId": "07023062-n",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 361,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a written version of a play or other dramatic composition",
+        "used in preparing for a performance"
+      ]
+    },
+    {
+      "senseId": "post%1:06:00::",
+      "lemma": "post",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "an upright consisting of a piece of timber or metal fixed firmly in an upright position",
+      "synsetId": "03994528-n",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 367,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an upright consisting of a piece of timber or metal fixed firmly in an upright position"
+      ]
+    },
+    {
+      "senseId": "post%1:10:00::",
+      "lemma": "post",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "the system whereby messages are transmitted via the post office",
+      "synsetId": "06275051-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 367,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the system whereby messages are transmitted via the post office"
+      ]
+    },
+    {
+      "senseId": "post%1:10:02::",
+      "lemma": "post",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "a pole or stake set up to mark something (as the start or end of a race track)",
+      "synsetId": "07272483-n",
+      "words": 18,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 367,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a pole or stake set up to mark something (as the start or end of a race track)"
+      ]
+    },
+    {
+      "senseId": "post%2:32:01::",
+      "lemma": "post",
+      "pos": "v",
+      "senseIndex": 11,
+      "definition": "mark or expose as infamous",
+      "synsetId": "01033142-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 367,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "mark or expose as infamous"
+      ]
+    },
+    {
+      "senseId": "video%1:10:01::",
+      "lemma": "video",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "broadcasting visual images of stationary or moving objects",
+      "synsetId": "06287933-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 369,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "broadcasting visual images of stationary or moving objects"
+      ]
+    },
+    {
+      "senseId": "social%5:00:00:friendly:01",
+      "lemma": "social",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "marked by friendly companionship with others",
+      "synsetId": "01080322-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 373,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by friendly companionship with others"
+      ]
+    },
+    {
+      "senseId": "social%5:00:00:sociable:00",
+      "lemma": "social",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "composed of sociable people or formed for the purpose of sociability",
+      "synsetId": "02266116-s",
+      "words": 11,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 373,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "composed of sociable people or formed for the purpose of sociability"
+      ]
+    },
+    {
+      "senseId": "talk%1:10:01::",
+      "lemma": "talk",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "idle gossip or rumor",
+      "synsetId": "07238645-n",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 374,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "idle gossip or rumor"
+      ]
+    },
+    {
+      "senseId": "talk%2:32:06::",
+      "lemma": "talk",
+      "pos": "v",
+      "senseIndex": 4,
+      "definition": "divulge confidential information or secrets",
+      "synsetId": "00939238-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 374,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "divulge confidential information or secrets"
+      ]
+    },
+    {
+      "senseId": "court%1:06:00::",
+      "lemma": "court",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "an area wholly or partly surrounded by walls or buildings",
+      "synsetId": "03124849-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 375,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an area wholly or partly surrounded by walls or buildings"
+      ]
+    },
+    {
+      "senseId": "court%1:06:01::",
+      "lemma": "court",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a specially marked horizontal area within which a game is played",
+      "synsetId": "03125142-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 375,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a specially marked horizontal area within which a game is played"
+      ]
+    },
+    {
+      "senseId": "court%1:06:03::",
+      "lemma": "court",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "a hotel for motorists; provides direct access from rooms to parking area",
+      "synsetId": "03796288-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 375,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a hotel for motorists",
+        "provides direct access from rooms to parking area"
+      ]
+    },
+    {
+      "senseId": "court%1:06:04::",
+      "lemma": "court",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "the residence of a sovereign or nobleman",
+      "synsetId": "03125691-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 375,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the residence of a sovereign or nobleman"
+      ]
+    },
+    {
+      "senseId": "hand%1:05:01::",
+      "lemma": "hand",
+      "pos": "n",
+      "senseIndex": 12,
+      "definition": "terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos)",
+      "synsetId": "02442881-n",
+      "words": 13,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 380,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos)"
+      ]
+    },
+    {
+      "senseId": "hand%1:23:00::",
+      "lemma": "hand",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "a unit of length equal to 4 inches; used in measuring horses",
+      "synsetId": "13675711-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 380,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a unit of length equal to 4 inches",
+        "used in measuring horses"
+      ]
+    },
+    {
+      "senseId": "hand%1:06:00::",
+      "lemma": "hand",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "a rotating pointer on the face of a timepiece",
+      "synsetId": "03487606-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 380,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a rotating pointer on the face of a timepiece"
+      ]
+    },
+    {
+      "senseId": "hand%1:10:01::",
+      "lemma": "hand",
+      "pos": "n",
+      "senseIndex": 11,
+      "definition": "a round of applause to signify approval",
+      "synsetId": "06704983-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 380,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a round of applause to signify approval"
+      ]
+    },
+    {
+      "senseId": "level%1:06:00::",
+      "lemma": "level",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "indicator that establishes the horizontal when a bubble is centered in a tube of liquid",
+      "synsetId": "03664184-n",
+      "words": 15,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 381,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "indicator that establishes the horizontal when a bubble is centered in a tube of liquid"
+      ]
+    },
+    {
+      "senseId": "level%1:06:01::",
+      "lemma": "level",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+      "synsetId": "03370837-n",
+      "words": 18,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 381,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale"
+      ]
+    },
+    {
+      "senseId": "level%1:09:00::",
+      "lemma": "level",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "an abstract place usually conceived as having depth",
+      "synsetId": "06257026-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 381,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an abstract place usually conceived as having depth"
+      ]
+    },
+    {
+      "senseId": "level%5:00:02:even:01",
+      "lemma": "level",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "oriented at right angles to the plumb",
+      "synsetId": "00914205-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 381,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "oriented at right angles to the plumb"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1120 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 35,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 47,
+    "defers": 3,
+    "firstPass": {
+      "approved": 49,
+      "of": 50,
+      "rate": 0.98
+    },
+    "selfApproved": [
+      "eastern%3:00:02::"
+    ],
+    "lineage": {
+      "draft": "d15cccd8ec2f04e42d9b9d759c0ab1cf375d3734dcb32367b561f9da7331c49e"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "wild%3:00:02::",
+      "lemma": "wild",
+      "pos": "a",
+      "definition": "marked by extreme lack of restraint or control",
+      "decision": "gloss",
+      "simpleMeaning": "showing no limits or control at all in behaviour or expression.",
+      "scope": "This is the adjective for uncontrolled behaviour or events, not the adverb used with verbs like run or grow.",
+      "examples": [
+        "A wild celebration followed the victory.",
+        "His wild behaviour at the meeting shocked everyone."
+      ],
+      "branchCoverage": [
+        "marked by extreme lack of restraint or control -> showing no limits or control at all in behaviour or expression"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by extreme lack of restraint or control"
+      ],
+      "lemmaPartition": "wild%3:00:02:: -> the adjective for behaviour or events with no limits or control\nwild%4:02:02:: -> the adverb used with verbs like run or grow to say something acts unchecked",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wild%4:02:02::",
+      "lemma": "wild",
+      "pos": "r",
+      "definition": "in an uncontrolled and rampant manner",
+      "decision": "gloss",
+      "simpleMeaning": "in a way that has no control and is not held back or kept in check.",
+      "scope": "This describes the way something runs or grows unchecked, not the adjective describing a person or event.",
+      "examples": [
+        "The garden ran wild while the family was away.",
+        "Rumours ran wild after the announcement."
+      ],
+      "branchCoverage": [
+        "in an uncontrolled and rampant manner -> in a way that has no control and is not held back or kept in check"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in an uncontrolled and rampant manner"
+      ],
+      "lemmaPartition": "wild%3:00:02:: -> the adjective for behaviour or events with no limits or control\nwild%4:02:02:: -> the adverb used with verbs like run or grow to say something acts unchecked",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "window%1:06:02::",
+      "lemma": "window",
+      "pos": "n",
+      "definition": "a transparent panel (as of an envelope) inserted in an otherwise opaque material",
+      "decision": "gloss",
+      "simpleMeaning": "a clear panel set into something you cannot see through, such as an envelope, so that part of what is behind it shows.",
+      "scope": "This is a clear panel set into opaque material, not an opening built into a building or a vehicle.",
+      "examples": [
+        "The envelope has a small window that shows the address.",
+        "The company uses envelopes with a clear window for the return address."
+      ],
+      "branchCoverage": [
+        "a transparent panel (as of an envelope) inserted in an otherwise opaque material -> a clear panel set into something you cannot see through, such as an envelope, so that part of what is behind it shows"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a transparent panel (as of an envelope) inserted in an otherwise opaque material"
+      ],
+      "lemmaPartition": "window%1:06:02:: -> a clear panel set into opaque material such as an envelope\nwindow%1:06:00:: -> a glass frame built into a wall or roof\nwindow%1:06:01:: -> a see-through opening in a vehicle",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "window%1:06:00::",
+      "lemma": "window",
+      "pos": "n",
+      "definition": "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air",
+      "decision": "gloss",
+      "simpleMeaning": "a wooden or metal frame holding a sheet of glass, built into a wall or roof so that light and air can get in.",
+      "scope": "This is the frame built into a building, not an opening in a vehicle and not a clear panel in an envelope.",
+      "examples": [
+        "She opened the window to let in fresh air.",
+        "Rain was beating against the kitchen window."
+      ],
+      "branchCoverage": [
+        "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air -> a wooden or metal frame holding a sheet of glass, built into a wall or roof so that light and air can get in"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a framework of wood or metal that contains a glass windowpane and is built into a wall or roof to admit light or air"
+      ],
+      "lemmaPartition": "window%1:06:02:: -> a clear panel set into opaque material such as an envelope\nwindow%1:06:00:: -> a glass frame built into a wall or roof\nwindow%1:06:01:: -> a see-through opening in a vehicle",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "window%1:06:01::",
+      "lemma": "window",
+      "pos": "n",
+      "definition": "a transparent opening in a vehicle that allow vision out of the sides or back; usually is capable of being opened",
+      "decision": "gloss",
+      "simpleMeaning": "a see-through opening on the side or back of a vehicle that lets you look out and can usually be opened.",
+      "scope": "This is an opening on a vehicle, not a frame built into a building and not a panel in an envelope.",
+      "examples": [
+        "He rolled down the window to speak to the guard.",
+        "The back window of the van was covered in dust."
+      ],
+      "branchCoverage": [
+        "a transparent opening in a vehicle that allow vision out of the sides or back -> a see-through opening on the side or back of a vehicle that lets you look out",
+        "usually is capable of being opened -> can usually be opened"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a transparent opening in a vehicle that allow vision out of the sides or back",
+        "usually is capable of being opened"
+      ],
+      "lemmaPartition": "window%1:06:02:: -> a clear panel set into opaque material such as an envelope\nwindow%1:06:00:: -> a glass frame built into a wall or roof\nwindow%1:06:01:: -> a see-through opening in a vehicle",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bag%2:42:00::",
+      "lemma": "bag",
+      "pos": "v",
+      "definition": "bulge out; form a bulge outward, or be so full as to appear to bulge",
+      "decision": "gloss",
+      "simpleMeaning": "to swell or stick out in a rounded way, especially because something is so full that it pushes outward.",
+      "scope": "This is about swelling outward because of fullness, not about hanging loosely like an empty container.",
+      "examples": [
+        "His trouser pockets bagged with the weight of his keys.",
+        "The filled sack bagged at the bottom."
+      ],
+      "branchCoverage": [
+        "bulge out -> to swell or stick out in a rounded way",
+        "form a bulge outward, or be so full as to appear to bulge -> especially because something is so full that it pushes outward"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "bulge out",
+        "form a bulge outward, or be so full as to appear to bulge"
+      ],
+      "lemmaPartition": "bag%2:42:00:: -> swell or stick out because something is full\nbag%2:42:01:: -> hang down loosely like an empty container",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bag%2:42:01::",
+      "lemma": "bag",
+      "pos": "v",
+      "definition": "hang loosely, like an empty bag",
+      "decision": "gloss",
+      "simpleMeaning": "to hang down loosely, the way an empty container hangs.",
+      "scope": "This is about hanging down loosely, not about swelling outward from being full.",
+      "examples": [
+        "The shirt bagged loosely around his thin waist.",
+        "Her tights bagged at the ankles."
+      ],
+      "branchCoverage": [
+        "hang loosely, like an empty bag -> to hang down loosely, the way an empty container hangs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "hang loosely, like an empty bag"
+      ],
+      "lemmaPartition": "bag%2:42:00:: -> swell or stick out because something is full\nbag%2:42:01:: -> hang down loosely like an empty container",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "camp%5:00:00:tasteless:02",
+      "lemma": "camp",
+      "pos": "a",
+      "definition": "providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities",
+      "decision": "gloss",
+      "simpleMeaning": "amusing in a clever, knowing way because the style is deliberately exaggerated, in bad taste, or too sentimental.",
+      "scope": "This describes a style or performance, not a place to stay outdoors and not the act of giving something that style.",
+      "examples": [
+        "The show is famous for its camp humour.",
+        "He loves the camp horror films of the 1960s."
+      ],
+      "branchCoverage": [
+        "providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities -> amusing in a clever, knowing way because the style is deliberately exaggerated, in bad taste, or too sentimental"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "providing sophisticated amusement by virtue of having artificially (and vulgarly) mannered or banal or sentimental qualities"
+      ],
+      "lemmaPartition": "camp%5:00:00:tasteless:02 -> the adjective for a deliberately exaggerated, vulgar, or sentimental style\ncamp%1:06:01:: -> the noun for a temporary place to stay in the country\ncamp%2:30:00:: -> the verb for giving something that style",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "camp%1:06:01::",
+      "lemma": "camp",
+      "pos": "n",
+      "definition": "temporary lodgings in the country for travelers or vacationers",
+      "decision": "gloss",
+      "simpleMeaning": "a temporary place to stay in the countryside for people who are travelling or on holiday.",
+      "scope": "This is the place where people stay, not the adjective for an exaggerated style and not the act of giving something that style.",
+      "examples": [
+        "They set up camp beside the lake for the night.",
+        "The holiday camp has cabins, a pool, and a dining hall."
+      ],
+      "branchCoverage": [
+        "temporary lodgings in the country for travelers or vacationers -> a temporary place to stay in the countryside for people who are travelling or on holiday"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "temporary lodgings in the country for travelers or vacationers"
+      ],
+      "lemmaPartition": "camp%5:00:00:tasteless:02 -> the adjective for a deliberately exaggerated, vulgar, or sentimental style\ncamp%1:06:01:: -> the noun for a temporary place to stay in the country\ncamp%2:30:00:: -> the verb for giving something that style",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "camp%2:30:00::",
+      "lemma": "camp",
+      "pos": "v",
+      "definition": "give an artificially banal or sexual quality to",
+      "decision": "gloss",
+      "simpleMeaning": "to give something a deliberately cheap, overdone, or sexually suggestive quality.",
+      "scope": "This is the act of giving something that style, not a place to stay and not the adjective describing the style itself.",
+      "examples": [
+        "The director camped up the final scene to get a laugh.",
+        "The actor camped up his role as the wicked uncle."
+      ],
+      "branchCoverage": [
+        "give an artificially banal or sexual quality to -> to give something a deliberately cheap, overdone, or sexually suggestive quality"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "give an artificially banal or sexual quality to"
+      ],
+      "lemmaPartition": "camp%5:00:00:tasteless:02 -> the adjective for a deliberately exaggerated, vulgar, or sentimental style\ncamp%1:06:01:: -> the noun for a temporary place to stay in the country\ncamp%2:30:00:: -> the verb for giving something that style",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cast%1:06:03::",
+      "lemma": "cast",
+      "pos": "n",
+      "definition": "container into which liquid is poured to create a given shape when it hardens",
+      "decision": "gloss",
+      "simpleMeaning": "a container that liquid is poured into so that it takes a certain shape as it hardens.",
+      "scope": "This is the shaped container, not the group of actors in a play or film.",
+      "examples": [
+        "The molten bronze was poured into a sand cast.",
+        "She poured plaster into the cast and left it to harden."
+      ],
+      "branchCoverage": [
+        "container into which liquid is poured to create a given shape when it hardens -> a container that liquid is poured into so that it takes a certain shape as it hardens"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "container into which liquid is poured to create a given shape when it hardens"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "correct%5:00:02:proper:00",
+      "lemma": "correct",
+      "pos": "a",
+      "definition": "in accord with accepted standards of usage or procedure",
+      "decision": "gloss",
+      "simpleMeaning": "done in the way that is accepted as standard or proper.",
+      "scope": "This is about following an accepted standard, rule, or method, not about polite behaviour in social situations.",
+      "examples": [
+        "Follow the correct procedure when you submit the form.",
+        "The correct way to spell the word is with two c's."
+      ],
+      "branchCoverage": [
+        "in accord with accepted standards of usage or procedure -> done in the way that is accepted as standard or proper"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in accord with accepted standards of usage or procedure"
+      ],
+      "lemmaPartition": "correct%5:00:02:proper:00 -> following an accepted standard, rule, or method\ncorrect%5:00:00:proper:00 -> polite and acceptable in social situations\ncorrect%2:30:00:: -> the act of putting something right",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "correct%5:00:00:proper:00",
+      "lemma": "correct",
+      "pos": "a",
+      "definition": "socially right or correct",
+      "decision": "gloss",
+      "simpleMeaning": "polite and acceptable in social situations.",
+      "scope": "This is about polite behaviour in social situations, not about following a written rule or method.",
+      "examples": [
+        "It is not correct to ask a guest how much he earns.",
+        "She was taught that it is correct to write a thank-you note."
+      ],
+      "branchCoverage": [
+        "socially right or correct -> polite and acceptable in social situations"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "socially right or correct"
+      ],
+      "lemmaPartition": "correct%5:00:02:proper:00 -> following an accepted standard, rule, or method\ncorrect%5:00:00:proper:00 -> polite and acceptable in social situations\ncorrect%2:30:00:: -> the act of putting something right",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "correct%2:30:00::",
+      "lemma": "correct",
+      "pos": "v",
+      "definition": "make right or correct",
+      "decision": "gloss",
+      "simpleMeaning": "to put something right or take the mistakes out of it.",
+      "scope": "This is the act of putting something right, not a description of something as accurate or polite.",
+      "examples": [
+        "The teacher corrected the errors in my essay.",
+        "We must correct the fault before the machine is used again."
+      ],
+      "branchCoverage": [
+        "make right or correct -> to put something right or take the mistakes out of it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make right or correct"
+      ],
+      "lemmaPartition": "correct%5:00:02:proper:00 -> following an accepted standard, rule, or method\ncorrect%5:00:00:proper:00 -> polite and acceptable in social situations\ncorrect%2:30:00:: -> the act of putting something right",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dangerous%3:00:00::",
+      "lemma": "dangerous",
+      "pos": "a",
+      "definition": "involving or causing danger or risk; liable to hurt or harm",
+      "decision": "gloss",
+      "simpleMeaning": "able to hurt someone or cause damage, or full of risk.",
+      "scope": "This is about being likely to hurt or cause harm, not about a grave condition that threatens great harm.",
+      "examples": [
+        "It is dangerous to swim here after dark.",
+        "The old bridge is dangerous and should be closed."
+      ],
+      "branchCoverage": [
+        "involving or causing danger or risk -> able to hurt someone or cause damage, or full of risk",
+        "liable to hurt or harm -> able to hurt someone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "involving or causing danger or risk",
+        "liable to hurt or harm"
+      ],
+      "lemmaPartition": "dangerous%3:00:00:: -> likely to hurt someone or cause harm\ndangerous%5:00:00:critical:03 -> a grave condition that threatens great harm",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dangerous%5:00:00:critical:03",
+      "lemma": "dangerous",
+      "pos": "a",
+      "definition": "causing fear or anxiety by threatening great harm",
+      "decision": "gloss",
+      "simpleMeaning": "very serious and threatening great harm, so that people feel afraid or anxious.",
+      "scope": "This describes a serious condition or situation that threatens great harm, not an ordinary risk of injury.",
+      "examples": [
+        "She is in a dangerous condition after the crash.",
+        "The patient's fever took a dangerous turn."
+      ],
+      "branchCoverage": [
+        "causing fear or anxiety by threatening great harm -> very serious and threatening great harm, so that people feel afraid or anxious"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "causing fear or anxiety by threatening great harm"
+      ],
+      "lemmaPartition": "dangerous%3:00:00:: -> likely to hurt someone or cause harm\ndangerous%5:00:00:critical:03 -> a grave condition that threatens great harm",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "extremely%4:02:00::",
+      "lemma": "extremely",
+      "pos": "r",
+      "definition": "to an extreme degree",
+      "decision": "gloss",
+      "simpleMeaning": "to a very great degree.",
+      "scope": "This is not a mild intensifier like 'quite' or 'fairly'; it marks a very high degree.",
+      "examples": [
+        "The exam was extremely difficult.",
+        "She was extremely pleased with her results."
+      ],
+      "branchCoverage": [
+        "to an extreme degree -> to a very great degree"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "to an extreme degree"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "firm%5:00:00:resolute:00",
+      "lemma": "firm",
+      "pos": "a",
+      "definition": "marked by firm determination or resolution; not shakable",
+      "decision": "gloss",
+      "simpleMeaning": "strong and steady in purpose, not changing your mind or giving way.",
+      "scope": "This describes a person or their purpose as steady, not a business and not something hard to the touch.",
+      "examples": [
+        "She remained firm in her refusal to sign.",
+        "The government took a firm stand against the strike."
+      ],
+      "branchCoverage": [
+        "marked by firm determination or resolution -> strong and steady in purpose",
+        "not shakable -> not changing your mind or giving way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by firm determination or resolution",
+        "not shakable"
+      ],
+      "lemmaPartition": "firm%5:00:00:resolute:00 -> steady in purpose and not giving way\nfirm%1:14:00:: -> a business organization",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "firm%1:14:00::",
+      "lemma": "firm",
+      "pos": "n",
+      "definition": "the members of a business organization that owns or operates one or more establishments",
+      "decision": "gloss",
+      "simpleMeaning": "a company, together with the people in it, that owns or runs one or more places of business.",
+      "scope": "This is the business organization, not the adjective meaning determined.",
+      "examples": [
+        "She works for a small law firm in the city.",
+        "The firm has offices in three countries."
+      ],
+      "branchCoverage": [
+        "the members of a business organization that owns or operates one or more establishments -> a company, together with the people in it, that owns or runs one or more places of business"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the members of a business organization that owns or operates one or more establishments"
+      ],
+      "lemmaPartition": "firm%5:00:00:resolute:00 -> steady in purpose and not giving way\nfirm%1:14:00:: -> a business organization",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "handle%2:32:00::",
+      "lemma": "handle",
+      "pos": "v",
+      "definition": "act on verbally or in some form of artistic expression",
+      "decision": "gloss",
+      "simpleMeaning": "to deal with a subject in speaking, writing, or art.",
+      "scope": "This is about treating a subject in speech, writing, or art, not about holding something in your hands or managing a situation.",
+      "examples": [
+        "The film handles the subject of war with great care.",
+        "The writer handles the theme of friendship gently."
+      ],
+      "branchCoverage": [
+        "act on verbally or in some form of artistic expression -> to deal with a subject in speaking, writing, or art"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "act on verbally or in some form of artistic expression"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "indeed%4:02:02::",
+      "lemma": "indeed",
+      "pos": "r",
+      "definition": "(used as an interjection) an expression of surprise or skepticism or irony etc.",
+      "decision": "gloss",
+      "simpleMeaning": "a short reply that shows surprise, doubt, or irony about what someone has just said.",
+      "scope": "This is the short reply showing surprise or doubt, not the use that simply adds emphasis to a statement.",
+      "examples": [
+        "\"Indeed? I find that hard to believe.\"",
+        "He claimed he had never lost a match, and his coach said, 'Indeed?'"
+      ],
+      "branchCoverage": [
+        "(used as an interjection) an expression of surprise or skepticism or irony etc -> a short reply that shows surprise, doubt, or irony about what someone has just said"
+      ],
+      "labelBranches": [
+        "(used as an interjection) -> a usage label saying the word works as an exclamation; the meaning is carried by the rest of the branch"
+      ],
+      "sourceBranches": [
+        "(used as an interjection) an expression of surprise or skepticism or irony etc"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "negative%3:00:02::",
+      "lemma": "negative",
+      "pos": "a",
+      "definition": "characterized by or displaying negation or denial or opposition or resistance; having no positive features",
+      "decision": "gloss",
+      "simpleMeaning": "full of refusal, opposition, or resistance, and having nothing good or hopeful about it.",
+      "scope": "This describes an attitude, reaction, or state full of opposition with nothing positive in it; it is not a word or answer that says no.",
+      "examples": [
+        "He has a very negative attitude towards new ideas.",
+        "The film received negative reviews from the critics."
+      ],
+      "branchCoverage": [
+        "characterized by or displaying negation or denial or opposition or resistance -> full of refusal, opposition, or resistance",
+        "having no positive features -> having nothing good or hopeful about it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characterized by or displaying negation or denial or opposition or resistance",
+        "having no positive features"
+      ],
+      "lemmaPartition": "negative%3:00:02:: -> an attitude, reaction, or state full of opposition with nothing positive\nnegative%3:00:01:: -> words or an answer that denies or refuses\nnegative%1:06:00:: -> the piece of photographic film\nnegative%2:41:00:: -> the act of voting against or refusing to support",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "negative%3:00:01::",
+      "lemma": "negative",
+      "pos": "a",
+      "definition": "expressing or consisting of a negation or refusal or denial",
+      "decision": "gloss",
+      "simpleMeaning": "saying no to something or stating that something is not true.",
+      "scope": "This describes a word, answer, or statement that denies or refuses; it is not a general gloomy or hostile attitude.",
+      "examples": [
+        "The word 'no' is a negative answer.",
+        "They sent a negative reply to our invitation."
+      ],
+      "branchCoverage": [
+        "expressing or consisting of a negation or refusal or denial -> saying no to something or stating that something is not true"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "expressing or consisting of a negation or refusal or denial"
+      ],
+      "lemmaPartition": "negative%3:00:02:: -> an attitude, reaction, or state full of opposition with nothing positive\nnegative%3:00:01:: -> words or an answer that denies or refuses\nnegative%1:06:00:: -> the piece of photographic film\nnegative%2:41:00:: -> the act of voting against or refusing to support",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "negative%1:06:00::",
+      "lemma": "negative",
+      "pos": "n",
+      "definition": "a piece of photographic film showing an image with light and shade or colors reversed",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of film on which a photo shows light and dark, or the colours, the wrong way round.",
+      "scope": "This is the piece of film, not the adjective meaning opposed and not the act of voting against.",
+      "examples": [
+        "The photographer kept the negatives in a paper envelope.",
+        "You can print a picture from the negative."
+      ],
+      "branchCoverage": [
+        "a piece of photographic film showing an image with light and shade or colors reversed -> a piece of film on which a photo shows light and dark, or the colours, the wrong way round"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a piece of photographic film showing an image with light and shade or colors reversed"
+      ],
+      "lemmaPartition": "negative%3:00:02:: -> an attitude, reaction, or state full of opposition with nothing positive\nnegative%3:00:01:: -> words or an answer that denies or refuses\nnegative%1:06:00:: -> the piece of photographic film\nnegative%2:41:00:: -> the act of voting against or refusing to support",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "negative%2:41:00::",
+      "lemma": "negative",
+      "pos": "v",
+      "definition": "vote against; refuse to endorse; refuse to assent",
+      "decision": "gloss",
+      "simpleMeaning": "to vote against something or refuse to support or agree to it.",
+      "scope": "This is the act of voting against or refusing to support, not the film and not the adjective.",
+      "examples": [
+        "The committee negatived the motion by seven votes to three.",
+        "The council negatived the proposed budget."
+      ],
+      "branchCoverage": [
+        "vote against -> to vote against something",
+        "refuse to endorse -> refuse to support",
+        "refuse to assent -> or agree to it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "vote against",
+        "refuse to endorse",
+        "refuse to assent"
+      ],
+      "lemmaPartition": "negative%3:00:02:: -> an attitude, reaction, or state full of opposition with nothing positive\nnegative%3:00:01:: -> words or an answer that denies or refuses\nnegative%1:06:00:: -> the piece of photographic film\nnegative%2:41:00:: -> the act of voting against or refusing to support",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spirit%1:07:00::",
+      "lemma": "spirit",
+      "pos": "n",
+      "definition": "a fundamental emotional and activating principle determining one's character",
+      "decision": "gloss",
+      "simpleMeaning": "the basic inner feeling or attitude that drives a person's actions and shapes the kind of person they are",
+      "scope": "This is a person's inner drive or attitude, not the life force believed to keep a body alive, and not the rare verb meaning to fill someone with energy.",
+      "examples": [
+        "Her generous spirit made everyone feel welcome.",
+        "His fighting spirit inspired the whole team."
+      ],
+      "branchCoverage": [
+        "a fundamental emotional and activating principle determining one's character -> the basic inner feeling or attitude that drives a person's actions and shapes the kind of person they are"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a fundamental emotional and activating principle determining one's character"
+      ],
+      "lemmaPartition": "spirit%1:07:00:: -> a person's basic inner drive or attitude that shapes their character\nspirit%1:18:01:: -> the life force believed to give life to a living body\nspirit%2:30:00:: -> the rare verb meaning to fill someone with energy or courage (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spirit%1:18:01::",
+      "lemma": "spirit",
+      "pos": "n",
+      "definition": "the vital principle or animating force within living things",
+      "decision": "gloss",
+      "simpleMeaning": "the life force that is believed to keep a living body alive and active",
+      "scope": "This is the life-giving force inside a living body, not a person's usual attitude or drive and not the verb meaning to fill someone with energy.",
+      "examples": [
+        "Ancient thinkers described a spirit that gave life and movement to every living body.",
+        "Many cultures believe the spirit leaves the body at death."
+      ],
+      "branchCoverage": [
+        "the vital principle or animating force within living things -> the life force that is believed to keep a living body alive and active"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the vital principle or animating force within living things"
+      ],
+      "lemmaPartition": "spirit%1:07:00:: -> a person's basic inner drive or attitude that shapes their character\nspirit%1:18:01:: -> the life force believed to give life to a living body\nspirit%2:30:00:: -> the rare verb meaning to fill someone with energy or courage (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spirit%2:30:00::",
+      "lemma": "spirit",
+      "pos": "v",
+      "definition": "infuse with spirit",
+      "decision": "defer",
+      "reason": "The definition is circular ('infuse with spirit'), and the sense survives in modern English only in the uncommon phrasal verb 'spirit up'; natural simplex sentences in this sense cannot be written without sounding contrived.",
+      "sourceBranches": [
+        "infuse with spirit"
+      ],
+      "lemmaPartition": "spirit%1:07:00:: -> a person's basic inner drive or attitude that shapes their character\nspirit%1:18:01:: -> the life force believed to give life to a living body\nspirit%2:30:00:: -> the rare verb meaning to fill someone with energy or courage (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "television%1:10:00::",
+      "lemma": "television",
+      "pos": "n",
+      "definition": "broadcasting visual images of stationary or moving objects",
+      "decision": "gloss",
+      "simpleMeaning": "the broadcasting of still or moving pictures to viewers, who watch them on screens at home",
+      "scope": "This is the medium and its broadcasts, not a receiving set as a piece of furniture and not a single programme.",
+      "examples": [
+        "She has worked in television for twenty years.",
+        "Television brought the moon landing into millions of homes."
+      ],
+      "branchCoverage": [
+        "broadcasting visual images of stationary or moving objects -> the broadcasting of still or moving pictures to viewers"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "broadcasting visual images of stationary or moving objects"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "till%1:27:00::",
+      "lemma": "till",
+      "pos": "n",
+      "definition": "unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together",
+      "decision": "gloss",
+      "simpleMeaning": "soil and rock left behind by a glacier, not sorted into layers and made of sand, clay, gravel, and large stones mixed together",
+      "scope": "This is the mixed rock and soil left by a glacier, not the drawer that holds money in a shop and not the verb meaning to plough a field.",
+      "examples": [
+        "The geologists mapped the till left by the retreating glacier.",
+        "A stony till of clay, sand, and gravel covers much of the valley floor."
+      ],
+      "branchCoverage": [
+        "unstratified soil deposited by a glacier -> soil and rock left behind by a glacier, not sorted into layers",
+        "consists of sand and clay and gravel and boulders mixed together -> made of sand, clay, gravel, and large stones mixed together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "unstratified soil deposited by a glacier",
+        "consists of sand and clay and gravel and boulders mixed together"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trouble%2:37:00::",
+      "lemma": "trouble",
+      "pos": "v",
+      "definition": "disturb in mind or make uneasy or cause to be worried or alarmed",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone feel worried, uneasy, or upset",
+      "scope": "This is about disturbing someone's peace of mind, not about causing them practical difficulty or bothering them with a request.",
+      "examples": [
+        "The strange phone call troubled her all evening.",
+        "What troubles me most is the lack of a clear plan."
+      ],
+      "branchCoverage": [
+        "disturb in mind or make uneasy or cause to be worried or alarmed -> to make someone feel worried, uneasy, or upset"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "disturb in mind or make uneasy or cause to be worried or alarmed"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "advantage%1:23:00::",
+      "lemma": "advantage",
+      "pos": "n",
+      "definition": "(tennis) first point scored after deuce",
+      "decision": "gloss",
+      "simpleMeaning": "in tennis, the point won immediately after the score is tied at 40-40, which puts the winner one point away from winning the game",
+      "scope": "This is the tennis scoring position after deuce, not a general benefit or a better chance in life.",
+      "examples": [
+        "At 40-40, she won the next point and took the advantage.",
+        "He lost the advantage when he double-faulted."
+      ],
+      "branchCoverage": [
+        "(tennis) first point scored after deuce -> in tennis, the point won immediately after the score is tied at 40-40"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(tennis) first point scored after deuce"
+      ],
+      "lemmaPartition": "advantage%1:23:00:: -> the tennis point won immediately after deuce\nadvantage%2:41:00:: -> the verb meaning to give someone a better position or edge",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "advantage%2:41:00::",
+      "lemma": "advantage",
+      "pos": "v",
+      "definition": "give an advantage to",
+      "decision": "gloss",
+      "simpleMeaning": "to give someone or something a better position or a helpful edge over others",
+      "scope": "This is about giving someone a better position, not the tennis scoring term and not having a benefit yourself.",
+      "examples": [
+        "The new tax rules advantage people who already own homes.",
+        "Such a rule would advantage the largest firms."
+      ],
+      "branchCoverage": [
+        "give an advantage to -> to give someone or something a better position or a helpful edge over others"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "give an advantage to"
+      ],
+      "lemmaPartition": "advantage%1:23:00:: -> the tennis point won immediately after deuce\nadvantage%2:41:00:: -> the verb meaning to give someone a better position or edge",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "apart%5:00:00:unconnected:00",
+      "lemma": "apart",
+      "pos": "a",
+      "definition": "remote and separate physically or socially",
+      "decision": "gloss",
+      "simpleMeaning": "far away and cut off, either in physical distance or in social contact",
+      "scope": "This describes people or places that are set off at a distance or not mixing with others, not things that have broken into pieces and not 'apart from' meaning except.",
+      "examples": [
+        "The remote farm is a place apart, with no neighbours for miles.",
+        "Since the quarrel, the brothers have remained apart."
+      ],
+      "branchCoverage": [
+        "remote and separate physically or socially -> far away and cut off, either in physical distance or in social contact"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "remote and separate physically or socially"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cat%1:05:00::",
+      "lemma": "cat",
+      "pos": "n",
+      "definition": "feline mammal usually having thick soft fur and no ability to roar",
+      "decision": "gloss",
+      "simpleMeaning": "a furry mammal related to lions and tigers but unable to roar, usually with thick soft fur",
+      "scope": "This is the animal itself, not the verb meaning to vomit and not a spiteful person.",
+      "examples": [
+        "The cat slept curled up on the warm windowsill.",
+        "A cat can squeeze through gaps much narrower than its body."
+      ],
+      "branchCoverage": [
+        "feline mammal usually having thick soft fur and no ability to roar -> a furry mammal related to lions and tigers but unable to roar, usually with thick soft fur"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "feline mammal usually having thick soft fur and no ability to roar"
+      ],
+      "lemmaPartition": "cat%1:05:00:: -> the furry mammal of the cat family that cannot roar\ncat%2:29:00:: -> the rare verb meaning to vomit (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cat%2:29:00::",
+      "lemma": "cat",
+      "pos": "v",
+      "definition": "eject the contents of the stomach through the mouth",
+      "decision": "defer",
+      "reason": "The verb 'cat' in the sense 'to vomit' is dialectal slang, not standard modern English; every natural sentence would be read as the animal noun or would sound contrived, so two unambiguous examples cannot be written.",
+      "sourceBranches": [
+        "eject the contents of the stomach through the mouth"
+      ],
+      "lemmaPartition": "cat%1:05:00:: -> the furry mammal of the cat family that cannot roar\ncat%2:29:00:: -> the rare verb meaning to vomit (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "decide%2:31:02::",
+      "lemma": "decide",
+      "pos": "v",
+      "definition": "cause to decide",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone reach a choice or make up their mind",
+      "scope": "This is about causing another person to reach a choice, not about making the choice yourself.",
+      "examples": [
+        "The high cost decided her against buying the house.",
+        "What finally decided you to take the job?"
+      ],
+      "branchCoverage": [
+        "cause to decide -> to make someone reach a choice or make up their mind"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cause to decide"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dinner%1:14:00::",
+      "lemma": "dinner",
+      "pos": "n",
+      "definition": "a party of people assembled to have dinner together",
+      "decision": "gloss",
+      "simpleMeaning": "a social gathering of guests who come together to share a main meal",
+      "scope": "This is the social event or group of guests, not the food served or a meal eaten alone.",
+      "examples": [
+        "The company held a dinner for thirty guests at a city hotel.",
+        "She was invited to a dinner in honour of the ambassador."
+      ],
+      "branchCoverage": [
+        "a party of people assembled to have dinner together -> a social gathering of guests who come together to share a main meal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a party of people assembled to have dinner together"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "eastern%3:00:02::",
+      "lemma": "eastern",
+      "pos": "a",
+      "definition": "of or characteristic of eastern regions of the United States",
+      "decision": "gloss",
+      "simpleMeaning": "of or typical of the eastern part of the United States.",
+      "scope": "This is specifically about the United States, not about the eastern side of another country and not about Asia.",
+      "examples": [
+        "The storm brought heavy snow to the Eastern states.",
+        "Eastern cities such as Boston and New York grew quickly in the nineteenth century."
+      ],
+      "branchCoverage": [
+        "of or characteristic of eastern regions of the United States -> of or typical of the eastern part of the United States"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or characteristic of eastern regions of the United States"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss narrows 'eastern regions of the United States' to Atlantic-facing states; use 'of the eastern part of the United States'."
+    },
+    {
+      "senseId": "fifth%1:23:01::",
+      "lemma": "fifth",
+      "pos": "n",
+      "definition": "a quantity of liquor equal to one fifth of a United States gallon",
+      "decision": "gloss",
+      "simpleMeaning": "a quantity of strong alcoholic drink equal to about 750 millilitres, the standard size of a liquor bottle in the United States",
+      "scope": "This is the bottle size or amount of drink, not the ordinal number in a series and not a fraction in general.",
+      "examples": [
+        "He bought a fifth of whiskey on the way home.",
+        "They shared a fifth of vodka at the party."
+      ],
+      "branchCoverage": [
+        "a quantity of liquor equal to one fifth of a United States gallon -> a quantity of strong alcoholic drink equal to about 750 millilitres, the standard size of a liquor bottle in the United States"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a quantity of liquor equal to one fifth of a United States gallon"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "function%2:33:00::",
+      "lemma": "function",
+      "pos": "v",
+      "definition": "perform duties attached to a particular office or place or function",
+      "decision": "gloss",
+      "simpleMeaning": "to carry out the duties that belong to a particular official job or position",
+      "scope": "This is about a person doing the duties of an office or job, not about an object serving a purpose such as a box used as a table.",
+      "examples": [
+        "The mayor functions as the city's chief executive, overseeing all departments.",
+        "As town clerk, he functions under the authority of the council."
+      ],
+      "branchCoverage": [
+        "perform duties attached to a particular office or place or function -> to carry out the duties that belong to a particular official job or position"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "perform duties attached to a particular office or place or function"
+      ],
+      "lemmaPartition": "function%2:33:00:: -> a person carrying out the duties of an official job or position\nfunction%2:42:12:: -> a thing or person serving a purpose or playing a role",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "function%2:42:12::",
+      "lemma": "function",
+      "pos": "v",
+      "definition": "serve a purpose, role, or function",
+      "decision": "gloss",
+      "simpleMeaning": "to serve a purpose or play a role, doing what is needed in a situation",
+      "scope": "This is about something serving a purpose or role, not about a person carrying out the duties of an official job.",
+      "examples": [
+        "The small room functions as a study.",
+        "The old station now functions as a museum."
+      ],
+      "branchCoverage": [
+        "serve a purpose, role, or function -> to serve a purpose or play a role, doing what is needed in a situation"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "serve a purpose, role, or function"
+      ],
+      "lemmaPartition": "function%2:33:00:: -> a person carrying out the duties of an official job or position\nfunction%2:42:12:: -> a thing or person serving a purpose or playing a role",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "impossible%3:00:00::",
+      "lemma": "impossible",
+      "pos": "a",
+      "definition": "not capable of occurring or being accomplished or dealt with",
+      "decision": "gloss",
+      "simpleMeaning": "not able to happen, be done, or be handled",
+      "scope": "This describes something that cannot happen or be done, not a person whose behaviour is unacceptable.",
+      "examples": [
+        "It is impossible to finish the work by Friday.",
+        "The fog made it impossible to see the road."
+      ],
+      "branchCoverage": [
+        "not capable of occurring or being accomplished or dealt with -> not able to happen, be done, or be handled"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "not capable of occurring or being accomplished or dealt with"
+      ],
+      "lemmaPartition": "impossible%3:00:00:: -> something that cannot happen, be done, or be handled\nimpossible%5:00:00:intolerable:00:: -> a person or their behaviour being unacceptable or unreasonable",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "impossible%5:00:00:intolerable:00",
+      "lemma": "impossible",
+      "pos": "a",
+      "definition": "(used of persons or their behavior) not acceptable or reasonable",
+      "decision": "gloss",
+      "simpleMeaning": "of a person or their behaviour, too unreasonable or badly behaved to be accepted",
+      "scope": "This describes a person's conduct as unacceptable, not something that cannot happen or be done.",
+      "examples": [
+        "He becomes impossible when he is tired.",
+        "The children were impossible at the restaurant, shouting and refusing to sit."
+      ],
+      "branchCoverage": [
+        "(used of persons or their behavior) not acceptable or reasonable -> of a person or their behaviour, too unreasonable or badly behaved to be accepted"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(used of persons or their behavior) not acceptable or reasonable"
+      ],
+      "lemmaPartition": "impossible%3:00:00:: -> something that cannot happen, be done, or be handled\nimpossible%5:00:00:intolerable:00:: -> a person or their behaviour being unacceptable or unreasonable",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "influence%1:07:00::",
+      "lemma": "influence",
+      "pos": "n",
+      "definition": "a power to affect persons or events especially power based on prestige etc",
+      "decision": "gloss",
+      "simpleMeaning": "the ability to affect what people do or what happens, especially because others respect or admire you",
+      "scope": "This is the power or standing that makes others listen, not the verb meaning to have an effect on them.",
+      "examples": [
+        "She used her influence to get the project approved.",
+        "The country's influence in the region has grown."
+      ],
+      "branchCoverage": [
+        "a power to affect persons or events especially power based on prestige etc -> the ability to affect what people do or what happens, especially because others respect or admire you"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a power to affect persons or events especially power based on prestige etc"
+      ],
+      "lemmaPartition": "influence%1:07:00:: -> the power to affect people or events, especially through respect or standing\ninfluence%2:41:00:: -> the verb meaning to have an effect on someone or something\ninfluence%2:31:00:: -> the verb meaning to shape or guide how something develops",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "influence%2:41:00::",
+      "lemma": "influence",
+      "pos": "v",
+      "definition": "have and exert influence or effect",
+      "decision": "gloss",
+      "simpleMeaning": "to have an effect on someone or something, or to use your position to affect them",
+      "scope": "This is about producing an effect on someone or something, not about deliberately guiding how something develops.",
+      "examples": [
+        "The moon influences the tides.",
+        "His mood influenced everyone at the table."
+      ],
+      "branchCoverage": [
+        "have and exert influence or effect -> to have an effect on someone or something, or to use your position to affect them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have and exert influence or effect"
+      ],
+      "lemmaPartition": "influence%1:07:00:: -> the power to affect people or events, especially through respect or standing\ninfluence%2:41:00:: -> the verb meaning to have an effect on someone or something\ninfluence%2:31:00:: -> the verb meaning to shape or guide how something develops",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "influence%2:31:00::",
+      "lemma": "influence",
+      "pos": "v",
+      "definition": "shape or influence; give direction to",
+      "decision": "gloss",
+      "simpleMeaning": "to shape or guide something so that it develops in a particular way",
+      "scope": "This is about shaping or guiding how something develops, not just having some effect on it.",
+      "examples": [
+        "The campaign influenced public opinion against the war.",
+        "Her early teachers influenced her choice of career."
+      ],
+      "branchCoverage": [
+        "shape or influence -> to shape or guide something",
+        "give direction to -> guide something so that it develops in a particular way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "shape or influence",
+        "give direction to"
+      ],
+      "lemmaPartition": "influence%1:07:00:: -> the power to affect people or events, especially through respect or standing\ninfluence%2:41:00:: -> the verb meaning to have an effect on someone or something\ninfluence%2:31:00:: -> the verb meaning to shape or guide how something develops",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "marketing%1:04:02::",
+      "lemma": "marketing",
+      "pos": "n",
+      "definition": "the commercial processes involved in promoting and selling and distributing a product or service",
+      "decision": "gloss",
+      "simpleMeaning": "the business activities used to promote, sell, and deliver a product or service to customers",
+      "scope": "This covers the whole business activity of promoting, selling, and delivering goods, not the act of shopping at a market.",
+      "examples": [
+        "She works in marketing for a software company.",
+        "The company spends millions on marketing each year."
+      ],
+      "branchCoverage": [
+        "the commercial processes involved in promoting and selling and distributing a product or service -> the business activities used to promote, sell, and deliver a product or service to customers"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the commercial processes involved in promoting and selling and distributing a product or service"
+      ],
+      "lemmaPartition": "marketing%1:04:02:: -> the business activity of promoting, selling, and delivering a product or service\nmarketing%1:04:01:: -> the old sense of shopping at a market (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "marketing%1:04:01::",
+      "lemma": "marketing",
+      "pos": "n",
+      "definition": "shopping at a market",
+      "decision": "defer",
+      "reason": "This sense of 'marketing' as the activity of shopping at a market is archaic; in modern English the word is almost always the business sense, and the surviving British phrase 'do the marketing' means grocery shopping anywhere rather than shopping at a market, so two examples that match the definition cannot be written.",
+      "sourceBranches": [
+        "shopping at a market"
+      ],
+      "lemmaPartition": "marketing%1:04:02:: -> the business activity of promoting, selling, and delivering a product or service\nmarketing%1:04:01:: -> the old sense of shopping at a market (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "produce%2:36:00::",
+      "lemma": "produce",
+      "pos": "v",
+      "definition": "create or manufacture a man-made product",
+      "decision": "gloss",
+      "simpleMeaning": "to make goods by human effort, especially in a factory or through a controlled process",
+      "scope": "This is about making goods, especially by manufacturing, not about growing crops or raising animals.",
+      "examples": [
+        "The factory produces parts for aircraft.",
+        "This company produces more than a million units a year."
+      ],
+      "branchCoverage": [
+        "create or manufacture a man-made product -> to make goods by human effort, especially in a factory or through a controlled process"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "create or manufacture a man-made product"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

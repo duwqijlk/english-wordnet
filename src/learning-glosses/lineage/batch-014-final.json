@@ -1,0 +1,987 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 14,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 46,
+      "of": 50,
+      "rate": 0.92
+    },
+    "selfApproved": [
+      "alone%5:00:00:unaccompanied:00",
+      "medical%3:00:00::",
+      "worth%1:23:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "50f784a9ae093bc02593082d0cac5bb88e348724facb2f194698e02409c97eb0"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "design%2:36:01::",
+      "lemma": "design",
+      "pos": "v",
+      "definition": "create the design for; create or execute in an artistic or highly skilled manner",
+      "decision": "gloss",
+      "simpleMeaning": "to plan and make something in a careful, artistic or skilled way",
+      "scope": "This is not about intending something for a purpose; it is about making the shape or working form of a thing with skill.",
+      "examples": [
+        "She designed a small wooden chair for her garden.",
+        "He designed the cover of the magazine by hand."
+      ],
+      "branchCoverage": [
+        "create the design for -> plan and make something",
+        "create or execute in an artistic or highly skilled manner -> in a careful, artistic or skilled way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "guess%2:31:01::",
+      "lemma": "guess",
+      "pos": "v",
+      "definition": "judge tentatively or form an estimate of (quantities or time)",
+      "decision": "gloss",
+      "simpleMeaning": "to give a number or time that you think is probably right but are not sure about",
+      "scope": "This is not about offering an opinion that others may argue with; it is about giving a likely amount or time.",
+      "examples": [
+        "Guess how many beans are in the jar.",
+        "I guessed the drive would take about two hours."
+      ],
+      "branchCoverage": [
+        "judge tentatively or form an estimate of (quantities or time) -> give a number or time that you think is probably right but are not sure about"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "guess (v): one sense is giving a likely amount or time; the other is saying what you think is true even though you may be wrong.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "guess%2:32:00::",
+      "lemma": "guess",
+      "pos": "v",
+      "definition": "put forward, of a guess, in spite of possible refutation",
+      "decision": "gloss",
+      "simpleMeaning": "to say what you think is probably true, even though you know you may be wrong",
+      "scope": "This is not about estimating an amount or time; it is about offering an opinion or answer that others may question.",
+      "examples": [
+        "I guess she's still at work, but I'm not sure.",
+        "'Why did he go?' 'I'd guess he was tired.'"
+      ],
+      "branchCoverage": [
+        "put forward, of a guess, in spite of possible refutation -> say what you think is probably true, even though you know you may be wrong"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "guess (v): one sense is giving a likely amount or time; the other is saying what you think is true even though you may be wrong.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "interest%1:07:02::",
+      "lemma": "interest",
+      "pos": "n",
+      "definition": "the power of attracting or holding one's attention (because it is unusual or exciting etc.)",
+      "decision": "gloss",
+      "simpleMeaning": "a quality that makes people want to look at or pay attention to something, often because it is unusual or exciting",
+      "scope": "This is not money paid for a loan or a share in a company; it is the quality in something that catches attention.",
+      "examples": [
+        "The old photographs have a special interest for historians.",
+        "The case attracted great interest in the press."
+      ],
+      "branchCoverage": [
+        "the power of attracting or holding one's attention (because it is unusual or exciting etc.) -> a quality that makes people want to look at or pay attention to something, often because it is unusual or exciting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "interest (n) = the quality in something that holds people's attention; interest (v) = to make someone curious about something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "interest%2:37:00::",
+      "lemma": "interest",
+      "pos": "v",
+      "definition": "excite the curiosity of; engage the interest of",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone curious and keep their attention so they want to learn more",
+      "scope": "This is not the noun for the quality that catches attention; it is the action of making a person want to know more.",
+      "examples": [
+        "The science show interested the whole class.",
+        "Her story interested him enough to ask questions."
+      ],
+      "branchCoverage": [
+        "excite the curiosity of -> make someone curious",
+        "engage the interest of -> keep their attention so they want to learn more"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "interest (n) = the quality in something that holds people's attention; interest (v) = to make someone curious about something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "king%1:18:00::",
+      "lemma": "king",
+      "pos": "n",
+      "definition": "a male sovereign; ruler of a kingdom",
+      "decision": "gloss",
+      "simpleMeaning": "a man who rules a country as its royal head, usually born into the position",
+      "scope": "This is not a chess piece or a playing card; it is the man who rules a country.",
+      "examples": [
+        "The king lived in a large castle.",
+        "She met the king during his visit to the city."
+      ],
+      "branchCoverage": [
+        "a male sovereign -> a man who rules a country as its royal head",
+        "ruler of a kingdom -> rules a country"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "learn%2:31:03::",
+      "lemma": "learn",
+      "pos": "v",
+      "definition": "commit to memory; learn by heart",
+      "decision": "gloss",
+      "simpleMeaning": "to fix words or facts in your mind so you can say them from memory",
+      "scope": "This is not about gaining a skill or understanding an idea; it is about memorising exact words or facts.",
+      "examples": [
+        "The children learned the poem by heart.",
+        "He learned the phone numbers by repeating them."
+      ],
+      "branchCoverage": [
+        "commit to memory -> fix words or facts in your mind",
+        "learn by heart -> so you can say them from memory"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "alone%5:00:00:unaccompanied:00",
+      "lemma": "alone",
+      "pos": "a",
+      "definition": "lacking companions or companionship",
+      "decision": "gloss",
+      "simpleMeaning": "with no other people around you or with you",
+      "scope": "This is not about being the only one of a kind; it is about having no other people with you.",
+      "examples": [
+        "She was alone in the flat.",
+        "He felt alone even in a crowded room."
+      ],
+      "branchCoverage": [
+        "lacking companions or companionship -> with no other people around you or with you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "with no other people around you, or feeling lonely",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'companionship': gloss and scope cover only physical isolation, so example 2 (crowded room) mismatches. Use 'or feeling lonely'."
+    },
+    {
+      "senseId": "average%5:00:00:common:01",
+      "lemma": "average",
+      "pos": "a",
+      "definition": "lacking special distinction, rank, or status; commonly encountered",
+      "decision": "gloss",
+      "simpleMeaning": "ordinary, not special or important, and seen very often",
+      "scope": "This is not the mathematical middle value; it describes something plain and usual.",
+      "examples": [
+        "He was an average student who worked hard.",
+        "The food was average, nothing special."
+      ],
+      "branchCoverage": [
+        "lacking special distinction, rank, or status -> not special or important",
+        "commonly encountered -> ordinary and seen very often"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "average (adj) = ordinary, not special; average (n) = the middle or usual figure in a set; average (v, reach) = to reach a usual amount over time; average (v, balance) = to come to a middle amount with no overall gain or loss.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "average%1:09:01::",
+      "lemma": "average",
+      "pos": "n",
+      "definition": "an intermediate scale value regarded as normal or usual",
+      "decision": "gloss",
+      "simpleMeaning": "the middle or usual level in a set of amounts or results",
+      "scope": "This is not the plain, not-special quality of a thing; it is the middle figure taken from a set of numbers.",
+      "examples": [
+        "The class average on the test was 75.",
+        "Her pay is above the average for the city."
+      ],
+      "branchCoverage": [
+        "an intermediate scale value regarded as normal or usual -> the middle or usual level in a set of amounts or results"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "average (adj) = ordinary, not special; average (n) = the middle or usual figure in a set; average (v, reach) = to reach a usual amount over time; average (v, balance) = to come to a middle amount with no overall gain or loss.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "average%2:41:00::",
+      "lemma": "average",
+      "pos": "v",
+      "definition": "achieve or reach on average",
+      "decision": "gloss",
+      "simpleMeaning": "to reach or produce a typical amount over a period of time",
+      "scope": "This is not about finding a middle figure from a list; it is about what someone or something reaches as a usual result.",
+      "examples": [
+        "The team averages three goals a game.",
+        "She averages eight hours of sleep a night."
+      ],
+      "branchCoverage": [
+        "achieve or reach on average -> reach or produce a typical amount over a period of time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "average (adj) = ordinary, not special; average (n) = the middle or usual figure in a set; average (v, reach) = to reach a usual amount over time; average (v, balance) = to come to a middle amount with no overall gain or loss.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "average%2:42:00::",
+      "lemma": "average",
+      "pos": "v",
+      "definition": "amount to or come to an average, without loss or gain",
+      "decision": "gloss",
+      "simpleMeaning": "to add up to a middle amount overall, with no real gain or loss",
+      "scope": "This is not about reaching a typical result by effort; it is about amounts that balance out with no overall gain or loss.",
+      "examples": [
+        "Over the year, the gains and losses average out.",
+        "Their spending averages out to the same amount each month."
+      ],
+      "branchCoverage": [
+        "amount to or come to an average, without loss or gain -> add up to a middle amount overall, with no real gain or loss"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "average (adj) = ordinary, not special; average (n) = the middle or usual figure in a set; average (v, reach) = to reach a usual amount over time; average (v, balance) = to come to a middle amount with no overall gain or loss.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bank%1:14:00::",
+      "lemma": "bank",
+      "pos": "n",
+      "definition": "a financial institution that accepts deposits and channels the money into lending activities",
+      "decision": "gloss",
+      "simpleMeaning": "a business that keeps people's money safe and lends money to others",
+      "scope": "This is not the ground beside a river; it is the business that holds and lends money.",
+      "examples": [
+        "I need to go to the bank to cash this cheque.",
+        "The bank refused to lend them the money."
+      ],
+      "branchCoverage": [
+        "a financial institution that accepts deposits and channels the money into lending activities -> a business that keeps people's money safe and lends money to others"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bank (n, finance) = the business that keeps and lends money; bank (n, land) = the sloping ground beside a river.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bank%1:17:01::",
+      "lemma": "bank",
+      "pos": "n",
+      "definition": "sloping land (especially the slope beside a body of water)",
+      "decision": "gloss",
+      "simpleMeaning": "a slope of ground, especially the side of a river",
+      "scope": "This is not the money business; it is the sloping ground beside water.",
+      "examples": [
+        "We sat on the bank and watched the river.",
+        "Wild flowers grew along the bank of the stream."
+      ],
+      "branchCoverage": [
+        "sloping land (especially the slope beside a body of water) -> a slope of ground, especially the side of a river"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bank (n, finance) = the business that keeps and lends money; bank (n, land) = the sloping ground beside a river.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "certain%3:00:02::",
+      "lemma": "certain",
+      "pos": "a",
+      "definition": "having or feeling no doubt or uncertainty; confident and assured",
+      "decision": "gloss",
+      "simpleMeaning": "feeling sure and confident about something, with no doubts at all",
+      "scope": "This is not about a particular thing whose name is left unsaid; it is about how sure a person feels.",
+      "examples": [
+        "She was certain that she had locked the door.",
+        "I feel certain he will come."
+      ],
+      "branchCoverage": [
+        "having or feeling no doubt or uncertainty -> feeling sure about something, with no doubts at all",
+        "confident and assured -> confident"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "certain (adj, sure) = feeling sure and having no doubt; certain (adj, unnamed) = one particular thing not named or identified.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "certain%5:00:00:definite:00",
+      "lemma": "certain",
+      "pos": "a",
+      "definition": "definite but not specified or identified",
+      "decision": "gloss",
+      "simpleMeaning": "used to talk about one particular thing without saying which one",
+      "scope": "This is not about feeling sure; it points to a particular thing without naming it.",
+      "examples": [
+        "Certain foods make me feel ill.",
+        "There was a certain delay before the train left."
+      ],
+      "branchCoverage": [
+        "definite but not specified or identified -> used to talk about one particular thing without saying which one"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "certain (adj, sure) = feeling sure and having no doubt; certain (adj, unnamed) = one particular thing not named or identified.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "church%1:14:00::",
+      "lemma": "church",
+      "pos": "n",
+      "definition": "one of the groups of Christians who have their own beliefs and forms of worship",
+      "decision": "gloss",
+      "simpleMeaning": "a group of Christians who share the same beliefs and ways of praying",
+      "scope": "This is not the building where people pray; it is the group of believers itself.",
+      "examples": [
+        "The two churches have different beliefs about baptism.",
+        "The church has members all over the country."
+      ],
+      "branchCoverage": [
+        "one of the groups of Christians who have their own beliefs and forms of worship -> a group of Christians who share the same beliefs and ways of praying"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "church (n) = a group of Christians with shared beliefs; church (v) = to hold a special religious ceremony for someone.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "church%2:38:00::",
+      "lemma": "church",
+      "pos": "v",
+      "definition": "perform a special church rite or service for",
+      "decision": "gloss",
+      "simpleMeaning": "to hold a special religious ceremony for a person or event",
+      "scope": "This is not the group of believers; it is the act of holding a religious ceremony.",
+      "examples": [
+        "In the past, women were churched after the birth of a child.",
+        "The priest churched the new mother in a short service."
+      ],
+      "branchCoverage": [
+        "perform a special church rite or service for -> hold a special religious ceremony for a person or event"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "church (n) = a group of Christians with shared beliefs; church (v) = to hold a special religious ceremony for someone.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "east%1:24:02::",
+      "lemma": "east",
+      "pos": "n",
+      "definition": "the direction corresponding to the eastward cardinal compass point",
+      "decision": "gloss",
+      "simpleMeaning": "the direction where the sun comes up, one of the four main compass directions",
+      "scope": "This is not an exact compass point used for bearings in degrees; it is the direction itself.",
+      "examples": [
+        "The sun comes up in the east.",
+        "The birds fly towards the east in winter."
+      ],
+      "branchCoverage": [
+        "the direction corresponding to the eastward cardinal compass point -> the direction where the sun comes up, one of the four main compass directions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "east (n, direction) = the direction of sunrise; east (n, compass point) = the exact compass point 90 degrees from north, used for bearings.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "east%1:24:00::",
+      "lemma": "east",
+      "pos": "n",
+      "definition": "the cardinal compass point that is at 90 degrees",
+      "decision": "gloss",
+      "simpleMeaning": "the main compass point that sits 90 degrees from north",
+      "scope": "This is not the general direction of travel; it is the exact point on a compass used for measuring bearings.",
+      "examples": [
+        "The compass rose marks east at 90 degrees.",
+        "The needle swung round and stopped at east."
+      ],
+      "branchCoverage": [
+        "the cardinal compass point that is at 90 degrees -> the main compass point that sits 90 degrees from north"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "east (n, direction) = the direction of sunrise; east (n, compass point) = the exact compass point 90 degrees from north, used for bearings.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hands%1:04:00::",
+      "lemma": "hands",
+      "pos": "n",
+      "definition": "(with ‘in’) guardianship over; in divorce cases it is the right to house and care for and discipline a child",
+      "decision": "gloss",
+      "simpleMeaning": "the legal right to care for a child, decide where they live and correct their behaviour, especially after a divorce",
+      "scope": "This is not the body part at the end of the arm; it is the legal right to raise a child.",
+      "examples": [
+        "The court placed the child in the hands of her grandmother.",
+        "After the divorce, the boy was in his father's hands."
+      ],
+      "branchCoverage": [
+        "(with ‘in’) guardianship over -> the legal right to care for a child, used in the phrase 'in someone's hands'",
+        "in divorce cases it is the right to house and care for and discipline a child -> decide where they live and correct their behaviour, especially after a divorce"
+      ],
+      "labelBranches": [
+        "(with ‘in’)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hot%3:00:02::",
+      "lemma": "hot",
+      "pos": "a",
+      "definition": "(extended meanings, especially of psychological heat) marked by intensity or vehemence especially of passion or enthusiasm",
+      "decision": "gloss",
+      "simpleMeaning": "used about strong feelings rather than temperature: full of passion or excitement",
+      "scope": "This is not about heat you can feel; it describes strong feeling, passion or excitement.",
+      "examples": [
+        "They had a hot, passionate romance.",
+        "His hot temper got him into trouble."
+      ],
+      "branchCoverage": [
+        "(extended meanings, especially of psychological heat) marked by intensity or vehemence especially of passion or enthusiasm -> used about strong feelings rather than temperature: full of passion or excitement"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hot (adj, temperature) = having a high temperature; hot (adj, feeling) = full of passion or strong emotion; hot (adj, violent) = fast, forceful and very intense.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hot%3:00:01::",
+      "lemma": "hot",
+      "pos": "a",
+      "definition": "used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning",
+      "decision": "gloss",
+      "simpleMeaning": "having a high temperature, often higher than is pleasant, or giving off heat",
+      "scope": "This is not about strong feelings; it is about heat you can feel.",
+      "examples": [
+        "The soup is too hot to eat.",
+        "The engine was still hot after the drive."
+      ],
+      "branchCoverage": [
+        "used of physical heat -> having a high temperature",
+        "having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning -> often higher than is pleasant, or giving off heat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hot (adj, temperature) = having a high temperature; hot (adj, feeling) = full of passion or strong emotion; hot (adj, violent) = fast, forceful and very intense.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hot%5:00:00:violent:00",
+      "lemma": "hot",
+      "pos": "a",
+      "definition": "characterized by violent and forceful activity or movement; very intense",
+      "decision": "gloss",
+      "simpleMeaning": "very intense, with fast and forceful movement or activity",
+      "scope": "This is not about temperature or feelings; it describes fast, forceful action or movement.",
+      "examples": [
+        "It was a hot fight, with neither side giving way.",
+        "The players kept up a hot pace for the whole match."
+      ],
+      "branchCoverage": [
+        "characterized by violent and forceful activity or movement -> with fast and forceful movement or activity",
+        "very intense -> very intense"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hot (adj, temperature) = having a high temperature; hot (adj, feeling) = full of passion or strong emotion; hot (adj, violent) = fast, forceful and very intense.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "medical%1:04:00::",
+      "lemma": "medical",
+      "pos": "n",
+      "definition": "a thorough physical examination; includes a variety of tests depending on the age and sex and health of the person",
+      "decision": "gloss",
+      "simpleMeaning": "a full health check, with tests chosen for the person's age, sex and health",
+      "scope": "This is not the adjective for things connected with doctors; it is the examination itself.",
+      "examples": [
+        "He had a medical before joining the army.",
+        "The company paid for her annual medical."
+      ],
+      "branchCoverage": [
+        "a thorough physical examination -> a full health check",
+        "includes a variety of tests depending on the age and sex and health of the person -> with tests chosen for the person's age, sex and health"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "medical (n) = a full health examination; medical (adj, general) = relating to the study or practice of medicine; medical (adj, treatment) = treated with medicine rather than surgery; medical (adj, healing art) = belonging to the healing art.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "medical%3:00:00::",
+      "lemma": "medical",
+      "pos": "a",
+      "definition": "requiring or amenable to treatment by medicine especially as opposed to surgery",
+      "decision": "gloss",
+      "simpleMeaning": "Needing or able to be treated with drugs rather than with an operation.",
+      "scope": "It is not about medicine as a subject of study, and not a general health examination.",
+      "examples": [
+        "The treatment was medical rather than surgical, so pills should be enough.",
+        "Her injury was medical rather than surgical, and no operation was needed."
+      ],
+      "branchCoverage": [
+        "requiring or amenable to treatment by medicine especially as opposed to surgery -> needing or able to be treated with drugs rather than with an operation"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "medical (noun, check-up) = the health examination itself; medical (drugs vs surgery) = needing or able to be treated with drugs rather than an operation; medical (healing art) = tied to the healing art or to Aesculapius; medical (study or practice) = connected with the science and work of treating illness and injury.",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 'condition was medical' reads as illness; use 'The treatment was medical, not surgical, so pills were used.'"
+    },
+    {
+      "senseId": "medical%3:01:02::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Archaic relational sense tied to the proper name Aesculapius; any natural modern example would have to be invented or would mislead learners."
+    },
+    {
+      "senseId": "medical%3:01:00::",
+      "lemma": "medical",
+      "pos": "a",
+      "definition": "relating to the study or practice of medicine",
+      "decision": "gloss",
+      "simpleMeaning": "Connected with the science and work of treating illness and injury as a profession.",
+      "scope": "It is not about a treatment that uses drugs instead of surgery, and not a health check.",
+      "examples": [
+        "She is a medical student at the university.",
+        "He reads a medical journal every week."
+      ],
+      "branchCoverage": [
+        "relating to the study or practice of medicine -> connected with the science and work of treating illness and injury as a profession"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "medical (noun, check-up) = the health examination itself; medical (drugs vs surgery) = needing or able to be treated with drugs rather than an operation; medical (healing art) = tied to the healing art or to Aesculapius; medical (study or practice) = connected with the science and work of treating illness and injury.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "movie%1:10:00::",
+      "lemma": "movie",
+      "pos": "n",
+      "definition": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+      "decision": "gloss",
+      "simpleMeaning": "A story shown in pictures that seem to move, with sound, made for entertainment.",
+      "scope": "It is not the building where such stories are shown, and not a short video clip.",
+      "examples": [
+        "We watched a funny movie about a talking dog.",
+        "The movie was so long that we missed the last bus."
+      ],
+      "branchCoverage": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement -> a story shown in pictures that seem to move, with sound, made for entertainment"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "original%1:06:00::",
+      "lemma": "original",
+      "pos": "n",
+      "definition": "an original creation (i.e., an audio recording) from which copies can be made",
+      "decision": "gloss",
+      "simpleMeaning": "The first recording or piece of work that other copies are made from.",
+      "scope": "It is not a person with fresh ideas, and not a first rough version of a document.",
+      "examples": [
+        "They kept the original in a locked room and worked only from copies.",
+        "The band lost the original of their first song."
+      ],
+      "branchCoverage": [
+        "an original creation (i.e., an audio recording) from which copies can be made -> the first recording or piece of work that other copies are made from"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "original (noun) = the first recording or work that copies are made from; original (adjective) = coming straight from the source, not secondhand.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "original%5:00:00:primary:00",
+      "lemma": "original",
+      "pos": "a",
+      "definition": "(of e.g. information) not secondhand or by way of something intermediary",
+      "decision": "gloss",
+      "simpleMeaning": "Coming straight from the source, not passed on through someone else.",
+      "scope": "It is not about being new or creative, and not the first recording that copies are made from.",
+      "examples": [
+        "We need original information, not a summary from a website.",
+        "Her account came from original research rather than from other books."
+      ],
+      "branchCoverage": [
+        "(of e.g. information) not secondhand or by way of something intermediary -> coming straight from the source, not passed on through someone else"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "original (noun) = the first recording or work that copies are made from; original (adjective) = coming straight from the source, not secondhand.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "performance%1:04:00::",
+      "lemma": "performance",
+      "pos": "n",
+      "definition": "the act of performing; of doing something successfully; using knowledge as distinguished from merely possessing it",
+      "decision": "gloss",
+      "simpleMeaning": "How well someone carries out a task, showing skill in action rather than just knowledge.",
+      "scope": "It is not a show or concert for an audience, and not one single deed.",
+      "examples": [
+        "Her performance at work improved after the training.",
+        "The team's performance in the match was poor."
+      ],
+      "branchCoverage": [
+        "the act of performing -> how well someone carries out a task",
+        "of doing something successfully -> how well someone carries out a task",
+        "using knowledge as distinguished from merely possessing it -> showing skill in action rather than just knowledge"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "performance (task) = how well someone carries out a job or activity; performance (show) = a music, dance, or acting show for an audience.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "performance%1:10:00::",
+      "lemma": "performance",
+      "pos": "n",
+      "definition": "a dramatic or musical entertainment",
+      "decision": "gloss",
+      "simpleMeaning": "A show of music, dance, or acting put on for an audience.",
+      "scope": "It is not how well someone does a job, and not the act of carrying something out.",
+      "examples": [
+        "We went to a performance of the school orchestra.",
+        "The evening performance starts at eight."
+      ],
+      "branchCoverage": [
+        "a dramatic or musical entertainment -> a show of music, dance, or acting put on for an audience"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "performance (task) = how well someone carries out a job or activity; performance (show) = a music, dance, or acting show for an audience.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%1:10:00::",
+      "lemma": "press",
+      "pos": "n",
+      "definition": "the print media responsible for gathering and publishing news in the form of newspapers or magazines",
+      "decision": "gloss",
+      "simpleMeaning": "Newspapers and magazines, and the people who gather and publish news for them.",
+      "scope": "It is not the act of pushing something, and not a machine that prints books.",
+      "examples": [
+        "The press were waiting outside the court.",
+        "She gave an interview to the local press."
+      ],
+      "branchCoverage": [
+        "the print media responsible for gathering and publishing news in the form of newspapers or magazines -> newspapers and magazines, and the people who gather and publish news for them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press (noun) = newspapers, magazines, and their reporters; press (verb) = push something firmly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%2:35:00::",
+      "lemma": "press",
+      "pos": "v",
+      "definition": "exert pressure or force to or upon",
+      "decision": "gloss",
+      "simpleMeaning": "To push something firmly, often with your hand or fingers.",
+      "scope": "It is not asking strongly for something, and not making clothes smooth with an iron.",
+      "examples": [
+        "Press the button to start the machine.",
+        "He pressed his hand against the cold glass."
+      ],
+      "branchCoverage": [
+        "exert pressure or force to or upon -> to push something firmly, often with your hand or fingers"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press (noun) = newspapers, magazines, and their reporters; press (verb) = push something firmly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sent%3:00:00::",
+      "lemma": "sent",
+      "pos": "a",
+      "definition": "caused or enabled to go or be conveyed or transmitted",
+      "decision": "gloss",
+      "simpleMeaning": "Already passed on or carried to another person or place.",
+      "scope": "It is not the act of posting something now, and not a person being made to go somewhere.",
+      "examples": [
+        "She looked in the sent folder for the message.",
+        "The sent parcel arrived the next morning."
+      ],
+      "branchCoverage": [
+        "caused or enabled to go or be conveyed or transmitted -> already passed on or carried to another person or place"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "tried%5:00:00:reliable:00",
+      "lemma": "tried",
+      "pos": "a",
+      "definition": "tested and proved to be reliable",
+      "decision": "gloss",
+      "simpleMeaning": "Shown by past use to work well and be trusted.",
+      "scope": "It is not the act of attempting something, and not a case judged in a court.",
+      "examples": [
+        "This is a tried recipe that never fails.",
+        "They used a tried method that had worked for years."
+      ],
+      "branchCoverage": [
+        "tested and proved to be reliable -> shown by past use to work well and be trusted"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worth%1:07:00::",
+      "lemma": "worth",
+      "pos": "n",
+      "definition": "the quality that renders something desirable or valuable or useful",
+      "decision": "gloss",
+      "simpleMeaning": "The quality that makes something useful, valuable, or wanted.",
+      "scope": "It is not an amount equal to a sum of money, and not the word for deserving something.",
+      "examples": [
+        "The worth of the painting grew after the artist died.",
+        "He doubted the worth of the old machine."
+      ],
+      "branchCoverage": [
+        "the quality that renders something desirable or valuable or useful -> the quality that makes something useful, valuable, or wanted"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "worth (quality) = the value or usefulness that makes something wanted; worth (quantity) = an amount equal to a stated sum of money; worth (adjective) = good enough to deserve a stated treatment.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worth%1:23:00::",
+      "lemma": "worth",
+      "pos": "n",
+      "definition": "an indefinite quantity of something having a specified value",
+      "decision": "gloss",
+      "simpleMeaning": "An amount of something equal in value to a stated sum of money.",
+      "scope": "It is not the general quality of being valuable, and not the word for deserving something.",
+      "examples": [
+        "She bought a pound's worth of apples.",
+        "We only had a day's worth of fuel left."
+      ],
+      "branchCoverage": [
+        "an indefinite quantity of something having a specified value -> an amount of something equal in value to a stated sum of money"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "worth (quality) = the value or usefulness that makes something wanted; worth (quantity) = an amount equal to a stated sum of money; worth (adjective) = good enough to deserve a stated treatment.",
+      "meaning": "an amount of something equal in value to a stated amount",
+      "verdict": "self-approved",
+      "reviewerNote": "Money-only gloss ignores 'a day's worth of work'; say 'an amount equal to a stated value, often money'."
+    },
+    {
+      "senseId": "worth%5:00:00:worthy:00",
+      "lemma": "worth",
+      "pos": "a",
+      "definition": "(often used ironically) worthy of being treated in a particular way",
+      "decision": "gloss",
+      "simpleMeaning": "Good enough to deserve a stated treatment, such as being considered or visited, often said with irony.",
+      "scope": "It is not the noun for the value of something, and not an amount equal to a sum of money.",
+      "examples": [
+        "The museum is worth a visit.",
+        "It is not worth getting upset about."
+      ],
+      "branchCoverage": [
+        "(often used ironically) worthy of being treated in a particular way -> good enough to deserve a stated treatment, such as being considered or visited, often said with irony"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "worth (quality) = the value or usefulness that makes something wanted; worth (quantity) = an amount equal to a stated sum of money; worth (adjective) = good enough to deserve a stated treatment.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bill%1:10:01::",
+      "lemma": "bill",
+      "pos": "n",
+      "definition": "an itemized statement of money owed for goods shipped or services rendered",
+      "decision": "gloss",
+      "simpleMeaning": "A list showing how much money is owed for goods or services.",
+      "scope": "It is not a plan for a new law, and not a bird's beak or a banknote.",
+      "examples": [
+        "The waiter brought the bill at the end of the meal.",
+        "We paid the electricity bill online."
+      ],
+      "branchCoverage": [
+        "an itemized statement of money owed for goods shipped or services rendered -> a list showing how much money is owed for goods or services"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bill (noun) = a list of money owed; bill (verb, advertise) = promote something with posters; bill (verb, announce) = give public notice of something on large signs.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bill%2:32:00::",
+      "lemma": "bill",
+      "pos": "v",
+      "definition": "advertise especially by posters or placards",
+      "decision": "gloss",
+      "simpleMeaning": "To advertise something, especially by putting up posters.",
+      "scope": "It is not sending someone an invoice, and not proposing a new law.",
+      "examples": [
+        "The circus was billed on posters all over town.",
+        "They billed the concert for weeks before it opened."
+      ],
+      "branchCoverage": [
+        "advertise especially by posters or placards -> to advertise something, especially by putting up posters"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bill (noun) = a list of money owed; bill (verb, advertise) = promote something with posters; bill (verb, announce) = give public notice of something on large signs.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bill%2:32:01::",
+      "lemma": "bill",
+      "pos": "v",
+      "definition": "publicize or announce by placards",
+      "decision": "gloss",
+      "simpleMeaning": "To give public notice of something using large printed signs.",
+      "scope": "It is not advertising goods to attract buyers, and not sending a request for payment.",
+      "examples": [
+        "The king's visit was billed on signs throughout the city.",
+        "News of the fair was billed on large boards at the gates."
+      ],
+      "branchCoverage": [
+        "publicize or announce by placards -> to give public notice of something using large printed signs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bill (noun) = a list of money owed; bill (verb, advertise) = promote something with posters; bill (verb, announce) = give public notice of something on large signs.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cool%3:00:03::",
+      "lemma": "cool",
+      "pos": "a",
+      "definition": "inducing the impression of coolness; used especially of greens and blues and violets when referring to color",
+      "decision": "gloss",
+      "simpleMeaning": "A color such as green, blue, or violet that gives a calm, cold feeling.",
+      "scope": "It is not low in temperature, and not calm and unemotional.",
+      "examples": [
+        "The room was painted in cool blues and greens.",
+        "She chose a cool violet for the bedroom walls."
+      ],
+      "branchCoverage": [
+        "inducing the impression of coolness -> a color that gives a calm, cold feeling",
+        "used especially of greens and blues and violets when referring to color -> a color such as green, blue, or violet"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cool (color) = a green, blue, or violet color with a calm, cold feel; cool (composed) = calm and in control under pressure; cool (noun) = the ability to stay calm under strain.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cool%5:00:00:composed:00",
+      "lemma": "cool",
+      "pos": "a",
+      "definition": "marked by calm self-control (especially in trying circumstances); unemotional",
+      "decision": "gloss",
+      "simpleMeaning": "Calm and in control of your feelings in a hard situation, and not showing strong emotion.",
+      "scope": "It is not low in temperature, and not a color such as blue or green.",
+      "examples": [
+        "She stayed cool during the emergency and gave clear orders.",
+        "He was cool under pressure, even when the crowd shouted."
+      ],
+      "branchCoverage": [
+        "marked by calm self-control (especially in trying circumstances) -> calm and in control of your feelings in a hard situation",
+        "unemotional -> not showing strong emotion"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cool (color) = a green, blue, or violet color with a calm, cold feel; cool (composed) = calm and in control under pressure; cool (noun) = the ability to stay calm under strain.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cool%1:07:02::",
+      "lemma": "cool",
+      "pos": "n",
+      "definition": "great coolness and composure under strain",
+      "decision": "gloss",
+      "simpleMeaning": "The ability to stay calm and steady when things are difficult.",
+      "scope": "It is not a low temperature, and not the calm feeling of a blue or green color.",
+      "examples": [
+        "She kept her cool while the others panicked.",
+        "He lost his cool and shouted at the driver."
+      ],
+      "branchCoverage": [
+        "great coolness and composure under strain -> the ability to stay calm and steady when things are difficult"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cool (color) = a green, blue, or violet color with a calm, cold feel; cool (composed) = calm and in control under pressure; cool (noun) = the ability to stay calm under strain.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "director%1:18:02::",
+      "lemma": "director",
+      "pos": "n",
+      "definition": "someone who supervises the actors and directs the action in the production of a show",
+      "decision": "gloss",
+      "simpleMeaning": "The person who guides the actors and shapes the action of a play, film, or show.",
+      "scope": "It is not a member of a company's board, and not the head of a school or department.",
+      "examples": [
+        "The director told the actors where to stand.",
+        "She wants to work as a film director."
+      ],
+      "branchCoverage": [
+        "someone who supervises the actors and directs the action in the production of a show -> the person who guides the actors and shapes the action of a play, film, or show"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "director (show) = the person who guides actors and shapes a performance; director (board) = a member of the group that runs a company.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "director%1:18:03::",
+      "lemma": "director",
+      "pos": "n",
+      "definition": "member of a board of directors",
+      "decision": "gloss",
+      "simpleMeaning": "A member of the group that runs a company and makes its main decisions.",
+      "scope": "It is not the person who guides actors in a show, and not a school head.",
+      "examples": [
+        "The board of directors met to discuss the budget.",
+        "He was appointed a director of the bank."
+      ],
+      "branchCoverage": [
+        "member of a board of directors -> a member of the group that runs a company and makes its main decisions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "director (show) = the person who guides actors and shapes a performance; director (board) = a member of the group that runs a company.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "exactly%4:02:01::",
+      "lemma": "exactly",
+      "pos": "r",
+      "definition": "indicating exactness or preciseness",
+      "decision": "gloss",
+      "simpleMeaning": "In a way that is completely right, with no difference at all.",
+      "scope": "It is not a rough guess, and not a short way of saying you agree.",
+      "examples": [
+        "The train left at exactly seven o'clock.",
+        "The two copies look exactly the same."
+      ],
+      "branchCoverage": [
+        "indicating exactness or preciseness -> in a way that is completely right, with no difference at all"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "giving%1:04:01::",
+      "lemma": "giving",
+      "pos": "n",
+      "definition": "disposing of property by voluntary transfer without receiving value in return",
+      "decision": "gloss",
+      "simpleMeaning": "The act of handing over money or property to someone as a gift, with nothing received back.",
+      "scope": "It is not a sale or exchange for payment, and not the act of handing a small object to someone.",
+      "examples": [
+        "The giving of the land to the town was recorded in the will.",
+        "Their regular giving keeps the shelter open."
+      ],
+      "branchCoverage": [
+        "disposing of property by voluntary transfer without receiving value in return -> the act of handing over money or property to someone as a gift, with nothing received back"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

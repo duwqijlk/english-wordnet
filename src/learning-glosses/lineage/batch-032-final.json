@@ -1,0 +1,1157 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 32,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 47,
+      "of": 50,
+      "rate": 0.94
+    },
+    "selfApproved": [
+      "brand%2:41:00::",
+      "mouth%2:35:00::",
+      "wedding%1:14:00::"
+    ],
+    "lineage": {
+      "draft": "5b11a8d5358b2f5e2473fe24179b368a7d6a5a722dd1ef9f908c75f6e49f7437"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "structure%2:30:00::",
+      "lemma": "structure",
+      "pos": "v",
+      "definition": "give a structure to",
+      "decision": "gloss",
+      "simpleMeaning": "to arrange the parts of something in an organized way so they form a whole.",
+      "scope": "This is about arranging the parts of something into an organized pattern, not about building something or about the shape a finished thing already has.",
+      "examples": [
+        "She structured her essay around three main arguments.",
+        "The committee structured the program to allow time for questions."
+      ],
+      "branchCoverage": [
+        "give a structure to -> to arrange the parts of something in an organized way so they form a whole"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "give a structure to"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "traditional%5:00:00:orthodox:00",
+      "lemma": "traditional",
+      "pos": "a",
+      "definition": "pertaining to time-honored orthodox doctrines",
+      "decision": "gloss",
+      "simpleMeaning": "relating to established religious teachings that have been accepted as correct for a long time.",
+      "scope": "This sense concerns long-accepted religious doctrine, not everyday customs or habits handed down in a family.",
+      "examples": [
+        "The priest defended the traditional doctrine of the church against modern revisions.",
+        "In that region, families still follow the traditional teachings of their faith."
+      ],
+      "branchCoverage": [
+        "pertaining to time-honored orthodox doctrines -> relating to established religious teachings that have been accepted as correct for a long time"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pertaining to time-honored orthodox doctrines"
+      ],
+      "lemmaPartition": "traditional%5:00:00:orthodox:00 -> long-accepted, strictly orthodox religious doctrine\ntraditional%3:00:00:: -> customs and ways of doing things handed down from earlier generations",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "traditional%3:00:00::",
+      "lemma": "traditional",
+      "pos": "a",
+      "definition": "consisting of or derived from tradition",
+      "decision": "gloss",
+      "simpleMeaning": "based on beliefs, customs, or ways of doing things passed down from earlier generations.",
+      "scope": "This sense concerns customs and ways of doing things handed down over time, not strict religious doctrine.",
+      "examples": [
+        "They served a traditional meal of rice and fish at the festival.",
+        "Her traditional approach to cooking came from her grandmother."
+      ],
+      "branchCoverage": [
+        "consisting of or derived from tradition -> based on beliefs, customs, or ways of doing things passed down from earlier generations"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "consisting of or derived from tradition"
+      ],
+      "lemmaPartition": "traditional%5:00:00:orthodox:00 -> long-accepted, strictly orthodox religious doctrine\ntraditional%3:00:00:: -> customs and ways of doing things handed down from earlier generations",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wind%2:38:00::",
+      "lemma": "wind",
+      "pos": "v",
+      "definition": "to move or cause to move in a sinuous, spiral, or circular course",
+      "decision": "gloss",
+      "simpleMeaning": "to follow a twisting, curving, or circling path, or to make something move that way.",
+      "scope": "This describes movement along a twisting or circling path, not the noun for moving air and not the act of turning a key or a handle.",
+      "examples": [
+        "The river winds through the valley for miles.",
+        "She wound the string tightly around her finger."
+      ],
+      "branchCoverage": [
+        "to move or cause to move in a sinuous, spiral, or circular course -> to follow a twisting, curving, or circling path, or to make something move that way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "to move or cause to move in a sinuous, spiral, or circular course"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worry%2:37:00::",
+      "lemma": "worry",
+      "pos": "v",
+      "definition": "be worried, concerned, anxious, troubled, or uneasy",
+      "decision": "gloss",
+      "simpleMeaning": "to feel uneasy or anxious about something.",
+      "scope": "This describes feeling anxious yourself, not making another person feel anxious.",
+      "examples": [
+        "She worries about her son when he travels alone.",
+        "Try not to worry; the test results will be fine."
+      ],
+      "branchCoverage": [
+        "be worried, concerned, anxious, troubled, or uneasy -> to feel uneasy or anxious about something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be worried, concerned, anxious, troubled, or uneasy"
+      ],
+      "lemmaPartition": "worry%2:37:00:: -> feeling anxious oneself (intransitive)\nworry%2:37:01:: -> causing another person to feel anxious (transitive)\nworry%1:09:00:: -> a person or thing that causes anxiety",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worry%2:37:01::",
+      "lemma": "worry",
+      "pos": "v",
+      "definition": "disturb the peace of mind of; afflict with mental agitation or distress",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone feel uneasy, anxious, or distressed.",
+      "scope": "This describes causing someone else to feel anxious, not feeling anxious yourself.",
+      "examples": [
+        "The delay worried her parents.",
+        "His silence began to worry the staff."
+      ],
+      "branchCoverage": [
+        "disturb the peace of mind of -> to make someone feel uneasy or anxious",
+        "afflict with mental agitation or distress -> to make someone feel distressed"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "disturb the peace of mind of",
+        "afflict with mental agitation or distress"
+      ],
+      "lemmaPartition": "worry%2:37:00:: -> feeling anxious oneself (intransitive)\nworry%2:37:01:: -> causing another person to feel anxious (transitive)\nworry%1:09:00:: -> a person or thing that causes anxiety",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worry%1:09:00::",
+      "lemma": "worry",
+      "pos": "n",
+      "definition": "something or someone that causes anxiety; a source of unhappiness",
+      "decision": "gloss",
+      "simpleMeaning": "a person or thing that causes you to feel anxious or unhappy.",
+      "scope": "This is a person or thing that causes anxiety, not the feeling of anxiety itself.",
+      "examples": [
+        "Money is a constant worry for many families.",
+        "Her health became a serious worry after the accident."
+      ],
+      "branchCoverage": [
+        "something or someone that causes anxiety -> a person or thing that causes you to feel anxious",
+        "a source of unhappiness -> causes you to feel unhappy"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something or someone that causes anxiety",
+        "a source of unhappiness"
+      ],
+      "lemmaPartition": "worry%2:37:00:: -> feeling anxious oneself (intransitive)\nworry%2:37:01:: -> causing another person to feel anxious (transitive)\nworry%1:09:00:: -> a person or thing that causes anxiety",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "brand%2:41:00::",
+      "lemma": "brand",
+      "pos": "v",
+      "definition": "to accuse or condemn or openly or formally or brand as disgraceful",
+      "decision": "gloss",
+      "simpleMeaning": "to accuse or condemn a person, group, or thing publicly as shameful or disgraceful.",
+      "scope": "This is about publicly judging something or someone as shameful, not about burning a mark into an animal or naming a product.",
+      "examples": [
+        "The press branded him a traitor.",
+        "Critics branded the policy a disaster."
+      ],
+      "branchCoverage": [
+        "to accuse or condemn or openly or formally or brand as disgraceful -> to accuse or condemn a person, group, or thing publicly as shameful or disgraceful"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "to accuse or condemn or openly or formally or brand as disgraceful"
+      ],
+      "lemmaPartition": "brand%2:41:00:: -> publicly accusing or condemning as disgraceful\nbrand%2:41:01:: -> burning an ownership mark into an animal\nbrand%1:10:02:: -> the burned ownership mark itself\nbrand%2:35:00:: -> marking goods with a maker's name or symbol",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope/gloss limit to 'a person' and 'openly and formally', but example 2 brands a policy; allow things and 'openly or formally'."
+    },
+    {
+      "senseId": "brand%2:41:01::",
+      "lemma": "brand",
+      "pos": "v",
+      "definition": "burn with a branding iron to indicate ownership; of animals",
+      "decision": "gloss",
+      "simpleMeaning": "to burn a mark into an animal's skin with a hot iron to show who owns it.",
+      "scope": "This is about burning an ownership mark into an animal, not about naming goods or condemning someone.",
+      "examples": [
+        "The rancher branded each calf in the spring.",
+        "They branded the horses before releasing them onto the range."
+      ],
+      "branchCoverage": [
+        "burn with a branding iron to indicate ownership -> to burn a mark into an animal's skin with a hot iron to show who owns it",
+        "of animals -> an animal's skin"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "burn with a branding iron to indicate ownership",
+        "of animals"
+      ],
+      "lemmaPartition": "brand%2:41:00:: -> publicly accusing or condemning as disgraceful\nbrand%2:41:01:: -> burning an ownership mark into an animal\nbrand%1:10:02:: -> the burned ownership mark itself\nbrand%2:35:00:: -> marking goods with a maker's name or symbol",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "brand%1:10:02::",
+      "lemma": "brand",
+      "pos": "n",
+      "definition": "identification mark on skin, made by burning",
+      "decision": "gloss",
+      "simpleMeaning": "a mark burned into skin to show ownership.",
+      "scope": "This is the burned ownership mark itself, not the act of burning it and not a product's name.",
+      "examples": [
+        "The brand on the horse's flank was still visible.",
+        "Each animal carried a brand showing which ranch it belonged to."
+      ],
+      "branchCoverage": [
+        "identification mark on skin, made by burning -> a mark burned into skin to show ownership"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "identification mark on skin, made by burning"
+      ],
+      "lemmaPartition": "brand%2:41:00:: -> publicly accusing or condemning as disgraceful\nbrand%2:41:01:: -> burning an ownership mark into an animal\nbrand%1:10:02:: -> the burned ownership mark itself\nbrand%2:35:00:: -> marking goods with a maker's name or symbol",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "brand%2:35:00::",
+      "lemma": "brand",
+      "pos": "v",
+      "definition": "mark with a brand or trademark",
+      "decision": "gloss",
+      "simpleMeaning": "to put a name or symbol on goods to show who made or sells them.",
+      "scope": "This is about putting a maker's name or symbol on goods, not about burning marks into animals or publicly condemning someone.",
+      "examples": [
+        "The company brands its products with a small logo.",
+        "Local farmers now brand their honey to compete with larger sellers."
+      ],
+      "branchCoverage": [
+        "mark with a brand or trademark -> to put a name or symbol on goods to show who made or sells them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "mark with a brand or trademark"
+      ],
+      "lemmaPartition": "brand%2:41:00:: -> publicly accusing or condemning as disgraceful\nbrand%2:41:01:: -> burning an ownership mark into an animal\nbrand%1:10:02:: -> the burned ownership mark itself\nbrand%2:35:00:: -> marking goods with a maker's name or symbol",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bus%1:06:02::",
+      "lemma": "bus",
+      "pos": "n",
+      "definition": "an electrical conductor that makes a common connection between several circuits",
+      "decision": "gloss",
+      "simpleMeaning": "a metal bar or wire that connects several electrical circuits so they share a common link.",
+      "scope": "This is the metal conductor inside electrical equipment, not a passenger vehicle and not a network layout.",
+      "examples": [
+        "The power bus carries current to every board in the rack.",
+        "A short in the main bus shut down the whole system."
+      ],
+      "branchCoverage": [
+        "an electrical conductor that makes a common connection between several circuits -> a metal bar or wire that connects several electrical circuits so they share a common link"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an electrical conductor that makes a common connection between several circuits"
+      ],
+      "lemmaPartition": "bus%1:06:02:: -> the metal conductor that joins circuits\nbus%1:09:00:: -> a network layout using one shared connecting line",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bus%1:09:00::",
+      "lemma": "bus",
+      "pos": "n",
+      "definition": "the topology of a network whose components are connected by a busbar",
+      "decision": "gloss",
+      "simpleMeaning": "a network arrangement in which all connected devices share one common connecting line.",
+      "scope": "This is a way of laying out a network, not the metal conductor itself and not a passenger vehicle.",
+      "examples": [
+        "The lab used a bus layout so every computer shared the same cable.",
+        "In a bus network, a break in the main line can stop all traffic."
+      ],
+      "branchCoverage": [
+        "the topology of a network whose components are connected by a busbar -> a network arrangement in which all connected devices share one common connecting line"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the topology of a network whose components are connected by a busbar"
+      ],
+      "lemmaPartition": "bus%1:06:02:: -> the metal conductor that joins circuits\nbus%1:09:00:: -> a network layout using one shared connecting line",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "count%1:18:00::",
+      "lemma": "count",
+      "pos": "n",
+      "definition": "a nobleman (in various countries) having rank equal to a British earl",
+      "decision": "gloss",
+      "simpleMeaning": "a nobleman in some countries whose rank matches that of a British earl.",
+      "scope": "This is a title of nobility, not a total reached by adding things up and not the act of adding.",
+      "examples": [
+        "The count ruled the province in the king's name.",
+        "She married a count and moved to his castle."
+      ],
+      "branchCoverage": [
+        "a nobleman (in various countries) having rank equal to a British earl -> a nobleman in some countries whose rank matches that of a British earl"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a nobleman (in various countries) having rank equal to a British earl"
+      ],
+      "lemmaPartition": "count%1:18:00:: -> a noble title\ncount%1:04:00:: -> the activity of saying numbers to find a total\ncount%1:23:00:: -> the resulting total number",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "count%1:04:00::",
+      "lemma": "count",
+      "pos": "n",
+      "definition": "the act of counting; reciting numbers in ascending order",
+      "decision": "gloss",
+      "simpleMeaning": "the act of saying numbers in order to find how many there are.",
+      "scope": "This is the activity of saying numbers one by one, not the final total and not a noble title.",
+      "examples": [
+        "The count of the votes lasted all night.",
+        "We did a quick count of the chairs before the meeting."
+      ],
+      "branchCoverage": [
+        "the act of counting -> the act of saying numbers in order to find how many there are",
+        "reciting numbers in ascending order -> saying numbers in order"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of counting",
+        "reciting numbers in ascending order"
+      ],
+      "lemmaPartition": "count%1:18:00:: -> a noble title\ncount%1:04:00:: -> the activity of saying numbers to find a total\ncount%1:23:00:: -> the resulting total number",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "count%1:23:00::",
+      "lemma": "count",
+      "pos": "n",
+      "definition": "the total number counted",
+      "decision": "gloss",
+      "simpleMeaning": "the number you get after adding up all the items.",
+      "scope": "This is the final total after adding things up, not the activity of numbering and not a noble title.",
+      "examples": [
+        "The final count came to 342 votes.",
+        "The bird count for the year reached a record high."
+      ],
+      "branchCoverage": [
+        "the total number counted -> the number you get after adding up all the items"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the total number counted"
+      ],
+      "lemmaPartition": "count%1:18:00:: -> a noble title\ncount%1:04:00:: -> the activity of saying numbers to find a total\ncount%1:23:00:: -> the resulting total number",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "covered%3:00:00::",
+      "lemma": "covered",
+      "pos": "a",
+      "definition": "overlaid or spread or topped with or enclosed within something; sometimes used as a combining form",
+      "decision": "gloss",
+      "simpleMeaning": "having something laid over it, spread on it, placed on top of it, or closed in around it.",
+      "scope": "This describes a thing that has something over it, not the act of putting that thing there.",
+      "examples": [
+        "The walls were covered in posters.",
+        "Keep the food covered until dinner."
+      ],
+      "branchCoverage": [
+        "overlaid or spread or topped with or enclosed within something -> having something laid over it, spread on it, placed on top of it, or closed in around it",
+        "sometimes used as a combining form -> not carried by the meaning sentence; it is a usage note about word formation"
+      ],
+      "labelBranches": [
+        "sometimes used as a combining form: a usage note about how the word is formed, not part of the meaning"
+      ],
+      "sourceBranches": [
+        "overlaid or spread or topped with or enclosed within something",
+        "sometimes used as a combining form"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "critical%3:00:01::",
+      "lemma": "critical",
+      "pos": "a",
+      "definition": "marked by a tendency to find and call attention to errors and flaws",
+      "decision": "gloss",
+      "simpleMeaning": "quick to notice mistakes and to point them out.",
+      "scope": "This describes a fault-finding habit, not careful balanced judgment.",
+      "examples": [
+        "Her critical remarks upset the new staff.",
+        "He was critical of every plan but offered none of his own."
+      ],
+      "branchCoverage": [
+        "marked by a tendency to find and call attention to errors and flaws -> quick to notice mistakes and to point them out"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by a tendency to find and call attention to errors and flaws"
+      ],
+      "lemmaPartition": "critical%3:00:01:: -> a fault-finding tendency\ncritical%3:00:02:: -> careful balanced evaluation",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "critical%3:00:02::",
+      "lemma": "critical",
+      "pos": "a",
+      "definition": "characterized by careful evaluation and judgment",
+      "decision": "gloss",
+      "simpleMeaning": "involving careful thought about strengths and weaknesses before deciding.",
+      "scope": "This is balanced, careful assessment, not a habit of finding faults.",
+      "examples": [
+        "The report offers a critical analysis of the evidence.",
+        "Good readers take a critical look at what they read."
+      ],
+      "branchCoverage": [
+        "characterized by careful evaluation and judgment -> involving careful thought about strengths and weaknesses before deciding"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characterized by careful evaluation and judgment"
+      ],
+      "lemmaPartition": "critical%3:00:01:: -> a fault-finding tendency\ncritical%3:00:02:: -> careful balanced evaluation",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forced%5:00:00:involuntary:01",
+      "lemma": "forced",
+      "pos": "a",
+      "definition": "forced or compelled",
+      "decision": "gloss",
+      "simpleMeaning": "done because someone or something made it necessary, not by free choice.",
+      "scope": "This describes something imposed by pressure or necessity, not something done willingly and not a smile that looks unnatural.",
+      "examples": [
+        "The workers faced a forced relocation to another city.",
+        "Under forced labor, prisoners had no say in their tasks."
+      ],
+      "branchCoverage": [
+        "forced or compelled -> done because someone or something made it necessary, not by free choice"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "forced or compelled"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fourth%4:02:00::",
+      "lemma": "fourth",
+      "pos": "r",
+      "definition": "in the fourth place",
+      "decision": "gloss",
+      "simpleMeaning": "in the position that comes after the third.",
+      "scope": "This tells where something ranks in a series, not one of four equal parts of a whole.",
+      "examples": [
+        "She finished fourth in the race.",
+        "Fourth, we need to agree on a budget."
+      ],
+      "branchCoverage": [
+        "in the fourth place -> in the position that comes after the third"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in the fourth place"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lake%1:27:00::",
+      "lemma": "lake",
+      "pos": "n",
+      "definition": "any of numerous bright translucent organic pigments",
+      "decision": "gloss",
+      "simpleMeaning": "any of many bright, see-through coloring substances made from carbon-based material.",
+      "scope": "This is a bright coloring substance used in paints and inks, not a body of water and not the purple-red insect-based kind.",
+      "examples": [
+        "The artist mixed a blue lake with oil to get a glowing color.",
+        "These lakes give the ink its bright, clear tone."
+      ],
+      "branchCoverage": [
+        "any of numerous bright translucent organic pigments -> any of many bright, see-through coloring substances made from carbon-based material"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any of numerous bright translucent organic pigments"
+      ],
+      "lemmaPartition": "lake%1:27:00:: -> a bright, see-through organic pigment of any color\nlake%1:27:01:: -> the purple-red pigment made from insects",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lake%1:27:01::",
+      "lemma": "lake",
+      "pos": "n",
+      "definition": "a purplish red pigment prepared from lac or cochineal",
+      "decision": "gloss",
+      "simpleMeaning": "a purple-red coloring substance made from material produced by certain insects.",
+      "scope": "This is the purple-red coloring substance made from insects, not a body of water and not the general bright pigment type.",
+      "examples": [
+        "The old manuscript was colored with a lake made from insects.",
+        "Artists once used this lake to paint deep crimson robes."
+      ],
+      "branchCoverage": [
+        "a purplish red pigment prepared from lac or cochineal -> a purple-red coloring substance made from material produced by certain insects"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a purplish red pigment prepared from lac or cochineal"
+      ],
+      "lemmaPartition": "lake%1:27:00:: -> a bright, see-through organic pigment of any color\nlake%1:27:01:: -> the purple-red pigment made from insects",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mouth%1:08:00::",
+      "lemma": "mouth",
+      "pos": "n",
+      "definition": "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening",
+      "decision": "gloss",
+      "simpleMeaning": "the visible opening on the face, together with the lips and other parts around it, used for eating and speaking.",
+      "scope": "This is the visible facial opening with the parts around it, not the inside cavity and not an opening in rock or land.",
+      "examples": [
+        "He wiped his mouth with a napkin.",
+        "The dentist asked her to open her mouth wide."
+      ],
+      "branchCoverage": [
+        "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening -> the visible opening on the face, together with the lips and other parts around it, used for eating and speaking"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the externally visible part of the oral cavity on the face and the system of organs surrounding the opening"
+      ],
+      "lemmaPartition": "mouth%1:08:00:: -> the visible facial opening and surrounding parts\nmouth%1:17:01:: -> a cave or gorge opening resembling a mouth\nmouth%2:32:01:: -> forming words silently with the lips\nmouth%2:35:00:: -> touching something with the lips",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mouth%1:17:01::",
+      "lemma": "mouth",
+      "pos": "n",
+      "definition": "an opening that resembles a mouth (as of a cave or a gorge)",
+      "decision": "gloss",
+      "simpleMeaning": "an opening in rock or land that is shaped like a large entrance, such as a cave or a gorge.",
+      "scope": "This is an opening in rock or land that looks like a mouth, not a body part on the face and not the act of forming words silently.",
+      "examples": [
+        "The river vanished into the mouth of the cave.",
+        "We stood at the mouth of the gorge and looked up."
+      ],
+      "branchCoverage": [
+        "an opening that resembles a mouth (as of a cave or a gorge) -> an opening in rock or land that is shaped like a large entrance, such as a cave or a gorge"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an opening that resembles a mouth (as of a cave or a gorge)"
+      ],
+      "lemmaPartition": "mouth%1:08:00:: -> the visible facial opening and surrounding parts\nmouth%1:17:01:: -> a cave or gorge opening resembling a mouth\nmouth%2:32:01:: -> forming words silently with the lips\nmouth%2:35:00:: -> touching something with the lips",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mouth%2:32:01::",
+      "lemma": "mouth",
+      "pos": "v",
+      "definition": "articulate silently; form words with the lips only",
+      "decision": "gloss",
+      "simpleMeaning": "to form words with the lips without making any sound.",
+      "scope": "This is not speaking the words aloud, and not touching something with the lips; it is only shaping words silently with the lips.",
+      "examples": [
+        "She mouthed 'I'm sorry' across the room.",
+        "The singer mouthed the lyrics when the microphone failed."
+      ],
+      "branchCoverage": [
+        "articulate silently -> to form words with the lips without making any sound",
+        "form words with the lips only -> to form words with the lips without making any sound"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "articulate silently",
+        "form words with the lips only"
+      ],
+      "lemmaPartition": "mouth%1:08:00:: -> the visible facial opening and surrounding parts\nmouth%1:17:01:: -> a cave or gorge opening resembling a mouth\nmouth%2:32:01:: -> forming words silently with the lips\nmouth%2:35:00:: -> touching something with the lips",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mouth%2:35:00::",
+      "lemma": "mouth",
+      "pos": "v",
+      "definition": "touch with the mouth",
+      "decision": "gloss",
+      "simpleMeaning": "to touch something with the lips or tongue.",
+      "scope": "This is not forming words silently, and not biting or eating; it means pressing the lips or tongue against something.",
+      "examples": [
+        "The puppy mouthed the soft toy without chewing it.",
+        "Babies often mouth objects to learn how they feel."
+      ],
+      "branchCoverage": [
+        "touch with the mouth -> to touch something with the lips or tongue"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "touch with the mouth"
+      ],
+      "lemmaPartition": "mouth%1:08:00:: -> the visible facial opening and surrounding parts\nmouth%1:17:01:: -> a cave or gorge opening resembling a mouth\nmouth%2:32:01:: -> forming words silently with the lips\nmouth%2:35:00:: -> touching something with the lips",
+      "verdict": "self-approved",
+      "reviewerNote": "Broadens 'mouth' to the front of the face; restrict to lips or tongue."
+    },
+    {
+      "senseId": "realize%2:36:00::",
+      "lemma": "realize",
+      "pos": "v",
+      "definition": "make real or concrete; give reality or substance to",
+      "decision": "gloss",
+      "simpleMeaning": "to make an idea or plan exist in actual, concrete form instead of staying only in the mind.",
+      "scope": "This is not about becoming aware of a fact; it means turning an idea into something that actually exists.",
+      "examples": [
+        "The architect worked for years to realize her design in steel and glass.",
+        "With enough funding, the team can realize its plan for a community garden."
+      ],
+      "branchCoverage": [
+        "make real or concrete -> to make an idea or plan exist in actual, concrete form",
+        "give reality or substance to -> to make an idea or plan exist in actual, concrete form"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make real or concrete",
+        "give reality or substance to"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "remain%2:30:00::",
+      "lemma": "remain",
+      "pos": "v",
+      "definition": "stay the same; remain in a certain state",
+      "decision": "gloss",
+      "simpleMeaning": "to continue to be in the same state or condition, without changing.",
+      "scope": "This is not about something being left behind or left over; it describes continuing in the same condition.",
+      "examples": [
+        "The room remained silent while the teacher waited.",
+        "Despite the changes around her, she remained calm."
+      ],
+      "branchCoverage": [
+        "stay the same -> without changing",
+        "remain in a certain state -> to continue to be in the same state or condition"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "stay the same",
+        "remain in a certain state"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "scale%2:36:00::",
+      "lemma": "scale",
+      "pos": "v",
+      "definition": "pattern, make, regulate, set, measure, or estimate according to some rate or standard",
+      "decision": "gloss",
+      "simpleMeaning": "to plan, create, set, control, measure, or estimate something according to a particular rate or standard.",
+      "scope": "This is not about climbing or attacking a wall, and not about weighing something on a device; it is about setting or judging things by a rate or standard.",
+      "examples": [
+        "Salaries are scaled according to experience and performance.",
+        "The difficulty of the exercises is scaled to the age of the students."
+      ],
+      "branchCoverage": [
+        "pattern, make, regulate, set, measure, or estimate according to some rate or standard -> to plan, create, set, control, measure, or estimate something according to a particular rate or standard"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pattern, make, regulate, set, measure, or estimate according to some rate or standard"
+      ],
+      "lemmaPartition": "scale%2:36:00:: -> to set, adjust, or estimate according to a rate or standard\nscale%2:40:00:: -> to capture a place by climbing its walls with ladders\nscale%2:42:00:: -> to measure how heavy something is with a weighing device",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "scale%2:40:00::",
+      "lemma": "scale",
+      "pos": "v",
+      "definition": "take by attacking with scaling ladders",
+      "decision": "gloss",
+      "simpleMeaning": "to capture a place by climbing its walls with ladders during an attack.",
+      "scope": "This is not ordinary climbing for sport or travel, and not adjusting something to a standard; it means taking a defended place by ladder assault.",
+      "examples": [
+        "The attackers scaled the fortress walls with ladders before dawn.",
+        "Medieval armies sometimes scaled city walls to surprise the defenders."
+      ],
+      "branchCoverage": [
+        "take by attacking with scaling ladders -> to capture a place by climbing its walls with ladders during an attack"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "take by attacking with scaling ladders"
+      ],
+      "lemmaPartition": "scale%2:36:00:: -> to set, adjust, or estimate according to a rate or standard\nscale%2:40:00:: -> to capture a place by climbing its walls with ladders\nscale%2:42:00:: -> to measure how heavy something is with a weighing device",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "scale%2:42:00::",
+      "lemma": "scale",
+      "pos": "v",
+      "definition": "measure by or as if by a scale",
+      "decision": "gloss",
+      "simpleMeaning": "to measure how heavy something is, using a weighing device or a method that works like one.",
+      "scope": "This is not about adjusting something to a rate or standard, and not about attacking a wall; it means finding out how heavy something is.",
+      "examples": [
+        "The loaded truck scaled just under the legal weight limit.",
+        "At the mill, each sack of grain is scaled before storage."
+      ],
+      "branchCoverage": [
+        "measure by or as if by a scale -> to measure how heavy something is, using a weighing device or a method that works like one"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "measure by or as if by a scale"
+      ],
+      "lemmaPartition": "scale%2:36:00:: -> to set, adjust, or estimate according to a rate or standard\nscale%2:40:00:: -> to capture a place by climbing its walls with ladders\nscale%2:42:00:: -> to measure how heavy something is with a weighing device",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "score%1:10:00::",
+      "lemma": "score",
+      "pos": "n",
+      "definition": "a written form of a musical composition; parts for different instruments appear on separate staves on large pages",
+      "decision": "gloss",
+      "simpleMeaning": "a written version of a piece of music in which the parts for each instrument appear on separate sets of lines, usually across large pages.",
+      "scope": "This is not the number of points in a game, nor a group of twenty, nor a cut mark; it is the written music itself.",
+      "examples": [
+        "The conductor studied the full score before rehearsal.",
+        "Each musician received a copy of the score."
+      ],
+      "branchCoverage": [
+        "a written form of a musical composition -> a written version of a piece of music",
+        "parts for different instruments appear on separate staves on large pages -> the parts for each instrument appear on separate sets of lines, usually across large pages"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a written form of a musical composition",
+        "parts for different instruments appear on separate staves on large pages"
+      ],
+      "lemmaPartition": "score%1:10:00:: -> written music with separate sets of lines for each instrument or voice\nscore%1:23:00:: -> the number of points earned in a game or contest",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "score%1:23:00::",
+      "lemma": "score",
+      "pos": "n",
+      "definition": "a number that expresses the accomplishment of a team or an individual in a game or contest",
+      "decision": "gloss",
+      "simpleMeaning": "the number of points that a team or person has earned in a game or competition.",
+      "scope": "This is not written music, nor a cut mark, nor a group of twenty; it is the count of points in a contest.",
+      "examples": [
+        "The final score was three to two.",
+        "Her score improved after months of practice."
+      ],
+      "branchCoverage": [
+        "a number that expresses the accomplishment of a team or an individual in a game or contest -> the number of points that a team or person has earned in a game or competition"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a number that expresses the accomplishment of a team or an individual in a game or contest"
+      ],
+      "lemmaPartition": "score%1:10:00:: -> written music with separate sets of lines for each instrument or voice\nscore%1:23:00:: -> the number of points earned in a game or contest",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "separate%1:06:00::",
+      "lemma": "separate",
+      "pos": "n",
+      "definition": "a garment that can be purchased separately and worn in combinations with other garments",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of clothing that is sold on its own and can be worn together with other pieces.",
+      "scope": "This is not a reprinted article, and not an adjective about division; it is a single item of clothing sold alone.",
+      "examples": [
+        "The store sells skirts, tops, and other separates.",
+        "She packed a few separates that could be mixed and matched."
+      ],
+      "branchCoverage": [
+        "a garment that can be purchased separately and worn in combinations with other garments -> a piece of clothing that is sold on its own and can be worn together with other pieces"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a garment that can be purchased separately and worn in combinations with other garments"
+      ],
+      "lemmaPartition": "separate%1:06:00:: -> a single item of clothing sold on its own and worn with other pieces\nseparate%1:10:00:: -> an article reprinted on its own from a larger publication\nseparate%5:00:02:segregated:00 -> divided into groups by race, sex, class, or religion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "separate%1:10:00::",
+      "lemma": "separate",
+      "pos": "n",
+      "definition": "a separately printed article that originally appeared in a larger publication",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of writing that was first published as part of a larger work and is later printed on its own.",
+      "scope": "This is not an item of clothing sold alone, and not an adjective about division; it is a single article reprinted from a larger publication.",
+      "examples": [
+        "The archive holds separates of articles from the nineteenth century.",
+        "He mailed a separate of his paper to a colleague."
+      ],
+      "branchCoverage": [
+        "a separately printed article that originally appeared in a larger publication -> a piece of writing that was first published as part of a larger work and is later printed on its own"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a separately printed article that originally appeared in a larger publication"
+      ],
+      "lemmaPartition": "separate%1:06:00:: -> a single item of clothing sold on its own and worn with other pieces\nseparate%1:10:00:: -> an article reprinted on its own from a larger publication\nseparate%5:00:02:segregated:00 -> divided into groups by race, sex, class, or religion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "separate%5:00:02:segregated:00",
+      "lemma": "separate",
+      "pos": "a",
+      "definition": "separated according to race, sex, class, or religion",
+      "decision": "gloss",
+      "simpleMeaning": "kept apart into different groups based on race, sex, social class, or religion.",
+      "scope": "This is not about objects being physically apart, and not about clothing or reprinted articles; it describes people or institutions divided by race, sex, class, or religion.",
+      "examples": [
+        "The law required separate schools for black and white children.",
+        "The country maintained separate hospitals for people of different religions."
+      ],
+      "branchCoverage": [
+        "separated according to race, sex, class, or religion -> kept apart into different groups based on race, sex, social class, or religion"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "separated according to race, sex, class, or religion"
+      ],
+      "lemmaPartition": "separate%1:06:00:: -> a single item of clothing sold on its own and worn with other pieces\nseparate%1:10:00:: -> an article reprinted on its own from a larger publication\nseparate%5:00:02:segregated:00 -> divided into groups by race, sex, class, or religion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smart%1:26:00::",
+      "lemma": "smart",
+      "pos": "n",
+      "definition": "a kind of pain such as that caused by a wound or a burn or a sore",
+      "decision": "gloss",
+      "simpleMeaning": "a sharp stinging pain of the kind caused by a wound, a burn, or a sore spot.",
+      "scope": "This is not intelligence or a stylish appearance; it is a physical pain with a sharp, stinging quality.",
+      "examples": [
+        "He felt the smart of the cut as the salt water touched it.",
+        "The smart from the bee sting lasted for hours."
+      ],
+      "branchCoverage": [
+        "a kind of pain such as that caused by a wound or a burn or a sore -> a sharp stinging pain of the kind caused by a wound, a burn, or a sore spot"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a kind of pain such as that caused by a wound or a burn or a sore"
+      ],
+      "lemmaPartition": "smart%1:26:00:: -> a sharp stinging pain from a wound, burn, or sore\nsmart%3:00:00:: -> alert, calculating, and resourceful in thinking\nsmart%5:00:00:intelligent:00 -> quick and easy at learning",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smart%3:00:00::",
+      "lemma": "smart",
+      "pos": "a",
+      "definition": "showing mental alertness and calculation and resourcefulness",
+      "decision": "gloss",
+      "simpleMeaning": "showing a quick, sharp mind and the ability to plan cleverly and find practical solutions.",
+      "scope": "This is not about learning quickly or doing well in school, and not about neat appearance; it emphasizes alert, calculating, and resourceful thinking.",
+      "examples": [
+        "She made a smart decision to invest before prices rose.",
+        "The smart negotiator knew when to walk away."
+      ],
+      "branchCoverage": [
+        "showing mental alertness and calculation and resourcefulness -> showing a quick, sharp mind and the ability to plan cleverly and find practical solutions"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "showing mental alertness and calculation and resourcefulness"
+      ],
+      "lemmaPartition": "smart%1:26:00:: -> a sharp stinging pain from a wound, burn, or sore\nsmart%3:00:00:: -> alert, calculating, and resourceful in thinking\nsmart%5:00:00:intelligent:00 -> quick and easy at learning",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smart%5:00:00:intelligent:00",
+      "lemma": "smart",
+      "pos": "a",
+      "definition": "characterized by quickness and ease in learning",
+      "decision": "gloss",
+      "simpleMeaning": "able to learn quickly and easily.",
+      "scope": "This is not about being clever at planning or resourceful in practical situations; it specifically describes fast, easy learning.",
+      "examples": [
+        "He was a smart student who mastered new languages quickly.",
+        "The smartest pupils learned to read before they started school."
+      ],
+      "branchCoverage": [
+        "characterized by quickness and ease in learning -> able to learn quickly and easily"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characterized by quickness and ease in learning"
+      ],
+      "lemmaPartition": "smart%1:26:00:: -> a sharp stinging pain from a wound, burn, or sore\nsmart%3:00:00:: -> alert, calculating, and resourceful in thinking\nsmart%5:00:00:intelligent:00 -> quick and easy at learning",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "surface%1:06:00::",
+      "lemma": "surface",
+      "pos": "n",
+      "definition": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
+      "decision": "gloss",
+      "simpleMeaning": "the outside face or outermost layer of a made object, including a layer of material that forms or looks like such an outer face.",
+      "scope": "This is not the geometric boundary of a solid considered as a flat area; it is the outer face or coating of a made thing.",
+      "examples": [
+        "Wipe the surface of the counter with a damp cloth.",
+        "The statue's surface had been polished until it shone."
+      ],
+      "branchCoverage": [
+        "the outer boundary of an artifact or a material layer constituting or resembling such a boundary -> the outside face or outermost layer of a made object, including a layer of material that forms or looks like such an outer face"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the outer boundary of an artifact or a material layer constituting or resembling such a boundary"
+      ],
+      "lemmaPartition": "surface%1:06:00:: -> the outer face or coating of a made object\nsurface%1:15:00:: -> the flat outer boundary of a solid object in geometry\nsurface%2:35:00:: -> to put a coating or finish on an object\nsurface%2:38:00:: -> to rise to the top of water or another liquid\nsurface%3:00:00:: -> located at the outer level rather than deeper down",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "surface%1:15:00::",
+      "lemma": "surface",
+      "pos": "n",
+      "definition": "the extended two-dimensional outer boundary of a three-dimensional object",
+      "decision": "gloss",
+      "simpleMeaning": "the outer boundary of a solid object, treated as a flat area with length and width but no thickness.",
+      "scope": "This is not the outer layer or coating of a made object; it is the boundary of a solid considered as a flat area.",
+      "examples": [
+        "The surface of a cube has six square faces.",
+        "Mathematicians treat the surface of a sphere as a curved two-dimensional space."
+      ],
+      "branchCoverage": [
+        "the extended two-dimensional outer boundary of a three-dimensional object -> the outer boundary of a solid object, treated as a flat area with length and width but no thickness"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the extended two-dimensional outer boundary of a three-dimensional object"
+      ],
+      "lemmaPartition": "surface%1:06:00:: -> the outer face or coating of a made object\nsurface%1:15:00:: -> the flat outer boundary of a solid object in geometry\nsurface%2:35:00:: -> to put a coating or finish on an object\nsurface%2:38:00:: -> to rise to the top of water or another liquid\nsurface%3:00:00:: -> located at the outer level rather than deeper down",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "surface%2:35:00::",
+      "lemma": "surface",
+      "pos": "v",
+      "definition": "put a coat on; cover the surface of; furnish with a surface",
+      "decision": "gloss",
+      "simpleMeaning": "to put a layer of material over the outside of something, or to give an object a finish.",
+      "scope": "This is not rising to the top of water or becoming visible; it means adding a coating or finish to an object.",
+      "examples": [
+        "The workers surfaced the road with fresh asphalt.",
+        "The table was surfaced with a thin layer of marble."
+      ],
+      "branchCoverage": [
+        "put a coat on -> to put a layer of material over the outside of something",
+        "cover the surface of -> to put a layer of material over the outside of something",
+        "furnish with a surface -> to give an object a finish"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "put a coat on",
+        "cover the surface of",
+        "furnish with a surface"
+      ],
+      "lemmaPartition": "surface%1:06:00:: -> the outer face or coating of a made object\nsurface%1:15:00:: -> the flat outer boundary of a solid object in geometry\nsurface%2:35:00:: -> to put a coating or finish on an object\nsurface%2:38:00:: -> to rise to the top of water or another liquid\nsurface%3:00:00:: -> located at the outer level rather than deeper down",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "surface%2:38:00::",
+      "lemma": "surface",
+      "pos": "v",
+      "definition": "come to the surface",
+      "decision": "gloss",
+      "simpleMeaning": "to rise up to the top or outer level of something.",
+      "scope": "This is not applying a coating to an object, and not becoming known after being hidden; it means physically rising to the top.",
+      "examples": [
+        "The submarine surfaced after three weeks at sea.",
+        "The fish surfaced to catch insects on the water."
+      ],
+      "branchCoverage": [
+        "come to the surface -> to rise up to the top or outer level of something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "come to the surface"
+      ],
+      "lemmaPartition": "surface%1:06:00:: -> the outer face or coating of a made object\nsurface%1:15:00:: -> the flat outer boundary of a solid object in geometry\nsurface%2:35:00:: -> to put a coating or finish on an object\nsurface%2:38:00:: -> to rise to the top of water or another liquid\nsurface%3:00:00:: -> located at the outer level rather than deeper down",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "surface%3:00:00::",
+      "lemma": "surface",
+      "pos": "a",
+      "definition": "on the surface",
+      "decision": "gloss",
+      "simpleMeaning": "existing or happening at the outer level rather than deeper down.",
+      "scope": "This is not the noun for an outer boundary, nor the verb for rising; as an adjective it describes something located at or concerned with the outer level.",
+      "examples": [
+        "The surface scratches were easy to polish out.",
+        "Surface differences between the two cultures hid deeper similarities."
+      ],
+      "branchCoverage": [
+        "on the surface -> at the outer level rather than deeper down"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "on the surface"
+      ],
+      "lemmaPartition": "surface%1:06:00:: -> the outer face or coating of a made object\nsurface%1:15:00:: -> the flat outer boundary of a solid object in geometry\nsurface%2:35:00:: -> to put a coating or finish on an object\nsurface%2:38:00:: -> to rise to the top of water or another liquid\nsurface%3:00:00:: -> located at the outer level rather than deeper down",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "throw%1:04:00::",
+      "lemma": "throw",
+      "pos": "n",
+      "definition": "the act of throwing (propelling something with a rapid movement of the arm and wrist)",
+      "decision": "gloss",
+      "simpleMeaning": "the action of sending something through the air with a quick movement of the arm and wrist.",
+      "scope": "This is not the distance a machine part can move, and not a light blanket; it is the action of sending an object through the air.",
+      "examples": [
+        "The child's first throw knocked over the stack of cans.",
+        "Her throw was too short to reach the other bank."
+      ],
+      "branchCoverage": [
+        "the act of throwing (propelling something with a rapid movement of the arm and wrist) -> the action of sending something through the air with a quick movement of the arm and wrist"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of throwing (propelling something with a rapid movement of the arm and wrist)"
+      ],
+      "lemmaPartition": "throw%1:04:00:: -> the act of sending something through the air with the arm and wrist\nthrow%1:11:00:: -> the full distance a machine part can move under a cam\nthrow%2:38:00:: -> to move with force, energy, or carelessness",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "throw%1:11:00::",
+      "lemma": "throw",
+      "pos": "n",
+      "definition": "the maximum movement available to a pivoted or reciprocating piece by a cam",
+      "decision": "gloss",
+      "simpleMeaning": "the full distance that a moving machine part can travel when pushed by a rotating or sliding part.",
+      "scope": "This is not the act of sending something through the air; it is a measure of how far a machine part can move.",
+      "examples": [
+        "The engineer measured the throw of the cam before adjusting the valve.",
+        "A longer throw gives the piston more travel."
+      ],
+      "branchCoverage": [
+        "the maximum movement available to a pivoted or reciprocating piece by a cam -> the full distance that a moving machine part can travel when pushed by a rotating or sliding part"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the maximum movement available to a pivoted or reciprocating piece by a cam"
+      ],
+      "lemmaPartition": "throw%1:04:00:: -> the act of sending something through the air with the arm and wrist\nthrow%1:11:00:: -> the full distance a machine part can move under a cam\nthrow%2:38:00:: -> to move with force, energy, or carelessness",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "throw%2:38:00::",
+      "lemma": "throw",
+      "pos": "v",
+      "definition": "move violently, energetically, or carelessly",
+      "decision": "gloss",
+      "simpleMeaning": "to move something or oneself with force, energy, or without care.",
+      "scope": "This is not the usual sense of sending an object through the air toward a target; it emphasizes forceful, energetic, or careless movement.",
+      "examples": [
+        "She threw her bag onto the floor and collapsed into a chair.",
+        "He threw himself into the cold water."
+      ],
+      "branchCoverage": [
+        "move violently, energetically, or carelessly -> to move something or oneself with force, energy, or without care"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "move violently, energetically, or carelessly"
+      ],
+      "lemmaPartition": "throw%1:04:00:: -> the act of sending something through the air with the arm and wrist\nthrow%1:11:00:: -> the full distance a machine part can move under a cam\nthrow%2:38:00:: -> to move with force, energy, or carelessness",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wedding%1:04:00::",
+      "lemma": "wedding",
+      "pos": "n",
+      "definition": "the act of marrying; the nuptial ceremony",
+      "decision": "gloss",
+      "simpleMeaning": "the ceremony in which two people become husband and wife.",
+      "scope": "This is not the group of guests at such an event; it is the ceremony itself.",
+      "examples": [
+        "They invited two hundred guests to their wedding.",
+        "The wedding took place in a small country church."
+      ],
+      "branchCoverage": [
+        "the act of marrying -> the ceremony in which two people become husband and wife",
+        "the nuptial ceremony -> the ceremony in which two people become husband and wife"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of marrying",
+        "the nuptial ceremony"
+      ],
+      "lemmaPartition": "wedding%1:04:00:: -> the marriage ceremony itself\nwedding%1:14:00:: -> the group of guests at a marriage ceremony",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wedding%1:14:00::",
+      "lemma": "wedding",
+      "pos": "n",
+      "definition": "a party of people at a wedding",
+      "decision": "gloss",
+      "simpleMeaning": "the group of guests who gather for a marriage ceremony.",
+      "scope": "This is not the ceremony itself; it refers to the people attending it as a group.",
+      "examples": [
+        "The whole wedding cheered when the couple kissed.",
+        "The wedding moved into the garden for photographs."
+      ],
+      "branchCoverage": [
+        "a party of people at a wedding -> the group of guests who gather for a marriage ceremony"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a party of people at a wedding"
+      ],
+      "lemmaPartition": "wedding%1:04:00:: -> the marriage ceremony itself\nwedding%1:14:00:: -> the group of guests at a marriage ceremony",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example 'the wedding gathered' is not idiomatic; rephrase in natural English."
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,982 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 25,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 45,
+      "of": 50,
+      "rate": 0.9
+    },
+    "selfApproved": [
+      "letter%2:36:00::",
+      "letter%2:40:00::",
+      "regular%1:18:00::"
+    ],
+    "lineage": {
+      "draft": "09995549fd39a2cab54495bab4ad1d166be26a5f1b1cb9719f9fabab7e00d155"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "hotel%1:06:00::",
+      "lemma": "hotel",
+      "pos": "n",
+      "definition": "a building where travelers can pay for lodging and meals and other services",
+      "decision": "gloss",
+      "simpleMeaning": "a place where people who are travelling can pay to sleep, eat and get other services.",
+      "scope": "This is not a private home or a single rented room; it is a business building with many paid rooms.",
+      "examples": [
+        "We stayed at a small hotel near the station.",
+        "The hotel serves breakfast until ten."
+      ],
+      "branchCoverage": [
+        "a building where travelers can pay for lodging and meals and other services -> place where people who are travelling can pay to sleep, eat and get other services"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "interested%3:00:00::",
+      "lemma": "interested",
+      "pos": "a",
+      "definition": "having or showing interest; especially curiosity or fascination or concern",
+      "decision": "gloss",
+      "simpleMeaning": "wanting to know more about something, or caring about it because it fascinates you or matters to you.",
+      "scope": "This is not about having a financial share in something; it is about curiosity or concern.",
+      "examples": [
+        "She is interested in old maps of the city.",
+        "The children were interested when the teacher talked about space."
+      ],
+      "branchCoverage": [
+        "having or showing interest -> wanting to know more about something",
+        "especially curiosity or fascination or concern -> caring about it because it fascinates you or matters to you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "judge%2:31:01::",
+      "lemma": "judge",
+      "pos": "v",
+      "definition": "judge tentatively or form an estimate of (quantities or time)",
+      "decision": "gloss",
+      "simpleMeaning": "to make a careful guess about an amount, a size or a length of time.",
+      "scope": "This is not about deciding whether someone is guilty or giving an opinion on people; it is about estimating amounts or time.",
+      "examples": [
+        "She judged the distance to be about ten metres.",
+        "It is hard to judge how long the repairs will take."
+      ],
+      "branchCoverage": [
+        "judge tentatively or form an estimate of (quantities or time) -> make a careful guess about an amount, a size or a length of time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "letter%1:10:01::",
+      "lemma": "letter",
+      "pos": "n",
+      "definition": "the conventional characters of the alphabet used to represent speech",
+      "decision": "gloss",
+      "simpleMeaning": "one of the written symbols of the alphabet that stand for speech sounds.",
+      "scope": "This is not a written message that you send to someone; it is a single symbol of the alphabet.",
+      "examples": [
+        "The word 'book' has four letters.",
+        "Please write your name in capital letters."
+      ],
+      "branchCoverage": [
+        "the conventional characters of the alphabet used to represent speech -> one of the written symbols of the alphabet that stand for speech sounds"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "letter%1:10:01 = a symbol of the alphabet; letter%2:36:00 = to put letters on an object as a mark; letter%2:36:01 = to set words down in printed letters (deferred); letter%2:40:00 = to win a school sports award shaped like a letter.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "letter%2:36:00::",
+      "lemma": "letter",
+      "pos": "v",
+      "definition": "mark letters on or mark with letters",
+      "decision": "gloss",
+      "simpleMeaning": "to mark an object with symbols of the alphabet, as a name or label.",
+      "scope": "This is not about producing a text to read; it is about marking an object with letters.",
+      "examples": [
+        "The delivery van was lettered with the shop's name.",
+        "Someone had lettered his name across the wall."
+      ],
+      "branchCoverage": [
+        "mark letters on or mark with letters -> mark an object with symbols of the alphabet"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "letter%1:10:01 = a symbol of the alphabet; letter%2:36:00 = to put letters on an object as a mark; letter%2:36:01 = to set words down in printed letters (deferred); letter%2:40:00 = to win a school sports award shaped like a letter.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss reuses the lemma ('letters'); rephrase with 'symbols of the alphabet'."
+    },
+    {
+      "senseId": "letter%2:36:01::",
+      "lemma": "letter",
+      "pos": "v",
+      "definition": "set down or print with letters",
+      "decision": "defer",
+      "reason": "The definition overlaps almost completely with the 'mark letters on' sense (letter%2:36:00), so any natural example would fit both senses and the two cannot be told apart.",
+      "sourceBranches": [
+        "set down or print with letters"
+      ],
+      "lemmaPartition": "letter%1:10:01 = a symbol of the alphabet; letter%2:36:00 = to put letters on an object as a mark; letter%2:36:01 = to set words down in printed letters (deferred); letter%2:40:00 = to win a school sports award shaped like a letter.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "letter%2:40:00::",
+      "lemma": "letter",
+      "pos": "v",
+      "definition": "win an athletic letter",
+      "decision": "gloss",
+      "simpleMeaning": "to earn a school award shaped like an alphabet symbol for playing on a sports team.",
+      "scope": "This is not about writing or marking with letters; it is about winning a school sports award.",
+      "examples": [
+        "He lettered in football and athletics.",
+        "She hoped to letter in swimming this year."
+      ],
+      "branchCoverage": [
+        "win an athletic letter -> earn a school award shaped like an alphabet symbol for playing on a sports team"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "letter%1:10:01 = a symbol of the alphabet; letter%2:36:00 = to put letters on an object as a mark; letter%2:36:01 = to set words down in printed letters (deferred); letter%2:40:00 = to win a school sports award shaped like a letter.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss reuses the lemma ('letter'); say 'an award shaped like an alphabet symbol'."
+    },
+    {
+      "senseId": "material%1:06:00::",
+      "lemma": "material",
+      "pos": "n",
+      "definition": "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers",
+      "decision": "gloss",
+      "simpleMeaning": "cloth made from natural or man-made threads by weaving, knitting or a similar method.",
+      "scope": "This is not a substance like wood or glass used to build things; it is cloth.",
+      "examples": [
+        "She bought two metres of material to make a skirt.",
+        "This material is soft and warm."
+      ],
+      "branchCoverage": [
+        "artifact made by weaving or felting or knitting or crocheting natural or synthetic fibers -> cloth made from natural or man-made threads by weaving, knitting or a similar method"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "material%1:06:00 = cloth made by weaving or knitting; material%1:27:00 = any physical substance that something is made from.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "material%1:27:00::",
+      "lemma": "material",
+      "pos": "n",
+      "definition": "the tangible substance that goes into the makeup of a physical object",
+      "decision": "gloss",
+      "simpleMeaning": "a physical substance that something is made from.",
+      "scope": "This is not cloth for sewing; it is any physical stuff that goes into making a thing.",
+      "examples": [
+        "The box is made of a light material.",
+        "The builders brought materials for the new roof."
+      ],
+      "branchCoverage": [
+        "the tangible substance that goes into the makeup of a physical object -> a physical substance that something is made from"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "material%1:06:00 = cloth made by weaving or knitting; material%1:27:00 = any physical substance that something is made from.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "opportunity%1:26:00::",
+      "lemma": "opportunity",
+      "pos": "n",
+      "definition": "a possibility due to a favorable combination of circumstances",
+      "decision": "gloss",
+      "simpleMeaning": "a chance to do something because the situation is right.",
+      "scope": "This is not a promise or a plan; it is a chance that may be missed.",
+      "examples": [
+        "This job is a great opportunity to learn new skills.",
+        "She took the opportunity to ask a question."
+      ],
+      "branchCoverage": [
+        "a possibility due to a favorable combination of circumstances -> a chance to do something because the situation is right"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "product%1:09:00::",
+      "lemma": "product",
+      "pos": "n",
+      "definition": "a quantity obtained by multiplication",
+      "decision": "gloss",
+      "simpleMeaning": "the number you get when you multiply two or more numbers.",
+      "scope": "This is not something made or sold in a shop; it is the result of multiplying.",
+      "examples": [
+        "The product of 4 and 5 is 20.",
+        "Check your answer by finding the product."
+      ],
+      "branchCoverage": [
+        "a quantity obtained by multiplication -> the number you get when you multiply two or more numbers"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "regular%3:00:00::",
+      "lemma": "regular",
+      "pos": "a",
+      "definition": "in accordance with fixed order or procedure or principle",
+      "decision": "gloss",
+      "simpleMeaning": "following a fixed pattern, rule or plan, and happening again and again at the same times.",
+      "scope": "This is not a word for a customer who visits a place often; it describes things that follow a set pattern.",
+      "examples": [
+        "He keeps regular hours at work.",
+        "The buses run on a regular timetable."
+      ],
+      "branchCoverage": [
+        "in accordance with fixed order or procedure or principle -> following a fixed pattern, rule or plan"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "regular%3:00:00 = following a fixed pattern or rule; regular%1:18:00 = a customer who comes to a place often; regular%1:18:02 = a soldier in the permanent army.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "regular%1:18:00::",
+      "lemma": "regular",
+      "pos": "n",
+      "definition": "a regular patron",
+      "decision": "gloss",
+      "simpleMeaning": "a customer who goes to the same place often.",
+      "scope": "This is not a soldier and not the adjective for fixed patterns; it is a person who visits any one place often, not only a bar or café.",
+      "examples": [
+        "The waiter knows all the regulars by name.",
+        "She is a regular at the café near her office."
+      ],
+      "branchCoverage": [
+        "a regular patron -> a customer who goes to the same place often"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "regular%3:00:00 = following a fixed pattern or rule; regular%1:18:00 = a customer who comes to a place often; regular%1:18:02 = a soldier in the permanent army.",
+      "verdict": "self-approved",
+      "reviewerNote": "Narrows 'patron' to bars and cafés; it means a frequent customer of any place."
+    },
+    {
+      "senseId": "regular%1:18:02::",
+      "lemma": "regular",
+      "pos": "n",
+      "definition": "a soldier in the regular army",
+      "decision": "gloss",
+      "simpleMeaning": "a soldier in a country's permanent army.",
+      "scope": "This is not a customer who visits often; it is a full-time soldier in the permanent army.",
+      "examples": [
+        "The regulars were sent to the front line.",
+        "He served as a regular for ten years."
+      ],
+      "branchCoverage": [
+        "a soldier in the regular army -> a soldier in a country's permanent army"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "regular%3:00:00 = following a fixed pattern or rule; regular%1:18:00 = a customer who comes to a place often; regular%1:18:02 = a soldier in the permanent army.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "secretary%1:18:00::",
+      "lemma": "secretary",
+      "pos": "n",
+      "definition": "an assistant who handles correspondence and clerical work for a boss or an organization",
+      "decision": "gloss",
+      "simpleMeaning": "a person whose job is to do office work such as typing and answering letters for a boss or an organization.",
+      "scope": "This is not a government minister and not a person trusted with secrets; it is an office assistant.",
+      "examples": [
+        "She works as a secretary in a small law office.",
+        "The secretary typed the letters and arranged the meeting."
+      ],
+      "branchCoverage": [
+        "an assistant who handles correspondence and clerical work for a boss or an organization -> a person whose job is to do office work such as typing and answering letters for a boss or an organization"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "secretary%1:18:00 = an office assistant who handles letters and clerical work; secretary%1:18:02 = a person trusted with a secret (deferred).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "secretary%1:18:02::",
+      "lemma": "secretary",
+      "pos": "n",
+      "definition": "a person to whom a secret is entrusted",
+      "decision": "defer",
+      "reason": "The sense is archaic; in any natural modern sentence the word would be read as the office-job sense, so examples cannot show this meaning clearly.",
+      "sourceBranches": [
+        "a person to whom a secret is entrusted"
+      ],
+      "lemmaPartition": "secretary%1:18:00 = an office assistant who handles letters and clerical work; secretary%1:18:02 = a person trusted with a secret (deferred).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "unit%1:24:00::",
+      "lemma": "unit",
+      "pos": "n",
+      "definition": "an individual or group or structure or other entity regarded as a structural or functional constituent of a whole",
+      "decision": "gloss",
+      "simpleMeaning": "one part of a larger whole, such as a person, group or structure.",
+      "scope": "This is not a standard amount used for measuring, like a metre or a kilogram; it is one part of a whole.",
+      "examples": [
+        "The family is the basic unit of society.",
+        "Each unit of the course has three lessons."
+      ],
+      "branchCoverage": [
+        "an individual or group or structure or other entity regarded as a structural or functional constituent of a whole -> one part of a larger whole, such as a person, group or structure"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bar%1:06:00::",
+      "lemma": "bar",
+      "pos": "n",
+      "definition": "a rigid piece of metal or wood; usually used as a fastening or obstruction or weapon",
+      "decision": "gloss",
+      "simpleMeaning": "a stiff piece of metal or wood used to hold something, block a way or hit someone.",
+      "scope": "This is not a place where drinks are served; it is a solid piece of metal or wood.",
+      "examples": [
+        "He put a heavy bar across the door.",
+        "The windows were fitted with iron bars."
+      ],
+      "branchCoverage": [
+        "a rigid piece of metal or wood -> a stiff piece of metal or wood",
+        "usually used as a fastening or obstruction or weapon -> used to hold something, block a way or hit someone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bar%1:06:00 = a stiff piece of metal or wood; bar%1:06:04 = a place that serves alcoholic drinks; bar%2:35:00 = to block a road or path.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bar%1:06:04::",
+      "lemma": "bar",
+      "pos": "n",
+      "definition": "a room or establishment where alcoholic drinks are served over a counter",
+      "decision": "gloss",
+      "simpleMeaning": "a place where alcoholic drinks are served at a counter.",
+      "scope": "This is not a piece of metal or wood and not a shop counter; it is a place that serves drinks.",
+      "examples": [
+        "We met at a bar after work.",
+        "The bar was crowded on Friday night."
+      ],
+      "branchCoverage": [
+        "a room or establishment where alcoholic drinks are served over a counter -> a place where alcoholic drinks are served at a counter"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bar%1:06:00 = a stiff piece of metal or wood; bar%1:06:04 = a place that serves alcoholic drinks; bar%2:35:00 = to block a road or path.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bar%2:35:00::",
+      "lemma": "bar",
+      "pos": "v",
+      "definition": "render unsuitable for passage",
+      "decision": "gloss",
+      "simpleMeaning": "to block a road or path so that people cannot pass.",
+      "scope": "This is not about officially forbidding someone to enter; it is about physically blocking a way.",
+      "examples": [
+        "Police barred the road after the accident.",
+        "A fallen tree barred the path."
+      ],
+      "branchCoverage": [
+        "render unsuitable for passage -> to block a road or path so that people cannot pass"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bar%1:06:00 = a stiff piece of metal or wood; bar%1:06:04 = a place that serves alcoholic drinks; bar%2:35:00 = to block a road or path.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "battle%2:33:00::",
+      "lemma": "battle",
+      "pos": "v",
+      "definition": "battle or contend against in or as if in a battle",
+      "decision": "gloss",
+      "simpleMeaning": "to fight or struggle hard against someone or something.",
+      "scope": "This is not a noun for a fight between armies; it is the action of struggling hard against something.",
+      "examples": [
+        "The doctors battled to save the child.",
+        "The two teams battled for the cup."
+      ],
+      "branchCoverage": [
+        "battle or contend against in or as if in a battle -> to fight or struggle hard against someone or something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "brain%1:08:00::",
+      "lemma": "brain",
+      "pos": "n",
+      "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord",
+      "decision": "gloss",
+      "simpleMeaning": "the main organ of your nervous system, inside your skull and joined to your spinal cord, that controls your body and thoughts.",
+      "scope": "This is not the mind or your ability to reason; it is the physical organ inside the head.",
+      "examples": [
+        "The brain needs oxygen to keep working.",
+        "The scan showed damage to the brain."
+      ],
+      "branchCoverage": [
+        "that part of the central nervous system that includes all the higher nervous centers -> the main organ of your nervous system",
+        "enclosed within the skull -> inside your skull",
+        "continuous with the spinal cord -> joined to your spinal cord"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "brain%1:08:00 = the physical organ in the skull; brain%1:09:01 = the mind and the power to reason; brain%2:35:01 = to kill by smashing the skull.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "brain%1:09:01::",
+      "lemma": "brain",
+      "pos": "n",
+      "definition": "that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason",
+      "decision": "gloss",
+      "simpleMeaning": "the part of you that thinks, feels and is aware, and that lets you reason.",
+      "scope": "This is not the physical organ in the head; it is the mind and the power to think.",
+      "examples": [
+        "You need to use your brain to solve this puzzle.",
+        "He has a good brain for languages."
+      ],
+      "branchCoverage": [
+        "that which is responsible for one's thoughts, feelings, and conscious brain functions -> the part of you that thinks, feels and is aware",
+        "the seat of the faculty of reason -> and that lets you reason"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "brain%1:08:00 = the physical organ in the skull; brain%1:09:01 = the mind and the power to reason; brain%2:35:01 = to kill by smashing the skull.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "brain%2:35:01::",
+      "lemma": "brain",
+      "pos": "v",
+      "definition": "kill by smashing someone's skull",
+      "decision": "gloss",
+      "simpleMeaning": "to kill someone by hitting them very hard on the head.",
+      "scope": "This is not a hit that only hurts; it means to kill by smashing the skull.",
+      "examples": [
+        "The attacker brained him with a stone.",
+        "In the film, the hero brains a guard with a torch."
+      ],
+      "branchCoverage": [
+        "kill by smashing someone's skull -> to kill someone by hitting them very hard on the head"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "brain%1:08:00 = the physical organ in the skull; brain%1:09:01 = the mind and the power to reason; brain%2:35:01 = to kill by smashing the skull.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "contract%1:04:01::",
+      "lemma": "contract",
+      "pos": "n",
+      "definition": "a variety of bridge in which the bidder receives points toward game only for the number of tricks they bid",
+      "decision": "gloss",
+      "simpleMeaning": "a form of the card game bridge in which players score only for the number of tricks they promised to win.",
+      "scope": "This is not a legal agreement between people; it is the name of a card game.",
+      "examples": [
+        "Contract is the form of bridge most people play today.",
+        "In contract, your score depends on the tricks you bid."
+      ],
+      "branchCoverage": [
+        "a variety of bridge in which the bidder receives points toward game only for the number of tricks they bid -> a form of the card game bridge in which players score only for the number of tricks they promised to win"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "contract%1:04:01 = the card game bridge; contract%1:10:00 = a legal agreement; contract%2:32:00 = to make a formal agreement.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "contract%1:10:00::",
+      "lemma": "contract",
+      "pos": "n",
+      "definition": "a binding agreement between two or more persons that is enforceable by law",
+      "decision": "gloss",
+      "simpleMeaning": "A legal agreement between two or more people that the law can force them to follow.",
+      "scope": "This is the deal itself, not the card game of bridge and not the act of making the deal.",
+      "examples": [
+        "She signed a contract with the company before she started work.",
+        "The builder broke the contract when he stopped work halfway."
+      ],
+      "branchCoverage": [
+        "a binding agreement between two or more persons that is enforceable by law -> legal agreement; two or more people; the law can force them to follow it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "contract (n, legal) = the deal itself that the law enforces; contract (n, bridge) = a scoring variety of the card game bridge; contract (v) = to make such a deal.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "contract%2:32:00::",
+      "lemma": "contract",
+      "pos": "v",
+      "definition": "enter into a contractual arrangement",
+      "decision": "gloss",
+      "simpleMeaning": "To make a formal deal with someone that is fixed by law.",
+      "scope": "This sense is the act of making the deal, not the deal itself and not the card game of bridge.",
+      "examples": [
+        "The city contracted with a private company to collect the rubbish.",
+        "They contracted to build the bridge within two years."
+      ],
+      "branchCoverage": [
+        "enter into a contractual arrangement -> make a formal deal; fixed by law"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "contract (n, legal) = the deal itself that the law enforces; contract (n, bridge) = a scoring variety of the card game bridge; contract (v) = to make such a deal.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "degree%1:10:00::",
+      "lemma": "degree",
+      "pos": "n",
+      "definition": "an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study",
+      "decision": "gloss",
+      "simpleMeaning": "A title that a college or university gives you after you finish a course of study.",
+      "scope": "This is the qualification you earn at university, not a unit of temperature or angle and not an amount or level of something.",
+      "examples": [
+        "She has a degree in history from the University of Leeds.",
+        "After three years of study, he received his degree."
+      ],
+      "branchCoverage": [
+        "an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study -> a title; a college or university gives it; after you finish a course of study"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "floor%2:37:00::",
+      "lemma": "floor",
+      "pos": "v",
+      "definition": "surprise greatly; knock someone's socks off",
+      "decision": "gloss",
+      "simpleMeaning": "To shock or surprise someone very much.",
+      "scope": "It is not the flat surface you walk on or a level of a building; it is a strong surprise.",
+      "examples": [
+        "The news floored me because I never expected it.",
+        "Her answer floored the judges."
+      ],
+      "branchCoverage": [
+        "surprise greatly -> shock or surprise someone very much",
+        "knock someone's socks off -> surprise someone very much"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "floor (v) = to shock someone very much; floor (n, surface) = the flat part you walk on inside; floor (n, level) = one storey or level of a building.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "floor%1:06:00::",
+      "lemma": "floor",
+      "pos": "n",
+      "definition": "the inside lower horizontal surface (as of a room, hallway, tent, or other structure)",
+      "decision": "gloss",
+      "simpleMeaning": "The flat surface you walk on inside a room or building.",
+      "scope": "This is the surface under your feet inside a place, not a level or storey of a building.",
+      "examples": [
+        "The children sat on the floor and played with their toys.",
+        "There was water all over the kitchen floor."
+      ],
+      "branchCoverage": [
+        "the inside lower horizontal surface (as of a room, hallway, tent, or other structure) -> flat surface you walk on inside; a room or building"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "floor (v) = to shock someone very much; floor (n, surface) = the flat part you walk on inside; floor (n, level) = one storey or level of a building.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "floor%1:06:01::",
+      "lemma": "floor",
+      "pos": "n",
+      "definition": "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+      "decision": "gloss",
+      "simpleMeaning": "One level of a building, with the rooms that are on it.",
+      "scope": "This is a level of a building, not the surface you walk on inside a room.",
+      "examples": [
+        "Her office is on the third floor.",
+        "The building has ten floors and a car park below."
+      ],
+      "branchCoverage": [
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale -> one level of a building; with the rooms that are on it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "floor (v) = to shock someone very much; floor (n, surface) = the flat part you walk on inside; floor (n, level) = one storey or level of a building.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hurt%5:00:00:damaged:00",
+      "lemma": "hurt",
+      "pos": "a",
+      "definition": "damaged; used of inanimate objects or their value",
+      "decision": "gloss",
+      "simpleMeaning": "Damaged or lower in value, said about an object rather than a person.",
+      "scope": "It describes an object or its value that has been damaged, not a person who feels pain.",
+      "examples": [
+        "The badly hurt engine would not start.",
+        "After the crash, the hurt car was sold for parts."
+      ],
+      "branchCoverage": [
+        "damaged -> damaged or lower in value",
+        "used of inanimate objects or their value -> said about an object rather than a person (usage label)"
+      ],
+      "labelBranches": [
+        "used of inanimate objects or their value"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "image%1:06:00::",
+      "lemma": "image",
+      "pos": "n",
+      "definition": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+      "decision": "gloss",
+      "simpleMeaning": "A picture of someone or something, such as a drawing or photograph.",
+      "scope": "This is a picture you can see, not the way people think of a person or group.",
+      "examples": [
+        "The image on the coin shows a lion.",
+        "She drew an image of her house."
+      ],
+      "branchCoverage": [
+        "a visual representation (of an object or scene or person or abstraction) produced on a surface -> a picture; of someone or something; on a surface such as paper or a screen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "image (n) = a picture of someone or something; image (v) = to make something visible with a scanner such as an MRI.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "image%2:39:03::",
+      "lemma": "image",
+      "pos": "v",
+      "definition": "render visible, as by means of MRI",
+      "decision": "gloss",
+      "simpleMeaning": "To make something visible using a scanner, such as an MRI machine.",
+      "scope": "This is a technical use about scanners making body parts visible, not making a picture by hand.",
+      "examples": [
+        "Doctors imaged the patient's knee to find the tear.",
+        "The team imaged the brain while the person was awake."
+      ],
+      "branchCoverage": [
+        "render visible, as by means of MRI -> make something visible; using a scanner, such as an MRI machine"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "image (n) = a picture of someone or something; image (v) = to make something visible with a scanner such as an MRI.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "insurance%1:21:02::",
+      "lemma": "insurance",
+      "pos": "n",
+      "definition": "promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company",
+      "decision": "gloss",
+      "simpleMeaning": "A paid service that gives you money if you lose or damage something.",
+      "scope": "This is the protection service itself, not the written paper that proves you have it.",
+      "examples": [
+        "She bought insurance for her new house.",
+        "The insurance paid for the damage to the roof."
+      ],
+      "branchCoverage": [
+        "promise of reimbursement in the case of loss -> gives you money if you lose or damage something",
+        "paid to people or companies so concerned about hazards that they have made prepayments to an insurance company -> a paid service; you pay a company; it pays out when something bad happens"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "insurance (cover) = the paid service that pays you for a loss; insurance (paper) = the written document that proves the cover.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "insurance%1:10:00::",
+      "lemma": "insurance",
+      "pos": "n",
+      "definition": "written contract or certificate of insurance",
+      "decision": "gloss",
+      "simpleMeaning": "The official paper from a company that says which losses it will pay for.",
+      "scope": "This is the paper document, not the protection service itself.",
+      "examples": [
+        "He could not find his insurance when the officer asked for it.",
+        "The insurance states that floods are not covered."
+      ],
+      "branchCoverage": [
+        "written contract or certificate of insurance -> the official paper; from a company; says which losses it will pay for"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "insurance (cover) = the paid service that pays you for a loss; insurance (paper) = the written document that proves the cover.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "majority%1:28:00::",
+      "lemma": "majority",
+      "pos": "n",
+      "definition": "the age at which persons are considered competent to manage their own affairs",
+      "decision": "gloss",
+      "simpleMeaning": "The age when a person is legally old enough to control their own life.",
+      "scope": "This is about the age of becoming an adult in law, not about more than half of a group.",
+      "examples": [
+        "In many countries, a person reaches majority at eighteen.",
+        "She received her inheritance when she reached majority."
+      ],
+      "branchCoverage": [
+        "the age at which persons are considered competent to manage their own affairs -> the age when; legally old enough; to control their own life"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "opening%1:11:01::",
+      "lemma": "opening",
+      "pos": "n",
+      "definition": "a ceremony accompanying the start of some enterprise",
+      "decision": "gloss",
+      "simpleMeaning": "A formal event that marks the start of something new, like a business or project.",
+      "scope": "This is the event that celebrates a start, not a hole or gap in something.",
+      "examples": [
+        "The mayor cut the ribbon at the opening of the new library.",
+        "Many guests came to the opening of the art show."
+      ],
+      "branchCoverage": [
+        "a ceremony accompanying the start of some enterprise -> a formal event; marks the start; something new, like a business or project"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "opinion%1:10:01::",
+      "lemma": "opinion",
+      "pos": "n",
+      "definition": "a message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof",
+      "decision": "gloss",
+      "simpleMeaning": "A statement of what someone believes with confidence, even though it is not proved.",
+      "scope": "This is the statement someone makes, not the private belief they hold in their mind.",
+      "examples": [
+        "The newspaper printed several opinions about the new road.",
+        "The website collects opinions from customers about the service."
+      ],
+      "branchCoverage": [
+        "a message expressing a belief about something -> a statement of what someone believes",
+        "the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof -> with confidence; even though it is not proved"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "opinion (belief) = the view you hold in your mind; opinion (statement) = the words you say or write that express that view.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "opinion%1:09:00::",
+      "lemma": "opinion",
+      "pos": "n",
+      "definition": "a personal belief or judgment that is not founded on proof or certainty",
+      "decision": "gloss",
+      "simpleMeaning": "What you think or believe about something, even without proof.",
+      "scope": "This is the belief you hold, not the words you use to tell other people about it.",
+      "examples": [
+        "My opinion of the film changed after I watched it again.",
+        "She has a low opinion of people who lie."
+      ],
+      "branchCoverage": [
+        "a personal belief or judgment that is not founded on proof or certainty -> what you think or believe; even without proof"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "opinion (belief) = the view you hold in your mind; opinion (statement) = the words you say or write that express that view.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "physical%3:01:00::",
+      "lemma": "physical",
+      "pos": "a",
+      "definition": "relating to the sciences dealing with matter and energy; especially physics",
+      "decision": "gloss",
+      "simpleMeaning": "Connected with the science that studies matter and energy.",
+      "scope": "This sense is about the science, not about whether something can be touched or seen.",
+      "examples": [
+        "The course covers the physical laws that explain heat and light.",
+        "They ran a physical experiment to measure the speed of sound."
+      ],
+      "branchCoverage": [
+        "relating to the sciences dealing with matter and energy -> connected with the science that studies matter and energy",
+        "especially physics -> the science that studies matter and energy (physics)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "physical (science) = to do with the science of matter and energy; physical (material) = real and solid, able to be touched or seen.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "physical%5:00:00:material:01",
+      "lemma": "physical",
+      "pos": "a",
+      "definition": "having substance or material existence; perceptible to the senses",
+      "decision": "gloss",
+      "simpleMeaning": "Real and solid, so you can touch it or see it.",
+      "scope": "This is about things that exist in the real world, not about the science of matter and energy.",
+      "examples": [
+        "Books are physical objects, while files on a screen are not.",
+        "She prefers physical books to e-books."
+      ],
+      "branchCoverage": [
+        "having substance or material existence -> real and solid",
+        "perceptible to the senses -> you can touch it or see it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "physical (science) = to do with the science of matter and energy; physical (material) = real and solid, able to be touched or seen.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reach%1:04:00::",
+      "lemma": "reach",
+      "pos": "n",
+      "definition": "the act of physically reaching or thrusting out",
+      "decision": "gloss",
+      "simpleMeaning": "The movement of stretching out your arm or hand to touch something.",
+      "scope": "This is the physical movement of your arm, not the distance you can cover or a place you arrive at.",
+      "examples": [
+        "With one long reach, she took the book from the top shelf.",
+        "He made a reach for the rope but missed it."
+      ],
+      "branchCoverage": [
+        "the act of physically reaching or thrusting out -> the movement of stretching out your arm or hand"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reach (n) = the act of stretching out your arm; reach (v, arrive) = to get to a place or goal; reach (v, level) = to get to a point in time, state or level.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reach%2:38:01::",
+      "lemma": "reach",
+      "pos": "v",
+      "definition": "reach a destination, either real or abstract",
+      "decision": "gloss",
+      "simpleMeaning": "To arrive at a place or at a goal you were heading for.",
+      "scope": "This is about arriving somewhere, not about stretching out your hand or getting to a stage or level.",
+      "examples": [
+        "We reached the village before dark.",
+        "After hours of work, the team reached its goal."
+      ],
+      "branchCoverage": [
+        "reach a destination, either real or abstract -> arrive at; a place or a goal"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reach (n) = the act of stretching out your arm; reach (v, arrive) = to get to a place or goal; reach (v, level) = to get to a point in time, state or level.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reach%2:38:00::",
+      "lemma": "reach",
+      "pos": "v",
+      "definition": "reach a point in time, or a certain state or level",
+      "decision": "gloss",
+      "simpleMeaning": "To get to a certain point in time, state or level.",
+      "scope": "This is about getting to a stage, amount or state, not about arriving at a place.",
+      "examples": [
+        "The temperature reached forty degrees yesterday.",
+        "When he reached the age of sixty, he stopped working."
+      ],
+      "branchCoverage": [
+        "reach a point in time, or a certain state or level -> get to; a certain point in time, state or level"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reach (n) = the act of stretching out your arm; reach (v, arrive) = to get to a place or goal; reach (v, level) = to get to a point in time, state or level.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rule%1:09:00::",
+      "lemma": "rule",
+      "pos": "n",
+      "definition": "a principle or condition that customarily governs behavior",
+      "decision": "gloss",
+      "simpleMeaning": "An instruction that says how people should usually behave.",
+      "scope": "This is an instruction about behaviour, not the power a leader has over a country.",
+      "examples": [
+        "The school has a rule against running in the halls.",
+        "There is a rule that phones must be off during the exam."
+      ],
+      "branchCoverage": [
+        "a principle or condition that customarily governs behavior -> an instruction; how people should usually behave"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "seriously%4:02:00::",
+      "lemma": "seriously",
+      "pos": "r",
+      "definition": "in a serious manner",
+      "decision": "gloss",
+      "simpleMeaning": "In a way that shows you mean what you say and are not joking.",
+      "scope": "This describes how someone speaks or acts, not how bad or large something is.",
+      "examples": [
+        "She looked at him seriously and said no.",
+        "He spoke seriously about the dangers of the job."
+      ],
+      "branchCoverage": [
+        "in a serious manner -> in a way that shows you mean what you say; not joking"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "seriously (manner) = in a way that is not a joke; seriously (degree) = very much or to a bad degree.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "seriously%4:02:01::",
+      "lemma": "seriously",
+      "pos": "r",
+      "definition": "to a severe or serious degree",
+      "decision": "gloss",
+      "simpleMeaning": "Very much, or in a bad or severe way.",
+      "scope": "This tells you how bad or great something is, not the way someone speaks or behaves.",
+      "examples": [
+        "He was seriously injured in the crash.",
+        "The weather is seriously affecting the harvest."
+      ],
+      "branchCoverage": [
+        "to a severe or serious degree -> very much; in a bad or severe way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "seriously (manner) = in a way that is not a joke; seriously (degree) = very much or to a bad degree.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stupid%3:00:00::",
+      "lemma": "stupid",
+      "pos": "a",
+      "definition": "lacking or marked by lack of intellectual acuity",
+      "decision": "gloss",
+      "simpleMeaning": "Not clever; slow to understand things.",
+      "scope": "This describes a person or idea that is not clever, not someone who is dazed by shock.",
+      "examples": [
+        "It was a stupid mistake to leave the door open.",
+        "I felt stupid when I could not answer the simple question."
+      ],
+      "branchCoverage": [
+        "lacking or marked by lack of intellectual acuity -> not clever; slow to understand things"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stupid (not clever) = slow to understand; stupid (dazed) = unable to think clearly because of shock.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stupid%5:00:00:confused:00",
+      "lemma": "stupid",
+      "pos": "a",
+      "definition": "in a state of mental numbness especially as resulting from shock",
+      "decision": "gloss",
+      "simpleMeaning": "Unable to think clearly, especially after a shock.",
+      "scope": "This is a dazed state caused by shock, not a lack of intelligence.",
+      "examples": [
+        "She was stupid with shock after the accident.",
+        "The blow left him stupid for a moment."
+      ],
+      "branchCoverage": [
+        "in a state of mental numbness especially as resulting from shock -> unable to think clearly; especially after a shock"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stupid (not clever) = slow to understand; stupid (dazed) = unable to think clearly because of shock.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

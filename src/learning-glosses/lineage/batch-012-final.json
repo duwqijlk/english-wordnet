@@ -1,0 +1,978 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 12,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 42,
+      "of": 50,
+      "rate": 0.84
+    },
+    "selfApproved": [
+      "fine%5:00:00:thin:01",
+      "force%2:36:00::",
+      "price%1:07:02::",
+      "account%2:32:02::",
+      "military%1:14:00::",
+      "perfect%1:24:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "0659118ac16eea05596c5e64b011d61ac73ded222a8379656f4f857a448775d9"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "fight%2:33:00::",
+      "lemma": "fight",
+      "pos": "v",
+      "definition": "be engaged in a fight; carry on a fight",
+      "decision": "gloss",
+      "simpleMeaning": "to take part in a struggle or contest and keep it going.",
+      "scope": "This is taking part in a struggle or contest with an opponent, not resisting something or working hard for a cause.",
+      "examples": [
+        "The two armies fought for control of the bridge.",
+        "The children fought over the last piece of cake."
+      ],
+      "branchCoverage": [
+        "be engaged in a fight -> 'take part in a struggle or contest'",
+        "carry on a fight -> 'keep it going'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fine%4:02:00::",
+      "lemma": "fine",
+      "pos": "r",
+      "definition": "an expression of agreement normally occurring at the beginning of a sentence",
+      "decision": "gloss",
+      "simpleMeaning": "often used at the start of a sentence to show that you agree.",
+      "scope": "This is a short reply that agrees, not a word describing high quality and not money paid as a punishment.",
+      "examples": [
+        "Fine, I'll meet you at six.",
+        "Fine, we can try it your way."
+      ],
+      "branchCoverage": [
+        "an expression of agreement normally occurring at the beginning of a sentence -> 'often used at the start of a sentence', 'show that you agree' (expression of agreement)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fine (adv): used at the start of a sentence to agree; fine (adj, precise): exact about very small differences in meaning; fine (adj, thin): very thin in width or diameter.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fine%5:00:00:precise:00",
+      "lemma": "fine",
+      "pos": "a",
+      "definition": "minutely precise especially in differences in meaning",
+      "decision": "gloss",
+      "simpleMeaning": "exact and careful about very small differences, especially in meaning.",
+      "scope": "This is about being exact, not about being very thin or very good.",
+      "examples": [
+        "The law makes a fine distinction between theft and fraud.",
+        "Good translation depends on fine differences in meaning."
+      ],
+      "branchCoverage": [
+        "minutely precise especially in differences in meaning -> 'exact and careful about very small differences, especially in meaning'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fine (adv): used at the start of a sentence to agree; fine (adj, precise): exact about very small differences in meaning; fine (adj, thin): very thin in width or diameter.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fine%5:00:00:thin:01",
+      "lemma": "fine",
+      "pos": "a",
+      "definition": "thin in thickness or diameter",
+      "decision": "gloss",
+      "simpleMeaning": "very thin in width or diameter.",
+      "scope": "This is about thinness, not about being exact and not about being very good.",
+      "examples": [
+        "The thread is so fine that it is hard to see.",
+        "A fine needle is best for this delicate cloth."
+      ],
+      "branchCoverage": [
+        "thin in thickness or diameter -> 'very thin in width or diameter'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fine (adv): used at the start of a sentence to agree; fine (adj, precise): exact about very small differences in meaning; fine (adj, thin): very thin in width or diameter.",
+      "meaning": "very thin, especially in thickness or diameter.",
+      "verdict": "self-approved",
+      "reviewerNote": "Replaces 'thickness' with 'width', losing fine films/layers. Use 'very thin, especially in thickness or diameter'."
+    },
+    {
+      "senseId": "force%2:36:00::",
+      "lemma": "force",
+      "pos": "v",
+      "definition": "urge or force (a person) to an action; constrain or motivate",
+      "decision": "gloss",
+      "simpleMeaning": "to make a person feel they must act, because of a strong need, feeling, or situation.",
+      "scope": "This is a strong need or situation pushing someone to act, not pressure or threats from another person.",
+      "examples": [
+        "Curiosity forced her to open the letter.",
+        "Hunger forced him to leave the house."
+      ],
+      "branchCoverage": [
+        "urge or force (a person) to an action -> 'make a person feel they must act'",
+        "constrain or motivate -> 'because of a strong need, feeling, or situation'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "force (v, drive): a strong need, feeling, or situation makes someone act; force (v, coerce): pressure, threats, or hard necessity make someone act; force (v, push): push or move something with physical strength.",
+      "meaning": "to push someone to act because of a strong feeling or need.",
+      "verdict": "self-approved",
+      "reviewerNote": "Collapses with force%2:41: storm example is coercion. Narrow to 'to push someone to act because of a strong feeling or need'; swap example."
+    },
+    {
+      "senseId": "force%2:41:00::",
+      "lemma": "force",
+      "pos": "v",
+      "definition": "to cause to do through pressure or necessity, by physical, moral or intellectual means",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone do something they do not want to do, whether by pressure, threats, physical strength, clever talk, or a situation with no other choice.",
+      "scope": "This is outside pressure that leaves someone little choice, not a passing need or feeling that urges them.",
+      "examples": [
+        "The guards forced the prisoners to work in the cold.",
+        "She was forced to sign the contract."
+      ],
+      "branchCoverage": [
+        "to cause to do through pressure or necessity, by physical, moral or intellectual means -> 'make someone do something they do not want to do', 'pressure', 'a situation with no other choice' (necessity), 'physical strength' (physical means), 'threats' (moral means), 'clever talk' (intellectual means)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "force (v, drive): a strong need, feeling, or situation makes someone act; force (v, coerce): pressure, threats, or hard necessity make someone act; force (v, push): push or move something with physical strength.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "force%2:38:00::",
+      "lemma": "force",
+      "pos": "v",
+      "definition": "move with force",
+      "decision": "gloss",
+      "simpleMeaning": "to push or move something using physical strength.",
+      "scope": "This is pushing or moving an object with strength, not making a person do something.",
+      "examples": [
+        "He forced the stuck window open.",
+        "They forced the heavy table through the narrow door."
+      ],
+      "branchCoverage": [
+        "move with force -> 'push or move something using physical strength'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "force (v, drive): a strong need, feeling, or situation makes someone act; force (v, coerce): pressure, threats, or hard necessity make someone act; force (v, push): push or move something with physical strength.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "issue%2:41:00::",
+      "lemma": "issue",
+      "pos": "v",
+      "definition": "circulate or distribute or equip with",
+      "decision": "gloss",
+      "simpleMeaning": "to give out or supply things to people.",
+      "scope": "This is handing out supplies to people, not bringing out a book or product for the public to buy.",
+      "examples": [
+        "The school issues a laptop to every new student.",
+        "Rescue teams issued blankets and food to the families."
+      ],
+      "branchCoverage": [
+        "circulate or distribute or equip with -> 'give out or supply things to people'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "issue (v, hand out): give out or supply things to people; issue (v, publish): produce and release something for the public to buy or see.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "issue%2:32:00::",
+      "lemma": "issue",
+      "pos": "v",
+      "definition": "prepare and issue for public distribution or sale",
+      "decision": "gloss",
+      "simpleMeaning": "to produce and release something so the public can buy or see it.",
+      "scope": "This is releasing something to the public, not giving supplies to individual people.",
+      "examples": [
+        "The band will issue a new album in June.",
+        "The post office issued a set of special stamps."
+      ],
+      "branchCoverage": [
+        "prepare and issue for public distribution or sale -> 'produce and release something', 'so the public can buy or see it' (public distribution or sale)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "issue (v, hand out): give out or supply things to people; issue (v, publish): produce and release something for the public to buy or see.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "price%1:07:02::",
+      "lemma": "price",
+      "pos": "n",
+      "definition": "value measured by what must be given or done or undergone to obtain something",
+      "decision": "gloss",
+      "simpleMeaning": "the cost of getting something, measured by what you must give up or go through.",
+      "scope": "This is what you give up or go through to get something, not the money asked for it in a shop.",
+      "examples": [
+        "Losing his friends was a high price to pay for success.",
+        "There is a price for every choice we make."
+      ],
+      "branchCoverage": [
+        "value measured by what must be given or done or undergone to obtain something -> 'the cost of getting something', 'what you must give up or go through' (given, done, undergone)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "price (n, cost): what you must give up or go through to get something; price (v, check): find out how much something costs; price (v, set): set the amount of money something will cost.",
+      "meaning": "the cost of getting something, measured by what you must give up, do, or go through.",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'done' (actions performed). Use 'the cost of getting something, measured by what you must give up, do, or go through'."
+    },
+    {
+      "senseId": "price%2:31:00::",
+      "lemma": "price",
+      "pos": "v",
+      "definition": "ascertain or learn the price of",
+      "decision": "gloss",
+      "simpleMeaning": "to find out how much something costs.",
+      "scope": "This is finding out what something costs as a buyer, not setting the price as a seller.",
+      "examples": [
+        "I priced the tickets online before booking.",
+        "We priced three hotels before choosing one."
+      ],
+      "branchCoverage": [
+        "ascertain or learn the price of -> 'find out how much something costs'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "price (n, cost): what you must give up or go through to get something; price (v, check): find out how much something costs; price (v, set): set the amount of money something will cost.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "price%2:40:00::",
+      "lemma": "price",
+      "pos": "v",
+      "definition": "determine the price of",
+      "decision": "gloss",
+      "simpleMeaning": "to set the amount of money something will cost.",
+      "scope": "This is setting the price as a seller, not finding out what something costs as a buyer.",
+      "examples": [
+        "The shop priced the shoes at eighty dollars.",
+        "They priced the new model too high for most buyers."
+      ],
+      "branchCoverage": [
+        "determine the price of -> 'set the amount of money something will cost'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "price (n, cost): what you must give up or go through to get something; price (v, check): find out how much something costs; price (v, set): set the amount of money something will cost.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "running%3:00:02::",
+      "lemma": "running",
+      "pos": "a",
+      "definition": "(of fluids) moving or issuing in a stream",
+      "decision": "gloss",
+      "simpleMeaning": "flowing in a steady stream, used about water or other liquids.",
+      "scope": "This describes a liquid that flows, not the sport or the act of moving fast on foot.",
+      "examples": [
+        "Wash the cut under running water.",
+        "The children jumped across the running stream."
+      ],
+      "branchCoverage": [
+        "(of fluids) moving or issuing in a stream -> 'flowing in a steady stream', 'used about water or other liquids' (of fluids)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "running (adj): flowing in a steady stream, said of liquids; running (n): the activity of moving quickly on foot.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "running%1:04:01::",
+      "lemma": "running",
+      "pos": "n",
+      "definition": "the act of running; traveling on foot at a fast pace",
+      "decision": "gloss",
+      "simpleMeaning": "the activity of moving quickly on foot.",
+      "scope": "This is the activity of moving fast on foot, not a machine working or a liquid flowing.",
+      "examples": [
+        "Running is a cheap way to stay fit.",
+        "Her running has improved since she joined the club."
+      ],
+      "branchCoverage": [
+        "the act of running -> 'the activity of moving quickly on foot'",
+        "traveling on foot at a fast pace -> 'moving quickly on foot' (on foot, at a fast pace)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "running (adj): flowing in a steady stream, said of liquids; running (n): the activity of moving quickly on foot.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "summer%1:28:00::",
+      "lemma": "summer",
+      "pos": "n",
+      "definition": "the warmest season of the year; in the Northern Hemisphere it extends from the summer solstice to the autumnal equinox",
+      "decision": "gloss",
+      "simpleMeaning": "the warmest season of the year, which in the northern half of the world lasts from the longest day to the start of autumn.",
+      "scope": "This is the season itself, not the verb for staying somewhere during it.",
+      "examples": [
+        "We spent two weeks by the sea last summer.",
+        "Summer is the busiest time for ice cream sellers."
+      ],
+      "branchCoverage": [
+        "the warmest season of the year -> 'the warmest season of the year'",
+        "in the Northern Hemisphere it extends from the summer solstice to the autumnal equinox -> 'in the northern half of the world lasts from the longest day to the start of autumn'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "summer (n): the warmest season of the year; summer (v): stay in a place during the warmest months.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "summer%2:42:00::",
+      "lemma": "summer",
+      "pos": "v",
+      "definition": "spend the summer",
+      "decision": "gloss",
+      "simpleMeaning": "to stay in a place during the warmest months of the year.",
+      "scope": "This is staying somewhere for the warm season, not the season itself and not a short visit.",
+      "examples": [
+        "They summer in a small house by the lake.",
+        "Many wealthy families used to summer in the mountains."
+      ],
+      "branchCoverage": [
+        "spend the summer -> 'stay in a place during the warmest months of the year'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "summer (n): the warmest season of the year; summer (v): stay in a place during the warmest months.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beautiful%3:00:00::",
+      "lemma": "beautiful",
+      "pos": "a",
+      "definition": "delighting the senses or exciting intellectual or emotional admiration",
+      "decision": "gloss",
+      "simpleMeaning": "so pleasing to the senses or the mind that people admire it.",
+      "scope": "This is about delight and admiration, not about something being merely useful or correct.",
+      "examples": [
+        "The garden looks beautiful in spring.",
+        "She sang a beautiful song at the concert."
+      ],
+      "branchCoverage": [
+        "delighting the senses or exciting intellectual or emotional admiration -> 'pleasing to the senses or the mind', 'people admire it' (admiration)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "date%2:31:00::",
+      "lemma": "date",
+      "pos": "v",
+      "definition": "assign a date to; determine the (probable) date of",
+      "decision": "gloss",
+      "simpleMeaning": "to put a day, month, and year on something, or to work out when something probably happened.",
+      "scope": "This is putting or finding a time on something, not going out with someone romantically and not the sweet fruit of a palm tree.",
+      "examples": [
+        "Please date your check before signing it.",
+        "Experts dated the bones to about ten thousand years ago."
+      ],
+      "branchCoverage": [
+        "assign a date to -> 'put a day, month, and year on something'",
+        "determine the (probable) date of -> 'work out when something probably happened'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "miss%2:39:00::",
+      "lemma": "miss",
+      "pos": "v",
+      "definition": "fail to perceive or to catch with the senses or the mind",
+      "decision": "gloss",
+      "simpleMeaning": "to not see, hear, notice, or understand something.",
+      "scope": "This is failing to notice or understand something, not feeling sad about an absent person or failing to catch a ball.",
+      "examples": [
+        "I missed the sign at the entrance and drove past.",
+        "She spoke quickly and I missed the main point."
+      ],
+      "branchCoverage": [
+        "fail to perceive or to catch with the senses or the mind -> 'not see, hear, notice, or understand something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "project%2:42:00::",
+      "lemma": "project",
+      "pos": "v",
+      "definition": "extend out or project in space",
+      "decision": "gloss",
+      "simpleMeaning": "to stick out beyond the surface around it.",
+      "scope": "This is something sticking out from a surface, not a plan of work or a picture on a screen.",
+      "examples": [
+        "A small balcony projects from the front of the building.",
+        "The rock projects over the water like a roof."
+      ],
+      "branchCoverage": [
+        "extend out or project in space -> 'stick out beyond the surface around it'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shot%1:06:00::",
+      "lemma": "shot",
+      "pos": "n",
+      "definition": "a solid missile discharged from a firearm",
+      "decision": "gloss",
+      "simpleMeaning": "a solid piece of metal fired from a gun.",
+      "scope": "This is the piece of metal itself, not the act of firing a gun or a photograph.",
+      "examples": [
+        "The gun fires many small pieces of shot at once.",
+        "He emptied the shot from the cartridge into his hand."
+      ],
+      "branchCoverage": [
+        "a solid missile discharged from a firearm -> 'a solid piece of metal fired from a gun'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "shot (n): a solid piece of metal fired from a gun; shot (adj): cloth that shows different colors in different lights.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shot%5:00:00:colorful:00",
+      "lemma": "shot",
+      "pos": "a",
+      "definition": "varying in color when seen in different lights or from different angles",
+      "decision": "gloss",
+      "simpleMeaning": "showing different colors when seen in different lights or from different angles.",
+      "scope": "This is about colors that seem to change with light or angle, not a piece of metal or a photograph.",
+      "examples": [
+        "The dress was made of shot silk that turned from green to blue.",
+        "Shot fabric looks different depending on the light."
+      ],
+      "branchCoverage": [
+        "varying in color when seen in different lights or from different angles -> 'showing different colors when seen in different lights or from different angles'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "shot (n): a solid piece of metal fired from a gun; shot (adj): cloth that shows different colors in different lights.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "site%1:10:00::",
+      "lemma": "site",
+      "pos": "n",
+      "definition": "a computer connected to the internet that maintains a series of web pages on the World Wide Web; a computer connected to the internet that maintains a series of web pages on the World Wide Web",
+      "decision": "gloss",
+      "simpleMeaning": "a place on the internet where a set of web pages is kept.",
+      "scope": "This is a set of web pages, not a piece of land where a building stands.",
+      "examples": [
+        "The school's site has a page for every class.",
+        "I found the map on a travel site."
+      ],
+      "branchCoverage": [
+        "a computer connected to the internet that maintains a series of web pages on the World Wide Web -> 'a place on the internet where a set of web pages is kept'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "account%1:26:00::",
+      "lemma": "account",
+      "pos": "n",
+      "definition": "a formal contractual relationship established to provide for regular banking or brokerage or business services",
+      "decision": "gloss",
+      "simpleMeaning": "an official arrangement with a bank, broker, or business that lets you keep money there or use its services.",
+      "scope": "This is an arrangement with a bank or business, not a story or report about events.",
+      "examples": [
+        "She opened a savings account at the local bank.",
+        "You need an account to buy things on this website."
+      ],
+      "branchCoverage": [
+        "a formal contractual relationship established to provide for regular banking or brokerage or business services -> 'an official arrangement', 'with a bank, broker, or business', 'lets you keep money there or use its services' (regular banking, brokerage, business services)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "account (n, bank): an arrangement with a bank or business that holds your money; account for (v): be the main reason for or share of something; account (v, describe): tell about something in words; account (n, news): a short news report; account (v, record): keep a record of money.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "account%2:42:01::",
+      "lemma": "account",
+      "pos": "v",
+      "definition": "be the sole or primary factor in the existence, acquisition, supply, or disposal of something",
+      "decision": "gloss",
+      "simpleMeaning": "to be the main cause or share of something existing, being obtained, supplied, or used up.",
+      "scope": "This is being the main cause or share, not describing events or keeping a record of money.",
+      "examples": [
+        "Rain accounted for most of the delay.",
+        "Tourism accounts for a large part of the island's income."
+      ],
+      "branchCoverage": [
+        "be the sole or primary factor in the existence, acquisition, supply, or disposal of something -> 'be the main cause or share' (sole or primary factor), 'existing, being obtained, supplied, or used up' (existence, acquisition, supply, disposal)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "account (n, bank): an arrangement with a bank or business that holds your money; account for (v): be the main reason for or share of something; account (v, describe): tell about something in words; account (n, news): a short news report; account (v, record): keep a record of money.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "account%2:32:02::",
+      "lemma": "account",
+      "pos": "v",
+      "definition": "to give an account or representation of in words",
+      "decision": "gloss",
+      "simpleMeaning": "to tell or describe something in words.",
+      "scope": "Not about being the reason something happens and not about keeping money records; this sense only means reporting or describing something.",
+      "examples": [
+        "The report accounts the night's events in detail.",
+        "He accounted his actions to the committee."
+      ],
+      "branchCoverage": [
+        "to give an account or representation of in words -> tell or describe something in words"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "account%1:26:00:: = a bank or business arrangement; account%2:42:01:: = be the main cause or reason for something; account%2:32:02:: = describe or report something in words; account%1:10:03:: = a short news report; account%2:40:00:: = keep a record of money.",
+      "meaning": "to give a full description of something in words.",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples use phrasal 'account for' = explain, not describe; use 'The report accounts the night's events in detail.'"
+    },
+    {
+      "senseId": "account%1:10:03::",
+      "lemma": "account",
+      "pos": "n",
+      "definition": "a short account of the news",
+      "decision": "gloss",
+      "simpleMeaning": "a short news report about an event.",
+      "scope": "Not a bank arrangement and not a record of money; it is only a short report of news.",
+      "examples": [
+        "The newspaper printed a short account of the accident.",
+        "We heard a first-hand account of the storm on the radio."
+      ],
+      "branchCoverage": [
+        "a short account of the news -> short news report about an event"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "account%1:26:00:: = a bank or business arrangement; account%2:42:01:: = be the main cause or reason for something; account%2:32:02:: = describe or report something in words; account%1:10:03:: = a short news report; account%2:40:00:: = keep a record of money.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "account%2:40:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "In this bookkeeping sense the verb survives only in fixed phrases such as 'keep account of', where it is hard to tell apart from 'account for' meaning explain, so two natural examples cannot be written that show this sense alone."
+    },
+    {
+      "senseId": "period%1:28:02::",
+      "lemma": "period",
+      "pos": "n",
+      "definition": "the interval taken to complete one cycle of a regularly repeating phenomenon",
+      "decision": "gloss",
+      "simpleMeaning": "the time it takes for one complete round of something that repeats.",
+      "scope": "Not a punctuation mark, a lesson hour or a stretch of history; here it means the time for one full cycle of a repeated process.",
+      "examples": [
+        "The period of the pendulum is exactly two seconds.",
+        "The satellite circles the earth with a period of about 90 minutes."
+      ],
+      "branchCoverage": [
+        "the interval taken to complete one cycle of a regularly repeating phenomenon -> the time it takes for one complete round of something that repeats"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "position%1:09:00::",
+      "lemma": "position",
+      "pos": "n",
+      "definition": "a way of regarding situations or topics etc.",
+      "decision": "gloss",
+      "simpleMeaning": "an opinion or way of looking at something.",
+      "scope": "Not a physical place and not a job; this sense is only about an opinion or point of view.",
+      "examples": [
+        "She took a firm position against the new road.",
+        "The two parties hold different positions on tax."
+      ],
+      "branchCoverage": [
+        "a way of regarding situations or topics etc -> opinion or way of looking at something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "record%1:06:00::",
+      "lemma": "record",
+      "pos": "n",
+      "definition": "sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove",
+      "decision": "gloss",
+      "simpleMeaning": "a round plastic disk with a groove that plays music when a machine turns it under a needle.",
+      "scope": "Not a team's wins and losses and not a written note of events; here it means the plastic disk that music is played from.",
+      "examples": [
+        "My grandfather still plays old jazz records on his record player.",
+        "She found a rare record in a music shop."
+      ],
+      "branchCoverage": [
+        "sound recording consisting of a disk with a continuous groove -> round plastic disk with a groove that holds recorded sound",
+        "used to reproduce music by rotating while a phonograph needle tracks in the groove -> plays music when a machine turns it under a needle"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "record%1:06:00:: = the plastic disk that music is played from; record%1:23:00:: = a team's count of wins, losses and ties; record%2:32:03:: = a machine or gauge showing a measurement.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "record%1:23:00::",
+      "lemma": "record",
+      "pos": "n",
+      "definition": "the number of wins versus losses and ties a team has had",
+      "decision": "gloss",
+      "simpleMeaning": "the number of games a team has won, lost or tied.",
+      "scope": "Not a plastic music disk and not a written document; here it means a team's count of wins, losses and ties.",
+      "examples": [
+        "The team finished the season with a record of ten wins and four losses.",
+        "Their home record is the best in the league."
+      ],
+      "branchCoverage": [
+        "the number of wins versus losses and ties a team has had -> number of games a team has won, lost or tied"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "record%1:06:00:: = the plastic disk that music is played from; record%1:23:00:: = a team's count of wins, losses and ties; record%2:32:03:: = a machine or gauge showing a measurement.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "record%2:32:03::",
+      "lemma": "record",
+      "pos": "v",
+      "definition": "indicate a certain reading; of gauges and instruments",
+      "decision": "gloss",
+      "simpleMeaning": "to show a measurement, as a machine or instrument does.",
+      "scope": "Not to store sound or pictures and not to write something down; here it means a gauge or meter showing a figure.",
+      "examples": [
+        "The thermometer recorded 40 degrees at noon.",
+        "The barometer recorded a sharp fall in pressure."
+      ],
+      "branchCoverage": [
+        "indicate a certain reading -> show a measurement or figure",
+        "of gauges and instruments -> as a machine or instrument does"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "record%1:06:00:: = the plastic disk that music is played from; record%1:23:00:: = a team's count of wins, losses and ties; record%2:32:03:: = a machine or gauge showing a measurement.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "similar%3:00:00::",
+      "lemma": "similar",
+      "pos": "a",
+      "definition": "marked by correspondence or resemblance",
+      "decision": "gloss",
+      "simpleMeaning": "almost the same as another thing, but not exactly.",
+      "scope": "Not the use where two things are said to be alike with 'in'; this sense compares one thing with another, usually with 'to'.",
+      "examples": [
+        "Her new job is similar to her old one.",
+        "We found a house similar to the one we sold."
+      ],
+      "branchCoverage": [
+        "marked by correspondence or resemblance -> almost the same as another thing, but not exactly"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "similar%3:00:00:: = one thing almost the same as another, used with 'to'; similar%3:00:02:: = sharing a quality with something, used through 'like' or as a word ending such as 'doglike'; similar%3:00:04:: = two or more things matching each other, used with 'in' or after 'be'.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "similar%3:00:02::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "This sense is used through 'like' or as a word ending such as 'doglike' and 'dreamlike', so the word 'similar' itself cannot appear naturally in two examples that show it."
+    },
+    {
+      "senseId": "similar%3:00:04::",
+      "lemma": "similar",
+      "pos": "a",
+      "definition": "having the same or similar characteristics",
+      "decision": "gloss",
+      "simpleMeaning": "matching each other closely in looks or qualities.",
+      "scope": "Not one thing compared with another using 'to'; this sense describes two or more things that are alike each other, often with 'in'.",
+      "examples": [
+        "The twins are so similar that I often confuse them.",
+        "The two plans are similar in cost."
+      ],
+      "branchCoverage": [
+        "having the same or similar characteristics -> matching each other closely in looks or qualities"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "similar%3:00:00:: = one thing almost the same as another, used with 'to'; similar%3:00:02:: = sharing a quality with something, used through 'like' or as a word ending such as 'doglike'; similar%3:00:04:: = two or more things matching each other, used with 'in' or after 'be'.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "total%5:00:00:whole:00",
+      "lemma": "total",
+      "pos": "a",
+      "definition": "constituting the full quantity or extent; complete",
+      "decision": "gloss",
+      "simpleMeaning": "whole or complete, with nothing left out.",
+      "scope": "Not the final amount you get by adding numbers; here it describes something that is whole or complete.",
+      "examples": [
+        "The total cost of the repairs was over 2,000 dollars.",
+        "The village was left in total darkness after the storm."
+      ],
+      "branchCoverage": [
+        "constituting the full quantity or extent -> whole or complete, full amount",
+        "complete -> complete"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "film%1:06:01::",
+      "lemma": "film",
+      "pos": "n",
+      "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies",
+      "decision": "gloss",
+      "simpleMeaning": "a thin plastic strip covered with material that reacts to light, used in cameras to make negatives and slides.",
+      "scope": "Not a movie shown in a cinema; here it means the material inside a camera that holds the pictures.",
+      "examples": [
+        "He loaded a new roll of film into his camera.",
+        "Digital cameras no longer need film."
+      ],
+      "branchCoverage": [
+        "photographic material consisting of a base of celluloid covered with a photographic emulsion -> thin plastic strip covered with material that reacts to light",
+        "used to make negatives or transparencies -> used in cameras to make negatives and slides"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "film%1:06:01:: = the light-sensitive strip used in cameras; film%1:10:01:: = a movie shown in a cinema or on television.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "film%1:10:01::",
+      "lemma": "film",
+      "pos": "n",
+      "definition": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+      "decision": "gloss",
+      "simpleMeaning": "a story told with sound and moving pictures, shown as entertainment at a cinema or on television.",
+      "scope": "Not the camera material and not a thin layer of something; here it means a movie.",
+      "examples": [
+        "We watched a French film at the cinema last night.",
+        "Her new film will be shown on television next month."
+      ],
+      "branchCoverage": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement -> story told with sound and moving pictures, shown as entertainment"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "film%1:06:01:: = the light-sensitive strip used in cameras; film%1:10:01:: = a movie shown in a cinema or on television.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "military%3:00:01::",
+      "lemma": "military",
+      "pos": "a",
+      "definition": "associated with or performed by members of the armed services as contrasted with civilians",
+      "decision": "gloss",
+      "simpleMeaning": "done by or connected with the armed forces rather than ordinary people.",
+      "scope": "Not typical of soldiers' manner and not the study of war; here it means work or things that belong to the armed forces, as opposed to civilian life.",
+      "examples": [
+        "Military training begins at the base next week.",
+        "The country has increased its military spending."
+      ],
+      "branchCoverage": [
+        "associated with or performed by members of the armed services as contrasted with civilians -> done by or connected with the armed forces rather than ordinary people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "military%3:00:01:: = done by or belonging to the armed forces rather than civilians; military%3:01:00:: = relating to the study of war and strategy; military%3:00:02:: = typical of soldiers' manner and style; military%1:14:00:: = the noun for a country's armed forces.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "military%3:01:00::",
+      "lemma": "military",
+      "pos": "a",
+      "definition": "of or relating to the study of the principles of warfare",
+      "decision": "gloss",
+      "simpleMeaning": "relating to the study of war and how battles are planned.",
+      "scope": "Not things done by soldiers and not the armed forces themselves; here it refers to the study of war and its principles.",
+      "examples": [
+        "She teaches military strategy at the college.",
+        "The general wrote a book on military theory."
+      ],
+      "branchCoverage": [
+        "of or relating to the study of the principles of warfare -> relating to the study of war and how battles are planned"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "military%3:00:01:: = done by or belonging to the armed forces rather than civilians; military%3:01:00:: = relating to the study of war and strategy; military%3:00:02:: = typical of soldiers' manner and style; military%1:14:00:: = the noun for a country's armed forces.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "military%3:00:02::",
+      "lemma": "military",
+      "pos": "a",
+      "definition": "characteristic of or associated with soldiers or the military",
+      "decision": "gloss",
+      "simpleMeaning": "typical of soldiers and army life, such as their order and discipline.",
+      "scope": "Not the study of war and not simply things owned by the armed forces; here it describes the manner or style of soldiers.",
+      "examples": [
+        "The kitchen is run with military precision.",
+        "His hair was cut in a military style."
+      ],
+      "branchCoverage": [
+        "characteristic of or associated with soldiers or the military -> typical of soldiers and army life, such as their order and discipline"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "military%3:00:01:: = done by or belonging to the armed forces rather than civilians; military%3:01:00:: = relating to the study of war and strategy; military%3:00:02:: = typical of soldiers' manner and style; military%1:14:00:: = the noun for a country's armed forces.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "military%1:14:00::",
+      "lemma": "military",
+      "pos": "n",
+      "definition": "the military forces of a nation",
+      "decision": "gloss",
+      "simpleMeaning": "a country's armed forces, especially the army.",
+      "scope": "Not the adjective describing army things; as a noun it means the armed forces themselves.",
+      "examples": [
+        "The military took control of the government.",
+        "He served in the military for ten years."
+      ],
+      "branchCoverage": [
+        "the military forces of a nation -> a country's armed forces, especially the army"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "military%3:00:01:: = done by or belonging to the armed forces rather than civilians; military%3:01:00:: = relating to the study of war and strategy; military%3:00:02:: = typical of soldiers' manner and style; military%1:14:00:: = the noun for a country's armed forces.",
+      "meaning": "a country's armed forces, including the army, navy, and air force.",
+      "verdict": "self-approved",
+      "reviewerNote": "'Especially the army' wrongly narrows the sense; use 'a country's armed forces, including the army, navy and air force'."
+    },
+    {
+      "senseId": "perfect%1:24:00::",
+      "lemma": "perfect",
+      "pos": "n",
+      "definition": "a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)",
+      "decision": "gloss",
+      "simpleMeaning": "a verb form used for actions that are finished, formed with 'have' and a past participle and also called the perfective aspect.",
+      "scope": "Not meaning faultless and not the verb meaning to improve something; here it is the grammar term for a tense of completed actions.",
+      "examples": [
+        "In 'She has left', 'has left' is the present perfect.",
+        "Students often find the perfect tense difficult."
+      ],
+      "branchCoverage": [
+        "a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect) -> verb form used for actions that are finished, also called the perfective aspect"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "perfect%1:24:00:: = the grammar tense for completed actions; perfect%5:00:00:unmitigated:00 = 'complete', used to strengthen a word, often in criticism; perfect%5:00:00:exact:00 = exactly right, with no mistakes; perfect%2:30:00:: = the verb meaning to make something as good as possible.",
+      "meaning": "a verb form for finished actions, made with 'have' and a past participle.",
+      "verdict": "self-approved",
+      "reviewerNote": "'Perfective' is a headword derivative and unexplained jargon; use 'a verb form for finished actions, made with have and a past participle'."
+    },
+    {
+      "senseId": "perfect%5:00:00:unmitigated:00",
+      "lemma": "perfect",
+      "pos": "a",
+      "definition": "without qualification; used informally as (often pejorative) intensifiers",
+      "decision": "gloss",
+      "simpleMeaning": "used before a word to mean 'complete', often when criticizing something.",
+      "scope": "Not meaning exact and not the grammar tense; here it only makes the next word stronger, usually in a negative comment.",
+      "examples": [
+        "It was perfect nonsense from beginning to end.",
+        "He felt like a perfect fool."
+      ],
+      "branchCoverage": [
+        "without qualification -> complete, with nothing less",
+        "used informally as (often pejorative) intensifiers -> used before a word to make it stronger, often when criticizing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "perfect%1:24:00:: = the grammar tense for completed actions; perfect%5:00:00:unmitigated:00 = 'complete', used to strengthen a word, often in criticism; perfect%5:00:00:exact:00 = exactly right, with no mistakes; perfect%2:30:00:: = the verb meaning to make something as good as possible.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "perfect%5:00:00:exact:00",
+      "lemma": "perfect",
+      "pos": "a",
+      "definition": "precisely accurate or exact",
+      "decision": "gloss",
+      "simpleMeaning": "exactly right, with no mistakes.",
+      "scope": "Not the grammar tense and not the informal 'complete' use; here it means exactly accurate.",
+      "examples": [
+        "The model is a perfect copy of the original.",
+        "Her description was perfect in every detail."
+      ],
+      "branchCoverage": [
+        "precisely accurate or exact -> exactly right, with no mistakes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "perfect%1:24:00:: = the grammar tense for completed actions; perfect%5:00:00:unmitigated:00 = 'complete', used to strengthen a word, often in criticism; perfect%5:00:00:exact:00 = exactly right, with no mistakes; perfect%2:30:00:: = the verb meaning to make something as good as possible.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "perfect%2:30:00::",
+      "lemma": "perfect",
+      "pos": "v",
+      "definition": "make perfect or complete",
+      "decision": "gloss",
+      "simpleMeaning": "to make something as good as it can be.",
+      "scope": "Not describing something as faultless; here it is the action of improving something until it is as good as possible.",
+      "examples": [
+        "She practised every day to perfect her serve.",
+        "The engineers are still perfecting the design."
+      ],
+      "branchCoverage": [
+        "make perfect or complete -> make something as good as it can be"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "perfect%1:24:00:: = the grammar tense for completed actions; perfect%5:00:00:unmitigated:00 = 'complete', used to strengthen a word, often in criticism; perfect%5:00:00:exact:00 = exactly right, with no mistakes; perfect%2:30:00:: = the verb meaning to make something as good as possible.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "personal%3:00:00::",
+      "lemma": "personal",
+      "pos": "a",
+      "definition": "concerning or affecting a particular person or his or her private life and personality",
+      "decision": "gloss",
+      "simpleMeaning": "about one particular person, their private life and their own character.",
+      "scope": "Not the grammar term for pronouns and not qualities that come from someone's nature; here it means private and belonging to one person.",
+      "examples": [
+        "She never talks about her personal life at work.",
+        "Please keep your personal documents in a safe place."
+      ],
+      "branchCoverage": [
+        "concerning or affecting a particular person or his or her private life and personality -> about one particular person, their private life and their own character"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "personal%3:00:00:: = about one person's private life and character; personal%3:01:00:: = the grammar term showing which person a word refers to; personal%3:01:01:: = coming from someone's nature, such as charm.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "personal%3:01:00::",
+      "lemma": "personal",
+      "pos": "a",
+      "definition": "indicating grammatical person",
+      "decision": "gloss",
+      "simpleMeaning": "showing who is speaking, who is spoken to, or who is spoken about in a sentence.",
+      "scope": "Not about private life and not about someone's character; here it is the grammar term for words that show which person a sentence is about.",
+      "examples": [
+        "Words like 'I', 'you' and 'they' are called personal pronouns.",
+        "The exercise asks you to choose the correct personal pronoun."
+      ],
+      "branchCoverage": [
+        "indicating grammatical person -> showing who is speaking, who is spoken to, or who is spoken about in a sentence"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "personal%3:00:00:: = about one person's private life and character; personal%3:01:00:: = the grammar term showing which person a word refers to; personal%3:01:01:: = coming from someone's nature, such as charm.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "personal%3:01:01::",
+      "lemma": "personal",
+      "pos": "a",
+      "definition": "of or arising from personality",
+      "decision": "gloss",
+      "simpleMeaning": "coming from a person's nature, such as charm or courage.",
+      "scope": "Not meaning private or belonging to one person; here it describes qualities that grow out of someone's nature.",
+      "examples": [
+        "Her personal charm made everyone feel welcome.",
+        "He is known for his personal warmth and humour."
+      ],
+      "branchCoverage": [
+        "of or arising from personality -> coming from a person's nature, such as charm or courage"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "personal%3:00:00:: = about one person's private life and character; personal%3:01:00:: = the grammar term showing which person a word refers to; personal%3:01:01:: = coming from someone's nature, such as charm.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

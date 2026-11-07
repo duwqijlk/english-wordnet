@@ -1,0 +1,1013 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 33,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1600,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "acting%5:00:00:impermanent:00",
+      "lemma": "acting",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "serving temporarily especially as a substitute",
+      "synsetId": "01760678-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1471,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "serving temporarily especially as a substitute"
+      ]
+    },
+    {
+      "senseId": "benefit%2:40:00::",
+      "lemma": "benefit",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "derive a benefit from",
+      "synsetId": "02295422-v",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1474,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "derive a benefit from"
+      ]
+    },
+    {
+      "senseId": "benefit%2:40:01::",
+      "lemma": "benefit",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "be beneficial for",
+      "synsetId": "02295917-v",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1474,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be beneficial for"
+      ]
+    },
+    {
+      "senseId": "budget%1:21:03::",
+      "lemma": "budget",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a summary of intended expenditures along with proposals for how to meet them",
+      "synsetId": "13442635-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1475,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a summary of intended expenditures along with proposals for how to meet them"
+      ]
+    },
+    {
+      "senseId": "budget%2:31:00::",
+      "lemma": "budget",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make a budget",
+      "synsetId": "00725991-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1475,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make a budget"
+      ]
+    },
+    {
+      "senseId": "estate%1:14:00::",
+      "lemma": "estate",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a major social class or order of persons regarded collectively as part of the body politic of the country (especially in the United Kingdom) and formerly possessing distinct political rights",
+      "synsetId": "08184264-n",
+      "words": 30,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1476,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a major social class or order of persons regarded collectively as part of the body politic of the country (especially in the United Kingdom) and formerly possessing distinct political rights"
+      ]
+    },
+    {
+      "senseId": "estate%1:21:01::",
+      "lemma": "estate",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "extensive landed property (especially in the country) retained by the owner for their own use",
+      "synsetId": "13267561-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1476,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "extensive landed property (especially in the country) retained by the owner for their own use"
+      ]
+    },
+    {
+      "senseId": "faith%1:09:00::",
+      "lemma": "faith",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a strong belief in a supernatural power or powers that control human destiny",
+      "synsetId": "05955536-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1478,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a strong belief in a supernatural power or powers that control human destiny"
+      ]
+    },
+    {
+      "senseId": "faith%1:14:00::",
+      "lemma": "faith",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an institution to express belief in a divine power",
+      "synsetId": "08098545-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1478,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an institution to express belief in a divine power"
+      ]
+    },
+    {
+      "senseId": "fashion%2:36:00::",
+      "lemma": "fashion",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make out of components (often in an improvising manner)",
+      "synsetId": "01662082-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1479,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make out of components (often in an improvising manner)"
+      ]
+    },
+    {
+      "senseId": "feature%1:08:00::",
+      "lemma": "feature",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the characteristic parts of a person's face: eyes and nose and mouth and chin",
+      "synsetId": "05609513-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1480,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the characteristic parts of a person's face: eyes and nose and mouth and chin",
+        "after colon: eyes and nose and mouth and chin"
+      ]
+    },
+    {
+      "senseId": "feature%1:09:00::",
+      "lemma": "feature",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a prominent attribute or aspect of something",
+      "synsetId": "05858316-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1480,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a prominent attribute or aspect of something"
+      ]
+    },
+    {
+      "senseId": "feature%2:42:01::",
+      "lemma": "feature",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "wear or display in an ostentatious or proud manner",
+      "synsetId": "02637740-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1480,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "wear or display in an ostentatious or proud manner"
+      ]
+    },
+    {
+      "senseId": "feature%2:42:00::",
+      "lemma": "feature",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "have as a feature",
+      "synsetId": "02636270-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1480,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have as a feature"
+      ]
+    },
+    {
+      "senseId": "fund%1:14:00::",
+      "lemma": "fund",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a financial institution that sells shares to individuals and invests in securities issued by other companies",
+      "synsetId": "08087686-n",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1481,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a financial institution that sells shares to individuals and invests in securities issued by other companies"
+      ]
+    },
+    {
+      "senseId": "fund%2:40:02::",
+      "lemma": "fund",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds",
+      "synsetId": "02223706-v",
+      "words": 18,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1481,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds"
+      ]
+    },
+    {
+      "senseId": "generation%1:14:00::",
+      "lemma": "generation",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "group of genetically related organisms constituting a single step in the line of descent",
+      "synsetId": "08385834-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1482,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "group of genetically related organisms constituting a single step in the line of descent"
+      ]
+    },
+    {
+      "senseId": "generation%1:28:00::",
+      "lemma": "generation",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the normal time between successive generations",
+      "synsetId": "15274447-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1482,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the normal time between successive generations"
+      ]
+    },
+    {
+      "senseId": "hill%1:06:01::",
+      "lemma": "hill",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "structure consisting of an artificial heap or bank usually of earth or stones",
+      "synsetId": "03797581-n",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1484,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "structure consisting of an artificial heap or bank usually of earth or stones"
+      ]
+    },
+    {
+      "senseId": "larger%5:00:00:large:00",
+      "lemma": "larger",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "large or big relative to something else",
+      "synsetId": "01386690-s",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1485,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "large or big relative to something else"
+      ]
+    },
+    {
+      "senseId": "metal%1:27:01::",
+      "lemma": "metal",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+      "synsetId": "14610949-n",
+      "words": 23,
+      "rare": 8,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1486,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten"
+      ]
+    },
+    {
+      "senseId": "metal%3:00:00::",
+      "lemma": "metal",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "containing or made of or resembling or characteristic of a metal",
+      "synsetId": "01531539-a",
+      "words": 11,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1486,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "containing or made of or resembling or characteristic of a metal"
+      ]
+    },
+    {
+      "senseId": "metal%2:35:00::",
+      "lemma": "metal",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "cover with metal",
+      "synsetId": "01606224-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1486,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cover with metal"
+      ]
+    },
+    {
+      "senseId": "profile%1:10:01::",
+      "lemma": "profile",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an analysis (often in graphical form) representing the extent to which something exhibits various characteristics",
+      "synsetId": "07015715-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1488,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an analysis (often in graphical form) representing the extent to which something exhibits various characteristics"
+      ]
+    },
+    {
+      "senseId": "profile%2:36:00::",
+      "lemma": "profile",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "represent in profile, by drawing or painting",
+      "synsetId": "01684808-v",
+      "words": 7,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1488,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "represent in profile, by drawing or painting"
+      ]
+    },
+    {
+      "senseId": "pull%2:35:02::",
+      "lemma": "pull",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "direct toward itself or oneself by means of some psychological power or physical attributes",
+      "synsetId": "01507886-v",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1489,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "direct toward itself or oneself by means of some psychological power or physical attributes"
+      ]
+    },
+    {
+      "senseId": "rose%1:13:00::",
+      "lemma": "rose",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "pinkish table wine from red grapes whose skins were removed after fermentation began",
+      "synsetId": "07909228-n",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1492,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "pinkish table wine from red grapes whose skins were removed after fermentation began"
+      ]
+    },
+    {
+      "senseId": "rose%1:20:00::",
+      "lemma": "rose",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any of many shrubs of the genus Rosa that bear roses",
+      "synsetId": "12640957-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1492,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any of many shrubs of the genus Rosa that bear roses"
+      ]
+    },
+    {
+      "senseId": "rose%5:00:00:chromatic:00",
+      "lemma": "rose",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of something having a dusty purplish pink color",
+      "synsetId": "00383235-s",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1492,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of something having a dusty purplish pink color"
+      ]
+    },
+    {
+      "senseId": "target%1:18:00::",
+      "lemma": "target",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence",
+      "synsetId": "10490045-n",
+      "words": 22,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1495,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence"
+      ]
+    },
+    {
+      "senseId": "target%1:15:00::",
+      "lemma": "target",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the location of the target that is to be hit",
+      "synsetId": "08678672-n",
+      "words": 10,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1495,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the location of the target that is to be hit"
+      ]
+    },
+    {
+      "senseId": "understanding%5:00:00:perceptive:00",
+      "lemma": "understanding",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "characterized by understanding based on comprehension and discernment and empathy",
+      "synsetId": "01750195-s",
+      "words": 10,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1496,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterized by understanding based on comprehension and discernment and empathy"
+      ]
+    },
+    {
+      "senseId": "understanding%1:09:01::",
+      "lemma": "understanding",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the cognitive condition of someone who understands",
+      "synsetId": "05813483-n",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1496,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the cognitive condition of someone who understands"
+      ]
+    },
+    {
+      "senseId": "agent%1:18:02::",
+      "lemma": "agent",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a representative who acts on behalf of other persons or organizations",
+      "synsetId": "09796794-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1498,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a representative who acts on behalf of other persons or organizations"
+      ]
+    },
+    {
+      "senseId": "agent%1:17:00::",
+      "lemma": "agent",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an active and efficient cause; capable of producing a certain effect",
+      "synsetId": "09213796-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1498,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an active and efficient cause",
+        "capable of producing a certain effect"
+      ]
+    },
+    {
+      "senseId": "animal%1:03:00::",
+      "lemma": "animal",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a living organism characterized by voluntary movement",
+      "synsetId": "00015568-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1499,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a living organism characterized by voluntary movement"
+      ]
+    },
+    {
+      "senseId": "animal%5:00:00:physical:00",
+      "lemma": "animal",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "marked by the appetites and passions of the body",
+      "synsetId": "01783117-s",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1499,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by the appetites and passions of the body"
+      ]
+    },
+    {
+      "senseId": "apply%2:42:00::",
+      "lemma": "apply",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "be pertinent or relevant or applicable",
+      "synsetId": "02682599-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1500,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be pertinent or relevant or applicable"
+      ]
+    },
+    {
+      "senseId": "authority%1:18:01::",
+      "lemma": "authority",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(usually plural) persons who exercise (administrative) control over others",
+      "synsetId": "09844011-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1501,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(usually plural) persons who exercise (administrative) control over others"
+      ]
+    },
+    {
+      "senseId": "basis%1:09:00::",
+      "lemma": "basis",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the fundamental assumptions from which something is begun or developed or calculated or explained",
+      "synsetId": "05801562-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1502,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the fundamental assumptions from which something is begun or developed or calculated or explained"
+      ]
+    },
+    {
+      "senseId": "draw%1:11:00::",
+      "lemma": "draw",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the finish of a contest in which the score is tied and the winner is undecided",
+      "synsetId": "07368316-n",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1504,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the finish of a contest in which the score is tied and the winner is undecided"
+      ]
+    },
+    {
+      "senseId": "draw%1:17:00::",
+      "lemma": "draw",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a gully that is shallower than a ravine",
+      "synsetId": "09292788-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1504,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a gully that is shallower than a ravine"
+      ]
+    },
+    {
+      "senseId": "draw%1:18:00::",
+      "lemma": "draw",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an entertainer who attracts large audiences",
+      "synsetId": "10052401-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1504,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an entertainer who attracts large audiences"
+      ]
+    },
+    {
+      "senseId": "enter%2:41:06::",
+      "lemma": "enter",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "register formally as a participant or member",
+      "synsetId": "02476750-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1506,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "register formally as a participant or member"
+      ]
+    },
+    {
+      "senseId": "gain%1:07:01::",
+      "lemma": "gain",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the amount of increase in signal power or voltage or current expressed as the ratio of output to input",
+      "synsetId": "05116624-n",
+      "words": 19,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1510,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the amount of increase in signal power or voltage or current expressed as the ratio of output to input"
+      ]
+    },
+    {
+      "senseId": "memory%1:09:01::",
+      "lemma": "memory",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the cognitive processes whereby past experience is remembered",
+      "synsetId": "05768199-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1513,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the cognitive processes whereby past experience is remembered"
+      ]
+    },
+    {
+      "senseId": "prime%2:30:00::",
+      "lemma": "prime",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "insert a primer into (a gun, mine, or charge) preparatory to detonation or firing",
+      "synsetId": "00409549-v",
+      "words": 14,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1514,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "insert a primer into (a gun, mine, or charge) preparatory to detonation or firing"
+      ]
+    },
+    {
+      "senseId": "prime%2:30:01::",
+      "lemma": "prime",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "fill with priming liquid",
+      "synsetId": "00454973-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1514,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "fill with priming liquid"
+      ]
+    },
+    {
+      "senseId": "prime%2:35:00::",
+      "lemma": "prime",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "cover with a primer; apply a primer to",
+      "synsetId": "01368058-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1514,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cover with a primer",
+        "apply a primer to"
+      ]
+    },
+    {
+      "senseId": "ring%1:06:02::",
+      "lemma": "ring",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling",
+      "synsetId": "03539152-n",
+      "words": 20,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1516,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling"
+      ]
+    }
+  ]
+}

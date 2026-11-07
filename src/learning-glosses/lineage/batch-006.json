@@ -1,0 +1,1024 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 6,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 250,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "small%3:00:00::",
+      "lemma": "small",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "limited or below average in number or quantity or magnitude or extent",
+      "synsetId": "01394303-a",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 304,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "limited or below average in number or quantity or magnitude or extent"
+      ]
+    },
+    {
+      "senseId": "small%5:00:00:limited:00",
+      "lemma": "small",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "relatively moderate, limited, or small",
+      "synsetId": "01418056-s",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 304,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "relatively moderate, limited, or small"
+      ]
+    },
+    {
+      "senseId": "small%1:07:00::",
+      "lemma": "small",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a garment size for a small person",
+      "synsetId": "05104343-n",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 304,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a garment size for a small person"
+      ]
+    },
+    {
+      "senseId": "small%4:02:00::",
+      "lemma": "small",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "on a small scale",
+      "synsetId": "00227588-r",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 304,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "on a small scale"
+      ]
+    },
+    {
+      "senseId": "white%1:13:00::",
+      "lemma": "white",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water",
+      "synsetId": "07857013-n",
+      "words": 22,
+      "rare": 11,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 306,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the white part of an egg",
+        "the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water"
+      ]
+    },
+    {
+      "senseId": "white%3:00:01::",
+      "lemma": "white",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light",
+      "synsetId": "00394166-a",
+      "words": 21,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 306,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "being of the achromatic color of maximum lightness",
+        "having little or no hue owing to reflection of almost all incident light"
+      ]
+    },
+    {
+      "senseId": "white%1:07:00::",
+      "lemma": "white",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)",
+      "synsetId": "04967906-n",
+      "words": 17,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 306,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)"
+      ]
+    },
+    {
+      "senseId": "white%5:00:00:pure:01",
+      "lemma": "white",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "free from moral blemish or impurity; unsullied",
+      "synsetId": "01911414-s",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 306,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "free from moral blemish or impurity",
+        "unsullied"
+      ]
+    },
+    {
+      "senseId": "white%3:00:02::",
+      "lemma": "white",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "of or belonging to a racial group having light skin coloration",
+      "synsetId": "00244146-a",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 306,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or belonging to a racial group having light skin coloration"
+      ]
+    },
+    {
+      "senseId": "white%2:30:00::",
+      "lemma": "white",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "turn white",
+      "synsetId": "00281071-v",
+      "words": 2,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 306,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "turn white"
+      ]
+    },
+    {
+      "senseId": "try%1:04:00::",
+      "lemma": "try",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "earnest and conscientious activity intended to do or accomplish something",
+      "synsetId": "00787849-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 312,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "earnest and conscientious activity intended to do or accomplish something"
+      ]
+    },
+    {
+      "senseId": "actually%4:02:00::",
+      "lemma": "actually",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "used to imply that one would expect the fact to be the opposite of that stated; surprisingly",
+      "synsetId": "00150196-r",
+      "words": 17,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 315,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "used to imply that one would expect the fact to be the opposite of that stated",
+        "surprisingly"
+      ]
+    },
+    {
+      "senseId": "actually%4:02:01::",
+      "lemma": "actually",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "in actual fact",
+      "synsetId": "00150568-r",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 315,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in actual fact"
+      ]
+    },
+    {
+      "senseId": "less%4:02:00::",
+      "lemma": "less",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "used to form the comparative of some adjectives and adverbs, indicates that the adjective or adverb is less of something",
+      "synsetId": "00100077-r",
+      "words": 20,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 317,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "used to form the comparative of some adjectives and adverbs, indicates that the adjective or adverb is less of something"
+      ]
+    },
+    {
+      "senseId": "less%5:00:00:fewer:00",
+      "lemma": "less",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(nonstandard in some uses but often idiomatic with measure phrases) fewer",
+      "synsetId": "01561306-s",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 317,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(nonstandard in some uses but often idiomatic with measure phrases) fewer"
+      ]
+    },
+    {
+      "senseId": "less%3:00:00::",
+      "lemma": "less",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(comparative of ‘little’ usually used with mass nouns) a quantifier meaning not as great in amount or degree",
+      "synsetId": "01559809-a",
+      "words": 18,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 317,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(comparative of ‘little’ usually used with mass nouns) a quantifier meaning not as great in amount or degree"
+      ]
+    },
+    {
+      "senseId": "line%1:10:01::",
+      "lemma": "line",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a mark that is long relative to its width",
+      "synsetId": "06812755-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 318,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mark that is long relative to its width"
+      ]
+    },
+    {
+      "senseId": "order%2:32:02::",
+      "lemma": "order",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "issue commands or orders for",
+      "synsetId": "00749139-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 319,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "issue commands or orders for"
+      ]
+    },
+    {
+      "senseId": "party%2:41:00::",
+      "lemma": "party",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "have or participate in a party",
+      "synsetId": "02497500-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 320,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have or participate in a party"
+      ]
+    },
+    {
+      "senseId": "run%2:38:04::",
+      "lemma": "run",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "flee; take to one's heels; cut and run",
+      "synsetId": "02079296-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 321,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "flee",
+        "take to one's heels",
+        "cut and run"
+      ]
+    },
+    {
+      "senseId": "run%2:42:00::",
+      "lemma": "run",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point",
+      "synsetId": "02691775-v",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 321,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "stretch out over a distance, space, time, or scope",
+        "run or extend between two points or beyond a certain point"
+      ]
+    },
+    {
+      "senseId": "service%1:04:00::",
+      "lemma": "service",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an act of help or assistance; something (such as a tool, software or system) used to render said help or assistance",
+      "synsetId": "01212066-n",
+      "words": 21,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 323,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an act of help or assistance",
+        "something (such as a tool, software or system) used to render said help or assistance"
+      ]
+    },
+    {
+      "senseId": "country%1:14:01::",
+      "lemma": "country",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the people who live in a nation or country",
+      "synsetId": "08183451-n",
+      "words": 9,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 324,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the people who live in a nation or country"
+      ]
+    },
+    {
+      "senseId": "open%3:00:01::",
+      "lemma": "open",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "affording unobstructed entrance and exit; not shut or closed",
+      "synsetId": "01656822-a",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 325,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "affording unobstructed entrance and exit",
+        "not shut or closed"
+      ]
+    },
+    {
+      "senseId": "open%1:11:00::",
+      "lemma": "open",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a tournament in which both professionals and amateurs may play",
+      "synsetId": "07480116-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 325,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a tournament in which both professionals and amateurs may play"
+      ]
+    },
+    {
+      "senseId": "season%1:28:00::",
+      "lemma": "season",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions",
+      "synsetId": "15261272-n",
+      "words": 19,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 326,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions"
+      ]
+    },
+    {
+      "senseId": "season%1:28:01::",
+      "lemma": "season",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a recurrent time marked by major holidays",
+      "synsetId": "15264089-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 326,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a recurrent time marked by major holidays"
+      ]
+    },
+    {
+      "senseId": "season%2:30:01::",
+      "lemma": "season",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "make more temperate, acceptable, or suitable by adding something else",
+      "synsetId": "00295646-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 326,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make more temperate, acceptable, or suitable by adding something else"
+      ]
+    },
+    {
+      "senseId": "general%5:00:00:common:01",
+      "lemma": "general",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "prevailing among and common to the general public",
+      "synsetId": "00489185-s",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 330,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "prevailing among and common to the general public"
+      ]
+    },
+    {
+      "senseId": "general%2:32:00::",
+      "lemma": "general",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "command as a general",
+      "synsetId": "00754199-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 330,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "command as a general"
+      ]
+    },
+    {
+      "senseId": "united%3:00:00::",
+      "lemma": "united",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "characterized by unity; being or joined into a single entity",
+      "synsetId": "02485330-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 332,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterized by unity",
+        "being or joined into a single entity"
+      ]
+    },
+    {
+      "senseId": "using%1:04:00::",
+      "lemma": "using",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an act that exploits or victimizes someone (treats them unfairly)",
+      "synsetId": "00419916-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 333,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an act that exploits or victimizes someone (treats them unfairly)"
+      ]
+    },
+    {
+      "senseId": "area%1:15:01::",
+      "lemma": "area",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
+      "synsetId": "08514304-n",
+      "words": 21,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 334,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ]
+    },
+    {
+      "senseId": "area%1:08:00::",
+      "lemma": "area",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a part of an animal that has a special function or is supplied by a given artery or nerve",
+      "synsetId": "05229188-n",
+      "words": 19,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 334,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a part of an animal that has a special function or is supplied by a given artery or nerve"
+      ]
+    },
+    {
+      "senseId": "black%3:00:01::",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light",
+      "synsetId": "00393873-a",
+      "words": 21,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "being of the achromatic color of maximum darkness",
+        "having little or no hue owing to absorption of almost all incident light"
+      ]
+    },
+    {
+      "senseId": "black%3:00:02::",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "of or belonging to a racial group especially of sub-Saharan African origin",
+      "synsetId": "00243558-a",
+      "words": 13,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or belonging to a racial group especially of sub-Saharan African origin"
+      ]
+    },
+    {
+      "senseId": "black%1:07:00::",
+      "lemma": "black",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)",
+      "synsetId": "04967454-n",
+      "words": 17,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+      ]
+    },
+    {
+      "senseId": "black%5:00:00:angry:00",
+      "lemma": "black",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "marked by anger or resentment or hostility",
+      "synsetId": "00115608-s",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by anger or resentment or hostility"
+      ]
+    },
+    {
+      "senseId": "black%2:30:00::",
+      "lemma": "black",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make or become black",
+      "synsetId": "00281302-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 335,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make or become black"
+      ]
+    },
+    {
+      "senseId": "following%1:04:01::",
+      "lemma": "following",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of pursuing in an effort to overtake or capture",
+      "synsetId": "00320765-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 336,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of pursuing in an effort to overtake or capture"
+      ]
+    },
+    {
+      "senseId": "following%1:14:00::",
+      "lemma": "following",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a group of followers or enthusiasts",
+      "synsetId": "08240184-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 336,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a group of followers or enthusiasts"
+      ]
+    },
+    {
+      "senseId": "following%5:00:02:succeeding:00",
+      "lemma": "following",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "immediately following in time or order",
+      "synsetId": "00128838-s",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 336,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "immediately following in time or order"
+      ]
+    },
+    {
+      "senseId": "law%1:09:00::",
+      "lemma": "law",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a rule or body of rules of conduct inherent in human nature and essential to or binding upon human society",
+      "synsetId": "05879538-n",
+      "words": 20,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 337,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a rule or body of rules of conduct inherent in human nature and essential to or binding upon human society"
+      ]
+    },
+    {
+      "senseId": "together%5:00:00:unneurotic:00",
+      "lemma": "together",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "mentally and emotionally stable",
+      "synsetId": "01590602-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 339,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "mentally and emotionally stable"
+      ]
+    },
+    {
+      "senseId": "war%1:04:02::",
+      "lemma": "war",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an active struggle between competing entities",
+      "synsetId": "01238861-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 340,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an active struggle between competing entities"
+      ]
+    },
+    {
+      "senseId": "whole%3:00:00::",
+      "lemma": "whole",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "including all components without exception; being one unit or constituting the full amount or extent or duration; complete",
+      "synsetId": "00516809-a",
+      "words": 18,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 341,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "including all components without exception",
+        "being one unit or constituting the full amount or extent or duration",
+        "complete"
+      ]
+    },
+    {
+      "senseId": "whole%1:03:00::",
+      "lemma": "whole",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an assemblage of parts that is regarded as a single entity",
+      "synsetId": "00003553-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 341,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an assemblage of parts that is regarded as a single entity"
+      ]
+    },
+    {
+      "senseId": "car%1:06:03::",
+      "lemma": "car",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+      "synsetId": "02963937-n",
+      "words": 19,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 342,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant"
+      ]
+    },
+    {
+      "senseId": "car%1:06:00::",
+      "lemma": "car",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+      "synsetId": "02961779-n",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 342,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a motor vehicle with four wheels",
+        "usually propelled by an internal combustion engine"
+      ]
+    },
+    {
+      "senseId": "car%1:06:01::",
+      "lemma": "car",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a wheeled vehicle adapted to the rails of railroad",
+      "synsetId": "02963378-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 342,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a wheeled vehicle adapted to the rails of railroad"
+      ]
+    }
+  ]
+}

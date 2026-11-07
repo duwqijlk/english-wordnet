@@ -1,0 +1,1134 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 37,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 44,
+      "of": 50,
+      "rate": 0.88
+    },
+    "selfApproved": [
+      "liked%3:00:00::",
+      "net%1:06:02::",
+      "cultural%3:01:01::",
+      "existing%5:00:00:present:01",
+      "farm%1:06:00::",
+      "fix%1:04:03::"
+    ],
+    "lineage": {
+      "draft": "d0ad65d5c5399275b9e49dbc1d068bcff54de0875220e208bb014a37cfd45160"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "dress%1:06:01::",
+      "lemma": "dress",
+      "pos": "n",
+      "definition": "clothing of a distinctive style or for a particular occasion",
+      "decision": "gloss",
+      "simpleMeaning": "clothes that have a special style of their own, or clothes chosen for a particular event.",
+      "scope": "This is a noun for clothing of a special style or for an event, not the adjective use that says an occasion requires formal clothes or that clothes suit formal events.",
+      "examples": [
+        "The performers wore traditional dress for the opening ceremony.",
+        "Many guests arrived in formal dress for the awards evening."
+      ],
+      "branchCoverage": [
+        "clothing of a distinctive style or for a particular occasion -> clothes that have a special style of their own, or clothes chosen for a particular event"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "clothing of a distinctive style or for a particular occasion"
+      ],
+      "lemmaPartition": "dress%1:06:01:: -> noun: clothing of a special style or worn for a particular event | dress%5:00:01:formal:01 -> adjective: an occasion that requires formal clothes | dress%5:00:02:formal:01 -> adjective: clothes suitable for formal occasions",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dress%5:00:01:formal:01",
+      "lemma": "dress",
+      "pos": "a",
+      "definition": "(of an occasion) requiring formal clothes",
+      "decision": "gloss",
+      "simpleMeaning": "describing an event at which people are expected to wear formal clothes.",
+      "scope": "This describes an event that calls for formal clothes, not the clothes themselves.",
+      "examples": [
+        "The annual dinner is a dress occasion, so guests wear suits.",
+        "The invitation made it clear that the evening was a dress occasion."
+      ],
+      "branchCoverage": [
+        "(of an occasion) requiring formal clothes -> describing an event at which people are expected to wear formal clothes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of an occasion) requiring formal clothes"
+      ],
+      "lemmaPartition": "dress%1:06:01:: -> noun: clothing of a special style or worn for a particular event | dress%5:00:01:formal:01 -> adjective: an occasion that requires formal clothes | dress%5:00:02:formal:01 -> adjective: clothes suitable for formal occasions",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dress%5:00:02:formal:01",
+      "lemma": "dress",
+      "pos": "a",
+      "definition": "suitable for formal occasions",
+      "decision": "gloss",
+      "simpleMeaning": "describing clothes that are right for formal events.",
+      "scope": "This describes clothes that suit formal events, not the event that requires them.",
+      "examples": [
+        "He polished his dress shoes before the interview.",
+        "The officers wore their dress uniforms at the ceremony."
+      ],
+      "branchCoverage": [
+        "suitable for formal occasions -> describing clothes that are right for formal events"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "suitable for formal occasions"
+      ],
+      "lemmaPartition": "dress%1:06:01:: -> noun: clothing of a special style or worn for a particular event | dress%5:00:01:formal:01 -> adjective: an occasion that requires formal clothes | dress%5:00:02:formal:01 -> adjective: clothes suitable for formal occasions",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "horse%1:05:00::",
+      "lemma": "horse",
+      "pos": "n",
+      "definition": "solid-hoofed herbivorous quadruped domesticated since prehistoric times",
+      "decision": "gloss",
+      "simpleMeaning": "a large four-legged animal with solid hooves that eats plants, kept by humans since prehistoric times.",
+      "scope": "This is the animal itself, not the padded gymnastics equipment and not the verb meaning to supply a place with horses.",
+      "examples": [
+        "She rode her horse along the beach at sunrise.",
+        "The horse grazed quietly in the field."
+      ],
+      "branchCoverage": [
+        "solid-hoofed herbivorous quadruped domesticated since prehistoric times -> a large four-legged animal with solid hooves that eats plants, kept by humans since prehistoric times"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "solid-hoofed herbivorous quadruped domesticated since prehistoric times"
+      ],
+      "lemmaPartition": "horse%1:05:00:: -> the four-legged animal kept by humans | horse%1:06:03:: -> padded gymnastics apparatus on legs | horse%2:34:00:: -> verb: supply with horses (archaic; deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "horse%1:06:03::",
+      "lemma": "horse",
+      "pos": "n",
+      "definition": "a padded gymnastic apparatus on legs",
+      "decision": "gloss",
+      "simpleMeaning": "a padded piece of equipment on legs that gymnasts jump over or use for exercises.",
+      "scope": "This is the padded gymnastics equipment, not the animal and not the verb meaning to supply a place with horses.",
+      "examples": [
+        "The gymnast vaulted cleanly over the horse.",
+        "The coach lowered the horse for the younger students."
+      ],
+      "branchCoverage": [
+        "a padded gymnastic apparatus on legs -> a padded piece of equipment on legs that gymnasts jump over or use for exercises"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a padded gymnastic apparatus on legs"
+      ],
+      "lemmaPartition": "horse%1:05:00:: -> the four-legged animal kept by humans | horse%1:06:03:: -> padded gymnastics apparatus on legs | horse%2:34:00:: -> verb: supply with horses (archaic; deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "horse%2:34:00::",
+      "lemma": "horse",
+      "pos": "v",
+      "definition": "provide with a horse or horses",
+      "decision": "defer",
+      "reason": "This transitive verb is archaic and absent from modern general English; it survives only in historical writing such as 'the stable horsed the coach'. Two idiomatic modern sentences cannot be written without sounding stilted, so the sense offers nothing to a learner reading current English.",
+      "sourceBranches": [
+        "provide with a horse or horses"
+      ],
+      "lemmaPartition": "horse%1:05:00:: -> the four-legged animal kept by humans | horse%1:06:03:: -> padded gymnastics apparatus on legs | horse%2:34:00:: -> verb: supply with horses (archaic; deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "liked%3:00:00::",
+      "lemma": "liked",
+      "pos": "a",
+      "definition": "found pleasant or attractive; often used as a combining form",
+      "decision": "gloss",
+      "simpleMeaning": "considered pleasant or appealing, often used as the second part of a compound such as 'well-liked'.",
+      "scope": "This describes how other people regard someone or something, not a momentary feeling of enjoyment that someone has.",
+      "examples": [
+        "She is a well-liked teacher at the school.",
+        "The most-liked posts appear at the top of the page."
+      ],
+      "branchCoverage": [
+        "found pleasant or attractive -> considered pleasant or appealing",
+        "often used as a combining form -> often used as the second part of a compound such as 'well-liked'"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "found pleasant or attractive",
+        "often used as a combining form"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Illustration 'well-regarded' is a different word, and 'mostly' overstates 'often'; use a 'liked' compound or drop the example."
+    },
+    {
+      "senseId": "magic%1:04:01::",
+      "lemma": "magic",
+      "pos": "n",
+      "definition": "an illusory feat; considered magical by naive observers",
+      "decision": "gloss",
+      "simpleMeaning": "a clever trick that deceives the eye and seems impossible to people who do not know how it is done.",
+      "scope": "This is the performed illusion, not the supposed supernatural force or the adjective describing such a force.",
+      "examples": [
+        "The audience gasped at the magic he performed with coins and cards.",
+        "She performed a simple piece of magic with three cups and a ball."
+      ],
+      "branchCoverage": [
+        "an illusory feat -> a clever trick that deceives the eye",
+        "considered magical by naive observers -> seems impossible to people who do not know how it is done"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an illusory feat",
+        "considered magical by naive observers"
+      ],
+      "lemmaPartition": "magic%1:04:01:: -> noun: a performed illusion or trick | magic%5:00:00:supernatural:00 -> adjective: having or using powers beyond nature",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "magic%5:00:00:supernatural:00",
+      "lemma": "magic",
+      "pos": "a",
+      "definition": "possessing or using or characteristic of or appropriate to supernatural powers",
+      "decision": "gloss",
+      "simpleMeaning": "having, using, typical of, or suited to powers that lie beyond the natural world.",
+      "scope": "This describes a supposed power beyond nature, not a trick performed for an audience.",
+      "examples": [
+        "She wore a magic ring said to grant wishes.",
+        "The old woman was said to have magic powers."
+      ],
+      "branchCoverage": [
+        "possessing or using or characteristic of or appropriate to supernatural powers -> having, using, typical of, or suited to powers that lie beyond the natural world"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "possessing or using or characteristic of or appropriate to supernatural powers"
+      ],
+      "lemmaPartition": "magic%1:04:01:: -> noun: a performed illusion or trick | magic%5:00:00:supernatural:00 -> adjective: having or using powers beyond nature",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "map%2:42:00::",
+      "lemma": "map",
+      "pos": "v",
+      "definition": "locate within a specific region of a chromosome in relation to known DNA or gene sequences",
+      "decision": "gloss",
+      "simpleMeaning": "to work out and record the position of a gene on a chromosome by comparing it with known DNA or gene sequences.",
+      "scope": "This is about finding a gene's position on a chromosome, not about drawing a picture of the earth's surface.",
+      "examples": [
+        "Researchers mapped the gene to a small region of chromosome seven.",
+        "The team mapped the gene in relation to nearby DNA markers."
+      ],
+      "branchCoverage": [
+        "locate within a specific region of a chromosome in relation to known DNA or gene sequences -> to work out and record the position of a gene on a chromosome by comparing it with known DNA or gene sequences"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "locate within a specific region of a chromosome in relation to known DNA or gene sequences"
+      ],
+      "lemmaPartition": "map%2:42:00:: -> verb: locate a gene at a position on a chromosome | map%1:06:00:: -> noun: a drawing of the earth's surface or part of it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "map%1:06:00::",
+      "lemma": "map",
+      "pos": "n",
+      "definition": "a diagrammatic representation of the earth's surface (or part of it)",
+      "decision": "gloss",
+      "simpleMeaning": "a drawing or plan that shows the surface of the earth or a part of it.",
+      "scope": "This is a picture of land or sea, not the act of locating a gene on a chromosome.",
+      "examples": [
+        "We unfolded the map on the table and traced the route.",
+        "The map showed every river in the region."
+      ],
+      "branchCoverage": [
+        "a diagrammatic representation of the earth's surface (or part of it) -> a drawing or plan that shows the surface of the earth or a part of it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a diagrammatic representation of the earth's surface (or part of it)"
+      ],
+      "lemmaPartition": "map%2:42:00:: -> verb: locate a gene at a position on a chromosome | map%1:06:00:: -> noun: a drawing of the earth's surface or part of it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "net%1:06:01::",
+      "lemma": "net",
+      "pos": "n",
+      "definition": "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
+      "decision": "gloss",
+      "simpleMeaning": "the worldwide system of connected computer systems that share data using the TCP/IP rules.",
+      "scope": "This names the global computer system, not a mesh used to catch fish or a profit figure.",
+      "examples": [
+        "He spends hours every evening surfing the net.",
+        "The company started selling its products on the net."
+      ],
+      "branchCoverage": [
+        "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange -> the worldwide system of connected computer systems that share data using the TCP/IP rules"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange"
+      ],
+      "lemmaPartition": "net%1:06:01:: -> the worldwide computer system | net%1:21:00:: -> profit left after all costs | net%1:06:02:: -> a trap of woven cord for catching fish, birds, or insects",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "net%1:21:00::",
+      "lemma": "net",
+      "pos": "n",
+      "definition": "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)",
+      "decision": "gloss",
+      "simpleMeaning": "the amount of profit left when all costs for a period are subtracted from earnings, including non-cash costs such as wear on equipment.",
+      "scope": "This is the money left after costs, not the global computer system or a mesh for catching fish.",
+      "examples": [
+        "The company reported a net of ten million dollars for the year.",
+        "After all costs were counted, the net came to less than a thousand dollars."
+      ],
+      "branchCoverage": [
+        "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses) -> the amount of profit left when all costs for a period are subtracted from earnings, including non-cash costs such as wear on equipment"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)"
+      ],
+      "lemmaPartition": "net%1:06:01:: -> the worldwide computer system | net%1:21:00:: -> profit left after all costs | net%1:06:02:: -> a trap of woven cord for catching fish, birds, or insects",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "net%1:06:02::",
+      "lemma": "net",
+      "pos": "n",
+      "definition": "a trap made of netting to catch fish or birds or insects",
+      "decision": "gloss",
+      "simpleMeaning": "a trap made of cord woven with open spaces, used to catch fish, birds, or insects.",
+      "scope": "This is the catching device, not the global computer system or a profit figure.",
+      "examples": [
+        "The fisherman hauled in his net full of silver fish.",
+        "The net caught three birds before the farmer freed them."
+      ],
+      "branchCoverage": [
+        "a trap made of netting to catch fish or birds or insects -> a trap made of cord woven with open spaces, used to catch fish, birds, or insects"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a trap made of netting to catch fish or birds or insects"
+      ],
+      "lemmaPartition": "net%1:06:01:: -> the worldwide computer system | net%1:21:00:: -> profit left after all costs | net%1:06:02:: -> a trap of woven cord for catching fish, birds, or insects",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example is protective netting over fruit, not a trap; replace it with a catching-net example."
+    },
+    {
+      "senseId": "request%1:10:01::",
+      "lemma": "request",
+      "pos": "n",
+      "definition": "a formal message requesting something that is submitted to an authority",
+      "decision": "gloss",
+      "simpleMeaning": "a formal message sent to a person in power asking for something.",
+      "scope": "This is the official message itself, not the act of asking in words.",
+      "examples": [
+        "She submitted a request for extra funding to the committee.",
+        "The city received a formal request to rename the street."
+      ],
+      "branchCoverage": [
+        "a formal message requesting something that is submitted to an authority -> a formal message sent to a person in power asking for something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a formal message requesting something that is submitted to an authority"
+      ],
+      "lemmaPartition": "request%1:10:01:: -> noun: an official message asking an authority for something | request%1:10:00:: -> noun: the act of asking for something in words",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "request%1:10:00::",
+      "lemma": "request",
+      "pos": "n",
+      "definition": "the verbal act of requesting",
+      "decision": "gloss",
+      "simpleMeaning": "the act of asking for something in words.",
+      "scope": "This is the act of asking, not the official message sent to an authority.",
+      "examples": [
+        "At his request, the meeting was moved to Friday.",
+        "The band played the song again at the request of the crowd."
+      ],
+      "branchCoverage": [
+        "the verbal act of requesting -> the act of asking for something in words"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the verbal act of requesting"
+      ],
+      "lemmaPartition": "request%1:10:01:: -> noun: an official message asking an authority for something | request%1:10:00:: -> noun: the act of asking for something in words",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stick%1:06:03::",
+      "lemma": "stick",
+      "pos": "n",
+      "definition": "a lever used by a pilot to control the ailerons and elevators of an airplane",
+      "decision": "gloss",
+      "simpleMeaning": "a lever that a pilot moves to work the hinged flaps on an aircraft's wings and tail.",
+      "scope": "This is the lever a pilot uses in an aircraft, not the verb meaning to cling to a surface.",
+      "examples": [
+        "The pilot pulled back on the stick to raise the nose.",
+        "He gripped the stick as the plane began to climb."
+      ],
+      "branchCoverage": [
+        "a lever used by a pilot to control the ailerons and elevators of an airplane -> a lever that a pilot moves to work the hinged flaps on an aircraft's wings and tail"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a lever used by a pilot to control the ailerons and elevators of an airplane"
+      ],
+      "lemmaPartition": "stick%1:06:03:: -> noun: the lever a pilot uses to control an aircraft | stick%2:35:00:: -> verb: cling firmly to a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stick%2:35:00::",
+      "lemma": "stick",
+      "pos": "v",
+      "definition": "stick to firmly",
+      "decision": "gloss",
+      "simpleMeaning": "to cling tightly to a surface or to something else and not come away.",
+      "scope": "This is about clinging to a surface, not the lever that controls an aircraft.",
+      "examples": [
+        "The plaster had stuck firmly to the wall.",
+        "Use glue that will stick to plastic."
+      ],
+      "branchCoverage": [
+        "stick to firmly -> to cling tightly to a surface or to something else and not come away"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "stick to firmly"
+      ],
+      "lemmaPartition": "stick%1:06:03:: -> noun: the lever a pilot uses to control an aircraft | stick%2:35:00:: -> verb: cling firmly to a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "vehicle%1:27:00::",
+      "lemma": "vehicle",
+      "pos": "n",
+      "definition": "any substance that facilitates the use of a drug or pigment or other material that is mixed with it",
+      "decision": "gloss",
+      "simpleMeaning": "a substance mixed with a drug, colouring, or other material to help carry or apply it.",
+      "scope": "This is a mixing substance, not a machine that carries people and goods and not a means of expressing ideas.",
+      "examples": [
+        "The medicine is dissolved in an oily vehicle before injection.",
+        "The artist mixed the pigment with a vehicle that dries slowly."
+      ],
+      "branchCoverage": [
+        "any substance that facilitates the use of a drug or pigment or other material that is mixed with it -> a substance mixed with a drug, colouring, or other material to help carry or apply it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any substance that facilitates the use of a drug or pigment or other material that is mixed with it"
+      ],
+      "lemmaPartition": "vehicle%1:27:00:: -> a substance mixed with a drug or colour to help apply it | vehicle%1:06:00:: -> a machine that carries people or goods | vehicle%1:10:00:: -> a means of expressing or achieving something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "vehicle%1:06:00::",
+      "lemma": "vehicle",
+      "pos": "n",
+      "definition": "a conveyance that transports people or objects",
+      "decision": "gloss",
+      "simpleMeaning": "a machine used for transport that carries people or things from one place to another.",
+      "scope": "This is a transport machine, not a mixing substance and not a means of expressing or achieving something.",
+      "examples": [
+        "The vehicle broke down on the motorway.",
+        "Only emergency vehicles were allowed through."
+      ],
+      "branchCoverage": [
+        "a conveyance that transports people or objects -> a machine used for transport that carries people or things from one place to another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a conveyance that transports people or objects"
+      ],
+      "lemmaPartition": "vehicle%1:27:00:: -> a substance mixed with a drug or colour to help apply it | vehicle%1:06:00:: -> a machine that carries people or goods | vehicle%1:10:00:: -> a means of expressing or achieving something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "vehicle%1:10:00::",
+      "lemma": "vehicle",
+      "pos": "n",
+      "definition": "a medium for the expression or achievement of something",
+      "decision": "gloss",
+      "simpleMeaning": "something that serves as a means for expressing an idea or for achieving a result.",
+      "scope": "This is a means of expression or achievement, not a transport machine and not a mixing substance.",
+      "examples": [
+        "The newspaper became a vehicle for political debate.",
+        "Sport is a powerful vehicle for social change."
+      ],
+      "branchCoverage": [
+        "a medium for the expression or achievement of something -> something that serves as a means for expressing an idea or for achieving a result"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a medium for the expression or achievement of something"
+      ],
+      "lemmaPartition": "vehicle%1:27:00:: -> a substance mixed with a drug or colour to help apply it | vehicle%1:06:00:: -> a machine that carries people or goods | vehicle%1:10:00:: -> a means of expressing or achieving something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "volume%1:06:00::",
+      "lemma": "volume",
+      "pos": "n",
+      "definition": "physical objects consisting of a number of pages bound together",
+      "decision": "gloss",
+      "simpleMeaning": "a book made of pages joined together inside a cover.",
+      "scope": "This is a bound book, not the amount of space an object takes up.",
+      "examples": [
+        "The library keeps old volumes in a locked room.",
+        "She pulled a heavy volume from the shelf."
+      ],
+      "branchCoverage": [
+        "physical objects consisting of a number of pages bound together -> a book made of pages joined together inside a cover"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "physical objects consisting of a number of pages bound together"
+      ],
+      "lemmaPartition": "volume%1:06:00:: -> noun: a bound book | volume%1:23:00:: -> noun: the amount of three-dimensional space an object fills",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "volume%1:23:00::",
+      "lemma": "volume",
+      "pos": "n",
+      "definition": "the amount of 3-dimensional space occupied by an object",
+      "decision": "gloss",
+      "simpleMeaning": "the amount of space in three dimensions that an object fills.",
+      "scope": "This is the space an object fills, not a bound book.",
+      "examples": [
+        "The volume of the tank was measured in litres.",
+        "As the gas warms, its volume increases."
+      ],
+      "branchCoverage": [
+        "the amount of 3-dimensional space occupied by an object -> the amount of space in three dimensions that an object fills"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the amount of 3-dimensional space occupied by an object"
+      ],
+      "lemmaPartition": "volume%1:06:00:: -> noun: a bound book | volume%1:23:00:: -> noun: the amount of three-dimensional space an object fills",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wake%1:04:00::",
+      "lemma": "wake",
+      "pos": "n",
+      "definition": "a vigil held over a corpse the night before burial",
+      "decision": "gloss",
+      "simpleMeaning": "a night-time watch kept beside a dead body before it is buried.",
+      "scope": "This is the night watch over a dead body, not the waves left behind a boat and not the verb meaning to stir up feelings.",
+      "examples": [
+        "The family held a wake for him in the front room.",
+        "Friends came to the wake and told stories about her."
+      ],
+      "branchCoverage": [
+        "a vigil held over a corpse the night before burial -> a night-time watch kept beside a dead body before it is buried"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a vigil held over a corpse the night before burial"
+      ],
+      "lemmaPartition": "wake%1:04:00:: -> noun: a night watch over a dead body before burial | wake%1:11:00:: -> noun: the waves left behind a moving boat | wake%2:37:00:: -> verb: stir up feelings or passions",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wake%1:11:00::",
+      "lemma": "wake",
+      "pos": "n",
+      "definition": "the wave that spreads behind a boat as it moves forward",
+      "decision": "gloss",
+      "simpleMeaning": "the spreading line of waves that a boat leaves behind as it moves forward.",
+      "scope": "This is the water left behind a moving boat, not the night watch over a dead body and not the verb meaning to stir up feelings.",
+      "examples": [
+        "The ferry left a long white wake across the bay.",
+        "Small boats rocked in the wake of the ship."
+      ],
+      "branchCoverage": [
+        "the wave that spreads behind a boat as it moves forward -> the spreading line of waves that a boat leaves behind as it moves forward"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the wave that spreads behind a boat as it moves forward"
+      ],
+      "lemmaPartition": "wake%1:04:00:: -> noun: a night watch over a dead body before burial | wake%1:11:00:: -> noun: the waves left behind a moving boat | wake%2:37:00:: -> verb: stir up feelings or passions",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wake%2:37:00::",
+      "lemma": "wake",
+      "pos": "v",
+      "definition": "arouse or excite feelings and passions",
+      "decision": "gloss",
+      "simpleMeaning": "to stir up strong feelings or passions in someone.",
+      "scope": "This is not the ceremony held over a dead body before burial, and not the trail of water left behind a moving boat; it is about stirring up emotions.",
+      "examples": [
+        "Her letter woke old jealousy in him.",
+        "The song woke a longing she had long forgotten."
+      ],
+      "branchCoverage": [
+        "arouse or excite feelings and passions -> to stir up strong feelings or passions in someone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "arouse or excite feelings and passions"
+      ],
+      "lemmaPartition": "wake%1:04:00:: = noun: the vigil held over a corpse the night before burial\nwake%1:11:00:: = noun: the wave trail spreading behind a moving boat\nwake%2:37:00:: = verb: to stir up feelings or passions",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "aid%1:04:00::",
+      "lemma": "aid",
+      "pos": "n",
+      "definition": "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose",
+      "decision": "gloss",
+      "simpleMeaning": "the act of giving help that meets a need or moves an effort or purpose forward.",
+      "scope": "This is not a person or object that gives help, nor money given to a country or group; it names the activity of helping itself.",
+      "examples": [
+        "He came to the aid of the injured cyclist.",
+        "The project moved forward with the aid of experienced volunteers."
+      ],
+      "branchCoverage": [
+        "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose -> the act of giving help that meets a need or moves an effort or purpose forward"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beauty%1:07:00::",
+      "lemma": "beauty",
+      "pos": "n",
+      "definition": "the qualities that give pleasure to the senses",
+      "decision": "gloss",
+      "simpleMeaning": "the qualities that make something a pleasure to look at, hear or otherwise sense.",
+      "scope": "This is not a particular lovely person or thing, but the pleasing qualities themselves.",
+      "examples": [
+        "The beauty of the coastline draws visitors from everywhere.",
+        "She was moved by the beauty of the old song."
+      ],
+      "branchCoverage": [
+        "the qualities that give pleasure to the senses -> the qualities that make something a pleasure to look at, hear or otherwise sense"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the qualities that give pleasure to the senses"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "billion%1:23:01::",
+      "lemma": "billion",
+      "pos": "n",
+      "definition": "the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen",
+      "decision": "gloss",
+      "simpleMeaning": "the number written as a one followed by twelve zeros; this was the old British value, though the American value is now often used in Britain too.",
+      "scope": "This is not the modern American value of one thousand million; it is the older, larger value of a million million.",
+      "examples": [
+        "Under the old British system, a billion was a one followed by twelve zeros.",
+        "Historians writing in 1900 used billion to mean a million million."
+      ],
+      "branchCoverage": [
+        "the number that is represented as a one followed by 12 zeros -> the number written as a one followed by twelve zeros",
+        "in the United Kingdom the usage followed in the United States is frequently seen -> though the American value is now often used in Britain too"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the number that is represented as a one followed by 12 zeros",
+        "in the United Kingdom the usage followed in the United States is frequently seen"
+      ],
+      "lemmaPartition": "billion%1:23:01:: = noun: the old British number, one followed by twelve zeros (10^12)\nbillion%5:00:00:cardinal:00 = adjective: a quantity of one thousand million (10^9), United States\nbillion%5:00:01:cardinal:00 = adjective: a quantity of one million million (10^12), Great Britain",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "billion%5:00:00:cardinal:00",
+      "lemma": "billion",
+      "pos": "a",
+      "definition": "denoting a quantity consisting of one thousand million items or units in the United States",
+      "decision": "gloss",
+      "simpleMeaning": "a thousand million (1,000,000,000), as in the American system.",
+      "scope": "This is not the older British value of a million million; it is the American value of one thousand million.",
+      "examples": [
+        "The company is worth two billion dollars.",
+        "A billion people watched the ceremony."
+      ],
+      "branchCoverage": [
+        "denoting a quantity consisting of one thousand million items or units in the United States -> a thousand million (1,000,000,000), as in the American system."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "denoting a quantity consisting of one thousand million items or units in the United States"
+      ],
+      "lemmaPartition": "billion%1:23:01:: = noun: the old British number, one followed by twelve zeros (10^12)\nbillion%5:00:00:cardinal:00 = adjective: a quantity of one thousand million (10^9), United States\nbillion%5:00:01:cardinal:00 = adjective: a quantity of one million million (10^12), Great Britain",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "billion%5:00:01:cardinal:00",
+      "lemma": "billion",
+      "pos": "a",
+      "definition": "denoting a quantity consisting of one million million items or units in Great Britain",
+      "decision": "gloss",
+      "simpleMeaning": "a million million (1,000,000,000,000), the older British value.",
+      "scope": "This is not the American value of one thousand million; it is the older British value of a million million.",
+      "examples": [
+        "In old British usage a billion meant a million million.",
+        "The older billion was far larger than the American one."
+      ],
+      "branchCoverage": [
+        "denoting a quantity consisting of one million million items or units in Great Britain -> a million million (1,000,000,000,000), the older British value."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "denoting a quantity consisting of one million million items or units in Great Britain"
+      ],
+      "lemmaPartition": "billion%1:23:01:: = noun: the old British number, one followed by twelve zeros (10^12)\nbillion%5:00:00:cardinal:00 = adjective: a quantity of one thousand million (10^9), United States\nbillion%5:00:01:cardinal:00 = adjective: a quantity of one million million (10^12), Great Britain",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "busy%5:00:00:intrusive:01",
+      "lemma": "busy",
+      "pos": "a",
+      "definition": "intrusive in a meddling or offensive manner",
+      "decision": "gloss",
+      "simpleMeaning": "too eager to get involved in other people's business, in a way that annoys them.",
+      "scope": "This is not about having a lot to do or about a pattern full of detail; it describes a person who pries into the affairs of others.",
+      "examples": [
+        "The busy neighbor kept asking about our private affairs.",
+        "He was too busy in other people's business to notice his own."
+      ],
+      "branchCoverage": [
+        "intrusive in a meddling or offensive manner -> too eager to get involved in other people's business, in a way that annoys them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "intrusive in a meddling or offensive manner"
+      ],
+      "lemmaPartition": "busy%5:00:00:intrusive:01 = adjective: meddling, prying into others' affairs\nbusy%3:00:00:: = adjective: actively occupied or engaged\nbusy%5:00:00:fancy:00 = adjective: overcrowded with detail in a pattern or design",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "busy%3:00:00::",
+      "lemma": "busy",
+      "pos": "a",
+      "definition": "actively or fully engaged or occupied",
+      "decision": "gloss",
+      "simpleMeaning": "having a lot to do or being fully taken up with an activity.",
+      "scope": "This is not about prying into other people's affairs, and not about a design packed with detail; it describes being occupied with work or activity.",
+      "examples": [
+        "I'm busy with a report and can't talk now.",
+        "She kept busy in the garden all afternoon."
+      ],
+      "branchCoverage": [
+        "actively or fully engaged or occupied -> having a lot to do or being fully taken up with an activity"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "actively or fully engaged or occupied"
+      ],
+      "lemmaPartition": "busy%5:00:00:intrusive:01 = adjective: meddling, prying into others' affairs\nbusy%3:00:00:: = adjective: actively occupied or engaged\nbusy%5:00:00:fancy:00 = adjective: overcrowded with detail in a pattern or design",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "busy%5:00:00:fancy:00",
+      "lemma": "busy",
+      "pos": "a",
+      "definition": "overcrowded or cluttered with detail",
+      "decision": "gloss",
+      "simpleMeaning": "packed with too many small details, so that it looks crowded.",
+      "scope": "This is not about being occupied with work or prying into others' affairs; it describes a surface, pattern or design that carries too much detail.",
+      "examples": [
+        "The wallpaper had a busy floral pattern that made the room feel small.",
+        "Her dress was too busy for such a plain occasion."
+      ],
+      "branchCoverage": [
+        "overcrowded or cluttered with detail -> packed with too many small details, so that it looks crowded"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "overcrowded or cluttered with detail"
+      ],
+      "lemmaPartition": "busy%5:00:00:intrusive:01 = adjective: meddling, prying into others' affairs\nbusy%3:00:00:: = adjective: actively occupied or engaged\nbusy%5:00:00:fancy:00 = adjective: overcrowded with detail in a pattern or design",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "buying%1:04:00::",
+      "lemma": "buying",
+      "pos": "n",
+      "definition": "the act of buying",
+      "decision": "gloss",
+      "simpleMeaning": "the act of obtaining goods or services in exchange for money.",
+      "scope": "This is not the goods obtained or the money paid, but the act itself of making a purchase.",
+      "examples": [
+        "Buying a house is a major step for any family.",
+        "The company limits its buying to local suppliers."
+      ],
+      "branchCoverage": [
+        "the act of buying -> the act of obtaining goods or services in exchange for money"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of buying"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "corner%1:06:02::",
+      "lemma": "corner",
+      "pos": "n",
+      "definition": "an interior angle formed by two meeting walls",
+      "decision": "gloss",
+      "simpleMeaning": "the inside angle where two walls of a room meet.",
+      "scope": "This is not a bend in a road or a difficult situation; it is the inside angle formed indoors by two walls.",
+      "examples": [
+        "A small table stood in the corner of the room.",
+        "She swept the dust into the corner by the window."
+      ],
+      "branchCoverage": [
+        "an interior angle formed by two meeting walls -> the inside angle where two walls of a room meet"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an interior angle formed by two meeting walls"
+      ],
+      "lemmaPartition": "corner%1:06:02:: = noun: the interior angle where two walls meet\ncorner%2:38:00:: = verb: to turn a bend in a road or path",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "corner%2:38:00::",
+      "lemma": "corner",
+      "pos": "v",
+      "definition": "turn a corner",
+      "decision": "gloss",
+      "simpleMeaning": "to pass around a bend in a road or path, changing direction as you go.",
+      "scope": "This is not the inside angle between two walls, and not the act of trapping someone; it describes a vehicle or person passing around a bend.",
+      "examples": [
+        "The taxi cornered sharply and sped down the hill.",
+        "This little car corners well on mountain roads."
+      ],
+      "branchCoverage": [
+        "turn a corner -> to pass around a bend in a road or path, changing direction as you go"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "turn a corner"
+      ],
+      "lemmaPartition": "corner%1:06:02:: = noun: the interior angle where two walls meet\ncorner%2:38:00:: = verb: to turn a bend in a road or path",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "criminal%5:00:00:wrong:01",
+      "lemma": "criminal",
+      "pos": "a",
+      "definition": "bringing or deserving severe rebuke or censure",
+      "decision": "gloss",
+      "simpleMeaning": "so bad or wrong that it deserves strong criticism or blame.",
+      "scope": "This is not a person who breaks the law, and not the legal sense of being against the law; it describes an action or situation that deserves sharp blame.",
+      "examples": [
+        "It is criminal to let that much food go to waste.",
+        "Charging such prices for clean water is simply criminal."
+      ],
+      "branchCoverage": [
+        "bringing or deserving severe rebuke or censure -> so bad or wrong that it deserves strong criticism or blame"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "bringing or deserving severe rebuke or censure"
+      ],
+      "lemmaPartition": "criminal%5:00:00:wrong:01 = adjective: deserving severe rebuke or blame\ncriminal%1:18:00:: = noun: a person who has committed a crime or been convicted",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "criminal%1:18:00::",
+      "lemma": "criminal",
+      "pos": "n",
+      "definition": "someone who has committed a crime or has been legally convicted of a crime",
+      "decision": "gloss",
+      "simpleMeaning": "a person who has broken the law or been found guilty in court.",
+      "scope": "This is not a description of an action that deserves blame; it names a person who has broken the law or been convicted.",
+      "examples": [
+        "The police finally caught the criminal.",
+        "He spent years tracking down the criminals behind the fraud."
+      ],
+      "branchCoverage": [
+        "someone who has committed a crime or has been legally convicted of a crime -> a person who has broken the law or been found guilty in court"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "someone who has committed a crime or has been legally convicted of a crime"
+      ],
+      "lemmaPartition": "criminal%5:00:00:wrong:01 = adjective: deserving severe rebuke or blame\ncriminal%1:18:00:: = noun: a person who has committed a crime or been convicted",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cultural%3:01:01::",
+      "lemma": "cultural",
+      "pos": "a",
+      "definition": "of or relating to the arts and manners that a group favors",
+      "decision": "gloss",
+      "simpleMeaning": "connected with the arts and the customs of a group of people.",
+      "scope": "This is not about the whole way of life of a people; it points to their arts and the manners they prefer.",
+      "examples": [
+        "The city offers a rich cultural life, with theatres and galleries.",
+        "The festival is a cultural event that celebrates local music and dance."
+      ],
+      "branchCoverage": [
+        "of or relating to the arts and manners that a group favors -> connected with the arts and the customs of a group of people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to the arts and manners that a group favors"
+      ],
+      "lemmaPartition": "cultural%3:01:01:: = adjective: relating to the arts and manners a group favors\ncultural%5:00:00:social:00 = adjective: relating to the ways of living a group has built up",
+      "verdict": "self-approved",
+      "reviewerNote": "Near-verbatim definition; 'manners that a group favors' is stilted and unclear. Say 'customs a group prefers'."
+    },
+    {
+      "senseId": "cultural%5:00:00:social:00",
+      "lemma": "cultural",
+      "pos": "a",
+      "definition": "denoting or deriving from or distinctive of the ways of living built up by a group of people",
+      "decision": "gloss",
+      "simpleMeaning": "showing or coming from the shared habits and way of life that a group has built up over time.",
+      "scope": "This is not limited to the arts and preferred manners; it covers the whole set of living habits a group has built up.",
+      "examples": [
+        "Food habits are a strong cultural marker of identity.",
+        "The children grew up between two cultural worlds."
+      ],
+      "branchCoverage": [
+        "denoting or deriving from or distinctive of the ways of living built up by a group of people -> showing or coming from the shared habits and way of life that a group has built up over time"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "denoting or deriving from or distinctive of the ways of living built up by a group of people"
+      ],
+      "lemmaPartition": "cultural%3:01:01:: = adjective: relating to the arts and manners a group favors\ncultural%5:00:00:social:00 = adjective: relating to the ways of living a group has built up",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "driver%1:18:01::",
+      "lemma": "driver",
+      "pos": "n",
+      "definition": "a golfer who hits the golf ball with a driver",
+      "decision": "gloss",
+      "simpleMeaning": "a golfer who strikes the ball with the long club used for long shots from the tee.",
+      "scope": "This is not a person who guides animals that pull a load, and not someone at the wheel of a car; it names a golfer using a particular long club.",
+      "examples": [
+        "As a driver, she can reach the green from the tee on most par fours.",
+        "The golf coach says the young player is a natural driver with great power."
+      ],
+      "branchCoverage": [
+        "a golfer who hits the golf ball with a driver -> a golfer who strikes the ball with the long club used for long shots from the tee"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a golfer who hits the golf ball with a driver"
+      ],
+      "lemmaPartition": "driver%1:18:01:: = noun: a golfer who hits the ball with a driver\ndriver%1:18:02:: = noun: a person who drives animals that pull a vehicle",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "driver%1:18:02::",
+      "lemma": "driver",
+      "pos": "n",
+      "definition": "someone who drives animals that pull a vehicle",
+      "decision": "gloss",
+      "simpleMeaning": "a person who guides animals that pull a cart, wagon or other vehicle.",
+      "scope": "This is not a golfer using a long club, and not a person operating a motor vehicle; it names someone who leads animals pulling a load.",
+      "examples": [
+        "The driver urged the oxen forward along the dusty road.",
+        "A skilled driver can keep a team of horses moving together."
+      ],
+      "branchCoverage": [
+        "someone who drives animals that pull a vehicle -> a person who guides animals that pull a cart, wagon or other vehicle"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "someone who drives animals that pull a vehicle"
+      ],
+      "lemmaPartition": "driver%1:18:01:: = noun: a golfer who hits the ball with a driver\ndriver%1:18:02:: = noun: a person who drives animals that pull a vehicle",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "existing%3:00:00::",
+      "lemma": "existing",
+      "pos": "a",
+      "definition": "having existence or being or actuality",
+      "decision": "gloss",
+      "simpleMeaning": "real and truly there, rather than only imagined or possible.",
+      "scope": "This is not the narrower idea of being in place at this moment, nor of being contained inside something else; it says that something has real being.",
+      "examples": [
+        "Philosophers still argue about whether numbers are existing things.",
+        "The myth describes gods as existing beings rather than symbols."
+      ],
+      "branchCoverage": [
+        "having existence or being or actuality -> real and truly there, rather than only imagined or possible"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having existence or being or actuality"
+      ],
+      "lemmaPartition": "existing%3:00:00:: = adjective: having existence or actual being\nexisting%5:00:00:present:01 = adjective: present or in place now\nexisting%5:00:00:present:02 = adjective: present within something specified",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "existing%5:00:00:present:01",
+      "lemma": "existing",
+      "pos": "a",
+      "definition": "presently existing",
+      "decision": "gloss",
+      "simpleMeaning": "present or in place now.",
+      "scope": "This is not about having being in general, nor about being contained inside something; it points to what is in place now.",
+      "examples": [
+        "The new rules will replace the existing ones next year.",
+        "We must work with existing resources."
+      ],
+      "branchCoverage": [
+        "presently existing -> present or in place now"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "presently existing"
+      ],
+      "lemmaPartition": "existing%3:00:00:: = adjective: having existence or actual being\nexisting%5:00:00:present:01 = adjective: present or in place now\nexisting%5:00:00:present:02 = adjective: present within something specified",
+      "verdict": "self-approved",
+      "reviewerNote": "'In use' adds a condition absent from 'presently existing'; say 'present or in place now'."
+    },
+    {
+      "senseId": "existing%5:00:00:present:02",
+      "lemma": "existing",
+      "pos": "a",
+      "definition": "existing in something specified",
+      "decision": "gloss",
+      "simpleMeaning": "found inside or as part of a particular thing.",
+      "scope": "This is not about being current, nor about having being in general; it says something is found inside a specified thing.",
+      "examples": [
+        "The bacteria existing in the hot spring are studied by scientists.",
+        "The fungus existing in the soil helps the roots grow."
+      ],
+      "branchCoverage": [
+        "existing in something specified -> found inside or as part of a particular thing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "existing in something specified"
+      ],
+      "lemmaPartition": "existing%3:00:00:: = adjective: having existence or actual being\nexisting%5:00:00:present:01 = adjective: present or in place now\nexisting%5:00:00:present:02 = adjective: present within something specified",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "farm%1:06:00::",
+      "lemma": "farm",
+      "pos": "n",
+      "definition": "workplace consisting of farm buildings and cultivated land as a unit",
+      "decision": "gloss",
+      "simpleMeaning": "land and the buildings on it, used for growing crops or raising animals, considered as one unit.",
+      "scope": "This is not the activity of collecting fees or profits; it names the land and buildings as a single place of work.",
+      "examples": [
+        "They run a small farm in the hills.",
+        "The children visited a farm to see the animals and crops."
+      ],
+      "branchCoverage": [
+        "workplace consisting of farm buildings and cultivated land as a unit -> land and the buildings on it, used for growing crops or raising animals, considered as one unit"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "workplace consisting of farm buildings and cultivated land as a unit"
+      ],
+      "lemmaPartition": "farm%1:06:00:: = noun: the buildings and cultivated land as a unit\nfarm%2:40:00:: = verb: to collect fees or profits",
+      "verdict": "self-approved",
+      "reviewerNote": "Stilted, vague paraphrase ('place of work made up of its buildings and worked land'); say land with buildings for growing crops."
+    },
+    {
+      "senseId": "farm%2:40:00::",
+      "lemma": "farm",
+      "pos": "v",
+      "definition": "collect fees or profits",
+      "decision": "gloss",
+      "simpleMeaning": "to take in money as fees or profits.",
+      "scope": "This is not about working land or the land itself; it means collecting fees or profits.",
+      "examples": [
+        "For centuries the crown farmed its tax revenues through private collectors.",
+        "Local governors farmed the taxes and grew rich."
+      ],
+      "branchCoverage": [
+        "collect fees or profits -> to take in money as fees or profits"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "collect fees or profits"
+      ],
+      "lemmaPartition": "farm%1:06:00:: = noun: the buildings and cultivated land as a unit\nfarm%2:40:00:: = verb: to collect fees or profits",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "file%1:06:01::",
+      "lemma": "file",
+      "pos": "n",
+      "definition": "office furniture consisting of a container for keeping papers in order",
+      "decision": "gloss",
+      "simpleMeaning": "a container, often part of office furniture, for keeping papers in order.",
+      "scope": "This is not a computer document and not a line of people; it is the container or cabinet that holds papers.",
+      "examples": [
+        "She pulled the contract from the file on her desk.",
+        "The office manager ordered two new files for the accounts."
+      ],
+      "branchCoverage": [
+        "office furniture consisting of a container for keeping papers in order -> a container, often part of office furniture, for keeping papers in order"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "office furniture consisting of a container for keeping papers in order"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fix%1:04:03::",
+      "lemma": "fix",
+      "pos": "n",
+      "definition": "something craved, especially an intravenous injection of a narcotic drug",
+      "decision": "gloss",
+      "simpleMeaning": "something someone strongly wants, especially a dose of an addictive drug injected into a vein.",
+      "scope": "This is not a repair and not a difficult situation; it names the drug dose that an addicted person craves.",
+      "examples": [
+        "The addict was desperate for a fix.",
+        "He went out to get his next fix."
+      ],
+      "branchCoverage": [
+        "something craved, especially an intravenous injection of a narcotic drug -> something someone strongly wants, especially a dose of an addictive drug injected into a vein"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something craved, especially an intravenous injection of a narcotic drug"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss narrows 'something craved' to a drug dose; keep the general 'something strongly wanted'."
+    }
+  ],
+  "rejected": []
+}

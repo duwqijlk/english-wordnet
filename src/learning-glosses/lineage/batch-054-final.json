@@ -1,0 +1,1216 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 54,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 44,
+      "of": 50,
+      "rate": 0.88
+    },
+    "selfApproved": [
+      "close%2:42:00::",
+      "leave%2:42:01::",
+      "light%1:07:00::",
+      "light%5:00:00:unstressed:00",
+      "short%4:02:00::",
+      "deal%1:27:00::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "d97e94756e15db9c92d7b404435dbc42c7a6306f55bcc71bddf375407f1a6c51"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "close%2:42:00::",
+      "lemma": "close",
+      "pos": "v",
+      "definition": "come to a close",
+      "sourceBranches": [
+        "come to a close"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to come to an end, as a period or event does.",
+      "scope": "This is a period or event reaching its own end, not shutting a door, lid or shop, and not a person ending a meeting.",
+      "examples": [
+        "The meeting closed at noon after two hours of argument.",
+        "Voting closes at midnight on Friday."
+      ],
+      "branchCoverage": [
+        "come to a close -> to come to an end, as a period or event does"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples use noun 'close' in 'come to a close', never the verb; use e.g. 'The meeting closed at noon.'"
+    },
+    {
+      "senseId": "idea%1:09:02::",
+      "lemma": "idea",
+      "pos": "n",
+      "definition": "an approximate calculation of quantity or degree or worth",
+      "sourceBranches": [
+        "an approximate calculation of quantity or degree or worth"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a rough figure or reckoning of how much there is, how great something is, or what it is worth.",
+      "scope": "This is not a thought, plan, or suggestion in the mind; it is a rough estimate of an amount, level, or value.",
+      "examples": [
+        "The builder gave us a rough idea of what the repairs would cost.",
+        "From the map, we formed a rough idea of the distance to the coast."
+      ],
+      "branchCoverage": [
+        "an approximate calculation of quantity or degree or worth -> a rough figure or reckoning of how much there is, how great something is, or what it is worth"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "due%5:00:00:attributable:00",
+      "lemma": "due",
+      "pos": "a",
+      "definition": "capable of being assigned or credited to",
+      "sourceBranches": [
+        "capable of being assigned or credited to"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "able to be traced back to, or given the credit for, a particular cause or person.",
+      "scope": "This is not about money that is owed or a date when payment must be made; it describes something that can be traced to or credited to a cause or person.",
+      "examples": [
+        "The success of the project is largely due to her careful planning.",
+        "Much of the praise for the rescue is due to the local volunteers."
+      ],
+      "branchCoverage": [
+        "capable of being assigned or credited to -> able to be traced back to, or given the credit for, a particular cause or person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "move%2:32:00::",
+      "lemma": "move",
+      "pos": "v",
+      "definition": "propose formally; in a debate or parliamentary meeting",
+      "sourceBranches": [
+        "propose formally",
+        "in a debate or parliamentary meeting"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to put forward a formal proposal for others to decide in a debate or a parliamentary meeting.",
+      "scope": "This is not about changing position or going to another place, and not about stirring feelings in someone; it is a formal proposal put to a meeting.",
+      "examples": [
+        "The member moved that the committee should meet again next week.",
+        "She moved a motion calling for a full review of the policy."
+      ],
+      "branchCoverage": [
+        "propose formally -> to put forward a formal proposal for others to decide",
+        "in a debate or parliamentary meeting -> in a debate or a parliamentary meeting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "move%2:32:00:: -> formally propose in a debate or meeting; move%2:37:01:: -> stir sympathy or compassion in someone; move%2:38:02:: -> change home, job, or affiliation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "move%2:37:01::",
+      "lemma": "move",
+      "pos": "v",
+      "definition": "arouse sympathy or compassion in",
+      "sourceBranches": [
+        "arouse sympathy or compassion in"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make someone feel sympathy or compassion.",
+      "scope": "This is not about changing place, and not about putting a proposal to a meeting; it is about stirring feelings of sympathy or compassion in a person.",
+      "examples": [
+        "The story of the lost dog moved everyone in the room to tears.",
+        "Her letter was so honest that it moved him deeply."
+      ],
+      "branchCoverage": [
+        "arouse sympathy or compassion in -> to make someone feel sympathy or compassion"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "move%2:32:00:: -> formally propose in a debate or meeting; move%2:37:01:: -> stir sympathy or compassion in someone; move%2:38:02:: -> change home, job, or affiliation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "move%2:38:02::",
+      "lemma": "move",
+      "pos": "v",
+      "definition": "change residence, affiliation, or place of employment",
+      "sourceBranches": [
+        "change residence, affiliation, or place of employment"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to change where you live, the group or organization you belong to, or the place where you work.",
+      "scope": "This is not about shifting an object from one spot to another, not about stirring feelings, and not about proposing something at a meeting; it is a change of home, group, or workplace.",
+      "examples": [
+        "They moved to a smaller apartment after the children left home.",
+        "She moved from a law firm to a job in local government."
+      ],
+      "branchCoverage": [
+        "change residence, affiliation, or place of employment -> to change where you live, the group or organization you belong to, or the place where you work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "move%2:32:00:: -> formally propose in a debate or meeting; move%2:37:01:: -> stir sympathy or compassion in someone; move%2:38:02:: -> change home, job, or affiliation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "question%1:10:02::",
+      "lemma": "question",
+      "pos": "n",
+      "definition": "a formal proposal for action made to a deliberative assembly for discussion and vote",
+      "sourceBranches": [
+        "a formal proposal for action made to a deliberative assembly for discussion and vote"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a formal proposal for action put to a meeting of a group for discussion and a vote.",
+      "scope": "This is not a sentence that asks for information, and not a doubt about whether something is true; it is a formal proposal put to a meeting for discussion and a vote.",
+      "examples": [
+        "The question before the council was whether to fund a new library.",
+        "Members debated the question for an hour before voting."
+      ],
+      "branchCoverage": [
+        "a formal proposal for action made to a deliberative assembly for discussion and vote -> a formal proposal for action put to a meeting of a group for discussion and a vote"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "question%1:10:02:: -> formal proposal put to a meeting for discussion and vote; question%1:07:00:: -> doubt about whether something is true or exists; question%2:32:09:: -> interview someone for television, radio, or a newspaper",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "question%1:07:00::",
+      "lemma": "question",
+      "pos": "n",
+      "definition": "uncertainty about the truth or factuality or existence of something",
+      "sourceBranches": [
+        "uncertainty about the truth or factuality or existence of something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "doubt about whether something is true, is a fact, or really exists.",
+      "scope": "This is not a sentence that asks for information, and not a formal proposal voted on at a meeting; it is doubt about whether something is true or exists.",
+      "examples": [
+        "There is no question that the bridge needs repairs.",
+        "There is some question about whether the results can be trusted."
+      ],
+      "branchCoverage": [
+        "uncertainty about the truth or factuality or existence of something -> doubt about whether something is true, is a fact, or really exists"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "question%1:10:02:: -> formal proposal put to a meeting for discussion and vote; question%1:07:00:: -> doubt about whether something is true or exists; question%2:32:09:: -> interview someone for television, radio, or a newspaper",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "question%2:32:09::",
+      "lemma": "question",
+      "pos": "v",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "sourceBranches": [
+        "conduct an interview in television, newspaper, and radio reporting"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to interview someone for television, radio, or a newspaper report.",
+      "scope": "This is not about asking for information in ordinary conversation, and not about expressing doubt; it is a reporter interviewing someone for television, radio, or a newspaper.",
+      "examples": [
+        "The reporter questioned the minister about the new tax.",
+        "She was questioned live on television about the scandal."
+      ],
+      "branchCoverage": [
+        "conduct an interview in television, newspaper, and radio reporting -> to interview someone for television, radio, or a newspaper report"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "question%1:10:02:: -> formal proposal put to a meeting for discussion and vote; question%1:07:00:: -> doubt about whether something is true or exists; question%2:32:09:: -> interview someone for television, radio, or a newspaper",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "series%1:14:01::",
+      "lemma": "series",
+      "pos": "n",
+      "definition": "a group of postage stamps having a common theme or a group of coins or currency selected as a group for study or collection",
+      "sourceBranches": [
+        "a group of postage stamps having a common theme or a group of coins or currency selected as a group for study or collection"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a set of stamps that share a theme, or a set of coins or paper money gathered together for study or collecting.",
+      "scope": "This is not a number of similar events or shows coming one after another; it is a set of stamps, coins, or paper money that share a theme or are collected or studied together.",
+      "examples": [
+        "He completed the 1920s series of airmail stamps.",
+        "The collector paid a high price for a rare coin series from the 1800s."
+      ],
+      "branchCoverage": [
+        "a group of postage stamps having a common theme or a group of coins or currency selected as a group for study or collection -> a set of stamps that share a theme, or a set of coins or paper money gathered together for study or collecting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "woman%1:18:02::",
+      "lemma": "woman",
+      "pos": "n",
+      "definition": "a woman who serves in the armed forces; a member of a military force",
+      "sourceBranches": [
+        "a woman who serves in the armed forces",
+        "a member of a military force"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a female member of the armed forces; a female person who belongs to a military force.",
+      "scope": "This is not a female person in general; it is specifically a female member of the armed forces.",
+      "examples": [
+        "She was the first woman to command a warship.",
+        "Thousands of women now serve in combat units."
+      ],
+      "branchCoverage": [
+        "a woman who serves in the armed forces -> a female member of the armed forces",
+        "a member of a military force -> a female person who belongs to a military force"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "community%1:15:00::",
+      "lemma": "community",
+      "pos": "n",
+      "definition": "a district where people live; occupied primarily by private residences",
+      "sourceBranches": [
+        "a district where people live",
+        "occupied primarily by private residences"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an area where people live, made up mainly of private homes.",
+      "scope": "This is not a group of people who share interests or a background; it is a residential area.",
+      "examples": [
+        "They bought a house in a quiet residential community outside the city.",
+        "The new community will have 200 homes, a school, and a small park."
+      ],
+      "branchCoverage": [
+        "a district where people live -> an area where people live",
+        "occupied primarily by private residences -> made up mainly of private homes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leave%2:30:02::",
+      "lemma": "leave",
+      "pos": "v",
+      "definition": "leave unchanged or undisturbed or refrain from taking",
+      "sourceBranches": [
+        "leave unchanged or undisturbed or refrain from taking"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to let something stay as it is, to avoid disturbing it, or to not take it.",
+      "scope": "This is not about going away from a place, and not about forgetting something by accident; it is about letting something stay as it is, not disturbing it, or not taking it.",
+      "examples": [
+        "Leave the keys on the table; I will pick them up later.",
+        "They left the old shed untouched at the end of the garden."
+      ],
+      "branchCoverage": [
+        "leave unchanged or undisturbed or refrain from taking -> to let something stay as it is, to avoid disturbing it, or to not take it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "leave%2:30:02:: -> keep something as it is, or not take it; leave%2:42:01:: -> make an outcome possible or provide an opportunity; leave%2:31:02:: -> forget to take something by accident; leave%2:40:01:: -> give something to someone in a will",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leave%2:42:01::",
+      "lemma": "leave",
+      "pos": "v",
+      "definition": "make a possibility or provide opportunity for; permit to be attainable or cause to remain",
+      "sourceBranches": [
+        "make a possibility or provide opportunity for",
+        "permit to be attainable or cause to remain"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make something possible or give someone a chance at it; allow something to be reached or let it stay as it is",
+      "scope": "Not about forgetting to take something by accident, keeping something untouched, or giving property after death.",
+      "examples": [
+        "The new rules leave room for smaller firms to compete.",
+        "Cancel the meeting now, and that leaves us free to travel on Friday."
+      ],
+      "branchCoverage": [
+        "make a possibility or provide opportunity for -> make something possible or give someone a chance at it",
+        "permit to be attainable or cause to remain -> allow something to be reached or let it stay as it is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "leave%2:30:02:: -> keep something as it is, or not take it; leave%2:42:01:: -> make an outcome possible or provide an opportunity; leave%2:31:02:: -> forget to take something by accident; leave%2:40:01:: -> give something to someone in a will",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Adds 'result' and 'in place'; 'cause to remain' covers any state, not location. Example 2 shows staying free. Drop both additions."
+    },
+    {
+      "senseId": "leave%2:31:02::",
+      "lemma": "leave",
+      "pos": "v",
+      "definition": "leave behind unintentionally",
+      "sourceBranches": [
+        "leave behind unintentionally"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "forget to take something with you by accident, so it stays behind",
+      "scope": "Not about giving property in a will, making an outcome possible, or keeping something as it is.",
+      "examples": [
+        "I left my umbrella on the bus.",
+        "She left her keys at the office and had to wait outside."
+      ],
+      "branchCoverage": [
+        "leave behind unintentionally -> forget to take something with you by accident, so it stays behind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "leave%2:30:02:: -> keep something as it is, or not take it; leave%2:42:01:: -> make an outcome possible or provide an opportunity; leave%2:31:02:: -> forget to take something by accident; leave%2:40:01:: -> give something to someone in a will",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leave%2:40:01::",
+      "lemma": "leave",
+      "pos": "v",
+      "definition": "leave or give by will after one's death",
+      "sourceBranches": [
+        "leave or give by will after one's death"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "give money or property to someone in a will, to be handed over after your death",
+      "scope": "Not about accidentally forgetting to take something, giving something during your life, or allowing an outcome.",
+      "examples": [
+        "She left her house to her niece.",
+        "He left a small fortune to the local animal shelter."
+      ],
+      "branchCoverage": [
+        "leave or give by will after one's death -> give money or property to someone in a will, to be handed over after your death"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "leave%2:30:02:: -> keep something as it is, or not take it; leave%2:42:01:: -> make an outcome possible or provide an opportunity; leave%2:31:02:: -> forget to take something by accident; leave%2:40:01:: -> give something to someone in a will",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "special%5:00:00:specific:00",
+      "lemma": "special",
+      "pos": "a",
+      "definition": "having a specific function or scope",
+      "sourceBranches": [
+        "having a specific function or scope"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "meant for one particular job or a limited area of use",
+      "scope": "Not about something unusual, better than usual, or highly valued.",
+      "examples": [
+        "The hospital has a special unit for burns.",
+        "This is a special tool for cutting glass."
+      ],
+      "branchCoverage": [
+        "having a specific function or scope -> meant for one particular job or a limited area of use"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "watch%2:32:09::",
+      "lemma": "watch",
+      "pos": "v",
+      "definition": "find out, learn, or determine with certainty, usually by making an inquiry or other effort",
+      "sourceBranches": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "find out, learn, or become certain about something, usually by asking questions or checking",
+      "scope": "Not about staying alert to danger, and not about looking after a child or pet.",
+      "examples": [
+        "Watch the dial until you are sure the tank is full.",
+        "The vet watched the puppy's breathing to learn whether the medicine had worked."
+      ],
+      "branchCoverage": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort -> find out, learn, or become certain about something, usually by asking questions or checking"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "watch%2:32:09:: -> observe closely to learn or find out; watch%2:39:01:: -> stay alert for danger or trouble; watch%1:18:00:: -> a person paid to keep guard",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "watch%2:39:01::",
+      "lemma": "watch",
+      "pos": "v",
+      "definition": "be vigilant, be on the lookout or be careful",
+      "sourceBranches": [
+        "be vigilant, be on the lookout or be careful"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "stay alert and keep looking for possible danger or trouble, and be careful",
+      "scope": "Not about finding out a fact, and not about a person employed to guard a place.",
+      "examples": [
+        "Watch out for ice on the steps.",
+        "Watch your bag in the crowded market."
+      ],
+      "branchCoverage": [
+        "be vigilant, be on the lookout or be careful -> stay alert and keep looking for possible danger or trouble, and be careful"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "watch%2:32:09:: -> observe closely to learn or find out; watch%2:39:01:: -> stay alert for danger or trouble; watch%1:18:00:: -> a person paid to keep guard",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "watch%1:18:00::",
+      "lemma": "watch",
+      "pos": "n",
+      "definition": "a person employed to keep watch for some anticipated event",
+      "sourceBranches": [
+        "a person employed to keep watch for some anticipated event"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "someone paid to stay alert and look out for something expected to happen",
+      "scope": "This is a person, not the act of staying alert or a period of duty.",
+      "examples": [
+        "The night watch reported a strange boat near the harbor.",
+        "The company pays a night watch to protect the warehouse."
+      ],
+      "branchCoverage": [
+        "a person employed to keep watch for some anticipated event -> someone paid to stay alert and look out for something expected to happen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "watch%2:32:09:: -> observe closely to learn or find out; watch%2:39:01:: -> stay alert for danger or trouble; watch%1:18:00:: -> a person paid to keep guard",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%1:07:02::",
+      "lemma": "light",
+      "pos": "n",
+      "definition": "merriment expressed by a brightness or gleam or animation of countenance",
+      "sourceBranches": [
+        "merriment expressed by a brightness or gleam or animation of countenance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "happiness and amusement that show in someone's face as a bright shine or a lively look",
+      "scope": "Not physical brightness in a room, and not a lamp or other device.",
+      "examples": [
+        "There was a mischievous light in her eyes.",
+        "A sudden light came into his face when he heard the news."
+      ],
+      "branchCoverage": [
+        "merriment expressed by a brightness or gleam or animation of countenance -> happiness and amusement that show in someone's face as a bright shine or a lively look"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%5:00:00:digestible:00",
+      "lemma": "light",
+      "pos": "a",
+      "definition": "easily assimilated in the alimentary canal; not rich or heavily seasoned",
+      "sourceBranches": [
+        "easily assimilated in the alimentary canal",
+        "not rich or heavily seasoned"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of food, easy for the stomach and gut to process, and not rich or strongly seasoned",
+      "scope": "Not about weight, brightness, or how strong a drink is.",
+      "examples": [
+        "After the surgery she ate only light meals for a week.",
+        "This sauce is too rich for me; I prefer something light."
+      ],
+      "branchCoverage": [
+        "easily assimilated in the alimentary canal -> easy for the stomach and gut to process",
+        "not rich or heavily seasoned -> not rich or strongly seasoned"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%1:07:00::",
+      "lemma": "light",
+      "pos": "n",
+      "definition": "the visual effect of illumination on objects or scenes as created in pictures",
+      "sourceBranches": [
+        "the visual effect of illumination on objects or scenes as created in pictures"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in a picture, the way brightness and shadow fall on objects and scenes and affect how they look",
+      "scope": "Not the physical rays themselves, not the quality of an object that gives out or reflects them, and not a place having plenty of light; it is how illumination is shown in a picture.",
+      "examples": [
+        "The artist spent hours getting the light on the water just right.",
+        "In the painting, the light falls from the left and leaves the right side in shadow."
+      ],
+      "branchCoverage": [
+        "the visual effect of illumination on objects or scenes as created in pictures -> in a picture, the way brightness and shadow fall on objects and scenes and affect how they look"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example describes ambient daylight, not light rendered in a picture; scope also omits the well-lit-place sense. Replace example 2."
+    },
+    {
+      "senseId": "light%1:26:01::",
+      "lemma": "light",
+      "pos": "n",
+      "definition": "a condition of spiritual awareness; divine illumination",
+      "sourceBranches": [
+        "a condition of spiritual awareness",
+        "divine illumination"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a state of deep spiritual understanding, often felt as being filled with divine truth and insight",
+      "scope": "Not ordinary understanding, and not physical brightness in a room.",
+      "examples": [
+        "The monk spoke of a light that came to him during meditation.",
+        "She sought the light through prayer and study of scripture."
+      ],
+      "branchCoverage": [
+        "a condition of spiritual awareness -> a state of deep spiritual understanding",
+        "divine illumination -> often felt as being filled with divine truth and insight"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%5:00:00:loose:02",
+      "lemma": "light",
+      "pos": "a",
+      "definition": "(used of soil) loose and large-grained in consistency",
+      "sourceBranches": [
+        "(used of soil) loose and large-grained in consistency"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of soil, crumbly and made of fairly large grains rather than packed tight",
+      "scope": "Not about color, weight, or food; it describes how soil is made up.",
+      "examples": [
+        "Carrots grow well in light, sandy soil.",
+        "The gardener added compost to keep the soil light and crumbly."
+      ],
+      "branchCoverage": [
+        "(used of soil) loose and large-grained in consistency -> of soil, crumbly and made of fairly large grains rather than packed tight"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%1:06:01::",
+      "lemma": "light",
+      "pos": "n",
+      "definition": "a device for lighting or igniting fuel or charges or fires",
+      "sourceBranches": [
+        "a device for lighting or igniting fuel or charges or fires"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a device that makes a flame to set fire to fuel, an explosive charge, or a fire",
+      "scope": "Not a lamp that shines on a room, but the device that starts a flame.",
+      "examples": [
+        "He struck a light and set the candle burning.",
+        "The campers packed a waterproof light for starting the stove."
+      ],
+      "branchCoverage": [
+        "a device for lighting or igniting fuel or charges or fires -> a device that makes a flame to set fire to fuel, an explosive charge, or a fire"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%1:07:01::",
+      "lemma": "light",
+      "pos": "n",
+      "definition": "the quality of being luminous; emitting or reflecting light",
+      "sourceBranches": [
+        "the quality of being luminous",
+        "emitting or reflecting light"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The quality of a thing that shines, either by sending out its own visible rays or by throwing back rays that fall on it.",
+      "scope": "This is not the state of a place being well lit, the way illumination is used in a painting, or the happy look on someone's face; it is a thing's own shining quality.",
+      "examples": [
+        "The moon has no light of its own; it simply reflects the sun.",
+        "The stone's light seems to come from within: it gives off a faint glow even in total darkness."
+      ],
+      "branchCoverage": [
+        "the quality of being luminous -> The quality of a thing that shines",
+        "emitting or reflecting light -> by sending out its own visible rays or by throwing back rays that fall on it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%1:10:00::",
+      "lemma": "light",
+      "pos": "n",
+      "definition": "a visual warning signal",
+      "sourceBranches": [
+        "a visual warning signal"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A signal you can see, made by something that shines, that warns people of danger or trouble.",
+      "scope": "This is not the lamp or other device that produces the brightness, nor the general brightness of a place; it is the warning signal itself.",
+      "examples": [
+        "The beacon's light warned ships away from the rocks.",
+        "A flashing light on the dashboard warned the driver that the engine was overheating."
+      ],
+      "branchCoverage": [
+        "a visual warning signal -> A signal you can see, made by something that shines, that warns people of danger or trouble"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%3:00:02::",
+      "lemma": "light",
+      "pos": "a",
+      "definition": "psychologically light; especially free from sadness or troubles",
+      "sourceBranches": [
+        "psychologically light",
+        "especially free from sadness or troubles"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Cheerful in your mind and free from sadness or worry.",
+      "scope": "This is not silly or shallow entertainment, nor something that weighs very little; it describes a happy, untroubled state of mind.",
+      "examples": [
+        "With the exams behind her, she felt light and carefree for the first time in weeks.",
+        "He woke with a light heart on the morning of his daughter's wedding."
+      ],
+      "branchCoverage": [
+        "psychologically light -> Cheerful in your mind",
+        "especially free from sadness or troubles -> free from sadness or worry"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%5:00:00:temperate:00",
+      "lemma": "light",
+      "pos": "a",
+      "definition": "marked by temperance in indulgence",
+      "sourceBranches": [
+        "marked by temperance in indulgence"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Showing moderation in what you allow yourself to enjoy, taking only small amounts of food, drink or other pleasures.",
+      "scope": "This is not food that is easy to digest or free of rich seasoning; it describes a person who takes only small amounts of what they enjoy.",
+      "examples": [
+        "He is a light eater, so a small bowl of soup is enough for him.",
+        "She has always been a light drinker and rarely finishes a single glass."
+      ],
+      "branchCoverage": [
+        "marked by temperance in indulgence -> Showing moderation in what you allow yourself to enjoy, taking only small amounts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%5:00:00:unstressed:00",
+      "lemma": "light",
+      "pos": "a",
+      "definition": "(used of vowels or syllables) pronounced with little or no stress",
+      "sourceBranches": [
+        "(used of vowels or syllables) pronounced with little or no stress"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Said of a vowel or syllable that is pronounced without emphasis, so it does not stand out in the word.",
+      "scope": "This is not about brightness, weight or food; it is a label for a vowel or syllable that carries little or no emphasis.",
+      "examples": [
+        "The final syllable carries only light stress, so the word ends quietly.",
+        "In 'banana', the first and last syllables get light stress and the middle one is strong."
+      ],
+      "branchCoverage": [
+        "(used of vowels or syllables) pronounced with little or no stress -> Said of a vowel or syllable that is pronounced without emphasis, so it does not stand out in the word"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'softly' (volume); stress is prominence, not quietness. Examples' 'syllables are light' is technical."
+    },
+    {
+      "senseId": "light%5:00:02:frivolous:00",
+      "lemma": "light",
+      "pos": "a",
+      "definition": "intended primarily as entertainment; not serious or profound",
+      "sourceBranches": [
+        "intended primarily as entertainment",
+        "not serious or profound"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Meant first of all to amuse people, not to be serious or to deal with deep ideas.",
+      "scope": "This is not a happy, worry-free mood or a small amount of food; it describes works made mainly to amuse.",
+      "examples": [
+        "After the tragedy, she chose a light comedy to take her mind off things.",
+        "The magazine is full of light verse and cartoons rather than serious reporting."
+      ],
+      "branchCoverage": [
+        "intended primarily as entertainment -> Meant first of all to amuse people",
+        "not serious or profound -> not to be serious or to deal with deep ideas"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%1:26:00::",
+      "lemma": "light",
+      "pos": "n",
+      "definition": "having abundant light or illumination",
+      "sourceBranches": [
+        "having abundant light or illumination"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The condition of a place or time when there is a great amount of brightness.",
+      "scope": "This is not the shining quality of an object, nor the use of brightness in a picture; it is the condition of a place or time being well lit.",
+      "examples": [
+        "They played outside as long as there was light.",
+        "The kitchen has plenty of light in the morning, thanks to the big windows."
+      ],
+      "branchCoverage": [
+        "having abundant light or illumination -> The condition of a place or time when there is a great amount of brightness"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%3:00:06::",
+      "lemma": "light",
+      "pos": "a",
+      "definition": "characterized by or emitting light",
+      "sourceBranches": [
+        "characterized by or emitting light"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Filled with brightness, or sending out brightness of its own.",
+      "scope": "This is not the noun naming a shining quality or a well-lit condition; it is the adjective that describes a room, sky or object as bright or glowing.",
+      "examples": [
+        "The room is light and airy now that the heavy curtains are gone.",
+        "At six in the morning the sky was already light."
+      ],
+      "branchCoverage": [
+        "characterized by or emitting light -> Filled with brightness, or sending out brightness of its own"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light%1:07:02:: -> happy brightness in someone's face or expression; light%5:00:00:digestible:00 -> food easy to digest, not rich or heavily seasoned; light%1:07:00:: -> the effect of illumination on objects and scenes, as in a picture; light%1:26:01:: -> a state of spiritual understanding or divine illumination; light%5:00:00:loose:02 -> soil that is loose and made of large grains; light%1:06:01:: -> a device that lights or ignites fuel or a fire; light%1:07:01:: -> the quality of giving off or reflecting light; light%1:10:00:: -> a signal of light that warns people; light%3:00:02:: -> free from sadness or worry in your mind; light%5:00:00:temperate:00 -> moderate and self-controlled in what you take; light%5:00:00:unstressed:00 -> a vowel or syllable pronounced with little or no stress; light%5:00:02:frivolous:00 -> meant mainly to entertain, not serious or deep; light%1:26:00:: -> a state of having plenty of light or illumination; light%3:00:06:: -> giving off light or lit up",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "low%3:00:03::",
+      "lemma": "low",
+      "pos": "a",
+      "definition": "used of sounds and voices; low in pitch or frequency",
+      "sourceBranches": [
+        "used of sounds and voices",
+        "low in pitch or frequency"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Said of sounds or voices that are deep, with a pitch near the bottom of the range or a slow rate of vibration.",
+      "scope": "This is not about height, rank or amount; it describes a deep sound or voice.",
+      "examples": [
+        "The cello plays the low notes while the violins carry the melody.",
+        "The engine settled into a low rumble as the car climbed the hill."
+      ],
+      "branchCoverage": [
+        "used of sounds and voices -> Said of sounds or voices (usage label)",
+        "low in pitch or frequency -> that are deep, with a pitch near the bottom of the range or a slow rate of vibration"
+      ],
+      "labelBranches": [
+        "used of sounds and voices -> a usage label restricting the word to sounds and voices; it adds no separate meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%4:02:00::",
+      "lemma": "short",
+      "pos": "r",
+      "definition": "in a curt, abrupt and discourteous manner",
+      "sourceBranches": [
+        "in a curt, abrupt and discourteous manner"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In a brief, sudden and rude way that shows impatience or a lack of respect.",
+      "scope": "This is not about how long something lasts or how tall it is; it describes the rude, clipped way someone speaks.",
+      "examples": [
+        "He was short with the waiter and left without tipping.",
+        "She was short with me when I asked why the report was late."
+      ],
+      "branchCoverage": [
+        "in a curt, abrupt and discourteous manner -> In a brief, sudden and rude way that shows impatience or a lack of respect"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short%4:02:00:: -> speaking curtly, in a rude and abrupt way; short%4:02:08:: -> happening suddenly and without warning; short%5:00:00:breakable:00 -> pastry that crumbles easily because it has a lot of fat; short%5:00:00:discourteous:00 -> rude and impatient in manner; short%5:00:00:improvident:00 -> lacking foresight or range of view",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Talked short' and 'answered short' are not idiomatic modern English; use 'spoke shortly' or 'answered curtly'."
+    },
+    {
+      "senseId": "short%4:02:08::",
+      "lemma": "short",
+      "pos": "r",
+      "definition": "quickly and without warning; happening unexpectedly; on impulse; without premeditation",
+      "sourceBranches": [
+        "quickly and without warning",
+        "happening unexpectedly",
+        "on impulse",
+        "without premeditation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Suddenly and with no warning; happening unexpectedly, on a quick urge, without planning ahead.",
+      "scope": "This is not about being rude or brief in speech; it describes something that happens all at once and without warning.",
+      "examples": [
+        "The horse stopped short when a dog ran into the road.",
+        "The car pulled up short at the edge of the cliff."
+      ],
+      "branchCoverage": [
+        "quickly and without warning -> Suddenly and with no warning",
+        "happening unexpectedly -> happening unexpectedly",
+        "on impulse -> on a quick urge",
+        "without premeditation -> without planning ahead"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short%4:02:00:: -> speaking curtly, in a rude and abrupt way; short%4:02:08:: -> happening suddenly and without warning; short%5:00:00:breakable:00 -> pastry that crumbles easily because it has a lot of fat; short%5:00:00:discourteous:00 -> rude and impatient in manner; short%5:00:00:improvident:00 -> lacking foresight or range of view",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%5:00:00:breakable:00",
+      "lemma": "short",
+      "pos": "a",
+      "definition": "tending to crumble or break into flakes due to a large amount of shortening",
+      "sourceBranches": [
+        "tending to crumble or break into flakes due to a large amount of shortening"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Said of pastry that is likely to crumble or break into small flat pieces because it contains a lot of fat.",
+      "scope": "This is not about height or time; it describes a pastry's texture, which crumbles easily because of its high fat content.",
+      "examples": [
+        "The pie crust is short and crumbles at the touch of a fork.",
+        "This shortbread has the short, flaky texture that comes from plenty of butter."
+      ],
+      "branchCoverage": [
+        "tending to crumble or break into flakes due to a large amount of shortening -> likely to crumble or break into small flat pieces because it contains a lot of fat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short%4:02:00:: -> speaking curtly, in a rude and abrupt way; short%4:02:08:: -> happening suddenly and without warning; short%5:00:00:breakable:00 -> pastry that crumbles easily because it has a lot of fat; short%5:00:00:discourteous:00 -> rude and impatient in manner; short%5:00:00:improvident:00 -> lacking foresight or range of view",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%5:00:00:discourteous:00",
+      "lemma": "short",
+      "pos": "a",
+      "definition": "marked by rude or peremptory shortness",
+      "sourceBranches": [
+        "marked by rude or peremptory shortness"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "rude and impatient in manner, speaking in an abrupt way that expects others to obey without question",
+      "scope": "This sense describes a person's curt manner in speech, not something lasting only a little time or something not long enough.",
+      "examples": [
+        "The manager was famously short with anyone who arrived late.",
+        "He can be quite short when he is under pressure, snapping at anyone who asks a question."
+      ],
+      "branchCoverage": [
+        "marked by rude or peremptory shortness -> rude and impatient in manner, speaking in an abrupt way that expects others to obey without question"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short%4:02:00:: -> speaking curtly, in a rude and abrupt way; short%4:02:08:: -> happening suddenly and without warning; short%5:00:00:breakable:00 -> pastry that crumbles easily because it has a lot of fat; short%5:00:00:discourteous:00 -> rude and impatient in manner; short%5:00:00:improvident:00 -> lacking foresight or range of view",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%5:00:00:improvident:00",
+      "lemma": "short",
+      "pos": "a",
+      "definition": "lacking foresight or scope",
+      "sourceBranches": [
+        "lacking foresight or scope"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "failing to think ahead about future needs or results, and seeing only a narrow range of possibilities",
+      "scope": "This sense is about poor planning and a narrow outlook, not about rude speech or about pastry that crumbles.",
+      "examples": [
+        "Cutting the training budget was a short-sighted decision that cost the company dear.",
+        "It was improvident of the council to ignore the warning and plan no repairs."
+      ],
+      "branchCoverage": [
+        "lacking foresight or scope -> failing to think ahead about future needs or results, and seeing only a narrow range of possibilities"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short%4:02:00:: -> speaking curtly, in a rude and abrupt way; short%4:02:08:: -> happening suddenly and without warning; short%5:00:00:breakable:00 -> pastry that crumbles easily because it has a lot of fat; short%5:00:00:discourteous:00 -> rude and impatient in manner; short%5:00:00:improvident:00 -> lacking foresight or range of view",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stay%1:06:01::",
+      "lemma": "stay",
+      "pos": "n",
+      "definition": "a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)",
+      "sourceBranches": [
+        "a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thin strip of metal or bone placed inside a garment such as a corset to make it firm and hold its shape",
+      "scope": "This sense is a stiffening piece sewn into clothing, not a period spent somewhere or a delay.",
+      "examples": [
+        "The dressmaker slid a thin metal stay into the seam to keep the collar upright.",
+        "The corset was fitted with a steel stay along each side."
+      ],
+      "branchCoverage": [
+        "a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset) -> a thin strip of metal or bone placed inside a garment such as a corset to make it firm and hold its shape"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deal%1:27:00::",
+      "lemma": "deal",
+      "pos": "n",
+      "definition": "a plank of softwood (fir or pine board)",
+      "sourceBranches": [
+        "a plank of softwood (fir or pine board)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a long flat piece of soft wood, such as a board cut from a fir or pine tree",
+      "scope": "This is one board cut from fir or pine, not the timber as a material, not an agreement between people, and not an amount handed out.",
+      "examples": [
+        "He nailed a deal board over the broken window.",
+        "The carpenter planed a plank of deal until it fitted the frame."
+      ],
+      "branchCoverage": [
+        "a plank of softwood (fir or pine board) -> a long flat piece of soft wood, such as a board cut from a fir or pine tree"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deal%1:27:00:: -> a flat board of softwood such as pine or fir; deal%2:41:00:: -> manage to do or produce something with limited means; deal%1:27:01:: -> softwood, such as pine, that is easy to saw; deal%2:40:01:: -> give out something in small amounts",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope ignores sibling deal%1:27:01 (timber); examples use mass 'deal' (= timber), not a plank."
+    },
+    {
+      "senseId": "deal%2:41:00::",
+      "lemma": "deal",
+      "pos": "v",
+      "definition": "succeed in doing, achieving, or producing (something) with the limited or inadequate means available",
+      "sourceBranches": [
+        "succeed in doing, achieving, or producing (something) with the limited or inadequate means available"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "manage to do, make or achieve something even though only limited or insufficient resources are available",
+      "scope": "This sense is about getting a result with scant means, not about handing things out in portions or about timber.",
+      "examples": [
+        "Somehow she dealt with the entire harvest using one broken tractor.",
+        "The volunteers dealt with the flood using sandbags and borrowed pumps."
+      ],
+      "branchCoverage": [
+        "succeed in doing, achieving, or producing (something) with the limited or inadequate means available -> manage to do, make or achieve something even though only limited or insufficient resources are available"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deal%1:27:00:: -> a flat board of softwood such as pine or fir; deal%2:41:00:: -> manage to do or produce something with limited means; deal%1:27:01:: -> softwood, such as pine, that is easy to saw; deal%2:40:01:: -> give out something in small amounts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deal%1:27:01::",
+      "lemma": "deal",
+      "pos": "n",
+      "definition": "wood that is easy to saw (from conifers such as pine or fir)",
+      "sourceBranches": [
+        "wood that is easy to saw (from conifers such as pine or fir)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "wood that is easy to cut with a saw, coming from cone-bearing trees such as pine or fir",
+      "scope": "This sense is the timber itself, not a flat board cut from it or an agreement.",
+      "examples": [
+        "The frame was made of deal because it saws easily and costs little.",
+        "Builders often choose deal for cheap shelving and fencing."
+      ],
+      "branchCoverage": [
+        "wood that is easy to saw (from conifers such as pine or fir) -> wood that is easy to cut with a saw, coming from cone-bearing trees such as pine or fir"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deal%1:27:00:: -> a flat board of softwood such as pine or fir; deal%2:41:00:: -> manage to do or produce something with limited means; deal%1:27:01:: -> softwood, such as pine, that is easy to saw; deal%2:40:01:: -> give out something in small amounts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deal%2:40:01::",
+      "lemma": "deal",
+      "pos": "v",
+      "definition": "administer or bestow, as in small portions",
+      "sourceBranches": [
+        "administer or bestow, as in small portions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "hand out or give something to people, often in small amounts",
+      "scope": "This sense is about distributing shares or portions, not about coping with scant resources or about timber.",
+      "examples": [
+        "The dealer dealt each player two cards face down.",
+        "Volunteers dealt blankets to the families as they arrived."
+      ],
+      "branchCoverage": [
+        "administer or bestow, as in small portions -> hand out or give something to people, often in small amounts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deal%1:27:00:: -> a flat board of softwood such as pine or fir; deal%2:41:00:: -> manage to do or produce something with limited means; deal%1:27:01:: -> softwood, such as pine, that is easy to saw; deal%2:40:01:: -> give out something in small amounts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reason%1:09:01::",
+      "lemma": "reason",
+      "pos": "n",
+      "definition": "a fact that logically justifies some premise or conclusion",
+      "sourceBranches": [
+        "a fact that logically justifies some premise or conclusion"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a fact that logically supports a statement taken as a starting point or a judgement reached from it",
+      "scope": "This sense is a justifying fact within an argument, not the mental power to think logically.",
+      "examples": [
+        "The fingerprint on the glass was the strongest reason for believing he had been there.",
+        "Give me one good reason why the meeting should be moved."
+      ],
+      "branchCoverage": [
+        "a fact that logically justifies some premise or conclusion -> a fact that logically supports a statement taken as a starting point or a judgement reached from it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "report%1:10:04::",
+      "lemma": "report",
+      "pos": "n",
+      "definition": "a written evaluation of a student's scholarship and deportment",
+      "sourceBranches": [
+        "a written evaluation of a student's scholarship and deportment"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a written assessment of how well a student is doing in their studies and how they behave",
+      "scope": "This sense is a school document about a pupil, not a news account or a loud bang.",
+      "examples": [
+        "His end-of-term report praised his effort in maths but noted that he talked too much.",
+        "Parents can collect the report at the autumn meeting."
+      ],
+      "branchCoverage": [
+        "a written evaluation of a student's scholarship and deportment -> a written assessment of how well a student is doing in their studies and how they behave"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "report%1:10:04:: -> a written account of a student's progress and conduct; report%1:11:00:: -> a sharp explosive noise, especially a gunshot; report%2:32:13:: -> cover events and write about them for a news outlet",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "report%1:11:00::",
+      "lemma": "report",
+      "pos": "n",
+      "definition": "a sharp explosive sound (especially the sound of a gun firing)",
+      "sourceBranches": [
+        "a sharp explosive sound (especially the sound of a gun firing)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a sudden loud bang, especially the noise made when a gun is fired",
+      "scope": "This sense is a sound, not a written account or a school document.",
+      "examples": [
+        "The report of a rifle echoed across the valley.",
+        "We heard three sharp reports from the direction of the quarry."
+      ],
+      "branchCoverage": [
+        "a sharp explosive sound (especially the sound of a gun firing) -> a sudden loud bang, especially the noise made when a gun is fired"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "report%1:10:04:: -> a written account of a student's progress and conduct; report%1:11:00:: -> a sharp explosive noise, especially a gunshot; report%2:32:13:: -> cover events and write about them for a news outlet",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "report%2:32:13::",
+      "lemma": "report",
+      "pos": "v",
+      "definition": "be responsible for reporting the details of, as in journalism",
+      "sourceBranches": [
+        "be responsible for reporting the details of, as in journalism"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to be the person whose job is to gather the details of events and write them up for a newspaper, radio or television",
+      "scope": "This sense is about covering events for the news media, not about telling someone something in ordinary conversation.",
+      "examples": [
+        "She reports on local politics for the city paper.",
+        "He was sent to report from the flood zone for the evening news."
+      ],
+      "branchCoverage": [
+        "be responsible for reporting the details of, as in journalism -> to be the person whose job is to gather the details of events and write them up for a newspaper, radio or television"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "report%1:10:04:: -> a written account of a student's progress and conduct; report%1:11:00:: -> a sharp explosive noise, especially a gunshot; report%2:32:13:: -> cover events and write about them for a news outlet",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "third%1:06:00::",
+      "lemma": "third",
+      "pos": "n",
+      "definition": "the third from the lowest forward ratio gear in the gear box of a motor vehicle",
+      "sourceBranches": [
+        "the third from the lowest forward ratio gear in the gear box of a motor vehicle"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the forward gear that comes after the second one when you count up from the lowest in the gearbox of a car or other motor vehicle",
+      "scope": "This sense is a gear position in a vehicle, not a fraction of a whole or a person who comes after two others.",
+      "examples": [
+        "Shift into third before the bend, then brake gently.",
+        "The old car laboured in third on the steep hill."
+      ],
+      "branchCoverage": [
+        "the third from the lowest forward ratio gear in the gear box of a motor vehicle -> the forward gear that comes after the second one when you count up from the lowest in the gearbox of a car or other motor vehicle"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

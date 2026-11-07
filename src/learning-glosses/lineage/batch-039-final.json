@@ -1,0 +1,1154 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 39,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "reaction%1:04:00::",
+      "taste%1:09:02::"
+    ],
+    "lineage": {
+      "draft": "88c4a8186432a4718cfac756b36478cf89a98f72e294a79f1a1db3e21b582216"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "ordered%3:00:06::",
+      "lemma": "ordered",
+      "pos": "a",
+      "definition": "marked by an orderly, logical, and aesthetically consistent relation of parts",
+      "decision": "gloss",
+      "simpleMeaning": "Having parts that fit together in a neat, logical way that also looks or feels pleasing.",
+      "scope": "This describes how the parts of a whole fit together in a design or work of art; it is not about items following a rule-based sequence, and not merely about things being put in some arrangement.",
+      "examples": [
+        "The essay has an ordered structure, with each part leading logically into the next.",
+        "The painting's ordered composition keeps the eye moving smoothly."
+      ],
+      "branchCoverage": [
+        "marked by an orderly, logical, and aesthetically consistent relation of parts -> having parts that fit together in a neat, logical way that also looks or feels pleasing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by an orderly, logical, and aesthetically consistent relation of parts"
+      ],
+      "lemmaPartition": "ordered%3:00:06:: = the pleasing, logical fit of parts within a whole; ordered%3:00:00:: = elements following one another by a fixed rule; ordered%3:00:04:: = things set in some particular arrangement",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ordered%3:00:00::",
+      "lemma": "ordered",
+      "pos": "a",
+      "definition": "having a systematic arrangement; especially having elements succeeding in order according to rule",
+      "decision": "gloss",
+      "simpleMeaning": "Laid out as a system, with each element coming after the one before it according to a fixed rule.",
+      "scope": "This stresses a fixed rule that controls how one element follows another; it is not about the pleasing fit of parts in a design, and not just about things being put in some arrangement.",
+      "examples": [
+        "The names appear in an ordered list, sorted by rank.",
+        "In an ordered universe, every event follows a fixed law."
+      ],
+      "branchCoverage": [
+        "having a systematic arrangement -> laid out as a system",
+        "especially having elements succeeding in order according to rule -> each element coming after the one before it according to a fixed rule"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having a systematic arrangement",
+        "especially having elements succeeding in order according to rule"
+      ],
+      "lemmaPartition": "ordered%3:00:06:: = the pleasing, logical fit of parts within a whole; ordered%3:00:00:: = elements following one another by a fixed rule; ordered%3:00:04:: = things set in some particular arrangement",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ordered%3:00:04::",
+      "lemma": "ordered",
+      "pos": "a",
+      "definition": "disposed or placed in a particular kind of order",
+      "decision": "gloss",
+      "simpleMeaning": "Set out in a chosen arrangement of some kind.",
+      "scope": "This only says that things have been put into some arrangement; it does not say the arrangement follows a rule, and it does not judge it as logical or pleasing.",
+      "examples": [
+        "The books sat in ordered piles along the wall.",
+        "The chairs were placed in an ordered semicircle for the meeting."
+      ],
+      "branchCoverage": [
+        "disposed or placed in a particular kind of order -> set out in a chosen arrangement of some kind"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "disposed or placed in a particular kind of order"
+      ],
+      "lemmaPartition": "ordered%3:00:06:: = the pleasing, logical fit of parts within a whole; ordered%3:00:00:: = elements following one another by a fixed rule; ordered%3:00:04:: = things set in some particular arrangement",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "parliament%1:04:00::",
+      "lemma": "parliament",
+      "pos": "n",
+      "definition": "a card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards",
+      "decision": "gloss",
+      "simpleMeaning": "A card game where players lay down their sevens and then play other cards in sequence in the same suit as those sevens; the first person to use up all their cards wins.",
+      "scope": "This is a card game; it is not a law-making body or the building where such a body meets.",
+      "examples": [
+        "We played parliament after dinner, and my aunt was first to run out of cards.",
+        "In the card game parliament, the sevens open the piles and the other cards must follow in the same suit."
+      ],
+      "branchCoverage": [
+        "a card game in which you play your sevens and other cards in sequence in the same suit as the sevens -> a card game where players lay down their sevens and then play other cards in sequence in the same suit as those sevens",
+        "you win if you are the first to use all your cards -> the first person to use up all their cards wins"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a card game in which you play your sevens and other cards in sequence in the same suit as the sevens",
+        "you win if you are the first to use all your cards"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "prepared%5:00:00:equipped:00",
+      "lemma": "prepared",
+      "pos": "a",
+      "definition": "equipped or prepared with necessary intellectual resources",
+      "decision": "gloss",
+      "simpleMeaning": "Having the mental tools and knowledge needed for a task.",
+      "scope": "This describes a person's mental readiness and knowledge, not the fact that practical preparations have been made for an event.",
+      "examples": [
+        "Only a prepared mind could follow that lecture.",
+        "Years of study left her prepared for the hardest questions."
+      ],
+      "branchCoverage": [
+        "equipped or prepared with necessary intellectual resources -> having the mental tools and knowledge needed for a task"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "equipped or prepared with necessary intellectual resources"
+      ],
+      "lemmaPartition": "prepared%5:00:00:equipped:00 = mental and knowledge readiness; prepared%5:00:00:willing:00 = ready because practical preparations have been made",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "prepared%5:00:00:willing:00",
+      "lemma": "prepared",
+      "pos": "a",
+      "definition": "having made preparations",
+      "decision": "gloss",
+      "simpleMeaning": "Ready because the needed steps have already been taken.",
+      "scope": "This is about being ready after practical steps have been taken, not about having knowledge or mental ability.",
+      "examples": [
+        "They were prepared for the storm, with candles and water stored.",
+        "The team came prepared with a backup plan."
+      ],
+      "branchCoverage": [
+        "having made preparations -> ready because the needed steps have already been taken"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having made preparations"
+      ],
+      "lemmaPartition": "prepared%5:00:00:equipped:00 = mental and knowledge readiness; prepared%5:00:00:willing:00 = ready because practical preparations have been made",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reference%1:10:03::",
+      "lemma": "reference",
+      "pos": "n",
+      "definition": "a short note recognizing a source of information or of a quoted passage",
+      "decision": "gloss",
+      "simpleMeaning": "A brief note that names where a piece of information or a quotation came from.",
+      "scope": "This is a short written note naming a source; it is not the act of mentioning something, and not a person who recommends someone for a job.",
+      "examples": [
+        "Each quotation in the essay is followed by a short reference giving the author and page.",
+        "He added a reference at the bottom of the page so readers could find the source."
+      ],
+      "branchCoverage": [
+        "a short note recognizing a source of information or of a quoted passage -> a brief note that names where a piece of information or a quotation came from"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a short note recognizing a source of information or of a quoted passage"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "religion%1:09:00::",
+      "lemma": "religion",
+      "pos": "n",
+      "definition": "a strong belief in a supernatural power or powers that control human destiny",
+      "decision": "gloss",
+      "simpleMeaning": "A firm belief in a power or powers beyond nature that decide what happens to people.",
+      "scope": "This is a personal belief in a supernatural power; it is not the organized institution that expresses such belief.",
+      "examples": [
+        "For him, religion means trusting that a higher power guides human fate.",
+        "The tribe's religion centers on spirits that control the harvest."
+      ],
+      "branchCoverage": [
+        "a strong belief in a supernatural power or powers that control human destiny -> a firm belief in a power or powers beyond nature that decide what happens to people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a strong belief in a supernatural power or powers that control human destiny"
+      ],
+      "lemmaPartition": "religion%1:09:00:: = personal belief in a supernatural power or powers; religion%1:14:00:: = organized institution expressing belief in a divine power",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "religion%1:14:00::",
+      "lemma": "religion",
+      "pos": "n",
+      "definition": "an institution to express belief in a divine power",
+      "decision": "gloss",
+      "simpleMeaning": "An organized body set up so that people can express belief in a divine power.",
+      "scope": "This is the organized institution, not a person's belief in a supernatural power.",
+      "examples": [
+        "Religion has shaped the town's schools and charities for generations.",
+        "The law recognizes each religion as a separate legal body."
+      ],
+      "branchCoverage": [
+        "an institution to express belief in a divine power -> an organized body set up so that people can express belief in a divine power"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an institution to express belief in a divine power"
+      ],
+      "lemmaPartition": "religion%1:09:00:: = personal belief in a supernatural power or powers; religion%1:14:00:: = organized institution expressing belief in a divine power",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stated%5:00:00:explicit:00",
+      "lemma": "stated",
+      "pos": "a",
+      "definition": "declared as fact; explicitly stated",
+      "decision": "gloss",
+      "simpleMeaning": "Said openly and plainly as a fact.",
+      "scope": "This applies to something that has been put into words as a fact; it is not about something only suggested or implied.",
+      "examples": [
+        "The stated aim of the project is to cut costs by half.",
+        "Her stated reason for leaving was a wish to travel."
+      ],
+      "branchCoverage": [
+        "declared as fact -> said openly and plainly as a fact",
+        "explicitly stated -> said openly and plainly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "declared as fact",
+        "explicitly stated"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wine%1:13:00::",
+      "lemma": "wine",
+      "pos": "n",
+      "definition": "fermented juice (of grapes especially)",
+      "decision": "gloss",
+      "simpleMeaning": "A drink made from juice that has been fermented, usually juice from grapes.",
+      "scope": "This is the drink; it is not plain grape juice and not the dark red color of the same name.",
+      "examples": [
+        "They served a glass of red wine with dinner.",
+        "This wine is made from grapes grown in the valley."
+      ],
+      "branchCoverage": [
+        "fermented juice (of grapes especially) -> a drink made from juice that has been fermented, usually juice from grapes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fermented juice (of grapes especially)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "arm%1:08:00::",
+      "lemma": "arm",
+      "pos": "n",
+      "definition": "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+      "decision": "gloss",
+      "simpleMeaning": "One of the upper limbs of a person, strictly the part from the shoulder to the elbow but often meant as the whole limb.",
+      "scope": "This is a body part of a person; it is not a weapon, not a branch or section of an object, and not the act of getting ready for war.",
+      "examples": [
+        "She broke her arm when she fell off the bike.",
+        "He carried the box under his arm."
+      ],
+      "branchCoverage": [
+        "a human limb -> one of the upper limbs of a person",
+        "technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb -> strictly the part from the shoulder to the elbow but often meant as the whole limb"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a human limb",
+        "technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb"
+      ],
+      "lemmaPartition": "arm%1:08:00:: = a person's upper limb; arm%1:06:01:: = a tool used in fighting or hunting; arm%2:33:00:: = to get ready for military conflict",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "arm%1:06:01::",
+      "lemma": "arm",
+      "pos": "n",
+      "definition": "any instrument or instrumentality used in fighting or hunting",
+      "decision": "gloss",
+      "simpleMeaning": "Any tool or piece of equipment used for fighting or hunting.",
+      "scope": "This covers tools made for combat or the hunt; it is not a person's limb and not the act of getting ready for war.",
+      "examples": [
+        "The soldiers laid down their arms and surrendered.",
+        "Early hunters used simple arms such as spears and bows."
+      ],
+      "branchCoverage": [
+        "any instrument or instrumentality used in fighting or hunting -> any tool or piece of equipment used for fighting or hunting"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any instrument or instrumentality used in fighting or hunting"
+      ],
+      "lemmaPartition": "arm%1:08:00:: = a person's upper limb; arm%1:06:01:: = a tool used in fighting or hunting; arm%2:33:00:: = to get ready for military conflict",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "arm%2:33:00::",
+      "lemma": "arm",
+      "pos": "v",
+      "definition": "prepare oneself for a military confrontation",
+      "decision": "gloss",
+      "simpleMeaning": "To get oneself ready for a military clash.",
+      "scope": "This is about preparing for war, not about handing out weapons and not about a body part.",
+      "examples": [
+        "The country began to arm itself as tensions rose.",
+        "Both sides armed for a long conflict."
+      ],
+      "branchCoverage": [
+        "prepare oneself for a military confrontation -> to get oneself ready for a military clash"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "prepare oneself for a military confrontation"
+      ],
+      "lemmaPartition": "arm%1:08:00:: = a person's upper limb; arm%1:06:01:: = a tool used in fighting or hunting; arm%2:33:00:: = to get ready for military conflict",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "audience%1:14:00::",
+      "lemma": "audience",
+      "pos": "n",
+      "definition": "a gathering of spectators or listeners at a (usually public) performance",
+      "decision": "gloss",
+      "simpleMeaning": "A group of people who watch or listen to a performance, usually one that is open to the public.",
+      "scope": "This is the group gathered at a performance; it is not a formal meeting with an important person, and not the wider public that follows a show or publication.",
+      "examples": [
+        "The audience clapped loudly at the end of the play.",
+        "A small audience gathered in the square to hear the band."
+      ],
+      "branchCoverage": [
+        "a gathering of spectators or listeners at a (usually public) performance -> a group of people who watch or listen to a performance, usually one that is open to the public"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a gathering of spectators or listeners at a (usually public) performance"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bay%1:20:00::",
+      "lemma": "bay",
+      "pos": "n",
+      "definition": "small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking; also used by ancient Greeks to crown victors",
+      "decision": "gloss",
+      "simpleMeaning": "A small evergreen tree of the Mediterranean with dark berries and shiny, fragrant leaves used to flavor food; the ancient Greeks also used it to crown winners.",
+      "scope": "This is the tree and its leaves; it is not a curve in a coastline and not the long cry of a dog.",
+      "examples": [
+        "She dropped a bay leaf into the simmering sauce.",
+        "Ancient Greek victors were crowned with bay leaves."
+      ],
+      "branchCoverage": [
+        "small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking -> a small evergreen tree of the Mediterranean with dark berries and shiny, fragrant leaves used to flavor food",
+        "also used by ancient Greeks to crown victors -> the ancient Greeks also used it to crown winners"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking",
+        "also used by ancient Greeks to crown victors"
+      ],
+      "lemmaPartition": "bay%1:20:00:: = the Mediterranean evergreen tree and its leaves; bay%1:17:00:: = a coastal inlet between a cove and a gulf in size; bay%2:32:00:: = a dog's long bark; bay%2:32:01:: = to utter in deep prolonged tones",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bay%1:17:00::",
+      "lemma": "bay",
+      "pos": "n",
+      "definition": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+      "decision": "gloss",
+      "simpleMeaning": "A curved inward part of a coastline that is bigger than a cove but smaller than a gulf.",
+      "scope": "This is a coastal inlet of a certain size; it is not the tree, not a dog's long cry, and not a section of a room.",
+      "examples": [
+        "The boat anchored in a quiet bay sheltered from the wind.",
+        "We swam across the bay to the far beach."
+      ],
+      "branchCoverage": [
+        "an indentation of a shoreline larger than a cove but smaller than a gulf -> a curved inward part of a coastline that is bigger than a cove but smaller than a gulf"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an indentation of a shoreline larger than a cove but smaller than a gulf"
+      ],
+      "lemmaPartition": "bay%1:20:00:: = the Mediterranean evergreen tree and its leaves; bay%1:17:00:: = a coastal inlet between a cove and a gulf in size; bay%2:32:00:: = a dog's long bark; bay%2:32:01:: = to utter in deep prolonged tones",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bay%2:32:00::",
+      "lemma": "bay",
+      "pos": "v",
+      "definition": "bark with prolonged noises, of dogs",
+      "decision": "gloss",
+      "simpleMeaning": "Of a dog, to make long, drawn-out barking sounds.",
+      "scope": "This is a dog's long bark; it is not a person speaking in deep tones, not a coastal inlet, and not the tree.",
+      "examples": [
+        "The hounds bayed at the moon all night.",
+        "A dog bayed somewhere in the dark woods."
+      ],
+      "branchCoverage": [
+        "bark with prolonged noises, of dogs -> of a dog, to make long, drawn-out barking sounds"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "bark with prolonged noises, of dogs"
+      ],
+      "lemmaPartition": "bay%1:20:00:: = the Mediterranean evergreen tree and its leaves; bay%1:17:00:: = a coastal inlet between a cove and a gulf in size; bay%2:32:00:: = a dog's long bark; bay%2:32:01:: = to utter in deep prolonged tones",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bay%2:32:01::",
+      "lemma": "bay",
+      "pos": "v",
+      "definition": "utter in deep prolonged tones",
+      "decision": "defer",
+      "reason": "This is a rare, literary use of the verb, and any natural modern example would also fit the sibling dog-bark sense (bay%2:32:00::), so the two senses could not be illustrated distinctly.",
+      "sourceBranches": [
+        "utter in deep prolonged tones"
+      ],
+      "lemmaPartition": "bay%1:20:00:: = the Mediterranean evergreen tree and its leaves; bay%1:17:00:: = a coastal inlet between a cove and a gulf in size; bay%2:32:00:: = a dog's long bark; bay%2:32:01:: = to utter in deep prolonged tones",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "closer%4:02:00::",
+      "lemma": "closer",
+      "pos": "r",
+      "definition": "(comparative of ‘near’ or ‘close’) within a shorter distance",
+      "decision": "gloss",
+      "simpleMeaning": "At or to a shorter distance away than something else.",
+      "scope": "This compares distance between two things; it is not a person who shuts something.",
+      "examples": [
+        "Move closer so you can hear me.",
+        "The train came closer with every second."
+      ],
+      "branchCoverage": [
+        "(comparative of ‘near’ or ‘close’) within a shorter distance -> at or to a shorter distance away than something else"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(comparative of ‘near’ or ‘close’) within a shorter distance"
+      ],
+      "lemmaPartition": "closer%4:02:00:: = at a shorter distance; closer%1:18:01:: = a person who shuts something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "closer%1:18:01::",
+      "lemma": "closer",
+      "pos": "n",
+      "definition": "a person who closes something",
+      "decision": "gloss",
+      "simpleMeaning": "Someone who shuts something.",
+      "scope": "This names a person, not the comparative form used to compare distances.",
+      "examples": [
+        "I'm the closer tonight, so I lock up the shop.",
+        "The museum's closer walks through every gallery before locking the doors."
+      ],
+      "branchCoverage": [
+        "a person who closes something -> someone who shuts something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who closes something"
+      ],
+      "lemmaPartition": "closer%4:02:00:: = at a shorter distance; closer%1:18:01:: = a person who shuts something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "description%1:10:00::",
+      "lemma": "description",
+      "pos": "n",
+      "definition": "the act of describing something",
+      "decision": "gloss",
+      "simpleMeaning": "The act of telling or writing what something is like.",
+      "scope": "This is the action of telling what something is like, not a particular written account and not a kind or sort of thing.",
+      "examples": [
+        "Her strength as a writer is description rather than dialogue.",
+        "Accurate description requires close attention to detail."
+      ],
+      "branchCoverage": [
+        "the act of describing something -> the act of telling or writing what something is like"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of describing something"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "exist%2:42:00::",
+      "lemma": "exist",
+      "pos": "v",
+      "definition": "have an existence, be extant",
+      "decision": "gloss",
+      "simpleMeaning": "To be real and present in the world.",
+      "scope": "This is about being real at all, not about staying alive or supporting oneself.",
+      "examples": [
+        "Dinosaurs no longer exist.",
+        "Do ghosts really exist?"
+      ],
+      "branchCoverage": [
+        "have an existence, be extant -> to be real and present in the world"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have an existence, be extant"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "guard%1:18:01::",
+      "lemma": "guard",
+      "pos": "n",
+      "definition": "the person who lines up between the center and the tackles on the offensive line of a football team on the line of scrimmage",
+      "decision": "gloss",
+      "simpleMeaning": "In American football, a player on the attacking line who stands between the center and a tackle at the start of a play.",
+      "scope": "This is a football position, not someone who keeps a place safe.",
+      "examples": [
+        "The guard pulled to the right to block for the runner.",
+        "He played guard on the offensive line in college."
+      ],
+      "branchCoverage": [
+        "the person who lines up between the center and the tackles on the offensive line of a football team on the line of scrimmage -> in American football, a player on the attacking line who stands between the center and a tackle at the start of a play"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the person who lines up between the center and the tackles on the offensive line of a football team on the line of scrimmage"
+      ],
+      "lemmaPartition": "guard%1:18:01:: = a football position on the attacking line; guard%2:33:00:: = to keep someone or something safe from harm",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "guard%2:33:00::",
+      "lemma": "guard",
+      "pos": "v",
+      "definition": "watch over or shield from danger or harm; protect",
+      "decision": "gloss",
+      "simpleMeaning": "To watch over someone or something and keep them safe from danger or harm.",
+      "scope": "This is the action of keeping someone or something safe; it is not a football player's position and not the person standing watch.",
+      "examples": [
+        "Two soldiers guarded the entrance all night.",
+        "The dog guards the sheep from wolves."
+      ],
+      "branchCoverage": [
+        "watch over or shield from danger or harm -> to watch over someone or something and keep them safe from danger or harm",
+        "protect -> keep them safe"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "watch over or shield from danger or harm",
+        "protect"
+      ],
+      "lemmaPartition": "guard%1:18:01:: = a football position on the attacking line; guard%2:33:00:: = to keep someone or something safe from harm",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "honest%3:00:00::",
+      "lemma": "honest",
+      "pos": "a",
+      "definition": "not disposed to cheat or defraud; not deceptive or fraudulent; marked by truth",
+      "decision": "gloss",
+      "simpleMeaning": "telling the truth and not cheating, lying, or tricking people.",
+      "scope": "This is not about something being genuine rather than fake, and not about plainness or simplicity; it describes a person or act that does not cheat or deceive and is truthful.",
+      "examples": [
+        "She gave an honest answer to every question.",
+        "He is too honest to take the money."
+      ],
+      "branchCoverage": [
+        "not disposed to cheat or defraud -> not cheating",
+        "not deceptive or fraudulent -> not lying, or tricking people",
+        "marked by truth -> telling the truth"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "not disposed to cheat or defraud",
+        "not deceptive or fraudulent",
+        "marked by truth"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "joined%5:00:00:connected:00",
+      "lemma": "joined",
+      "pos": "a",
+      "definition": "connected by a link, as railway cars or trailer trucks",
+      "decision": "gloss",
+      "simpleMeaning": "linked together, as when one railway car or trailer is attached to another.",
+      "scope": "This is not about two people or groups forming a partnership, and not about pieces being glued or fused into one piece; it means separate vehicles or units are connected to each other by a link.",
+      "examples": [
+        "The joined carriages rattled along the track.",
+        "The truck pulled two joined trailers."
+      ],
+      "branchCoverage": [
+        "connected by a link, as railway cars or trailer trucks -> linked together, as when one railway car or trailer is attached to another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "connected by a link, as railway cars or trailer trucks"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "medicine%1:09:00::",
+      "lemma": "medicine",
+      "pos": "n",
+      "definition": "the branches of medical science that deal with nonsurgical techniques",
+      "decision": "gloss",
+      "simpleMeaning": "the areas of science that treat illness using methods other than surgery.",
+      "scope": "This is not a drug or other substance taken to treat illness, and not the practice of surgery; it names the fields of science that treat illness without operations.",
+      "examples": [
+        "He specializes in internal medicine.",
+        "Modern medicine offers many treatments that avoid surgery."
+      ],
+      "branchCoverage": [
+        "the branches of medical science that deal with nonsurgical techniques -> the areas of science that treat illness using methods other than surgery"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the branches of medical science that deal with nonsurgical techniques"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mention%1:10:02::",
+      "lemma": "mention",
+      "pos": "n",
+      "definition": "a short note recognizing a source of information or of a quoted passage",
+      "decision": "gloss",
+      "simpleMeaning": "a short note that names where a piece of information or a quotation came from.",
+      "scope": "This is not a brief spoken or written comment about a person or thing, and not the act of naming something in passing; it is a short note that credits the source of information or of a quotation.",
+      "examples": [
+        "There is a mention of the original study in the footnote.",
+        "Each quotation in the essay is followed by a mention of its source."
+      ],
+      "branchCoverage": [
+        "a short note recognizing a source of information or of a quoted passage -> a short note that names where a piece of information or a quotation came from"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a short note recognizing a source of information or of a quoted passage"
+      ],
+      "lemmaPartition": "mention%1:10:02:: = noun: a short note crediting the source of information or of a quotation\nmention%2:32:00:: = verb: speak or write about something briefly",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mention%2:32:00::",
+      "lemma": "mention",
+      "pos": "v",
+      "definition": "make mention of",
+      "decision": "gloss",
+      "simpleMeaning": "to speak or write about something briefly.",
+      "scope": "This is not a short note that credits a source, and not a long discussion; it means to say or write something about a subject briefly.",
+      "examples": [
+        "She mentioned the meeting to me yesterday.",
+        "He mentioned that he might be late."
+      ],
+      "branchCoverage": [
+        "make mention of -> to speak or write about something briefly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make mention of"
+      ],
+      "lemmaPartition": "mention%1:10:02:: = noun: a short note crediting the source of information or of a quotation\nmention%2:32:00:: = verb: speak or write about something briefly",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nuclear%3:00:00::",
+      "lemma": "nuclear",
+      "pos": "a",
+      "definition": "(weapons) deriving destructive energy from the release of atomic energy",
+      "decision": "gloss",
+      "simpleMeaning": "using the enormous destructive force released from atomic energy, as certain weapons do.",
+      "scope": "This is not the sense relating to the nucleus of a cell or atom, and not about atomic energy used for peaceful power; it describes weapons powered by destructive atomic energy.",
+      "examples": [
+        "The country tested a nuclear weapon in the desert.",
+        "Nuclear bombs release enormous destructive energy."
+      ],
+      "branchCoverage": [
+        "(weapons) deriving destructive energy from the release of atomic energy -> using the enormous destructive force released from atomic energy, as certain weapons do"
+      ],
+      "labelBranches": [
+        "(weapons): domain label marking that this sense is used of weapons; the rest of the branch carries the meaning"
+      ],
+      "sourceBranches": [
+        "(weapons) deriving destructive energy from the release of atomic energy"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "presence%1:18:00::",
+      "lemma": "presence",
+      "pos": "n",
+      "definition": "an invisible spiritual being felt to be nearby",
+      "decision": "gloss",
+      "simpleMeaning": "a spirit that cannot be seen but is sensed as being close by.",
+      "scope": "This is not the state of being in a place, and not the impressive manner in which someone carries themselves; it names a spirit that cannot be seen but is sensed nearby.",
+      "examples": [
+        "She felt a presence in the empty room.",
+        "The old house was said to have a presence that watched over it."
+      ],
+      "branchCoverage": [
+        "an invisible spiritual being felt to be nearby -> a spirit that cannot be seen but is sensed as being close by"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an invisible spiritual being felt to be nearby"
+      ],
+      "lemmaPartition": "presence%1:18:00:: = noun: an invisible spirit sensed as being nearby\npresence%1:26:00:: = noun: the fact of being in a place or of existing now",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "presence%1:26:00::",
+      "lemma": "presence",
+      "pos": "n",
+      "definition": "the state of being present; current existence",
+      "decision": "gloss",
+      "simpleMeaning": "the fact of being in a place at a particular time, or of existing now.",
+      "scope": "This is not a spirit that is sensed nearby, and not the way a person carries themselves; it is the fact that someone or something is in a place or exists now.",
+      "examples": [
+        "Your presence at the meeting is required.",
+        "The presence of bacteria in the water was confirmed."
+      ],
+      "branchCoverage": [
+        "the state of being present -> the fact of being in a place at a particular time",
+        "current existence -> of existing now"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the state of being present",
+        "current existence"
+      ],
+      "lemmaPartition": "presence%1:18:00:: = noun: an invisible spirit sensed as being nearby\npresence%1:26:00:: = noun: the fact of being in a place or of existing now",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reaction%1:04:00::",
+      "lemma": "reaction",
+      "pos": "n",
+      "definition": "a bodily process occurring due to the effect of some antecedent stimulus or agent",
+      "decision": "gloss",
+      "simpleMeaning": "a physical change in the body caused by a drug, food, or other trigger acting on it.",
+      "scope": "This is not an emotional or behavioral response, and not a chemical change between substances; it is a process in the body brought on by something acting on it.",
+      "examples": [
+        "The vaccine caused a mild reaction at the injection site.",
+        "Her body had a strong reaction to the medication."
+      ],
+      "branchCoverage": [
+        "a bodily process occurring due to the effect of some antecedent stimulus or agent -> a physical change in the body caused by a drug, food, or other trigger acting on it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a bodily process occurring due to the effect of some antecedent stimulus or agent"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Replace technical 'stimulus' with plain wording, e.g. 'a drug or other trigger'."
+    },
+    {
+      "senseId": "reduce%2:30:00::",
+      "lemma": "reduce",
+      "pos": "v",
+      "definition": "cut down on; make a reduction in",
+      "decision": "gloss",
+      "simpleMeaning": "to make something smaller in amount, size, or level.",
+      "scope": "This is not to boil a liquid down until it thickens, not to change something into another form, and not to lower someone in rank or position; it means to make an amount, size, or level smaller.",
+      "examples": [
+        "We need to reduce the amount of waste we produce.",
+        "The medicine reduced her pain within an hour."
+      ],
+      "branchCoverage": [
+        "cut down on -> to make something smaller in amount",
+        "make a reduction in -> smaller in amount, size, or level"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cut down on",
+        "make a reduction in"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shoot%1:04:00::",
+      "lemma": "shoot",
+      "pos": "n",
+      "definition": "the act of shooting at targets",
+      "decision": "gloss",
+      "simpleMeaning": "the activity of aiming a weapon at targets and firing, especially as a sport.",
+      "scope": "This is not a new branch growing from a plant, not a photography session, and not the firing of a gun at a person; it is the activity or event of aiming at targets.",
+      "examples": [
+        "The archery shoot attracted competitors from across the county.",
+        "He took part in a shoot at the rifle range."
+      ],
+      "branchCoverage": [
+        "the act of shooting at targets -> the activity of aiming a weapon at targets and firing, especially as a sport"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of shooting at targets"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "solid%1:26:00::",
+      "lemma": "solid",
+      "pos": "n",
+      "definition": "the state in which a substance has no tendency to flow under moderate stress; resists forces (such as compression) that tend to deform it; and retains a definite size and shape",
+      "decision": "gloss",
+      "simpleMeaning": "the condition of a material that does not flow when pushed with ordinary force, keeps its own size and shape, and holds up against being squeezed or bent.",
+      "scope": "This is not a three-dimensional shape or object, and not a substance itself; it names the physical condition of a material that keeps its shape and resists pressure.",
+      "examples": [
+        "The wax changes from a liquid to a solid as it cools.",
+        "The gas turns directly into a solid at very low temperatures."
+      ],
+      "branchCoverage": [
+        "the state in which a substance has no tendency to flow under moderate stress -> the condition of a material that does not flow when pushed with ordinary force",
+        "resists forces (such as compression) that tend to deform it -> holds up against being squeezed or bent",
+        "and retains a definite size and shape -> keeps its own size and shape"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the state in which a substance has no tendency to flow under moderate stress",
+        "resists forces (such as compression) that tend to deform it",
+        "and retains a definite size and shape"
+      ],
+      "lemmaPartition": "solid%1:26:00:: = noun: the state of a material that does not flow, resists pressure and keeps its size and shape\nsolid%1:25:00:: = noun: a rigid three-dimensional object\nsolid%3:00:01:: = adjective: firm, of fixed shape and volume, neither liquid nor gas\nsolid%1:27:04:: = noun: matter that is firm at room temperature and pressure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "solid%1:25:00::",
+      "lemma": "solid",
+      "pos": "n",
+      "definition": "a three-dimensional object, structurally rigid, usually resistant to changes of shape or volume",
+      "decision": "gloss",
+      "simpleMeaning": "a three-dimensional thing with a firm structure that usually keeps its shape and size.",
+      "scope": "This is not the physical state of a material, and not a substance such as ice or iron; it names an object that has length, width and depth and a rigid structure.",
+      "examples": [
+        "A cube is a solid with six square faces.",
+        "The design software lets you build a solid from simple shapes."
+      ],
+      "branchCoverage": [
+        "a three-dimensional object, structurally rigid, usually resistant to changes of shape or volume -> a three-dimensional thing with a firm structure that usually keeps its shape and size"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a three-dimensional object, structurally rigid, usually resistant to changes of shape or volume"
+      ],
+      "lemmaPartition": "solid%1:26:00:: = noun: the state of a material that does not flow, resists pressure and keeps its size and shape\nsolid%1:25:00:: = noun: a rigid three-dimensional object\nsolid%3:00:01:: = adjective: firm, of fixed shape and volume, neither liquid nor gas\nsolid%1:27:04:: = noun: matter that is firm at room temperature and pressure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "solid%3:00:01::",
+      "lemma": "solid",
+      "pos": "a",
+      "definition": "of definite shape and volume; firm; neither liquid nor gaseous",
+      "decision": "gloss",
+      "simpleMeaning": "a substance of this kind is firm, has a fixed shape and volume, and is neither liquid nor gas.",
+      "scope": "This is not the sense meaning dependable or strongly built, and not the sense meaning without breaks or gaps; it describes a substance that is firm and keeps a fixed shape and volume rather than flowing.",
+      "examples": [
+        "The pond froze solid overnight.",
+        "Butter is solid at room temperature."
+      ],
+      "branchCoverage": [
+        "of definite shape and volume -> has a fixed shape and volume",
+        "firm -> is firm",
+        "neither liquid nor gaseous -> is neither liquid nor gas"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of definite shape and volume",
+        "firm",
+        "neither liquid nor gaseous"
+      ],
+      "lemmaPartition": "solid%1:26:00:: = noun: the state of a material that does not flow, resists pressure and keeps its size and shape\nsolid%1:25:00:: = noun: a rigid three-dimensional object\nsolid%3:00:01:: = adjective: firm, of fixed shape and volume, neither liquid nor gas\nsolid%1:27:04:: = noun: matter that is firm at room temperature and pressure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "solid%1:27:04::",
+      "lemma": "solid",
+      "pos": "n",
+      "definition": "matter that is solid at room temperature and pressure",
+      "decision": "gloss",
+      "simpleMeaning": "material that stays firm at ordinary room temperature and pressure.",
+      "scope": "This is not the physical condition of keeping a shape under pressure, and not a three-dimensional geometric object; it names a kind of matter that is firm at ordinary room temperature and pressure, such as metal or wood.",
+      "examples": [
+        "The lesson introduced solids, liquids and gases.",
+        "Most metals are solids at room temperature."
+      ],
+      "branchCoverage": [
+        "matter that is solid at room temperature and pressure -> material that stays firm at ordinary room temperature and pressure"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "matter that is solid at room temperature and pressure"
+      ],
+      "lemmaPartition": "solid%1:26:00:: = noun: the state of a material that does not flow, resists pressure and keeps its size and shape\nsolid%1:25:00:: = noun: a rigid three-dimensional object\nsolid%3:00:01:: = adjective: firm, of fixed shape and volume, neither liquid nor gas\nsolid%1:27:04:: = noun: matter that is firm at room temperature and pressure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sport%1:18:03::",
+      "lemma": "sport",
+      "pos": "n",
+      "definition": "(Maine colloquial) a temporary summer resident of Maine",
+      "decision": "gloss",
+      "simpleMeaning": "a person who spends the summer in Maine but lives elsewhere the rest of the year.",
+      "scope": "This is not an athletic activity, not a person who plays games, and not a way of showing off; it is a local Maine word for someone who stays in the state only for the summer.",
+      "examples": [
+        "The old fisherman called the summer people sports.",
+        "Local shops rely on the sports who come every June."
+      ],
+      "branchCoverage": [
+        "(Maine colloquial) a temporary summer resident of Maine -> a person who spends the summer in Maine but lives elsewhere the rest of the year"
+      ],
+      "labelBranches": [
+        "(Maine colloquial): regional and register label marking informal local usage in Maine; the rest of the branch carries the meaning"
+      ],
+      "sourceBranches": [
+        "(Maine colloquial) a temporary summer resident of Maine"
+      ],
+      "lemmaPartition": "sport%1:18:03:: = noun: (Maine colloquial) a temporary summer resident of Maine\nsport%1:04:01:: = noun: the paid occupation of athletes who compete for money\nsport%2:42:00:: = verb: wear or display something proudly and ostentatiously",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sport%1:04:01::",
+      "lemma": "sport",
+      "pos": "n",
+      "definition": "the occupation of athletes who compete for pay",
+      "decision": "gloss",
+      "simpleMeaning": "the job of athletes who play games or take part in competitions for money.",
+      "scope": "This is not a game played for fun, not a single competition, and not the Maine word for a summer visitor; it is the paid occupation of athletes who compete for money.",
+      "examples": [
+        "He has made a career in professional sport.",
+        "She earns her living from sport."
+      ],
+      "branchCoverage": [
+        "the occupation of athletes who compete for pay -> the job of athletes who play games or take part in competitions for money"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the occupation of athletes who compete for pay"
+      ],
+      "lemmaPartition": "sport%1:18:03:: = noun: (Maine colloquial) a temporary summer resident of Maine\nsport%1:04:01:: = noun: the paid occupation of athletes who compete for money\nsport%2:42:00:: = verb: wear or display something proudly and ostentatiously",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sport%2:42:00::",
+      "lemma": "sport",
+      "pos": "v",
+      "definition": "wear or display in an ostentatious or proud manner",
+      "decision": "gloss",
+      "simpleMeaning": "to wear or show off something in a proud, attention-seeking way.",
+      "scope": "This is not to take part in a game or to play around, and not to be a paid athlete; it means to wear or display something proudly so that others notice it.",
+      "examples": [
+        "He was sporting a bright new watch.",
+        "She sported a huge hat at the wedding."
+      ],
+      "branchCoverage": [
+        "wear or display in an ostentatious or proud manner -> to wear or show off something in a proud, attention-seeking way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "wear or display in an ostentatious or proud manner"
+      ],
+      "lemmaPartition": "sport%1:18:03:: = noun: (Maine colloquial) a temporary summer resident of Maine\nsport%1:04:01:: = noun: the paid occupation of athletes who compete for money\nsport%2:42:00:: = verb: wear or display something proudly and ostentatiously",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "steps%1:06:00::",
+      "lemma": "steps",
+      "pos": "n",
+      "definition": "a flight of stairs or a flight of steps",
+      "decision": "gloss",
+      "simpleMeaning": "a set of stairs leading from one level to another.",
+      "scope": "This is not a single stair, not the movements of the feet in walking, and not a stage in a process; it names a whole set of stairs connecting two levels.",
+      "examples": [
+        "She ran up the steps to the door.",
+        "The steps at the back of the building lead to the garden."
+      ],
+      "branchCoverage": [
+        "a flight of stairs or a flight of steps -> a set of stairs leading from one level to another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a flight of stairs or a flight of steps"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stress%1:10:01::",
+      "lemma": "stress",
+      "pos": "n",
+      "definition": "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)",
+      "decision": "gloss",
+      "simpleMeaning": "the greater emphasis placed on a syllable or musical note, especially in terms of force or pitch.",
+      "scope": "This is not worry or mental pressure, and not the special importance given to an idea; it names the relative emphasis on a syllable or note in speech or music.",
+      "examples": [
+        "In the word 'record', the stress falls on the first syllable.",
+        "The stress in the melody falls on the second beat."
+      ],
+      "branchCoverage": [
+        "the relative prominence of a syllable or musical note (especially with regard to stress or pitch) -> the greater emphasis placed on a syllable or musical note, especially in terms of force or pitch"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)"
+      ],
+      "lemmaPartition": "stress%1:10:01:: = noun: the relative emphasis on a syllable or musical note\nstress%2:32:01:: = verb: pronounce a syllable or note with extra force\nstress%2:32:00:: = verb: single out something as important",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stress%2:32:01::",
+      "lemma": "stress",
+      "pos": "v",
+      "definition": "put stress on; utter with an accent",
+      "decision": "gloss",
+      "simpleMeaning": "to give extra emphasis to a syllable or musical note when speaking or playing it.",
+      "scope": "This is not to emphasize an idea or point in an argument, and not to feel worried; it means to pronounce a syllable or play a note with extra force.",
+      "examples": [
+        "The teacher stressed the second syllable of the word.",
+        "Stress the final note and hold it."
+      ],
+      "branchCoverage": [
+        "put stress on -> to give extra emphasis to a syllable or musical note",
+        "utter with an accent -> when speaking or playing it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "put stress on",
+        "utter with an accent"
+      ],
+      "lemmaPartition": "stress%1:10:01:: = noun: the relative emphasis on a syllable or musical note\nstress%2:32:01:: = verb: pronounce a syllable or note with extra force\nstress%2:32:00:: = verb: single out something as important",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stress%2:32:00::",
+      "lemma": "stress",
+      "pos": "v",
+      "definition": "to stress, single out as important",
+      "decision": "gloss",
+      "simpleMeaning": "to single something out as important when speaking or writing.",
+      "scope": "This is not to pronounce a syllable or note with extra force, and not to feel mental pressure; it means to single something out as important.",
+      "examples": [
+        "The report stressed the need for more teachers.",
+        "She stressed that safety comes first."
+      ],
+      "branchCoverage": [
+        "to stress, single out as important -> to single something out as important when speaking or writing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "to stress, single out as important"
+      ],
+      "lemmaPartition": "stress%1:10:01:: = noun: the relative emphasis on a syllable or musical note\nstress%2:32:01:: = verb: pronounce a syllable or note with extra force\nstress%2:32:00:: = verb: single out something as important",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "taste%1:09:02::",
+      "lemma": "taste",
+      "pos": "n",
+      "definition": "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus",
+      "decision": "gloss",
+      "simpleMeaning": "the feeling produced in the mouth when tiny sensors on the tongue and throat detect what a dissolved substance is made of.",
+      "scope": "This is not the ability to judge what is good or beautiful, and not a personal liking for something; it is the physical sensation produced in the mouth by a dissolved substance.",
+      "examples": [
+        "The medicine left a bitter taste in my mouth.",
+        "The soup had a strong taste of garlic."
+      ],
+      "branchCoverage": [
+        "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus -> the feeling produced in the mouth when tiny sensors on the tongue and throat detect what a dissolved substance is made of"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus"
+      ],
+      "lemmaPartition": "taste%1:09:02:: = noun: the mouth sensation produced by a dissolved substance\ntaste%1:09:01:: = noun: refined judgment of beauty and quality, especially in art\ntaste%2:39:00:: = verb: perceive a flavor through the mouth",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 has taste filling a room; that is smell, not a mouth sensation."
+    },
+    {
+      "senseId": "taste%1:09:01::",
+      "lemma": "taste",
+      "pos": "n",
+      "definition": "delicate discrimination (especially of esthetic values)",
+      "decision": "gloss",
+      "simpleMeaning": "a refined ability to judge what is good, beautiful, or of high quality, especially in matters of beauty and art.",
+      "scope": "This is not the physical sensation of flavor in the mouth, and not a personal preference for one thing over another; it is a refined ability to judge what is beautiful or of good quality.",
+      "examples": [
+        "She has excellent taste in music.",
+        "The decor shows a great deal of taste."
+      ],
+      "branchCoverage": [
+        "delicate discrimination (especially of esthetic values) -> a refined ability to judge what is good, beautiful, or of high quality, especially in matters of beauty and art"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "delicate discrimination (especially of esthetic values)"
+      ],
+      "lemmaPartition": "taste%1:09:02:: = noun: the mouth sensation produced by a dissolved substance\ntaste%1:09:01:: = noun: refined judgment of beauty and quality, especially in art\ntaste%2:39:00:: = verb: perceive a flavor through the mouth",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "taste%2:39:00::",
+      "lemma": "taste",
+      "pos": "v",
+      "definition": "perceive by the sense of taste",
+      "decision": "gloss",
+      "simpleMeaning": "to notice the flavor of something using the mouth and tongue.",
+      "scope": "This is not to judge beauty or quality, and not to have a liking for something; it means to become aware of a flavor through the mouth.",
+      "examples": [
+        "I can taste garlic in the sauce.",
+        "He tasted the soup and added more salt."
+      ],
+      "branchCoverage": [
+        "perceive by the sense of taste -> to notice the flavor of something using the mouth and tongue"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "perceive by the sense of taste"
+      ],
+      "lemmaPartition": "taste%1:09:02:: = noun: the mouth sensation produced by a dissolved substance\ntaste%1:09:01:: = noun: refined judgment of beauty and quality, especially in art\ntaste%2:39:00:: = verb: perceive a flavor through the mouth",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

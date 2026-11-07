@@ -1,0 +1,1148 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 42,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 50,
+      "of": 50,
+      "rate": 1.0
+    },
+    "selfApproved": [],
+    "lineage": {
+      "draft": "cdc3bffa7d421b656a162af73a23f43e2e3860aa45cba9b8b6a9cf589744250b"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "vice%1:06:01::",
+      "lemma": "vice",
+      "pos": "n",
+      "definition": "a holding device attached to a workbench; has two jaws to hold workpiece firmly in place",
+      "decision": "gloss",
+      "simpleMeaning": "It is a tool fastened to a workbench, with two jaws that grip the piece you are working on so it stays firmly in place.",
+      "scope": "This is the workshop tool for holding wood or metal, not the sense of a bad habit or moral fault.",
+      "examples": [
+        "The carpenter tightened the vice until the wood could not move.",
+        "She clamped the metal bar in the vice and began to file it."
+      ],
+      "branchCoverage": [
+        "a holding device attached to a workbench -> a tool fastened to a workbench",
+        "has two jaws to hold workpiece firmly in place -> with two jaws that grip the piece you are working on so it stays firmly in place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a holding device attached to a workbench",
+        "has two jaws to hold workpiece firmly in place"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "warm%3:00:03::",
+      "lemma": "warm",
+      "pos": "a",
+      "definition": "inducing the impression of warmth; used especially of reds and oranges and yellows when referring to color",
+      "decision": "gloss",
+      "simpleMeaning": "It describes colors, especially red, orange and yellow, that seem to give off a feeling of heat.",
+      "scope": "This describes the feeling a color creates, not the temperature of an object or a friendly manner.",
+      "examples": [
+        "The room was painted in warm shades of orange and gold.",
+        "Designers often use warm colors to make a space feel cozier."
+      ],
+      "branchCoverage": [
+        "inducing the impression of warmth -> that seem to give off a feeling of heat",
+        "used especially of reds and oranges and yellows when referring to color -> It describes colors, especially red, orange and yellow"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "inducing the impression of warmth",
+        "used especially of reds and oranges and yellows when referring to color"
+      ],
+      "lemmaPartition": "warm%3:00:01:: -> physical heat that feels comfortable or is kept in\nwarm%3:00:02:: -> a friendly, responsive manner toward people\nwarm%3:00:03:: -> colors that seem to give a feeling of heat",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "warm%3:00:01::",
+      "lemma": "warm",
+      "pos": "a",
+      "definition": "having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat",
+      "decision": "gloss",
+      "simpleMeaning": "It describes something that has or gives out a pleasantly comfortable amount of heat, or that can hold that heat in.",
+      "scope": "This is about physical heat that feels good, not about colors or a friendly manner.",
+      "examples": [
+        "The bread was still warm from the oven.",
+        "She put on a warm coat before going outside."
+      ],
+      "branchCoverage": [
+        "having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat -> has or gives out a pleasantly comfortable amount of heat, or that can hold that heat in"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat"
+      ],
+      "lemmaPartition": "warm%3:00:01:: -> physical heat that feels comfortable or is kept in\nwarm%3:00:02:: -> a friendly, responsive manner toward people\nwarm%3:00:03:: -> colors that seem to give a feeling of heat",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "warm%3:00:02::",
+      "lemma": "warm",
+      "pos": "a",
+      "definition": "psychologically warm; friendly and responsive",
+      "decision": "gloss",
+      "simpleMeaning": "It describes a person who is friendly and kind, showing real interest in other people and responding to their feelings.",
+      "scope": "This describes a person's manner, not physical heat or the feeling a color gives.",
+      "examples": [
+        "She greeted us with a warm smile.",
+        "His warm reply made me feel at ease."
+      ],
+      "branchCoverage": [
+        "psychologically warm -> It describes a person who is friendly and kind",
+        "friendly and responsive -> showing real interest in other people and responding to their feelings"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "psychologically warm",
+        "friendly and responsive"
+      ],
+      "lemmaPartition": "warm%3:00:01:: -> physical heat that feels comfortable or is kept in\nwarm%3:00:02:: -> a friendly, responsive manner toward people\nwarm%3:00:03:: -> colors that seem to give a feeling of heat",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "afraid%5:00:00:concerned:00",
+      "lemma": "afraid",
+      "pos": "a",
+      "definition": "filled with regret or concern; used often to soften an unpleasant statement",
+      "decision": "gloss",
+      "simpleMeaning": "It describes feeling sorry or worried about something and is often used to make an unpleasant statement sound gentler.",
+      "scope": "This is the sorry-or-worried use that softens bad news, not the sense of being frightened.",
+      "examples": [
+        "I'm afraid we won't be able to come to dinner after all.",
+        "I'm afraid the shop is already closed."
+      ],
+      "branchCoverage": [
+        "filled with regret or concern -> feeling sorry or worried about something",
+        "used often to soften an unpleasant statement -> is often used to make an unpleasant statement sound gentler"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "filled with regret or concern",
+        "used often to soften an unpleasant statement"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beer%1:13:00::",
+      "lemma": "beer",
+      "pos": "n",
+      "definition": "a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops",
+      "decision": "gloss",
+      "simpleMeaning": "It is a general name for alcoholic drinks made from fermented grain, or a mix of grains, and flavored with hops.",
+      "scope": "This is the broad name for such drinks, not one particular style such as lager or stout.",
+      "examples": [
+        "He ordered a cold beer with his meal.",
+        "The brewery makes several kinds of beer."
+      ],
+      "branchCoverage": [
+        "a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops -> It is a general name for alcoholic drinks made from fermented grain, or a mix of grains, and flavored with hops"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "border%2:35:01::",
+      "lemma": "border",
+      "pos": "v",
+      "definition": "extend on all sides of simultaneously; encircle",
+      "decision": "gloss",
+      "simpleMeaning": "It means to run along every side of something at the same time, so that the thing is completely surrounded.",
+      "scope": "This is about surrounding something on all sides, not about lying next to it on just one side.",
+      "examples": [
+        "Fields of wheat border the road on both sides.",
+        "A ring of tall trees borders the meadow."
+      ],
+      "branchCoverage": [
+        "extend on all sides of simultaneously -> to run along every side of something at the same time",
+        "encircle -> so that the thing is completely surrounded"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "extend on all sides of simultaneously",
+        "encircle"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "command%1:07:00::",
+      "lemma": "command",
+      "pos": "n",
+      "definition": "the power or authority to command",
+      "decision": "gloss",
+      "simpleMeaning": "It is the right or power to give orders and have them obeyed.",
+      "scope": "This is the authority a person holds, not a single order that is given.",
+      "examples": [
+        "He was given command of the ship.",
+        "The new officer took command of the unit at dawn."
+      ],
+      "branchCoverage": [
+        "the power or authority to command -> It is the right or power to give orders and have them obeyed"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the power or authority to command"
+      ],
+      "lemmaPartition": "command%1:07:00:: -> the authority or right to give orders, as something a person holds\ncommand%2:32:01:: -> the act of being the person in charge of a group or operation",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "command%2:32:01::",
+      "lemma": "command",
+      "pos": "v",
+      "definition": "be in command of",
+      "decision": "gloss",
+      "simpleMeaning": "It means to be the person in charge of a group, ship, or operation.",
+      "scope": "This is about holding a position of leadership, not about giving one particular order.",
+      "examples": [
+        "She commands a battalion of soldiers.",
+        "He commanded the rescue operation for three days."
+      ],
+      "branchCoverage": [
+        "be in command of -> to be the person in charge of a group, ship, or operation"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be in command of"
+      ],
+      "lemmaPartition": "command%1:07:00:: -> the authority or right to give orders, as something a person holds\ncommand%2:32:01:: -> the act of being the person in charge of a group or operation",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "crowd%2:42:00::",
+      "lemma": "crowd",
+      "pos": "v",
+      "definition": "fill or occupy to the point of overflowing",
+      "decision": "gloss",
+      "simpleMeaning": "It means to fill or take up a space so fully that it overflows.",
+      "scope": "This is about a place becoming too full, not about forcing people or animals into a group.",
+      "examples": [
+        "Fans crowded the stadium before the concert.",
+        "Tourists crowd the narrow streets every summer."
+      ],
+      "branchCoverage": [
+        "fill or occupy to the point of overflowing -> to fill or take up a space so fully that it overflows"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fill or occupy to the point of overflowing"
+      ],
+      "lemmaPartition": "crowd%2:42:00:: -> a place becoming completely full\ncrowd%2:38:01:: -> forcing people or animals into a tight group",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "crowd%2:38:01::",
+      "lemma": "crowd",
+      "pos": "v",
+      "definition": "cause to herd, drive, or crowd together",
+      "decision": "gloss",
+      "simpleMeaning": "It means to drive or push people or animals together into one tight group.",
+      "scope": "This is about forcing a group together, not about a place becoming full.",
+      "examples": [
+        "The shepherd crowded the sheep into the pen.",
+        "Protesters were crowded into a narrow side street by police."
+      ],
+      "branchCoverage": [
+        "cause to herd, drive, or crowd together -> to drive or push people or animals together into one tight group"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cause to herd, drive, or crowd together"
+      ],
+      "lemmaPartition": "crowd%2:42:00:: -> a place becoming completely full\ncrowd%2:38:01:: -> forcing people or animals into a tight group",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dating%1:04:00::",
+      "lemma": "dating",
+      "pos": "n",
+      "definition": "use of chemical analysis to estimate the age of geological specimens",
+      "decision": "gloss",
+      "simpleMeaning": "It is the use of chemical tests to work out how old rocks or other geological samples are.",
+      "scope": "This is about finding the age of rocks and similar samples, not about romantic meetings.",
+      "examples": [
+        "Scientists used dating to establish when the rock formed.",
+        "The fossil's age was found by dating the surrounding rock."
+      ],
+      "branchCoverage": [
+        "use of chemical analysis to estimate the age of geological specimens -> the use of chemical tests to work out how old rocks or other geological samples are"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "use of chemical analysis to estimate the age of geological specimens"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "elements%1:19:00::",
+      "lemma": "elements",
+      "pos": "n",
+      "definition": "violent or severe weather (viewed as caused by the action of the four elements)",
+      "decision": "gloss",
+      "simpleMeaning": "It means violent or severe weather, pictured as the raw forces of nature at work.",
+      "scope": "This means wild weather, not the basic chemical substances or the separate parts of something.",
+      "examples": [
+        "The campers sheltered from the elements in a small hut.",
+        "The old barn gave the animals protection from the elements."
+      ],
+      "branchCoverage": [
+        "violent or severe weather (viewed as caused by the action of the four elements) -> violent or severe weather, pictured as the raw forces of nature at work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "violent or severe weather (viewed as caused by the action of the four elements)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "environmental%3:01:01::",
+      "lemma": "environmental",
+      "pos": "a",
+      "definition": "of or relating to the external conditions or surroundings",
+      "decision": "gloss",
+      "simpleMeaning": "It describes something that relates to the outside conditions and surroundings in which a person or thing exists.",
+      "scope": "This is about surroundings and conditions in general, not about harm to nature.",
+      "examples": [
+        "The study looked at environmental factors such as noise and light.",
+        "Poor environmental conditions made the illness spread faster."
+      ],
+      "branchCoverage": [
+        "of or relating to the external conditions or surroundings -> relates to the outside conditions and surroundings in which a person or thing exists"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to the external conditions or surroundings"
+      ],
+      "lemmaPartition": "environmental%3:01:01:: -> relating to general external conditions and surroundings\nenvironmental%3:01:00:: -> relating to effects on nature and living things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "environmental%3:01:00::",
+      "lemma": "environmental",
+      "pos": "a",
+      "definition": "concerned with the ecological effects of altering the environment",
+      "decision": "gloss",
+      "simpleMeaning": "It describes something concerned with the effects that changes to nature have on living things and their habitats.",
+      "scope": "This is about harm to nature, not about ordinary surroundings such as the conditions in a room.",
+      "examples": [
+        "The company published an environmental impact report.",
+        "Environmental damage from the spill will last for years."
+      ],
+      "branchCoverage": [
+        "concerned with the ecological effects of altering the environment -> concerned with the effects that changes to nature have on living things and their habitats"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "concerned with the ecological effects of altering the environment"
+      ],
+      "lemmaPartition": "environmental%3:01:01:: -> relating to general external conditions and surroundings\nenvironmental%3:01:00:: -> relating to effects on nature and living things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "filled%5:00:01:full:00",
+      "lemma": "filled",
+      "pos": "a",
+      "definition": "(usually followed by ‘with’ or used as a combining form) generously supplied with",
+      "decision": "gloss",
+      "simpleMeaning": "It describes something that holds or contains plenty of something, supplied in generous amounts.",
+      "scope": "This describes something containing plenty of something else, not an order that has been completed.",
+      "examples": [
+        "The hall was filled with cheering fans.",
+        "Her letters are filled with warmth and humor."
+      ],
+      "branchCoverage": [
+        "(usually followed by ‘with’ or used as a combining form) generously supplied with -> holds or contains plenty of something, supplied in generous amounts"
+      ],
+      "labelBranches": [
+        "(usually followed by ‘with’ or used as a combining form) — a grammar and usage note about how the word joins with other words, not meaning content"
+      ],
+      "sourceBranches": [
+        "(usually followed by ‘with’ or used as a combining form) generously supplied with"
+      ],
+      "lemmaPartition": "filled%5:00:01:full:00 -> holding plenty of something, supplied generously\nfilled%3:44:00:: -> an order for goods that has been completed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "filled%3:44:00::",
+      "lemma": "filled",
+      "pos": "a",
+      "definition": "of purchase orders that have been filled",
+      "decision": "gloss",
+      "simpleMeaning": "It describes an order for goods that has been completed and supplied.",
+      "scope": "This is about completed orders, not about a container holding plenty of something.",
+      "examples": [
+        "Once an order is filled, the customer is notified.",
+        "We have three filled orders waiting for delivery."
+      ],
+      "branchCoverage": [
+        "of purchase orders that have been filled -> an order for goods that has been completed and supplied"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of purchase orders that have been filled"
+      ],
+      "lemmaPartition": "filled%5:00:01:full:00 -> holding plenty of something, supplied generously\nfilled%3:44:00:: -> an order for goods that has been completed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fixed%5:00:00:determinate:01",
+      "lemma": "fixed",
+      "pos": "a",
+      "definition": "(of a number) having a fixed and unchanging value",
+      "decision": "gloss",
+      "simpleMeaning": "It describes a number whose value stays the same and does not change.",
+      "scope": "This applies to numbers with a set value, not to objects that cannot move.",
+      "examples": [
+        "The loan carries a fixed interest rate.",
+        "Each row in the table has a fixed value."
+      ],
+      "branchCoverage": [
+        "(of a number) having a fixed and unchanging value -> a number whose value stays the same and does not change"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of a number) having a fixed and unchanging value"
+      ],
+      "lemmaPartition": "fixed%5:00:00:determinate:01 -> a number whose value does not change\nfixed%5:00:00:nonmoving:00 -> something fastened in place and not moving",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fixed%5:00:00:nonmoving:00",
+      "lemma": "fixed",
+      "pos": "a",
+      "definition": "fixed and unmoving",
+      "decision": "gloss",
+      "simpleMeaning": "It describes something attached or held in one position that does not move.",
+      "scope": "This is about something held still in place, not about a number with an unchanging value.",
+      "examples": [
+        "The mirror is fixed to the wall with strong brackets.",
+        "He kept his eyes fixed on the door."
+      ],
+      "branchCoverage": [
+        "fixed and unmoving -> something attached or held in one position that does not move"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fixed and unmoving"
+      ],
+      "lemmaPartition": "fixed%5:00:00:determinate:01 -> a number whose value does not change\nfixed%5:00:00:nonmoving:00 -> something fastened in place and not moving",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forest%2:35:00::",
+      "lemma": "forest",
+      "pos": "v",
+      "definition": "establish a forest on previously unforested land",
+      "decision": "gloss",
+      "simpleMeaning": "It means to plant trees over a wide area of land that had no trees before.",
+      "scope": "This is about planting a new forest, not about walking through or studying an existing one.",
+      "examples": [
+        "The council forested the bare hills after the landslide.",
+        "Much of the valley was forested in the 1950s."
+      ],
+      "branchCoverage": [
+        "establish a forest on previously unforested land -> to plant trees over a wide area of land that had no trees before"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "establish a forest on previously unforested land"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "intended%3:00:00::",
+      "lemma": "intended",
+      "pos": "a",
+      "definition": "resulting from one's intentions",
+      "decision": "gloss",
+      "simpleMeaning": "It describes something done on purpose because someone meant it to happen.",
+      "scope": "This describes something done by design, not something that happened by accident.",
+      "examples": [
+        "The insult was intended, and everyone knew it.",
+        "Her remark was clearly intended as a joke."
+      ],
+      "branchCoverage": [
+        "resulting from one's intentions -> something done on purpose because someone meant it to happen"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "resulting from one's intentions"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "labour%1:26:00::",
+      "lemma": "labour",
+      "pos": "n",
+      "definition": "concluding state of pregnancy; from the onset of contractions to the birth of a child",
+      "decision": "gloss",
+      "simpleMeaning": "It is the last stage of pregnancy, from the first contractions until the baby is born.",
+      "scope": "This is the process of giving birth, not work done for pay.",
+      "examples": [
+        "She went into labour early on Sunday morning.",
+        "The labour lasted twelve hours before the baby arrived."
+      ],
+      "branchCoverage": [
+        "concluding state of pregnancy -> the last stage of pregnancy",
+        "from the onset of contractions to the birth of a child -> from the first contractions until the baby is born"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "concluding state of pregnancy",
+        "from the onset of contractions to the birth of a child"
+      ],
+      "lemmaPartition": "labour%1:26:00:: -> the final stage of pregnancy and giving birth\nlabour%1:14:00:: -> the social class of people who work for wages",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "labour%1:14:00::",
+      "lemma": "labour",
+      "pos": "n",
+      "definition": "a social class comprising those who do manual labor or work for wages",
+      "decision": "gloss",
+      "simpleMeaning": "It is a social class made up of people who do physical work or work for pay.",
+      "scope": "This is a social group of workers, not the process of giving birth.",
+      "examples": [
+        "The party drew most of its support from labour.",
+        "The interests of labour were ignored in the deal."
+      ],
+      "branchCoverage": [
+        "a social class comprising those who do manual labor or work for wages -> a social class made up of people who do physical work or work for pay"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a social class comprising those who do manual labor or work for wages"
+      ],
+      "lemmaPartition": "labour%1:26:00:: -> the final stage of pregnancy and giving birth\nlabour%1:14:00:: -> the social class of people who work for wages",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "limit%2:30:00::",
+      "lemma": "limit",
+      "pos": "v",
+      "definition": "restrict or confine within limits",
+      "decision": "gloss",
+      "simpleMeaning": "It means to hold someone or something inside fixed bounds and allow no more than that.",
+      "scope": "This is about confining someone to a set allowance, not about setting the overall cap on an amount or on who may enter.",
+      "examples": [
+        "The coach limits each player to twenty minutes on the field.",
+        "I limit myself to one cup of coffee a day."
+      ],
+      "branchCoverage": [
+        "restrict or confine within limits -> to hold someone or something inside fixed bounds and allow no more than that"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "restrict or confine within limits"
+      ],
+      "lemmaPartition": "limit%2:30:00:: -> keeping someone within a set allowance or bounds\nlimit%2:30:01:: -> setting an upper cap on size, amount, or access\nlimit%1:28:00:: -> the furthest point or end that can be reached",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "limit%2:30:01::",
+      "lemma": "limit",
+      "pos": "v",
+      "definition": "place limits on (extent or amount or access)",
+      "decision": "gloss",
+      "simpleMeaning": "It means to set a cap on how big, how much, or how open to people something can be.",
+      "scope": "This is about setting the cap itself, not about keeping someone to a set allowance.",
+      "examples": [
+        "The new law limits how much water factories may use.",
+        "The museum limits access to the rare books room."
+      ],
+      "branchCoverage": [
+        "place limits on (extent or amount or access) -> to set a cap on how big, how much, or how open to people something can be"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "place limits on (extent or amount or access)"
+      ],
+      "lemmaPartition": "limit%2:30:00:: -> keeping someone within a set allowance or bounds\nlimit%2:30:01:: -> setting an upper cap on size, amount, or access\nlimit%1:28:00:: -> the furthest point or end that can be reached",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "limit%1:28:00::",
+      "lemma": "limit",
+      "pos": "n",
+      "definition": "final or latest limiting point",
+      "decision": "gloss",
+      "simpleMeaning": "the last point that something can reach, beyond which it cannot go.",
+      "scope": "This is the endpoint itself that something reaches, not the act of holding something back and not a rule about how much is allowed.",
+      "examples": [
+        "My patience has finally reached its limit.",
+        "The team's endurance was stretched to the limit."
+      ],
+      "branchCoverage": [
+        "final or latest limiting point -> the last point that something can reach, beyond which it cannot go"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "final or latest limiting point"
+      ],
+      "lemmaPartition": "limit%2:30:00:: = the act of restraining or confining someone or something within set limits | limit%2:30:01:: = the act of setting a cap on extent, amount, or access | limit%1:28:00:: = the final point itself that something can reach",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "moon%2:41:01::",
+      "lemma": "moon",
+      "pos": "v",
+      "definition": "have dreamlike musings or fantasies while awake",
+      "decision": "gloss",
+      "simpleMeaning": "to spend time lost in daydreams and imagined scenes while awake.",
+      "scope": "This sense is about the imagined thoughts themselves, not about simply being idle with nothing to do.",
+      "examples": [
+        "He mooned over the girl in his chemistry class all term.",
+        "She sat by the lake, mooning over a life she might have had."
+      ],
+      "branchCoverage": [
+        "have dreamlike musings or fantasies while awake -> to spend time lost in daydreams and imagined scenes while awake"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have dreamlike musings or fantasies while awake"
+      ],
+      "lemmaPartition": "moon%2:41:01:: = daydreaming or imagining while awake | moon%2:39:00:: = showing bare buttocks as a prank | moon%2:41:00:: = idling around with nothing to do",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "moon%2:39:00::",
+      "lemma": "moon",
+      "pos": "v",
+      "definition": "expose one's buttocks to",
+      "decision": "gloss",
+      "simpleMeaning": "to pull down one's pants and show one's bare bottom to someone, usually as a joke.",
+      "scope": "This is a physical prank with the body, not daydreaming and not idling about.",
+      "examples": [
+        "The boys mooned the passing bus and ran away laughing.",
+        "He was told off for mooning at the teacher."
+      ],
+      "branchCoverage": [
+        "expose one's buttocks to -> to pull down one's pants and show one's bare bottom to someone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "expose one's buttocks to"
+      ],
+      "lemmaPartition": "moon%2:41:01:: = daydreaming or imagining while awake | moon%2:39:00:: = showing bare buttocks as a prank | moon%2:41:00:: = idling around with nothing to do",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "moon%2:41:00::",
+      "lemma": "moon",
+      "pos": "v",
+      "definition": "be idle in a listless or dreamy way",
+      "decision": "gloss",
+      "simpleMeaning": "to pass time doing nothing, in a dull or dreamy way.",
+      "scope": "This is about empty, purposeless idleness, not about the content of a fantasy or daydream.",
+      "examples": [
+        "He mooned around the house all Sunday in his pajamas.",
+        "The teenagers were mooning about in the park with nothing to do."
+      ],
+      "branchCoverage": [
+        "be idle in a listless or dreamy way -> to pass time doing nothing, in a dull or dreamy way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be idle in a listless or dreamy way"
+      ],
+      "lemmaPartition": "moon%2:41:01:: = daydreaming or imagining while awake | moon%2:39:00:: = showing bare buttocks as a prank | moon%2:41:00:: = idling around with nothing to do",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ocean%1:17:00::",
+      "lemma": "ocean",
+      "pos": "n",
+      "definition": "a large body of water constituting a principal part of the hydrosphere",
+      "decision": "gloss",
+      "simpleMeaning": "one of the great bodies of salt water that together form the main part of Earth's water.",
+      "scope": "This is not a smaller body of water such as a sea, lake, or river, and not a figurative huge amount of something.",
+      "examples": [
+        "They sailed across the ocean for three weeks.",
+        "Plastic waste is collecting in the ocean."
+      ],
+      "branchCoverage": [
+        "a large body of water constituting a principal part of the hydrosphere -> one of the great areas of salt water that together form the main part of Earth's water"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a large body of water constituting a principal part of the hydrosphere"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "profit%1:21:00::",
+      "lemma": "profit",
+      "pos": "n",
+      "definition": "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)",
+      "decision": "gloss",
+      "simpleMeaning": "the money a business has left from its sales after all its costs for a set period are paid, including costs that are not paid in cash, such as the falling value of equipment.",
+      "scope": "This is the sum of money left over, not the act of earning it and not the total money taken in.",
+      "examples": [
+        "The company made a profit of two million dollars last year.",
+        "After paying for materials and wages, the shop still showed a small profit."
+      ],
+      "branchCoverage": [
+        "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses) -> the money a business has left from its sales after all its costs for a set period are paid, including costs that are not paid in cash, such as the falling value of equipment"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)"
+      ],
+      "lemmaPartition": "profit%1:21:00:: = the sum of money left after costs (noun) | profit%2:40:00:: = the act of earning more than one spends (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "profit%2:40:00::",
+      "lemma": "profit",
+      "pos": "v",
+      "definition": "make a profit; gain money or materially",
+      "decision": "gloss",
+      "simpleMeaning": "to make more money than one spends, or to come out of something with more of value than before.",
+      "scope": "This is the act of gaining, not the amount of money gained.",
+      "examples": [
+        "The farmers profited from the high price of wheat that year.",
+        "Small shops profited from the holiday crowds."
+      ],
+      "branchCoverage": [
+        "make a profit -> to make more money than one spends",
+        "gain money or materially -> to come out of something with more of value than before"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make a profit",
+        "gain money or materially"
+      ],
+      "lemmaPartition": "profit%1:21:00:: = the sum of money left after costs (noun) | profit%2:40:00:: = the act of earning more than one spends (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "proof%1:23:00::",
+      "lemma": "proof",
+      "pos": "n",
+      "definition": "a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume)",
+      "decision": "gloss",
+      "simpleMeaning": "a strength rating for alcoholic drinks, equal to twice the percentage of alcohol they contain by volume.",
+      "scope": "This is a strength rating for drink, not evidence that something is true and not a trial print.",
+      "examples": [
+        "This whiskey is 90 proof, so it contains 45 percent alcohol.",
+        "The bottle of rum is 80 proof, which is fairly strong."
+      ],
+      "branchCoverage": [
+        "a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume) -> a strength rating for alcoholic drinks, equal to twice the percentage of alcohol they contain by volume"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume)"
+      ],
+      "lemmaPartition": "proof%1:23:00:: = a drink's strength rating | proof%2:36:00:: = making a trial print | proof%5:00:00:impervious:00 = resistant, as a suffix or combining form",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "proof%2:36:00::",
+      "lemma": "proof",
+      "pos": "v",
+      "definition": "make or take a proof of, such as a photographic negative, an etching, or typeset",
+      "decision": "gloss",
+      "simpleMeaning": "to make a test copy of set text, an etching, or a photographic negative so that it can be checked before the final version.",
+      "scope": "This is about making a trial print, not about showing something to be true and not about being resistant.",
+      "examples": [
+        "The designer proofed the pages before the final print run.",
+        "The photographer proofed the negatives to choose the best shots."
+      ],
+      "branchCoverage": [
+        "make or take a proof of, such as a photographic negative, an etching, or typeset -> to make a test copy of set text, an etching, or a photographic negative so that it can be checked before the final version"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make or take a proof of, such as a photographic negative, an etching, or typeset"
+      ],
+      "lemmaPartition": "proof%1:23:00:: = a drink's strength rating | proof%2:36:00:: = making a trial print | proof%5:00:00:impervious:00 = resistant, as a suffix or combining form",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "proof%5:00:00:impervious:00",
+      "lemma": "proof",
+      "pos": "a",
+      "definition": "(used in combination or as a suffix) able to withstand",
+      "decision": "gloss",
+      "simpleMeaning": "able to keep out or resist something harmful, used only as the last part of a compound word.",
+      "scope": "This describes resistance built into a compound word, not a trial print, evidence, or a drink's strength.",
+      "examples": [
+        "This jacket is waterproof, so you can wear it in the rain.",
+        "The tent is fireproof and will not burn easily."
+      ],
+      "branchCoverage": [
+        "(used in combination or as a suffix) able to withstand -> able to keep out or resist something harmful, used only as the last part of a compound word"
+      ],
+      "labelBranches": [
+        "(used in combination or as a suffix) - a grammar and usage label about where the word appears, not part of its meaning"
+      ],
+      "sourceBranches": [
+        "(used in combination or as a suffix) able to withstand"
+      ],
+      "lemmaPartition": "proof%1:23:00:: = a drink's strength rating | proof%2:36:00:: = making a trial print | proof%5:00:00:impervious:00 = resistant, as a suffix or combining form",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "suit%1:06:00::",
+      "lemma": "suit",
+      "pos": "n",
+      "definition": "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color",
+      "decision": "gloss",
+      "simpleMeaning": "a matching set of outer clothes, usually a jacket with trousers or a skirt, all made from the same cloth in the same color.",
+      "scope": "This is the clothing itself, not a legal case, not a set of playing cards, and not the slang word for an executive.",
+      "examples": [
+        "He wore a dark gray suit to the interview.",
+        "She bought a new suit for the wedding."
+      ],
+      "branchCoverage": [
+        "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color -> a matching set of outer clothes, usually a jacket with trousers or a skirt, all made from the same cloth in the same color"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a set of garments (usually including a jacket and trousers or skirt) for outerwear all of the same fabric and color"
+      ],
+      "lemmaPartition": "suit%1:06:00:: = the matching set of clothes | suit%1:18:00:: = slang for a business executive",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "suit%1:18:00::",
+      "lemma": "suit",
+      "pos": "n",
+      "definition": "(slang) a businessman dressed in a business suit",
+      "decision": "gloss",
+      "simpleMeaning": "an informal, slightly mocking word for a business executive.",
+      "scope": "This is a mildly mocking word for a person, not the clothes that person wears.",
+      "examples": [
+        "The meeting was full of suits from the finance department.",
+        "He used to be a reporter, but now he is a suit at a media company."
+      ],
+      "branchCoverage": [
+        "(slang) a businessman dressed in a business suit -> an informal, slightly mocking word for a business executive"
+      ],
+      "labelBranches": [
+        "(slang) - a usage label marking the word as informal, not part of the meaning"
+      ],
+      "sourceBranches": [
+        "(slang) a businessman dressed in a business suit"
+      ],
+      "lemmaPartition": "suit%1:06:00:: = the matching set of clothes | suit%1:18:00:: = slang for a business executive",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "appearance%1:07:00::",
+      "lemma": "appearance",
+      "pos": "n",
+      "definition": "outward or visible aspect of a person or thing",
+      "decision": "gloss",
+      "simpleMeaning": "the way a person or thing looks from the outside.",
+      "scope": "This is how something looks, not an act of arriving or of performing before the public.",
+      "examples": [
+        "She cares a lot about her appearance.",
+        "The old house had a shabby appearance."
+      ],
+      "branchCoverage": [
+        "outward or visible aspect of a person or thing -> the way a person or thing looks from the outside"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "outward or visible aspect of a person or thing"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "behavior%1:07:00::",
+      "lemma": "behavior",
+      "pos": "n",
+      "definition": "(behavioral attributes) the way a person behaves toward other people",
+      "decision": "gloss",
+      "simpleMeaning": "the way a person acts toward other people, especially as good or bad conduct.",
+      "scope": "This is about how a person treats other people, not how a machine or substance acts.",
+      "examples": [
+        "His behavior at the party upset everyone.",
+        "The teacher praised the children for their good behavior."
+      ],
+      "branchCoverage": [
+        "(behavioral attributes) the way a person behaves toward other people -> the way a person acts towards other people"
+      ],
+      "labelBranches": [
+        "(behavioral attributes) - a parenthetical domain label, not meaning content"
+      ],
+      "sourceBranches": [
+        "(behavioral attributes) the way a person behaves toward other people"
+      ],
+      "lemmaPartition": "behavior%1:07:00:: = a person's conduct toward others | behavior%1:26:00:: = how a machine or substance acts in given conditions",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "behavior%1:26:00::",
+      "lemma": "behavior",
+      "pos": "n",
+      "definition": "the action or reaction of something (as a machine or substance) under specified circumstances",
+      "decision": "gloss",
+      "simpleMeaning": "the way a machine or substance acts or reacts in particular conditions.",
+      "scope": "This is about things such as machines or materials, not about a person's conduct toward others.",
+      "examples": [
+        "Scientists studied the behavior of the metal at high temperatures.",
+        "The car's behavior on wet roads worried the testers."
+      ],
+      "branchCoverage": [
+        "the action or reaction of something (as a machine or substance) under specified circumstances -> the way a machine or substance acts or reacts in particular conditions"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the action or reaction of something (as a machine or substance) under specified circumstances"
+      ],
+      "lemmaPartition": "behavior%1:07:00:: = a person's conduct toward others | behavior%1:26:00:: = how a machine or substance acts in given conditions",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "chair%2:41:00::",
+      "lemma": "chair",
+      "pos": "v",
+      "definition": "act or preside as chair, as of an academic department in a university",
+      "decision": "gloss",
+      "simpleMeaning": "to be the person in charge of a meeting, committee, or academic department.",
+      "scope": "This is about leading a group or department, not about carrying someone in a seat or about the furniture itself.",
+      "examples": [
+        "She chaired the meeting while the director was away.",
+        "He chaired the history department for six years."
+      ],
+      "branchCoverage": [
+        "act or preside as chair, as of an academic department in a university -> to be the person in charge of a meeting, committee, or academic department"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "act or preside as chair, as of an academic department in a university"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "domestic%1:18:00::",
+      "lemma": "domestic",
+      "pos": "n",
+      "definition": "a servant who is paid to perform menial tasks around the household",
+      "decision": "gloss",
+      "simpleMeaning": "a paid household worker who does cleaning, cooking, and other routine chores.",
+      "scope": "This is a paid worker in a household, not a member of the family and not an animal kept at home.",
+      "examples": [
+        "She worked as a domestic for a wealthy family in the city.",
+        "In the 19th century, wealthy households often employed several domestics."
+      ],
+      "branchCoverage": [
+        "a servant who is paid to perform menial tasks around the household -> a paid household worker who does cleaning, cooking, and other routine chores"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a servant who is paid to perform menial tasks around the household"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "historical%5:00:00:real:00",
+      "lemma": "historical",
+      "pos": "a",
+      "definition": "having once lived or existed or taken place in the real world as distinct from being legendary",
+      "decision": "gloss",
+      "simpleMeaning": "having really existed or happened in the past, rather than being a myth or legend.",
+      "scope": "This says that something was real, not that it belongs to the study of the past.",
+      "examples": [
+        "Historians doubt that the battle was a historical event.",
+        "Was King Arthur a historical figure or only a legend?"
+      ],
+      "branchCoverage": [
+        "having once lived or existed or taken place in the real world as distinct from being legendary -> having really existed or happened in the past, rather than being a myth or legend"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having once lived or existed or taken place in the real world as distinct from being legendary"
+      ],
+      "lemmaPartition": "historical%5:00:00:real:00 = actually existed or happened, not legendary | historical%3:01:00:: = relating to the study of the past",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "historical%3:01:00::",
+      "lemma": "historical",
+      "pos": "a",
+      "definition": "of or relating to the study of history",
+      "decision": "gloss",
+      "simpleMeaning": "relating to the study or written record of the past.",
+      "scope": "This means connected with the subject or its records, not that something actually lived or happened.",
+      "examples": [
+        "She is doing historical research on medieval trade.",
+        "He wrote a historical account of the town's founding."
+      ],
+      "branchCoverage": [
+        "of or relating to the study of history -> relating to the study or written record of the past"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to the study of history"
+      ],
+      "lemmaPartition": "historical%5:00:00:real:00 = actually existed or happened, not legendary | historical%3:01:00:: = relating to the study of the past",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "honestly%4:02:00::",
+      "lemma": "honestly",
+      "pos": "r",
+      "definition": "(used as intensives reflecting the speaker's attitude) it is sincerely the case that",
+      "decision": "gloss",
+      "simpleMeaning": "used to stress that a statement is truly meant or truly the case.",
+      "scope": "This adds emphasis to a whole statement, not a description of how an action was carried out.",
+      "examples": [
+        "Honestly, I have no idea what he meant.",
+        "I honestly don't think we can finish today."
+      ],
+      "branchCoverage": [
+        "(used as intensives reflecting the speaker's attitude) it is sincerely the case that -> used to stress that a statement is truly meant or truly the case"
+      ],
+      "labelBranches": [
+        "(used as intensives reflecting the speaker's attitude) - a usage label describing the word's role in a sentence, not meaning content on its own"
+      ],
+      "sourceBranches": [
+        "(used as intensives reflecting the speaker's attitude) it is sincerely the case that"
+      ],
+      "lemmaPartition": "honestly%4:02:00:: = a sentence word stressing that something is truly the case | honestly%4:02:01:: = in a truthful manner",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "honestly%4:02:01::",
+      "lemma": "honestly",
+      "pos": "r",
+      "definition": "in an honest manner",
+      "decision": "gloss",
+      "simpleMeaning": "in a truthful and straightforward way.",
+      "scope": "This describes how something is done, not an added word of emphasis at the start of a sentence.",
+      "examples": [
+        "He answered honestly, even though it cost him the job.",
+        "She spoke honestly about her mistakes."
+      ],
+      "branchCoverage": [
+        "in an honest manner -> in a truthful and straightforward way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in an honest manner"
+      ],
+      "lemmaPartition": "honestly%4:02:00:: = a sentence word stressing that something is truly the case | honestly%4:02:01:: = in a truthful manner",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "honor%1:10:00::",
+      "lemma": "honor",
+      "pos": "n",
+      "definition": "a tangible symbol signifying approval or distinction",
+      "decision": "gloss",
+      "simpleMeaning": "an award, medal, or other object given to show respect or recognition.",
+      "scope": "This is a physical mark of recognition, not a person's good character and not the respect they receive.",
+      "examples": [
+        "She received a medal and other honors for her research.",
+        "The city gave him its highest honor."
+      ],
+      "branchCoverage": [
+        "a tangible symbol signifying approval or distinction -> an award, medal, or other object given to show respect or recognition"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a tangible symbol signifying approval or distinction"
+      ],
+      "lemmaPartition": "honor%1:10:00:: = a physical award or symbol of recognition | honor%2:41:00:: = to give awards or praise (verb) | honor%1:07:00:: = personal goodness and good reputation | honor%1:26:00:: = the respect and esteem received from others",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "honor%2:41:00::",
+      "lemma": "honor",
+      "pos": "v",
+      "definition": "bestow honor or rewards upon",
+      "decision": "gloss",
+      "simpleMeaning": "to show someone public respect, often by giving a prize or reward.",
+      "scope": "This is the act of giving recognition, not the award itself and not a person's good character.",
+      "examples": [
+        "The university honored her with a lifetime achievement award.",
+        "The town honored the firefighters for their courage."
+      ],
+      "branchCoverage": [
+        "bestow honor or rewards upon -> to show someone public respect, often by giving a prize or reward"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "bestow honor or rewards upon"
+      ],
+      "lemmaPartition": "honor%1:10:00:: = a physical award or symbol of recognition | honor%2:41:00:: = to give awards or praise (verb) | honor%1:07:00:: = personal goodness and good reputation | honor%1:26:00:: = the respect and esteem received from others",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "honor%1:07:00::",
+      "lemma": "honor",
+      "pos": "n",
+      "definition": "the quality of being honorable and having a good name",
+      "decision": "gloss",
+      "simpleMeaning": "the quality of being morally good and having a good reputation.",
+      "scope": "This is a personal quality of goodness and good name, not a physical award and not the respect a person receives from others.",
+      "examples": [
+        "He is a man of honor who keeps his word.",
+        "She valued her honor more than money."
+      ],
+      "branchCoverage": [
+        "the quality of being honorable and having a good name -> the quality of being morally good and having a good reputation"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the quality of being honorable and having a good name"
+      ],
+      "lemmaPartition": "honor%1:10:00:: = a physical award or symbol of recognition | honor%2:41:00:: = to give awards or praise (verb) | honor%1:07:00:: = personal goodness and good reputation | honor%1:26:00:: = the respect and esteem received from others",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "honor%1:26:00::",
+      "lemma": "honor",
+      "pos": "n",
+      "definition": "the state of being honored",
+      "decision": "gloss",
+      "simpleMeaning": "the position of being respected and admired by others.",
+      "scope": "This is the respect a person receives, not their own good character and not a physical award.",
+      "examples": [
+        "The scientist was received with honor at the university.",
+        "The prize brought her honor and fame."
+      ],
+      "branchCoverage": [
+        "the state of being honored -> the position of being respected and admired by others"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the state of being honored"
+      ],
+      "lemmaPartition": "honor%1:10:00:: = a physical award or symbol of recognition | honor%2:41:00:: = to give awards or praise (verb) | honor%1:07:00:: = personal goodness and good reputation | honor%1:26:00:: = the respect and esteem received from others",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

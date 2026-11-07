@@ -1,0 +1,1220 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 60,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 37,
+      "of": 50,
+      "rate": 0.74
+    },
+    "selfApproved": [
+      "original%5:00:00:underived:00",
+      "press%2:41:12::",
+      "press%2:35:06::",
+      "ground%1:09:01::",
+      "ground%1:06:00::",
+      "ground%2:35:02::",
+      "provide%2:42:00::",
+      "sound%2:32:00::",
+      "sound%2:39:02::",
+      "sound%2:39:01::",
+      "source%1:10:01::",
+      "source%1:17:00::",
+      "value%2:31:00::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "33f816b828bdd26878d9a9d02e937cb90cfe8ffb8de68e127fe46fccca988aea"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "certain%3:00:03::",
+      "lemma": "certain",
+      "pos": "a",
+      "definition": "certain to occur; destined or inevitable",
+      "sourceBranches": [
+        "certain to occur",
+        "destined or inevitable"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "sure to happen; fixed by fate or impossible to avoid",
+      "scope": "This is not about someone feeling sure or having no doubt; it is about an event that will definitely happen.",
+      "examples": [
+        "With the storm closing in, a cancellation seemed certain.",
+        "The senator's re-election looked certain until the scandal broke."
+      ],
+      "branchCoverage": [
+        "certain to occur -> sure to happen",
+        "destined or inevitable -> fixed by fate or impossible to avoid"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "church%1:14:01::",
+      "lemma": "church",
+      "pos": "n",
+      "definition": "the body of people who attend or belong to a particular local church",
+      "sourceBranches": [
+        "the body of people who attend or belong to a particular local church"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the group of people who attend or belong to one particular local place of worship",
+      "scope": "This is the people, not the building where they meet or a service held there.",
+      "examples": [
+        "The whole church turned out to clean the hall on Saturday.",
+        "Members of the church voted to hire a new youth leader."
+      ],
+      "branchCoverage": [
+        "the body of people who attend or belong to a particular local church -> the group of people who attend or belong to one particular local place of worship"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hot%5:00:00:skilled:00",
+      "lemma": "hot",
+      "pos": "a",
+      "definition": "performed or performing with unusually great skill and daring and energy",
+      "sourceBranches": [
+        "performed or performing with unusually great skill and daring and energy"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "performed, or performing, with unusually great skill, boldness and energy",
+      "scope": "This is not about high temperature, a burning taste, or being close to something hidden.",
+      "examples": [
+        "The young guitarist was really hot in the final set.",
+        "He has been hot all season, scoring in every game."
+      ],
+      "branchCoverage": [
+        "performed or performing with unusually great skill and daring and energy -> performed, or performing, with unusually great skill, boldness and energy"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hot%5:00:00:skilled:00 -> very skilled and confident in performance; hot%5:00:00:tasty:00 -> producing a burning feeling on the tongue; hot%5:00:00:near:00 -> very close to the thing being sought; hot%5:00:00:radioactive:00 -> having or using dangerously high radiation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hot%5:00:00:tasty:00",
+      "lemma": "hot",
+      "pos": "a",
+      "definition": "producing a burning sensation on the taste nerves",
+      "sourceBranches": [
+        "producing a burning sensation on the taste nerves"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "causing a burning feeling on the tongue when eaten",
+      "scope": "This is not about high temperature or about great skill; it is about a burning feeling from food.",
+      "examples": [
+        "This curry is too hot for me — my mouth is on fire.",
+        "Add more chili if you like your soup hot."
+      ],
+      "branchCoverage": [
+        "producing a burning sensation on the taste nerves -> causing a burning feeling on the tongue when eaten"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hot%5:00:00:skilled:00 -> very skilled and confident in performance; hot%5:00:00:tasty:00 -> producing a burning feeling on the tongue; hot%5:00:00:near:00 -> very close to the thing being sought; hot%5:00:00:radioactive:00 -> having or using dangerously high radiation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hot%5:00:00:near:00",
+      "lemma": "hot",
+      "pos": "a",
+      "definition": "of a seeker; very near to the object sought",
+      "sourceBranches": [
+        "of a seeker",
+        "very near to the object sought"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of someone hunting for something: very close to finding it",
+      "scope": "This is not about heat or skill; it is about a searcher being close to the goal.",
+      "examples": [
+        "You're getting hot — the keys are right under that cushion.",
+        "The search team was hot on the trail of the missing hiker."
+      ],
+      "branchCoverage": [
+        "of a seeker -> of someone hunting for something",
+        "very near to the object sought -> very close to finding it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hot%5:00:00:skilled:00 -> very skilled and confident in performance; hot%5:00:00:tasty:00 -> producing a burning feeling on the tongue; hot%5:00:00:near:00 -> very close to the thing being sought; hot%5:00:00:radioactive:00 -> having or using dangerously high radiation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hot%5:00:00:radioactive:00",
+      "lemma": "hot",
+      "pos": "a",
+      "definition": "having or dealing with dangerously high levels of radioactivity",
+      "sourceBranches": [
+        "having or dealing with dangerously high levels of radioactivity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "containing, or involving work with, radiation at levels high enough to be dangerous",
+      "scope": "This is not about a high temperature or a spicy taste; it is about dangerous radiation.",
+      "examples": [
+        "Technicians used robots to move the hot fuel rods.",
+        "The whole site was sealed off because the soil was hot."
+      ],
+      "branchCoverage": [
+        "having or dealing with dangerously high levels of radioactivity -> containing, or involving work with, radiation at levels high enough to be dangerous"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hot%5:00:00:skilled:00 -> very skilled and confident in performance; hot%5:00:00:tasty:00 -> producing a burning feeling on the tongue; hot%5:00:00:near:00 -> very close to the thing being sought; hot%5:00:00:radioactive:00 -> having or using dangerously high radiation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "original%5:00:00:underived:00",
+      "lemma": "original",
+      "pos": "a",
+      "definition": "not derived or copied or translated from something else",
+      "sourceBranches": [
+        "not derived or copied or translated from something else"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "not based on, copied from, or translated from any other source",
+      "scope": "This is not about being new, fresh, or the earliest version; it is about not coming from another source.",
+      "examples": [
+        "Her essay is completely original, with no borrowed passages.",
+        "She wrote an original screenplay rather than adapting a novel."
+      ],
+      "branchCoverage": [
+        "not derived or copied or translated from something else -> not based on, copied from, or translated from any other source"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Any other work' narrows 'something else'; 'translated out of' is awkward. Say 'not based on, copied from or translated from any other source'."
+    },
+    {
+      "senseId": "park%1:06:01::",
+      "lemma": "park",
+      "pos": "n",
+      "definition": "a gear position that acts as a parking brake",
+      "sourceBranches": [
+        "a gear position that acts as a parking brake"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a gear setting that holds a vehicle still, working like a brake",
+      "scope": "This is the gear setting, not an outdoor public green space.",
+      "examples": [
+        "Put the car in park before you get out.",
+        "He left the truck in park on the steep hill."
+      ],
+      "branchCoverage": [
+        "a gear position that acts as a parking brake -> a gear setting that holds a vehicle still, working like a brake"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%1:04:02::",
+      "lemma": "press",
+      "pos": "n",
+      "definition": "a weightlift in which the barbell is lifted to shoulder height and then smoothly lifted overhead",
+      "sourceBranches": [
+        "a weightlift in which the barbell is lifted to shoulder height and then smoothly lifted overhead"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a weightlifting move in which a bar with weights is raised to the shoulders and then pushed smoothly above the head",
+      "scope": "This is the weightlifting move, not the act of pushing or a machine that shapes things.",
+      "examples": [
+        "She failed on her final press at the competition.",
+        "He added ten kilos to his press this month."
+      ],
+      "branchCoverage": [
+        "a weightlift in which the barbell is lifted to shoulder height and then smoothly lifted overhead -> a weightlifting move in which a bar with weights is raised to the shoulders and then pushed smoothly above the head"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%2:41:12::",
+      "lemma": "press",
+      "pos": "v",
+      "definition": "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for",
+      "sourceBranches": [
+        "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person",
+        "be an advocate for"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "work hard and without stopping, even in an intrusive way, to achieve a goal or to campaign for a cause or a person",
+      "scope": "This is relentless effort for a cause, not physical pushing or squeezing.",
+      "examples": [
+        "The union pressed for higher wages for months.",
+        "She kept pressing the council to fund the shelter."
+      ],
+      "branchCoverage": [
+        "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person -> work hard and without stopping, even in an intrusive way, to achieve a goal or to campaign for a cause or a person",
+        "be an advocate for -> to campaign for a cause or a person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Win a goal' is not natural; use 'achieve a goal'. Otherwise the gloss covers both branches."
+    },
+    {
+      "senseId": "press%1:06:02::",
+      "lemma": "press",
+      "pos": "n",
+      "definition": "a tall piece of furniture that provides storage space for clothes; has a door and rails or hooks for hanging clothes",
+      "sourceBranches": [
+        "a tall piece of furniture that provides storage space for clothes",
+        "has a door and rails or hooks for hanging clothes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a tall cupboard for clothes, with a door and rails or hooks to hang them on",
+      "scope": "This is the tall clothes cupboard, not a shaping machine or the act of pushing.",
+      "examples": [
+        "She folded the sheets and put them in the press.",
+        "The old bedroom still has a wooden press built into the wall."
+      ],
+      "branchCoverage": [
+        "a tall piece of furniture that provides storage space for clothes -> a tall cupboard for clothes",
+        "has a door and rails or hooks for hanging clothes -> with a door and rails or hooks to hang them on"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%1:06:00::",
+      "lemma": "press",
+      "pos": "n",
+      "definition": "any machine that exerts pressure to form or shape or cut materials or extract liquids or compress solids",
+      "sourceBranches": [
+        "any machine that exerts pressure to form or shape or cut materials or extract liquids or compress solids"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "any machine that uses force to shape or cut material, squeeze solids, or draw liquid out",
+      "scope": "This is the machine itself, not the act of using force or a cupboard for clothes.",
+      "examples": [
+        "The workers fed steel sheets into the hydraulic press.",
+        "The mechanic used a press to fit the new bearing."
+      ],
+      "branchCoverage": [
+        "any machine that exerts pressure to form or shape or cut materials or extract liquids or compress solids -> any machine that uses force to shape or cut material, squeeze solids, or draw liquid out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%1:06:03::",
+      "lemma": "press",
+      "pos": "n",
+      "definition": "clamp to prevent wooden rackets from warping when not in use",
+      "sourceBranches": [
+        "clamp to prevent wooden rackets from warping when not in use"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a clamp that holds wooden rackets flat so they do not bend out of shape while stored",
+      "scope": "This is a clamp for storing rackets, not a shaping machine or a clothes cupboard.",
+      "examples": [
+        "He kept his squash racket in a press between matches.",
+        "The club stored its old wooden rackets in presses."
+      ],
+      "branchCoverage": [
+        "clamp to prevent wooden rackets from warping when not in use -> a clamp that holds wooden rackets flat so they do not bend out of shape while stored"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%2:35:06::",
+      "lemma": "press",
+      "pos": "v",
+      "definition": "make strenuous pushing movements during birth to expel the baby",
+      "sourceBranches": [
+        "make strenuous pushing movements during birth to expel the baby"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "push with great effort while giving birth so that the baby is forced out of the body",
+      "scope": "This is the effort of giving birth, not pushing an object or squeezing things together.",
+      "examples": [
+        "The antenatal class taught her to press down hard during each contraction.",
+        "When the doctor said the baby was ready, she pressed with all her strength."
+      ],
+      "branchCoverage": [
+        "make strenuous pushing movements during birth to expel the baby -> push with great effort while giving birth so that the baby is forced out of the body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1's 'press through each contraction' is unidiomatic and suggests enduring; rewrite, e.g. 'press down hard during each contraction'."
+    },
+    {
+      "senseId": "press%1:04:00::",
+      "lemma": "press",
+      "pos": "n",
+      "definition": "the act of pressing; the exertion of pressure",
+      "sourceBranches": [
+        "the act of pressing",
+        "the exertion of pressure"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the action of pushing or squeezing something, or the force used when doing this",
+      "scope": "This names the action or force itself, not a machine, cupboard or other object used for such work.",
+      "examples": [
+        "A light press on the brake pedal is enough to slow the car.",
+        "The dough needs a firm press with the palm of your hand."
+      ],
+      "branchCoverage": [
+        "the act of pressing -> the action of pushing or squeezing something",
+        "the exertion of pressure -> the force used when doing this"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%2:35:03::",
+      "lemma": "press",
+      "pos": "v",
+      "definition": "press and smooth with a heated iron",
+      "sourceBranches": [
+        "press and smooth with a heated iron"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "move a hot iron over cloth to make it flat and even",
+      "scope": "This is about cloth and a hot iron, not about placing an object between surfaces or squeezing things together.",
+      "examples": [
+        "She pressed his shirt before the interview.",
+        "The laundry will wash and press your clothes by Friday."
+      ],
+      "branchCoverage": [
+        "press and smooth with a heated iron -> move a hot iron over cloth to make it flat and even"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%2:35:01::",
+      "lemma": "press",
+      "pos": "v",
+      "definition": "place between two surfaces and apply weight or pressure",
+      "sourceBranches": [
+        "place between two surfaces and apply weight or pressure"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "put something between two surfaces and add weight or force",
+      "scope": "This is about placing an object between surfaces, not squeezing things together or smoothing cloth.",
+      "examples": [
+        "Press the flower between the pages of a heavy book.",
+        "The cheese is pressed between two heavy boards overnight."
+      ],
+      "branchCoverage": [
+        "place between two surfaces and apply weight or pressure -> put something between two surfaces and add weight or force"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%2:35:02::",
+      "lemma": "press",
+      "pos": "v",
+      "definition": "squeeze or press together",
+      "sourceBranches": [
+        "squeeze or press together"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "squeeze things so that they are held tightly against each other",
+      "scope": "This is about squeezing separate things into contact, not placing one object between two surfaces or shaping material.",
+      "examples": [
+        "She pressed her lips together and said nothing.",
+        "Press the two pieces together until the glue sets."
+      ],
+      "branchCoverage": [
+        "squeeze or press together -> squeeze things so that they are held tightly against each other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%2:36:00::",
+      "lemma": "press",
+      "pos": "v",
+      "definition": "press from a plastic",
+      "sourceBranches": [
+        "press from a plastic"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make an object, such as a record, by forcing soft plastic material into shape in a mould",
+      "scope": "This is specifically forming an object from plastic material, not making things by pressure in general.",
+      "examples": [
+        "The factory presses vinyl into thin black discs.",
+        "Workers pressed the warm plastic into a mould shaped like a toy."
+      ],
+      "branchCoverage": [
+        "press from a plastic -> make an object, such as a record, by forcing soft plastic material into shape in a mould"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "press%2:36:01::",
+      "lemma": "press",
+      "pos": "v",
+      "definition": "create by pressing",
+      "sourceBranches": [
+        "create by pressing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make something by the action of pushing or squeezing",
+      "scope": "This is the general idea of making something with pressure, not the specific case of forming objects from plastic.",
+      "examples": [
+        "The workers pressed the clay into small bowls.",
+        "Each tile is pressed by hand before it is baked."
+      ],
+      "branchCoverage": [
+        "create by pressing -> make something by the action of pushing or squeezing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "press%1:04:02:: -> a weightlifting lift that pushes the barbell overhead; press%2:41:12:: -> push hard and persistently for something; press%1:06:02:: -> a tall cupboard for clothes and linen; press%1:06:00:: -> a machine that presses material into shape; press%1:06:03:: -> a clamp that keeps wooden rackets from warping; press%2:35:06:: -> push hard during childbirth to deliver the baby; press%1:04:00:: -> the act of pushing with force; press%2:35:03:: -> smooth something with a hot iron; press%2:35:01:: -> put something between two surfaces and add weight; press%2:35:02:: -> squeeze things together; press%2:36:00:: -> shape something from plastic by pressing; press%2:36:01:: -> make something by pressing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bill%1:10:02::",
+      "lemma": "bill",
+      "pos": "n",
+      "definition": "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution",
+      "sourceBranches": [
+        "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an advertisement, usually printed on a page or a small sheet called a leaflet, made to reach many people",
+      "scope": "This is a printed notice promoting something, not a list of items in a show or menu.",
+      "examples": [
+        "They pasted bills for the concert on walls all over town.",
+        "A bill advertising a circus was handed out at the station."
+      ],
+      "branchCoverage": [
+        "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution -> an advertisement, usually printed on a page or a small sheet called a leaflet, made to reach many people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bill%1:10:02:: -> a printed advertisement on a page or leaflet; bill%1:05:00:: -> the hard projecting mouth of a bird; bill%1:06:01:: -> a cutting tool with a sharp edge; bill%1:10:06:: -> a list of items, as in a playbill or menu",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bill%1:05:00::",
+      "lemma": "bill",
+      "pos": "n",
+      "definition": "horny projecting mouth of a bird",
+      "sourceBranches": [
+        "horny projecting mouth of a bird"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the hard, horn-like mouth that sticks out from a bird's face",
+      "scope": "This is a bird's mouth, not a written notice or a cutting tool.",
+      "examples": [
+        "The duck used its bill to sift food from the water.",
+        "A heron's long bill is built for spearing fish."
+      ],
+      "branchCoverage": [
+        "horny projecting mouth of a bird -> the hard, horn-like mouth that sticks out from a bird's face"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bill%1:10:02:: -> a printed advertisement on a page or leaflet; bill%1:05:00:: -> the hard projecting mouth of a bird; bill%1:06:01:: -> a cutting tool with a sharp edge; bill%1:10:06:: -> a list of items, as in a playbill or menu",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bill%1:06:01::",
+      "lemma": "bill",
+      "pos": "n",
+      "definition": "a cutting tool with a sharp edge",
+      "sourceBranches": [
+        "a cutting tool with a sharp edge"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a tool with a sharp edge that is used for cutting",
+      "scope": "This is a cutting tool, not a bird's mouth or a printed notice.",
+      "examples": [
+        "The old gardener used a bill to trim the hedge.",
+        "Keep the bill sharp, or it will tear the stems instead of cutting them."
+      ],
+      "branchCoverage": [
+        "a cutting tool with a sharp edge -> a tool with a sharp edge that is used for cutting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bill%1:10:02:: -> a printed advertisement on a page or leaflet; bill%1:05:00:: -> the hard projecting mouth of a bird; bill%1:06:01:: -> a cutting tool with a sharp edge; bill%1:10:06:: -> a list of items, as in a playbill or menu",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bill%1:10:06::",
+      "lemma": "bill",
+      "pos": "n",
+      "definition": "a list of particulars (as a playbill or bill of fare)",
+      "sourceBranches": [
+        "a list of particulars (as a playbill or bill of fare)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a list of details about what is offered, such as the acts in a show or the food on a restaurant's menu",
+      "scope": "This is a detailed list of what a show or menu offers, not a printed advertisement or a request for payment.",
+      "examples": [
+        "The bill at the theatre listed a comedy and two short plays.",
+        "The restaurant's bill of fare changes with the seasons."
+      ],
+      "branchCoverage": [
+        "a list of particulars (as a playbill or bill of fare) -> a list of details about what is offered, such as the acts in a show or the food on a restaurant's menu"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bill%1:10:02:: -> a printed advertisement on a page or leaflet; bill%1:05:00:: -> the hard projecting mouth of a bird; bill%1:06:01:: -> a cutting tool with a sharp edge; bill%1:10:06:: -> a list of items, as in a playbill or menu",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cool%3:00:02::",
+      "lemma": "cool",
+      "pos": "a",
+      "definition": "psychologically cool and unenthusiastic; unfriendly or unresponsive or showing dislike",
+      "sourceBranches": [
+        "psychologically cool and unenthusiastic",
+        "unfriendly or unresponsive or showing dislike"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in feelings, distant and without enthusiasm; unfriendly, not answering warmly, or showing dislike",
+      "scope": "This is about an unfriendly manner or lack of warmth, not low temperature or being fashionable.",
+      "examples": [
+        "She gave him a cool look and turned away.",
+        "His cool reply made it clear that the argument was not over."
+      ],
+      "branchCoverage": [
+        "psychologically cool and unenthusiastic -> in feelings, distant and without enthusiasm",
+        "unfriendly or unresponsive or showing dislike -> unfriendly, not answering warmly, or showing dislike"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cool%3:00:02:: -> unfriendly and showing little enthusiasm; cool%5:00:00:fashionable:00 -> fashionable and attractive, often also skilled or popular",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cool%5:00:00:fashionable:00",
+      "lemma": "cool",
+      "pos": "a",
+      "definition": "fashionable and attractive at the time; often skilled or socially adept",
+      "sourceBranches": [
+        "fashionable and attractive at the time",
+        "often skilled or socially adept"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "stylish and good-looking in a way that is popular now; often also skilful or good with people",
+      "scope": "This is about being stylish and admired, not low temperature or an unfriendly manner.",
+      "examples": [
+        "Those cool new trainers sold out in a week.",
+        "He was the cool kid everyone wanted to sit with."
+      ],
+      "branchCoverage": [
+        "fashionable and attractive at the time -> stylish and good-looking in a way that is popular now",
+        "often skilled or socially adept -> often also skilful or good with people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cool%3:00:02:: -> unfriendly and showing little enthusiasm; cool%5:00:00:fashionable:00 -> fashionable and attractive, often also skilled or popular",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "director%1:18:04::",
+      "lemma": "director",
+      "pos": "n",
+      "definition": "the person who directs the making of a film",
+      "sourceBranches": [
+        "the person who directs the making of a film"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the person in charge of making a film, who guides the actors and decides how the finished movie should look and feel",
+      "scope": "This is the film-making role, not a member of a company's board or the head of an institution.",
+      "examples": [
+        "The director asked the actors to run the scene one more time.",
+        "She won an award for her work as the director of the documentary."
+      ],
+      "branchCoverage": [
+        "the person who directs the making of a film -> the person in charge of making a film, who guides the actors and decides how the finished movie should look and feel"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ground%1:09:01::",
+      "lemma": "ground",
+      "pos": "n",
+      "definition": "a relatively homogeneous percept extending back of the figure on which attention is focused",
+      "sourceBranches": [
+        "a relatively homogeneous percept extending back of the figure on which attention is focused"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the fairly uniform area you perceive lying behind the main object your attention is fixed on",
+      "scope": "This is about how the eye and mind separate a background from a focused object, not about soil or land, not a reason for doing something, and not the first coat of paint on a surface.",
+      "examples": [
+        "In the portrait, the soft gray ground makes the sitter's face stand out.",
+        "The photographer kept the ground plain so nothing would pull attention from the subject."
+      ],
+      "branchCoverage": [
+        "a relatively homogeneous percept extending back of the figure on which attention is focused -> the fairly uniform area you perceive lying behind the main object your attention is fixed on"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ground%1:09:01:: -> the background against which a figure is seen; ground%1:06:00:: -> the first coat of paint or size on a surface; ground%2:35:02:: -> connect an electrical device to the earth; ground%2:38:00:: -> hit or reach the ground; ground%2:38:01:: -> bring something down to the ground",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope excludes soil, land and reason, but not the sibling primer-coat sense, which these painting examples could suggest."
+    },
+    {
+      "senseId": "ground%1:06:00::",
+      "lemma": "ground",
+      "pos": "n",
+      "definition": "the first or preliminary coat of paint or size applied to a surface",
+      "sourceBranches": [
+        "the first or preliminary coat of paint or size applied to a surface"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the first layer of paint, or of a glue-like sealer, put on a surface before the main coats",
+      "scope": "This is a preparatory coating on a surface, not the soil of the earth, not a reason or basis for something, and not the background behind a figure in a picture.",
+      "examples": [
+        "Apply a white ground to the canvas and let it dry before you start painting.",
+        "The restorer found an old ground beneath the top layer of paint."
+      ],
+      "branchCoverage": [
+        "the first or preliminary coat of paint or size applied to a surface -> the first layer of paint, or of a glue-like sealer, put on a surface before the main coats"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ground%1:09:01:: -> the background against which a figure is seen; ground%1:06:00:: -> the first coat of paint or size on a surface; ground%2:35:02:: -> connect an electrical device to the earth; ground%2:38:00:: -> hit or reach the ground; ground%2:38:01:: -> bring something down to the ground",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope excludes soil and reason but not the sibling figure/ground background sense, which 'ground' also means in paintings."
+    },
+    {
+      "senseId": "ground%2:35:02::",
+      "lemma": "ground",
+      "pos": "v",
+      "definition": "connect to a ground",
+      "sourceBranches": [
+        "connect to a ground"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "connect a piece of electrical equipment to the earth, or to a wire that leads to it",
+      "scope": "This is about electrical safety wiring, not about punishing a child, stopping an aircraft, crushing something into powder, hitting the ground, or bringing something down.",
+      "examples": [
+        "The electrician grounded the metal casing to prevent a shock.",
+        "Make sure the new outlet is properly grounded before you plug anything in."
+      ],
+      "branchCoverage": [
+        "connect to a ground -> connect a piece of electrical equipment to the earth, or to a wire that leads to it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ground%1:09:01:: -> the background against which a figure is seen; ground%1:06:00:: -> the first coat of paint or size on a surface; ground%2:35:02:: -> connect an electrical device to the earth; ground%2:38:00:: -> hit or reach the ground; ground%2:38:01:: -> bring something down to the ground",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope excludes punishing, aircraft and powder but not the sibling land/bring-down verb senses; add that contrast."
+    },
+    {
+      "senseId": "ground%2:38:00::",
+      "lemma": "ground",
+      "pos": "v",
+      "definition": "hit or reach the ground",
+      "sourceBranches": [
+        "hit or reach the ground"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "hit the surface of the earth or come down onto it",
+      "scope": "This is something that lands or runs onto the earth itself, not a person forcing something else down or a wire being connected for safety.",
+      "examples": [
+        "The boat grounded on a sandbank at low tide.",
+        "The whale grounded on the beach and rescuers rushed to help it."
+      ],
+      "branchCoverage": [
+        "hit or reach the ground -> hit the surface of the earth or come down onto it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ground%1:09:01:: -> the background against which a figure is seen; ground%1:06:00:: -> the first coat of paint or size on a surface; ground%2:35:02:: -> connect an electrical device to the earth; ground%2:38:00:: -> hit or reach the ground; ground%2:38:01:: -> bring something down to the ground",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ground%2:38:01::",
+      "lemma": "ground",
+      "pos": "v",
+      "definition": "bring to the ground",
+      "sourceBranches": [
+        "bring to the ground"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "cause someone or something to come down onto the earth",
+      "scope": "This is about forcing someone or something down onto the earth, not about a thing landing there on its own.",
+      "examples": [
+        "The wrestler grounded his opponent with a single sweeping move.",
+        "They grounded the canoe on the gravel bank and climbed out."
+      ],
+      "branchCoverage": [
+        "bring to the ground -> cause someone or something to come down onto the earth"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ground%1:09:01:: -> the background against which a figure is seen; ground%1:06:00:: -> the first coat of paint or size on a surface; ground%2:35:02:: -> connect an electrical device to the earth; ground%2:38:00:: -> hit or reach the ground; ground%2:38:01:: -> bring something down to the ground",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "provide%2:42:00::",
+      "lemma": "provide",
+      "pos": "v",
+      "definition": "make a possibility or provide opportunity for; permit to be attainable or cause to remain",
+      "sourceBranches": [
+        "make a possibility or provide opportunity for",
+        "permit to be attainable or cause to remain"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make something possible or create the chance for it, and allow it to be reached or to stay or continue",
+      "scope": "This is about leaving room for an outcome, not about handing someone a thing they need.",
+      "examples": [
+        "The agreement provides for two extra weeks of leave.",
+        "Their savings provide for unexpected repairs."
+      ],
+      "branchCoverage": [
+        "make a possibility or provide opportunity for -> make something possible or create the chance for it",
+        "permit to be attainable or cause to remain -> allow it to be reached or to stay or continue"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Stay in place' adds location to 'cause to remain', which covers any state; use 'cause it to stay or continue'."
+    },
+    {
+      "senseId": "sound%2:32:00::",
+      "lemma": "sound",
+      "pos": "v",
+      "definition": "utter with vibrating vocal chords",
+      "sourceBranches": [
+        "utter with vibrating vocal chords"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "say something aloud while the vocal cords in your throat vibrate",
+      "scope": "This is about using the voice to make speech, not about a thing making a noise or about measuring depth.",
+      "examples": [
+        "She sounded each syllable slowly so the child could copy her.",
+        "The teacher explained that vowels are sounded with the vocal cords, not just the lips."
+      ],
+      "branchCoverage": [
+        "utter with vibrating vocal chords -> say something aloud while the vocal cords in your throat vibrate"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound%2:32:00:: -> say something using the voice; sound%1:10:00:: -> the part of a broadcast signal you can hear; sound%1:11:00:: -> a sudden noise; sound%2:30:00:: -> measure how deep water is with a line; sound%2:39:02:: -> announce something by making a noise; sound%2:39:01:: -> make something produce a sound",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Speech unit' is technical and adds a restriction absent from 'utter'; say 'make a voiced sound'."
+    },
+    {
+      "senseId": "sound%1:10:00::",
+      "lemma": "sound",
+      "pos": "n",
+      "definition": "the audible part of a transmitted signal",
+      "sourceBranches": [
+        "the audible part of a transmitted signal"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the part of a broadcast signal that you can hear",
+      "scope": "This is the audio track of a transmission, not a noise that simply happens around you.",
+      "examples": [
+        "The picture came through fine, but the sound kept cutting out.",
+        "The station lost the sound for a few seconds during the live broadcast."
+      ],
+      "branchCoverage": [
+        "the audible part of a transmitted signal -> the part of a broadcast signal that you can hear"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound%2:32:00:: -> say something using the voice; sound%1:10:00:: -> the part of a broadcast signal you can hear; sound%1:11:00:: -> a sudden noise; sound%2:30:00:: -> measure how deep water is with a line; sound%2:39:02:: -> announce something by making a noise; sound%2:39:01:: -> make something produce a sound",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sound%1:11:00::",
+      "lemma": "sound",
+      "pos": "n",
+      "definition": "the sudden occurrence of an audible event",
+      "sourceBranches": [
+        "the sudden occurrence of an audible event"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a noise that happens suddenly and can be heard",
+      "scope": "This is one sudden burst of noise, not the audio portion of a broadcast signal.",
+      "examples": [
+        "A loud sound from the kitchen made everyone jump.",
+        "We heard the sound of breaking glass in the alley."
+      ],
+      "branchCoverage": [
+        "the sudden occurrence of an audible event -> a noise that happens suddenly and can be heard"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound%2:32:00:: -> say something using the voice; sound%1:10:00:: -> the part of a broadcast signal you can hear; sound%1:11:00:: -> a sudden noise; sound%2:30:00:: -> measure how deep water is with a line; sound%2:39:02:: -> announce something by making a noise; sound%2:39:01:: -> make something produce a sound",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sound%2:30:00::",
+      "lemma": "sound",
+      "pos": "v",
+      "definition": "measure the depth of (a body of water) with a sounding line",
+      "sourceBranches": [
+        "measure the depth of (a body of water) with a sounding line"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "find out how deep a body of water is by lowering a weighted rope into it",
+      "scope": "This is about measuring water depth with a rope and weight, not about making a noise or testing someone's health.",
+      "examples": [
+        "The crew sounded the harbor before the ship came in.",
+        "They sounded the lake at several points and found it shallow near the shore."
+      ],
+      "branchCoverage": [
+        "measure the depth of (a body of water) with a sounding line -> find out how deep a body of water is by lowering a weighted rope into it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound%2:32:00:: -> say something using the voice; sound%1:10:00:: -> the part of a broadcast signal you can hear; sound%1:11:00:: -> a sudden noise; sound%2:30:00:: -> measure how deep water is with a line; sound%2:39:02:: -> announce something by making a noise; sound%2:39:01:: -> make something produce a sound",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sound%2:39:02::",
+      "lemma": "sound",
+      "pos": "v",
+      "definition": "announce by means of a sound",
+      "sourceBranches": [
+        "announce by means of a sound"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "use a bell, horn or other noise to tell people that something is happening",
+      "scope": "This is about a device or instrument giving a signal to announce something, not about a person speaking words, not a noise starting by itself, and not simply making an object produce a noise.",
+      "examples": [
+        "The guard sounded the alarm as soon as he saw the smoke.",
+        "A bell sounded the end of the lesson."
+      ],
+      "branchCoverage": [
+        "announce by means of a sound -> use a bell, horn or other noise to tell people that something is happening"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound%2:32:00:: -> say something using the voice; sound%1:10:00:: -> the part of a broadcast signal you can hear; sound%1:11:00:: -> a sudden noise; sound%2:30:00:: -> measure how deep water is with a line; sound%2:39:02:: -> announce something by making a noise; sound%2:39:01:: -> make something produce a sound",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope's 'noise starting by itself' misses the sibling 'cause to sound'; say the sound must announce something."
+    },
+    {
+      "senseId": "sound%2:39:01::",
+      "lemma": "sound",
+      "pos": "v",
+      "definition": "cause to sound",
+      "sourceBranches": [
+        "cause to sound"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make something, such as a bell or an instrument, produce a noise",
+      "scope": "This is not speaking or singing yourself, and not announcing news with a noise; it means making an object give out a noise.",
+      "examples": [
+        "She sounded the bell twice, then listened for an answer.",
+        "The technician sounded each pipe to check that it was clear."
+      ],
+      "branchCoverage": [
+        "cause to sound -> make something, such as a bell or an instrument, produce a noise"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound%2:32:00:: -> say something using the voice; sound%1:10:00:: -> the part of a broadcast signal you can hear; sound%1:11:00:: -> a sudden noise; sound%2:30:00:: -> measure how deep water is with a line; sound%2:39:02:: -> announce something by making a noise; sound%2:39:01:: -> make something produce a sound",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Sounded the alarm' is the announce sibling's own example; 'to call the students in' also announces. Use 'sounded the bell' alone."
+    },
+    {
+      "senseId": "source%1:10:01::",
+      "lemma": "source",
+      "pos": "n",
+      "definition": "a publication (or a passage from a publication) that is referred to",
+      "sourceBranches": [
+        "a publication (or a passage from a publication) that is referred to"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a published work such as a book or article, or a passage from one, that someone mentions or uses for information",
+      "scope": "This is not the place, person, or thing something comes from, and not the person who starts something; it is a written work or passage used for information.",
+      "examples": [
+        "The historian lists her sources at the end of each chapter.",
+        "He checked every source before quoting it in his essay."
+      ],
+      "branchCoverage": [
+        "a publication (or a passage from a publication) that is referred to -> a published work such as a book or article, or a passage from one, that someone mentions or uses for information"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "source%1:10:01:: -> a publication or passage referred to for information; source%1:17:00:: -> a living thing or material where an infectious germ normally lives; source%1:18:00:: -> someone who starts or causes something",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Quoted part' and 'quoted passage' narrow 'a passage from a publication'; the passage need only be referred to."
+    },
+    {
+      "senseId": "source%1:17:00::",
+      "lemma": "source",
+      "pos": "n",
+      "definition": "anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies",
+      "sourceBranches": [
+        "anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a person, animal, plant, or material in which a germ that causes infection usually lives and reproduces",
+      "scope": "This is not a place or document that information comes from; it is a living creature or material in which an infectious germ normally lives and reproduces.",
+      "examples": [
+        "Rats serve as a source for the bacteria that cause the illness.",
+        "Fruit bats are the natural source of the virus."
+      ],
+      "branchCoverage": [
+        "anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies -> a person, animal, plant, or material in which a germ that causes infection usually lives and reproduces"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "source%1:10:01:: -> a publication or passage referred to for information; source%1:17:00:: -> a living thing or material where an infectious germ normally lives; source%1:18:00:: -> someone who starts or causes something",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss matches the OEWN reservoir synset, but the partition line describes a general origin sense. Resolve the partition before release."
+    },
+    {
+      "senseId": "source%1:18:00::",
+      "lemma": "source",
+      "pos": "n",
+      "definition": "someone who originates or causes or initiates something",
+      "sourceBranches": [
+        "someone who originates or causes or initiates something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a person who first creates, causes, or starts something",
+      "scope": "This is not a document or place that information comes from; it is a person who first creates, causes, or starts something.",
+      "examples": [
+        "The mayor was the source of the city's new housing policy.",
+        "Historians regard her as the source of the reform movement."
+      ],
+      "branchCoverage": [
+        "someone who originates or causes or initiates something -> a person who first creates, causes, or starts something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "source%1:10:01:: -> a publication or passage referred to for information; source%1:17:00:: -> a living thing or material where an infectious germ normally lives; source%1:18:00:: -> someone who starts or causes something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "value%2:31:00::",
+      "lemma": "value",
+      "pos": "v",
+      "definition": "evaluate or estimate the nature, quality, ability, extent, or significance of",
+      "sourceBranches": [
+        "evaluate or estimate the nature, quality, ability, extent, or significance of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "judge or estimate the character, quality, ability, size, or importance of something",
+      "scope": "This is not calculating a price and not holding something dear; it is judging the qualities, abilities, size, or importance of something.",
+      "examples": [
+        "The judges valued each design on originality and practicality.",
+        "The assessor valued each candidate's skill against a checklist."
+      ],
+      "branchCoverage": [
+        "evaluate or estimate the nature, quality, ability, extent, or significance of -> judge or estimate the character, quality, ability, size, or importance of something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "value%2:31:00:: -> judge the nature or quality of something; value%1:07:01:: -> how light or dark a colour is; value%2:31:02:: -> work out how much something is worth",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 reads as 'prized' (held dear), which the scope excludes; make the assessment context explicit."
+    },
+    {
+      "senseId": "value%1:07:01::",
+      "lemma": "value",
+      "pos": "n",
+      "definition": "relative darkness or lightness of a color",
+      "sourceBranches": [
+        "relative darkness or lightness of a color"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "how dark or light a colour is compared with other colours",
+      "scope": "This is not how much something costs or how important it is; it is only how dark or light a colour is.",
+      "examples": [
+        "The painting uses a range of values, from deep black to pale grey.",
+        "Adjust the value of the blue until it matches the sky."
+      ],
+      "branchCoverage": [
+        "relative darkness or lightness of a color -> how dark or light a colour is compared with other colours"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "value%2:31:00:: -> judge the nature or quality of something; value%1:07:01:: -> how light or dark a colour is; value%2:31:02:: -> work out how much something is worth",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "value%2:31:02::",
+      "lemma": "value",
+      "pos": "v",
+      "definition": "estimate the value of",
+      "sourceBranches": [
+        "estimate the value of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "estimate how much something is worth",
+      "scope": "This is not judging quality, ability, or importance in general; it is putting an estimate on what something is worth.",
+      "examples": [
+        "An expert valued the antique vase at two thousand pounds.",
+        "The house was valued for insurance purposes."
+      ],
+      "branchCoverage": [
+        "estimate the value of -> estimate how much something is worth"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "value%2:31:00:: -> judge the nature or quality of something; value%1:07:01:: -> how light or dark a colour is; value%2:31:02:: -> work out how much something is worth",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "follow%2:41:00::",
+      "lemma": "follow",
+      "pos": "v",
+      "definition": "act in accordance with someone's rules, commands, or wishes",
+      "sourceBranches": [
+        "act in accordance with someone's rules, commands, or wishes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "do what someone's rules, orders, or wishes say you should do",
+      "scope": "This is not going after someone physically, tracking how something develops, or adopting a theory; it is doing what another person's rules, orders, or wishes require.",
+      "examples": [
+        "The soldiers followed the captain's orders without question.",
+        "If you follow the house rules, you will not get into trouble."
+      ],
+      "branchCoverage": [
+        "act in accordance with someone's rules, commands, or wishes -> do what someone's rules, orders, or wishes say you should do"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "follow%2:41:00:: -> act as someone's rules or wishes require; follow%2:40:02:: -> subscribe to another person's updates on social media; follow%2:31:00:: -> track how something develops; follow%2:40:00:: -> choose and act on a theory, idea, or policy; follow%2:38:13:: -> go after someone or something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "follow%2:40:02::",
+      "lemma": "follow",
+      "pos": "v",
+      "definition": "to be subscribed to updates from another user on social media",
+      "sourceBranches": [
+        "to be subscribed to updates from another user on social media"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "have signed up to see new posts and updates from another user on social media",
+      "scope": "This is not going after someone in person and not doing what someone's rules require; it is signing up to see another user's posts on social media.",
+      "examples": [
+        "She follows three cooking accounts on Instagram.",
+        "He followed the band's page to hear about new tours."
+      ],
+      "branchCoverage": [
+        "to be subscribed to updates from another user on social media -> have signed up to see new posts and updates from another user on social media"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "follow%2:41:00:: -> act as someone's rules or wishes require; follow%2:40:02:: -> subscribe to another person's updates on social media; follow%2:31:00:: -> track how something develops; follow%2:40:00:: -> choose and act on a theory, idea, or policy; follow%2:38:13:: -> go after someone or something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "follow%2:31:00::",
+      "lemma": "follow",
+      "pos": "v",
+      "definition": "follow, discover, or ascertain the course of development of something",
+      "sourceBranches": [
+        "follow, discover, or ascertain the course of development of something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "watch or find out how something changes and develops over time",
+      "scope": "This is not obeying orders, going after a person, or subscribing online; it is watching or finding out how something develops.",
+      "examples": [
+        "Reporters followed the negotiations closely for three months.",
+        "We followed the project's progress in a shared spreadsheet."
+      ],
+      "branchCoverage": [
+        "follow, discover, or ascertain the course of development of something -> watch or find out how something changes and develops over time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "follow%2:41:00:: -> act as someone's rules or wishes require; follow%2:40:02:: -> subscribe to another person's updates on social media; follow%2:31:00:: -> track how something develops; follow%2:40:00:: -> choose and act on a theory, idea, or policy; follow%2:38:13:: -> go after someone or something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "follow%2:40:00::",
+      "lemma": "follow",
+      "pos": "v",
+      "definition": "choose and follow; as of theories, ideas, policies, strategies or plans",
+      "sourceBranches": [
+        "choose and follow",
+        "as of theories, ideas, policies, strategies or plans"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "adopt a theory, idea, policy, strategy, or plan and put it into practice",
+      "scope": "This is not obeying a person's orders, watching how something develops, or chasing someone; it is adopting a chosen theory, idea, policy, strategy, or plan.",
+      "examples": [
+        "The company followed a strategy of steady, cautious growth.",
+        "Early doctors followed the theory that bad air caused disease."
+      ],
+      "branchCoverage": [
+        "choose and follow -> adopt and put it into practice",
+        "as of theories, ideas, policies, strategies or plans -> a theory, idea, policy, strategy, or plan"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "follow%2:41:00:: -> act as someone's rules or wishes require; follow%2:40:02:: -> subscribe to another person's updates on social media; follow%2:31:00:: -> track how something develops; follow%2:40:00:: -> choose and act on a theory, idea, or policy; follow%2:38:13:: -> go after someone or something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "follow%2:38:13::",
+      "lemma": "follow",
+      "pos": "v",
+      "definition": "follow in or as if in pursuit",
+      "sourceBranches": [
+        "follow in or as if in pursuit"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "go after someone or something, or move along behind them as if chasing",
+      "scope": "This is not obeying rules, tracking how something develops, or subscribing online; it is going after someone or moving behind them.",
+      "examples": [
+        "The dog followed the boy all the way home.",
+        "Detectives followed the suspect across the city."
+      ],
+      "branchCoverage": [
+        "follow in or as if in pursuit -> go after someone or something, or move along behind them as if chasing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "follow%2:41:00:: -> act as someone's rules or wishes require; follow%2:40:02:: -> subscribe to another person's updates on social media; follow%2:31:00:: -> track how something develops; follow%2:40:00:: -> choose and act on a theory, idea, or policy; follow%2:38:13:: -> go after someone or something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

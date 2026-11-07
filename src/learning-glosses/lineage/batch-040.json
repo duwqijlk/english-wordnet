@@ -1,0 +1,1021 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 40,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1950,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "taste%2:39:02::",
+      "lemma": "taste",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "have flavor; taste of something",
+      "synsetId": "02198732-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1768,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have flavor",
+        "taste of something"
+      ]
+    },
+    {
+      "senseId": "tea%1:20:00::",
+      "lemma": "tea",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India; source of tea leaves",
+      "synsetId": "12950543-n",
+      "words": 21,
+      "rare": 10,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1769,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India",
+        "source of tea leaves"
+      ]
+    },
+    {
+      "senseId": "tea%1:13:01::",
+      "lemma": "tea",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a light midafternoon meal of tea and sandwiches or cakes",
+      "synsetId": "07591075-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1769,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a light midafternoon meal of tea and sandwiches or cakes"
+      ]
+    },
+    {
+      "senseId": "afternoon%1:10:00::",
+      "lemma": "afternoon",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a conventional expression of greeting or farewell, used to wish someone a good afternoon",
+      "synsetId": "06645314-n",
+      "words": 14,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1771,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a conventional expression of greeting or farewell, used to wish someone a good afternoon"
+      ]
+    },
+    {
+      "senseId": "assistant%1:18:00::",
+      "lemma": "assistant",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose",
+      "synsetId": "09835195-n",
+      "words": 17,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1772,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose"
+      ]
+    },
+    {
+      "senseId": "classic%3:00:00::",
+      "lemma": "classic",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of or relating to the first significant period of a civilization, culture, area of study, etc.",
+      "synsetId": "00414699-a",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1775,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to the first significant period of a civilization, culture, area of study, etc"
+      ]
+    },
+    {
+      "senseId": "classic%1:18:00::",
+      "lemma": "classic",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an artist who has created classic works",
+      "synsetId": "09945884-n",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1775,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an artist who has created classic works"
+      ]
+    },
+    {
+      "senseId": "clothes%1:06:00::",
+      "lemma": "clothes",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "clothing in general",
+      "synsetId": "02731365-n",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1776,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "clothing in general"
+      ]
+    },
+    {
+      "senseId": "electric%3:01:00::",
+      "lemma": "electric",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "using or providing or producing or transmitting or operated by electricity",
+      "synsetId": "02837762-a",
+      "words": 11,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1778,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "using or providing or producing or transmitting or operated by electricity"
+      ]
+    },
+    {
+      "senseId": "electric%5:00:00:exciting:00",
+      "lemma": "electric",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "affected by emotion as if by electricity; thrilling",
+      "synsetId": "00924872-s",
+      "words": 8,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1778,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "affected by emotion as if by electricity",
+        "thrilling"
+      ]
+    },
+    {
+      "senseId": "electric%1:06:00::",
+      "lemma": "electric",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a car that is powered by electricity",
+      "synsetId": "03273701-n",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1778,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a car that is powered by electricity"
+      ]
+    },
+    {
+      "senseId": "emergency%1:11:00::",
+      "lemma": "emergency",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a sudden unforeseen crisis (usually involving danger) that requires immediate action",
+      "synsetId": "07432005-n",
+      "words": 11,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1779,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sudden unforeseen crisis (usually involving danger) that requires immediate action"
+      ]
+    },
+    {
+      "senseId": "emergency%1:06:00::",
+      "lemma": "emergency",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a brake operated by hand; usually operates by mechanical linkage",
+      "synsetId": "03488720-n",
+      "words": 10,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1779,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a brake operated by hand",
+        "usually operates by mechanical linkage"
+      ]
+    },
+    {
+      "senseId": "entirely%4:02:00::",
+      "lemma": "entirely",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "to a complete degree or to the full or entire extent; Completely or entirely",
+      "synsetId": "00008423-r",
+      "words": 14,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1781,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "to a complete degree or to the full or entire extent",
+        "Completely or entirely"
+      ]
+    },
+    {
+      "senseId": "festival%1:04:00::",
+      "lemma": "festival",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an organized series of acts and performances (usually in one place)",
+      "synsetId": "00518784-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1784,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an organized series of acts and performances (usually in one place)"
+      ]
+    },
+    {
+      "senseId": "festival%1:28:00::",
+      "lemma": "festival",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a day or period of time set aside for feasting and celebration",
+      "synsetId": "15187435-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1784,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a day or period of time set aside for feasting and celebration"
+      ]
+    },
+    {
+      "senseId": "flat%5:00:00:planar:00",
+      "lemma": "flat",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having a relatively broad surface in relation to depth or thickness",
+      "synsetId": "00662446-s",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1785,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having a relatively broad surface in relation to depth or thickness"
+      ]
+    },
+    {
+      "senseId": "flat%4:02:00::",
+      "lemma": "flat",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "in a forthright manner; candidly or frankly",
+      "synsetId": "00058666-r",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1785,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in a forthright manner",
+        "candidly or frankly"
+      ]
+    },
+    {
+      "senseId": "flat%1:10:00::",
+      "lemma": "flat",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a musical notation indicating one half step lower than the note named",
+      "synsetId": "06879969-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1785,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a musical notation indicating one half step lower than the note named"
+      ]
+    },
+    {
+      "senseId": "flat%5:00:00:unqualified:02",
+      "lemma": "flat",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "not modified or restricted by reservations",
+      "synsetId": "01920312-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1785,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not modified or restricted by reservations"
+      ]
+    },
+    {
+      "senseId": "ill%1:26:00::",
+      "lemma": "ill",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an often persistent bodily disorder or disease; a cause for complaining",
+      "synsetId": "14078890-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1789,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an often persistent bodily disorder or disease",
+        "a cause for complaining"
+      ]
+    },
+    {
+      "senseId": "ill%4:02:00::",
+      "lemma": "ill",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "(‘ill’ is often used as a combining form) in a poor or improper or unsatisfactory manner; not well",
+      "synsetId": "00011978-r",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1789,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(‘ill’ is often used as a combining form) in a poor or improper or unsatisfactory manner",
+        "not well"
+      ]
+    },
+    {
+      "senseId": "ill%4:02:01::",
+      "lemma": "ill",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "with difficulty or inconvenience; scarcely or hardly",
+      "synsetId": "00012378-r",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1789,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "with difficulty or inconvenience",
+        "scarcely or hardly"
+      ]
+    },
+    {
+      "senseId": "ill%5:00:00:harmful:00",
+      "lemma": "ill",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "resulting in suffering or adversity",
+      "synsetId": "01165811-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1789,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "resulting in suffering or adversity"
+      ]
+    },
+    {
+      "senseId": "initial%2:32:00::",
+      "lemma": "initial",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "mark with one's initials",
+      "synsetId": "00999352-v",
+      "words": 4,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1790,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "mark with one's initials"
+      ]
+    },
+    {
+      "senseId": "kick%1:11:00::",
+      "lemma": "kick",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the backward jerk of a gun when it is fired",
+      "synsetId": "07365354-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1792,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the backward jerk of a gun when it is fired"
+      ]
+    },
+    {
+      "senseId": "mail%1:06:01::",
+      "lemma": "mail",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a conveyance that transports the letters and packages that are conveyed by the postal system",
+      "synsetId": "03715183-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1793,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a conveyance that transports the letters and packages that are conveyed by the postal system"
+      ]
+    },
+    {
+      "senseId": "mail%1:10:01::",
+      "lemma": "mail",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the bags of letters and packages that are transported by the postal service",
+      "synsetId": "06286287-n",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1793,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the bags of letters and packages that are transported by the postal service"
+      ]
+    },
+    {
+      "senseId": "mail%1:10:00::",
+      "lemma": "mail",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the system whereby messages are transmitted via the post office",
+      "synsetId": "06275051-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1793,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the system whereby messages are transmitted via the post office"
+      ]
+    },
+    {
+      "senseId": "massive%5:00:00:large:00",
+      "lemma": "massive",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "imposing in size or bulk or solidity",
+      "synsetId": "01392104-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1794,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "imposing in size or bulk or solidity"
+      ]
+    },
+    {
+      "senseId": "plane%1:06:01::",
+      "lemma": "plane",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an aircraft that has a fixed wing and is powered by propellers or jets",
+      "synsetId": "02694015-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1799,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an aircraft that has a fixed wing and is powered by propellers or jets"
+      ]
+    },
+    {
+      "senseId": "plane%2:35:03::",
+      "lemma": "plane",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "make even or smooth, with or as with a carpenter's plane",
+      "synsetId": "01310049-v",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1799,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make even or smooth, with or as with a carpenter's plane"
+      ]
+    },
+    {
+      "senseId": "plane%2:35:00::",
+      "lemma": "plane",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "cut or remove with or as if with a plane",
+      "synsetId": "01252054-v",
+      "words": 10,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1799,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cut or remove with or as if with a plane"
+      ]
+    },
+    {
+      "senseId": "proper%3:00:00::",
+      "lemma": "proper",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "marked by suitability or rightness or appropriateness",
+      "synsetId": "01884565-a",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1802,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by suitability or rightness or appropriateness"
+      ]
+    },
+    {
+      "senseId": "proper%5:00:00:real:02",
+      "lemma": "proper",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having all the qualities typical of the thing specified",
+      "synsetId": "01944939-s",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1802,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having all the qualities typical of the thing specified"
+      ]
+    },
+    {
+      "senseId": "quarter%2:41:00::",
+      "lemma": "quarter",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "pull (a person) apart with four horses tied to their extremities, so as to execute them",
+      "synsetId": "02489153-v",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1804,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "pull (a person) apart with four horses tied to their extremities, so as to execute them"
+      ]
+    },
+    {
+      "senseId": "quarter%2:35:01::",
+      "lemma": "quarter",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "divide into quarters",
+      "synsetId": "01566356-v",
+      "words": 3,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1804,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "divide into quarters"
+      ]
+    },
+    {
+      "senseId": "regional%3:01:00::",
+      "lemma": "regional",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "characteristic of a region",
+      "synsetId": "02883162-a",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1805,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characteristic of a region"
+      ]
+    },
+    {
+      "senseId": "regional%5:00:00:territorial:00",
+      "lemma": "regional",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "related or limited to a particular region",
+      "synsetId": "02417773-s",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1805,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "related or limited to a particular region"
+      ]
+    },
+    {
+      "senseId": "session%1:10:00::",
+      "lemma": "session",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a meeting for execution of a group's functions",
+      "synsetId": "07160216-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1806,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a meeting for execution of a group's functions"
+      ]
+    },
+    {
+      "senseId": "shape%1:03:00::",
+      "lemma": "shape",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the spatial arrangement of something as distinct from its substance",
+      "synsetId": "00028005-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1807,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the spatial arrangement of something as distinct from its substance"
+      ]
+    },
+    {
+      "senseId": "shape%1:07:00::",
+      "lemma": "shape",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any spatial attributes (especially as defined by outline)",
+      "synsetId": "05071206-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1807,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any spatial attributes (especially as defined by outline)"
+      ]
+    },
+    {
+      "senseId": "shape%2:30:00::",
+      "lemma": "shape",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "give shape or form to",
+      "synsetId": "00142011-v",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1807,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "give shape or form to"
+      ]
+    },
+    {
+      "senseId": "shape%2:31:00::",
+      "lemma": "shape",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "shape or influence; give direction to",
+      "synsetId": "00702806-v",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1807,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "shape or influence",
+        "give direction to"
+      ]
+    },
+    {
+      "senseId": "sky%1:17:00::",
+      "lemma": "sky",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the atmosphere and outer space as viewed from the earth",
+      "synsetId": "09459612-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1808,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the atmosphere and outer space as viewed from the earth"
+      ]
+    },
+    {
+      "senseId": "teaching%1:04:01::",
+      "lemma": "teaching",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the activities of educating or instructing; activities that impart knowledge or skill",
+      "synsetId": "00884975-n",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1809,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the activities of educating or instructing",
+        "activities that impart knowledge or skill"
+      ]
+    },
+    {
+      "senseId": "teaching%1:04:00::",
+      "lemma": "teaching",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the profession of a teacher",
+      "synsetId": "00888759-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1809,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the profession of a teacher"
+      ]
+    },
+    {
+      "senseId": "transfer%2:38:05::",
+      "lemma": "transfer",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "lift and reset in another soil or situation",
+      "synsetId": "01859141-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1811,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lift and reset in another soil or situation"
+      ]
+    },
+    {
+      "senseId": "transfer%1:18:00::",
+      "lemma": "transfer",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "someone who transfers or is transferred from one position to another",
+      "synsetId": "10744008-n",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1811,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "someone who transfers or is transferred from one position to another"
+      ]
+    },
+    {
+      "senseId": "transfer%1:04:03::",
+      "lemma": "transfer",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of transferring something from one form to another",
+      "synsetId": "00202520-n",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1811,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of transferring something from one form to another"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1220 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 5,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 31,
+      "of": 50,
+      "rate": 0.62
+    },
+    "thirdPass": {
+      "approved": 2,
+      "of": 3
+    },
+    "fourthPass": {
+      "approved": 1,
+      "of": 1
+    },
+    "secondPass": {
+      "approved": 16,
+      "of": 19
+    },
+    "scope": "priority 0-1, general vocabulary only",
+    "lineage": {
+      "draft": "7497f19044bfef383ade996c97c176e37bd4e1ec057317d0571d6890141987ef",
+      "corrections": "ef5c6df6611c48bf526f52e53ae49f86796762f895f6d1b24b24c60d414f343b"
+    },
+    "studentValidated": false,
+    "semanticAcceptance": false
+  },
+  "accepted": [
+    {
+      "senseId": "group%2:33:00::",
+      "lemma": "group",
+      "pos": "v",
+      "definition": "form a group or group together",
+      "decision": "gloss",
+      "simpleMeaning": "to come together in a set, or to arrange people or things in sets",
+      "scope": "The verb; not a mathematical group.",
+      "examples": [
+        "The children grouped around the teacher.",
+        "Group the photos by year."
+      ],
+      "branchCoverage": [
+        "form a group -> \"come together in a set\"",
+        "or group together -> \"arrange people or things in sets\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "form a group or group together"
+      ],
+      "reason": "Third pass correcting a named reviewer defect.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "looking%1:04:01::",
+      "lemma": "looking",
+      "pos": "n",
+      "definition": "the act of directing the eyes toward something and perceiving it visually; look",
+      "decision": "gloss",
+      "simpleMeaning": "the act of turning your eyes towards something and seeing it",
+      "scope": "The noun; not the adjective.",
+      "examples": [
+        "Her looking at the clock worried him.",
+        "The looking lasted only a second."
+      ],
+      "branchCoverage": [
+        "act of directing the eyes towards something -> \"turning your eyes towards something\"",
+        "perceiving it visually -> \"and seeing it\"",
+        "look -> a synonym in the source, not a usage label"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of directing the eyes toward something and perceiving it visually",
+        "look"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "looking%5:00:00:superficial:00",
+      "lemma": "looking",
+      "pos": "a",
+      "definition": "appearing to be as specified; usually used as combining forms",
+      "decision": "gloss",
+      "simpleMeaning": "appearing to be a particular thing, used in combinations such as good-looking",
+      "scope": "Combining form only, as in good-looking or odd-looking; not the noun.",
+      "examples": [
+        "A good-looking man opened the door.",
+        "The odd-looking machine still worked."
+      ],
+      "branchCoverage": [
+        "appearing to be as specified -> \"appearing to be a particular thing\"",
+        "usually used as combining forms -> \"used in combinations\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "appearing to be as specified",
+        "usually used as combining forms"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "business%1:04:01::",
+      "lemma": "business",
+      "pos": "n",
+      "definition": "the activity of providing goods and services involving financial and commercial and industrial aspects",
+      "decision": "gloss",
+      "simpleMeaning": "the activity of buying, selling, and producing goods and services",
+      "scope": "Commercial activity; not a single company.",
+      "examples": [
+        "Business is slow in winter.",
+        "She went into business with her brother."
+      ],
+      "branchCoverage": [
+        "activity of providing goods and services -> \"buying, selling, and producing goods and services\"",
+        "financial, commercial, and industrial aspects -> \"buying, selling, and producing\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the activity of providing goods and services involving financial and commercial and industrial aspects"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "care%1:09:00::",
+      "lemma": "care",
+      "pos": "n",
+      "definition": "judiciousness in avoiding harm or danger",
+      "decision": "gloss",
+      "simpleMeaning": "good judgment in avoiding harm or danger",
+      "scope": "Carefulness; not looking after someone.",
+      "examples": [
+        "Handle the glass with care.",
+        "Take care on the icy road."
+      ],
+      "branchCoverage": [
+        "judiciousness in avoiding harm or danger -> \"good judgment in avoiding harm or danger\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "judiciousness in avoiding harm or danger"
+      ],
+      "reason": "Third pass correcting a named reviewer defect.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "start%1:04:02::",
+      "lemma": "start",
+      "pos": "n",
+      "definition": "a turn to be a starter (in a game at the beginning)",
+      "decision": "gloss",
+      "simpleMeaning": "in a game, the turn of the player who begins play",
+      "scope": "Sports; not the beginning of an event.",
+      "examples": [
+        "The rookie got the start at first base.",
+        "He made his first start for the team."
+      ],
+      "branchCoverage": [
+        "a turn to be a starter -> \"the turn of the player who begins play\"",
+        "in a game at the beginning -> \"in a game ... begins\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a turn to be a starter (in a game at the beginning)"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "start%2:30:01::",
+      "lemma": "start",
+      "pos": "v",
+      "definition": "set in motion, cause to start",
+      "decision": "gloss",
+      "simpleMeaning": "to make something begin to move or happen",
+      "scope": "Causing something to begin; not beginning oneself.",
+      "examples": [
+        "She started the car.",
+        "The loud noise started the baby crying."
+      ],
+      "branchCoverage": [
+        "set in motion -> \"make something begin to move\"",
+        "cause to start -> \"or happen\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "set in motion, cause to start"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "system%1:06:00::",
+      "lemma": "system",
+      "pos": "n",
+      "definition": "instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity",
+      "decision": "gloss",
+      "simpleMeaning": "a set of machines or equipment that work together",
+      "scope": "Equipment and parts; not a set of ideas.",
+      "examples": [
+        "The heating system broke down.",
+        "The new system controls the lights."
+      ],
+      "branchCoverage": [
+        "instrumentality combining interrelated interacting artifacts -> \"a set of machines or equipment\"",
+        "designed to work as a coherent entity -> \"that work together\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "system%1:14:00::",
+      "lemma": "system",
+      "pos": "n",
+      "definition": "a group of independent but interrelated elements comprising a unified whole",
+      "decision": "gloss",
+      "simpleMeaning": "a group of separate but connected parts or ideas that form a whole",
+      "scope": "Parts or ideas; not machines.",
+      "examples": [
+        "The country has a good transport system.",
+        "The river system covers half the state."
+      ],
+      "branchCoverage": [
+        "a group of independent but interrelated elements -> \"separate but connected parts or ideas\"",
+        "comprising a unified whole -> \"that form a whole\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a group of independent but interrelated elements comprising a unified whole"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "times%1:04:00::",
+      "lemma": "times",
+      "pos": "n",
+      "definition": "an arithmetic operation that is the inverse of division; the product of two numbers is computed",
+      "decision": "gloss",
+      "simpleMeaning": "the act of multiplying numbers; the opposite of dividing",
+      "scope": "Mathematics; not occasions.",
+      "examples": [
+        "Times is the opposite of division.",
+        "The class learned times before division."
+      ],
+      "branchCoverage": [
+        "arithmetic operation that is the inverse of division -> \"the opposite of dividing\"",
+        "the product of two numbers is computed -> \"multiplying numbers\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an arithmetic operation that is the inverse of division",
+        "the product of two numbers is computed"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "nothing%1:23:00::",
+      "lemma": "nothing",
+      "pos": "n",
+      "definition": "a quantity of no importance; thing (object:), singular, negative pronoun; pronoun, thing, singular; quantifier: negative existential",
+      "decision": "gloss",
+      "simpleMeaning": "not any thing; no amount or thing at all",
+      "scope": "The pronoun; the grammar labels describe this same meaning.",
+      "examples": [
+        "There is nothing in the box.",
+        "Nothing was done about it."
+      ],
+      "branchCoverage": [
+        "a quantity of no importance -> \"no amount ... at all\"",
+        "thing and pronoun labels -> grammar notes about the same meaning",
+        "quantifier: negative existential -> grammar label"
+      ],
+      "labelBranches": [
+        "thing (object:), singular, negative pronoun",
+        "pronoun, thing, singular",
+        "quantifier: negative existential"
+      ],
+      "sourceBranches": [
+        "a quantity of no importance",
+        "thing (object:), singular, negative pronoun",
+        "pronoun, thing, singular",
+        "quantifier: negative existential",
+        "after colon: negative existential"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "person%1:10:00::",
+      "lemma": "person",
+      "pos": "n",
+      "definition": "a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party",
+      "decision": "gloss",
+      "simpleMeaning": "the form of a pronoun, possessive word, or verb showing the speaker, the listener, or another",
+      "scope": "Grammar only; not a human being.",
+      "examples": [
+        "The verb changes with the person.",
+        "Write the answer in the third person."
+      ],
+      "branchCoverage": [
+        "grammatical category for pronouns, possessives and verb forms -> \"pronoun, possessive word, or verb\"",
+        "speaker, addressee, or third party -> \"the speaker, the listener, or another\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "person%1:03:00::",
+      "lemma": "person",
+      "pos": "n",
+      "definition": "a human being; person, singular, assertive existential pronoun; pronoun, person, singular; quantifier: assertive existential",
+      "decision": "gloss",
+      "simpleMeaning": "a human being",
+      "scope": "A human being; the grammar labels describe this same meaning.",
+      "examples": [
+        "She is a kind person.",
+        "Three persons were hurt."
+      ],
+      "branchCoverage": [
+        "a human being -> \"a human being\"",
+        "person and pronoun labels -> grammar notes about the same meaning",
+        "quantifier: assertive existential -> grammar label"
+      ],
+      "labelBranches": [
+        "person, singular, assertive existential pronoun",
+        "pronoun, person, singular",
+        "quantifier: assertive existential"
+      ],
+      "sourceBranches": [
+        "a human being",
+        "person, singular, assertive existential pronoun",
+        "pronoun, person, singular",
+        "quantifier: assertive existential",
+        "after colon: assertive existential"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%2:30:02::",
+      "lemma": "change",
+      "pos": "v",
+      "definition": "become different in some particular way, without permanently losing one's or its former characteristics or essence",
+      "decision": "gloss",
+      "simpleMeaning": "to become different in some way, without losing what makes it what it is",
+      "scope": "A partial change; not a complete change of nature.",
+      "examples": [
+        "The leaves change colour in autumn.",
+        "Her voice changed slightly."
+      ],
+      "branchCoverage": [
+        "become different in some particular way -> \"become different in some way\"",
+        "without permanently losing its characteristics or essence -> \"without losing what makes it what it is\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "become different in some particular way, without permanently losing one's or its former characteristics or essence"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%1:11:00::",
+      "lemma": "change",
+      "pos": "n",
+      "definition": "an event that occurs when something passes from one state or phase to another",
+      "decision": "gloss",
+      "simpleMeaning": "an event in which something passes from one state to another",
+      "scope": "The event; not the act of making something different.",
+      "examples": [
+        "The change from ice to water is quick.",
+        "We noticed a change in the weather."
+      ],
+      "branchCoverage": [
+        "an event -> \"an event\"",
+        "passes from one state or phase to another -> \"from one state to another\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an event that occurs when something passes from one state or phase to another"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%2:30:00::",
+      "lemma": "change",
+      "pos": "v",
+      "definition": "undergo a change; become different in essence; losing one's or its original nature",
+      "decision": "gloss",
+      "simpleMeaning": "to become so different that it loses its original nature",
+      "scope": "A complete change; not a small alteration.",
+      "examples": [
+        "The village has changed beyond recognition.",
+        "The caterpillar changed into a butterfly."
+      ],
+      "branchCoverage": [
+        "undergo a change -> \"become different\"",
+        "become different in essence -> \"so different\"",
+        "losing its original nature -> \"loses its original nature\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "undergo a change",
+        "become different in essence",
+        "losing one's or its original nature"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "change%2:30:01::",
+      "lemma": "change",
+      "pos": "v",
+      "definition": "cause to change; make different; cause a transformation",
+      "decision": "gloss",
+      "simpleMeaning": "to make something different",
+      "scope": "Causing a change; not becoming different oneself.",
+      "examples": [
+        "She changed the tyre.",
+        "They changed the plan."
+      ],
+      "branchCoverage": [
+        "cause to change -> \"make something different\"",
+        "cause a transformation -> same wording"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cause to change",
+        "make different",
+        "cause a transformation"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%1:04:00::",
+      "lemma": "change",
+      "pos": "n",
+      "definition": "the action of changing something",
+      "decision": "gloss",
+      "simpleMeaning": "the act of making something different",
+      "scope": "The action; not the event of becoming different.",
+      "examples": [
+        "The change took two hours.",
+        "They made a change to the schedule."
+      ],
+      "branchCoverage": [
+        "the action of changing something -> \"the act of making something different\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the action of changing something"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "enough%1:23:00::",
+      "lemma": "enough",
+      "pos": "n",
+      "definition": "an adequate quantity; a quantity that is large enough to achieve a purpose",
+      "decision": "gloss",
+      "simpleMeaning": "as much as is needed for a purpose",
+      "scope": "The quantity; not the adverb.",
+      "examples": [
+        "We have enough for everyone.",
+        "There is enough to finish the job."
+      ],
+      "branchCoverage": [
+        "an adequate quantity -> \"as much as is needed\"",
+        "large enough to achieve a purpose -> \"for a purpose\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an adequate quantity",
+        "a quantity that is large enough to achieve a purpose"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "full%2:30:01::",
+      "lemma": "full",
+      "pos": "v",
+      "definition": "make (a garment) fuller by pleating or gathering",
+      "decision": "gloss",
+      "simpleMeaning": "to make clothing wider and looser by folding and sewing the cloth",
+      "scope": "Sewing only; not filling a container.",
+      "examples": [
+        "The tailor fulled the skirt at the hem.",
+        "She fulled the sleeves to give them shape."
+      ],
+      "branchCoverage": [
+        "make a garment fuller -> \"make clothing wider and looser\"",
+        "by pleating or gathering -> \"folding and sewing the cloth\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make (a garment) fuller by pleating or gathering"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "full%5:00:01:whole:00",
+      "lemma": "full",
+      "pos": "a",
+      "definition": "constituting the full quantity or extent; complete",
+      "decision": "gloss",
+      "simpleMeaning": "complete; having the whole quantity or extent",
+      "scope": "Completeness; not a container with no space.",
+      "examples": [
+        "He paid the full price.",
+        "The report gives a full account."
+      ],
+      "branchCoverage": [
+        "constituting the full quantity or extent -> \"the whole quantity or extent\"",
+        "complete -> \"complete\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "constituting the full quantity or extent",
+        "complete"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "making%1:07:00::",
+      "lemma": "making",
+      "pos": "n",
+      "definition": "an attribute that must be met or complied with and that fits a person for something",
+      "decision": "gloss",
+      "simpleMeaning": "the qualities that fit a person for something",
+      "scope": "Usually plural, as in the makings of a leader.",
+      "examples": [
+        "She has the makings of a good doctor.",
+        "The team has the makings of a champion."
+      ],
+      "branchCoverage": [
+        "an attribute that must be met or complied with -> \"the qualities that fit a person\"",
+        "fits a person for something -> \"for something\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an attribute that must be met or complied with and that fits a person for something"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "making%1:06:00::",
+      "lemma": "making",
+      "pos": "n",
+      "definition": "(usually plural) the components needed for making or doing something",
+      "decision": "gloss",
+      "simpleMeaning": "the things needed to prepare or do something; usually plural",
+      "scope": "Usually plural, as in the makings of a cake.",
+      "examples": [
+        "She bought the makings of a cake.",
+        "We have the makings of a plan."
+      ],
+      "branchCoverage": [
+        "usually plural -> stated in the meaning",
+        "components needed for making or doing something -> \"the things needed to prepare or do something\", without the headword"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(usually plural) the components needed for making or doing something"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "point%1:09:00::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "a geometric element that has position but no extension",
+      "decision": "gloss",
+      "simpleMeaning": "in geometry, a position with no size or area",
+      "scope": "Geometry only; not the main idea of a story.",
+      "examples": [
+        "Two lines meet at a point.",
+        "Mark the point with a dot."
+      ],
+      "branchCoverage": [
+        "geometric element -> \"in geometry\"",
+        "has position but no extension -> \"a position with no size or area\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a geometric element that has position but no extension"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%2:32:00::",
+      "lemma": "point",
+      "pos": "v",
+      "definition": "indicate a place, direction, person, or thing; either spatially or figuratively",
+      "decision": "gloss",
+      "simpleMeaning": "to show where something is, or to suggest something",
+      "scope": "Showing; not scoring a point in a game.",
+      "examples": [
+        "She pointed at the door.",
+        "The evidence points to a simple answer."
+      ],
+      "branchCoverage": [
+        "indicate a place, direction, person, or thing -> \"show where something is\"",
+        "spatially or figuratively -> \"or to suggest something\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "indicate a place, direction, person, or thing",
+        "either spatially or figuratively"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "read%2:31:01::",
+      "lemma": "read",
+      "pos": "v",
+      "definition": "look at, interpret, and say out loud something that is written or printed",
+      "decision": "gloss",
+      "simpleMeaning": "to look at and understand written words and say them aloud",
+      "scope": "Reading aloud; not reading silently.",
+      "examples": [
+        "She read the letter aloud.",
+        "He read the story to the children."
+      ],
+      "branchCoverage": [
+        "look at, interpret -> \"look at and understand\"",
+        "say out loud something written or printed -> \"say them aloud\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "look at, interpret, and say out loud something that is written or printed"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "bad%4:02:04::",
+      "lemma": "bad",
+      "pos": "r",
+      "definition": "with great intensity (‘bad’ is a nonstandard variant for ‘badly’)",
+      "decision": "gloss",
+      "simpleMeaning": "very much; with great intensity (not standard English; use badly)",
+      "scope": "Dialect and informal use; marked so a learner does not copy it as standard.",
+      "examples": [
+        "He wants it bad.",
+        "She wanted the job bad."
+      ],
+      "branchCoverage": [
+        "with great intensity -> \"very much; with great intensity\"",
+        "nonstandard variant for badly -> stated in the meaning and scope"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "with great intensity (‘bad’ is a nonstandard variant for ‘badly’)"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "bad%1:07:00::",
+      "lemma": "bad",
+      "pos": "n",
+      "definition": "that which is below standard or expectations as of ethics or decency",
+      "decision": "gloss",
+      "simpleMeaning": "what is morally wrong or unacceptable",
+      "scope": "Moral badness; not spoiled food or poor quality.",
+      "examples": [
+        "the battle between good and bad",
+        "He saw the bad in people."
+      ],
+      "branchCoverage": [
+        "below standard or expectations in ethics or decency -> \"morally wrong or unacceptable\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "that which is below standard or expectations as of ethics or decency"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "bad%5:00:00:uncomfortable:00",
+      "lemma": "bad",
+      "pos": "a",
+      "definition": "feeling physical discomfort or pain (‘tough’ is occasionally used colloquially for ‘bad’)",
+      "decision": "gloss",
+      "simpleMeaning": "feeling pain or physical discomfort",
+      "scope": "Physical discomfort; not moral badness.",
+      "examples": [
+        "He felt bad all day.",
+        "She felt bad after the operation."
+      ],
+      "branchCoverage": [
+        "feeling physical discomfort or pain -> \"feeling pain or physical discomfort\"",
+        "tough used colloquially -> noted as a variant, not a separate meaning"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "feeling physical discomfort or pain (‘tough’ is occasionally used colloquially for ‘bad’)"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "four%1:06:00::",
+      "lemma": "four",
+      "pos": "n",
+      "definition": "a playing card or domino or die whose upward face shows four pips",
+      "decision": "gloss",
+      "simpleMeaning": "a playing card, domino, or die with four marks on its face",
+      "scope": "Games only; not the number four.",
+      "examples": [
+        "He played a four.",
+        "The die showed a four."
+      ],
+      "branchCoverage": [
+        "playing card or domino or die -> all three named",
+        "upward face shows four pips -> \"with four marks on its face\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a playing card or domino or die whose upward face shows four pips"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hard%3:00:06::",
+      "lemma": "hard",
+      "pos": "a",
+      "definition": "not easy; requiring great physical or mental effort to accomplish or comprehend or endure",
+      "decision": "gloss",
+      "simpleMeaning": "not easy; needing great effort to do, understand, or bear",
+      "scope": "Difficulty; not a hard surface.",
+      "examples": [
+        "a hard question to answer",
+        "It was hard to say goodbye."
+      ],
+      "branchCoverage": [
+        "not easy -> \"not easy\"",
+        "requiring great physical or mental effort -> \"needing great effort\"",
+        "to accomplish or comprehend or endure -> \"to do, understand, or bear\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "not easy",
+        "requiring great physical or mental effort to accomplish or comprehend or endure"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "support%1:04:04::",
+      "lemma": "support",
+      "pos": "n",
+      "definition": "the activity of providing for or maintaining by supplying with money or necessities",
+      "decision": "gloss",
+      "simpleMeaning": "the activity of providing money or things someone needs",
+      "scope": "Providing for someone; not holding something up.",
+      "examples": [
+        "The family depends on state support.",
+        "She gives support to the school."
+      ],
+      "branchCoverage": [
+        "activity of providing for or maintaining -> \"providing ... someone needs\"",
+        "by supplying money or necessities -> \"money or things\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the activity of providing for or maintaining by supplying with money or necessities"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "support%2:41:00::",
+      "lemma": "support",
+      "pos": "v",
+      "definition": "give moral or psychological support, aid, or courage to",
+      "decision": "gloss",
+      "simpleMeaning": "to give someone help, encouragement, or courage",
+      "scope": "Moral help; not money.",
+      "examples": [
+        "Her friends supported her during the illness.",
+        "He supported the team by cheering."
+      ],
+      "branchCoverage": [
+        "give moral or psychological support -> \"help, encouragement\"",
+        "aid or courage -> \"or courage\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "give moral or psychological support, aid, or courage to"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "support%2:40:00::",
+      "lemma": "support",
+      "pos": "v",
+      "definition": "support materially or financially",
+      "decision": "gloss",
+      "simpleMeaning": "to provide money or things for someone or something",
+      "scope": "Material help; not encouragement.",
+      "examples": [
+        "He supports his family.",
+        "The charity supports the school."
+      ],
+      "branchCoverage": [
+        "support materially or financially -> \"provide money or things\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "support materially or financially"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "music%1:10:00::",
+      "lemma": "music",
+      "pos": "n",
+      "definition": "an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner",
+      "decision": "gloss",
+      "simpleMeaning": "sounds or voices arranged over time to make an art form",
+      "scope": "The art form; not any pleasant sound.",
+      "examples": [
+        "She studies music at college.",
+        "The music was soft and slow."
+      ],
+      "branchCoverage": [
+        "artistic form of auditory communication -> \"an art form\"",
+        "instrumental or vocal tones -> \"sounds or voices\"",
+        "structured and continuous -> \"arranged over time\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an artistic form of auditory communication incorporating instrumental or vocal tones in a structured and continuous manner"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "music%1:09:00::",
+      "lemma": "music",
+      "pos": "n",
+      "definition": "any agreeable (pleasing and harmonious) sounds",
+      "decision": "gloss",
+      "simpleMeaning": "any pleasant sounds that blend well together",
+      "scope": "Pleasing sound in general; not the art form.",
+      "examples": [
+        "the music of the stream",
+        "Their laughter was music to her."
+      ],
+      "branchCoverage": [
+        "any agreeable sounds -> \"pleasant\"",
+        "pleasing and harmonious -> \"blend well together\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any agreeable (pleasing and harmonious) sounds"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "power%1:09:01::",
+      "lemma": "power",
+      "pos": "n",
+      "definition": "possession of the qualities (especially mental qualities) required to do something or get something done",
+      "decision": "gloss",
+      "simpleMeaning": "the qualities, especially mental ones, needed to do or achieve something",
+      "scope": "Ability; not electricity or political control.",
+      "examples": [
+        "She has the power to persuade people.",
+        "She used all her power of concentration to finish the puzzle."
+      ],
+      "branchCoverage": [
+        "possession of the qualities required -> \"the qualities ... needed\"",
+        "especially mental qualities -> \"especially mental ones\"",
+        "to do something or get something done -> \"to do or achieve something\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "possession of the qualities (especially mental qualities) required to do something or get something done"
+      ],
+      "reason": "Fourth pass replacing an example that showed physical strength.",
+      "verdict": "fourth-pass"
+    },
+    {
+      "senseId": "power%2:34:00::",
+      "lemma": "power",
+      "pos": "v",
+      "definition": "supply the force or power for the functioning of",
+      "decision": "gloss",
+      "simpleMeaning": "to supply the force that makes something work",
+      "scope": "The verb; not political power.",
+      "examples": [
+        "The engine powers the boat.",
+        "Solar panels power the house."
+      ],
+      "branchCoverage": [
+        "supply the force or power -> \"supply the force\"",
+        "for the functioning of -> \"that makes something work\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "supply the force or power for the functioning of"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "water%1:27:00::",
+      "lemma": "water",
+      "pos": "n",
+      "definition": "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent",
+      "decision": "gloss",
+      "simpleMeaning": "the clear liquid made of hydrogen and oxygen that falls as rain, fills rivers and seas, and dissolves many things",
+      "scope": "Freezes at 0°C and boils at 100°C; not the old philosophical element.",
+      "examples": [
+        "Drink plenty of water.",
+        "Ice is frozen water."
+      ],
+      "branchCoverage": [
+        "binary compound -> \"made of hydrogen and oxygen\"",
+        "clear colorless odorless tasteless liquid at room temperature -> \"the clear liquid\"",
+        "freezes and boils at stated temperatures -> \"freezes at 0°C and boils at 100°C\" in the scope",
+        "widely used as a solvent -> \"dissolves many things\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid",
+        "freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade",
+        "widely used as a solvent"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "water%1:27:02::",
+      "lemma": "water",
+      "pos": "n",
+      "definition": "once thought to be one of four elements composing the universe (Empedocles), associated with the humour phlegm",
+      "decision": "gloss",
+      "simpleMeaning": "in old philosophy, one of the four elements of the universe, linked to the humour phlegm",
+      "scope": "Historical theory only; not the real liquid.",
+      "examples": [
+        "The old theory said everything was made of earth, air, fire, and water.",
+        "Water was linked to a calm temperament."
+      ],
+      "branchCoverage": [
+        "once thought to be one of four elements -> \"in old philosophy, one of the four elements\"",
+        "associated with the humour phlegm -> \"linked to the humour phlegm\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "once thought to be one of four elements composing the universe (Empedocles), associated with the humour phlegm"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "water%2:29:00::",
+      "lemma": "water",
+      "pos": "v",
+      "definition": "secrete or form water, as tears or saliva",
+      "decision": "gloss",
+      "simpleMeaning": "to produce liquid, as tears or saliva",
+      "scope": "The body producing liquid; not giving water to plants.",
+      "examples": [
+        "Her eyes watered in the wind.",
+        "The smell made his mouth water."
+      ],
+      "branchCoverage": [
+        "secrete or form water -> \"produce liquid\"",
+        "as tears or saliva -> \"tears or saliva\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "secrete or form water, as tears or saliva"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "water%2:30:00::",
+      "lemma": "water",
+      "pos": "v",
+      "definition": "supply with water, as with channels or ditches or streams",
+      "decision": "gloss",
+      "simpleMeaning": "to bring water to land through channels or streams",
+      "scope": "Irrigation; not giving water to animals.",
+      "examples": [
+        "They watered the fields from a ditch.",
+        "The farmer watered the crops from a stream."
+      ],
+      "branchCoverage": [
+        "supply with water -> \"bring water to land\"",
+        "as with channels or ditches or streams -> \"from a ditch\" and \"from a stream\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "supply with water, as with channels or ditches or streams"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "water%2:40:00::",
+      "lemma": "water",
+      "pos": "v",
+      "definition": "provide with water",
+      "decision": "gloss",
+      "simpleMeaning": "to give water to plants or animals",
+      "scope": "Giving a drink; not irrigation channels.",
+      "examples": [
+        "She watered the plants.",
+        "He watered the horses."
+      ],
+      "branchCoverage": [
+        "provide with water -> \"give water to plants or animals\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "provide with water"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%1:10:02::",
+      "lemma": "call",
+      "pos": "n",
+      "definition": "a loud utterance; often in protest or opposition",
+      "decision": "gloss",
+      "simpleMeaning": "a loud shout, often in protest or opposition",
+      "scope": "The shout; not a telephone call.",
+      "examples": [
+        "a call for help",
+        "The crowd raised a call of protest."
+      ],
+      "branchCoverage": [
+        "a loud utterance -> \"a loud shout\"",
+        "often in protest or opposition -> \"often in protest or opposition\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a loud utterance",
+        "often in protest or opposition"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%2:32:00::",
+      "lemma": "call",
+      "pos": "v",
+      "definition": "ascribe a quality to or give a name of a common noun that reflects a quality",
+      "decision": "gloss",
+      "simpleMeaning": "to give someone or something a name that describes a quality",
+      "scope": "Naming by quality; not telephoning.",
+      "examples": [
+        "They called him a hero.",
+        "You can call it a success."
+      ],
+      "branchCoverage": [
+        "ascribe a quality to -> \"a name that describes a quality\"",
+        "give a name of a common noun that reflects a quality -> \"called him a hero\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "ascribe a quality to or give a name of a common noun that reflects a quality"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:09:00::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason",
+      "decision": "gloss",
+      "simpleMeaning": "the mind; the part of a person responsible for thoughts and feelings",
+      "scope": "The mind; not the body part at the top of the neck.",
+      "examples": [
+        "The idea came into her head.",
+        "He has a good head for numbers."
+      ],
+      "branchCoverage": [
+        "responsible for thoughts, feelings, and conscious brain functions -> \"responsible for thoughts and feelings\"",
+        "the seat of the faculty of reason -> \"the mind\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "that which is responsible for one's thoughts, feelings, and conscious brain functions",
+        "the seat of the faculty of reason"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "national%1:18:00::",
+      "lemma": "national",
+      "pos": "n",
+      "definition": "a person who owes allegiance to that nation",
+      "decision": "gloss",
+      "simpleMeaning": "a citizen of a country",
+      "scope": "A person; not the adjective.",
+      "examples": [
+        "French nationals need a visa.",
+        "The embassy helps its nationals abroad."
+      ],
+      "branchCoverage": [
+        "a person who owes allegiance to that nation -> \"a citizen of a country\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who owes allegiance to that nation"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "national%3:00:01::",
+      "lemma": "national",
+      "pos": "a",
+      "definition": "concerned with or applicable to or belonging to an entire nation or country",
+      "decision": "gloss",
+      "simpleMeaning": "affecting, involving, or belonging to the whole country",
+      "scope": "The whole nation; not one region.",
+      "examples": [
+        "a national holiday",
+        "The team played for national pride."
+      ],
+      "branchCoverage": [
+        "concerned with or applicable to or belonging to an entire nation -> \"affecting, involving, or belonging to the whole country\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "concerned with or applicable to or belonging to an entire nation or country"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "national%3:01:00::",
+      "lemma": "national",
+      "pos": "a",
+      "definition": "of or relating to or belonging to a nation or country",
+      "decision": "gloss",
+      "simpleMeaning": "relating to a country",
+      "scope": "Relating to a nation; a linking adjective.",
+      "examples": [
+        "national law",
+        "the national flag"
+      ],
+      "branchCoverage": [
+        "of or relating to or belonging to a nation or country -> \"relating to a country\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to or belonging to a nation or country"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "national%3:00:00::",
+      "lemma": "national",
+      "pos": "a",
+      "definition": "limited to or in the interests of a particular nation",
+      "decision": "gloss",
+      "simpleMeaning": "limited to one country or concerned only with its own interests",
+      "scope": "Narrow national interest; not the whole country as a unit.",
+      "examples": [
+        "a national rather than international policy",
+        "They took a narrow, national view."
+      ],
+      "branchCoverage": [
+        "limited to a particular nation -> \"limited to one country\"",
+        "or in the interests of a particular nation -> \"concerned only with its own interests\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "limited to or in the interests of a particular nation"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

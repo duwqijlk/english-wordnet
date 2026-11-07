@@ -1,0 +1,1127 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 38,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "operating%5:00:01:operative:00",
+      "lovely%5:00:00:lovable:00"
+    ],
+    "lineage": {
+      "draft": "9e47d67d1fb4483049cfce0c9573f6912c8eb0f3a7d39f036b4a2b6cf4017ec5"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "fix%2:30:01::",
+      "lemma": "fix",
+      "pos": "v",
+      "definition": "restore by replacing a part or putting together what is torn or broken",
+      "decision": "gloss",
+      "simpleMeaning": "to repair something by replacing a damaged part or putting the pieces back together.",
+      "scope": "This is restoring something damaged to working order, not attaching something firmly in place, arranging a time, or preparing a meal.",
+      "examples": [
+        "He fixed the broken chair with glue and a new leg.",
+        "Can you fix the leak in the roof before winter?"
+      ],
+      "branchCoverage": [
+        "restore by replacing a part or putting together what is torn or broken -> to repair something by replacing a damaged part or putting the pieces back together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "restore by replacing a part or putting together what is torn or broken"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fly%1:06:00::",
+      "lemma": "fly",
+      "pos": "n",
+      "definition": "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth",
+      "decision": "gloss",
+      "simpleMeaning": "an opening in a piece of clothing, usually at the front of trousers, that is closed with a zip or with buttons hidden under a fold of cloth.",
+      "scope": "This is the fastening opening in a piece of clothing, not the flap on a tent and not the insect.",
+      "examples": [
+        "He zipped up the fly of his jeans.",
+        "The fly of these trousers is held shut by a hidden button."
+      ],
+      "branchCoverage": [
+        "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth -> an opening in a piece of clothing, usually at the front of trousers, that is closed with a zip or with buttons hidden under a fold of cloth"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an opening in a garment that is closed by a zipper or by buttons concealed under a fold of cloth"
+      ],
+      "lemmaPartition": "fly%1:06:00:: -> noun: the zipped or buttoned opening at the front of a garment | fly%1:06:01:: -> noun: the canvas flap that forms a tent's entrance | fly%5:00:00:alert:00 -> adjective: (British, informal) hard to trick or fool | fly%1:05:00:: -> noun: the two-winged insect",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fly%1:06:01::",
+      "lemma": "fly",
+      "pos": "n",
+      "definition": "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent",
+      "decision": "gloss",
+      "simpleMeaning": "a canvas flap on a tent that can be pulled back to make an entrance.",
+      "scope": "This is the canvas flap that forms a tent's entrance, not the opening in trousers and not the insect.",
+      "examples": [
+        "He tied back the tent fly to let in the morning air.",
+        "She pulled the fly aside and stepped into the tent."
+      ],
+      "branchCoverage": [
+        "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent -> a canvas flap on a tent that can be pulled back to make an entrance"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "flap consisting of a piece of canvas that can be drawn back to provide entrance to a tent"
+      ],
+      "lemmaPartition": "fly%1:06:00:: -> noun: the zipped or buttoned opening at the front of a garment | fly%1:06:01:: -> noun: the canvas flap that forms a tent's entrance | fly%5:00:00:alert:00 -> adjective: (British, informal) hard to trick or fool | fly%1:05:00:: -> noun: the two-winged insect",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fly%5:00:00:alert:00",
+      "lemma": "fly",
+      "pos": "a",
+      "definition": "(British informal) not to be deceived or hoodwinked",
+      "decision": "gloss",
+      "simpleMeaning": "hard to trick or fool.",
+      "scope": "This describes a person who is hard to trick, not the insect or the opening in clothing.",
+      "examples": [
+        "He's too fly to fall for that old trick.",
+        "She was fly enough to check the contract before signing."
+      ],
+      "branchCoverage": [
+        "(British informal) not to be deceived or hoodwinked -> hard to trick or fool"
+      ],
+      "labelBranches": [
+        "(British informal) -> regional and register label marking British casual speech, not meaning content"
+      ],
+      "sourceBranches": [
+        "(British informal) not to be deceived or hoodwinked"
+      ],
+      "lemmaPartition": "fly%1:06:00:: -> noun: the zipped or buttoned opening at the front of a garment | fly%1:06:01:: -> noun: the canvas flap that forms a tent's entrance | fly%5:00:00:alert:00 -> adjective: (British, informal) hard to trick or fool | fly%1:05:00:: -> noun: the two-winged insect",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fly%1:05:00::",
+      "lemma": "fly",
+      "pos": "n",
+      "definition": "two-winged insects characterized by active flight",
+      "decision": "gloss",
+      "simpleMeaning": "an insect with two wings that is known for moving actively through the air.",
+      "scope": "This is the insect, not the opening in clothing or the tent flap.",
+      "examples": [
+        "A fly buzzed around the kitchen.",
+        "She brushed the flies away from the fruit."
+      ],
+      "branchCoverage": [
+        "two-winged insects characterized by active flight -> an insect with two wings that is known for moving actively through the air"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "two-winged insects characterized by active flight"
+      ],
+      "lemmaPartition": "fly%1:06:00:: -> noun: the zipped or buttoned opening at the front of a garment | fly%1:06:01:: -> noun: the canvas flap that forms a tent's entrance | fly%5:00:00:alert:00 -> adjective: (British, informal) hard to trick or fool | fly%1:05:00:: -> noun: the two-winged insect",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "investigation%1:04:00::",
+      "lemma": "investigation",
+      "pos": "n",
+      "definition": "the work of inquiring into something thoroughly and systematically",
+      "decision": "gloss",
+      "simpleMeaning": "the careful, organized work of examining a subject until the facts are clear.",
+      "scope": "This is the work or process of examining something systematically, not one particular inquiry into suspicious or unknown activities.",
+      "examples": [
+        "The investigation took six months and involved hundreds of documents.",
+        "Careful investigation showed that the original report was wrong."
+      ],
+      "branchCoverage": [
+        "the work of inquiring into something thoroughly and systematically -> the careful, organized work of examining a subject until the facts are clear"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the work of inquiring into something thoroughly and systematically"
+      ],
+      "lemmaPartition": "investigation%1:04:00:: -> noun: the systematic work or process of examining a matter | investigation%1:09:00:: -> noun: a particular inquiry into unknown or suspicious activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "investigation%1:09:00::",
+      "lemma": "investigation",
+      "pos": "n",
+      "definition": "an inquiry into unfamiliar or questionable activities",
+      "decision": "gloss",
+      "simpleMeaning": "a particular inquiry into unknown or possibly wrong activity.",
+      "scope": "This is a particular inquiry into suspicious or unknown activities, not the general work of examining a subject.",
+      "examples": [
+        "The bank opened an investigation into the missing funds.",
+        "An investigation into the strange events is under way."
+      ],
+      "branchCoverage": [
+        "an inquiry into unfamiliar or questionable activities -> a particular inquiry into unknown or possibly wrong activity"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an inquiry into unfamiliar or questionable activities"
+      ],
+      "lemmaPartition": "investigation%1:04:00:: -> noun: the systematic work or process of examining a matter | investigation%1:09:00:: -> noun: a particular inquiry into unknown or suspicious activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "operating%3:44:00::",
+      "lemma": "operating",
+      "pos": "a",
+      "definition": "involved in a kind of operation",
+      "decision": "gloss",
+      "simpleMeaning": "relating to the way a machine, process, or organization carries out its work.",
+      "scope": "This is about how a machine, process, or organization does its work, not about being active or in force.",
+      "examples": [
+        "Engineers monitored the operating conditions of the pump.",
+        "The company cut its operating costs by closing two factories."
+      ],
+      "branchCoverage": [
+        "involved in a kind of operation -> relating to the way a machine, process, or organization carries out its work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "involved in a kind of operation"
+      ],
+      "lemmaPartition": "operating%3:44:00:: -> adjective: relating to how a machine, process, or organization works | operating%5:00:01:operative:00 -> adjective: currently active, working, or in force",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "operating%5:00:01:operative:00",
+      "lemma": "operating",
+      "pos": "a",
+      "definition": "being in effect or operation",
+      "decision": "gloss",
+      "simpleMeaning": "active, working, or in force.",
+      "scope": "This means active, working, or in force, not relating to how a machine or organization does its work.",
+      "examples": [
+        "Only one operating reactor remains at the site.",
+        "The operating mines employ three hundred people."
+      ],
+      "branchCoverage": [
+        "being in effect or operation -> active, working, or in force"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "being in effect or operation"
+      ],
+      "lemmaPartition": "operating%3:44:00:: -> adjective: relating to how a machine, process, or organization works | operating%5:00:01:operative:00 -> adjective: currently active, working, or in force",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 ('operating divisions') shows the relational sense, not 'in effect'; example 2 uses the verb, not the adjective."
+    },
+    {
+      "senseId": "raise%2:30:01::",
+      "lemma": "raise",
+      "pos": "v",
+      "definition": "raise the level or amount of something",
+      "decision": "gloss",
+      "simpleMeaning": "to increase the level or amount of something.",
+      "scope": "This is increasing an amount or level, not lifting an object or body part to a higher place.",
+      "examples": [
+        "The government raised the tax on fuel.",
+        "They raised their prices by ten percent."
+      ],
+      "branchCoverage": [
+        "raise the level or amount of something -> to increase the level or amount of something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "raise the level or amount of something"
+      ],
+      "lemmaPartition": "raise%2:30:01:: -> verb: increase an amount or level | raise%2:38:00:: -> verb: lift something to a higher position",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "raise%2:38:00::",
+      "lemma": "raise",
+      "pos": "v",
+      "definition": "raise from a lower to a higher position",
+      "decision": "gloss",
+      "simpleMeaning": "to lift something to a higher place or position.",
+      "scope": "This is lifting something to a higher position, not increasing an amount or level.",
+      "examples": [
+        "She raised her hand to ask a question.",
+        "He raised the box onto the top shelf."
+      ],
+      "branchCoverage": [
+        "raise from a lower to a higher position -> to lift something to a higher place or position"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "raise from a lower to a higher position"
+      ],
+      "lemmaPartition": "raise%2:30:01:: -> verb: increase an amount or level | raise%2:38:00:: -> verb: lift something to a higher position",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "responsibility%1:07:00::",
+      "lemma": "responsibility",
+      "pos": "n",
+      "definition": "a form of trustworthiness; the trait of being answerable to someone for something or being responsible for one's conduct",
+      "decision": "gloss",
+      "simpleMeaning": "the quality of being dependable and willing to answer for one's own actions.",
+      "scope": "This is the personal quality of being dependable and accountable, not a duty or task attached to a role.",
+      "examples": [
+        "She showed great responsibility in caring for her younger brother.",
+        "He has a strong sense of responsibility toward his team."
+      ],
+      "branchCoverage": [
+        "a form of trustworthiness -> the quality of being dependable",
+        "the trait of being answerable to someone for something or being responsible for one's conduct -> and willing to answer for one's own actions"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a form of trustworthiness",
+        "the trait of being answerable to someone for something or being responsible for one's conduct"
+      ],
+      "lemmaPartition": "responsibility%1:07:00:: -> noun: the personal quality of being dependable and accountable | responsibility%1:04:00:: -> noun: a duty or obligation that binds you",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "responsibility%1:04:00::",
+      "lemma": "responsibility",
+      "pos": "n",
+      "definition": "the social force that binds you to the courses of action demanded by that force",
+      "decision": "gloss",
+      "simpleMeaning": "a duty that you are bound to carry out because of the demands placed on you.",
+      "scope": "This is a duty or obligation that binds you, not the personal quality of being dependable.",
+      "examples": [
+        "It is the manager's responsibility to keep the records safe.",
+        "Parents have a responsibility to protect their children."
+      ],
+      "branchCoverage": [
+        "the social force that binds you to the courses of action demanded by that force -> a duty that you are bound to carry out because of the demands placed on you"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the social force that binds you to the courses of action demanded by that force"
+      ],
+      "lemmaPartition": "responsibility%1:07:00:: -> noun: the personal quality of being dependable and accountable | responsibility%1:04:00:: -> noun: a duty or obligation that binds you",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "roll%1:11:02::",
+      "lemma": "roll",
+      "pos": "n",
+      "definition": "rotary motion of an object around its own axis",
+      "decision": "gloss",
+      "simpleMeaning": "a turning movement in which an object spins around its own centre line.",
+      "scope": "This is a spinning movement around an object's own axis, not a sea wave and not the verb for rounded land shapes.",
+      "examples": [
+        "The roll of the ship made the passengers grab the rails.",
+        "He watched the slow roll of the wheel as it turned."
+      ],
+      "branchCoverage": [
+        "rotary motion of an object around its own axis -> a turning movement in which an object spins around its own centre line"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "rotary motion of an object around its own axis"
+      ],
+      "lemmaPartition": "roll%1:11:02:: -> noun: a spinning movement around an object's own axis | roll%1:11:01:: -> noun: a long, heavy sea wave moving toward the shore | roll%2:42:00:: -> verb: appear as gentle rounded shapes, especially of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "roll%1:11:01::",
+      "lemma": "roll",
+      "pos": "n",
+      "definition": "a long heavy sea wave as it advances towards the shore",
+      "decision": "gloss",
+      "simpleMeaning": "a long, heavy wave of the sea that moves toward the shore.",
+      "scope": "This is a long, heavy sea wave moving toward the shore, not a spinning movement and not the verb for rounded land shapes.",
+      "examples": [
+        "A long, heavy roll broke over the bow and soaked the deck.",
+        "The rolls broke into white foam along the beach."
+      ],
+      "branchCoverage": [
+        "a long heavy sea wave as it advances towards the shore -> a long, heavy wave of the sea that moves toward the shore"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a long heavy sea wave as it advances towards the shore"
+      ],
+      "lemmaPartition": "roll%1:11:02:: -> noun: a spinning movement around an object's own axis | roll%1:11:01:: -> noun: a long, heavy sea wave moving toward the shore | roll%2:42:00:: -> verb: appear as gentle rounded shapes, especially of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "roll%2:42:00::",
+      "lemma": "roll",
+      "pos": "v",
+      "definition": "occur in soft rounded shapes",
+      "decision": "gloss",
+      "simpleMeaning": "to appear as gentle, rounded shapes.",
+      "scope": "This describes land or other things appearing in soft rounded shapes, not an object spinning around its axis or a wave moving toward shore.",
+      "examples": [
+        "The green hills rolled away toward the horizon.",
+        "The dunes rolled along the coast in soft curves."
+      ],
+      "branchCoverage": [
+        "occur in soft rounded shapes -> to appear as gentle, rounded shapes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "occur in soft rounded shapes"
+      ],
+      "lemmaPartition": "roll%1:11:02:: -> noun: a spinning movement around an object's own axis | roll%1:11:01:: -> noun: a long, heavy sea wave moving toward the shore | roll%2:42:00:: -> verb: appear as gentle rounded shapes, especially of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "slightly%4:02:02::",
+      "lemma": "slightly",
+      "pos": "r",
+      "definition": "in a slim or slender manner",
+      "decision": "gloss",
+      "simpleMeaning": "in a thin or slender way.",
+      "scope": "This describes a thin or slender build, not the usual use meaning 'a little'.",
+      "examples": [
+        "She was slightly built and easily lost in a crowd.",
+        "The dancer is slightly built but very strong."
+      ],
+      "branchCoverage": [
+        "in a slim or slender manner -> in a thin or slender way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in a slim or slender manner"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "suggest%2:32:04::",
+      "lemma": "suggest",
+      "pos": "v",
+      "definition": "drop a hint; intimate by a hint",
+      "decision": "gloss",
+      "simpleMeaning": "to put an idea into someone's mind in an indirect way rather than stating it.",
+      "scope": "This is hinting at something indirectly, not putting forward a plan or idea for others to consider.",
+      "examples": [
+        "Are you suggesting that the report is false?",
+        "She suggested, without saying so outright, that he had taken the money."
+      ],
+      "branchCoverage": [
+        "drop a hint -> to put an idea into someone's mind in an indirect way",
+        "intimate by a hint -> rather than stating it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "drop a hint",
+        "intimate by a hint"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "surprise%1:04:00::",
+      "lemma": "surprise",
+      "pos": "n",
+      "definition": "the act of surprising someone",
+      "decision": "defer",
+      "reason": "Modern English uses this noun for the unexpected event or for the feeling it causes, not for the bare act of catching someone off guard; natural sentences would show one of those other meanings, so the act sense cannot be illustrated without strain.",
+      "sourceBranches": [
+        "the act of surprising someone"
+      ],
+      "lemmaPartition": "surprise%1:04:00:: -> noun: the act of catching someone off guard (deferred) | surprise%2:31:00:: -> verb: make someone feel sudden wonder or shock",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "surprise%2:31:00::",
+      "lemma": "surprise",
+      "pos": "v",
+      "definition": "cause to be surprised",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone feel sudden wonder or shock by doing or saying something unexpected.",
+      "scope": "This is causing a feeling of sudden wonder or shock, not the noun for an unexpected event or the act of catching someone off guard.",
+      "examples": [
+        "The news surprised everyone at the table.",
+        "It would not surprise me if she won."
+      ],
+      "branchCoverage": [
+        "cause to be surprised -> to make someone feel sudden wonder or shock by doing or saying something unexpected"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cause to be surprised"
+      ],
+      "lemmaPartition": "surprise%1:04:00:: -> noun: the act of catching someone off guard (deferred) | surprise%2:31:00:: -> verb: make someone feel sudden wonder or shock",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "technical%3:01:00::",
+      "lemma": "technical",
+      "pos": "a",
+      "definition": "of or relating to technique or proficiency in a practical skill",
+      "decision": "gloss",
+      "simpleMeaning": "relating to the methods and skill used in a practical activity such as music, art, or sport.",
+      "scope": "This is about the methods and skill used in a practical activity, not specialized knowledge of an applied science.",
+      "examples": [
+        "The judges praised the technical skill of the young pianist.",
+        "Her technical control of the brush is remarkable."
+      ],
+      "branchCoverage": [
+        "of or relating to technique or proficiency in a practical skill -> relating to the methods and skill used in a practical activity such as music, art, or sport"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to technique or proficiency in a practical skill"
+      ],
+      "lemmaPartition": "technical%3:01:00:: -> adjective: relating to the methods and skill of a practical art | technical%3:00:00:: -> adjective: showing specialized knowledge of an applied science or practical craft | technical%3:01:03:: -> adjective: relating to a practical subject studied through scientific principles | technical%1:06:00:: -> noun: a pickup truck fitted with a mounted gun",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "technical%3:00:00::",
+      "lemma": "technical",
+      "pos": "a",
+      "definition": "characterizing or showing skill in or specialized knowledge of applied arts and sciences",
+      "decision": "gloss",
+      "simpleMeaning": "showing special knowledge or skill in an applied science or a practical craft.",
+      "scope": "This is about specialized knowledge of an applied science or practical craft, not the methods and skill of an art form like music.",
+      "examples": [
+        "The manual is full of technical terms that beginners find hard.",
+        "We need someone with technical training to repair the machine."
+      ],
+      "branchCoverage": [
+        "characterizing or showing skill in or specialized knowledge of applied arts and sciences -> showing special knowledge or skill in an applied science or a practical craft"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characterizing or showing skill in or specialized knowledge of applied arts and sciences"
+      ],
+      "lemmaPartition": "technical%3:01:00:: -> adjective: relating to the methods and skill of a practical art | technical%3:00:00:: -> adjective: showing specialized knowledge of an applied science or practical craft | technical%3:01:03:: -> adjective: relating to a practical subject studied through scientific principles | technical%1:06:00:: -> noun: a pickup truck fitted with a mounted gun",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "technical%3:01:03::",
+      "lemma": "technical",
+      "pos": "a",
+      "definition": "of or relating to a practical subject that is organized according to scientific principles",
+      "decision": "gloss",
+      "simpleMeaning": "relating to a practical subject taught or studied through scientific principles.",
+      "scope": "This describes a practical field of study built on scientific principles, not a person's special knowledge or an artist's skill.",
+      "examples": [
+        "After school she went to a technical college to study electronics.",
+        "The curriculum combines technical subjects with hands-on workshop practice."
+      ],
+      "branchCoverage": [
+        "of or relating to a practical subject that is organized according to scientific principles -> relating to a practical subject taught or studied through scientific principles"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to a practical subject that is organized according to scientific principles"
+      ],
+      "lemmaPartition": "technical%3:01:00:: -> adjective: relating to the methods and skill of a practical art | technical%3:00:00:: -> adjective: showing specialized knowledge of an applied science or practical craft | technical%3:01:03:: -> adjective: relating to a practical subject studied through scientific principles | technical%1:06:00:: -> noun: a pickup truck fitted with a mounted gun",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "technical%1:06:00::",
+      "lemma": "technical",
+      "pos": "n",
+      "definition": "a pickup truck with a gun mounted on it",
+      "decision": "gloss",
+      "simpleMeaning": "a pickup truck with a gun fixed on the back.",
+      "scope": "This is the armed truck, not the adjective about skill or specialized knowledge.",
+      "examples": [
+        "The militia raced through the streets in a technical with a machine gun mounted on the back.",
+        "A technical stood at the checkpoint, its gun pointed at the road."
+      ],
+      "branchCoverage": [
+        "a pickup truck with a gun mounted on it -> a pickup truck with a gun fixed on the back"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a pickup truck with a gun mounted on it"
+      ],
+      "lemmaPartition": "technical%3:01:00:: -> adjective: relating to the methods and skill of a practical art | technical%3:00:00:: -> adjective: showing specialized knowledge of an applied science or practical craft | technical%3:01:03:: -> adjective: relating to a practical subject studied through scientific principles | technical%1:06:00:: -> noun: a pickup truck fitted with a mounted gun",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treat%1:11:00::",
+      "lemma": "treat",
+      "pos": "n",
+      "definition": "an occurrence that causes special pleasure or delight",
+      "decision": "gloss",
+      "simpleMeaning": "an event or experience that gives someone particular pleasure.",
+      "scope": "This is a pleasurable event or experience, not the verb meaning to apply a process to something or to give medical care.",
+      "examples": [
+        "The weekend away was a real treat.",
+        "A cup of tea in the garden is a small treat."
+      ],
+      "branchCoverage": [
+        "an occurrence that causes special pleasure or delight -> an event or experience that gives someone particular pleasure"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an occurrence that causes special pleasure or delight"
+      ],
+      "lemmaPartition": "treat%1:11:00:: -> noun: a pleasurable event or experience | treat%2:30:01:: -> verb: apply a process or substance to prepare, improve, or fix something | treat%2:29:00:: -> verb: give medical care to a person, animal, or illness",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treat%2:30:01::",
+      "lemma": "treat",
+      "pos": "v",
+      "definition": "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition",
+      "decision": "gloss",
+      "simpleMeaning": "to put something through a process so it is made ready for a purpose, improved, or put right.",
+      "scope": "This is not giving medical care to a sick person or animal, and not a pleasant surprise; it applies to things, which are put through a process to prepare, improve or fix them.",
+      "examples": [
+        "The water is treated with chlorine before it reaches our taps.",
+        "Farmers here treat the soil with lime to improve it."
+      ],
+      "branchCoverage": [
+        "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition -> to put something through a process so it is made ready for a purpose, improved, or put right"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition"
+      ],
+      "lemmaPartition": "treat%1:11:00:: = noun: an occurrence that gives special pleasure or delight\ntreat%2:30:01:: = verb: put a thing through a process to prepare, improve or fix it\ntreat%2:29:00:: = verb: give medical care to a sick or injured person or animal",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treat%2:29:00::",
+      "lemma": "treat",
+      "pos": "v",
+      "definition": "provide treatment for",
+      "decision": "gloss",
+      "simpleMeaning": "to give medical care to a sick or injured person or animal.",
+      "scope": "This is not putting an object through a process such as cleaning or preserving, and not a pleasant surprise; it means giving medical care to a person or animal who is ill or hurt.",
+      "examples": [
+        "The doctor treated her for a chest infection.",
+        "The vet treated the dog's injured paw."
+      ],
+      "branchCoverage": [
+        "provide treatment for -> to give medical care to a sick or injured person or animal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "provide treatment for"
+      ],
+      "lemmaPartition": "treat%1:11:00:: = noun: an occurrence that gives special pleasure or delight\ntreat%2:30:01:: = verb: put a thing through a process to prepare, improve or fix it\ntreat%2:29:00:: = verb: give medical care to a sick or injured person or animal",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "unique%5:00:00:specific:00",
+      "lemma": "unique",
+      "pos": "a",
+      "definition": "(followed by ‘to’) applying exclusively to a given category or condition or locality",
+      "decision": "gloss",
+      "simpleMeaning": "used with 'to': belonging only to one particular group, situation or place.",
+      "scope": "This is not the broader sense of being unlike anything else; it says the thing is limited to one category, condition or place, and it is followed by 'to'.",
+      "examples": [
+        "This plant is unique to the island and grows nowhere else.",
+        "The dialect is unique to a few fishing villages."
+      ],
+      "branchCoverage": [
+        "(followed by ‘to’) applying exclusively to a given category or condition or locality -> used with 'to': belonging only to one particular group, situation or place"
+      ],
+      "labelBranches": [
+        "(followed by ‘to’): grammar label naming the preposition the adjective takes; the rest of the branch carries the meaning"
+      ],
+      "sourceBranches": [
+        "(followed by ‘to’) applying exclusively to a given category or condition or locality"
+      ],
+      "lemmaPartition": "unique%5:00:00:specific:00 = adjective: limited to one category, condition or place, used with 'to'\nunique%5:00:00:incomparable:00 = adjective: radically distinctive, with no equal",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "unique%5:00:00:incomparable:00",
+      "lemma": "unique",
+      "pos": "a",
+      "definition": "radically distinctive and without equal",
+      "decision": "gloss",
+      "simpleMeaning": "so unlike anything else that nothing can match or equal it.",
+      "scope": "This is not the sense of being limited to a place or group; it says the thing is radically different from all others and has no equal.",
+      "examples": [
+        "Her singing voice is unique.",
+        "Each snowflake is unique."
+      ],
+      "branchCoverage": [
+        "radically distinctive and without equal -> so unlike anything else that nothing can match or equal it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "radically distinctive and without equal"
+      ],
+      "lemmaPartition": "unique%5:00:00:specific:00 = adjective: limited to one category, condition or place, used with 'to'\nunique%5:00:00:incomparable:00 = adjective: radically distinctive, with no equal",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "variety%1:14:01::",
+      "lemma": "variety",
+      "pos": "n",
+      "definition": "a collection containing a variety of sorts of things",
+      "decision": "gloss",
+      "simpleMeaning": "a collection made up of things of many different kinds.",
+      "scope": "This is not the state of differing, not one kind or type, and not a music-hall show; it names a mixed collection of different kinds of things.",
+      "examples": [
+        "The stall offered a variety of fresh vegetables.",
+        "The museum displays a variety of tools from the period."
+      ],
+      "branchCoverage": [
+        "a collection containing a variety of sorts of things -> a collection made up of things of many different kinds"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a collection containing a variety of sorts of things"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "violence%1:26:00::",
+      "lemma": "violence",
+      "pos": "n",
+      "definition": "a turbulent state resulting in injuries and destruction etc.",
+      "decision": "gloss",
+      "simpleMeaning": "a state of wild disturbance that leaves people hurt and things destroyed.",
+      "scope": "This is not a single violent act and not the sheer force of something; it names a turbulent condition that brings injuries and destruction.",
+      "examples": [
+        "The violence that followed the election left shops burned and many people injured.",
+        "After the uprising, a long period of violence left the region in ruins."
+      ],
+      "branchCoverage": [
+        "a turbulent state resulting in injuries and destruction etc -> a state of wild disturbance that leaves people hurt and things destroyed"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a turbulent state resulting in injuries and destruction etc"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "appreciate%2:37:00::",
+      "lemma": "appreciate",
+      "pos": "v",
+      "definition": "recognize with gratitude; be grateful for",
+      "decision": "gloss",
+      "simpleMeaning": "to feel thankful for something that someone has done or given.",
+      "scope": "This is not about understanding the worth of something or about its price going up; it means feeling grateful.",
+      "examples": [
+        "I really appreciate your help with the move.",
+        "She appreciated the flowers he sent."
+      ],
+      "branchCoverage": [
+        "recognize with gratitude -> to feel thankful",
+        "be grateful for -> to feel thankful for something that someone has done or given"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "recognize with gratitude",
+        "be grateful for"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "breaking%1:04:00::",
+      "lemma": "breaking",
+      "pos": "n",
+      "definition": "the act of breaking something",
+      "decision": "gloss",
+      "simpleMeaning": "the act of making something come apart or fail.",
+      "scope": "This is not a pause or rest, and not a crack that already exists; it names the act of causing something to come apart.",
+      "examples": [
+        "The breaking of the vase was an accident.",
+        "He was blamed for breaking the window."
+      ],
+      "branchCoverage": [
+        "the act of breaking something -> the act of making something come apart or fail"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of breaking something"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "discovered%5:00:00:determined:00",
+      "lemma": "discovered",
+      "pos": "a",
+      "definition": "discovered or determined by scientific observation",
+      "decision": "gloss",
+      "simpleMeaning": "found out or established through scientific observation and study.",
+      "scope": "This is not something invented or guessed; it describes facts or things that scientific observation has found out.",
+      "examples": [
+        "The newly discovered species lives only in this cave.",
+        "The link between the two diseases was discovered through careful observation."
+      ],
+      "branchCoverage": [
+        "discovered or determined by scientific observation -> found out or established through scientific observation and study"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "discovered or determined by scientific observation"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dry%3:00:01::",
+      "lemma": "dry",
+      "pos": "a",
+      "definition": "free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet",
+      "decision": "gloss",
+      "simpleMeaning": "having no liquid or dampness on or in it, without the water it normally holds, or no longer wet.",
+      "scope": "This is not the technical sense of lacking volatile components, not a mocking kind of humor, and not a person who opposes alcohol; it describes something with no liquid or dampness in or on it.",
+      "examples": [
+        "The clothes are dry now, so you can put them away.",
+        "The river bed was dry after months without rain."
+      ],
+      "branchCoverage": [
+        "free from liquid or moisture -> having no liquid or dampness on or in it",
+        "lacking natural or normal moisture or depleted of water -> without the water it normally holds",
+        "or no longer wet -> or no longer wet"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "free from liquid or moisture",
+        "lacking natural or normal moisture or depleted of water",
+        "or no longer wet"
+      ],
+      "lemmaPartition": "dry%3:00:01:: = adjective: free from liquid or moisture; lacking normal moisture; or no longer wet\ndry%1:18:00:: = noun: a campaigner against alcoholic drink\ndry%3:00:05:: = adjective: lacking moisture or volatile components (deferred)\ndry%5:00:00:humorous:00 = adjective: humorously sarcastic or mocking",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dry%1:18:00::",
+      "lemma": "dry",
+      "pos": "n",
+      "definition": "a reformer who opposes the use of intoxicating beverages",
+      "decision": "gloss",
+      "simpleMeaning": "a person who campaigns to stop the drinking of alcohol.",
+      "scope": "This is not the adjective for something without moisture, and not a person who merely avoids alcohol; it names a campaigner against alcoholic drink.",
+      "examples": [
+        "In the 1920s, drys campaigned hard for a ban on alcohol.",
+        "The drys argued that drink was destroying family life."
+      ],
+      "branchCoverage": [
+        "a reformer who opposes the use of intoxicating beverages -> a person who campaigns to stop the drinking of alcohol"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a reformer who opposes the use of intoxicating beverages"
+      ],
+      "lemmaPartition": "dry%3:00:01:: = adjective: free from liquid or moisture; lacking normal moisture; or no longer wet\ndry%1:18:00:: = noun: a campaigner against alcoholic drink\ndry%3:00:05:: = adjective: lacking moisture or volatile components (deferred)\ndry%5:00:00:humorous:00 = adjective: humorously sarcastic or mocking",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dry%3:00:05::",
+      "lemma": "dry",
+      "pos": "a",
+      "definition": "lacking moisture or volatile components",
+      "decision": "defer",
+      "reason": "This is a technical materials sense: a substance that lacks both moisture and volatile (easily evaporating) components, and the source's only example is 'dry paint'. In ordinary English it cannot be told apart from the everyday 'not wet' sense, and every natural example is also readable as that sibling sense, so the rule against ambiguous examples cannot be met without laboratory jargon about solvents and volatiles.",
+      "sourceBranches": [
+        "lacking moisture or volatile components"
+      ],
+      "lemmaPartition": "dry%3:00:01:: = adjective: free from liquid or moisture; lacking normal moisture; or no longer wet\ndry%1:18:00:: = noun: a campaigner against alcoholic drink\ndry%3:00:05:: = adjective: lacking moisture or volatile components (deferred)\ndry%5:00:00:humorous:00 = adjective: humorously sarcastic or mocking",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dry%5:00:00:humorous:00",
+      "lemma": "dry",
+      "pos": "a",
+      "definition": "humorously sarcastic or mocking",
+      "decision": "gloss",
+      "simpleMeaning": "sarcastic or mocking in a funny way.",
+      "scope": "This is not the sense of being without moisture, and not a person who opposes alcohol; it describes humor that mocks in an amusing way.",
+      "examples": [
+        "Her dry humor caught the new colleagues off guard.",
+        "He made a dry remark about the weather, and everyone laughed."
+      ],
+      "branchCoverage": [
+        "humorously sarcastic or mocking -> sarcastic or mocking in a funny way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "humorously sarcastic or mocking"
+      ],
+      "lemmaPartition": "dry%3:00:01:: = adjective: free from liquid or moisture; lacking normal moisture; or no longer wet\ndry%1:18:00:: = noun: a campaigner against alcoholic drink\ndry%3:00:05:: = adjective: lacking moisture or volatile components (deferred)\ndry%5:00:00:humorous:00 = adjective: humorously sarcastic or mocking",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "edge%1:06:00::",
+      "lemma": "edge",
+      "pos": "n",
+      "definition": "a sharp side formed by the intersection of two surfaces of an object",
+      "decision": "gloss",
+      "simpleMeaning": "the sharp side where two surfaces of an object meet.",
+      "scope": "This is not the border of an area and not a slight advantage; it is the sharp line where two surfaces of an object meet.",
+      "examples": [
+        "The knife has a sharp edge.",
+        "He rounded the edges of the wooden box with sandpaper."
+      ],
+      "branchCoverage": [
+        "a sharp side formed by the intersection of two surfaces of an object -> the sharp side where two surfaces of an object meet"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a sharp side formed by the intersection of two surfaces of an object"
+      ],
+      "lemmaPartition": "edge%1:06:00:: = noun: the sharp line where two surfaces of an object meet\nedge%2:38:00:: = verb: move forward slowly and gradually",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "edge%2:38:00::",
+      "lemma": "edge",
+      "pos": "v",
+      "definition": "advance slowly, as if by inches",
+      "decision": "gloss",
+      "simpleMeaning": "to move forward slowly and gradually, a little at a time.",
+      "scope": "This is not the sharp side of an object; it describes moving forward slowly and gradually.",
+      "examples": [
+        "He edged toward the door while nobody was looking.",
+        "Traffic edged forward through the fog."
+      ],
+      "branchCoverage": [
+        "advance slowly, as if by inches -> to move forward slowly and gradually, a little at a time"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "advance slowly, as if by inches"
+      ],
+      "lemmaPartition": "edge%1:06:00:: = noun: the sharp line where two surfaces of an object meet\nedge%2:38:00:: = verb: move forward slowly and gradually",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "excited%5:00:00:agitated:00",
+      "lemma": "excited",
+      "pos": "a",
+      "definition": "(of persons) excessively affected by emotion",
+      "decision": "gloss",
+      "simpleMeaning": "strongly affected by feeling, to the point of being worked up.",
+      "scope": "This is not the frantic, out-of-control sense, and not anger; it describes someone strongly moved or worked up by feeling.",
+      "examples": [
+        "She was excited and close to tears after the news.",
+        "He gets excited over the smallest piece of good news."
+      ],
+      "branchCoverage": [
+        "(of persons) excessively affected by emotion -> strongly affected by feeling, to the point of being worked up"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of persons) excessively affected by emotion"
+      ],
+      "lemmaPartition": "excited%5:00:00:agitated:00 = adjective: strongly moved or worked up by emotion\nexcited%5:00:00:wild:02 = adjective: frantic with uncontrolled feeling",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "excited%5:00:00:wild:02",
+      "lemma": "excited",
+      "pos": "a",
+      "definition": "marked by uncontrolled excitement or emotion",
+      "decision": "gloss",
+      "simpleMeaning": "filled with wild, unrestrained feeling that cannot be controlled.",
+      "scope": "This is not the milder sense of being worked up by feeling, and not anger or mental illness; it means frantic and unable to restrain the feeling.",
+      "examples": [
+        "The children were wildly excited at the sight of the fireworks.",
+        "The excited crowd pushed forward against the gates."
+      ],
+      "branchCoverage": [
+        "marked by uncontrolled excitement or emotion -> filled with wild, unrestrained feeling that cannot be controlled"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by uncontrolled excitement or emotion"
+      ],
+      "lemmaPartition": "excited%5:00:00:agitated:00 = adjective: strongly moved or worked up by emotion\nexcited%5:00:00:wild:02 = adjective: frantic with uncontrolled feeling",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "injury%1:26:00::",
+      "lemma": "injury",
+      "pos": "n",
+      "definition": "any physical damage to the body caused by violence or accident or fracture etc.; the condition of an injury",
+      "decision": "gloss",
+      "simpleMeaning": "physical harm done to the body by an accident, attack or broken bone, or the condition of being so harmed.",
+      "scope": "This is not a wrong or injustice done to someone, and not a person who has been hurt; it is physical damage to the body or the condition that results.",
+      "examples": [
+        "She suffered a serious injury to her knee during the match.",
+        "The injury left him unable to walk for months."
+      ],
+      "branchCoverage": [
+        "any physical damage to the body caused by violence or accident or fracture etc -> physical harm done to the body by an accident, attack or broken bone",
+        "the condition of an injury -> or the condition of being so harmed"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any physical damage to the body caused by violence or accident or fracture etc",
+        "the condition of an injury"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "iron%1:06:01::",
+      "lemma": "iron",
+      "pos": "n",
+      "definition": "a golf club that has a relatively narrow metal head",
+      "decision": "gloss",
+      "simpleMeaning": "a golf club with a fairly narrow metal head.",
+      "scope": "This is not the metal, not a tool for pressing clothes, and not a verb meaning to smooth fabric; it names a golf club.",
+      "examples": [
+        "She chose a five iron for the shot to the green.",
+        "He switched from a wood to an iron on the narrow fairway."
+      ],
+      "branchCoverage": [
+        "a golf club that has a relatively narrow metal head -> a golf club with a fairly narrow metal head"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a golf club that has a relatively narrow metal head"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lovely%5:00:00:lovable:00",
+      "lemma": "lovely",
+      "pos": "a",
+      "definition": "lovable especially in a childlike or naive way",
+      "decision": "gloss",
+      "simpleMeaning": "often sweet and charming in a childlike or innocent way, and easy to feel fond of.",
+      "scope": "This is not about physical beauty; it describes a person or manner that is sweet and endearing in a childlike way.",
+      "examples": [
+        "The children's lovely manners impressed all the guests.",
+        "His lovely, trusting manner made people want to protect him."
+      ],
+      "branchCoverage": [
+        "lovable especially in a childlike or naive way -> often sweet and charming in a childlike or innocent way, and easy to feel fond of"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "lovable especially in a childlike or naive way"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 ('lovely little girl') invites the physical-beauty reading that the scope rules out."
+    },
+    {
+      "senseId": "mad%5:00:00:wild:02",
+      "lemma": "mad",
+      "pos": "a",
+      "definition": "marked by uncontrolled excitement or emotion",
+      "decision": "gloss",
+      "simpleMeaning": "wildly excited and unable to control your feelings.",
+      "scope": "This is not angry and not mentally ill; here it means frantic with excitement.",
+      "examples": [
+        "The fans went mad when the final goal went in.",
+        "The children were mad with excitement on the last day of term."
+      ],
+      "branchCoverage": [
+        "marked by uncontrolled excitement or emotion -> wildly excited and unable to control your feelings"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by uncontrolled excitement or emotion"
+      ],
+      "lemmaPartition": "mad%5:00:00:wild:02 = adjective: frantic with uncontrolled excitement or emotion\nmad%5:00:00:insane:00 = adjective: affected with severe mental illness",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mad%5:00:00:insane:00",
+      "lemma": "mad",
+      "pos": "a",
+      "definition": "affected with madness or insanity",
+      "decision": "gloss",
+      "simpleMeaning": "suffering from severe mental illness.",
+      "scope": "This is not angry, not wildly excited, and not foolish; it means suffering from severe mental illness.",
+      "examples": [
+        "The story tells of a mad king who believed he was a bird.",
+        "He feared he was going mad."
+      ],
+      "branchCoverage": [
+        "affected with madness or insanity -> suffering from severe mental illness"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "affected with madness or insanity"
+      ],
+      "lemmaPartition": "mad%5:00:00:wild:02 = adjective: frantic with uncontrolled excitement or emotion\nmad%5:00:00:insane:00 = adjective: affected with severe mental illness",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "magazine%1:06:02::",
+      "lemma": "magazine",
+      "pos": "n",
+      "definition": "product consisting of a paperback periodic publication as a physical object",
+      "decision": "gloss",
+      "simpleMeaning": "one printed copy of a soft-cover publication that comes out regularly, as a thing you can hold.",
+      "scope": "This is not the publication as a whole and not the company that produces it; it is a single printed copy you can hold.",
+      "examples": [
+        "She bought a magazine at the station and read it on the train.",
+        "He stacked old magazines beside the bed."
+      ],
+      "branchCoverage": [
+        "product consisting of a paperback periodic publication as a physical object -> one printed copy of a soft-cover publication that comes out regularly, as a thing you can hold"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "product consisting of a paperback periodic publication as a physical object"
+      ],
+      "lemmaPartition": "magazine%1:06:02:: = noun: one physical printed copy of a soft-cover regular publication\nmagazine%1:10:00:: = noun: the regular publication itself, with pictures, stories and articles\nmagazine%1:14:00:: = noun: the business firm that publishes such publications",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "magazine%1:10:00::",
+      "lemma": "magazine",
+      "pos": "n",
+      "definition": "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it",
+      "decision": "gloss",
+      "simpleMeaning": "a publication that comes out regularly and contains pictures, stories and articles for people who buy it or subscribe.",
+      "scope": "This is not a single printed copy and not the company that produces it; it is the publication itself, issued regularly.",
+      "examples": [
+        "The magazine comes out every month.",
+        "She writes articles for a travel magazine."
+      ],
+      "branchCoverage": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it -> a publication that comes out regularly and contains pictures, stories and articles for people who buy it or subscribe"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a periodic publication containing pictures and stories and articles of interest to those who purchase it or subscribe to it"
+      ],
+      "lemmaPartition": "magazine%1:06:02:: = noun: one physical printed copy of a soft-cover regular publication\nmagazine%1:10:00:: = noun: the regular publication itself, with pictures, stories and articles\nmagazine%1:14:00:: = noun: the business firm that publishes such publications",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "magazine%1:14:00::",
+      "lemma": "magazine",
+      "pos": "n",
+      "definition": "a business firm that publishes magazines",
+      "decision": "gloss",
+      "simpleMeaning": "a company whose business is bringing out regular publications.",
+      "scope": "This is not the printed copy and not the publication itself; it is the business that produces such publications.",
+      "examples": [
+        "She works for a magazine with offices in London and New York.",
+        "The magazine employs over a hundred writers and editors."
+      ],
+      "branchCoverage": [
+        "a business firm that publishes magazines -> a company whose business is bringing out regular publications"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a business firm that publishes magazines"
+      ],
+      "lemmaPartition": "magazine%1:06:02:: = noun: one physical printed copy of a soft-cover regular publication\nmagazine%1:10:00:: = noun: the regular publication itself, with pictures, stories and articles\nmagazine%1:14:00:: = noun: the business firm that publishes such publications",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,1017 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 31,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1500,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "prior%1:18:00::",
+      "lemma": "prior",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the head of a religious order; in an abbey the prior is next below the abbot",
+      "synsetId": "10495525-n",
+      "words": 16,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1386,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the head of a religious order",
+        "in an abbey the prior is next below the abbot"
+      ]
+    },
+    {
+      "senseId": "protection%1:06:00::",
+      "lemma": "protection",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a covering that is intend to protect from damage or injury",
+      "synsetId": "04020673-n",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1387,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a covering that is intend to protect from damage or injury"
+      ]
+    },
+    {
+      "senseId": "protection%1:04:00::",
+      "lemma": "protection",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the activity of protecting someone or something",
+      "synsetId": "00819341-n",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1387,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the activity of protecting someone or something"
+      ]
+    },
+    {
+      "senseId": "receive%2:39:00::",
+      "lemma": "receive",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "register (perceptual input)",
+      "synsetId": "02111702-v",
+      "words": 3,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1389,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "register (perceptual input)"
+      ]
+    },
+    {
+      "senseId": "receive%2:30:01::",
+      "lemma": "receive",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "receive a specified treatment (abstract)",
+      "synsetId": "00523831-v",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1389,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "receive a specified treatment (abstract)"
+      ]
+    },
+    {
+      "senseId": "religious%1:18:00::",
+      "lemma": "religious",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a member of a religious order who is bound by vows of poverty and chastity and obedience",
+      "synsetId": "10538195-n",
+      "words": 17,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1390,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a member of a religious order who is bound by vows of poverty and chastity and obedience"
+      ]
+    },
+    {
+      "senseId": "religious%3:00:01::",
+      "lemma": "religious",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "of or relating to clergy bound by monastic vows",
+      "synsetId": "01787508-a",
+      "words": 9,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1390,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to clergy bound by monastic vows"
+      ]
+    },
+    {
+      "senseId": "religious%3:00:00::",
+      "lemma": "religious",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having or showing belief in and reverence for a deity",
+      "synsetId": "01787685-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1390,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having or showing belief in and reverence for a deity"
+      ]
+    },
+    {
+      "senseId": "religious%5:00:00:sacred:00",
+      "lemma": "religious",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "concerned with sacred matters or religion or the church",
+      "synsetId": "02063669-s",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1390,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "concerned with sacred matters or religion or the church"
+      ]
+    },
+    {
+      "senseId": "ride%1:06:00::",
+      "lemma": "ride",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a mechanical device that you ride for amusement or excitement",
+      "synsetId": "04095909-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1391,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mechanical device that you ride for amusement or excitement"
+      ]
+    },
+    {
+      "senseId": "royal%1:05:00::",
+      "lemma": "royal",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "stag with antlers of 12 or more branches",
+      "synsetId": "02433289-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1392,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "stag with antlers of 12 or more branches"
+      ]
+    },
+    {
+      "senseId": "royal%1:06:00::",
+      "lemma": "royal",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a sail set next above the topgallant on a royal mast",
+      "synsetId": "04122896-n",
+      "words": 11,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1392,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sail set next above the topgallant on a royal mast"
+      ]
+    },
+    {
+      "senseId": "royal%3:01:00::",
+      "lemma": "royal",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of or relating to or indicative of or issued or performed by a king or queen or other monarch",
+      "synsetId": "02800403-a",
+      "words": 19,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1392,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to or indicative of or issued or performed by a king or queen or other monarch"
+      ]
+    },
+    {
+      "senseId": "royal%3:01:01::",
+      "lemma": "royal",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "established or chartered or authorized by royalty",
+      "synsetId": "02800622-a",
+      "words": 7,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1392,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "established or chartered or authorized by royalty"
+      ]
+    },
+    {
+      "senseId": "screen%1:06:05::",
+      "lemma": "screen",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the display that is electronically created on the surface of the large end of a cathode-ray tube",
+      "synsetId": "04159676-n",
+      "words": 18,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1393,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the display that is electronically created on the surface of the large end of a cathode-ray tube"
+      ]
+    },
+    {
+      "senseId": "screen%1:06:04::",
+      "lemma": "screen",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a protective covering that keeps things out or hinders sight",
+      "synsetId": "02854358-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1393,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a protective covering that keeps things out or hinders sight"
+      ]
+    },
+    {
+      "senseId": "screen%1:06:06::",
+      "lemma": "screen",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a white or silvered surface where pictures can be projected for viewing",
+      "synsetId": "04159912-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1393,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a white or silvered surface where pictures can be projected for viewing"
+      ]
+    },
+    {
+      "senseId": "serve%2:33:00::",
+      "lemma": "serve",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "do duty or hold offices; serve in a specific function",
+      "synsetId": "01097629-v",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1394,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "do duty or hold offices",
+        "serve in a specific function"
+      ]
+    },
+    {
+      "senseId": "serve%2:42:03::",
+      "lemma": "serve",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "serve a purpose, role, or function",
+      "synsetId": "02676679-v",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1394,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "serve a purpose, role, or function"
+      ]
+    },
+    {
+      "senseId": "slow%5:00:00:stupid:00",
+      "lemma": "slow",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "slow to learn or understand; lacking intellectual acuity",
+      "synsetId": "00442596-s",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1396,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "slow to learn or understand",
+        "lacking intellectual acuity"
+      ]
+    },
+    {
+      "senseId": "species%1:09:00::",
+      "lemma": "species",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a specific kind of something",
+      "synsetId": "05853408-n",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1397,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a specific kind of something"
+      ]
+    },
+    {
+      "senseId": "speech%1:10:01::",
+      "lemma": "speech",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of delivering a formal spoken communication to an audience",
+      "synsetId": "07253354-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1398,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of delivering a formal spoken communication to an audience"
+      ]
+    },
+    {
+      "senseId": "traffic%1:14:00::",
+      "lemma": "traffic",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time",
+      "synsetId": "08442260-n",
+      "words": 20,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1399,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time"
+      ]
+    },
+    {
+      "senseId": "tree%1:20:00::",
+      "lemma": "tree",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+      "synsetId": "13124818-n",
+      "words": 21,
+      "rare": 11,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1400,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown",
+        "includes both gymnosperms and angiosperms"
+      ]
+    },
+    {
+      "senseId": "airport%1:06:00::",
+      "lemma": "airport",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+      "synsetId": "02695091-n",
+      "words": 16,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1406,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ]
+    },
+    {
+      "senseId": "begin%2:42:00::",
+      "lemma": "begin",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "have a beginning, in a temporal, spatial, or evaluative sense",
+      "synsetId": "02614382-v",
+      "words": 10,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1409,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have a beginning, in a temporal, spatial, or evaluative sense"
+      ]
+    },
+    {
+      "senseId": "bottom%2:35:00::",
+      "lemma": "bottom",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "strike the ground, as with a ship's bottom",
+      "synsetId": "01240922-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1411,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "strike the ground, as with a ship's bottom"
+      ]
+    },
+    {
+      "senseId": "bottom%3:00:00::",
+      "lemma": "bottom",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "situated at the bottom or lowest position",
+      "synsetId": "02449895-a",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1411,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "situated at the bottom or lowest position"
+      ]
+    },
+    {
+      "senseId": "engine%1:06:01::",
+      "lemma": "engine",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks",
+      "synsetId": "03690149-n",
+      "words": 18,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1414,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks"
+      ]
+    },
+    {
+      "senseId": "engine%1:06:00::",
+      "lemma": "engine",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "motor that converts thermal energy to mechanical work",
+      "synsetId": "03292644-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1414,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "motor that converts thermal energy to mechanical work"
+      ]
+    },
+    {
+      "senseId": "investment%1:04:00::",
+      "lemma": "investment",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of investing; laying out money or capital in an enterprise with the expectation of profit",
+      "synsetId": "01101341-n",
+      "words": 17,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1418,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of investing",
+        "laying out money or capital in an enterprise with the expectation of profit"
+      ]
+    },
+    {
+      "senseId": "investment%1:07:00::",
+      "lemma": "investment",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result",
+      "synsetId": "04654542-n",
+      "words": 21,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1418,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result"
+      ]
+    },
+    {
+      "senseId": "investment%1:21:00::",
+      "lemma": "investment",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "money that is invested with an expectation of profit",
+      "synsetId": "13354252-n",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1418,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "money that is invested with an expectation of profit"
+      ]
+    },
+    {
+      "senseId": "partner%1:18:00::",
+      "lemma": "partner",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an associate in an activity or endeavor or sphere of common interest",
+      "synsetId": "09954892-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1422,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an associate in an activity or endeavor or sphere of common interest"
+      ]
+    },
+    {
+      "senseId": "partner%1:18:01::",
+      "lemma": "partner",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a person's partner in marriage",
+      "synsetId": "10660018-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1422,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person's partner in marriage"
+      ]
+    },
+    {
+      "senseId": "partner%1:18:02::",
+      "lemma": "partner",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a person who is a member of a partnership",
+      "synsetId": "10422162-n",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1422,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who is a member of a partnership"
+      ]
+    },
+    {
+      "senseId": "partner%2:40:00::",
+      "lemma": "partner",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "provide with a partner",
+      "synsetId": "02337082-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1422,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "provide with a partner"
+      ]
+    },
+    {
+      "senseId": "partner%2:41:00::",
+      "lemma": "partner",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "act as a partner",
+      "synsetId": "02376775-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1422,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "act as a partner"
+      ]
+    },
+    {
+      "senseId": "raised%5:00:01:adorned:00",
+      "lemma": "raised",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "embellished with a raised pattern created by pressure or embroidery",
+      "synsetId": "00057389-s",
+      "words": 10,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1424,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "embellished with a raised pattern created by pressure or embroidery"
+      ]
+    },
+    {
+      "senseId": "sad%3:00:00::",
+      "lemma": "sad",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "experiencing or showing sorrow or unhappiness",
+      "synsetId": "01364779-a",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1426,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "experiencing or showing sorrow or unhappiness"
+      ]
+    },
+    {
+      "senseId": "solution%1:27:00::",
+      "lemma": "solution",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution",
+      "synsetId": "14613403-n",
+      "words": 15,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1427,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a homogeneous mixture of two or more substances",
+        "frequently (but not necessarily) a liquid solution"
+      ]
+    },
+    {
+      "senseId": "solution%1:10:00::",
+      "lemma": "solution",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a statement that solves a problem or explains how to solve the problem",
+      "synsetId": "06756201-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1427,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a statement that solves a problem or explains how to solve the problem"
+      ]
+    },
+    {
+      "senseId": "southern%3:00:02::",
+      "lemma": "southern",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line",
+      "synsetId": "01611230-a",
+      "words": 17,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1430,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line"
+      ]
+    },
+    {
+      "senseId": "southern%3:00:01::",
+      "lemma": "southern",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "situated in or coming from regions of the south",
+      "synsetId": "01609663-a",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1430,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "situated in or coming from regions of the south"
+      ]
+    },
+    {
+      "senseId": "southern%5:00:02:south:00",
+      "lemma": "southern",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "situated in or oriented toward the south",
+      "synsetId": "01607761-s",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1430,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "situated in or oriented toward the south"
+      ]
+    },
+    {
+      "senseId": "square%3:00:00::",
+      "lemma": "square",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "having four equal sides and four right angles or forming a right angle",
+      "synsetId": "02050637-a",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1431,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having four equal sides and four right angles or forming a right angle"
+      ]
+    },
+    {
+      "senseId": "square%3:00:04::",
+      "lemma": "square",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "characterized by honesty and fairness",
+      "synsetId": "02326142-a",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1431,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterized by honesty and fairness"
+      ]
+    },
+    {
+      "senseId": "square%2:30:00::",
+      "lemma": "square",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make square",
+      "synsetId": "00145268-v",
+      "words": 2,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1431,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make square"
+      ]
+    },
+    {
+      "senseId": "square%4:02:02::",
+      "lemma": "square",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "in a square shape",
+      "synsetId": "00051978-r",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1431,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in a square shape"
+      ]
+    },
+    {
+      "senseId": "structure%1:06:00::",
+      "lemma": "structure",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a thing constructed; a complex entity constructed of many parts",
+      "synsetId": "04348764-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1433,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a thing constructed",
+        "a complex entity constructed of many parts"
+      ]
+    }
+  ]
+}

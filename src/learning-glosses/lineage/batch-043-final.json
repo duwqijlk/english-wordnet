@@ -1,0 +1,1136 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 43,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "update%1:10:00::",
+      "younger%5:00:00:junior:00"
+    ],
+    "lineage": {
+      "draft": "f3f59bb4fb8e1cd610135718547faf1710e1426b53a427fa6854c1c896085343"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "launch%1:06:00::",
+      "lemma": "launch",
+      "pos": "n",
+      "definition": "a motorboat with an open deck or a half deck",
+      "decision": "gloss",
+      "simpleMeaning": "a small motor-driven boat whose deck is open or only partly covered.",
+      "scope": "This is the boat itself, not the act of starting a business or sending a ship into the water, and not a large vessel with a fully enclosed deck.",
+      "examples": [
+        "They tied the launch to the dock and climbed aboard.",
+        "The little launch carried six passengers across the bay."
+      ],
+      "branchCoverage": [
+        "a motorboat with an open deck or a half deck -> a small motor-driven boat whose deck is open or only partly covered"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a motorboat with an open deck or a half deck"
+      ],
+      "lemmaPartition": "launch%1:06:00:: = the small open-decked motorboat itself\nlaunch%2:35:02:: = sending a newly built vessel out on its first voyage",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "launch%2:35:02::",
+      "lemma": "launch",
+      "pos": "v",
+      "definition": "launch for the first time; launch on a maiden voyage",
+      "decision": "gloss",
+      "simpleMeaning": "to send a newly built ship or boat out on its first voyage.",
+      "scope": "This is not starting a company, releasing a product, or putting an existing boat back in the water.",
+      "examples": [
+        "The shipyard will launch the new freighter next spring.",
+        "The vessel was launched on its maiden voyage from Southampton."
+      ],
+      "branchCoverage": [
+        "launch for the first time -> to send a newly built ship or boat out",
+        "launch on a maiden voyage -> on its first voyage"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "launch for the first time",
+        "launch on a maiden voyage"
+      ],
+      "lemmaPartition": "launch%1:06:00:: = the small open-decked motorboat itself\nlaunch%2:35:02:: = sending a newly built vessel out on its first voyage",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "native%3:00:01::",
+      "lemma": "native",
+      "pos": "a",
+      "definition": "characteristic of or existing by virtue of geographic origin",
+      "decision": "gloss",
+      "simpleMeaning": "growing or found in a particular region because that is where it originated.",
+      "scope": "This describes plants, animals, or things tied to a place of origin, not peoples who have lived there since earliest times, and not abilities present from birth.",
+      "examples": [
+        "The garden is full of plants native to the Mediterranean.",
+        "This bird is native to the northern forests."
+      ],
+      "branchCoverage": [
+        "characteristic of or existing by virtue of geographic origin -> growing or found in a particular region because that is where it originated"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characteristic of or existing by virtue of geographic origin"
+      ],
+      "lemmaPartition": "native%3:00:01:: = tied to a place by geographic origin (plants, animals, things)\nnative%3:00:02:: = relating to peoples who have inhabited a region since the earliest times",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "native%3:00:02::",
+      "lemma": "native",
+      "pos": "a",
+      "definition": "characteristic of or relating to people inhabiting a region from the beginning",
+      "decision": "gloss",
+      "simpleMeaning": "relating to the peoples who have lived in a region since the earliest times.",
+      "scope": "This concerns long-settled human communities, not plants, animals, or goods that merely come from a place, and not talents someone is born with.",
+      "examples": [
+        "The museum displays native art from the region's first inhabitants.",
+        "She studies the native languages of the Amazon."
+      ],
+      "branchCoverage": [
+        "characteristic of or relating to people inhabiting a region from the beginning -> relating to the peoples who have lived in a region since the earliest times"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characteristic of or relating to people inhabiting a region from the beginning"
+      ],
+      "lemmaPartition": "native%3:00:01:: = tied to a place by geographic origin (plants, animals, things)\nnative%3:00:02:: = relating to peoples who have inhabited a region since the earliest times",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "originally%4:02:00::",
+      "lemma": "originally",
+      "pos": "r",
+      "definition": "in an manner suggesting originality",
+      "decision": "defer",
+      "reason": "This rare adverbial use means 'in an inventive or original way', but modern English readers almost always take 'originally' to mean 'at first'. Any natural example sentence would be ambiguous with the far more common beginning sense, and stilted wording would be needed to force this reading, so no safe learner gloss can be written.",
+      "sourceBranches": [
+        "in an manner suggesting originality"
+      ],
+      "lemmaPartition": "originally%4:02:00:: = in an inventive, original way (deferred; rare and ambiguous)\noriginally%4:02:01:: = as things were at the beginning, before later changes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "originally%4:02:01::",
+      "lemma": "originally",
+      "pos": "r",
+      "definition": "with reference to the origin or beginning",
+      "decision": "gloss",
+      "simpleMeaning": "as something was at the start, before later changes.",
+      "scope": "This is about the beginning of something, not about acting in a fresh or inventive way.",
+      "examples": [
+        "The building was originally a factory.",
+        "Originally, the plan called for three stages."
+      ],
+      "branchCoverage": [
+        "with reference to the origin or beginning -> as something was at the start, before later changes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "with reference to the origin or beginning"
+      ],
+      "lemmaPartition": "originally%4:02:00:: = in an inventive, original way (deferred; rare and ambiguous)\noriginally%4:02:01:: = as things were at the beginning, before later changes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "planned%5:00:00:premeditated:00",
+      "lemma": "planned",
+      "pos": "a",
+      "definition": "with planning and intention",
+      "decision": "gloss",
+      "simpleMeaning": "done deliberately after being thought through in advance.",
+      "scope": "This describes an action carried out on purpose, not a project that has been scheduled or a system that has been designed.",
+      "examples": [
+        "The robbery was carefully planned.",
+        "His answer sounded planned rather than spontaneous."
+      ],
+      "branchCoverage": [
+        "with planning and intention -> done deliberately after being thought through in advance"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "with planning and intention"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "suddenly%4:02:01::",
+      "lemma": "suddenly",
+      "pos": "r",
+      "definition": "quickly and without warning; happening unexpectedly; on impulse; without premeditation",
+      "decision": "gloss",
+      "simpleMeaning": "in an instant, with no warning, no expectation, and no earlier plan or decision.",
+      "scope": "This is not a gradual change, and not something that was arranged or expected beforehand.",
+      "examples": [
+        "The lights suddenly went out.",
+        "She suddenly decided to leave the party."
+      ],
+      "branchCoverage": [
+        "quickly and without warning -> in an instant, with no warning",
+        "happening unexpectedly -> no expectation",
+        "on impulse -> no earlier plan",
+        "without premeditation -> or decision"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "quickly and without warning",
+        "happening unexpectedly",
+        "on impulse",
+        "without premeditation"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "survey%2:39:13::",
+      "lemma": "survey",
+      "pos": "v",
+      "definition": "keep under surveillance",
+      "decision": "gloss",
+      "simpleMeaning": "to watch a person or place closely over a period, usually to gather information.",
+      "scope": "This is not asking people a set of questions for a study, and not looking over an area once from a high place.",
+      "examples": [
+        "Police surveyed the building from a van across the street.",
+        "Agents surveyed his movements for several weeks."
+      ],
+      "branchCoverage": [
+        "keep under surveillance -> to watch a person or place closely over a period, usually to gather information"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "keep under surveillance"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "update%1:10:00::",
+      "lemma": "update",
+      "pos": "n",
+      "definition": "information or data that updates",
+      "decision": "gloss",
+      "simpleMeaning": "new information that brings someone up to date.",
+      "scope": "This is not the act of bringing something up to date, and not a revised version of a computer program.",
+      "examples": [
+        "We received an update on the rescue effort.",
+        "The doctor gave the family a brief update."
+      ],
+      "branchCoverage": [
+        "information or data that updates -> new information that brings someone up to date"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "information or data that updates"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss narrows 'information or data that updates' to reports/records, but examples are general news updates; say 'new information that brings someone up to date'."
+    },
+    {
+      "senseId": "writer%1:18:00::",
+      "lemma": "writer",
+      "pos": "n",
+      "definition": "writes (books or stories or articles or the like) professionally (for pay)",
+      "decision": "gloss",
+      "simpleMeaning": "a person who earns a living by producing books, stories, articles, or similar texts.",
+      "scope": "This is not just anyone who can put words on paper, and not an editor or publisher who handles other people's work.",
+      "examples": [
+        "She became a writer after years as a journalist.",
+        "The writer spent two years on the novel."
+      ],
+      "branchCoverage": [
+        "writes (books or stories or articles or the like) professionally (for pay) -> a person who earns a living by producing books, stories, articles, or similar texts"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "writes (books or stories or articles or the like) professionally (for pay)"
+      ],
+      "lemmaPartition": "writer%1:18:00:: = someone paid to produce books, stories, or articles\nwriter%1:18:01:: = anyone able to write who has produced some text, paid or not",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "writer%1:18:01::",
+      "lemma": "writer",
+      "pos": "n",
+      "definition": "a person who is able to write and has written something",
+      "decision": "gloss",
+      "simpleMeaning": "a person who can put words on paper and has produced at least one piece of text.",
+      "scope": "This does not require being paid for the work, and it is not someone who cannot form written words at all.",
+      "examples": [
+        "The contest is open to any writer, whether published or not.",
+        "He was a writer of letters rather than of books."
+      ],
+      "branchCoverage": [
+        "a person who is able to write and has written something -> a person who can put words on paper and has produced at least one piece of text"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who is able to write and has written something"
+      ],
+      "lemmaPartition": "writer%1:18:00:: = someone paid to produce books, stories, or articles\nwriter%1:18:01:: = anyone able to write who has produced some text, paid or not",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "yellow%1:07:00::",
+      "lemma": "yellow",
+      "pos": "n",
+      "definition": "yellow color or pigment; the chromatic color resembling the hue of sunflowers or ripe lemons",
+      "decision": "gloss",
+      "simpleMeaning": "the bright color of ripe lemons or sunflower petals, or a substance that gives this color.",
+      "scope": "This is the color itself or a coloring matter, not something that has faded with age, and not the process of changing color.",
+      "examples": [
+        "The walls were painted a pale yellow.",
+        "Yellow is her favorite color."
+      ],
+      "branchCoverage": [
+        "yellow color or pigment -> the bright color ... or a substance that gives this color",
+        "the chromatic color resembling the hue of sunflowers or ripe lemons -> of ripe lemons or sunflower petals"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "yellow color or pigment",
+        "the chromatic color resembling the hue of sunflowers or ripe lemons"
+      ],
+      "lemmaPartition": "yellow%1:07:00:: = the color itself or a coloring substance (noun)\nyellow%5:00:00:chromatic:00 = having that bright color between green and orange\nyellow%5:00:00:old:01 = dulled to a golden shade by age\nyellow%2:30:00:: = the intransitive action of becoming that color",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "yellow%5:00:00:chromatic:00",
+      "lemma": "yellow",
+      "pos": "a",
+      "definition": "of the color intermediate between green and orange in the color spectrum; of something resembling the color of an egg yolk",
+      "decision": "gloss",
+      "simpleMeaning": "having the color halfway between green and orange, like an egg yolk.",
+      "scope": "This describes something colored that way, not something that has dulled with age, and not the name of the color itself.",
+      "examples": [
+        "She wore a yellow dress to the party.",
+        "The fields were yellow with ripe wheat."
+      ],
+      "branchCoverage": [
+        "of the color intermediate between green and orange in the color spectrum -> having the color halfway between green and orange",
+        "of something resembling the color of an egg yolk -> like an egg yolk"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of the color intermediate between green and orange in the color spectrum",
+        "of something resembling the color of an egg yolk"
+      ],
+      "lemmaPartition": "yellow%1:07:00:: = the color itself or a coloring substance (noun)\nyellow%5:00:00:chromatic:00 = having that bright color between green and orange\nyellow%5:00:00:old:01 = dulled to a golden shade by age\nyellow%2:30:00:: = the intransitive action of becoming that color",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "yellow%5:00:00:old:01",
+      "lemma": "yellow",
+      "pos": "a",
+      "definition": "changed to a yellowish color by age",
+      "decision": "gloss",
+      "simpleMeaning": "having gone a dull golden shade because of age.",
+      "scope": "This is not a bright color chosen on purpose, and not the process of changing color.",
+      "examples": [
+        "The old newspaper was yellow and brittle.",
+        "The once-white curtains now looked yellow with age."
+      ],
+      "branchCoverage": [
+        "changed to a yellowish color by age -> having gone a dull golden shade because of age"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "changed to a yellowish color by age"
+      ],
+      "lemmaPartition": "yellow%1:07:00:: = the color itself or a coloring substance (noun)\nyellow%5:00:00:chromatic:00 = having that bright color between green and orange\nyellow%5:00:00:old:01 = dulled to a golden shade by age\nyellow%2:30:00:: = the intransitive action of becoming that color",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "yellow%2:30:00::",
+      "lemma": "yellow",
+      "pos": "v",
+      "definition": "turn yellow",
+      "decision": "gloss",
+      "simpleMeaning": "to change to a golden color.",
+      "scope": "This is the thing itself changing color, not painting or dyeing it on purpose, and not the color as a thing.",
+      "examples": [
+        "The leaves yellow in autumn.",
+        "The paper will yellow if left in the sun."
+      ],
+      "branchCoverage": [
+        "turn yellow -> to change to a golden color"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "turn yellow"
+      ],
+      "lemmaPartition": "yellow%1:07:00:: = the color itself or a coloring substance (noun)\nyellow%5:00:00:chromatic:00 = having that bright color between green and orange\nyellow%5:00:00:old:01 = dulled to a golden shade by age\nyellow%2:30:00:: = the intransitive action of becoming that color",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "younger%5:00:00:junior:00",
+      "lemma": "younger",
+      "pos": "a",
+      "definition": "used of the younger of two persons of the same name especially used to distinguish a son from his father",
+      "decision": "gloss",
+      "simpleMeaning": "used of the less old of two people who share the same name, especially a son named after his father.",
+      "scope": "This is not a general word for a low age, and not a comparison between unrelated people.",
+      "examples": [
+        "John Smith, younger, took over the family business.",
+        "The younger Mr. Jones ran the shop."
+      ],
+      "branchCoverage": [
+        "used of the younger of two persons of the same name especially used to distinguish a son from his father -> used of the less old of two people who share the same name, especially a son named after his father"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "used of the younger of two persons of the same name especially used to distinguish a son from his father"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss says 'used after a name', yet example 2 puts it before the name ('the younger Mr. Jones'); drop the positional claim."
+    },
+    {
+      "senseId": "ancient%5:00:00:past:00",
+      "lemma": "ancient",
+      "pos": "a",
+      "definition": "belonging to times long past especially of the historical period before the fall of the Western Roman Empire",
+      "decision": "gloss",
+      "simpleMeaning": "from the very distant past, especially the period before the Western Roman Empire ended.",
+      "scope": "This describes things from long ago, not a living person who is simply old, and not the noun for a person of that era.",
+      "examples": [
+        "The museum holds ancient pottery from Egypt.",
+        "They studied ancient Rome at school."
+      ],
+      "branchCoverage": [
+        "belonging to times long past especially of the historical period before the fall of the Western Roman Empire -> from the very distant past, especially the period before the Western Roman Empire ended"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "belonging to times long past especially of the historical period before the fall of the Western Roman Empire"
+      ],
+      "lemmaPartition": "ancient%5:00:00:past:00 = describing things from the distant past (adjective)\nancient%1:18:00:: = a person who lived in the distant past (noun)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ancient%1:18:00::",
+      "lemma": "ancient",
+      "pos": "n",
+      "definition": "a person who lived in ancient times",
+      "decision": "gloss",
+      "simpleMeaning": "a person who lived in the very distant past.",
+      "scope": "This is a person, not the adjective for old things, and not a living person who is merely very old.",
+      "examples": [
+        "The book compares the beliefs of the ancients with our own.",
+        "The ancients built these walls without machines."
+      ],
+      "branchCoverage": [
+        "a person who lived in ancient times -> a person who lived in the very distant past"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who lived in ancient times"
+      ],
+      "lemmaPartition": "ancient%5:00:00:past:00 = describing things from the distant past (adjective)\nancient%1:18:00:: = a person who lived in the distant past (noun)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "communication%1:10:01::",
+      "lemma": "communication",
+      "pos": "n",
+      "definition": "the activity of communicating; the activity of conveying information",
+      "decision": "gloss",
+      "simpleMeaning": "the process of sharing information with others.",
+      "scope": "This is the activity itself, not a particular message that is sent, and not a road, rail, or phone link between places.",
+      "examples": [
+        "Good communication between doctors and patients prevents mistakes.",
+        "The course teaches communication skills."
+      ],
+      "branchCoverage": [
+        "the activity of communicating -> the process",
+        "the activity of conveying information -> of sharing information with others"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the activity of communicating",
+        "the activity of conveying information"
+      ],
+      "lemmaPartition": "communication%1:10:01:: = the activity of sharing information\ncommunication%1:03:00:: = a particular message or piece of information passed on",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "communication%1:03:00::",
+      "lemma": "communication",
+      "pos": "n",
+      "definition": "something that is communicated by or to or between people or groups",
+      "decision": "gloss",
+      "simpleMeaning": "a message or piece of information passed between people or groups.",
+      "scope": "This is a particular message, not the general activity of exchanging information, and not a physical route or connection.",
+      "examples": [
+        "The office received a communication from the ministry.",
+        "All communications between the two sides were recorded."
+      ],
+      "branchCoverage": [
+        "something that is communicated by or to or between people or groups -> a message or piece of information passed between people or groups"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something that is communicated by or to or between people or groups"
+      ],
+      "lemmaPartition": "communication%1:10:01:: = the activity of sharing information\ncommunication%1:03:00:: = a particular message or piece of information passed on",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ending%1:10:00::",
+      "lemma": "ending",
+      "pos": "n",
+      "definition": "the end of a word (a suffix or inflectional ending or final morpheme)",
+      "decision": "gloss",
+      "simpleMeaning": "the last part added to a word, such as a suffix or a final unit of meaning.",
+      "scope": "This concerns the end of a word, not the end of a story or event, and not the act of stopping something.",
+      "examples": [
+        "The plural ending of 'boxes' is '-es'.",
+        "Children learn to spot common endings like '-ing'."
+      ],
+      "branchCoverage": [
+        "the end of a word (a suffix or inflectional ending or final morpheme) -> the last part added to a word, such as a suffix or a final unit of meaning"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the end of a word (a suffix or inflectional ending or final morpheme)"
+      ],
+      "lemmaPartition": "ending%1:10:00:: = the final part of a word (suffix or inflection)\nending%1:04:00:: = the act of stopping or concluding something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ending%1:04:00::",
+      "lemma": "ending",
+      "pos": "n",
+      "definition": "the act of ending something",
+      "decision": "gloss",
+      "simpleMeaning": "the act of bringing something to a close or a stop.",
+      "scope": "This is an action that stops something, not the last letters of a word, and not the final part of a story or event.",
+      "examples": [
+        "They called for the ending of the strike.",
+        "The ending of the treaty came as a shock."
+      ],
+      "branchCoverage": [
+        "the act of ending something -> the act of bringing something to a close or a stop"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of ending something"
+      ],
+      "lemmaPartition": "ending%1:10:00:: = the final part of a word (suffix or inflection)\nending%1:04:00:: = the act of stopping or concluding something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "express%2:32:00::",
+      "lemma": "express",
+      "pos": "v",
+      "definition": "articulate; either verbally or with a cry, shout, or noise",
+      "decision": "gloss",
+      "simpleMeaning": "to make a thought or feeling known in words, or through a cry, shout, or other sound.",
+      "scope": "This is not showing a feeling indirectly through art or appearance, and not being the medium that carries a meaning.",
+      "examples": [
+        "The crowd expressed its delight with a roar.",
+        "She expressed her joy with a loud shout."
+      ],
+      "branchCoverage": [
+        "articulate -> to make a thought or feeling known in words",
+        "either verbally or with a cry, shout, or noise -> or through a cry, shout, or other sound"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "articulate",
+        "either verbally or with a cry, shout, or noise"
+      ],
+      "lemmaPartition": "express%2:32:01:: = to show a feeling or idea in a general way (give expression to)\nexpress%2:32:00:: = to put something into words or into a cry, shout, or noise\nexpress%2:32:02:: = to act as the medium that carries a meaning (art, face, eyes)\nexpress%1:06:00:: = a fast train or bus with few stops\nexpress%1:10:00:: = mail sent through a rapid system\nexpress%4:02:00:: = by express mail or service (adverb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "express%1:06:00::",
+      "lemma": "express",
+      "pos": "n",
+      "definition": "public transport consisting of a fast train or bus that makes only a few scheduled stops",
+      "decision": "gloss",
+      "simpleMeaning": "a fast train or bus that stops at only a few places along its route.",
+      "scope": "This is a rail or bus service, not mail sent by a rapid system, and not a slow service that stops everywhere.",
+      "examples": [
+        "We caught the express into town.",
+        "The express from Edinburgh stops only twice."
+      ],
+      "branchCoverage": [
+        "public transport consisting of a fast train or bus that makes only a few scheduled stops -> a fast train or bus that stops at only a few places along its route"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "public transport consisting of a fast train or bus that makes only a few scheduled stops"
+      ],
+      "lemmaPartition": "express%2:32:01:: = to show a feeling or idea in a general way (give expression to)\nexpress%2:32:00:: = to put something into words or into a cry, shout, or noise\nexpress%2:32:02:: = to act as the medium that carries a meaning (art, face, eyes)\nexpress%1:06:00:: = a fast train or bus with few stops\nexpress%1:10:00:: = mail sent through a rapid system\nexpress%4:02:00:: = by express mail or service (adverb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "express%1:10:00::",
+      "lemma": "express",
+      "pos": "n",
+      "definition": "mail that is distributed by a rapid and efficient system",
+      "decision": "gloss",
+      "simpleMeaning": "letters and parcels sent through a fast and efficient postal system.",
+      "scope": "This is the fast mail and the service that carries it, not the fast train or bus, and not a way of putting feelings into words.",
+      "examples": [
+        "I paid extra for express so the package would arrive on Monday.",
+        "The signed contract came back by express delivery within a day."
+      ],
+      "branchCoverage": [
+        "mail that is distributed by a rapid and efficient system -> letters and parcels sent through a fast and efficient postal system"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "mail that is distributed by a rapid and efficient system"
+      ],
+      "lemmaPartition": "express%2:32:00:: = saying something aloud, even as a cry or shout | express%2:32:01:: = showing a feeling, idea, or quality outwardly | express%2:32:02:: = serving as a sign or medium through which something is shown | express%1:06:00:: = a fast train or bus that makes few stops | express%1:10:00:: = a fast postal service and the mail it carries | express%4:02:00:: = sent through the fast postal service",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "express%2:32:01::",
+      "lemma": "express",
+      "pos": "v",
+      "definition": "give expression to",
+      "decision": "gloss",
+      "simpleMeaning": "to show a feeling, thought, or quality so that other people can see or understand it.",
+      "scope": "This is about making an inner feeling or idea visible to others, not about saying words aloud and not about something being a sign of something else.",
+      "examples": [
+        "She expressed her thanks with a warm hug.",
+        "The children expressed their excitement by jumping up and down."
+      ],
+      "branchCoverage": [
+        "give expression to -> to show a feeling, thought, or quality so that other people can see or understand it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "give expression to"
+      ],
+      "lemmaPartition": "express%2:32:00:: = saying something aloud, even as a cry or shout | express%2:32:01:: = showing a feeling, idea, or quality outwardly | express%2:32:02:: = serving as a sign or medium through which something is shown | express%1:06:00:: = a fast train or bus that makes few stops | express%1:10:00:: = a fast postal service and the mail it carries | express%4:02:00:: = sent through the fast postal service",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "express%2:32:02::",
+      "lemma": "express",
+      "pos": "v",
+      "definition": "serve as a means for expressing something",
+      "decision": "gloss",
+      "simpleMeaning": "to act as the sign or medium through which a feeling, idea, or amount is made known.",
+      "scope": "This is about a thing serving as the channel or sign, not about a person putting a feeling into words or showing it directly.",
+      "examples": [
+        "The painting expresses a quiet grief that words cannot capture.",
+        "The graph expresses the same data in a simpler form."
+      ],
+      "branchCoverage": [
+        "serve as a means for expressing something -> to act as the sign or medium through which a feeling, idea, or amount is made known"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "serve as a means for expressing something"
+      ],
+      "lemmaPartition": "express%2:32:00:: = saying something aloud, even as a cry or shout | express%2:32:01:: = showing a feeling, idea, or quality outwardly | express%2:32:02:: = serving as a sign or medium through which something is shown | express%1:06:00:: = a fast train or bus that makes few stops | express%1:10:00:: = a fast postal service and the mail it carries | express%4:02:00:: = sent through the fast postal service",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "express%4:02:00::",
+      "lemma": "express",
+      "pos": "r",
+      "definition": "by express",
+      "decision": "gloss",
+      "simpleMeaning": "by a fast postal service rather than the ordinary one.",
+      "scope": "This describes how something is sent, not the postal service itself and not a fast train or bus.",
+      "examples": [
+        "Send the forms express, or they will miss the deadline.",
+        "The parcel went express and arrived the next morning."
+      ],
+      "branchCoverage": [
+        "by express -> by a fast postal service rather than the ordinary one"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "by express"
+      ],
+      "lemmaPartition": "express%2:32:00:: = saying something aloud, even as a cry or shout | express%2:32:01:: = showing a feeling, idea, or quality outwardly | express%2:32:02:: = serving as a sign or medium through which something is shown | express%1:06:00:: = a fast train or bus that makes few stops | express%1:10:00:: = a fast postal service and the mail it carries | express%4:02:00:: = sent through the fast postal service",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "flow%1:11:00::",
+      "lemma": "flow",
+      "pos": "n",
+      "definition": "the motion characteristic of fluids (liquids or gases)",
+      "decision": "gloss",
+      "simpleMeaning": "the kind of movement that liquids and gases make as they run or drift.",
+      "scope": "This is the movement of a liquid or gas itself, not the act of something moving along without a break and not a steady supply of something.",
+      "examples": [
+        "The flow of water through the pipe was blocked by leaves.",
+        "Engineers measured the flow of gas through the valve."
+      ],
+      "branchCoverage": [
+        "the motion characteristic of fluids (liquids or gases) -> the kind of movement that liquids and gases make as they run or drift"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the motion characteristic of fluids (liquids or gases)"
+      ],
+      "lemmaPartition": "flow%1:11:00:: = the movement of a liquid or gas itself | flow%1:04:00:: = the process of moving along steadily without stopping",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "flow%1:04:00::",
+      "lemma": "flow",
+      "pos": "n",
+      "definition": "the act of flowing or streaming; continuous progression",
+      "decision": "gloss",
+      "simpleMeaning": "the process of moving along steadily, without stopping or breaking.",
+      "scope": "This is the ongoing process of moving along, not the movement typical of liquids and gases and not a steady supply of something.",
+      "examples": [
+        "The flow of traffic improved after the new lane opened.",
+        "Nothing disturbed the flow of the conversation all evening."
+      ],
+      "branchCoverage": [
+        "the act of flowing or streaming -> the process of moving along steadily",
+        "continuous progression -> without stopping or breaking"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of flowing or streaming",
+        "continuous progression"
+      ],
+      "lemmaPartition": "flow%1:11:00:: = the movement of a liquid or gas itself | flow%1:04:00:: = the process of moving along steadily without stopping",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hero%1:18:00::",
+      "lemma": "hero",
+      "pos": "n",
+      "definition": "a person distinguished by exceptional courage and nobility and strength",
+      "decision": "gloss",
+      "simpleMeaning": "a person admired for great bravery, noble character, and strength.",
+      "scope": "This is a person admired for courage and character, not the main character in a story.",
+      "examples": [
+        "The firefighters who entered the burning building were treated as heroes.",
+        "She became a local hero after rescuing the children from the river."
+      ],
+      "branchCoverage": [
+        "a person distinguished by exceptional courage and nobility and strength -> a person admired for great bravery, noble character, and strength"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person distinguished by exceptional courage and nobility and strength"
+      ],
+      "lemmaPartition": "hero%1:18:00:: = a person admired for great bravery and noble character | hero%1:09:00:: = the main character in a play, film, novel, or poem",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hero%1:09:00::",
+      "lemma": "hero",
+      "pos": "n",
+      "definition": "the principal character in a play or movie or novel or poem",
+      "decision": "gloss",
+      "simpleMeaning": "the main character in a play, film, novel, or poem.",
+      "scope": "This is a character in a story, not a real person admired for bravery.",
+      "examples": [
+        "The hero of the novel is a young doctor who returns to her village.",
+        "In the film, the hero loses his memory halfway through."
+      ],
+      "branchCoverage": [
+        "the principal character in a play or movie or novel or poem -> the main character in a play, film, novel, or poem"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the principal character in a play or movie or novel or poem"
+      ],
+      "lemmaPartition": "hero%1:18:00:: = a person admired for great bravery and noble character | hero%1:09:00:: = the main character in a play, film, novel, or poem",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "joke%1:10:00::",
+      "lemma": "joke",
+      "pos": "n",
+      "definition": "a humorous anecdote or remark intended to provoke laughter",
+      "decision": "gloss",
+      "simpleMeaning": "a short funny story or comment meant to make people laugh.",
+      "scope": "This is something said or told to make people laugh, not a silly act done for fun.",
+      "examples": [
+        "He told a joke about a talking dog that had everyone laughing.",
+        "Her joke about the weather broke the tension in the room."
+      ],
+      "branchCoverage": [
+        "a humorous anecdote or remark intended to provoke laughter -> a short funny story or comment meant to make people laugh"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a humorous anecdote or remark intended to provoke laughter"
+      ],
+      "lemmaPartition": "joke%1:10:00:: = a funny story or remark told to make people laugh | joke%1:04:00:: = a silly or absurd act done for fun",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "joke%1:04:00::",
+      "lemma": "joke",
+      "pos": "n",
+      "definition": "a ludicrous or grotesque act done for fun and amusement",
+      "decision": "gloss",
+      "simpleMeaning": "a ridiculous or bizarre act carried out for fun.",
+      "scope": "This is something done, not a funny story or remark that is told.",
+      "examples": [
+        "Wearing a clown suit to the meeting was his idea of a joke.",
+        "They filled his office with balloons as a joke."
+      ],
+      "branchCoverage": [
+        "a ludicrous or grotesque act done for fun and amusement -> a ridiculous or bizarre act carried out for fun"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a ludicrous or grotesque act done for fun and amusement"
+      ],
+      "lemmaPartition": "joke%1:10:00:: = a funny story or remark told to make people laugh | joke%1:04:00:: = a silly or absurd act done for fun",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "loan%1:10:00::",
+      "lemma": "loan",
+      "pos": "n",
+      "definition": "a word borrowed from another language; e.g. ‘blitz’ is a German word borrowed into modern English",
+      "decision": "gloss",
+      "simpleMeaning": "a word taken from another language and used in a new one, as 'blitz' came from German into English.",
+      "scope": "This is a word, not money or an object lent to someone.",
+      "examples": [
+        "Many English words are loans from French and Latin.",
+        "The word 'algebra' is a loan from Arabic."
+      ],
+      "branchCoverage": [
+        "a word borrowed from another language -> a word taken from another language and used in a new one",
+        "e.g. ‘blitz’ is a German word borrowed into modern English -> as 'blitz' came from German into English"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a word borrowed from another language",
+        "e.g. ‘blitz’ is a German word borrowed into modern English"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "planet%1:17:01::",
+      "lemma": "planet",
+      "pos": "n",
+      "definition": "any celestial body (other than comets or satellites) that revolves around a star",
+      "decision": "gloss",
+      "simpleMeaning": "a large object in space that moves around a star and is neither a comet nor a moon.",
+      "scope": "This is a body that circles a star, not a star itself, and not a comet or a moon.",
+      "examples": [
+        "Mars is the fourth planet from the sun.",
+        "Astronomers have found planets orbiting distant stars."
+      ],
+      "branchCoverage": [
+        "any celestial body (other than comets or satellites) that revolves around a star -> a large object in space that moves around a star and is neither a comet nor a moon"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any celestial body (other than comets or satellites) that revolves around a star"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shared%5:00:00:distributed:00",
+      "lemma": "shared",
+      "pos": "a",
+      "definition": "distributed in portions (often equal) on the basis of a plan or purpose",
+      "decision": "gloss",
+      "simpleMeaning": "divided into portions, often equal ones, following a plan or purpose.",
+      "scope": "This is about something portioned out by design, not about something owned or used by two or more people together.",
+      "examples": [
+        "The work was shared among the four teams according to a clear plan.",
+        "Food supplies were shared out according to need."
+      ],
+      "branchCoverage": [
+        "distributed in portions (often equal) on the basis of a plan or purpose -> divided into portions, often equal ones, following a plan or purpose"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "distributed in portions (often equal) on the basis of a plan or purpose"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shopping%1:06:00::",
+      "lemma": "shopping",
+      "pos": "n",
+      "definition": "the commodities purchased from stores",
+      "decision": "gloss",
+      "simpleMeaning": "the goods bought from stores.",
+      "scope": "This means the goods themselves, not the activity of going to stores to buy them.",
+      "examples": [
+        "She carried the shopping home in two heavy bags.",
+        "He put the shopping away in the kitchen cupboard."
+      ],
+      "branchCoverage": [
+        "the commodities purchased from stores -> the goods bought from stores"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the commodities purchased from stores"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "soft%4:02:00::",
+      "lemma": "soft",
+      "pos": "r",
+      "definition": "in a relaxed manner; or without hardship",
+      "decision": "defer",
+      "reason": "The adverb 'soft' in this sense is rare and dialectal in modern English; natural standard sentences would use 'easily', 'gently', or 'without strain', which belong to other senses, so two natural examples cannot be written.",
+      "sourceBranches": [
+        "in a relaxed manner",
+        "or without hardship"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sugar%1:27:00::",
+      "lemma": "sugar",
+      "pos": "n",
+      "definition": "an essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain",
+      "decision": "gloss",
+      "simpleMeaning": "a class of substances that are essential building material for living cells and a source of energy for animals, ranging from small simple molecules to large ones and grouped by how many basic units are joined in them.",
+      "scope": "This is the whole class of these substances in biology and nutrition, not the white sweetener sold for cooking and not the act of adding it to food.",
+      "examples": [
+        "Sugars are among the main fuels for animal cells.",
+        "Starch and other large sugars are built from many simple units."
+      ],
+      "branchCoverage": [
+        "an essential structural component of living cells and source of energy for animals -> essential building material for living cells and a source of energy for animals",
+        "includes simple sugars with small molecules as well as macromolecular substances -> ranging from small simple molecules to large ones",
+        "are classified according to the number of monosaccharide groups they contain -> grouped by how many basic units are joined in them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an essential structural component of living cells and source of energy for animals",
+        "includes simple sugars with small molecules as well as macromolecular substances",
+        "are classified according to the number of monosaccharide groups they contain"
+      ],
+      "lemmaPartition": "sugar%1:27:00:: = the whole class of cell-building, energy-giving substances studied in biology | sugar%1:13:00:: = the white crystal-like food substance used to sweeten and preserve food | sugar%2:39:00:: = to add the white crystal-like food substance so that something tastes sweet",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sugar%1:13:00::",
+      "lemma": "sugar",
+      "pos": "n",
+      "definition": "a white crystalline carbohydrate used as a sweetener and preservative",
+      "decision": "gloss",
+      "simpleMeaning": "a white, crystal-like carbohydrate used to make food and drink sweet and to help preserve them.",
+      "scope": "This is the everyday sweet substance used in cooking, not the whole class of energy-giving substances studied in biology and not the act of adding it.",
+      "examples": [
+        "She added a spoonful of sugar to her tea.",
+        "Sugar is used to preserve fruit in jam."
+      ],
+      "branchCoverage": [
+        "a white crystalline carbohydrate used as a sweetener and preservative -> a white, crystal-like carbohydrate used to make food and drink sweet and to help preserve them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a white crystalline carbohydrate used as a sweetener and preservative"
+      ],
+      "lemmaPartition": "sugar%1:27:00:: = the whole class of cell-building, energy-giving substances studied in biology | sugar%1:13:00:: = the white crystal-like food substance used to sweeten and preserve food | sugar%2:39:00:: = to add the white crystal-like food substance so that something tastes sweet",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sugar%2:39:00::",
+      "lemma": "sugar",
+      "pos": "v",
+      "definition": "sweeten with sugar",
+      "decision": "gloss",
+      "simpleMeaning": "to add the white, crystal-like food substance to something so that it tastes sweet.",
+      "scope": "This is the act of adding it, not the substance itself and not the biological class of energy-giving substances.",
+      "examples": [
+        "The recipe tells you to sugar the fruit before baking.",
+        "He sugared his coffee generously."
+      ],
+      "branchCoverage": [
+        "sweeten with sugar -> to add the white, crystal-like food substance to something so that it tastes sweet"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "sweeten with sugar"
+      ],
+      "lemmaPartition": "sugar%1:27:00:: = the whole class of cell-building, energy-giving substances studied in biology | sugar%1:13:00:: = the white crystal-like food substance used to sweeten and preserve food | sugar%2:39:00:: = to add the white crystal-like food substance so that something tastes sweet",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "supported%3:00:02::",
+      "lemma": "supported",
+      "pos": "a",
+      "definition": "sustained or maintained by aid (as distinct from physical support)",
+      "decision": "gloss",
+      "simpleMeaning": "kept going or kept in good condition by help, rather than by being physically held up.",
+      "scope": "This is help that keeps something going, not the physical holding of weight.",
+      "examples": [
+        "The research was supported by a large grant.",
+        "The shelter is supported entirely by donations."
+      ],
+      "branchCoverage": [
+        "sustained or maintained by aid (as distinct from physical support) -> kept going or kept in good condition by help, rather than by being physically held up"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "sustained or maintained by aid (as distinct from physical support)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "transport%1:22:00::",
+      "lemma": "transport",
+      "pos": "n",
+      "definition": "an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes",
+      "decision": "gloss",
+      "simpleMeaning": "the passing of molecules, along with their energy and momentum, across the boundary between neighbouring layers of a fluid or across a cell membrane.",
+      "scope": "This is a process in physics and biology, not a vehicle or system for carrying people or goods.",
+      "examples": [
+        "The transport of molecules across the cell membrane requires energy.",
+        "The rate of transport across the membrane depends on temperature."
+      ],
+      "branchCoverage": [
+        "an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes -> the passing of molecules, along with their energy and momentum, across the boundary between neighbouring layers of a fluid or across a cell membrane"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes"
+      ],
+      "lemmaPartition": "transport%1:22:00:: = the movement of molecules and their energy across a boundary | transport%1:06:00:: = a vehicle or system that moves people or goods",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "transport%1:06:00::",
+      "lemma": "transport",
+      "pos": "n",
+      "definition": "something that serves as a means of transportation",
+      "decision": "gloss",
+      "simpleMeaning": "a vehicle or system used to move people or goods from place to place.",
+      "scope": "This is the vehicle or system that carries people or goods, not the physical process of molecules crossing a boundary.",
+      "examples": [
+        "Buses are the main form of transport in the city.",
+        "The company provides transport for its workers."
+      ],
+      "branchCoverage": [
+        "something that serves as a means of transportation -> a vehicle or system used to move people or goods from place to place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something that serves as a means of transportation"
+      ],
+      "lemmaPartition": "transport%1:22:00:: = the movement of molecules and their energy across a boundary | transport%1:06:00:: = a vehicle or system that moves people or goods",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "accepted%5:00:00:acknowledged:00",
+      "lemma": "accepted",
+      "pos": "a",
+      "definition": "generally approved or compelling recognition",
+      "decision": "gloss",
+      "simpleMeaning": "widely regarded as valid or worthy of recognition.",
+      "scope": "This is about a view or practice that most people approve, not about someone receiving an offer or a gift.",
+      "examples": [
+        "It is now accepted that regular exercise improves health.",
+        "Her theory is widely accepted among scientists."
+      ],
+      "branchCoverage": [
+        "generally approved or compelling recognition -> widely regarded as valid or worthy of recognition"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "generally approved or compelling recognition"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "appeal%1:07:00::",
+      "lemma": "appeal",
+      "pos": "n",
+      "definition": "attractiveness that interests or pleases or stimulates",
+      "decision": "gloss",
+      "simpleMeaning": "the power to interest, please, or excite people.",
+      "scope": "This is the quality that draws people in, not a formal request for help and not a legal challenge.",
+      "examples": [
+        "The old town has a charm and appeal that visitors love.",
+        "The idea of working outdoors holds great appeal for her."
+      ],
+      "branchCoverage": [
+        "attractiveness that interests or pleases or stimulates -> the power to interest, please, or excite people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "attractiveness that interests or pleases or stimulates"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "applied%3:00:00::",
+      "lemma": "applied",
+      "pos": "a",
+      "definition": "concerned with concrete problems or data rather than with fundamental principles",
+      "decision": "gloss",
+      "simpleMeaning": "focused on practical problems and real information rather than on basic general rules.",
+      "scope": "This describes a field of study aimed at practical use, not a person asking for a job and not something placed onto a surface.",
+      "examples": [
+        "She works in applied mathematics, solving problems for industry.",
+        "The course combines applied science with laboratory work."
+      ],
+      "branchCoverage": [
+        "concerned with concrete problems or data rather than with fundamental principles -> focused on practical problems and real information rather than on basic general rules"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "concerned with concrete problems or data rather than with fundamental principles"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "confirmed%3:00:00::",
+      "lemma": "confirmed",
+      "pos": "a",
+      "definition": "having been established or made firm or received the rite of confirmation",
+      "decision": "gloss",
+      "simpleMeaning": "settled or made certain, or having taken part in the religious ceremony that marks full membership of a church.",
+      "scope": "This is about something made definite or a person who has been through that ceremony, not about a long-standing habit or attitude.",
+      "examples": [
+        "The hotel sent an email to say the booking was confirmed.",
+        "She was confirmed at the village church when she was thirteen."
+      ],
+      "branchCoverage": [
+        "having been established or made firm or received the rite of confirmation -> settled or made certain, or having taken part in the religious ceremony that marks full membership of a church"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having been established or made firm or received the rite of confirmation"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

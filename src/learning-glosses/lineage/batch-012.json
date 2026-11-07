@@ -1,0 +1,1022 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 12,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 550,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "fight%2:33:00::",
+      "lemma": "fight",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be engaged in a fight; carry on a fight",
+      "synsetId": "01092746-v",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 570,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be engaged in a fight",
+        "carry on a fight"
+      ]
+    },
+    {
+      "senseId": "fine%4:02:00::",
+      "lemma": "fine",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "an expression of agreement normally occurring at the beginning of a sentence",
+      "synsetId": "00053542-r",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 571,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an expression of agreement normally occurring at the beginning of a sentence"
+      ]
+    },
+    {
+      "senseId": "fine%5:00:00:precise:00",
+      "lemma": "fine",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "minutely precise especially in differences in meaning",
+      "synsetId": "01843987-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 571,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "minutely precise especially in differences in meaning"
+      ]
+    },
+    {
+      "senseId": "fine%5:00:00:thin:01",
+      "lemma": "fine",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "thin in thickness or diameter",
+      "synsetId": "02422827-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 571,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "thin in thickness or diameter"
+      ]
+    },
+    {
+      "senseId": "force%2:36:00::",
+      "lemma": "force",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "urge or force (a person) to an action; constrain or motivate",
+      "synsetId": "01653967-v",
+      "words": 11,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 572,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "urge or force (a person) to an action",
+        "constrain or motivate"
+      ]
+    },
+    {
+      "senseId": "force%2:41:00::",
+      "lemma": "force",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "to cause to do through pressure or necessity, by physical, moral or intellectual means",
+      "synsetId": "02510211-v",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 572,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "to cause to do through pressure or necessity, by physical, moral or intellectual means"
+      ]
+    },
+    {
+      "senseId": "force%2:38:00::",
+      "lemma": "force",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "move with force",
+      "synsetId": "01875972-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 572,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "move with force"
+      ]
+    },
+    {
+      "senseId": "issue%2:41:00::",
+      "lemma": "issue",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "circulate or distribute or equip with",
+      "synsetId": "02484912-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 574,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "circulate or distribute or equip with"
+      ]
+    },
+    {
+      "senseId": "issue%2:32:00::",
+      "lemma": "issue",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "prepare and issue for public distribution or sale",
+      "synsetId": "00969657-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 574,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "prepare and issue for public distribution or sale"
+      ]
+    },
+    {
+      "senseId": "price%1:07:02::",
+      "lemma": "price",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "value measured by what must be given or done or undergone to obtain something",
+      "synsetId": "05171334-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 577,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "value measured by what must be given or done or undergone to obtain something"
+      ]
+    },
+    {
+      "senseId": "price%2:31:00::",
+      "lemma": "price",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "ascertain or learn the price of",
+      "synsetId": "00723813-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 577,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "ascertain or learn the price of"
+      ]
+    },
+    {
+      "senseId": "price%2:40:00::",
+      "lemma": "price",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "determine the price of",
+      "synsetId": "02356006-v",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 577,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "determine the price of"
+      ]
+    },
+    {
+      "senseId": "running%3:00:02::",
+      "lemma": "running",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(of fluids) moving or issuing in a stream",
+      "synsetId": "01243464-a",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 580,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of fluids) moving or issuing in a stream"
+      ]
+    },
+    {
+      "senseId": "running%1:04:01::",
+      "lemma": "running",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of running; traveling on foot at a fast pace",
+      "synsetId": "00294760-n",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 580,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of running",
+        "traveling on foot at a fast pace"
+      ]
+    },
+    {
+      "senseId": "summer%1:28:00::",
+      "lemma": "summer",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the warmest season of the year; in the Northern Hemisphere it extends from the summer solstice to the autumnal equinox",
+      "synsetId": "15262047-n",
+      "words": 20,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 583,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the warmest season of the year",
+        "in the Northern Hemisphere it extends from the summer solstice to the autumnal equinox"
+      ]
+    },
+    {
+      "senseId": "summer%2:42:00::",
+      "lemma": "summer",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "spend the summer",
+      "synsetId": "02715648-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 583,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "spend the summer"
+      ]
+    },
+    {
+      "senseId": "beautiful%3:00:00::",
+      "lemma": "beautiful",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "delighting the senses or exciting intellectual or emotional admiration",
+      "synsetId": "00219320-a",
+      "words": 9,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 586,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "delighting the senses or exciting intellectual or emotional admiration"
+      ]
+    },
+    {
+      "senseId": "date%2:31:00::",
+      "lemma": "date",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "assign a date to; determine the (probable) date of",
+      "synsetId": "00620873-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 587,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "assign a date to",
+        "determine the (probable) date of"
+      ]
+    },
+    {
+      "senseId": "miss%2:39:00::",
+      "lemma": "miss",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "fail to perceive or to catch with the senses or the mind",
+      "synsetId": "02132318-v",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 591,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "fail to perceive or to catch with the senses or the mind"
+      ]
+    },
+    {
+      "senseId": "project%2:42:00::",
+      "lemma": "project",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "extend out or project in space",
+      "synsetId": "02719247-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 592,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "extend out or project in space"
+      ]
+    },
+    {
+      "senseId": "shot%1:06:00::",
+      "lemma": "shot",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a solid missile discharged from a firearm",
+      "synsetId": "04212826-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 593,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a solid missile discharged from a firearm"
+      ]
+    },
+    {
+      "senseId": "shot%5:00:00:colorful:00",
+      "lemma": "shot",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "varying in color when seen in different lights or from different angles",
+      "synsetId": "00404149-s",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 593,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "varying in color when seen in different lights or from different angles"
+      ]
+    },
+    {
+      "senseId": "site%1:10:00::",
+      "lemma": "site",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a computer connected to the internet that maintains a series of web pages on the World Wide Web; a computer connected to the internet that maintains a series of web pages on the World Wide Web",
+      "synsetId": "06370600-n",
+      "words": 36,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 594,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a computer connected to the internet that maintains a series of web pages on the World Wide Web"
+      ]
+    },
+    {
+      "senseId": "account%1:26:00::",
+      "lemma": "account",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a formal contractual relationship established to provide for regular banking or brokerage or business services",
+      "synsetId": "13952070-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 596,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a formal contractual relationship established to provide for regular banking or brokerage or business services"
+      ]
+    },
+    {
+      "senseId": "account%2:42:01::",
+      "lemma": "account",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be the sole or primary factor in the existence, acquisition, supply, or disposal of something",
+      "synsetId": "02613467-v",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 596,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be the sole or primary factor in the existence, acquisition, supply, or disposal of something"
+      ]
+    },
+    {
+      "senseId": "account%2:32:02::",
+      "lemma": "account",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "to give an account or representation of in words",
+      "synsetId": "00967067-v",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 596,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "to give an account or representation of in words"
+      ]
+    },
+    {
+      "senseId": "account%1:10:03::",
+      "lemma": "account",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a short account of the news",
+      "synsetId": "06694296-n",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 596,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a short account of the news"
+      ]
+    },
+    {
+      "senseId": "account%2:40:00::",
+      "lemma": "account",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "keep an account of",
+      "synsetId": "02270039-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 596,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "keep an account of"
+      ]
+    },
+    {
+      "senseId": "period%1:28:02::",
+      "lemma": "period",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the interval taken to complete one cycle of a regularly repeating phenomenon",
+      "synsetId": "15315015-n",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 602,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the interval taken to complete one cycle of a regularly repeating phenomenon"
+      ]
+    },
+    {
+      "senseId": "position%1:09:00::",
+      "lemma": "position",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a way of regarding situations or topics etc.",
+      "synsetId": "06218486-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 603,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a way of regarding situations or topics etc"
+      ]
+    },
+    {
+      "senseId": "record%1:06:00::",
+      "lemma": "record",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove",
+      "synsetId": "03930191-n",
+      "words": 24,
+      "rare": 11,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 604,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "sound recording consisting of a disk with a continuous groove",
+        "used to reproduce music by rotating while a phonograph needle tracks in the groove"
+      ]
+    },
+    {
+      "senseId": "record%1:23:00::",
+      "lemma": "record",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the number of wins versus losses and ties a team has had",
+      "synsetId": "13618229-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 604,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the number of wins versus losses and ties a team has had"
+      ]
+    },
+    {
+      "senseId": "record%2:32:03::",
+      "lemma": "record",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "indicate a certain reading; of gauges and instruments",
+      "synsetId": "00924838-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 604,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "indicate a certain reading",
+        "of gauges and instruments"
+      ]
+    },
+    {
+      "senseId": "similar%3:00:00::",
+      "lemma": "similar",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "marked by correspondence or resemblance",
+      "synsetId": "02078824-a",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 605,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by correspondence or resemblance"
+      ]
+    },
+    {
+      "senseId": "similar%3:00:02::",
+      "lemma": "similar",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "resembling or similar; having the same or some of the same characteristics; often used in combination",
+      "synsetId": "01412553-a",
+      "words": 16,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 605,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "resembling or similar",
+        "having the same or some of the same characteristics",
+        "often used in combination"
+      ]
+    },
+    {
+      "senseId": "similar%3:00:04::",
+      "lemma": "similar",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having the same or similar characteristics",
+      "synsetId": "01413463-a",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 605,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having the same or similar characteristics"
+      ]
+    },
+    {
+      "senseId": "total%5:00:00:whole:00",
+      "lemma": "total",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "constituting the full quantity or extent; complete",
+      "synsetId": "00517305-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 606,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "constituting the full quantity or extent",
+        "complete"
+      ]
+    },
+    {
+      "senseId": "film%1:06:01::",
+      "lemma": "film",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies",
+      "synsetId": "03343766-n",
+      "words": 19,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 611,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "photographic material consisting of a base of celluloid covered with a photographic emulsion",
+        "used to make negatives or transparencies"
+      ]
+    },
+    {
+      "senseId": "film%1:10:01::",
+      "lemma": "film",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+      "synsetId": "06626039-n",
+      "words": 21,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 611,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+      ]
+    },
+    {
+      "senseId": "military%3:00:01::",
+      "lemma": "military",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "associated with or performed by members of the armed services as contrasted with civilians",
+      "synsetId": "01521164-a",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 616,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "associated with or performed by members of the armed services as contrasted with civilians"
+      ]
+    },
+    {
+      "senseId": "military%3:01:00::",
+      "lemma": "military",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of or relating to the study of the principles of warfare",
+      "synsetId": "02775023-a",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 616,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to the study of the principles of warfare"
+      ]
+    },
+    {
+      "senseId": "military%3:00:02::",
+      "lemma": "military",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "characteristic of or associated with soldiers or the military",
+      "synsetId": "01522469-a",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 616,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characteristic of or associated with soldiers or the military"
+      ]
+    },
+    {
+      "senseId": "military%1:14:00::",
+      "lemma": "military",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the military forces of a nation",
+      "synsetId": "08215965-n",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 616,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the military forces of a nation"
+      ]
+    },
+    {
+      "senseId": "perfect%1:24:00::",
+      "lemma": "perfect",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)",
+      "synsetId": "13828352-n",
+      "words": 17,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 617,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)"
+      ]
+    },
+    {
+      "senseId": "perfect%5:00:00:unmitigated:00",
+      "lemma": "perfect",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "without qualification; used informally as (often pejorative) intensifiers",
+      "synsetId": "01524174-s",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 617,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "without qualification",
+        "used informally as (often pejorative) intensifiers"
+      ]
+    },
+    {
+      "senseId": "perfect%5:00:00:exact:00",
+      "lemma": "perfect",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "precisely accurate or exact",
+      "synsetId": "00918435-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 617,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "precisely accurate or exact"
+      ]
+    },
+    {
+      "senseId": "perfect%2:30:00::",
+      "lemma": "perfect",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make perfect or complete",
+      "synsetId": "00474503-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 617,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make perfect or complete"
+      ]
+    },
+    {
+      "senseId": "personal%3:00:00::",
+      "lemma": "personal",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "concerning or affecting a particular person or his or her private life and personality",
+      "synsetId": "01771841-a",
+      "words": 14,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 618,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "concerning or affecting a particular person or his or her private life and personality"
+      ]
+    },
+    {
+      "senseId": "personal%3:01:00::",
+      "lemma": "personal",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "indicating grammatical person",
+      "synsetId": "02869796-a",
+      "words": 3,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 618,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "indicating grammatical person"
+      ]
+    },
+    {
+      "senseId": "personal%3:01:01::",
+      "lemma": "personal",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "of or arising from personality",
+      "synsetId": "02869905-a",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 618,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or arising from personality"
+      ]
+    }
+  ]
+}

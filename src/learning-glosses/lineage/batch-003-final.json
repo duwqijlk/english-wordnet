@@ -1,0 +1,1108 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 3,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 43,
+      "of": 50,
+      "rate": 0.86
+    },
+    "secondPass": {
+      "approved": 5,
+      "of": 7
+    },
+    "thirdPass": {
+      "approved": 1,
+      "of": 2
+    },
+    "scope": "priority 0-1, general vocabulary only",
+    "lineage": {
+      "draft": "b172f9c16f7ee4a38d1374472ffeb37794d236f95469abe760e892bfefc28488",
+      "corrections": "40f2ebeccb08e0ddbeac910f6cb10e114d4beb045b470e23953fc5cc4f675ac1"
+    },
+    "studentValidated": false,
+    "semanticAcceptance": false
+  },
+  "accepted": [
+    {
+      "senseId": "love%1:12:00::",
+      "lemma": "love",
+      "pos": "n",
+      "definition": "a strong positive emotion of regard and affection",
+      "decision": "gloss",
+      "simpleMeaning": "a strong feeling of caring deeply about someone or something",
+      "scope": "The feeling itself; not a person or thing that is loved, which is a separate entry.",
+      "examples": [
+        "Her love for her children was clear.",
+        "He has a love of music."
+      ],
+      "branchCoverage": [
+        "strong positive emotion of regard -> \"a strong feeling of caring deeply\"",
+        "affection -> \"about someone or something\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "man%1:05:01::",
+      "lemma": "man",
+      "pos": "n",
+      "definition": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+      "decision": "gloss",
+      "simpleMeaning": "a human being, living now or in the past, able to think, speak, and walk upright",
+      "scope": "The whole human species; not the sense \"adult male\".",
+      "examples": [
+        "The cave was home to early man.",
+        "Man has changed the world."
+      ],
+      "branchCoverage": [
+        "living or extinct member of the human family -> \"a human being, living now or in the past\"",
+        "superior intelligence, articulate speech, erect carriage -> \"able to think, speak, and walk upright\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "home%3:01:00::",
+      "lemma": "home",
+      "pos": "a",
+      "definition": "relating to or being where one lives or where one's roots are",
+      "decision": "gloss",
+      "simpleMeaning": "relating to the place where you live or where you come from",
+      "scope": "Adjective use before a noun, as in home address; not the noun house.",
+      "examples": [
+        "Write your home address here.",
+        "The home crowd cheered loudly."
+      ],
+      "branchCoverage": [
+        "relating to where one lives -> \"the place where you live\"",
+        "or where one's roots are -> \"or where you come from\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "long%3:00:02::",
+      "lemma": "long",
+      "pos": "a",
+      "definition": "primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified",
+      "decision": "gloss",
+      "simpleMeaning": "lasting a great amount of time, or lasting the stated amount of time",
+      "scope": "Time only; the spatial sense is a separate entry.",
+      "examples": [
+        "It was a long winter.",
+        "The meeting was two hours long."
+      ],
+      "branchCoverage": [
+        "primarily temporal sense -> stated in the scope",
+        "great or greater than average duration -> \"lasting a great amount of time\"",
+        "or a duration as specified -> \"or lasting the stated amount of time\", shown in the second example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "long%3:00:01::",
+      "lemma": "long",
+      "pos": "a",
+      "definition": "primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified",
+      "decision": "gloss",
+      "simpleMeaning": "measuring a great distance from one end to the other, or the stated distance",
+      "scope": "Physical length only; the time sense is a separate entry.",
+      "examples": [
+        "They walked down a long road.",
+        "The table is two metres long."
+      ],
+      "branchCoverage": [
+        "primarily spatial sense -> stated in the scope",
+        "great or greater than average spatial extension -> \"measuring a great distance from one end to the other\"",
+        "or extension as specified -> \"or the stated distance\", shown in the second example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "long%2:37:02::",
+      "lemma": "long",
+      "pos": "v",
+      "definition": "desire strongly or persistently",
+      "decision": "gloss",
+      "simpleMeaning": "to want something very much and keep wanting it",
+      "scope": "The verb; not the adjective of time or length.",
+      "examples": [
+        "She longed for a quiet room.",
+        "He longed to see his family again."
+      ],
+      "branchCoverage": [
+        "desire strongly -> \"want something very much\"",
+        "or persistently -> \"and keep wanting it\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "look%1:04:00::",
+      "lemma": "look",
+      "pos": "n",
+      "definition": "the act of directing the eyes toward something and perceiving it visually; look",
+      "decision": "gloss",
+      "simpleMeaning": "an act of turning your eyes towards something so that you see it",
+      "scope": "The noun; not the verb.",
+      "examples": [
+        "She gave him a quick look.",
+        "One look at the map showed the way."
+      ],
+      "branchCoverage": [
+        "act of directing the eyes towards something -> \"an act of turning your eyes towards something\"",
+        "perceiving it visually -> \"so that you see it\"",
+        "look -> the headword repeated in the source, not an extra branch"
+      ],
+      "labelBranches": [
+        "look"
+      ],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "look%2:39:00::",
+      "lemma": "look",
+      "pos": "v",
+      "definition": "perceive with attention; direct one's gaze towards; look",
+      "decision": "gloss",
+      "simpleMeaning": "to turn your eyes towards something and pay attention to it",
+      "scope": "The verb; not the noun.",
+      "examples": [
+        "Look at the board.",
+        "She looked carefully at the photo."
+      ],
+      "branchCoverage": [
+        "perceive with attention -> \"pay attention to it\"",
+        "direct one's gaze towards -> \"turn your eyes towards something\"",
+        "look -> the headword repeated in the source, not an extra branch"
+      ],
+      "labelBranches": [
+        "look"
+      ],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "use%2:34:02::",
+      "lemma": "use",
+      "pos": "v",
+      "definition": "take or consume (regularly or habitually)",
+      "decision": "gloss",
+      "simpleMeaning": "to take a drug or other substance regularly or as a habit",
+      "scope": "Regular or habitual taking; not dependence and not using a tool.",
+      "examples": [
+        "He uses painkillers every day.",
+        "She stopped using sugar in her tea."
+      ],
+      "branchCoverage": [
+        "take or consume -> \"take ... a drug or other substance\"",
+        "regularly or habitually -> \"regularly or as a habit\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "use%2:41:14::",
+      "lemma": "use",
+      "pos": "v",
+      "definition": "seek or achieve an end by using to one's advantage",
+      "decision": "gloss",
+      "simpleMeaning": "to treat someone or something as a way of getting what you want",
+      "scope": "Taking advantage of a person or thing; not consuming a substance.",
+      "examples": [
+        "He used his friends to get the job.",
+        "She felt she was being used."
+      ],
+      "branchCoverage": [
+        "seek or achieve an end -> \"as a way of getting what you want\"",
+        "by using to one's advantage -> \"treat someone or something\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "same%3:00:00::",
+      "lemma": "same",
+      "pos": "a",
+      "definition": "closely similar or comparable in kind or quality or quantity or degree",
+      "decision": "gloss",
+      "simpleMeaning": "very like another one in kind, quality, amount, or degree",
+      "scope": "Similarity, not identity; the identity sense is a separate entry.",
+      "examples": [
+        "The two bags are the same colour.",
+        "The twins are the same height."
+      ],
+      "branchCoverage": [
+        "closely similar or comparable -> \"very like another one\"",
+        "in kind, quality, quantity, or degree -> all four named in the meaning"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "every%5:00:00:all:00",
+      "lemma": "every",
+      "pos": "a",
+      "definition": "(used of count nouns) each and all of the members of a group considered singly and without exception",
+      "decision": "gloss",
+      "simpleMeaning": "used with things you can count: all the members of a group, one by one, with no exceptions",
+      "scope": "Before a count noun; not the sense of regular intervals.",
+      "examples": [
+        "Every child got a book.",
+        "She checked every door."
+      ],
+      "branchCoverage": [
+        "used of count nouns -> \"things you can count\" in the scope",
+        "each and all of the members -> \"all the members of a group, one by one\"",
+        "without exception -> \"with no exceptions\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "every%5:00:02:all:00",
+      "lemma": "every",
+      "pos": "a",
+      "definition": "each and all of a series of entities or intervals as specified",
+      "decision": "gloss",
+      "simpleMeaning": "each one in a series, or each period of a stated length",
+      "scope": "Series and intervals, as in every third seat or every ten minutes.",
+      "examples": [
+        "Every third seat was empty.",
+        "The bus comes every ten minutes."
+      ],
+      "branchCoverage": [
+        "each and all of a series of entities -> \"each one in a series\", first example",
+        "or intervals as specified -> \"or each period of a stated length\", second example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "come%1:08:00::",
+      "lemma": "come",
+      "pos": "n",
+      "definition": "the thick white fluid containing spermatozoa that is ejaculated by the male genital tract",
+      "decision": "gloss",
+      "simpleMeaning": "the thick white fluid containing sperm that a man's body releases during sex",
+      "scope": "The noun for the fluid; not the verb of movement. Neutral, factual wording.",
+      "examples": [
+        "The fluid called come contains sperm.",
+        "He wiped the come from the sheet."
+      ],
+      "branchCoverage": [
+        "thick white fluid -> \"the thick white fluid\"",
+        "containing spermatozoa -> \"containing sperm\"",
+        "ejaculated by the male genital tract -> \"that a man's body releases during sex\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "state%1:15:01::",
+      "lemma": "state",
+      "pos": "n",
+      "definition": "the territory occupied by one of the constituent administrative districts of a nation",
+      "decision": "gloss",
+      "simpleMeaning": "an area of a country with its own government and borders; a province",
+      "scope": "The region only; not the government itself and not a condition.",
+      "examples": [
+        "Texas is a state in the United States.",
+        "She grew up in a small state."
+      ],
+      "branchCoverage": [
+        "territory occupied by an administrative district -> \"an area of a country with its own government and borders\"",
+        "constituent district of a nation -> \"a province\", first example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "state%2:32:02::",
+      "lemma": "state",
+      "pos": "v",
+      "definition": "indicate through a symbol, formula, etc.",
+      "decision": "gloss",
+      "simpleMeaning": "to show a fact or amount by means of a sign, symbol, or formula",
+      "scope": "Signs and formulae; not saying something in words, which is a different sense.",
+      "examples": [
+        "The sign states the speed limit.",
+        "The formula states the relation between mass and energy."
+      ],
+      "branchCoverage": [
+        "indicate -> \"show\"",
+        "through a symbol, formula, etc -> \"by means of a sign, symbol, or formula\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "state%1:14:01::",
+      "lemma": "state",
+      "pos": "n",
+      "definition": "the group of people comprising the government of a sovereign state",
+      "decision": "gloss",
+      "simpleMeaning": "the people and groups that govern a country",
+      "scope": "The government only; not the territory and not a condition.",
+      "examples": [
+        "The state owns the railway.",
+        "Church and state should be separate."
+      ],
+      "branchCoverage": [
+        "the group of people comprising the government -> \"the people and groups that govern\"",
+        "of a sovereign state -> \"a country\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "three%1:06:00::",
+      "lemma": "three",
+      "pos": "n",
+      "definition": "one of four playing cards in a deck having three pips",
+      "decision": "gloss",
+      "simpleMeaning": "in card games, a playing card with three marks",
+      "scope": "The card only; not the number.",
+      "examples": [
+        "He played a three.",
+        "She drew the three of hearts."
+      ],
+      "branchCoverage": [
+        "one of four playing cards in a deck -> \"a playing card\"",
+        "having three pips -> \"with three marks\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "between%4:02:00::",
+      "lemma": "between",
+      "pos": "r",
+      "definition": "in between",
+      "decision": "gloss",
+      "simpleMeaning": "in the space or time separating two things",
+      "scope": "The adverb, used without a following noun; the preposition is a separate entry.",
+      "examples": [
+        "Two houses stood apart, with a garden between.",
+        "The visits were a week apart, with nothing between."
+      ],
+      "branchCoverage": [
+        "in between -> \"in the space or time separating two things\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "better%3:00:00::",
+      "lemma": "better",
+      "pos": "a",
+      "definition": "(comparative of ‘good’) superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability; more highly skilled than another",
+      "decision": "gloss",
+      "simpleMeaning": "of higher quality or more suitable than another; more skilled than another",
+      "scope": "The comparative adjective; not the adverb better and not recovered health.",
+      "examples": [
+        "This is a better plan.",
+        "She is a better driver than I am."
+      ],
+      "branchCoverage": [
+        "comparative of good -> grammar note, stated in the scope",
+        "superior in excellence, quality, desirability, or suitability -> \"of higher quality or more suitable than another\"",
+        "more highly skilled than another -> \"more skilled than another\", second example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "better%5:00:00:advisable:00",
+      "lemma": "better",
+      "pos": "a",
+      "definition": "(comparative and superlative of ‘well’) wiser or more advantageous and hence advisable",
+      "decision": "gloss",
+      "simpleMeaning": "wiser or more useful; the more sensible choice",
+      "scope": "Advice, as in it is better to wait; not higher quality in general.",
+      "examples": [
+        "It would be better to ask first.",
+        "The better choice is to save the money."
+      ],
+      "branchCoverage": [
+        "comparative of well -> grammar note, stated in the scope",
+        "wiser or more advantageous -> \"wiser or more useful\"",
+        "hence advisable -> \"the more sensible choice\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "better%4:02:00::",
+      "lemma": "better",
+      "pos": "r",
+      "definition": "comparative of ‘well’; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+      "decision": "gloss",
+      "simpleMeaning": "in a way that is more excellent, more useful, or to a greater degree; the comparative of well",
+      "scope": "The adverb; not the adjective of quality.",
+      "examples": [
+        "She sings better than before.",
+        "You will sleep better in a quiet room."
+      ],
+      "branchCoverage": [
+        "comparative of well -> stated in the meaning",
+        "more excellent or advantageous or to a greater degree -> \"more excellent, more useful, or to a greater degree\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "better%3:00:02::",
+      "lemma": "better",
+      "pos": "a",
+      "definition": "(comparative of ‘good’) changed for the better in health or fitness",
+      "decision": "gloss",
+      "simpleMeaning": "healthier than before; improved in health",
+      "scope": "Health only; not higher quality in general.",
+      "examples": [
+        "The patient is better today.",
+        "Her cold is better than it was."
+      ],
+      "branchCoverage": [
+        "comparative of good -> grammar note, stated in the scope",
+        "changed for the better in health or fitness -> \"healthier than before; improved in health\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "better%2:30:00::",
+      "lemma": "better",
+      "pos": "v",
+      "definition": "get better",
+      "decision": "gloss",
+      "simpleMeaning": "to become healthier or improve",
+      "scope": "The intransitive verb, used of health or conditions; not making something else better.",
+      "examples": [
+        "His health bettered over the summer.",
+        "The weather bettered by noon."
+      ],
+      "branchCoverage": [
+        "get better -> \"become healthier or improve\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "better%2:30:01::",
+      "lemma": "better",
+      "pos": "v",
+      "definition": "to make better",
+      "decision": "gloss",
+      "simpleMeaning": "to improve something",
+      "scope": "The transitive verb; not becoming better oneself.",
+      "examples": [
+        "They tried to better their working conditions.",
+        "He bettered his own record."
+      ],
+      "branchCoverage": [
+        "to make better -> \"to improve something\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "find%2:39:02::",
+      "lemma": "find",
+      "pos": "v",
+      "definition": "discover or determine the existence, presence, or fact of by perception with the eyes",
+      "decision": "gloss",
+      "simpleMeaning": "to see or notice that something exists or is present",
+      "scope": "Noticing with the eyes or instruments; not finding something you were looking for.",
+      "examples": [
+        "Tests found no damage to the bridge.",
+        "We found a crack in the wall."
+      ],
+      "branchCoverage": [
+        "discover or determine the existence, presence, or fact -> \"see or notice that something exists or is present\"",
+        "by perception with the eyes -> \"see or notice\", with one instrument example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "help%1:04:00::",
+      "lemma": "help",
+      "pos": "n",
+      "definition": "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose",
+      "decision": "gloss",
+      "simpleMeaning": "the act of doing something useful for someone or for a purpose",
+      "scope": "The activity; not the person who helps.",
+      "examples": [
+        "Thank you for your help.",
+        "Her help made the job much faster."
+      ],
+      "branchCoverage": [
+        "activity of contributing to a need -> \"the act of doing something useful for someone\"",
+        "furtherance of an effort or purpose -> \"or for a purpose\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "help%1:18:00::",
+      "lemma": "help",
+      "pos": "n",
+      "definition": "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose",
+      "decision": "gloss",
+      "simpleMeaning": "a person who does something useful for someone or for a purpose",
+      "scope": "The person; not the activity.",
+      "examples": [
+        "You have been a great help.",
+        "The shop hired extra help for the sale."
+      ],
+      "branchCoverage": [
+        "a person who contributes to a need -> \"a person who does something useful for someone\"",
+        "furtherance of an effort or purpose -> \"or for a purpose\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "high%3:00:01::",
+      "lemma": "high",
+      "pos": "a",
+      "definition": "(literal meaning) being at or having a relatively great or specific elevation or upward extension (sometimes used in combinations like ‘knee-high’)",
+      "decision": "gloss",
+      "simpleMeaning": "reaching far up, or at a stated height above the ground",
+      "scope": "Physical height only; not a large amount or a high level of quality.",
+      "examples": [
+        "A high wall surrounded the garden.",
+        "The grass was knee-high."
+      ],
+      "branchCoverage": [
+        "literal meaning -> stated in the scope",
+        "relatively great elevation or upward extension -> \"reaching far up\"",
+        "or a specific elevation -> \"at a stated height above the ground\", second example with a combination"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "little%3:00:01::",
+      "lemma": "little",
+      "pos": "a",
+      "definition": "limited or below average in number or quantity or magnitude or extent",
+      "decision": "gloss",
+      "simpleMeaning": "small in size, number, amount, or degree; below average",
+      "scope": "The describing adjective; not the quantifier use before a mass noun.",
+      "examples": [
+        "They live in a little house.",
+        "A little bird sat on the fence."
+      ],
+      "branchCoverage": [
+        "limited or below average -> \"below average\"",
+        "in number, quantity, magnitude, or extent -> \"small in size, number, amount, or degree\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "little%3:00:03::",
+      "lemma": "little",
+      "pos": "a",
+      "definition": "(quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with ‘a’) at least some",
+      "decision": "gloss",
+      "simpleMeaning": "small in quantity or degree; not much, or with \"a\", at least some",
+      "scope": "Before things you cannot count; the describing adjective is a separate entry.",
+      "examples": [
+        "There is little time left.",
+        "She has a little money saved."
+      ],
+      "branchCoverage": [
+        "quantifier with mass nouns -> \"things you cannot count\" in the scope",
+        "small in quantity or degree -> \"small in quantity or degree\"",
+        "not much or almost none -> first example",
+        "or with \"a\", at least some -> \"with 'a', at least some\", second example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "old%3:00:02::",
+      "lemma": "old",
+      "pos": "a",
+      "definition": "(used especially of persons) having lived for a relatively long time or attained a specific age",
+      "decision": "gloss",
+      "simpleMeaning": "having lived for a long time, or of a stated age",
+      "scope": "Used of people and living things; the sense \"not new\" is separate.",
+      "examples": [
+        "An old man sat by the fire.",
+        "She is six years old."
+      ],
+      "branchCoverage": [
+        "used especially of persons -> \"used of people and living things\" in the scope",
+        "having lived for a relatively long time -> \"having lived for a long time\"",
+        "or attained a specific age -> \"or of a stated age\", second example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "another%5:00:00:other:00",
+      "lemma": "another",
+      "pos": "a",
+      "definition": "any of various alternatives; some other; entity, singular, other pronoun; quantifier, singular, another",
+      "decision": "gloss",
+      "simpleMeaning": "a different one; some other",
+      "scope": "Before a singular noun, as in another way; the sense \"one more\" is left to the numeral one.",
+      "examples": [
+        "Let us try another way.",
+        "She chose another dress."
+      ],
+      "branchCoverage": [
+        "any of various alternatives -> \"a different one\"",
+        "some other -> \"some other\"",
+        "entity and pronoun labels -> grammar notes about the same meaning",
+        "quantifier, singular, another -> grammar label, same meaning"
+      ],
+      "labelBranches": [
+        "entity, singular, other pronoun",
+        "quantifier, singular, another"
+      ],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "own%5:00:00:personal:00",
+      "lemma": "own",
+      "pos": "a",
+      "definition": "belonging to or on behalf of a specified person (especially yourself); preceded by a possessive",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to a particular person, especially yourself, or done for that person; used after a possessive word",
+      "scope": "Used after a possessive word such as my, its, or their.",
+      "examples": [
+        "She has her own room.",
+        "He cooks his own meals."
+      ],
+      "branchCoverage": [
+        "belonging to or on behalf of a specified person -> \"belonging to ... or done for that person\"",
+        "especially yourself -> \"especially yourself\"",
+        "preceded by a possessive -> \"used after a possessive word\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Fourth pass adopting the third reviewer's wording.",
+      "verdict": "fourth-pass"
+    },
+    {
+      "senseId": "things%1:21:00::",
+      "lemma": "things",
+      "pos": "n",
+      "definition": "any movable possession (especially articles of clothing)",
+      "decision": "gloss",
+      "simpleMeaning": "the possessions you can carry or move, especially clothes",
+      "scope": "Plural noun; not things in general.",
+      "examples": [
+        "Pack your things.",
+        "She left her things at the hotel."
+      ],
+      "branchCoverage": [
+        "any movable possession -> \"the possessions you can carry or move\"",
+        "especially articles of clothing -> \"especially clothes\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "give%1:07:00::",
+      "lemma": "give",
+      "pos": "n",
+      "definition": "the elasticity of something that can be stretched and returns to its original length",
+      "decision": "gloss",
+      "simpleMeaning": "the ability of a material to stretch and then return to its original shape",
+      "scope": "The noun, used of ropes, cloth, and other materials; not the verb.",
+      "examples": [
+        "The rope has some give.",
+        "This fabric has very little give."
+      ],
+      "branchCoverage": [
+        "elasticity -> \"ability ... to stretch\"",
+        "of something that can be stretched and returns to its original length -> \"and then return to its original shape\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "give%2:40:00::",
+      "lemma": "give",
+      "pos": "v",
+      "definition": "transfer possession of something concrete or abstract to somebody",
+      "decision": "gloss",
+      "simpleMeaning": "to hand something over to someone, or let them have it, including ideas and rights",
+      "scope": "Both physical things and abstract things; not making a gift in a ceremony.",
+      "examples": [
+        "She gave him a book.",
+        "He gave her his word."
+      ],
+      "branchCoverage": [
+        "transfer possession -> \"hand something over ... or let them have it\"",
+        "of something concrete or abstract -> \"including ideas and rights\", one example of each"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "house%1:06:00::",
+      "lemma": "house",
+      "pos": "n",
+      "definition": "a dwelling that serves as living quarters for one or more families",
+      "decision": "gloss",
+      "simpleMeaning": "a building where one or more families live",
+      "scope": "The building; not the people who run a business.",
+      "examples": [
+        "They bought a house near the park.",
+        "The house has three bedrooms."
+      ],
+      "branchCoverage": [
+        "a dwelling -> \"a building ... live\"",
+        "serves as living quarters for one or more families -> \"where one or more families live\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "house%1:14:01::",
+      "lemma": "house",
+      "pos": "n",
+      "definition": "the members of a business organization that owns or operates one or more establishments",
+      "decision": "gloss",
+      "simpleMeaning": "the people who make up a business or company",
+      "scope": "The people in the firm; not the building and not the company as an abstract entity.",
+      "examples": [
+        "The whole house agreed to the new plan.",
+        "The whole house welcomed the new editor."
+      ],
+      "branchCoverage": [
+        "the members of a business organization -> \"the people who make up a business or company\"",
+        "that owns or operates one or more establishments -> carried by \"company\", not a separate meaning"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Third pass correcting a named reviewer defect.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "place%2:31:01::",
+      "lemma": "place",
+      "pos": "v",
+      "definition": "assign a rank or rating to",
+      "decision": "gloss",
+      "simpleMeaning": "to give something a rank or rating",
+      "scope": "Ranking and judging; not putting an object somewhere.",
+      "examples": [
+        "She was placed third in the race.",
+        "The judges placed him first."
+      ],
+      "branchCoverage": [
+        "assign a rank -> \"give something a rank\"",
+        "or rating -> \"or rating\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "place%2:35:00::",
+      "lemma": "place",
+      "pos": "v",
+      "definition": "put into a certain place or abstract location",
+      "decision": "gloss",
+      "simpleMeaning": "to put something in a particular position, physical or abstract",
+      "scope": "Putting an object or an idea somewhere; not ranking.",
+      "examples": [
+        "She placed the vase on the table.",
+        "He placed the idea at the centre of his argument."
+      ],
+      "branchCoverage": [
+        "put into a certain place -> \"put something in a particular position\"",
+        "or abstract location -> \"physical or abstract\", second example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "place%2:41:01::",
+      "lemma": "place",
+      "pos": "v",
+      "definition": "place somebody in a particular situation or location",
+      "decision": "gloss",
+      "simpleMeaning": "to put someone in a particular job, home, or situation",
+      "scope": "People, not objects; not ranking.",
+      "examples": [
+        "The agency placed her in a new job.",
+        "They placed the child with a family."
+      ],
+      "branchCoverage": [
+        "place somebody -> \"put someone\"",
+        "in a particular situation or location -> \"in a particular job, home, or situation\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "school%2:41:02::",
+      "lemma": "school",
+      "pos": "v",
+      "definition": "teach or refine to be discriminative in taste or judgment",
+      "decision": "gloss",
+      "simpleMeaning": "to train someone to judge taste or quality well",
+      "scope": "Refining judgement; not teaching school subjects.",
+      "examples": [
+        "The course schools students in art criticism.",
+        "Years of reading schooled her taste."
+      ],
+      "branchCoverage": [
+        "teach or refine -> \"train\"",
+        "to be discriminative in taste or judgment -> \"to judge taste or quality well\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "school%1:09:00::",
+      "lemma": "school",
+      "pos": "n",
+      "definition": "the process of being formally educated at a school",
+      "decision": "gloss",
+      "simpleMeaning": "the process of being educated at a school",
+      "scope": "The process; not the building or the institution.",
+      "examples": [
+        "He missed a lot of school last term.",
+        "School starts at nine."
+      ],
+      "branchCoverage": [
+        "the process of being formally educated -> \"the process of being educated\"",
+        "at a school -> \"at a school\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "school%2:41:01::",
+      "lemma": "school",
+      "pos": "v",
+      "definition": "educate in or as if in a school",
+      "decision": "gloss",
+      "simpleMeaning": "to educate someone, especially in a school",
+      "scope": "General education; not training taste.",
+      "examples": [
+        "She was schooled at home.",
+        "The village schools its children in one room."
+      ],
+      "branchCoverage": [
+        "educate -> \"educate someone\"",
+        "in or as if in a school -> \"especially in a school\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "next%5:00:00:close:01",
+      "lemma": "next",
+      "pos": "a",
+      "definition": "nearest in space or position; immediately adjoining without intervening space",
+      "decision": "gloss",
+      "simpleMeaning": "nearest in space; directly beside with nothing in between",
+      "scope": "Position in space; not the next one in time or order.",
+      "examples": [
+        "She waited in the next room.",
+        "He sat at the next table."
+      ],
+      "branchCoverage": [
+        "nearest in space or position -> \"nearest in space\"",
+        "immediately adjoining without intervening space -> \"directly beside with nothing in between\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "next%5:00:00:incoming:00",
+      "lemma": "next",
+      "pos": "a",
+      "definition": "(of elected officers) elected but not yet serving",
+      "decision": "gloss",
+      "simpleMeaning": "of an elected official: elected but not yet in the job",
+      "scope": "Elected officers only; not the next one in time or order.",
+      "examples": [
+        "The next mayor takes office in May.",
+        "The next president will be sworn in soon."
+      ],
+      "branchCoverage": [
+        "of elected officers -> \"of an elected official\"",
+        "elected but not yet serving -> \"elected but not yet in the job\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "each%5:00:00:all:00",
+      "lemma": "each",
+      "pos": "a",
+      "definition": "(used of count nouns) every one considered individually; quantifier, singular, universal pronoun; quantifier, singular, universal",
+      "decision": "gloss",
+      "simpleMeaning": "every one of a group, thought of separately",
+      "scope": "Before a singular count noun; not every with no exceptions as a whole.",
+      "examples": [
+        "Each child has a desk.",
+        "She spoke to each worker."
+      ],
+      "branchCoverage": [
+        "used of count nouns -> \"of a group\" of things you can count, in the scope",
+        "every one considered individually -> \"every one ... thought of separately\"",
+        "quantifier and pronoun labels -> grammar notes about the same meaning"
+      ],
+      "labelBranches": [
+        "quantifier, singular, universal pronoun",
+        "quantifier, singular, universal"
+      ],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "end%2:42:00::",
+      "lemma": "end",
+      "pos": "v",
+      "definition": "have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",
+      "decision": "gloss",
+      "simpleMeaning": "to have a limit or stopping point in time, space, or amount",
+      "scope": "The intransitive verb; not the noun and not making something stop.",
+      "examples": [
+        "The road ends at the river.",
+        "The story ends happily."
+      ],
+      "branchCoverage": [
+        "have an end -> \"have a limit or stopping point\"",
+        "in a temporal, spatial, or quantitative sense -> \"in time, space, or amount\"",
+        "either spatial or metaphorical -> both examples, one physical and one of a story"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "found%2:31:00::",
+      "lemma": "found",
+      "pos": "v",
+      "definition": "use as a basis for; found on",
+      "decision": "gloss",
+      "simpleMeaning": "to base something on an idea or fact",
+      "scope": "Building an argument or belief on a basis; not starting a company, which is a different word form.",
+      "examples": [
+        "The film is founded on a true story.",
+        "His argument was founded on hope."
+      ],
+      "branchCoverage": [
+        "use as a basis for -> \"base something on\"",
+        "found on -> \"on an idea or fact\", both examples"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,1120 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 29,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 46,
+    "defers": 4,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "theory%1:09:00::",
+      "complex%1:27:00::"
+    ],
+    "lineage": {
+      "draft": "c54ac0c8a2752f74e48e7f5146fd10080d0dbf0d12dfbfbe13c16fcec5400782"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "challenge%1:10:01::",
+      "lemma": "challenge",
+      "pos": "n",
+      "definition": "questioning a statement and demanding an explanation",
+      "decision": "gloss",
+      "simpleMeaning": "An act of questioning a statement and asking the person who made it to explain it.",
+      "scope": "This is not an invitation to compete or a test of skill; it is a demand that someone explain or defend a statement.",
+      "examples": [
+        "His challenge to the official story forced the company to release the documents.",
+        "She met the accusation with a direct challenge: prove it."
+      ],
+      "branchCoverage": [
+        "questioning a statement and demanding an explanation -> An act of questioning a statement and asking the person who made it to explain it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "questioning a statement and demanding an explanation"
+      ],
+      "lemmaPartition": "challenge%1:10:01:: -> noun: a demand that someone explain or defend a statement\nchallenge%2:32:00:: -> verb: an invitation to compete or to attempt something difficult",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "challenge%2:32:00::",
+      "lemma": "challenge",
+      "pos": "v",
+      "definition": "issue a challenge to",
+      "decision": "gloss",
+      "simpleMeaning": "To invite someone to compete against you or to dare them to do something difficult.",
+      "scope": "This is not a demand that a statement be explained; it is an invitation to compete or to attempt something difficult.",
+      "examples": [
+        "The champion challenged the young boxer to a rematch.",
+        "The teacher challenged the class to solve the puzzle in ten minutes."
+      ],
+      "branchCoverage": [
+        "issue a challenge to -> To invite someone to compete against you or to dare them to do something difficult"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "issue a challenge to"
+      ],
+      "lemmaPartition": "challenge%1:10:01:: -> noun: a demand that someone explain or defend a statement\nchallenge%2:32:00:: -> verb: an invitation to compete or to attempt something difficult",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "comment%1:10:01::",
+      "lemma": "comment",
+      "pos": "n",
+      "definition": "a written explanation or criticism or illustration that is added to a book or other textual material",
+      "decision": "gloss",
+      "simpleMeaning": "A written note added to a book or other text that explains, criticizes, or illustrates part of it.",
+      "scope": "This is not a spoken or written remark giving an opinion; it is material written into or alongside a text to explain or illustrate it.",
+      "examples": [
+        "The editor's comments in the margin pointed out several errors.",
+        "Footnotes often contain comments on the main text."
+      ],
+      "branchCoverage": [
+        "a written explanation or criticism or illustration that is added to a book or other textual material -> A written note added to a book or other text that explains, criticizes, or illustrates part of it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a written explanation or criticism or illustration that is added to a book or other textual material"
+      ],
+      "lemmaPartition": "comment%1:10:01:: -> noun: a written note attached to a text\ncomment%1:10:00:: -> noun: a spoken or written remark giving an opinion\ncomment%2:32:01:: -> verb: writing explanations between the lines of a text\ncomment%2:32:00:: -> verb: giving an opinion or information about something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "comment%1:10:00::",
+      "lemma": "comment",
+      "pos": "n",
+      "definition": "a statement that expresses a personal opinion or belief or adds information",
+      "decision": "gloss",
+      "simpleMeaning": "A statement in which someone gives a personal opinion or belief, or adds information.",
+      "scope": "This is not a note written into a book or document; it is a remark that gives an opinion or adds information.",
+      "examples": [
+        "He made a brief comment about the weather before changing the subject.",
+        "A few comments from the audience followed the talk."
+      ],
+      "branchCoverage": [
+        "a statement that expresses a personal opinion or belief or adds information -> A statement in which someone gives a personal opinion or belief, or adds information"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a statement that expresses a personal opinion or belief or adds information"
+      ],
+      "lemmaPartition": "comment%1:10:01:: -> noun: a written note attached to a text\ncomment%1:10:00:: -> noun: a spoken or written remark giving an opinion\ncomment%2:32:01:: -> verb: writing explanations between the lines of a text\ncomment%2:32:00:: -> verb: giving an opinion or information about something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "comment%2:32:01::",
+      "lemma": "comment",
+      "pos": "v",
+      "definition": "provide interlinear explanations for words or phrases",
+      "decision": "defer",
+      "reason": "This is a technical linguistic sense about writing explanations between the lines of a text; it is rare in general reading and has no natural modern examples a learner would meet.",
+      "sourceBranches": [
+        "provide interlinear explanations for words or phrases"
+      ],
+      "lemmaPartition": "comment%1:10:01:: -> noun: a written note attached to a text\ncomment%1:10:00:: -> noun: a spoken or written remark giving an opinion\ncomment%2:32:01:: -> verb: writing explanations between the lines of a text\ncomment%2:32:00:: -> verb: giving an opinion or information about something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "comment%2:32:00::",
+      "lemma": "comment",
+      "pos": "v",
+      "definition": "make or write a comment on",
+      "decision": "gloss",
+      "simpleMeaning": "To say or write something that gives your opinion about something or adds information about it.",
+      "scope": "This is not the act of writing explanations between the lines of a text; it is the act of giving an opinion or information about something.",
+      "examples": [
+        "Several readers commented on the article's tone.",
+        "The teacher commented that the essay was well organized."
+      ],
+      "branchCoverage": [
+        "make or write a comment on -> To say or write something that gives your opinion about something or adds information about it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make or write a comment on"
+      ],
+      "lemmaPartition": "comment%1:10:01:: -> noun: a written note attached to a text\ncomment%1:10:00:: -> noun: a spoken or written remark giving an opinion\ncomment%2:32:01:: -> verb: writing explanations between the lines of a text\ncomment%2:32:00:: -> verb: giving an opinion or information about something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "holy%3:00:00::",
+      "lemma": "holy",
+      "pos": "a",
+      "definition": "belonging to or derived from or associated with a divine power",
+      "decision": "gloss",
+      "simpleMeaning": "Belonging to, coming from, or connected with a god or divine power.",
+      "scope": "This is not a casual word for something merely special or impressive; it describes what belongs to or comes from a god.",
+      "examples": [
+        "The temple is a holy place for millions of believers.",
+        "They treated the ground as holy and removed their shoes."
+      ],
+      "branchCoverage": [
+        "belonging to or derived from or associated with a divine power -> Belonging to, coming from, or connected with a god or divine power"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "belonging to or derived from or associated with a divine power"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nation%1:14:02::",
+      "lemma": "nation",
+      "pos": "n",
+      "definition": "a federation of tribes (especially Native American tribes)",
+      "decision": "gloss",
+      "simpleMeaning": "A group of tribes that have joined together, especially among Native American peoples.",
+      "scope": "This is not a country or the people living in it; it is a union of tribes.",
+      "examples": [
+        "Several tribes joined to form a single nation.",
+        "The Iroquois nation was a league of six tribes."
+      ],
+      "branchCoverage": [
+        "a federation of tribes (especially Native American tribes) -> A group of tribes that have joined together, especially among Native American peoples"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a federation of tribes (especially Native American tribes)"
+      ],
+      "lemmaPartition": "nation%1:14:02:: -> noun: a union of tribes\nnation%1:14:01:: -> noun: the people of a country",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nation%1:14:01::",
+      "lemma": "nation",
+      "pos": "n",
+      "definition": "the people who live in a nation or country",
+      "decision": "gloss",
+      "simpleMeaning": "All the people who live in a country.",
+      "scope": "This is not a union of tribes and not the land or government of a country; it is the people themselves.",
+      "examples": [
+        "The president spoke to the nation about the crisis.",
+        "The whole nation celebrated the team's victory."
+      ],
+      "branchCoverage": [
+        "the people who live in a nation or country -> All the people who live in a country"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the people who live in a nation or country"
+      ],
+      "lemmaPartition": "nation%1:14:02:: -> noun: a union of tribes\nnation%1:14:01:: -> noun: the people of a country",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "otherwise%4:02:01::",
+      "lemma": "otherwise",
+      "pos": "r",
+      "definition": "in other respects or ways",
+      "decision": "gloss",
+      "simpleMeaning": "In other ways or respects, apart from what has just been mentioned.",
+      "scope": "This is not about something being different from what was expected; it points to the other features of the same thing.",
+      "examples": [
+        "The room was small but otherwise comfortable.",
+        "He was tired but otherwise in good health."
+      ],
+      "branchCoverage": [
+        "in other respects or ways -> In other ways or respects, apart from what has just been mentioned"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in other respects or ways"
+      ],
+      "lemmaPartition": "otherwise%4:02:01:: -> adverb: in other respects\notherwise%5:00:00:other:00 -> adjective: different from what was expected",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "otherwise%5:00:00:other:00",
+      "lemma": "otherwise",
+      "pos": "a",
+      "definition": "other than as supposed or expected",
+      "decision": "gloss",
+      "simpleMeaning": "Different from what people believe or expect.",
+      "scope": "This is not the adverb meaning 'in other respects'; it describes a situation that differs from what was thought or expected.",
+      "examples": [
+        "Everyone expected the vote to be close, but the result was otherwise.",
+        "He looked calm, but the truth was otherwise."
+      ],
+      "branchCoverage": [
+        "other than as supposed or expected -> Different from what people believe or expect"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "other than as supposed or expected"
+      ],
+      "lemmaPartition": "otherwise%4:02:01:: -> adverb: in other respects\notherwise%5:00:00:other:00 -> adjective: different from what was expected",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "primary%1:04:00::",
+      "lemma": "primary",
+      "pos": "n",
+      "definition": "a preliminary election where delegates or nominees are chosen",
+      "decision": "gloss",
+      "simpleMeaning": "An early election in which a political party chooses its candidates for a later election.",
+      "scope": "This is not a general election between parties and not a wing feather; it is the earlier vote in which a party picks its candidates.",
+      "examples": [
+        "She won the primary in her home state by a wide margin.",
+        "Voters will choose the party's candidate in next month's primary."
+      ],
+      "branchCoverage": [
+        "a preliminary election where delegates or nominees are chosen -> An early election in which a political party chooses its candidates for a later election"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a preliminary election where delegates or nominees are chosen"
+      ],
+      "lemmaPartition": "primary%1:04:00:: -> noun: an early party election\nprimary%1:05:00:: -> noun: a main wing feather\nprimary%3:00:00:: -> adjective: first in importance or direct rather than secondary",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "primary%1:05:00::",
+      "lemma": "primary",
+      "pos": "n",
+      "definition": "one of the main flight feathers projecting along the outer edge of a bird's wing",
+      "decision": "gloss",
+      "simpleMeaning": "One of the long main feathers that stick out along the outer edge of a bird's wing.",
+      "scope": "This is not a small body feather and not a tail feather; it is one of the strong flight feathers at the outer edge of the wing.",
+      "examples": [
+        "The hawk's primaries were damaged, so it could not fly well.",
+        "You can tell the species by the black tips on its primaries."
+      ],
+      "branchCoverage": [
+        "one of the main flight feathers projecting along the outer edge of a bird's wing -> One of the long main feathers that stick out along the outer edge of a bird's wing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "one of the main flight feathers projecting along the outer edge of a bird's wing"
+      ],
+      "lemmaPartition": "primary%1:04:00:: -> noun: an early party election\nprimary%1:05:00:: -> noun: a main wing feather\nprimary%3:00:00:: -> adjective: first in importance or direct rather than secondary",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "primary%3:00:00::",
+      "lemma": "primary",
+      "pos": "a",
+      "definition": "of first rank or importance or value; direct and immediate rather than secondary",
+      "decision": "gloss",
+      "simpleMeaning": "First in rank, importance, or value, and direct and immediate rather than secondary or indirect.",
+      "scope": "This is not the noun for an early party election or a bird's wing feather; it describes something that comes first in importance or acts directly rather than through something else.",
+      "examples": [
+        "Safety is our primary concern.",
+        "The primary cause of the fire was faulty wiring."
+      ],
+      "branchCoverage": [
+        "of first rank or importance or value -> First in rank, importance, or value",
+        "direct and immediate rather than secondary -> direct and immediate rather than secondary or indirect"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of first rank or importance or value",
+        "direct and immediate rather than secondary"
+      ],
+      "lemmaPartition": "primary%1:04:00:: -> noun: an early party election\nprimary%1:05:00:: -> noun: a main wing feather\nprimary%3:00:00:: -> adjective: first in importance or direct rather than secondary",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "purpose%1:07:01::",
+      "lemma": "purpose",
+      "pos": "n",
+      "definition": "the quality of being determined to do or achieve something; firmness of purpose",
+      "decision": "gloss",
+      "simpleMeaning": "The quality of being firmly determined to do or achieve something.",
+      "scope": "This is not the aim or result someone wants to reach; it is the inner firmness that keeps them working toward it.",
+      "examples": [
+        "She has a strong sense of purpose and rarely gives up.",
+        "His sense of purpose carried him through years of difficult study."
+      ],
+      "branchCoverage": [
+        "the quality of being determined to do or achieve something -> The quality of being firmly determined to do or achieve something",
+        "firmness of purpose -> firmly determined"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the quality of being determined to do or achieve something",
+        "firmness of purpose"
+      ],
+      "lemmaPartition": "purpose%1:07:01:: -> noun: determination\npurpose%1:09:00:: -> noun: the intended result",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "purpose%1:09:00::",
+      "lemma": "purpose",
+      "pos": "n",
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "decision": "gloss",
+      "simpleMeaning": "The result that you intend to achieve and that guides what you plan to do.",
+      "scope": "This is not the firmness of character that keeps someone going; it is the intended result that their actions aim at.",
+      "examples": [
+        "The purpose of the meeting is to agree on a budget.",
+        "She explained the purpose of her visit straight away."
+      ],
+      "branchCoverage": [
+        "an anticipated outcome that is intended or that guides your planned actions -> The result that you intend to achieve and that guides what you plan to do"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an anticipated outcome that is intended or that guides your planned actions"
+      ],
+      "lemmaPartition": "purpose%1:07:01:: -> noun: determination\npurpose%1:09:00:: -> noun: the intended result",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "responsible%3:00:00::",
+      "lemma": "responsible",
+      "pos": "a",
+      "definition": "worthy of or requiring responsibility or trust; or held accountable",
+      "decision": "gloss",
+      "simpleMeaning": "Deserving trust or given important duties that must be handled carefully, and answerable for what happens.",
+      "scope": "This is not the neutral sense of being the cause of something; it means having duties to carry out or being answerable for what you do.",
+      "examples": [
+        "She is responsible for the safety of the children.",
+        "He was held responsible for the damage."
+      ],
+      "branchCoverage": [
+        "worthy of or requiring responsibility or trust -> Deserving trust or given important duties that must be handled carefully",
+        "or held accountable -> and answerable for what happens"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "worthy of or requiring responsibility or trust",
+        "or held accountable"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shop%1:06:00::",
+      "lemma": "shop",
+      "pos": "n",
+      "definition": "a mercantile establishment for the retail sale of goods or services",
+      "decision": "gloss",
+      "simpleMeaning": "A building or place where goods or services are sold to the public.",
+      "scope": "This is not a place where goods are made by hand and not a class in a trade; it is a place that sells goods or services to customers.",
+      "examples": [
+        "There is a small shop on the corner that sells fresh bread.",
+        "Most of the shops in the town centre stay open until late."
+      ],
+      "branchCoverage": [
+        "a mercantile establishment for the retail sale of goods or services -> A building or place where goods or services are sold to the public"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a mercantile establishment for the retail sale of goods or services"
+      ],
+      "lemmaPartition": "shop%1:06:00:: -> noun: a retail store\nshop%1:04:00:: -> noun: a class in a trade\nshop%1:06:01:: -> noun: a small workshop\nshop%2:41:00:: -> verb: to buy from a business as a customer",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shop%1:04:00::",
+      "lemma": "shop",
+      "pos": "n",
+      "definition": "a course of instruction in a trade (as carpentry or electricity)",
+      "decision": "gloss",
+      "simpleMeaning": "A class in which students learn a skilled trade such as carpentry or electrical work.",
+      "scope": "This is not a place that sells goods and not a room where crafts are made; it is a course of teaching in a trade.",
+      "examples": [
+        "He took a shop class in high school and learned to build a bookshelf.",
+        "She signed up for shop because she wanted to learn woodworking."
+      ],
+      "branchCoverage": [
+        "a course of instruction in a trade (as carpentry or electricity) -> A class in which students learn a skilled trade such as carpentry or electrical work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a course of instruction in a trade (as carpentry or electricity)"
+      ],
+      "lemmaPartition": "shop%1:06:00:: -> noun: a retail store\nshop%1:04:00:: -> noun: a class in a trade\nshop%1:06:01:: -> noun: a small workshop\nshop%2:41:00:: -> verb: to buy from a business as a customer",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shop%1:06:01::",
+      "lemma": "shop",
+      "pos": "n",
+      "definition": "small workplace where handcrafts or manufacturing are done",
+      "decision": "gloss",
+      "simpleMeaning": "A small workplace where things are made or crafts are done by hand.",
+      "scope": "This is not a place that sells things to customers and not a school class; it is a small place where goods are made.",
+      "examples": [
+        "The carpenter keeps his tools and timber in a small shop behind the house.",
+        "Sparks flew as the welder worked in his shop."
+      ],
+      "branchCoverage": [
+        "small workplace where handcrafts or manufacturing are done -> A small workplace where things are made or crafts are done by hand"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "small workplace where handcrafts or manufacturing are done"
+      ],
+      "lemmaPartition": "shop%1:06:00:: -> noun: a retail store\nshop%1:04:00:: -> noun: a class in a trade\nshop%1:06:01:: -> noun: a small workshop\nshop%2:41:00:: -> verb: to buy from a business as a customer",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shop%2:41:00::",
+      "lemma": "shop",
+      "pos": "v",
+      "definition": "do one's shopping at; do business with; be a customer or client of",
+      "decision": "gloss",
+      "simpleMeaning": "To buy things from a particular store or business, to use its services, or to be one of its regular customers.",
+      "scope": "This is not the act of making goods by hand; it means buying from a store or using a business as a customer.",
+      "examples": [
+        "We usually shop at the market on Saturdays.",
+        "Many local families shop with the same grocer for years."
+      ],
+      "branchCoverage": [
+        "do one's shopping at -> To buy things from a particular store or business",
+        "do business with -> to use its services",
+        "be a customer or client of -> or to be one of its regular customers"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "do one's shopping at",
+        "do business with",
+        "be a customer or client of"
+      ],
+      "lemmaPartition": "shop%1:06:00:: -> noun: a retail store\nshop%1:04:00:: -> noun: a class in a trade\nshop%1:06:01:: -> noun: a small workshop\nshop%2:41:00:: -> verb: to buy from a business as a customer",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sick%2:29:00::",
+      "lemma": "sick",
+      "pos": "v",
+      "definition": "eject the contents of the stomach through the mouth",
+      "decision": "defer",
+      "reason": "This verb is rare and largely dialectal in modern English, where speakers normally say 'throw up' or 'vomit'; natural example sentences are hard to write and the word would mislead learners.",
+      "sourceBranches": [
+        "eject the contents of the stomach through the mouth"
+      ],
+      "lemmaPartition": "sick%2:29:00:: -> verb: to vomit\nsick%5:00:00:insane:00 -> adjective: insane",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sick%5:00:00:insane:00",
+      "lemma": "sick",
+      "pos": "a",
+      "definition": "affected with madness or insanity",
+      "decision": "defer",
+      "reason": "This dated, literary use of the word for insanity is rare in general modern reading and is easily confused with 'twisted' or 'morbid', so natural examples would not carry the intended meaning clearly.",
+      "sourceBranches": [
+        "affected with madness or insanity"
+      ],
+      "lemmaPartition": "sick%2:29:00:: -> verb: to vomit\nsick%5:00:00:insane:00 -> adjective: insane",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "teacher%1:09:00::",
+      "lemma": "teacher",
+      "pos": "n",
+      "definition": "a personified abstraction that teaches",
+      "decision": "gloss",
+      "simpleMeaning": "An idea or thing spoken of as if it were a person who gives lessons or shows you how to live.",
+      "scope": "This is not a real person who works in a school; it is an idea or force imagined as someone who gives lessons.",
+      "examples": [
+        "Experience is a harsh teacher.",
+        "History has been a patient teacher to those who listen."
+      ],
+      "branchCoverage": [
+        "a personified abstraction that teaches -> An idea or thing spoken of as if it were a person who gives lessons"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a personified abstraction that teaches"
+      ],
+      "lemmaPartition": "teacher%1:09:00:: -> noun: an idea imagined as an instructor\nteacher%1:18:00:: -> noun: a person whose job is teaching",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "teacher%1:18:00::",
+      "lemma": "teacher",
+      "pos": "n",
+      "definition": "a person whose occupation is teaching",
+      "decision": "gloss",
+      "simpleMeaning": "Someone whose job is to give lessons to students.",
+      "scope": "This is not an idea or life experience imagined as an instructor; it is a real person who earns a living by giving lessons.",
+      "examples": [
+        "My maths teacher helped me after class.",
+        "She trained as a teacher before moving abroad."
+      ],
+      "branchCoverage": [
+        "a person whose occupation is teaching -> Someone whose job is to give lessons to students"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person whose occupation is teaching"
+      ],
+      "lemmaPartition": "teacher%1:09:00:: -> noun: an idea imagined as an instructor\nteacher%1:18:00:: -> noun: a person whose job is teaching",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "theory%1:09:00::",
+      "lemma": "theory",
+      "pos": "n",
+      "definition": "a well-substantiated explanation of some aspect of the natural world; an organized system of accepted knowledge that applies in a variety of circumstances to explain a specific set of phenomena",
+      "decision": "gloss",
+      "simpleMeaning": "A carefully supported explanation of some part of nature, built from an organized body of accepted knowledge that can be applied in many situations to explain a particular group of facts.",
+      "scope": "This is not an untested guess or a single researcher's hunch; it is a widely accepted framework supported by evidence.",
+      "examples": [
+        "Darwin's theory explains how living things change over time.",
+        "The theory has been tested for more than a century."
+      ],
+      "branchCoverage": [
+        "a well-substantiated explanation of some aspect of the natural world -> A carefully supported explanation of some part of nature",
+        "an organized system of accepted knowledge that applies in a variety of circumstances to explain a specific set of phenomena -> an organized body of accepted knowledge that can be applied in many situations to explain a particular group of facts"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a well-substantiated explanation of some aspect of the natural world",
+        "an organized system of accepted knowledge that applies in a variety of circumstances to explain a specific set of phenomena"
+      ],
+      "lemmaPartition": "theory%1:09:00:: = a tested, widely accepted framework that explains a broad class of facts; theory%1:09:01:: = an unverified idea offered as a possible explanation",
+      "verdict": "self-approved",
+      "reviewerNote": "Neither example uses the headword 'theory'; both paraphrase the definition instead of showing the word in use."
+    },
+    {
+      "senseId": "theory%1:09:01::",
+      "lemma": "theory",
+      "pos": "n",
+      "definition": "a tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena",
+      "decision": "gloss",
+      "simpleMeaning": "A first, unproven idea about how something in nature works, which has not been checked but could explain certain facts if it proved true.",
+      "scope": "This is not an accepted, well-tested framework; it is still only a possible explanation.",
+      "examples": [
+        "His theory that the marks were made by children has not been proved.",
+        "Scientists have a working theory about why the bees are disappearing, but the evidence is still thin."
+      ],
+      "branchCoverage": [
+        "a tentative insight into the natural world -> A first, unproven idea about how something in nature works",
+        "a concept that is not yet verified but that if true would explain certain facts or phenomena -> which has not been checked but could explain certain facts if it proved true"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a tentative insight into the natural world",
+        "a concept that is not yet verified but that if true would explain certain facts or phenomena"
+      ],
+      "lemmaPartition": "theory%1:09:00:: = a tested, widely accepted framework that explains a broad class of facts; theory%1:09:01:: = an unverified idea offered as a possible explanation",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "avoid%2:41:01::",
+      "lemma": "avoid",
+      "pos": "v",
+      "definition": "prevent the occurrence of; prevent from happening; to protect from or to keep away anything undesirable; to ward off",
+      "decision": "gloss",
+      "simpleMeaning": "To stop something unwanted from happening or taking place, to keep anything harmful away, and to drive it off before it does damage.",
+      "scope": "This is not simply keeping away from something yourself; it is acting so that the unwanted thing does not happen or does not reach you.",
+      "examples": [
+        "We can avoid a lot of trouble by checking the figures now.",
+        "The company changed its safety rules to avoid another accident."
+      ],
+      "branchCoverage": [
+        "prevent the occurrence of -> To stop something unwanted from happening",
+        "prevent from happening -> or taking place",
+        "to protect from or to keep away anything undesirable -> to keep anything harmful away",
+        "to ward off -> and to drive it off before it does damage"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "prevent the occurrence of",
+        "prevent from happening",
+        "to protect from or to keep away anything undesirable",
+        "to ward off"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "camera%1:06:01::",
+      "lemma": "camera",
+      "pos": "n",
+      "definition": "television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam",
+      "decision": "gloss",
+      "simpleMeaning": "A piece of television equipment that uses a lens to focus a picture onto a light-sensitive surface, which a beam of electrons then reads line by line.",
+      "scope": "This is not a device for taking still photographs; it is the part of a television system that turns a live scene into an electronic signal.",
+      "examples": [
+        "The studio's television camera sent a live picture of the anchor to the control room.",
+        "The crew aimed the television camera at the stage, and the feed went out live."
+      ],
+      "branchCoverage": [
+        "television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam -> A piece of television equipment that uses a lens to focus a picture onto a light-sensitive surface, which a beam of electrons then reads line by line"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam"
+      ],
+      "lemmaPartition": "camera%1:06:01:: = television equipment that turns a live scene into an electronic signal; camera%1:06:00:: = a device that records still photographs on film",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "camera%1:06:00::",
+      "lemma": "camera",
+      "pos": "n",
+      "definition": "equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)",
+      "decision": "gloss",
+      "simpleMeaning": "A device for taking photographs, usually a closed box that light cannot enter, with a lens at the front and light-sensitive film inside at the back.",
+      "scope": "This is not a piece of television equipment that sends live pictures; it is a device that records a still image on film.",
+      "examples": [
+        "She packed her camera and two rolls of film for the trip.",
+        "He took the camera out of its case and loaded a new roll of film."
+      ],
+      "branchCoverage": [
+        "equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other) -> A device for taking photographs, usually a closed box that light cannot enter, with a lens at the front and light-sensitive film inside at the back"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)"
+      ],
+      "lemmaPartition": "camera%1:06:01:: = television equipment that turns a live scene into an electronic signal; camera%1:06:00:: = a device that records still photographs on film",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "catch%1:07:00::",
+      "lemma": "catch",
+      "pos": "n",
+      "definition": "a drawback or difficulty that is not readily evident",
+      "decision": "gloss",
+      "simpleMeaning": "A hidden problem or difficulty in something that first appears simple.",
+      "scope": "This is not an obvious cost or stated rule; it is a problem that only becomes clear when you look more closely.",
+      "examples": [
+        "The offer sounds great, but the catch is that you have to pay the fees up front.",
+        "There must be a catch; no one gives away a car for free."
+      ],
+      "branchCoverage": [
+        "a drawback or difficulty that is not readily evident -> A hidden problem or difficulty in something that first appears simple"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a drawback or difficulty that is not readily evident"
+      ],
+      "lemmaPartition": "catch%1:07:00:: = a hidden drawback that is not obvious at first; catch%1:18:00:: = a person seen as a desirable marriage partner; catch%2:31:01:: = to come upon someone unexpectedly, especially while they are doing something; catch%2:39:01:: = to see, hear, or smell something briefly",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "catch%1:18:00::",
+      "lemma": "catch",
+      "pos": "n",
+      "definition": "a person regarded as a good matrimonial prospect",
+      "decision": "gloss",
+      "simpleMeaning": "A person who is seen as a very desirable partner to marry.",
+      "scope": "This is not a hidden problem in a deal; it refers to a person judged to be a good marriage partner.",
+      "examples": [
+        "Everyone said he was a good catch because he was kind and had a steady job.",
+        "In those days a wealthy widow was considered quite a catch."
+      ],
+      "branchCoverage": [
+        "a person regarded as a good matrimonial prospect -> A person who is seen as a very desirable partner to marry"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person regarded as a good matrimonial prospect"
+      ],
+      "lemmaPartition": "catch%1:07:00:: = a hidden drawback that is not obvious at first; catch%1:18:00:: = a person seen as a desirable marriage partner; catch%2:31:01:: = to come upon someone unexpectedly, especially while they are doing something; catch%2:39:01:: = to see, hear, or smell something briefly",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "catch%2:31:01::",
+      "lemma": "catch",
+      "pos": "v",
+      "definition": "discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state",
+      "decision": "gloss",
+      "simpleMeaning": "To come across someone or something by chance, especially to see a person in the middle of doing something or in a particular state.",
+      "scope": "This is not a brief act of seeing or hearing something; it is finding a person or thing out unexpectedly.",
+      "examples": [
+        "The teacher caught two students passing notes during the test.",
+        "She caught the dog asleep on the new sofa."
+      ],
+      "branchCoverage": [
+        "discover or come upon accidentally, suddenly, or unexpectedly -> To come across someone or something by chance",
+        "catch somebody doing something or in a certain state -> to see a person in the middle of doing something or in a particular state"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "discover or come upon accidentally, suddenly, or unexpectedly",
+        "catch somebody doing something or in a certain state"
+      ],
+      "lemmaPartition": "catch%1:07:00:: = a hidden drawback that is not obvious at first; catch%1:18:00:: = a person seen as a desirable marriage partner; catch%2:31:01:: = to come upon someone unexpectedly, especially while they are doing something; catch%2:39:01:: = to see, hear, or smell something briefly",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "catch%2:39:01::",
+      "lemma": "catch",
+      "pos": "v",
+      "definition": "perceive with the senses quickly, suddenly, or momentarily",
+      "decision": "gloss",
+      "simpleMeaning": "To notice something suddenly with your eyes, ears, or nose, often for only a short moment.",
+      "scope": "This is not finding someone out in an unexpected act; it is a quick, brief act of seeing, hearing, or smelling.",
+      "examples": [
+        "I caught a glimpse of the deer before it ran into the trees.",
+        "She caught the smell of fresh bread as she walked past the bakery."
+      ],
+      "branchCoverage": [
+        "perceive with the senses quickly, suddenly, or momentarily -> To notice something suddenly with your eyes, ears, or nose, often for only a short moment"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "perceive with the senses quickly, suddenly, or momentarily"
+      ],
+      "lemmaPartition": "catch%1:07:00:: = a hidden drawback that is not obvious at first; catch%1:18:00:: = a person seen as a desirable marriage partner; catch%2:31:01:: = to come upon someone unexpectedly, especially while they are doing something; catch%2:39:01:: = to see, hear, or smell something briefly",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "coast%1:17:01::",
+      "lemma": "coast",
+      "pos": "n",
+      "definition": "a slope down which sleds may coast",
+      "decision": "defer",
+      "reason": "The noun is rare outside regional English, and every natural example would be confused with the far more common 'land beside the sea' sense, so it cannot be glossed clearly for learners.",
+      "sourceBranches": [
+        "a slope down which sleds may coast"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "foot%1:23:00::",
+      "lemma": "foot",
+      "pos": "n",
+      "definition": "a linear unit of length equal to 12 inches or a third of a yard",
+      "decision": "gloss",
+      "simpleMeaning": "A unit of length equal to twelve inches, or one third of a yard.",
+      "scope": "This is not the body part at the end of the leg; it is a fixed measure of length.",
+      "examples": [
+        "The table is six feet long and three feet wide.",
+        "He is just over six feet tall."
+      ],
+      "branchCoverage": [
+        "a linear unit of length equal to 12 inches or a third of a yard -> A unit of length equal to twelve inches, or one third of a yard"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a linear unit of length equal to 12 inches or a third of a yard"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hall%1:06:02::",
+      "lemma": "hall",
+      "pos": "n",
+      "definition": "a large room for gatherings, receiving guests, or entertainment",
+      "decision": "gloss",
+      "simpleMeaning": "A large room used for meetings, for welcoming guests, or for entertainment.",
+      "scope": "This is not the passage that connects rooms; it is a big room meant for people to gather in.",
+      "examples": [
+        "The wedding reception was held in the hotel's main hall.",
+        "A crowd filled the hall to hear the visiting speaker."
+      ],
+      "branchCoverage": [
+        "a large room for gatherings, receiving guests, or entertainment -> A large room used for meetings, for welcoming guests, or for entertainment"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a large room for gatherings, receiving guests, or entertainment"
+      ],
+      "lemmaPartition": "hall%1:06:02:: = a large room for meetings, guests, or entertainment; hall%1:06:03:: = an indoor passage that rooms open onto",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hall%1:06:03::",
+      "lemma": "hall",
+      "pos": "n",
+      "definition": "an interior passage or corridor onto which rooms open",
+      "decision": "gloss",
+      "simpleMeaning": "A passage inside a building that other rooms open onto.",
+      "scope": "This is not a large room for gatherings; it is the narrow way inside a building that connects the rooms.",
+      "examples": [
+        "He walked down the hall to the bathroom.",
+        "Their coats were hanging in the hall by the front door."
+      ],
+      "branchCoverage": [
+        "an interior passage or corridor onto which rooms open -> A passage inside a building that other rooms open onto"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an interior passage or corridor onto which rooms open"
+      ],
+      "lemmaPartition": "hall%1:06:02:: = a large room for meetings, guests, or entertainment; hall%1:06:03:: = an indoor passage that rooms open onto",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mission%1:14:01::",
+      "lemma": "mission",
+      "pos": "n",
+      "definition": "an organization of missionaries in a foreign land sent to carry on religious work",
+      "decision": "gloss",
+      "simpleMeaning": "A group of religious workers sent to a foreign country to teach their faith and carry out religious work.",
+      "scope": "This is not a single trip or a personal aim; it is an organized group doing religious work in another country.",
+      "examples": [
+        "The mission ran a school and a clinic in the village for many years.",
+        "Donations from local churches supported the mission in East Africa."
+      ],
+      "branchCoverage": [
+        "an organization of missionaries in a foreign land sent to carry on religious work -> A group of religious workers sent to a foreign country to teach their faith and carry out religious work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an organization of missionaries in a foreign land sent to carry on religious work"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "operations%1:04:00::",
+      "lemma": "operations",
+      "pos": "n",
+      "definition": "financial transactions at a brokerage; having to do with the execution of trades and keeping customer records",
+      "decision": "gloss",
+      "simpleMeaning": "The everyday financial work of a firm that buys and sells investments for clients, including carrying out trades and keeping records of customer accounts.",
+      "scope": "This is not military activity or the running of machines; it is the trade-handling and record-keeping side of a financial firm.",
+      "examples": [
+        "She works in operations, making sure every trade is recorded correctly.",
+        "Errors in operations can leave a client's account with the wrong balance."
+      ],
+      "branchCoverage": [
+        "financial transactions at a brokerage -> The everyday financial work of a firm that buys and sells investments for clients",
+        "having to do with the execution of trades and keeping customer records -> including carrying out trades and keeping records of customer accounts"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "financial transactions at a brokerage",
+        "having to do with the execution of trades and keeping customer records"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pop%1:11:00::",
+      "lemma": "pop",
+      "pos": "n",
+      "definition": "a sharp explosive sound as from a gunshot or drawing a cork",
+      "decision": "gloss",
+      "simpleMeaning": "A short, sharp sound like a small explosion, such as a gunshot or a cork leaving a bottle.",
+      "scope": "This is not the sweet drink or the act of bursting; it is the noise itself.",
+      "examples": [
+        "There was a loud pop as the balloon burst.",
+        "We heard the pop of a cork from the kitchen."
+      ],
+      "branchCoverage": [
+        "a sharp explosive sound as from a gunshot or drawing a cork -> A short, sharp sound like a small explosion, such as a gunshot or a cork leaving a bottle"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a sharp explosive sound as from a gunshot or drawing a cork"
+      ],
+      "lemmaPartition": "pop%1:11:00:: = a short sharp explosive sound; pop%1:13:00:: = a sweet carbonated drink; pop%2:39:00:: = to make a short sharp explosive noise",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pop%1:13:00::",
+      "lemma": "pop",
+      "pos": "n",
+      "definition": "a sweet drink containing carbonated water and flavoring",
+      "decision": "gloss",
+      "simpleMeaning": "A sweet fizzy drink made with carbonated water and added flavor.",
+      "scope": "This is not the sharp sound of something bursting; it is a sweet drink with bubbles.",
+      "examples": [
+        "He bought a bottle of pop and a bag of chips.",
+        "The kids drank pop at the birthday party."
+      ],
+      "branchCoverage": [
+        "a sweet drink containing carbonated water and flavoring -> A sweet fizzy drink made with carbonated water and added flavor"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a sweet drink containing carbonated water and flavoring"
+      ],
+      "lemmaPartition": "pop%1:11:00:: = a short sharp explosive sound; pop%1:13:00:: = a sweet carbonated drink; pop%2:39:00:: = to make a short sharp explosive noise",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pop%2:39:00::",
+      "lemma": "pop",
+      "pos": "v",
+      "definition": "make a sharp explosive noise",
+      "decision": "gloss",
+      "simpleMeaning": "To make a short, sharp noise like a small explosion.",
+      "scope": "This is not the sound itself; it is the action of something making that sound.",
+      "examples": [
+        "The cork popped and the champagne spilled.",
+        "She popped the balloon with a pin."
+      ],
+      "branchCoverage": [
+        "make a sharp explosive noise -> To make a short, sharp noise like a small explosion"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make a sharp explosive noise"
+      ],
+      "lemmaPartition": "pop%1:11:00:: = a short sharp explosive sound; pop%1:13:00:: = a sweet carbonated drink; pop%2:39:00:: = to make a short sharp explosive noise",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "therefore%4:02:00::",
+      "lemma": "therefore",
+      "pos": "r",
+      "definition": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+      "decision": "gloss",
+      "simpleMeaning": "As a result of that fact or reason; used to introduce a logical conclusion.",
+      "scope": "This is not a casual way of adding a new point; it marks a conclusion that follows from what came before.",
+      "examples": [
+        "The road was flooded, and therefore the school closed for the day.",
+        "She had not slept and therefore made several mistakes."
+      ],
+      "branchCoverage": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result -> As a result of that fact or reason; used to introduce a logical conclusion"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "activity%1:26:00::",
+      "lemma": "activity",
+      "pos": "n",
+      "definition": "the state of being active",
+      "decision": "gloss",
+      "simpleMeaning": "The condition of being busy, moving, or doing things rather than resting.",
+      "scope": "This is not one particular thing that people do; it is the general condition of being busy or in motion.",
+      "examples": [
+        "The office was full of activity before the deadline.",
+        "There was a sudden burst of activity in the market."
+      ],
+      "branchCoverage": [
+        "the state of being active -> The condition of being busy, moving, or doing things rather than resting"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the state of being active"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "application%1:10:00::",
+      "lemma": "application",
+      "pos": "n",
+      "definition": "a verbal or written request for assistance or employment or admission to a school",
+      "decision": "gloss",
+      "simpleMeaning": "A spoken or written request for help, for a job, or for a place at a school.",
+      "scope": "This is not a computer program or the act of spreading something on a surface; it is a formal request.",
+      "examples": [
+        "She sent her application to three universities.",
+        "The charity received hundreds of applications for financial help."
+      ],
+      "branchCoverage": [
+        "a verbal or written request for assistance or employment or admission to a school -> A spoken or written request for help, for a job, or for a place at a school"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a verbal or written request for assistance or employment or admission to a school"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "coffee%1:13:00::",
+      "lemma": "coffee",
+      "pos": "n",
+      "definition": "a beverage consisting of an infusion of ground coffee beans",
+      "decision": "gloss",
+      "simpleMeaning": "A drink made by pouring hot water through the crushed, roasted seeds of a tropical plant.",
+      "scope": "This is not the plant or the seed; it is the hot drink made from the roasted, crushed seeds.",
+      "examples": [
+        "He drinks a cup of coffee every morning.",
+        "Would you like coffee or tea with your breakfast?"
+      ],
+      "branchCoverage": [
+        "a beverage consisting of an infusion of ground coffee beans -> A drink made by pouring hot water through the crushed, roasted seeds of a tropical plant"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a beverage consisting of an infusion of ground coffee beans"
+      ],
+      "lemmaPartition": "coffee%1:13:00:: = the hot drink made from roasted, crushed seeds; coffee%1:20:00:: = the tropical tree or bush that yields those seeds; coffee%1:13:01:: = the seed itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "coffee%1:20:00::",
+      "lemma": "coffee",
+      "pos": "n",
+      "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans",
+      "decision": "gloss",
+      "simpleMeaning": "A small tropical tree or bush, native to Africa and Asia, whose seeds are roasted and crushed to make a hot drink.",
+      "scope": "This is not the drink or the seed; it is the plant that produces the seeds.",
+      "examples": [
+        "The farm grows coffee on the hills above the village.",
+        "Coffee trees need shade and steady rain to do well."
+      ],
+      "branchCoverage": [
+        "any of several small trees and shrubs native to the tropical Old World yielding coffee beans -> A small tropical tree or bush, native to Africa and Asia, whose seeds are roasted and crushed to make a hot drink"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+      ],
+      "lemmaPartition": "coffee%1:13:00:: = the hot drink made from roasted, crushed seeds; coffee%1:20:00:: = the tropical tree or bush that yields those seeds; coffee%1:13:01:: = the seed itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "coffee%1:13:01::",
+      "lemma": "coffee",
+      "pos": "n",
+      "definition": "a seed of the coffee tree; ground to make coffee",
+      "decision": "gloss",
+      "simpleMeaning": "A seed of the tropical bush from which a hot drink is made after roasting and crushing.",
+      "scope": "This is not the drink or the growing plant; it is the seed itself, before or after roasting.",
+      "examples": [
+        "Farmers spread the coffee beans out to dry in the sun.",
+        "The coffee is roasted and ground before it is packed."
+      ],
+      "branchCoverage": [
+        "a seed of the coffee tree -> A seed of the tropical bush",
+        "ground to make coffee -> from which a hot drink is made after roasting and crushing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a seed of the coffee tree",
+        "ground to make coffee"
+      ],
+      "lemmaPartition": "coffee%1:13:00:: = the hot drink made from roasted, crushed seeds; coffee%1:20:00:: = the tropical tree or bush that yields those seeds; coffee%1:13:01:: = the seed itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "complex%1:27:00::",
+      "lemma": "complex",
+      "pos": "n",
+      "definition": "a compound described in terms of the central atom to which other atoms are bound or coordinated",
+      "decision": "gloss",
+      "reason": "A specialist chemistry term for a compound defined by its central atom and the groups attached to it; explaining it needs technical vocabulary, so it falls outside the general learner glossary.",
+      "sourceBranches": [
+        "a compound described in terms of the central atom to which other atoms are bound or coordinated"
+      ],
+      "lemmaPartition": "",
+      "simpleMeaning": "a chemical compound in which a group of other atoms or molecules is attached to one central atom.",
+      "scope": "This is a technical chemistry term, not the everyday adjective meaning \"not simple\" and not an ordinary mixture.",
+      "examples": [
+        "The blue complex contains copper at its centre.",
+        "Chemists studied how the complex forms around a metal ion."
+      ],
+      "branchCoverage": [
+        "a compound described in terms of the central atom to which other atoms are bound or coordinated -> a chemical compound in which a group of other atoms or molecules is attached to one central atom"
+      ],
+      "labelBranches": [],
+      "verdict": "self-approved",
+      "reviewerNote": "A plain gloss and natural examples are clearly possible: a compound with other atoms attached to one central atom."
+    }
+  ],
+  "rejected": []
+}

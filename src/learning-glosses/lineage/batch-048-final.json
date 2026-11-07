@@ -1,0 +1,1127 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 48,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 46,
+    "defers": 4,
+    "firstPass": {
+      "approved": 38,
+      "of": 50,
+      "rate": 0.76
+    },
+    "selfApproved": [
+      "second%1:10:00::",
+      "number%1:10:07::",
+      "number%2:32:00::",
+      "lot%1:06:00::",
+      "name%2:31:00::",
+      "name%1:10:01::",
+      "name%2:31:01::",
+      "play%1:04:04::",
+      "play%1:10:02::",
+      "play%2:35:07::",
+      "set%2:30:00::"
+    ],
+    "selfDeferred": [
+      "set%2:30:06::"
+    ],
+    "lineage": {
+      "draft": "b3a30afb120c0fa14ea4f2ba4f3b2e39b5f5d1c897e8972a5f65b5c067948bee"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "keep%2:42:03::",
+      "lemma": "keep",
+      "pos": "v",
+      "definition": "fail to spoil or rot",
+      "decision": "gloss",
+      "simpleMeaning": "to remain in good condition and not go bad, as food does when stored well.",
+      "scope": "This sense is not about storing something or holding on to it, and not about continuing an activity; it describes food remaining unspoiled.",
+      "examples": [
+        "These apples keep well in a cool cellar.",
+        "The cheese kept for months because it was wrapped tightly."
+      ],
+      "branchCoverage": [
+        "fail to spoil or rot -> remain in good condition and not go bad"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fail to spoil or rot"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "free%2:41:07::",
+      "lemma": "free",
+      "pos": "v",
+      "definition": "grant relief or an exemption from a rule or requirement to",
+      "decision": "gloss",
+      "simpleMeaning": "to give someone relief from a rule or requirement by allowing them not to follow it.",
+      "scope": "This sense is not about releasing someone from physical restraint or captivity, and not about something costing no money; it concerns excusing someone from a rule or requirement.",
+      "examples": [
+        "The new law frees small businesses from several reporting rules.",
+        "She was freed from the requirement to wear a uniform."
+      ],
+      "branchCoverage": [
+        "grant relief or an exemption from a rule or requirement to -> to give someone relief from a rule or requirement by allowing them not to follow it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "grant relief or an exemption from a rule or requirement to"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "second%1:06:00::",
+      "lemma": "second",
+      "pos": "n",
+      "definition": "the gear that has the second lowest forward gear ratio in the gear box of a motor vehicle",
+      "decision": "gloss",
+      "simpleMeaning": "the forward gear in a car or truck that is one step above the lowest gear.",
+      "scope": "This sense is not first gear or any higher forward gear, and not a unit of time, a fight attendant, flawed goods, or a speech supporting a motion.",
+      "examples": [
+        "She shifted into second as the road began to climb.",
+        "He kept the truck in second through the narrow village streets."
+      ],
+      "branchCoverage": [
+        "the gear that has the second lowest forward gear ratio in the gear box of a motor vehicle -> the forward gear in a car or truck that is one step above the lowest gear"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the gear that has the second lowest forward gear ratio in the gear box of a motor vehicle"
+      ],
+      "lemmaPartition": "second%1:06:00:: = the forward gear just above the lowest gear; second%1:18:00:: = the official helper of a fighter in a duel or boxing match; second%1:06:01:: = flawed goods sold cheaply without a brand name; second%1:10:00:: = a speech formally supporting a motion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "second%1:18:00::",
+      "lemma": "second",
+      "pos": "n",
+      "definition": "the official attendant of a contestant in a duel or boxing match",
+      "decision": "gloss",
+      "simpleMeaning": "the official helper who looks after a contestant in a duel or boxing match.",
+      "scope": "This sense is not a unit of time or a place in a series, not a gear, not flawed merchandise, and not a speech supporting a motion; it is a person who assists a fighter.",
+      "examples": [
+        "His second handed him a towel between rounds.",
+        "In the duel, each man's second checked the pistols before the signal."
+      ],
+      "branchCoverage": [
+        "the official attendant of a contestant in a duel or boxing match -> the official helper who looks after a contestant in a duel or boxing match"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the official attendant of a contestant in a duel or boxing match"
+      ],
+      "lemmaPartition": "second%1:06:00:: = the forward gear just above the lowest gear; second%1:18:00:: = the official helper of a fighter in a duel or boxing match; second%1:06:01:: = flawed goods sold cheaply without a brand name; second%1:10:00:: = a speech formally supporting a motion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "second%1:06:01::",
+      "lemma": "second",
+      "pos": "n",
+      "definition": "merchandise that has imperfections; usually sold at a reduced price without the brand name",
+      "decision": "gloss",
+      "simpleMeaning": "an item with small flaws that is usually sold at a lower price and without a brand name.",
+      "scope": "This sense is not a person, a unit of time, a gear, or a speech supporting a motion; it refers to imperfect goods sold cheaply.",
+      "examples": [
+        "The shop sells factory seconds at half the usual price.",
+        "She bought a pair of seconds with a tiny scratch on one heel."
+      ],
+      "branchCoverage": [
+        "merchandise that has imperfections -> an item with small flaws",
+        "usually sold at a reduced price without the brand name -> usually sold at a lower price and without a brand name"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "merchandise that has imperfections",
+        "usually sold at a reduced price without the brand name"
+      ],
+      "lemmaPartition": "second%1:06:00:: = the forward gear just above the lowest gear; second%1:18:00:: = the official helper of a fighter in a duel or boxing match; second%1:06:01:: = flawed goods sold cheaply without a brand name; second%1:10:00:: = a speech formally supporting a motion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "second%1:10:00::",
+      "lemma": "second",
+      "pos": "n",
+      "definition": "a speech seconding a motion",
+      "decision": "gloss",
+      "simpleMeaning": "a speech that formally supports a motion put forward at a meeting.",
+      "scope": "This sense is not a unit of time, a gear, a fight attendant, or flawed merchandise; it is a formal statement of support for a proposal.",
+      "examples": [
+        "Her second was brief but persuasive.",
+        "He rose to deliver a second to the motion."
+      ],
+      "branchCoverage": [
+        "a speech seconding a motion -> a speech that formally supports a motion put forward at a meeting"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a speech seconding a motion"
+      ],
+      "lemmaPartition": "second%1:06:00:: = the forward gear just above the lowest gear; second%1:18:00:: = the official helper of a fighter in a duel or boxing match; second%1:06:01:: = flawed goods sold cheaply without a brand name; second%1:10:00:: = a speech formally supporting a motion",
+      "verdict": "self-approved",
+      "reviewerNote": "First example uses 'second' as the endorsement of a motion, not the speech itself."
+    },
+    {
+      "senseId": "away%4:02:05::",
+      "lemma": "away",
+      "pos": "r",
+      "definition": "indicating continuing action; continuously or steadily",
+      "decision": "gloss",
+      "simpleMeaning": "in a way that shows an action is going on without stopping or at a steady pace.",
+      "scope": "This sense is not about distance, departure, or being absent; it describes an action that keeps going.",
+      "examples": [
+        "They chatted away while the rain fell outside.",
+        "He sanded away at the old table all afternoon."
+      ],
+      "branchCoverage": [
+        "indicating continuing action -> shows an action is going on",
+        "continuously or steadily -> without stopping or at a steady pace"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "indicating continuing action",
+        "continuously or steadily"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%1:10:05::",
+      "lemma": "number",
+      "pos": "n",
+      "definition": "the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural)",
+      "decision": "gloss",
+      "simpleMeaning": "the grammar category that shows whether a noun, pronoun, or verb form is about one thing, two things, or many things.",
+      "scope": "This sense is not a numeral, a symbol for counting, an identification code, or an item in a series; it is the grammar feature of singular, dual, or plural form.",
+      "examples": [
+        "The number of a verb must agree with the number of its subject.",
+        "In this language, number is shown by a suffix on the noun."
+      ],
+      "branchCoverage": [
+        "the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural) -> the grammar category that shows whether a noun, pronoun, or verb form is about one thing, two things, or many things"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the grammatical category for the forms of nouns and pronouns and verbs that are used depending on the number of entities involved (singular or dual or plural)"
+      ],
+      "lemmaPartition": "number%1:10:05:: = the grammar category of singular, dual, or plural form; number%1:10:02:: = an identifying code for an account or membership; number%1:10:01:: = a written sign for a quantity; number%1:10:07:: = one labeled item in an ordered series; number%1:10:03:: = the digits used to call one telephone; number%2:32:00:: = to work out how many or how much there are; number%2:30:00:: = to set a maximum on how many are allowed (rare, archaic verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%1:10:02::",
+      "lemma": "number",
+      "pos": "n",
+      "definition": "a numeral or string of numerals that is used for identification and may be attached to accounts, memberships, etc.",
+      "decision": "gloss",
+      "simpleMeaning": "a numeral or row of numerals used to identify a person or thing, often printed on an account or membership card.",
+      "scope": "This sense is not a symbol used to do arithmetic, not the grammar feature of singular and plural, and not specifically a telephone contact code; it is an identifying code for an account, membership, or similar record.",
+      "examples": [
+        "Please write your account number on the form.",
+        "Her membership number is printed on the back of the card."
+      ],
+      "branchCoverage": [
+        "a numeral or string of numerals that is used for identification and may be attached to accounts, memberships, etc -> a numeral or row of numerals used to identify a person or thing, often printed on an account or membership card"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a numeral or string of numerals that is used for identification and may be attached to accounts, memberships, etc"
+      ],
+      "lemmaPartition": "number%1:10:05:: = the grammar category of singular, dual, or plural form; number%1:10:02:: = an identifying code for an account or membership; number%1:10:01:: = a written sign for a quantity; number%1:10:07:: = one labeled item in an ordered series; number%1:10:03:: = the digits used to call one telephone; number%2:32:00:: = to work out how many or how much there are; number%2:30:00:: = to set a maximum on how many are allowed (rare, archaic verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%1:10:01::",
+      "lemma": "number",
+      "pos": "n",
+      "definition": "a symbol used to represent a number",
+      "decision": "gloss",
+      "simpleMeaning": "one of the written signs, such as 0, 5, or 9, that stand for quantities.",
+      "scope": "This sense is not the quantity itself, not an identification code, and not the grammar category of singular and plural; it is the written sign for a quantity.",
+      "examples": [
+        "Write the answer as a number, not as a word.",
+        "In this font, the number 1 is just a plain vertical line."
+      ],
+      "branchCoverage": [
+        "a symbol used to represent a number -> one of the written signs, such as 0, 5, or 9, that stand for quantities"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a symbol used to represent a number"
+      ],
+      "lemmaPartition": "number%1:10:05:: = the grammar category of singular, dual, or plural form; number%1:10:02:: = an identifying code for an account or membership; number%1:10:01:: = a written sign for a quantity; number%1:10:07:: = one labeled item in an ordered series; number%1:10:03:: = the digits used to call one telephone; number%2:32:00:: = to work out how many or how much there are; number%2:30:00:: = to set a maximum on how many are allowed (rare, archaic verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%1:10:07::",
+      "lemma": "number",
+      "pos": "n",
+      "definition": "a numbered item in a series",
+      "decision": "gloss",
+      "simpleMeaning": "one part of a series that is labeled with a figure to show its place.",
+      "scope": "This sense is not a written sign for a quantity, not an identification code, and not the grammar category of singular and plural; it is a single labeled item within an ordered series.",
+      "examples": [
+        "Each number in the catalogue stands for one painting.",
+        "Number five in the list was missing."
+      ],
+      "branchCoverage": [
+        "a numbered item in a series -> one part of a series that is labeled with a figure to show its place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a numbered item in a series"
+      ],
+      "lemmaPartition": "number%1:10:05:: = the grammar category of singular, dual, or plural form; number%1:10:02:: = an identifying code for an account or membership; number%1:10:01:: = a written sign for a quantity; number%1:10:07:: = one labeled item in an ordered series; number%1:10:03:: = the digits used to call one telephone; number%2:32:00:: = to work out how many or how much there are; number%2:30:00:: = to set a maximum on how many are allowed (rare, archaic verb)",
+      "verdict": "self-approved",
+      "reviewerNote": "The piano-solo example uses 'number' for a performance, without showing it is a numbered item in a series."
+    },
+    {
+      "senseId": "number%1:10:03::",
+      "lemma": "number",
+      "pos": "n",
+      "definition": "the number is used in calling a particular telephone",
+      "decision": "gloss",
+      "simpleMeaning": "the digits that are dialed to reach one particular telephone.",
+      "scope": "This sense is not an account or membership code, not a written sign for a quantity, and not the grammar feature of singular and plural; it is specifically the digits used to call one telephone.",
+      "examples": [
+        "I wrote down her number before she left.",
+        "He dialed the number twice but no one answered."
+      ],
+      "branchCoverage": [
+        "the number is used in calling a particular telephone -> the digits that are dialed to reach one particular telephone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the number is used in calling a particular telephone"
+      ],
+      "lemmaPartition": "number%1:10:05:: = the grammar category of singular, dual, or plural form; number%1:10:02:: = an identifying code for an account or membership; number%1:10:01:: = a written sign for a quantity; number%1:10:07:: = one labeled item in an ordered series; number%1:10:03:: = the digits used to call one telephone; number%2:32:00:: = to work out how many or how much there are; number%2:30:00:: = to set a maximum on how many are allowed (rare, archaic verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%2:32:00::",
+      "lemma": "number",
+      "pos": "v",
+      "definition": "determine the number or amount of",
+      "decision": "gloss",
+      "simpleMeaning": "to work out how many things or how much of something there are.",
+      "scope": "This sense is not about putting a limit on how many are allowed, and not about giving something a label or a place in a series; it is about finding out the total.",
+      "examples": [
+        "She counted and numbered the coins in the jar.",
+        "The officer numbered the crowd at about two hundred."
+      ],
+      "branchCoverage": [
+        "determine the number or amount of -> to work out how many things or how much of something there are"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "determine the number or amount of"
+      ],
+      "lemmaPartition": "number%1:10:05:: = the grammar category of singular, dual, or plural form; number%1:10:02:: = an identifying code for an account or membership; number%1:10:01:: = a written sign for a quantity; number%1:10:07:: = one labeled item in an ordered series; number%1:10:03:: = the digits used to call one telephone; number%2:32:00:: = to work out how many or how much there are; number%2:30:00:: = to set a maximum on how many are allowed (rare, archaic verb)",
+      "verdict": "self-approved",
+      "reviewerNote": "Both examples of 'numbered' suggest assigning serial labels, not determining how many people or coins there are."
+    },
+    {
+      "senseId": "number%2:30:00::",
+      "lemma": "number",
+      "pos": "v",
+      "definition": "place a limit on the number of",
+      "decision": "defer",
+      "reason": "This verb sense (setting a maximum on how many are allowed) is rare and archaic in modern English; any natural-looking example would be read as the common 'count' or 'assign a number' sense, so the sense cannot be illustrated clearly with two idiomatic sentences.",
+      "sourceBranches": [
+        "place a limit on the number of"
+      ],
+      "lemmaPartition": "number%1:10:05:: = the grammar category of singular, dual, or plural form; number%1:10:02:: = an identifying code for an account or membership; number%1:10:01:: = a written sign for a quantity; number%1:10:07:: = one labeled item in an ordered series; number%1:10:03:: = the digits used to call one telephone; number%2:32:00:: = to work out how many or how much there are; number%2:30:00:: = to set a maximum on how many are allowed (rare, archaic verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lot%1:06:00::",
+      "lemma": "lot",
+      "pos": "n",
+      "definition": "anything (straws or pebbles etc.) taken or chosen at random",
+      "decision": "gloss",
+      "simpleMeaning": "any small object, such as a straw or a pebble, that is picked at random, especially to settle a choice.",
+      "scope": "This sense is not a large amount, a piece of land, or a group of items sold together; it is a random object used to make a choice.",
+      "examples": [
+        "They shook the lots in a cup before drawing one.",
+        "Each lot was a small pebble marked with a name."
+      ],
+      "branchCoverage": [
+        "anything (straws or pebbles etc.) taken or chosen at random -> any small object, such as a straw or a pebble, that is picked at random, especially to settle a choice"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "anything (straws or pebbles etc.) taken or chosen at random"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Chosen by lot' describes a method of random choice, not the randomly selected object specified by this sense."
+    },
+    {
+      "senseId": "name%2:31:00::",
+      "lemma": "name",
+      "pos": "v",
+      "definition": "determine or distinguish the nature of a problem or an illness through a diagnostic analysis",
+      "decision": "gloss",
+      "simpleMeaning": "to work out exactly what kind of problem or illness it is by examining the signs.",
+      "scope": "This sense is not about giving someone or something a label or title, and not about identifying a plant or animal species; it is about working out the nature of a problem or illness.",
+      "examples": [
+        "The doctor could not name the disease without more tests.",
+        "Investigators named the cause of the crash after examining the wreckage."
+      ],
+      "branchCoverage": [
+        "determine or distinguish the nature of a problem or an illness through a diagnostic analysis -> to work out exactly what kind of problem or illness it is by examining the signs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "determine or distinguish the nature of a problem or an illness through a diagnostic analysis"
+      ],
+      "lemmaPartition": "name%2:31:00:: = to work out what kind of problem or illness something is by diagnosis; name%1:10:01:: = an insulting word or phrase; name%2:31:01:: = to identify the kind of plant or animal",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'someone has', narrowing the sense; the crash-cause example then does not match."
+    },
+    {
+      "senseId": "name%1:10:01::",
+      "lemma": "name",
+      "pos": "n",
+      "definition": "a defamatory or abusive word or phrase",
+      "decision": "gloss",
+      "simpleMeaning": "an insulting or abusive word or phrase.",
+      "scope": "This sense is not a person's proper name or the title of a thing, and not a famous reputation; it is an insulting word or phrase.",
+      "examples": [
+        "He called her names in front of the whole class.",
+        "The crowd shouted names at the referee."
+      ],
+      "branchCoverage": [
+        "a defamatory or abusive word or phrase -> an insulting or abusive word or phrase"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a defamatory or abusive word or phrase"
+      ],
+      "lemmaPartition": "name%2:31:00:: = to work out what kind of problem or illness something is by diagnosis; name%1:10:01:: = an insulting word or phrase; name%2:31:01:: = to identify the kind of plant or animal",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss requires an attack on someone's reputation, excluding abusive insults that do not damage reputation; both examples are ordinary name-calling."
+    },
+    {
+      "senseId": "name%2:31:01::",
+      "lemma": "name",
+      "pos": "v",
+      "definition": "identify as in botany or biology, for example",
+      "decision": "gloss",
+      "simpleMeaning": "to identify the kind of living thing something is, as in botany or biology.",
+      "scope": "This sense is not about working out what is wrong with an illness or problem, and not about giving a label or an insult; it is about identifying a living thing's kind.",
+      "examples": [
+        "The guide named the bird from its song.",
+        "She named the wildflower using a field guide."
+      ],
+      "branchCoverage": [
+        "identify as in botany or biology, for example -> to identify the kind of living thing something is, as in botany or biology"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "identify as in botany or biology, for example"
+      ],
+      "lemmaPartition": "name%2:31:00:: = to work out what kind of problem or illness something is by diagnosis; name%1:10:01:: = an insulting word or phrase; name%2:31:01:: = to identify the kind of plant or animal",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss limits biological identification to plants and animals, excluding fungi and other organisms; the original says botany or biology only as examples."
+    },
+    {
+      "senseId": "night%1:28:05::",
+      "lemma": "night",
+      "pos": "n",
+      "definition": "a shortening of nightfall",
+      "decision": "gloss",
+      "simpleMeaning": "a short way of saying the time when daylight fades and darkness comes.",
+      "scope": "This sense is not the whole dark period between sunset and sunrise, and not the word for a difficult or sad time; it refers to the moment when daylight ends.",
+      "examples": [
+        "The farmers hurried to bring in the hay before night.",
+        "Night was falling fast as we reached the village."
+      ],
+      "branchCoverage": [
+        "a shortening of nightfall -> a short way of saying the time when daylight fades and darkness comes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a shortening of nightfall"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%1:04:00::",
+      "lemma": "play",
+      "pos": "n",
+      "definition": "gay or light-hearted recreational activity for diversion or amusement",
+      "decision": "gloss",
+      "simpleMeaning": "cheerful, light activity done for fun rather than for a serious purpose.",
+      "scope": "This sense is not a stage drama, not a move in a sport, and not a joke at someone's expense; it is light activity done for enjoyment.",
+      "examples": [
+        "The park was full of the sounds of play.",
+        "The puppies' play filled the kitchen with noise."
+      ],
+      "branchCoverage": [
+        "gay or light-hearted recreational activity for diversion or amusement -> cheerful, light activity done for fun rather than for a serious purpose"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "gay or light-hearted recreational activity for diversion or amusement"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light activity done for fun; play%1:04:04:: = a skillful planned move in a sport; play%1:10:02:: = teasing or mocking talk not meant seriously; play%2:35:07:: = to direct or give out a steady stream; play%2:41:00:: = to spend free time on enjoyable activities instead of work; play%2:41:03:: = to amuse oneself in a childlike, playful way; play%1:04:07:: = the vigorous, skillful use of a sword or other weapon; play%2:35:00:: = to handle or turn something over in the hand or mind; play%2:36:05:: = to make a recording produce sound or pictures; play%2:36:06:: = to pretend to be someone in a game; play%2:38:03:: = to let something move or work freely within a space; play%2:41:13:: = to act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%1:04:04::",
+      "lemma": "play",
+      "pos": "n",
+      "definition": "a deliberate coordinated movement requiring dexterity and skill",
+      "decision": "gloss",
+      "simpleMeaning": "a deliberate, coordinated movement that needs skill and dexterity.",
+      "scope": "This sense is not free play for fun, not a stage drama, and not wordplay or mockery; it is a skillful coordinated movement.",
+      "examples": [
+        "The coach praised the team's final play of the game.",
+        "It was a clever play that caught the defense off guard."
+      ],
+      "branchCoverage": [
+        "a deliberate coordinated movement requiring dexterity and skill -> a deliberate, coordinated movement that needs skill and dexterity"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a deliberate coordinated movement requiring dexterity and skill"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light activity done for fun; play%1:04:04:: = a skillful planned move in a sport; play%1:10:02:: = teasing or mocking talk not meant seriously; play%2:35:07:: = to direct or give out a steady stream; play%2:41:00:: = to spend free time on enjoyable activities instead of work; play%2:41:03:: = to amuse oneself in a childlike, playful way; play%1:04:07:: = the vigorous, skillful use of a sword or other weapon; play%2:35:00:: = to handle or turn something over in the hand or mind; play%2:36:05:: = to make a recording produce sound or pictures; play%2:36:06:: = to pretend to be someone in a game; play%2:38:03:: = to let something move or work freely within a space; play%2:41:13:: = to act carelessly or without concern",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss confines a coordinated skillful movement to sports, though the source definition does not; 'planned' also overstates 'deliberate'."
+    },
+    {
+      "senseId": "play%1:10:02::",
+      "lemma": "play",
+      "pos": "n",
+      "definition": "verbal wit or mockery (often at another's expense but not to be taken seriously)",
+      "decision": "gloss",
+      "simpleMeaning": "clever teasing or mocking remarks, often aimed at someone but not to be taken seriously.",
+      "scope": "This sense is not a stage drama, not a skillful move in a sport, and not light activity for fun; it is joking or mocking talk.",
+      "examples": [
+        "She called him a fool in play, and he laughed.",
+        "He only said it in play, so don't take it to heart."
+      ],
+      "branchCoverage": [
+        "verbal wit or mockery (often at another's expense but not to be taken seriously) -> clever teasing or mocking remarks, often aimed at someone but not to be taken seriously"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "verbal wit or mockery (often at another's expense but not to be taken seriously)"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light activity done for fun; play%1:04:04:: = a skillful planned move in a sport; play%1:10:02:: = teasing or mocking talk not meant seriously; play%2:35:07:: = to direct or give out a steady stream; play%2:41:00:: = to spend free time on enjoyable activities instead of work; play%2:41:03:: = to amuse oneself in a childlike, playful way; play%1:04:07:: = the vigorous, skillful use of a sword or other weapon; play%2:35:00:: = to handle or turn something over in the hand or mind; play%2:36:05:: = to make a recording produce sound or pictures; play%2:36:06:: = to pretend to be someone in a game; play%2:38:03:: = to let something move or work freely within a space; play%2:41:13:: = to act carelessly or without concern",
+      "verdict": "self-approved",
+      "reviewerNote": "'Not meant to hurt' does not mean 'not to be taken seriously'; the second example does not establish wit or mockery."
+    },
+    {
+      "senseId": "play%2:35:07::",
+      "lemma": "play",
+      "pos": "v",
+      "definition": "discharge or direct or be discharged or directed as if in a continuous stream",
+      "decision": "gloss",
+      "simpleMeaning": "to send out or direct something in a steady stream, or to be sent out that way.",
+      "scope": "This sense is not about games, music, acting, or a sports move; it is about sending out or directing a steady stream of something.",
+      "examples": [
+        "Firefighters played water on the flames.",
+        "A fine spray played over the crowd from the fountain."
+      ],
+      "branchCoverage": [
+        "discharge or direct or be discharged or directed as if in a continuous stream -> to send out or direct something in a steady stream, or to be sent out that way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "discharge or direct or be discharged or directed as if in a continuous stream"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light activity done for fun; play%1:04:04:: = a skillful planned move in a sport; play%1:10:02:: = teasing or mocking talk not meant seriously; play%2:35:07:: = to direct or give out a steady stream; play%2:41:00:: = to spend free time on enjoyable activities instead of work; play%2:41:03:: = to amuse oneself in a childlike, playful way; play%1:04:07:: = the vigorous, skillful use of a sword or other weapon; play%2:35:00:: = to handle or turn something over in the hand or mind; play%2:36:05:: = to make a recording produce sound or pictures; play%2:36:06:: = to pretend to be someone in a game; play%2:38:03:: = to let something move or work freely within a space; play%2:41:13:: = to act carelessly or without concern",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope confines the continuous-stream sense to liquid or spray, excluding streams of light; the gloss's passive form is also awkward."
+    },
+    {
+      "senseId": "play%2:41:00::",
+      "lemma": "play",
+      "pos": "v",
+      "definition": "engage in recreational activities rather than work; occupy oneself in a diversion",
+      "decision": "gloss",
+      "simpleMeaning": "to spend time on enjoyable activities rather than work, as a way to amuse oneself.",
+      "scope": "This sense is not about children amusing themselves in a childlike way, not about performing music or taking a role, and not about careless behavior; it is about spending free time on enjoyable activity instead of work.",
+      "examples": [
+        "We played cards after dinner.",
+        "After the meeting, the team played a few rounds of darts."
+      ],
+      "branchCoverage": [
+        "engage in recreational activities rather than work -> to spend time on enjoyable activities rather than work",
+        "occupy oneself in a diversion -> as a way to amuse oneself"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "engage in recreational activities rather than work",
+        "occupy oneself in a diversion"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light activity done for fun; play%1:04:04:: = a skillful planned move in a sport; play%1:10:02:: = teasing or mocking talk not meant seriously; play%2:35:07:: = to direct or give out a steady stream; play%2:41:00:: = to spend free time on enjoyable activities instead of work; play%2:41:03:: = to amuse oneself in a childlike, playful way; play%1:04:07:: = the vigorous, skillful use of a sword or other weapon; play%2:35:00:: = to handle or turn something over in the hand or mind; play%2:36:05:: = to make a recording produce sound or pictures; play%2:36:06:: = to pretend to be someone in a game; play%2:38:03:: = to let something move or work freely within a space; play%2:41:13:: = to act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%2:41:03::",
+      "lemma": "play",
+      "pos": "v",
+      "definition": "be at play; be engaged in playful activity; amuse oneself in a way characteristic of children",
+      "decision": "gloss",
+      "simpleMeaning": "to be busy with fun, lively activity and amuse oneself in the way children do.",
+      "scope": "This sense is not about adult recreation such as cards or sports, not about a staged performance, and not about careless behavior; it is the free, childlike kind of playing.",
+      "examples": [
+        "The children played happily with their toys.",
+        "Two kittens played on the rug."
+      ],
+      "branchCoverage": [
+        "be at play -> to be busy with fun, lively activity",
+        "be engaged in playful activity -> busy with fun, lively activity",
+        "amuse oneself in a way characteristic of children -> amuse oneself in the way children do"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be at play",
+        "be engaged in playful activity",
+        "amuse oneself in a way characteristic of children"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light activity done for fun; play%1:04:04:: = a skillful planned move in a sport; play%1:10:02:: = teasing or mocking talk not meant seriously; play%2:35:07:: = to direct or give out a steady stream; play%2:41:00:: = to spend free time on enjoyable activities instead of work; play%2:41:03:: = to amuse oneself in a childlike, playful way; play%1:04:07:: = the vigorous, skillful use of a sword or other weapon; play%2:35:00:: = to handle or turn something over in the hand or mind; play%2:36:05:: = to make a recording produce sound or pictures; play%2:36:06:: = to pretend to be someone in a game; play%2:38:03:: = to let something move or work freely within a space; play%2:41:13:: = to act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%1:04:07::",
+      "lemma": "play",
+      "pos": "n",
+      "definition": "the act using a sword (or other weapon) vigorously and skillfully",
+      "decision": "gloss",
+      "simpleMeaning": "The act of fighting with a sword or another weapon in a vigorous and skillful way.",
+      "scope": "This is not light-hearted fun, not a single planned move in a sport and not teasing talk; it is armed fighting done with energy and skill.",
+      "examples": [
+        "The crowd watched the swift, skillful swordplay between the two duelists.",
+        "During the bout, her play with the rapier was fast and precise, and the judges gave her the win."
+      ],
+      "branchCoverage": [
+        "the act using a sword (or other weapon) vigorously and skillfully -> The act of fighting with a sword or another weapon in a vigorous and skillful way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act using a sword (or other weapon) vigorously and skillfully"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light-hearted recreation for fun; play%1:04:04:: = a skilled, coordinated movement such as a stroke or feint; play%1:10:02:: = witty or mocking talk, often teasing; play%2:35:07:: = send out or direct something in a continuous stream; play%2:41:00:: = spend time on recreation instead of work; play%2:41:03:: = amuse oneself as children do; play%1:04:07:: = vigorous, skilled use of a sword or other weapon; play%2:35:00:: = handle something by hand or turn it over in the mind; play%2:36:05:: = start a recording so sound or pictures come out; play%2:36:06:: = pretend to be a character in a game; play%2:38:03:: = move or make something move freely within a set space; play%2:41:13:: = act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%2:35:00::",
+      "lemma": "play",
+      "pos": "v",
+      "definition": "manipulate manually or in one's mind or imagination",
+      "decision": "gloss",
+      "simpleMeaning": "To handle something with the hands, or to turn something over in the mind or imagination.",
+      "scope": "This is not taking part in a game or sport, not acting a role and not starting a recording; it is handling something by hand or turning an idea over in the mind.",
+      "examples": [
+        "She played with the loose thread on her sleeve while she waited.",
+        "He played with the idea of moving abroad for a year."
+      ],
+      "branchCoverage": [
+        "manipulate manually or in one's mind or imagination -> To handle something with the hands, or to turn something over in the mind or imagination"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "manipulate manually or in one's mind or imagination"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light-hearted recreation for fun; play%1:04:04:: = a skilled, coordinated movement such as a stroke or feint; play%1:10:02:: = witty or mocking talk, often teasing; play%2:35:07:: = send out or direct something in a continuous stream; play%2:41:00:: = spend time on recreation instead of work; play%2:41:03:: = amuse oneself as children do; play%1:04:07:: = vigorous, skilled use of a sword or other weapon; play%2:35:00:: = handle something by hand or turn it over in the mind; play%2:36:05:: = start a recording so sound or pictures come out; play%2:36:06:: = pretend to be a character in a game; play%2:38:03:: = move or make something move freely within a set space; play%2:41:13:: = act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%2:36:05::",
+      "lemma": "play",
+      "pos": "v",
+      "definition": "cause to emit recorded audio or video",
+      "decision": "gloss",
+      "simpleMeaning": "To make a device produce recorded sound or pictures.",
+      "scope": "This is not taking part in a game, not acting a character and not making live music; it is setting a recording going so that it can be heard or seen.",
+      "examples": [
+        "He played the same song three times on the car stereo.",
+        "The teacher played the video for the whole class."
+      ],
+      "branchCoverage": [
+        "cause to emit recorded audio or video -> To make a device produce recorded sound or pictures"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cause to emit recorded audio or video"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light-hearted recreation for fun; play%1:04:04:: = a skilled, coordinated movement such as a stroke or feint; play%1:10:02:: = witty or mocking talk, often teasing; play%2:35:07:: = send out or direct something in a continuous stream; play%2:41:00:: = spend time on recreation instead of work; play%2:41:03:: = amuse oneself as children do; play%1:04:07:: = vigorous, skilled use of a sword or other weapon; play%2:35:00:: = handle something by hand or turn it over in the mind; play%2:36:05:: = start a recording so sound or pictures come out; play%2:36:06:: = pretend to be a character in a game; play%2:38:03:: = move or make something move freely within a set space; play%2:41:13:: = act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%2:36:06::",
+      "lemma": "play",
+      "pos": "v",
+      "definition": "pretend to be somebody in the framework of a game or playful activity",
+      "decision": "gloss",
+      "simpleMeaning": "To act the part of a character while taking part in a game or other fun activity.",
+      "scope": "This is not performing in a written drama, not taking part in a sport and not producing recorded sound; it is pretending to be someone as part of a game.",
+      "examples": [
+        "The children played pirates, using sticks as swords.",
+        "In the classroom game, he played a shopkeeper and she played a customer."
+      ],
+      "branchCoverage": [
+        "pretend to be somebody in the framework of a game or playful activity -> To act the part of a character while taking part in a game or other fun activity"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pretend to be somebody in the framework of a game or playful activity"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light-hearted recreation for fun; play%1:04:04:: = a skilled, coordinated movement such as a stroke or feint; play%1:10:02:: = witty or mocking talk, often teasing; play%2:35:07:: = send out or direct something in a continuous stream; play%2:41:00:: = spend time on recreation instead of work; play%2:41:03:: = amuse oneself as children do; play%1:04:07:: = vigorous, skilled use of a sword or other weapon; play%2:35:00:: = handle something by hand or turn it over in the mind; play%2:36:05:: = start a recording so sound or pictures come out; play%2:36:06:: = pretend to be a character in a game; play%2:38:03:: = move or make something move freely within a set space; play%2:41:13:: = act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%2:38:03::",
+      "lemma": "play",
+      "pos": "v",
+      "definition": "cause to move or operate freely within a bounded space",
+      "decision": "gloss",
+      "simpleMeaning": "To move, or to make something move, freely inside a fixed area or range.",
+      "scope": "This is not producing recorded sound, not pretending to be a character and not behaving carelessly; it is free movement inside a set space.",
+      "examples": [
+        "The rope played through the pulley as the sail swung round.",
+        "Check that the chain can play freely inside its guard."
+      ],
+      "branchCoverage": [
+        "cause to move or operate freely within a bounded space -> To move, or to make something move, freely inside a fixed area or range"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cause to move or operate freely within a bounded space"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light-hearted recreation for fun; play%1:04:04:: = a skilled, coordinated movement such as a stroke or feint; play%1:10:02:: = witty or mocking talk, often teasing; play%2:35:07:: = send out or direct something in a continuous stream; play%2:41:00:: = spend time on recreation instead of work; play%2:41:03:: = amuse oneself as children do; play%1:04:07:: = vigorous, skilled use of a sword or other weapon; play%2:35:00:: = handle something by hand or turn it over in the mind; play%2:36:05:: = start a recording so sound or pictures come out; play%2:36:06:: = pretend to be a character in a game; play%2:38:03:: = move or make something move freely within a set space; play%2:41:13:: = act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "play%2:41:13::",
+      "lemma": "play",
+      "pos": "v",
+      "definition": "behave carelessly or indifferently",
+      "decision": "gloss",
+      "simpleMeaning": "To act in a careless or unconcerned way.",
+      "scope": "This is not taking part in a game or sport, not pretending to be a character and not handling an object; it is behaving without care or concern for the results.",
+      "examples": [
+        "Stop playing with her feelings and tell her the truth.",
+        "He played fast and loose with the safety rules."
+      ],
+      "branchCoverage": [
+        "behave carelessly or indifferently -> To act in a careless or unconcerned way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "behave carelessly or indifferently"
+      ],
+      "lemmaPartition": "play%1:04:00:: = light-hearted recreation for fun; play%1:04:04:: = a skilled, coordinated movement such as a stroke or feint; play%1:10:02:: = witty or mocking talk, often teasing; play%2:35:07:: = send out or direct something in a continuous stream; play%2:41:00:: = spend time on recreation instead of work; play%2:41:03:: = amuse oneself as children do; play%1:04:07:: = vigorous, skilled use of a sword or other weapon; play%2:35:00:: = handle something by hand or turn it over in the mind; play%2:36:05:: = start a recording so sound or pictures come out; play%2:36:06:: = pretend to be a character in a game; play%2:38:03:: = move or make something move freely within a set space; play%2:41:13:: = act carelessly or without concern",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "company%1:14:00::",
+      "lemma": "company",
+      "pos": "n",
+      "definition": "a social gathering of guests or companions",
+      "decision": "gloss",
+      "simpleMeaning": "A group of guests or friends meeting together for social reasons.",
+      "scope": "This is not a business firm, not a troupe of performers and not the state of having someone with you; it is the gathering of people itself.",
+      "examples": [
+        "We are expecting company for dinner on Sunday.",
+        "A merry company of friends gathered around the fire."
+      ],
+      "branchCoverage": [
+        "a social gathering of guests or companions -> A group of guests or friends meeting together for social reasons"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a social gathering of guests or companions"
+      ],
+      "lemmaPartition": "company%1:14:00:: = a social gathering of guests or friends; company%1:14:02:: = a performing group with its support staff, especially in theater",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "company%1:14:02::",
+      "lemma": "company",
+      "pos": "n",
+      "definition": "organization of performers and associated personnel (especially theatrical)",
+      "decision": "gloss",
+      "simpleMeaning": "A group of performers together with the staff who support them, especially one that puts on plays.",
+      "scope": "This is not a business firm, not a group of guests at a social event and not a unit of soldiers; it is a performing group with its support staff.",
+      "examples": [
+        "She joined a touring theater company after drama school.",
+        "The ballet company rehearsed for weeks before opening night."
+      ],
+      "branchCoverage": [
+        "organization of performers and associated personnel (especially theatrical) -> A group of performers together with the staff who support them, especially one that puts on plays"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "organization of performers and associated personnel (especially theatrical)"
+      ],
+      "lemmaPartition": "company%1:14:00:: = a social gathering of guests or friends; company%1:14:02:: = a performing group with its support staff, especially in theater",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "real%3:00:03::",
+      "lemma": "real",
+      "pos": "a",
+      "definition": "having substance or capable of being treated as fact; not imaginary",
+      "decision": "gloss",
+      "simpleMeaning": "Existing in fact and able to be treated as true rather than imagined.",
+      "scope": "This is not the sense of showing something's true inner character, and it is not a mathematical term; it means actually existing rather than imagined.",
+      "examples": [
+        "The threat of a strike was real, and the managers took it seriously.",
+        "Her fear of flying is real, not something she makes up for attention."
+      ],
+      "branchCoverage": [
+        "having substance or capable of being treated as fact -> Existing in fact and able to be treated as true",
+        "not imaginary -> rather than imagined"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having substance or capable of being treated as fact",
+        "not imaginary"
+      ],
+      "lemmaPartition": "real%3:00:03:: = actually existing rather than imagined; real%5:00:00:true:00:: = expressing the genuine, essential nature of something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "real%5:00:00:true:00",
+      "lemma": "real",
+      "pos": "a",
+      "definition": "being or reflecting the essential or genuine character of something",
+      "decision": "gloss",
+      "simpleMeaning": "Showing the true, basic nature of something rather than a false or surface version.",
+      "scope": "This is not the sense of actually existing rather than imagined, and it is not a mathematical term; it means expressing the genuine, essential character of something.",
+      "examples": [
+        "What she saw was the real man, not the polished public figure.",
+        "The portrait shows the real character of the old king, not the legend."
+      ],
+      "branchCoverage": [
+        "being or reflecting the essential or genuine character of something -> Showing the true, basic nature of something rather than a false or surface version"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "being or reflecting the essential or genuine character of something"
+      ],
+      "lemmaPartition": "real%3:00:03:: = actually existing rather than imagined; real%5:00:00:true:00:: = expressing the genuine, essential nature of something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%1:06:00::",
+      "lemma": "set",
+      "pos": "n",
+      "definition": "representation consisting of the scenery and other properties used to identify the location of a dramatic production",
+      "decision": "gloss",
+      "simpleMeaning": "The scenery and objects arranged on stage to show where a play or film takes place.",
+      "scope": "This is not a radio or television receiver, not a group of matching items and not the hardening of a material; it is the staged scenery and props.",
+      "examples": [
+        "The set for the second act was a shabby London flat.",
+        "Builders spent a week putting up the set before rehearsals began."
+      ],
+      "branchCoverage": [
+        "representation consisting of the scenery and other properties used to identify the location of a dramatic production -> The scenery and objects arranged on stage to show where a play or film takes place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "representation consisting of the scenery and other properties used to identify the location of a dramatic production"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%1:06:01::",
+      "lemma": "set",
+      "pos": "n",
+      "definition": "any electronic equipment that receives or transmits radio or tv signals",
+      "decision": "gloss",
+      "simpleMeaning": "A piece of electronic equipment, such as a radio or television, that picks up or sends out broadcast signals.",
+      "scope": "This is not the scenery of a stage production, not a collection of matching items and not a group in mathematics; it is radio or television equipment.",
+      "examples": [
+        "He turned the set off and went to bed.",
+        "The old wireless set still worked after fifty years."
+      ],
+      "branchCoverage": [
+        "any electronic equipment that receives or transmits radio or tv signals -> A piece of electronic equipment, such as a radio or television, that picks up or sends out broadcast signals"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any electronic equipment that receives or transmits radio or tv signals"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%2:30:00::",
+      "lemma": "set",
+      "pos": "v",
+      "definition": "alter or regulate so as to achieve accuracy or conform to a standard",
+      "decision": "gloss",
+      "simpleMeaning": "to adjust something so that it works correctly or meets a standard.",
+      "scope": "This is not putting something in a place, not preparing things in advance for an event and not making a material harden; it is adjusting something to a standard.",
+      "examples": [
+        "He set the clock to the correct time.",
+        "The mechanic set the engine timing to the maker's specification."
+      ],
+      "branchCoverage": [
+        "alter or regulate so as to achieve accuracy or conform to a standard -> to adjust something so that it works correctly or meets a standard"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "alter or regulate so as to achieve accuracy or conform to a standard"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'slightly'; 'alter or regulate' allows adjustments of any size."
+    },
+    {
+      "senseId": "set%1:09:01::",
+      "lemma": "set",
+      "pos": "n",
+      "definition": "a relatively permanent inclination to react in a particular way",
+      "decision": "defer",
+      "reason": "This noun is a technical psychology term for a settled mental attitude; in general English it survives mainly in the phrase 'a set against', which means a grudge, so any natural example would be read as that narrower idea rather than as a lasting tendency to react in a certain way.",
+      "sourceBranches": [
+        "a relatively permanent inclination to react in a particular way"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%2:30:09::",
+      "lemma": "set",
+      "pos": "v",
+      "definition": "make ready or suitable or equip in advance for a particular purpose or for some use, event, etc",
+      "decision": "gloss",
+      "simpleMeaning": "To get something ready or arrange equipment ahead of time for a particular use or event.",
+      "scope": "This is not adjusting an instrument to an exact standard, not putting an object down in a spot and not the hardening of a material; it is preparing or arranging things in advance.",
+      "examples": [
+        "She set the table for six before the guests arrived.",
+        "The staff set the chairs in rows for the morning assembly."
+      ],
+      "branchCoverage": [
+        "make ready or suitable or equip in advance for a particular purpose or for some use, event, etc -> To get something ready or arrange equipment ahead of time for a particular use or event"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make ready or suitable or equip in advance for a particular purpose or for some use, event, etc"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%2:35:05::",
+      "lemma": "set",
+      "pos": "v",
+      "definition": "insert (a nail or screw below the surface, as into a countersink)",
+      "decision": "gloss",
+      "simpleMeaning": "To drive a nail or screw in so that its head sits below the surface of the material.",
+      "scope": "This is not sharpening a blade, not adjusting a device to a standard and not preparing a room in advance; it is sinking a nail or screw head below the surface.",
+      "examples": [
+        "He set the nail with a hammer and then filled the hole.",
+        "The carpenter set each screw below the surface of the wood."
+      ],
+      "branchCoverage": [
+        "insert (a nail or screw below the surface, as into a countersink) -> To drive a nail or screw in so that its head sits below the surface of the material"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "insert (a nail or screw below the surface, as into a countersink)"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%1:11:00::",
+      "lemma": "set",
+      "pos": "n",
+      "definition": "the descent of a heavenly body below the horizon",
+      "decision": "defer",
+      "reason": "The bare noun is rare outside compounds such as 'sunset' and 'moonset'; a natural modern sentence would use one of those words, so this headword cannot be shown in this sense without sounding archaic.",
+      "sourceBranches": [
+        "the descent of a heavenly body below the horizon"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%1:22:00::",
+      "lemma": "set",
+      "pos": "n",
+      "definition": "the process of becoming hard or solid by cooling or drying or crystallization",
+      "decision": "gloss",
+      "simpleMeaning": "The process in which a material becomes hard or solid as it cools, dries or forms crystals.",
+      "scope": "This is not the scenery of a stage production, not a radio or television receiver and not a lasting tendency to behave in a certain way; it is a material hardening as it cools, dries or crystallizes.",
+      "examples": [
+        "The first set of the cement takes a few hours in warm weather.",
+        "Give the glue a full day for its final set before sanding it."
+      ],
+      "branchCoverage": [
+        "the process of becoming hard or solid by cooling or drying or crystallization -> The process in which a material becomes hard or solid as it cools, dries or forms crystals"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the process of becoming hard or solid by cooling or drying or crystallization"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%2:30:06::",
+      "lemma": "set",
+      "pos": "v",
+      "definition": "equip with sails or masts",
+      "decision": "defer",
+      "reason": "The nautical verb for fitting a vessel with masts and sails is not used in ordinary modern English; natural sentences use \"rig\" or \"fit out\", so two natural examples containing the headword in this sense cannot be written. Left with the original definition.",
+      "sourceBranches": [
+        "equip with sails or masts"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "self-deferred",
+      "reviewerNote": "Both examples are unidiomatic: 'set the hull/boat with masts/rig' is not natural English."
+    },
+    {
+      "senseId": "set%2:35:04::",
+      "lemma": "set",
+      "pos": "v",
+      "definition": "give a fine, sharp edge to a knife or razor",
+      "decision": "gloss",
+      "simpleMeaning": "To put a fine, sharp edge on a knife or razor.",
+      "scope": "This is not sinking a nail or screw below a surface, not adjusting a device to a standard and not preparing a room; it is sharpening the edge of a blade finely.",
+      "examples": [
+        "The barber set the razor before the first shave of the day.",
+        "She set the knife's edge with a fine whetstone."
+      ],
+      "branchCoverage": [
+        "give a fine, sharp edge to a knife or razor -> To put a fine, sharp edge on a knife or razor"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "give a fine, sharp edge to a knife or razor"
+      ],
+      "lemmaPartition": "set%1:06:00:: = stage scenery and props showing where a drama takes place; set%1:06:01:: = radio or television receiving or transmitting equipment; set%2:30:00:: = adjust something to a standard or for accuracy; set%1:09:01:: = a lasting tendency to react in a certain way (deferred); set%2:30:09:: = prepare or arrange things in advance; set%2:35:05:: = sink a nail or screw head below the surface; set%1:11:00:: = the going down of a heavenly body below the horizon (deferred); set%1:22:00:: = the hardening of a material by cooling, drying or crystallizing; set%2:30:06:: = fit a ship with masts and sails; set%2:35:04:: = put a fine sharp edge on a blade",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "thought%1:09:03::",
+      "lemma": "thought",
+      "pos": "n",
+      "definition": "a personal belief or judgment that is not founded on proof or certainty",
+      "decision": "gloss",
+      "simpleMeaning": "A belief or opinion that someone holds without proof or certainty.",
+      "scope": "This is not the act of thinking, not an idea that simply comes to mind and not care for other people; it is a personal opinion held without proof.",
+      "examples": [
+        "My thought is that we should wait another week.",
+        "She shared her thoughts on the plan with the team."
+      ],
+      "branchCoverage": [
+        "a personal belief or judgment that is not founded on proof or certainty -> A belief or opinion that someone holds without proof or certainty"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a personal belief or judgment that is not founded on proof or certainty"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "top%1:06:00::",
+      "lemma": "top",
+      "pos": "n",
+      "definition": "a garment (especially for women) that extends from the shoulders to the waist or hips",
+      "decision": "gloss",
+      "simpleMeaning": "A piece of clothing for the upper body, usually worn by women, that reaches from the shoulders to the waist or hips.",
+      "scope": "This is not the highest part of something, not a lid or cover and not a spinning toy; it is a garment for the upper body.",
+      "examples": [
+        "She wore a silk top with dark trousers.",
+        "The shop sells tops in every color and size."
+      ],
+      "branchCoverage": [
+        "a garment (especially for women) that extends from the shoulders to the waist or hips -> A piece of clothing for the upper body, usually worn by women, that reaches from the shoulders to the waist or hips"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a garment (especially for women) that extends from the shoulders to the waist or hips"
+      ],
+      "lemmaPartition": "top%1:06:00:: = a garment for the upper body; top%1:06:03:: = a spinning conical toy; top%2:35:02:: = hit a ball above its center so that it spins forward; top%1:06:02:: = the circus tent that shelters the audience",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "top%1:06:03::",
+      "lemma": "top",
+      "pos": "n",
+      "definition": "a conical child's plaything tapering to a steel point on which it can be made to spin",
+      "decision": "gloss",
+      "simpleMeaning": "A cone-shaped toy for children that balances on a metal point and spins.",
+      "scope": "This is not a garment for the upper body, not the highest part of something and not the tent of a circus; it is a spinning toy.",
+      "examples": [
+        "The boy spun the top across the kitchen floor.",
+        "A wooden top wobbled and then fell on its side."
+      ],
+      "branchCoverage": [
+        "a conical child's plaything tapering to a steel point on which it can be made to spin -> A cone-shaped toy for children that balances on a metal point and spins"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a conical child's plaything tapering to a steel point on which it can be made to spin"
+      ],
+      "lemmaPartition": "top%1:06:00:: = a garment for the upper body; top%1:06:03:: = a spinning conical toy; top%2:35:02:: = hit a ball above its center so that it spins forward; top%1:06:02:: = the circus tent that shelters the audience",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "top%2:35:02::",
+      "lemma": "top",
+      "pos": "v",
+      "definition": "strike (the top part of a ball in golf, baseball, or pool) giving it a forward spin",
+      "decision": "gloss",
+      "simpleMeaning": "To hit a ball above its center in golf, baseball or pool so that it spins forward.",
+      "scope": "This is not placing something on the highest point, not covering something with a lid and not the spinning toy; it is striking a ball above its center in a game.",
+      "examples": [
+        "He topped the ball and it rolled along the ground.",
+        "She topped her drive into the rough."
+      ],
+      "branchCoverage": [
+        "strike (the top part of a ball in golf, baseball, or pool) giving it a forward spin -> To hit a ball above its center in golf, baseball or pool so that it spins forward"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "strike (the top part of a ball in golf, baseball, or pool) giving it a forward spin"
+      ],
+      "lemmaPartition": "top%1:06:00:: = a garment for the upper body; top%1:06:03:: = a spinning conical toy; top%2:35:02:: = hit a ball above its center so that it spins forward; top%1:06:02:: = the circus tent that shelters the audience",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "top%1:06:02::",
+      "lemma": "top",
+      "pos": "n",
+      "definition": "a canvas tent to house the audience at a circus performance",
+      "decision": "gloss",
+      "simpleMeaning": "A large canvas tent that shelters the audience at a circus.",
+      "scope": "This is not a garment for the upper body, not the highest part of something and not a spinning toy; it is the tent that covers a circus audience.",
+      "examples": [
+        "The circus raised its big top on the edge of town.",
+        "Rain drummed on the canvas top while the clowns performed."
+      ],
+      "branchCoverage": [
+        "a canvas tent to house the audience at a circus performance -> A large canvas tent that shelters the audience at a circus"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a canvas tent to house the audience at a circus performance"
+      ],
+      "lemmaPartition": "top%1:06:00:: = a garment for the upper body; top%1:06:03:: = a spinning conical toy; top%2:35:02:: = hit a ball above its center so that it spins forward; top%1:06:02:: = the circus tent that shelters the audience",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

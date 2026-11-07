@@ -1,0 +1,1197 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 56,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 44,
+      "of": 50,
+      "rate": 0.88
+    },
+    "selfApproved": [
+      "march%2:38:10::",
+      "clear%5:00:00:untroubled:00",
+      "clear%2:30:03::",
+      "clear%2:32:01::",
+      "cut%1:10:02::"
+    ],
+    "selfDeferred": [
+      "process%2:35:00::"
+    ],
+    "lineage": {
+      "draft": "f0c2db1124d0318795222fb65f750118b3f19e52096f319f8759840857eae0bc"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "meet%2:34:00::",
+      "lemma": "meet",
+      "pos": "v",
+      "definition": "fill, satisfy or meet a want or need or condition or restriction",
+      "sourceBranches": [
+        "fill, satisfy or meet a want or need or condition or restriction"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to be enough for a wish or a need, or to fit a rule or limit that has been set",
+      "scope": "This sense is not about coming together with someone in person, and not about getting to know someone for the first time.",
+      "examples": [
+        "The new apartment meets all the safety conditions required by the city.",
+        "Her salary was barely enough to meet the family's needs."
+      ],
+      "branchCoverage": [
+        "fill, satisfy or meet a want or need or condition or restriction -> to be enough for a wish or a need, or to fit a rule or limit that has been set"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "program%1:10:00::",
+      "lemma": "program",
+      "pos": "n",
+      "definition": "an announcement of the events that will occur as part of a theatrical or sporting event",
+      "sourceBranches": [
+        "an announcement of the events that will occur as part of a theatrical or sporting event"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a public announcement that lists the acts or games that will take place at a stage show or a sports event",
+      "scope": "This sense is not a political party's statement of aims, not a plan of action, and not a set of coded instructions for a computer.",
+      "examples": [
+        "According to the program, the orchestra will play two pieces before the interval.",
+        "He checked the program to see when the home team would play."
+      ],
+      "branchCoverage": [
+        "an announcement of the events that will occur as part of a theatrical or sporting event -> a public announcement that lists the acts or games that will take place at a stage show or a sports event"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "program%1:10:00:: -> a list of the events and performers in a show; program%1:10:04:: -> a statement of a political party's aims and principles",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "program%1:10:04::",
+      "lemma": "program",
+      "pos": "n",
+      "definition": "a document stating the aims and principles of a political party",
+      "sourceBranches": [
+        "a document stating the aims and principles of a political party"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a written statement that sets out what a political party wants to achieve and the basic beliefs it stands for",
+      "scope": "This sense is not a list of acts at a show or a sports event, and not a plan of action for an ordinary organization.",
+      "examples": [
+        "The party published its program before the election, promising lower taxes and better schools.",
+        "Delegates argued for hours over the program that would guide the party for the next four years."
+      ],
+      "branchCoverage": [
+        "a document stating the aims and principles of a political party -> a written statement that sets out what a political party wants to achieve and the basic beliefs it stands for"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "program%1:10:00:: -> a list of the events and performers in a show; program%1:10:04:: -> a statement of a political party's aims and principles",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "type%1:06:00::",
+      "lemma": "type",
+      "pos": "n",
+      "definition": "a small metal block bearing a raised character on one end; produces a printed character when inked and pressed on paper",
+      "sourceBranches": [
+        "a small metal block bearing a raised character on one end",
+        "produces a printed character when inked and pressed on paper"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a small metal block with a letter, number or other sign standing out on one end, which prints that sign on paper when covered with ink and pressed down",
+      "scope": "This sense is not a group or class that things are divided into, and not a style of letters used in printing.",
+      "examples": [
+        "The printer set each metal type by hand before locking the page into the press.",
+        "Ink had dried on the type, so the first copies came out smudged."
+      ],
+      "branchCoverage": [
+        "a small metal block bearing a raised character on one end -> a small metal block with a letter, number or other sign standing out on one end",
+        "produces a printed character when inked and pressed on paper -> which prints that sign on paper when covered with ink and pressed down"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "chance%1:07:00::",
+      "lemma": "chance",
+      "pos": "n",
+      "definition": "a measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible",
+      "sourceBranches": [
+        "a measure of how likely it is that some event will occur",
+        "a number expressing the ratio of favorable cases to the whole number of cases possible"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "how likely it is that an event will happen, often shown as a number that compares the results that count as a success with all the results that are possible",
+      "scope": "This sense is not an occasion or opportunity to do something, and not an unplanned or lucky event.",
+      "examples": [
+        "The chance of rain is high this afternoon, so take an umbrella.",
+        "Players calculated the chances of drawing a red card from the deck."
+      ],
+      "branchCoverage": [
+        "a measure of how likely it is that some event will occur -> how likely it is that an event will happen",
+        "a number expressing the ratio of favorable cases to the whole number of cases possible -> often shown as a number that compares the results that count as a success with all the results that are possible"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "father%1:18:06::",
+      "lemma": "father",
+      "pos": "n",
+      "definition": "a person who founds or establishes some institution",
+      "sourceBranches": [
+        "a person who founds or establishes some institution"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a person who starts or sets up an organization or another long-lasting body",
+      "scope": "This sense is not a male parent, and not a priest.",
+      "examples": [
+        "He is often called the father of modern economics.",
+        "The award honors the father of the country's national parks movement."
+      ],
+      "branchCoverage": [
+        "a person who founds or establishes some institution -> a person who starts or sets up an organization or another long-lasting body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "march%1:10:01::",
+      "lemma": "march",
+      "pos": "n",
+      "definition": "genre of music written for marching",
+      "sourceBranches": [
+        "genre of music written for marching"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a kind of music with a strong regular beat, written for people to walk in step to, as soldiers or a band do",
+      "scope": "This sense is not the act of walking with regular steps, and not a walk held as a protest.",
+      "examples": [
+        "The band played a lively march as the soldiers entered the square.",
+        "Elgar's marches are often performed at graduation ceremonies."
+      ],
+      "branchCoverage": [
+        "genre of music written for marching -> a kind of music with a strong regular beat, written for people to walk in step to, as soldiers or a band do"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "march%1:10:01:: -> music written for marching; march%2:38:10:: -> make someone march or move at marching pace; march%2:41:00:: -> walk in protest as part of a demonstration",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "march%2:38:10::",
+      "lemma": "march",
+      "pos": "v",
+      "definition": "cause to march or go at a marching pace",
+      "sourceBranches": [
+        "cause to march or go at a marching pace"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make a person, group, or animal march or move at a marching pace.",
+      "scope": "This sense is not about walking yourself in an ordinary way, and not about walking as a protest.",
+      "examples": [
+        "The officer marched the recruits across the parade ground.",
+        "The guards marched the prisoner down the corridor to the cell."
+      ],
+      "branchCoverage": [
+        "cause to march or go at a marching pace -> to make a person, group, or animal march or move at a marching pace"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "march%1:10:01:: -> music written for marching; march%2:38:10:: -> make someone march or move at marching pace; march%2:41:00:: -> walk in protest as part of a demonstration",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'in step' and restricts to people; 'cause to march or go' also covers animals (mules). Say 'make someone or something march'."
+    },
+    {
+      "senseId": "march%2:41:00::",
+      "lemma": "march",
+      "pos": "v",
+      "definition": "march in protest; take part in a demonstration",
+      "sourceBranches": [
+        "march in protest",
+        "take part in a demonstration"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to walk with a crowd in public to protest something or to take part in a public display of shared feeling",
+      "scope": "This sense is not simply walking somewhere, and not making someone else walk in step.",
+      "examples": [
+        "Thousands marched through the capital to protest against the new law.",
+        "Students marched outside the university, demanding that fees be cut."
+      ],
+      "branchCoverage": [
+        "march in protest -> to walk with a crowd in public to protest something",
+        "take part in a demonstration -> to take part in a public display of shared feeling"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "march%1:10:01:: -> music written for marching; march%2:38:10:: -> make someone march or move at marching pace; march%2:41:00:: -> walk in protest as part of a demonstration",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%1:03:00::",
+      "lemma": "process",
+      "pos": "n",
+      "definition": "a sustained phenomenon or one marked by gradual changes through a series of states",
+      "sourceBranches": [
+        "a sustained phenomenon or one marked by gradual changes through a series of states"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a continuing event or situation that can be observed and that slowly changes through a series of stages",
+      "scope": "This sense is not a legal action against someone, and not a growth sticking out from a plant or animal.",
+      "examples": [
+        "Aging is a slow process that affects every cell in the body.",
+        "The process of turning milk into cheese takes several weeks."
+      ],
+      "branchCoverage": [
+        "a sustained phenomenon or one marked by gradual changes through a series of states -> a continuing event or situation that can be observed and that slowly changes through a series of stages"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process%1:03:00:: -> a continuing change that happens in a series of steps; process%1:08:00:: -> a natural growth or projection from an organism; process%2:35:00:: -> deliver a legal summons to someone; process%2:41:00:: -> start legal action against someone; process%1:09:01:: -> a mental activity you are not aware of",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%1:08:00::",
+      "lemma": "process",
+      "pos": "n",
+      "definition": "a natural prolongation or projection from a part of an organism either animal or plant",
+      "sourceBranches": [
+        "a natural prolongation or projection from a part of an organism either animal or plant"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a natural growth that extends out from a part of a living thing, whether an animal or a plant",
+      "scope": "This sense is not a series of gradual changes, and not a legal action or a court paper.",
+      "examples": [
+        "The xiphoid process is a small piece of bone at the lower end of the breastbone.",
+        "The male beetle has a curved process on its head, which it uses in fights."
+      ],
+      "branchCoverage": [
+        "a natural prolongation or projection from a part of an organism either animal or plant -> a natural growth that extends out from a part of a living thing, whether an animal or a plant"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process%1:03:00:: -> a continuing change that happens in a series of steps; process%1:08:00:: -> a natural growth or projection from an organism; process%2:35:00:: -> deliver a legal summons to someone; process%2:41:00:: -> start legal action against someone; process%1:09:01:: -> a mental activity you are not aware of",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%2:35:00::",
+      "lemma": "process",
+      "pos": "v",
+      "definition": "deliver a warrant or summons to someone",
+      "decision": "defer",
+      "reason": "The verb \"process\" in the sense of delivering a warrant or summons is legal jargon. Modern English says \"serve a summons\" or \"serve a warrant on someone\"; every sentence with \"processed the defendant\" reads as police booking or as handling a case, so two idiomatic examples cannot be written.",
+      "sourceBranches": [
+        "deliver a warrant or summons to someone"
+      ],
+      "lemmaPartition": "process%1:03:00:: -> a continuing change that happens in a series of steps; process%1:08:00:: -> a natural growth or projection from an organism; process%2:35:00:: -> deliver a legal summons to someone; process%2:41:00:: -> start legal action against someone; process%1:09:01:: -> a mental activity you are not aware of",
+      "verdict": "self-deferred",
+      "reviewerNote": "Both examples unnatural: 'processed the tenant with a summons' should be 'served'; 'processed the suspect' reads as police booking. Rewrite both."
+    },
+    {
+      "senseId": "process%2:41:00::",
+      "lemma": "process",
+      "pos": "v",
+      "definition": "institute legal proceedings against; file a suit against",
+      "sourceBranches": [
+        "institute legal proceedings against",
+        "file a suit against"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to start a court case against a person or organization, or to bring a claim against them in court",
+      "scope": "This sense is not handing court papers to someone, and not preparing food or data.",
+      "examples": [
+        "The landlord processed the tenants for three months of unpaid rent.",
+        "The supplier processed the manufacturer for breaking the delivery contract."
+      ],
+      "branchCoverage": [
+        "institute legal proceedings against -> to start a court case against a person or organization",
+        "file a suit against -> to bring a claim against them in court"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process%1:03:00:: -> a continuing change that happens in a series of steps; process%1:08:00:: -> a natural growth or projection from an organism; process%2:35:00:: -> deliver a legal summons to someone; process%2:41:00:: -> start legal action against someone; process%1:09:01:: -> a mental activity you are not aware of",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%1:09:01::",
+      "lemma": "process",
+      "pos": "n",
+      "definition": "a mental process that you are not directly aware of",
+      "sourceBranches": [
+        "a mental process that you are not directly aware of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "mental activity that happens without you noticing it",
+      "scope": "This is thinking the mind does on its own, not thinking you deliberately set out to do.",
+      "examples": [
+        "Much of the process of reading happens too fast for us to follow consciously.",
+        "Psychologists believe the process by which a habit forms is largely hidden from us."
+      ],
+      "branchCoverage": [
+        "a mental process that you are not directly aware of -> mental activity that happens without you noticing it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process%1:03:00:: -> a continuing change that happens in a series of steps; process%1:08:00:: -> a natural growth or projection from an organism; process%2:35:00:: -> deliver a legal summons to someone; process%2:41:00:: -> start legal action against someone; process%1:09:01:: -> a mental activity you are not aware of",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "study%1:10:01::",
+      "lemma": "study",
+      "pos": "n",
+      "definition": "a composition intended to develop one aspect of the performer's technique",
+      "sourceBranches": [
+        "a composition intended to develop one aspect of the performer's technique"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a short piece of music written to train one particular skill of the player",
+      "scope": "This is a piece of music, not the act of practising and not a room set aside for work.",
+      "examples": [
+        "The pianist warmed up with a study by Chopin before the recital.",
+        "Her teacher gave her a short study for the left hand alone."
+      ],
+      "branchCoverage": [
+        "a composition intended to develop one aspect of the performer's technique -> a short piece of music written to train one particular skill of the player"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "study%1:10:01:: -> a piece of music written to practise one skill; study%1:06:01:: -> a preliminary drawing for a later work; study%1:09:01:: -> careful attention and thought about something; study%2:31:04:: -> think deeply for a long time, as for spiritual reasons; study%1:06:00:: -> a room used for reading and writing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "study%1:06:01::",
+      "lemma": "study",
+      "pos": "n",
+      "definition": "preliminary drawing for later elaboration",
+      "sourceBranches": [
+        "preliminary drawing for later elaboration"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a rough drawing made first, to be worked up into a finished picture later",
+      "scope": "This is a drawing that prepares a finished artwork, not a finished picture and not a music piece.",
+      "examples": [
+        "The museum owns a study of hands that Van Gogh later used in a portrait.",
+        "Before starting the mural, she made several studies in charcoal."
+      ],
+      "branchCoverage": [
+        "preliminary drawing for later elaboration -> a rough drawing made first, to be worked up into a finished picture later"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "study%1:10:01:: -> a piece of music written to practise one skill; study%1:06:01:: -> a preliminary drawing for a later work; study%1:09:01:: -> careful attention and thought about something; study%2:31:04:: -> think deeply for a long time, as for spiritual reasons; study%1:06:00:: -> a room used for reading and writing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "study%1:09:01::",
+      "lemma": "study",
+      "pos": "n",
+      "definition": "attentive consideration and meditation",
+      "sourceBranches": [
+        "attentive consideration and meditation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "careful, unhurried thought about a subject, including quiet inner reflection",
+      "scope": "This is the act of turning a subject over in the mind, not a room, a drawing, or a piece of music.",
+      "examples": [
+        "The question deserves serious study before we commit any money.",
+        "Her study of the problem led her to a surprising conclusion."
+      ],
+      "branchCoverage": [
+        "attentive consideration and meditation -> careful, unhurried thought about a subject, including quiet inner reflection"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "study%1:10:01:: -> a piece of music written to practise one skill; study%1:06:01:: -> a preliminary drawing for a later work; study%1:09:01:: -> careful attention and thought about something; study%2:31:04:: -> think deeply for a long time, as for spiritual reasons; study%1:06:00:: -> a room used for reading and writing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "study%2:31:04::",
+      "lemma": "study",
+      "pos": "v",
+      "definition": "think intently and at length, as for spiritual purposes",
+      "sourceBranches": [
+        "think intently and at length, as for spiritual purposes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to think long and with full attention, especially as a spiritual practice",
+      "scope": "This is the ongoing act of thinking at length for a spiritual purpose, not the attention you give to a task or subject.",
+      "examples": [
+        "The retreat gives young people time to study and reflect on their faith.",
+        "He rose before dawn to study and pray in silence, as his teacher had taught him."
+      ],
+      "branchCoverage": [
+        "think intently and at length, as for spiritual purposes -> to think long and with full attention, especially as a spiritual practice"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "study%1:10:01:: -> a piece of music written to practise one skill; study%1:06:01:: -> a preliminary drawing for a later work; study%1:09:01:: -> careful attention and thought about something; study%2:31:04:: -> think deeply for a long time, as for spiritual reasons; study%1:06:00:: -> a room used for reading and writing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "study%1:06:00::",
+      "lemma": "study",
+      "pos": "n",
+      "definition": "a room used for reading and writing and studying",
+      "sourceBranches": [
+        "a room used for reading and writing and studying"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a room in a house or building set aside for reading, writing, and quiet learning",
+      "scope": "This is a room, not the activity of learning and not a preparatory drawing.",
+      "examples": [
+        "His study was lined with books from floor to ceiling.",
+        "She shut the door of the study and began to write."
+      ],
+      "branchCoverage": [
+        "a room used for reading and writing and studying -> a room in a house or building set aside for reading, writing, and quiet learning"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "study%1:10:01:: -> a piece of music written to practise one skill; study%1:06:01:: -> a preliminary drawing for a later work; study%1:09:01:: -> careful attention and thought about something; study%2:31:04:: -> think deeply for a long time, as for spiritual reasons; study%1:06:00:: -> a room used for reading and writing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "word%1:23:00::",
+      "lemma": "word",
+      "pos": "n",
+      "definition": "a string of bits stored in computer memory",
+      "sourceBranches": [
+        "a string of bits stored in computer memory"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a run of bits, the smallest units of computer data, held in a computer's memory as one unit",
+      "scope": "This is a unit of computer data, not a unit of language that carries meaning.",
+      "examples": [
+        "The program reads a 32-bit word from memory at each step.",
+        "Each word in the buffer held the code for one character."
+      ],
+      "branchCoverage": [
+        "a string of bits stored in computer memory -> a run of bits, the smallest units of computer data, held in a computer's memory as one unit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "action%1:06:01::",
+      "lemma": "action",
+      "pos": "n",
+      "definition": "In firearms terminology, the mechanism that handles the ammunition (loads, locks, fires, and extracts the cartridges).",
+      "sourceBranches": [
+        "In firearms terminology, the mechanism that handles the ammunition (loads, locks, fires, and extracts the cartridges)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in gun language, the moving parts that load a cartridge, lock it in place, fire it, and pull out the empty case",
+      "scope": "This is the working part inside a gun, not something a person does and not a quality of a person.",
+      "examples": [
+        "The rifle's action was stiff until he oiled it.",
+        "He worked the action smoothly and loaded another round."
+      ],
+      "branchCoverage": [
+        "In firearms terminology, the mechanism that handles the ammunition (loads, locks, fires, and extracts the cartridges) -> in gun language, the moving parts that load a cartridge, lock it in place, fire it, and pull out the empty case"
+      ],
+      "labelBranches": [
+        "In firearms terminology, the mechanism that handles the ammunition (loads, locks, fires, and extracts the cartridges) -> domain label: technical vocabulary from the field of guns, marked in the gloss by \"in gun language\""
+      ],
+      "lemmaPartition": "action%1:06:01:: -> the gun mechanism that loads and fires ammunition; action%1:07:00:: -> the quality of being active, energetic, and forceful",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "action%1:07:00::",
+      "lemma": "action",
+      "pos": "n",
+      "definition": "the trait of being active and energetic and forceful",
+      "sourceBranches": [
+        "the trait of being active and energetic and forceful"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the quality of being full of energy, movement, and force in what you do",
+      "scope": "This is a lasting quality of a person's energy, not a single deed that someone performs.",
+      "examples": [
+        "He was a man of action, never happier than when a decision had to be made on the spot.",
+        "The new coach brought a spirit of action to a team that had grown passive."
+      ],
+      "branchCoverage": [
+        "the trait of being active and energetic and forceful -> the quality of being full of energy, movement, and force in what you do"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "action%1:06:01:: -> the gun mechanism that loads and fires ammunition; action%1:07:00:: -> the quality of being active, energetic, and forceful",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%2:40:00::",
+      "lemma": "clear",
+      "pos": "v",
+      "definition": "earn on some commercial or business transaction; earn as salary or wages",
+      "sourceBranches": [
+        "earn on some commercial or business transaction",
+        "earn as salary or wages"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make money from a sale or business deal, or to receive it as pay for work done",
+      "scope": "This is about money coming in, not about removing dirt and not about giving official permission.",
+      "examples": [
+        "After costs, the stall cleared about two hundred pounds on Saturday.",
+        "She clears four thousand a month before tax."
+      ],
+      "branchCoverage": [
+        "earn on some commercial or business transaction -> to make money from a sale or business deal",
+        "earn as salary or wages -> or to receive it as pay for work done"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%2:40:12::",
+      "lemma": "clear",
+      "pos": "v",
+      "definition": "clear from impurities, blemishes, pollution, etc.",
+      "sourceBranches": [
+        "clear from impurities, blemishes, pollution, etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to take dirt, marks, or harmful substances out of something so that it is pure",
+      "scope": "This is about making something free of dirt or harmful matter, not about making it bright or easy to see through.",
+      "examples": [
+        "The plant uses filters to clear the water of heavy metals.",
+        "A good rinse will clear the solution of any grit."
+      ],
+      "branchCoverage": [
+        "clear from impurities, blemishes, pollution, etc -> to take dirt, marks, or harmful substances out of something so that it is pure"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%5:00:00:discerning:00",
+      "lemma": "clear",
+      "pos": "a",
+      "definition": "characterized by ease and quickness in perceiving",
+      "sourceBranches": [
+        "characterized by ease and quickness in perceiving"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "able to notice and understand things quickly and without effort",
+      "scope": "This describes a quick mind, not something easy to see or hear and not a thing without marks or flaws.",
+      "examples": [
+        "Her clear reading of the mood in the room told her to say nothing.",
+        "With a clear eye for detail, she caught the mismatch in the accounts."
+      ],
+      "branchCoverage": [
+        "characterized by ease and quickness in perceiving -> able to notice and understand things quickly and without effort"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%2:41:00::",
+      "lemma": "clear",
+      "pos": "v",
+      "definition": "free from payment of customs duties, as of a shipment",
+      "sourceBranches": [
+        "free from payment of customs duties, as of a shipment"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to allow imported goods through the border office without payment of the taxes normally charged on them",
+      "scope": "This is about taxes on goods crossing a border, not about granting permission in general.",
+      "examples": [
+        "The shipment was cleared through customs in under a day.",
+        "The agent cleared the goods on arrival so they could go straight to the warehouse."
+      ],
+      "branchCoverage": [
+        "free from payment of customs duties, as of a shipment -> to allow imported goods through the border office without payment of the taxes normally charged on them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%5:00:00:distinct:00",
+      "lemma": "clear",
+      "pos": "a",
+      "definition": "clear and distinct to the senses; easily perceptible",
+      "sourceBranches": [
+        "clear and distinct to the senses",
+        "easily perceptible"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Easy to see, hear, smell, taste, or feel, and standing out sharply from everything around it.",
+      "scope": "This sense is about something being easy to notice through the senses, not about being easy to understand or having no marks.",
+      "examples": [
+        "From the top of the hill, the church tower was clear against the sky.",
+        "Her voice was clear even at the back of the hall."
+      ],
+      "branchCoverage": [
+        "clear and distinct to the senses -> Easy to see, hear, smell, taste, or feel, and standing out sharply from everything around it",
+        "easily perceptible -> easy to notice"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%5:00:00:perfect:00",
+      "lemma": "clear",
+      "pos": "a",
+      "definition": "free from flaw or blemish or impurity",
+      "sourceBranches": [
+        "free from flaw or blemish or impurity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Having no faults, no marks, and nothing unwanted mixed in.",
+      "scope": "This sense is about something having no faults, marks, or unwanted matter, not about being easy to see or hear.",
+      "examples": [
+        "The diamond was clear, with no cracks or cloudy patches.",
+        "After a week of treatment, his skin was clear again."
+      ],
+      "branchCoverage": [
+        "free from flaw or blemish or impurity -> Having no faults, no marks, and nothing unwanted mixed in"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%5:00:00:unencumbered:00",
+      "lemma": "clear",
+      "pos": "a",
+      "definition": "(especially of a title) free from any encumbrance or limitation that presents a question of fact or law",
+      "sourceBranches": [
+        "(especially of a title) free from any encumbrance or limitation that presents a question of fact or law"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Used especially of the legal right to own property: having no claims, charges, or restrictions attached that could be disputed in a court.",
+      "scope": "This is a legal word about ownership rights having no claims or restrictions that could be disputed, not about physical cleanliness or being easy to see.",
+      "examples": [
+        "The lawyer confirmed that the land had a clear title before the sale went through.",
+        "The dealer refused the trade-in until the truck's title was clear, with no outstanding loan attached."
+      ],
+      "branchCoverage": [
+        "(especially of a title) free from any encumbrance or limitation that presents a question of fact or law -> Used especially of the legal right to own property: having no claims, charges, or restrictions attached that could be disputed in a court"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%5:00:00:untroubled:00",
+      "lemma": "clear",
+      "pos": "a",
+      "definition": "characterized by freedom from troubling thoughts (especially guilt)",
+      "sourceBranches": [
+        "characterized by freedom from troubling thoughts (especially guilt)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Having a mind without worries, especially without guilt.",
+      "scope": "This sense describes a person's state of mind, not the state of an object or of a legal right.",
+      "examples": [
+        "She slept soundly, with a clear conscience and no regrets.",
+        "After years of hiding the truth, he finally felt free of the guilt that had weighed on him."
+      ],
+      "branchCoverage": [
+        "characterized by freedom from troubling thoughts (especially guilt) -> Having a mind without worries, especially without guilt"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2's 'felt clear of the guilt' is unidiomatic; use 'felt free of the guilt' or 'had a clear conscience'."
+    },
+    {
+      "senseId": "clear%2:30:03::",
+      "lemma": "clear",
+      "pos": "v",
+      "definition": "make clear, bright, light, or translucent",
+      "sourceBranches": [
+        "make clear, bright, light, or translucent"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make something brighter, lighter, or able to let light through.",
+      "scope": "This sense is about making something brighter or able to let light through, not about removing dirt or making an idea easy to understand.",
+      "examples": [
+        "Gentle warming clears the honey, turning it from cloudy to bright and see-through.",
+        "The polish cleared the dull surface until it shone."
+      ],
+      "branchCoverage": [
+        "make clear, bright, light, or translucent -> to make something brighter, lighter, or able to let light through"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 is inaccurate (molten glass is not clear); the gloss also narrows 'bright' to emitting light. Replace example and reword gloss."
+    },
+    {
+      "senseId": "clear%2:31:00::",
+      "lemma": "clear",
+      "pos": "v",
+      "definition": "make free from confusion or ambiguity; make clear",
+      "sourceBranches": [
+        "make free from confusion or ambiguity",
+        "make clear"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To remove confusion or uncertainty about something so that it is easy to understand.",
+      "scope": "This sense is about removing doubt or confusion from ideas and statements, not about making a physical object bright or see-through.",
+      "examples": [
+        "The coach cleared up the confusion about the new rules before practice.",
+        "A simple diagram cleared the ambiguity in the instructions."
+      ],
+      "branchCoverage": [
+        "make free from confusion or ambiguity -> To remove confusion or uncertainty about something",
+        "make clear -> so that it is easy to understand"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%2:32:01::",
+      "lemma": "clear",
+      "pos": "v",
+      "definition": "grant authorization or clearance for",
+      "sourceBranches": [
+        "grant authorization or clearance for"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To officially give permission for something to happen or be used.",
+      "scope": "This is about official permission from an authority, not about making something easy to understand, and not about letting imported goods through customs.",
+      "examples": [
+        "Air traffic control cleared the plane for takeoff.",
+        "Only the manager can clear a payment of that size."
+      ],
+      "branchCoverage": [
+        "grant authorization or clearance for -> To officially give permission for something to happen or be used"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope should also rule out the customs sense ('clear goods through customs'), which is also official permission."
+    },
+    {
+      "senseId": "clear%5:00:00:net:00",
+      "lemma": "clear",
+      "pos": "a",
+      "definition": "clear of charges or deductions",
+      "sourceBranches": [
+        "clear of charges or deductions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Used about money: with no charges or other amounts taken out of it, so it is the amount you actually receive or keep.",
+      "scope": "This sense applies to amounts of money with nothing further taken out, not to property rights that are free of legal claims.",
+      "examples": [
+        "The company reported a clear profit of two million dollars after all costs.",
+        "After the fees were paid, she took home a clear ten thousand pounds."
+      ],
+      "branchCoverage": [
+        "clear of charges or deductions -> Used about money: with no charges or other amounts taken out of it, so it is the amount you actually receive or keep"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear%2:40:00:: -> earn money from a sale or job; clear%2:40:12:: -> remove dirt or impurities from something; clear%5:00:00:discerning:00 -> quick to notice and understand things; clear%2:41:00:: -> let goods enter a country without paying customs duties; clear%5:00:00:distinct:00 -> easy to see, hear, or notice; clear%5:00:00:perfect:00 -> free from flaws, marks, or anything unwanted; clear%5:00:00:unencumbered:00 -> free of legal claims or limits, as a title; clear%5:00:00:untroubled:00 -> free from worry or guilt; clear%2:30:03:: -> make something bright or see-through; clear%2:31:00:: -> make something easy to understand; clear%2:32:01:: -> give official permission for something; clear%5:00:00:net:00 -> left after charges or deductions are taken away",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "outside%5:00:00:extramural:00",
+      "lemma": "outside",
+      "pos": "a",
+      "definition": "functioning outside the boundaries or precincts of an organized unit",
+      "sourceBranches": [
+        "functioning outside the boundaries or precincts of an organized unit"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Operating beyond the walls or grounds of an organized group such as a school, hospital, or company.",
+      "scope": "This sense is about an organization's activity reaching beyond its own buildings or grounds, not about which way a door or road faces.",
+      "examples": [
+        "The college's outside tutors travel to village halls to teach adults who cannot come to campus.",
+        "Much of the charity's work happens outside its own offices, in schools and community centres."
+      ],
+      "branchCoverage": [
+        "functioning outside the boundaries or precincts of an organized unit -> Operating beyond the walls or grounds of an organized group such as a school, hospital, or company"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "outside%5:00:00:extramural:00 -> working beyond an organization's normal boundaries; outside%5:00:00:exterior:00 -> leading toward the outside",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "outside%5:00:00:exterior:00",
+      "lemma": "outside",
+      "pos": "a",
+      "definition": "leading to or from the outside",
+      "sourceBranches": [
+        "leading to or from the outside"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Leading toward or coming from the open air, as a door, stair, or passage does.",
+      "scope": "This sense describes a door, stair, or passage that opens to the open air, not an organization's work beyond its own buildings.",
+      "examples": [
+        "The outside door swelled in the rain and would not shut properly.",
+        "An outside staircase runs from the kitchen down to the garden."
+      ],
+      "branchCoverage": [
+        "leading to or from the outside -> Leading toward or coming from the open air, as a door, stair, or passage does"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "outside%5:00:00:extramural:00 -> working beyond an organization's normal boundaries; outside%5:00:00:exterior:00 -> leading toward the outside",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "board%1:06:02::",
+      "lemma": "board",
+      "pos": "n",
+      "definition": "electrical device consisting of a flat insulated surface that contains switches and dials and meters for controlling other electrical devices",
+      "sourceBranches": [
+        "electrical device consisting of a flat insulated surface that contains switches and dials and meters for controlling other electrical devices"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A flat panel of material that electricity cannot pass through, holding switches, dials, and meters that control other electrical equipment.",
+      "scope": "This sense is a panel of switches and meters for controlling electrical equipment, not a flat piece of wood used in a game or a circuit card inside a computer.",
+      "examples": [
+        "The engineer checked the board, reading the dials and flipping switches one by one.",
+        "A red light on the control board warned that the pump had stopped."
+      ],
+      "branchCoverage": [
+        "electrical device consisting of a flat insulated surface that contains switches and dials and meters for controlling other electrical devices -> A flat panel of material that electricity cannot pass through, holding switches, dials, and meters that control other electrical equipment"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "board%1:06:02:: -> a flat panel holding electrical controls or circuits; board%1:06:04:: -> a circuit board that fits into a computer slot; board%1:06:05:: -> a flat surface for playing games",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "board%1:06:04::",
+      "lemma": "board",
+      "pos": "n",
+      "definition": "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities",
+      "sourceBranches": [
+        "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A flat card with electrical paths printed on it that fits into an empty connector inside a computer to give it new abilities.",
+      "scope": "This sense is a circuit card added inside a computer, not a panel of switches and meters used to control machinery.",
+      "examples": [
+        "He opened the case and slid a new graphics board into an empty slot.",
+        "The old computer kept freezing until she added a memory board."
+      ],
+      "branchCoverage": [
+        "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities -> A flat card with electrical paths printed on it that fits into an empty connector inside a computer to give it new abilities"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "board%1:06:02:: -> a flat panel holding electrical controls or circuits; board%1:06:04:: -> a circuit board that fits into a computer slot; board%1:06:05:: -> a flat surface for playing games",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "board%1:06:05::",
+      "lemma": "board",
+      "pos": "n",
+      "definition": "a flat portable surface (usually rectangular) designed for board games",
+      "sourceBranches": [
+        "a flat portable surface (usually rectangular) designed for board games"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a flat, portable surface, usually rectangular, made for playing games in which pieces are moved around on it",
+      "scope": "This is the flat surface used for games, not the panel of electrical controls or the circuit card fitted inside a computer.",
+      "examples": [
+        "She set the chess board on the table and began to arrange the pieces.",
+        "The children spent the rainy afternoon playing a board game by the fire."
+      ],
+      "branchCoverage": [
+        "a flat portable surface (usually rectangular) designed for board games -> a flat, portable surface, usually rectangular, made for playing games in which pieces are moved around on it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "board%1:06:02:: -> a flat panel holding electrical controls or circuits; board%1:06:04:: -> a circuit board that fits into a computer slot; board%1:06:05:: -> a flat surface for playing games",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%1:10:04::",
+      "lemma": "cut",
+      "pos": "n",
+      "definition": "a distinct selection of music from a recording or a compact disc",
+      "sourceBranches": [
+        "a distinct selection of music from a recording or a compact disc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a single separate piece of music taken from a recording or a compact disc",
+      "scope": "This is one piece of recorded music, not a passage removed from a text or a remark that hurts someone.",
+      "examples": [
+        "The album's opening cut is a slow, brooding ballad.",
+        "Radio stations kept playing the title cut from her new record."
+      ],
+      "branchCoverage": [
+        "a distinct selection of music from a recording or a compact disc -> a single separate piece of music taken from a recording or a compact disc"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%1:10:01::",
+      "lemma": "cut",
+      "pos": "n",
+      "definition": "the omission that is made when an editorial change shortens a written passage",
+      "sourceBranches": [
+        "the omission that is made when an editorial change shortens a written passage"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the part left out when an editor's change makes a written passage shorter",
+      "scope": "This is text left out during editing, not a track of recorded music or a remark that hurts someone.",
+      "examples": [
+        "Several cuts were made to the article before it went to press.",
+        "The editor marked the longest cut in red so the author could restore it."
+      ],
+      "branchCoverage": [
+        "the omission that is made when an editorial change shortens a written passage -> the part left out when an editor's change makes a written passage shorter"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%1:10:02::",
+      "lemma": "cut",
+      "pos": "n",
+      "definition": "a remark capable of wounding mentally",
+      "sourceBranches": [
+        "a remark capable of wounding mentally"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a comment that can hurt a person's feelings",
+      "scope": "This is a hurtful comment, not a passage deleted by an editor or a piece of recorded music.",
+      "examples": [
+        "He took a cruel cut at her presentation, and the room went quiet.",
+        "Her parting remark was a cut that still stung days later."
+      ],
+      "branchCoverage": [
+        "a remark capable of wounding mentally -> a comment that can hurt a person's feelings"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples are stilted: 'aimed a cruel cut' and 'parting cut'; rewrite with natural phrases such as 'took a cruel cut at her'."
+    },
+    {
+      "senseId": "cut%2:35:05::",
+      "lemma": "cut",
+      "pos": "v",
+      "definition": "divide a deck of cards at random into two parts to make selection difficult",
+      "sourceBranches": [
+        "divide a deck of cards at random into two parts to make selection difficult"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to split a pack of cards by chance into two piles so that choosing particular cards is harder",
+      "scope": "This is the card player's move, not a way of shortening something or removing unwanted items.",
+      "examples": [
+        "The dealer cut the deck, then handed the cards to the player on her left.",
+        "Before dealing, he always cuts the pack twice to show there is no trickery."
+      ],
+      "branchCoverage": [
+        "divide a deck of cards at random into two parts to make selection difficult -> to split a pack of cards by chance into two piles so that choosing particular cards is harder"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%3:00:02::",
+      "lemma": "cut",
+      "pos": "a",
+      "definition": "(of pages of a book) having the folds of the leaves trimmed or slit",
+      "sourceBranches": [
+        "(of pages of a book) having the folds of the leaves trimmed or slit"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "(of the pages of a book) having the folded edges of the paper sheets trimmed or slit open",
+      "scope": "This describes a book's page edges, not a shortened text or a swing at a pitched ball.",
+      "examples": [
+        "The rare volume is bound with cut pages, so every fold has been opened.",
+        "This edition has cut edges and can be read without a paper knife."
+      ],
+      "branchCoverage": [
+        "(of pages of a book) having the folds of the leaves trimmed or slit -> (of the pages of a book) having the folded edges of the paper sheets trimmed or slit open"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%1:04:07::",
+      "lemma": "cut",
+      "pos": "n",
+      "definition": "in baseball; a batter's attempt to hit a pitched ball",
+      "sourceBranches": [
+        "in baseball",
+        "a batter's attempt to hit a pitched ball"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, a hitter's attempt to hit the ball thrown toward them",
+      "scope": "This is a swing at a pitch in baseball, not a hurtful remark or a passage deleted from a text.",
+      "examples": [
+        "He took a mighty cut at the fastball and missed.",
+        "The rookie's cut on that pitch was late but powerful."
+      ],
+      "branchCoverage": [
+        "in baseball -> in baseball",
+        "a batter's attempt to hit a pitched ball -> a hitter's attempt to hit the ball thrown toward them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%1:06:01::",
+      "lemma": "cut",
+      "pos": "n",
+      "definition": "a canal made by erosion or excavation",
+      "sourceBranches": [
+        "a canal made by erosion or excavation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a channel in the ground formed by water wearing away the earth or by digging",
+      "scope": "This is a channel in the ground, not a shortened text or a card-table move.",
+      "examples": [
+        "The river has worn a deep cut through the soft rock.",
+        "Workers dug a narrow cut to carry water to the fields."
+      ],
+      "branchCoverage": [
+        "a canal made by erosion or excavation -> a channel in the ground formed by water wearing away the earth or by digging"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%2:30:02::",
+      "lemma": "cut",
+      "pos": "v",
+      "definition": "weed out unwanted or unnecessary things",
+      "sourceBranches": [
+        "weed out unwanted or unnecessary things"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to remove the things that are unwanted or unnecessary from a group",
+      "scope": "This means removing unwanted items from a group, not making a liquid weaker or shortening a text.",
+      "examples": [
+        "The coach cut three players from the squad before the season began.",
+        "The committee cut several weak candidates from the shortlist."
+      ],
+      "branchCoverage": [
+        "weed out unwanted or unnecessary things -> to remove the things that are unwanted or unnecessary from a group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%2:30:05::",
+      "lemma": "cut",
+      "pos": "v",
+      "definition": "lessen the strength or flavor of a solution or mixture",
+      "sourceBranches": [
+        "lessen the strength or flavor of a solution or mixture"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make a solution or mixture less strong or less full of taste",
+      "scope": "This means making a mixture weaker, not removing unwanted items or reducing a text's range.",
+      "examples": [
+        "He cut the paint with a little thinner so it would spread more easily.",
+        "The bartender cut the juice with water to make it less sweet."
+      ],
+      "branchCoverage": [
+        "lessen the strength or flavor of a solution or mixture -> to make a solution or mixture less strong or less full of taste"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%2:30:08::",
+      "lemma": "cut",
+      "pos": "v",
+      "definition": "reduce in scope while retaining essential elements",
+      "sourceBranches": [
+        "reduce in scope while retaining essential elements"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make something narrower in range or shorter while keeping its most important parts",
+      "scope": "This means making something smaller in range while keeping its core, not slicing off its edges or ends.",
+      "examples": [
+        "The director cut the film to two hours without losing the main story.",
+        "We must cut the report to its essential findings before Friday."
+      ],
+      "branchCoverage": [
+        "reduce in scope while retaining essential elements -> to make something narrower in range or shorter while keeping its most important parts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%2:30:14::",
+      "lemma": "cut",
+      "pos": "v",
+      "definition": "shorten as if by severing the edges or ends of",
+      "sourceBranches": [
+        "shorten as if by severing the edges or ends of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make something shorter by taking off its edges or ends, as if slicing them away",
+      "scope": "This means shortening a physical thing at its edges or ends, not reducing a work's range while keeping its core.",
+      "examples": [
+        "She cut her hair to shoulder length before the wedding.",
+        "The gardener cut the hedge back along the path."
+      ],
+      "branchCoverage": [
+        "shorten as if by severing the edges or ends of -> to make something shorter by taking off its edges or ends, as if slicing them away"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut%1:10:04:: -> one track taken from an album; cut%1:10:01:: -> a part removed when an editor shortens a text; cut%1:10:02:: -> a remark that hurts someone's feelings; cut%2:35:05:: -> split a deck of cards into two piles at random; cut%3:00:02:: -> having the folded edges of a book's pages trimmed; cut%1:04:07:: -> a batter's swing at a pitched ball; cut%1:06:01:: -> a channel in the ground made by water or digging; cut%2:30:02:: -> remove unwanted things from a group; cut%2:30:05:: -> make a solution or mixture weaker; cut%2:30:08:: -> shorten something while keeping its main parts; cut%2:30:14:: -> shorten by slicing off the edges or ends",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

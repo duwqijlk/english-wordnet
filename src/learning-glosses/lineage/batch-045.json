@@ -1,0 +1,1023 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 45,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 2200,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "perform%2:36:00::",
+      "lemma": "perform",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "carry out or perform an action",
+      "synsetId": "01716563-v",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": null,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "carry out or perform an action"
+      ]
+    },
+    {
+      "senseId": "perform%2:41:02::",
+      "lemma": "perform",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "perform a function",
+      "synsetId": "02379855-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": null,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "perform a function"
+      ]
+    },
+    {
+      "senseId": "do%2:29:09::",
+      "lemma": "do",
+      "pos": "v",
+      "senseIndex": 8,
+      "definition": "behave in a certain manner; show a certain behavior; conduct or comport oneself",
+      "synsetId": "00010428-v",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 8,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "behave in a certain manner",
+        "show a certain behavior",
+        "conduct or comport oneself"
+      ]
+    },
+    {
+      "senseId": "do%2:42:01::",
+      "lemma": "do",
+      "pos": "v",
+      "senseIndex": 6,
+      "definition": "be sufficient; be adequate, either in quality or quantity",
+      "synsetId": "02675578-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 8,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be sufficient",
+        "be adequate, either in quality or quantity"
+      ]
+    },
+    {
+      "senseId": "common%5:00:00:unrefined:01",
+      "lemma": "common",
+      "pos": "a",
+      "senseIndex": 7,
+      "definition": "lacking refinement or cultivation or taste",
+      "synsetId": "01957020-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 17,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lacking refinement or cultivation or taste"
+      ]
+    },
+    {
+      "senseId": "common%5:00:00:familiar:02",
+      "lemma": "common",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "commonly encountered",
+      "synsetId": "00973799-s",
+      "words": 2,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 17,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "commonly encountered"
+      ]
+    },
+    {
+      "senseId": "words%1:10:00::",
+      "lemma": "words",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "words making up the dialogue of a play",
+      "synsetId": "07023937-n",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 19,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "words making up the dialogue of a play"
+      ]
+    },
+    {
+      "senseId": "web%1:05:02::",
+      "lemma": "web",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "membrane connecting the toes of some aquatic birds and mammals",
+      "synsetId": "01900969-n",
+      "words": 10,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 25,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "membrane connecting the toes of some aquatic birds and mammals"
+      ]
+    },
+    {
+      "senseId": "web%1:06:02::",
+      "lemma": "web",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "computer network consisting of a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol",
+      "synsetId": "04611634-n",
+      "words": 24,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 25,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "computer network consisting of a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol"
+      ]
+    },
+    {
+      "senseId": "web%1:06:01::",
+      "lemma": "web",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "a fabric (especially a fabric in the process of being woven)",
+      "synsetId": "04575999-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 25,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a fabric (especially a fabric in the process of being woven)"
+      ]
+    },
+    {
+      "senseId": "be%2:42:13::",
+      "lemma": "be",
+      "pos": "v",
+      "senseIndex": 10,
+      "definition": "to remain unmolested, undisturbed, or uninterrupted — used only in infinitive form",
+      "synsetId": "02750695-v",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 49,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "to remain unmolested, undisturbed, or uninterrupted — used only in infinitive form"
+      ]
+    },
+    {
+      "senseId": "have%2:29:05::",
+      "lemma": "have",
+      "pos": "v",
+      "senseIndex": 14,
+      "definition": "undergo (as of injuries and illnesses)",
+      "synsetId": "00065410-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 52,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "undergo (as of injuries and illnesses)"
+      ]
+    },
+    {
+      "senseId": "have%2:34:00::",
+      "lemma": "have",
+      "pos": "v",
+      "senseIndex": 5,
+      "definition": "serve oneself to, or consume regularly",
+      "synsetId": "01159300-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 52,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "serve oneself to, or consume regularly"
+      ]
+    },
+    {
+      "senseId": "so%4:02:09::",
+      "lemma": "so",
+      "pos": "r",
+      "senseIndex": 7,
+      "definition": "subsequently or soon afterward (often used as sentence connectors)",
+      "synsetId": "00118527-r",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 65,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "subsequently or soon afterward (often used as sentence connectors)"
+      ]
+    },
+    {
+      "senseId": "so%4:02:10::",
+      "lemma": "so",
+      "pos": "r",
+      "senseIndex": 8,
+      "definition": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+      "synsetId": "00043413-r",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 65,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result"
+      ]
+    },
+    {
+      "senseId": "one%5:00:00:combined:00",
+      "lemma": "one",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "being a single entity made by combining separate components",
+      "synsetId": "01333458-s",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 70,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "being a single entity made by combining separate components"
+      ]
+    },
+    {
+      "senseId": "one%5:00:00:extraordinary:00",
+      "lemma": "one",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "(informal) very; used informally as an intensifier",
+      "synsetId": "01682215-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 70,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(informal) very",
+        "used informally as an intensifier"
+      ]
+    },
+    {
+      "senseId": "out%5:00:00:outgoing:00",
+      "lemma": "out",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "directed outward or serving to direct something outward",
+      "synsetId": "01299067-s",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 77,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "directed outward or serving to direct something outward"
+      ]
+    },
+    {
+      "senseId": "out%5:00:00:unconscious:00",
+      "lemma": "out",
+      "pos": "a",
+      "senseIndex": 9,
+      "definition": "knocked unconscious by a heavy blow",
+      "synsetId": "00574990-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 77,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "knocked unconscious by a heavy blow"
+      ]
+    },
+    {
+      "senseId": "time%1:28:04::",
+      "lemma": "time",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event",
+      "synsetId": "15160774-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 91,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event"
+      ]
+    },
+    {
+      "senseId": "time%1:07:01::",
+      "lemma": "time",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "rhythm as given by division into parts of equal duration",
+      "synsetId": "04998860-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 91,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "rhythm as given by division into parts of equal duration"
+      ]
+    },
+    {
+      "senseId": "time%2:30:06::",
+      "lemma": "time",
+      "pos": "v",
+      "senseIndex": 4,
+      "definition": "adjust so that a force is applied and an action occurs at the desired time",
+      "synsetId": "00297754-v",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 91,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "adjust so that a force is applied and an action occurs at the desired time"
+      ]
+    },
+    {
+      "senseId": "get%2:29:00::",
+      "lemma": "get",
+      "pos": "v",
+      "senseIndex": 12,
+      "definition": "be stricken by an illness, fall victim to an illness",
+      "synsetId": "00087488-v",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 92,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be stricken by an illness, fall victim to an illness"
+      ]
+    },
+    {
+      "senseId": "get%2:35:09::",
+      "lemma": "get",
+      "pos": "v",
+      "senseIndex": 10,
+      "definition": "succeed in catching or seizing, especially after a chase",
+      "synsetId": "01217985-v",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 92,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "succeed in catching or seizing, especially after a chase"
+      ]
+    },
+    {
+      "senseId": "get%2:29:11::",
+      "lemma": "get",
+      "pos": "v",
+      "senseIndex": 34,
+      "definition": "undergo (as of injuries and illnesses)",
+      "synsetId": "00065410-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 92,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "undergo (as of injuries and illnesses)"
+      ]
+    },
+    {
+      "senseId": "get%2:32:03::",
+      "lemma": "get",
+      "pos": "v",
+      "senseIndex": 13,
+      "definition": "communicate with a place or person; establish communication with, as if by telephone",
+      "synsetId": "01068058-v",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 92,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "communicate with a place or person",
+        "establish communication with, as if by telephone"
+      ]
+    },
+    {
+      "senseId": "get%2:36:14::",
+      "lemma": "get",
+      "pos": "v",
+      "senseIndex": 29,
+      "definition": "apprehend and reproduce accurately",
+      "synsetId": "01741988-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 92,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "apprehend and reproduce accurately"
+      ]
+    },
+    {
+      "senseId": "new%5:00:00:early:02",
+      "lemma": "new",
+      "pos": "a",
+      "senseIndex": 6,
+      "definition": "(of crops) harvested at an early stage of development; before complete maturity",
+      "synsetId": "00821577-s",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 96,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of crops) harvested at an early stage of development",
+        "before complete maturity"
+      ]
+    },
+    {
+      "senseId": "people%1:14:03::",
+      "lemma": "people",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "the common people generally",
+      "synsetId": "08197108-n",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 97,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the common people generally"
+      ]
+    },
+    {
+      "senseId": "now%4:02:01::",
+      "lemma": "now",
+      "pos": "r",
+      "senseIndex": 4,
+      "definition": "without delay or hesitation; with no time intervening",
+      "synsetId": "00049277-r",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 102,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "without delay or hesitation",
+        "with no time intervening"
+      ]
+    },
+    {
+      "senseId": "now%4:02:07::",
+      "lemma": "now",
+      "pos": "r",
+      "senseIndex": 5,
+      "definition": "(prefatory or transitional) indicates a change of subject or activity",
+      "synsetId": "00050296-r",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 102,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(prefatory or transitional) indicates a change of subject or activity"
+      ]
+    },
+    {
+      "senseId": "good%1:06:00::",
+      "lemma": "good",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a raw material that is sold in large quantities, usually to other businesses for manufacturing or production purposes",
+      "synsetId": "03080712-n",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 107,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a raw material that is sold in large quantities, usually to other businesses for manufacturing or production purposes"
+      ]
+    },
+    {
+      "senseId": "good%5:00:00:healthful:00",
+      "lemma": "good",
+      "pos": "a",
+      "senseIndex": 17,
+      "definition": "tending to promote physical well-being; beneficial to health",
+      "synsetId": "01169957-s",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 107,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "tending to promote physical well-being",
+        "beneficial to health"
+      ]
+    },
+    {
+      "senseId": "first%1:04:00::",
+      "lemma": "first",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "the fielding position of the player on a baseball team who is stationed at first of the bases in the infield (counting counterclockwise from home plate)",
+      "synsetId": "00724798-n",
+      "words": 26,
+      "rare": 8,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 110,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the fielding position of the player on a baseball team who is stationed at first of the bases in the infield (counting counterclockwise from home plate)"
+      ]
+    },
+    {
+      "senseId": "first%1:06:00::",
+      "lemma": "first",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "the lowest forward gear ratio in the gear box of a motor vehicle; used to start a car moving",
+      "synsetId": "03354857-n",
+      "words": 19,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 110,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the lowest forward gear ratio in the gear box of a motor vehicle",
+        "used to start a car moving"
+      ]
+    },
+    {
+      "senseId": "know%2:31:04::",
+      "lemma": "know",
+      "pos": "v",
+      "senseIndex": 3,
+      "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+      "synsetId": "00598039-v",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 113,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have firsthand knowledge of states, situations, emotions, or sensations"
+      ]
+    },
+    {
+      "senseId": "see%2:32:00::",
+      "lemma": "see",
+      "pos": "v",
+      "senseIndex": 8,
+      "definition": "find out, learn, or determine with certainty, usually by making an inquiry or other effort",
+      "synsetId": "00922307-v",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 114,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort"
+      ]
+    },
+    {
+      "senseId": "see%2:39:13::",
+      "lemma": "see",
+      "pos": "v",
+      "senseIndex": 19,
+      "definition": "observe, check out, and look over carefully or inspect",
+      "synsetId": "02135744-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 114,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "observe, check out, and look over carefully or inspect"
+      ]
+    },
+    {
+      "senseId": "make%2:40:01::",
+      "lemma": "make",
+      "pos": "v",
+      "senseIndex": 9,
+      "definition": "earn on some commercial or business transaction; earn as salary or wages",
+      "synsetId": "02294200-v",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 116,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "earn on some commercial or business transaction",
+        "earn as salary or wages"
+      ]
+    },
+    {
+      "senseId": "make%2:32:09::",
+      "lemma": "make",
+      "pos": "v",
+      "senseIndex": 40,
+      "definition": "represent fictitiously, as in a play, or pretend to be or act like",
+      "synsetId": "00840203-v",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 116,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "represent fictitiously, as in a play, or pretend to be or act like"
+      ]
+    },
+    {
+      "senseId": "make%2:42:09::",
+      "lemma": "make",
+      "pos": "v",
+      "senseIndex": 29,
+      "definition": "undergo fabrication or creation",
+      "synsetId": "02754634-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 116,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "undergo fabrication or creation"
+      ]
+    },
+    {
+      "senseId": "think%2:31:12::",
+      "lemma": "think",
+      "pos": "v",
+      "senseIndex": 7,
+      "definition": "decide by pondering, reasoning, or reflecting",
+      "synsetId": "00741345-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 118,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "decide by pondering, reasoning, or reflecting"
+      ]
+    },
+    {
+      "senseId": "back%1:08:01::",
+      "lemma": "back",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "the series of vertebrae forming the axis of the skeleton and protecting the spinal cord",
+      "synsetId": "05595824-n",
+      "words": 15,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 122,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the series of vertebrae forming the axis of the skeleton and protecting the spinal cord"
+      ]
+    },
+    {
+      "senseId": "back%1:06:03::",
+      "lemma": "back",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "the protective covering on the front, back, and spine of a book",
+      "synsetId": "02843848-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 122,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the protective covering on the front, back, and spine of a book"
+      ]
+    },
+    {
+      "senseId": "back%2:30:00::",
+      "lemma": "back",
+      "pos": "v",
+      "senseIndex": 8,
+      "definition": "establish as valid or genuine",
+      "synsetId": "00223535-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 122,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "establish as valid or genuine"
+      ]
+    },
+    {
+      "senseId": "go%1:04:00::",
+      "lemma": "go",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters",
+      "synsetId": "00505336-n",
+      "words": 23,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 127,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a board game for two players who place counters on a grid",
+        "the object is to surround and so capture the opponent's counters"
+      ]
+    },
+    {
+      "senseId": "go%2:30:00::",
+      "lemma": "go",
+      "pos": "v",
+      "senseIndex": 16,
+      "definition": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "synsetId": "00359085-v",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 127,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "pass from physical life and lose all bodily attributes and functions necessary to sustain life"
+      ]
+    },
+    {
+      "senseId": "go%2:35:13::",
+      "lemma": "go",
+      "pos": "v",
+      "senseIndex": 26,
+      "definition": "go through in search of something; search through someone's belongings in an unauthorized way",
+      "synsetId": "01321509-v",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 127,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "go through in search of something",
+        "search through someone's belongings in an unauthorized way"
+      ]
+    },
+    {
+      "senseId": "go%2:42:00::",
+      "lemma": "go",
+      "pos": "v",
+      "senseIndex": 6,
+      "definition": "stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point",
+      "synsetId": "02691775-v",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 127,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "stretch out over a distance, space, time, or scope",
+        "run or extend between two points or beyond a certain point"
+      ]
+    },
+    {
+      "senseId": "well%1:06:01::",
+      "lemma": "well",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "an enclosed compartment in a ship or plane for holding something as e.g. fish or a plane's landing gear or for protecting something as e.g. a ship's pumps",
+      "synsetId": "04579845-n",
+      "words": 30,
+      "rare": 12,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 128,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an enclosed compartment in a ship or plane for holding something as e.g. fish or a plane's landing gear or for protecting something as e.g. a ship's pumps"
+      ]
+    }
+  ]
+}

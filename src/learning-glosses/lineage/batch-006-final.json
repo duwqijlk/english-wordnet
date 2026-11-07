@@ -1,0 +1,1196 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 6,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 39,
+      "of": 50,
+      "rate": 0.78
+    },
+    "secondPass": {
+      "approved": 7,
+      "of": 9
+    },
+    "selfApproved": [
+      "service%1:04:00::",
+      "black%2:30:00::"
+    ],
+    "selfApprovalNote": "User authorised self-approval on 2026-11-06; both fixes replace one example each and were recorded.",
+    "lineage": {
+      "draft": "337ad65dcf74636bf72f0a636548e5c2ab180dd533b12e76c5bdeb1b69c98aff",
+      "corrections": "e6eb976496dd78e60420024c11d135742d4ed2b5fa9378b6cdea8c9db5ee4ded"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "small%3:00:00::",
+      "lemma": "small",
+      "pos": "a",
+      "definition": "limited or below average in number or quantity or magnitude or extent",
+      "decision": "gloss",
+      "simpleMeaning": "not large in size, number, amount, or extent",
+      "scope": "The general describing adjective; see the separate size and degree entries.",
+      "examples": [
+        "They live in a small flat.",
+        "Only a small number of people came."
+      ],
+      "branchCoverage": [
+        "limited or below average -> \"not large ... below average\"",
+        "in number or quantity or magnitude or extent -> all four named"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "limited or below average in number or quantity or magnitude or extent"
+      ],
+      "lemmaPartition": "adjective general (not large) / adjective limited in degree / noun clothing size / adverb in a small way",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "small%5:00:00:limited:00",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Nearly indistinguishable from the general adjective sense in learner use; deferring avoids two glosses a reader cannot tell apart."
+    },
+    {
+      "senseId": "small%1:07:00::",
+      "lemma": "small",
+      "pos": "n",
+      "definition": "a garment size for a small person",
+      "decision": "gloss",
+      "simpleMeaning": "a clothing size for a small person",
+      "scope": "Clothing sizes only; not the adjective.",
+      "examples": [
+        "She wears a small.",
+        "The shirt comes in small, medium, and large."
+      ],
+      "branchCoverage": [
+        "a garment size -> \"a clothing size\"",
+        "for a small person -> \"for a small person\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a garment size for a small person"
+      ],
+      "lemmaPartition": "adjective general (not large) / adjective limited in degree / noun clothing size / adverb in a small way",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "small%4:02:00::",
+      "lemma": "small",
+      "pos": "r",
+      "definition": "on a small scale",
+      "decision": "gloss",
+      "simpleMeaning": "in a small way; not to a great degree",
+      "scope": "The adverb; not the adjective.",
+      "examples": [
+        "The business started small.",
+        "Write small to save paper."
+      ],
+      "branchCoverage": [
+        "on a small scale -> \"in a small way; not to a great degree\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "on a small scale"
+      ],
+      "lemmaPartition": "adjective general (not large) / adjective limited in degree / noun clothing size / adverb in a small way",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%1:13:00::",
+      "lemma": "white",
+      "pos": "n",
+      "definition": "the white part of an egg; the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water",
+      "decision": "gloss",
+      "simpleMeaning": "the clear part of an egg that surrounds the yolk",
+      "scope": "Egg only; not the colour.",
+      "examples": [
+        "Beat the egg whites until stiff.",
+        "Separate the yolk from the white."
+      ],
+      "branchCoverage": [
+        "the white part of an egg -> \"the clear part of an egg\"",
+        "surrounding the yolk -> \"that surrounds the yolk\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the white part of an egg",
+        "the nutritive and protective gelatinous substance surrounding the yolk consisting mainly of albumin dissolved in water"
+      ],
+      "lemmaPartition": "noun egg white / adjective colour / noun colour / adjective morally pure (deferred) / adjective racial group / verb turn white",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%3:00:01::",
+      "lemma": "white",
+      "pos": "a",
+      "definition": "being of the achromatic color of maximum lightness; having little or no hue owing to reflection of almost all incident light",
+      "decision": "gloss",
+      "simpleMeaning": "of the colour of fresh snow or milk; the lightest colour",
+      "scope": "The adjective; the colour as a noun is a separate entry.",
+      "examples": [
+        "She wore a white shirt.",
+        "The walls are white."
+      ],
+      "branchCoverage": [
+        "achromatic colour of maximum lightness -> \"the lightest colour\"",
+        "little or no hue -> \"of the colour of fresh snow or milk\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "being of the achromatic color of maximum lightness",
+        "having little or no hue owing to reflection of almost all incident light"
+      ],
+      "lemmaPartition": "noun egg white / adjective colour / noun colour / adjective morally pure (deferred) / adjective racial group / verb turn white",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%1:07:00::",
+      "lemma": "white",
+      "pos": "n",
+      "definition": "the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)",
+      "decision": "gloss",
+      "simpleMeaning": "the colour of fresh snow; the lightest colour",
+      "scope": "The colour as a noun; the adjective is a separate entry.",
+      "examples": [
+        "White is the colour of her dress.",
+        "The room was painted in white."
+      ],
+      "branchCoverage": [
+        "quality or state of the achromatic colour of greatest lightness -> \"the colour of fresh snow; the lightest colour\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the quality or state of the achromatic color of greatest lightness (bearing the least resemblance to black)"
+      ],
+      "lemmaPartition": "noun egg white / adjective colour / noun colour / adjective morally pure (deferred) / adjective racial group / verb turn white",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%5:00:00:pure:01",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Archaic literary sense of moral purity; the everyday word is \"pure\" or \"blameless\"."
+    },
+    {
+      "senseId": "white%3:00:02::",
+      "lemma": "white",
+      "pos": "a",
+      "definition": "of or belonging to a racial group having light skin coloration",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to a racial group with light skin",
+      "scope": "Racial description; not the colour sense.",
+      "examples": [
+        "white voters went to the polls",
+        "a white man in a grey coat"
+      ],
+      "branchCoverage": [
+        "of or belonging to a racial group -> \"belonging to a racial group\"",
+        "having light skin coloration -> \"with light skin\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or belonging to a racial group having light skin coloration"
+      ],
+      "lemmaPartition": "noun egg white / adjective colour / noun colour / adjective morally pure (deferred) / adjective racial group / verb turn white",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%2:30:00::",
+      "lemma": "white",
+      "pos": "v",
+      "definition": "turn white",
+      "decision": "gloss",
+      "simpleMeaning": "to become or make white",
+      "scope": "The verb; not the colour words.",
+      "examples": [
+        "The bone whited in the sun.",
+        "The frost whited the fields."
+      ],
+      "branchCoverage": [
+        "turn white -> \"become or make white\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "turn white"
+      ],
+      "lemmaPartition": "noun egg white / adjective colour / noun colour / adjective morally pure (deferred) / adjective racial group / verb turn white",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "try%1:04:00::",
+      "lemma": "try",
+      "pos": "n",
+      "definition": "earnest and conscientious activity intended to do or accomplish something",
+      "decision": "gloss",
+      "simpleMeaning": "an attempt to do something",
+      "scope": "The noun; not the verb.",
+      "examples": [
+        "It was a good try.",
+        "He had three tries at the exam."
+      ],
+      "branchCoverage": [
+        "earnest and conscientious activity -> \"an attempt\"",
+        "intended to accomplish something -> \"to do something\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "earnest and conscientious activity intended to do or accomplish something"
+      ],
+      "lemmaPartition": "",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "actually%4:02:00::",
+      "lemma": "actually",
+      "pos": "r",
+      "definition": "used to imply that one would expect the fact to be the opposite of that stated; surprisingly",
+      "decision": "gloss",
+      "simpleMeaning": "used to say that something is surprising or the opposite of what was expected",
+      "scope": "Surprise or contrast; not the plain \"in fact\" sense.",
+      "examples": [
+        "He actually agreed to come.",
+        "She actually enjoyed the test."
+      ],
+      "branchCoverage": [
+        "used to imply that the opposite of what is stated might be expected -> \"the opposite of what was expected\"",
+        "surprisingly -> \"surprising\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "used to imply that one would expect the fact to be the opposite of that stated",
+        "surprisingly"
+      ],
+      "lemmaPartition": "adverb surprising, contrary to expectation / adverb in fact",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "actually%4:02:01::",
+      "lemma": "actually",
+      "pos": "r",
+      "definition": "in actual fact",
+      "decision": "gloss",
+      "simpleMeaning": "in fact; really",
+      "scope": "Plain fact; not the surprise sense.",
+      "examples": [
+        "It actually happened.",
+        "The plan actually worked."
+      ],
+      "branchCoverage": [
+        "in actual fact -> \"in fact; really\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in actual fact"
+      ],
+      "lemmaPartition": "adverb surprising, contrary to expectation / adverb in fact",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "less%4:02:00::",
+      "lemma": "less",
+      "pos": "r",
+      "definition": "used to form the comparative of some adjectives and adverbs, indicates that the adjective or adverb is less of something",
+      "decision": "gloss",
+      "simpleMeaning": "to a smaller degree; used to compare",
+      "scope": "The adverb; not the adjective before a noun.",
+      "examples": [
+        "He sleeps less than he used to.",
+        "She visits less often now."
+      ],
+      "branchCoverage": [
+        "comparative of adjectives and adverbs -> \"used to compare\"",
+        "less of something -> \"to a smaller degree\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "used to form the comparative of some adjectives and adverbs, indicates that the adjective or adverb is less of something"
+      ],
+      "lemmaPartition": "adverb to a smaller degree / adjective fewer with measurements / adjective not as much with mass nouns",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "less%5:00:00:fewer:00",
+      "lemma": "less",
+      "pos": "a",
+      "definition": "(nonstandard in some uses but often idiomatic with measure phrases) fewer",
+      "decision": "gloss",
+      "simpleMeaning": "fewer; used with measurements, especially in informal speech",
+      "scope": "Informal with measurements, as in less than ten miles; standard English prefers fewer with count nouns.",
+      "examples": [
+        "less than ten miles to the coast",
+        "He paid less than twenty pounds."
+      ],
+      "branchCoverage": [
+        "fewer -> \"fewer\"",
+        "idiomatic with measure phrases -> \"used with measurements, especially in informal speech\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(nonstandard in some uses but often idiomatic with measure phrases) fewer"
+      ],
+      "lemmaPartition": "adverb to a smaller degree / adjective fewer with measurements / adjective not as much with mass nouns",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "less%3:00:00::",
+      "lemma": "less",
+      "pos": "a",
+      "definition": "(comparative of ‘little’ usually used with mass nouns) a quantifier meaning not as great in amount or degree",
+      "decision": "gloss",
+      "simpleMeaning": "not as much in amount or degree",
+      "scope": "Before things you cannot count; not the adverb.",
+      "examples": [
+        "There is less water in the lake.",
+        "He has less time than before."
+      ],
+      "branchCoverage": [
+        "comparative of little with mass nouns -> \"not as much\" with things you cannot count",
+        "not as great in amount or degree -> same wording"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(comparative of ‘little’ usually used with mass nouns) a quantifier meaning not as great in amount or degree"
+      ],
+      "lemmaPartition": "adverb to a smaller degree / adjective fewer with measurements / adjective not as much with mass nouns",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:10:01::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a mark that is long relative to its width",
+      "decision": "gloss",
+      "simpleMeaning": "a long thin mark",
+      "scope": "A mark; not a row of people or a railway line.",
+      "examples": [
+        "Draw a line on the paper.",
+        "The road has a white line down the middle."
+      ],
+      "branchCoverage": [
+        "a mark -> \"a mark\"",
+        "long relative to its width -> \"long thin\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a mark that is long relative to its width"
+      ],
+      "lemmaPartition": "",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "order%2:32:02::",
+      "lemma": "order",
+      "pos": "v",
+      "definition": "issue commands or orders for",
+      "decision": "gloss",
+      "simpleMeaning": "to tell someone to do something",
+      "scope": "The verb of command; not asking for goods in a shop.",
+      "examples": [
+        "The captain ordered the men to return.",
+        "She ordered him to leave."
+      ],
+      "branchCoverage": [
+        "issue commands -> \"tell someone to do something\"",
+        "or orders for -> same wording"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "issue commands or orders for"
+      ],
+      "lemmaPartition": "",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "party%2:41:00::",
+      "lemma": "party",
+      "pos": "v",
+      "definition": "have or participate in a party",
+      "decision": "gloss",
+      "simpleMeaning": "to celebrate with friends at a social event",
+      "scope": "The verb; not a political group.",
+      "examples": [
+        "They partied all night.",
+        "We partied until dawn."
+      ],
+      "branchCoverage": [
+        "have or participate in a party -> \"celebrate with friends at a social event\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have or participate in a party"
+      ],
+      "lemmaPartition": "",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "run%2:38:04::",
+      "lemma": "run",
+      "pos": "v",
+      "definition": "flee; take to one's heels; cut and run",
+      "decision": "gloss",
+      "simpleMeaning": "to run away from danger; to flee",
+      "scope": "Fleeing; not moving quickly in general.",
+      "examples": [
+        "He ran from the police.",
+        "She ran when she saw the dog."
+      ],
+      "branchCoverage": [
+        "flee -> \"run away from danger\"",
+        "take to one's heels -> \"flee\"",
+        "cut and run -> same meaning"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "flee",
+        "take to one's heels",
+        "cut and run"
+      ],
+      "lemmaPartition": "verb flee / verb stretch or continue over distance, space, or time",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%2:42:00::",
+      "lemma": "run",
+      "pos": "v",
+      "definition": "stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point",
+      "decision": "gloss",
+      "simpleMeaning": "to stretch or continue over distance, space, or time",
+      "scope": "Extending; not moving on foot.",
+      "examples": [
+        "The road runs east.",
+        "The meeting ran for two hours."
+      ],
+      "branchCoverage": [
+        "stretch out over distance, space, time, or scope -> \"stretch or continue over\"",
+        "extend between two points -> \"over distance, space, or time\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "stretch out over a distance, space, time, or scope",
+        "run or extend between two points or beyond a certain point"
+      ],
+      "lemmaPartition": "verb flee / verb stretch or continue over distance, space, or time",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "service%1:04:00::",
+      "lemma": "service",
+      "pos": "n",
+      "definition": "an act of help or assistance; something (such as a tool, software or system) used to render said help or assistance",
+      "decision": "gloss",
+      "simpleMeaning": "an act of helping someone, or something that provides help",
+      "scope": "Help or a system that helps; not a religious ceremony.",
+      "examples": [
+        "She did me a great service by explaining the form.",
+        "The hospital provides a valuable service to patients."
+      ],
+      "branchCoverage": [
+        "an act of help or assistance -> \"an act of helping someone\"",
+        "something such as a tool or system used to render help -> \"something that provides help\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an act of help or assistance",
+        "something (such as a tool, software or system) used to render said help or assistance"
+      ],
+      "lemmaPartition": "",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "self-approved-example-fix"
+    },
+    {
+      "senseId": "country%1:14:01::",
+      "lemma": "country",
+      "pos": "n",
+      "definition": "the people who live in a nation or country",
+      "decision": "gloss",
+      "simpleMeaning": "the people who live in a nation",
+      "scope": "The people; not the land.",
+      "examples": [
+        "The whole country celebrated.",
+        "The country voted for change."
+      ],
+      "branchCoverage": [
+        "the people who live in a nation or country -> \"the people who live in a nation\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the people who live in a nation or country"
+      ],
+      "lemmaPartition": "",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "open%3:00:01::",
+      "lemma": "open",
+      "pos": "a",
+      "definition": "affording unobstructed entrance and exit; not shut or closed",
+      "decision": "gloss",
+      "simpleMeaning": "not shut or blocked; allowing entrance and exit",
+      "scope": "The adjective; not the tournament.",
+      "examples": [
+        "The door is open.",
+        "They drove along an open road."
+      ],
+      "branchCoverage": [
+        "affording unobstructed entrance and exit -> \"allowing entrance and exit\"",
+        "not shut or closed -> \"not shut or blocked\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "affording unobstructed entrance and exit",
+        "not shut or closed"
+      ],
+      "lemmaPartition": "adjective not shut / noun tournament for professionals and amateurs",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "open%1:11:00::",
+      "lemma": "open",
+      "pos": "n",
+      "definition": "a tournament in which both professionals and amateurs may play",
+      "decision": "gloss",
+      "simpleMeaning": "a competition anyone may enter, professional or amateur",
+      "scope": "The noun; not the adjective.",
+      "examples": [
+        "He won the tennis open.",
+        "The golf open starts on Friday."
+      ],
+      "branchCoverage": [
+        "a tournament -> \"a competition\"",
+        "both professionals and amateurs may play -> \"anyone may enter, professional or amateur\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a tournament in which both professionals and amateurs may play"
+      ],
+      "lemmaPartition": "adjective not shut / noun tournament for professionals and amateurs",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "season%1:28:00::",
+      "lemma": "season",
+      "pos": "n",
+      "definition": "one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions",
+      "decision": "gloss",
+      "simpleMeaning": "one of the natural periods of the year, such as spring or winter",
+      "scope": "Natural periods; not holiday periods.",
+      "examples": [
+        "Autumn is my favourite season.",
+        "The rainy season lasts three months."
+      ],
+      "branchCoverage": [
+        "natural periods divided by equinoxes and solstices -> \"natural periods of the year\"",
+        "or atmospheric conditions -> \"such as spring or winter\" and the rainy-season example"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions"
+      ],
+      "lemmaPartition": "noun natural period of the year / noun holiday period / verb add flavour",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "season%1:28:01::",
+      "lemma": "season",
+      "pos": "n",
+      "definition": "a recurrent time marked by major holidays",
+      "decision": "gloss",
+      "simpleMeaning": "a period each year marked by a major holiday or festival",
+      "scope": "Holiday periods; not the natural seasons.",
+      "examples": [
+        "the Christmas season",
+        "The holiday season is busy for shops."
+      ],
+      "branchCoverage": [
+        "recurrent time -> \"a period each year\"",
+        "marked by major holidays -> \"marked by a major holiday or festival\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a recurrent time marked by major holidays"
+      ],
+      "lemmaPartition": "noun natural period of the year / noun holiday period / verb add flavour",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "season%2:30:01::",
+      "lemma": "season",
+      "pos": "v",
+      "definition": "make more temperate, acceptable, or suitable by adding something else",
+      "decision": "gloss",
+      "simpleMeaning": "to make something less harsh or more acceptable",
+      "scope": "The tempering sense; cooking with salt and spices is a different entry.",
+      "examples": [
+        "She seasoned her criticism with praise.",
+        "The judge seasoned justice with mercy."
+      ],
+      "branchCoverage": [
+        "make more temperate, acceptable, or suitable -> \"less harsh or more acceptable\"",
+        "by adding something else -> \"with praise\" / \"with mercy\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make more temperate, acceptable, or suitable by adding something else"
+      ],
+      "lemmaPartition": "noun natural period of the year / noun holiday period / verb add flavour",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "general%5:00:00:common:01",
+      "lemma": "general",
+      "pos": "a",
+      "definition": "prevailing among and common to the general public",
+      "decision": "gloss",
+      "simpleMeaning": "common to most people; not specific",
+      "scope": "The adjective; not a military rank.",
+      "examples": [
+        "general knowledge",
+        "The general opinion is that it will rain."
+      ],
+      "branchCoverage": [
+        "prevailing among and common to the general public -> \"common to most people\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "prevailing among and common to the general public"
+      ],
+      "lemmaPartition": "adjective common to most people / verb command as a general",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "general%2:32:00::",
+      "lemma": "general",
+      "pos": "v",
+      "definition": "command as a general",
+      "decision": "gloss",
+      "simpleMeaning": "to lead and command an army as its commander",
+      "scope": "Military only; not the adjective.",
+      "examples": [
+        "He generalled the army for ten years.",
+        "She generalled the campaign."
+      ],
+      "branchCoverage": [
+        "command as a general -> \"lead and command an army as its commander\", without the headword"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "command as a general"
+      ],
+      "lemmaPartition": "adjective common to most people / verb command as a general",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "united%3:00:00::",
+      "lemma": "united",
+      "pos": "a",
+      "definition": "characterized by unity; being or joined into a single entity",
+      "decision": "gloss",
+      "simpleMeaning": "joined together as one",
+      "scope": "Unity; not a country name.",
+      "examples": [
+        "a united family",
+        "The two parties are united on this issue."
+      ],
+      "branchCoverage": [
+        "characterized by unity -> \"joined together as one\"",
+        "joined into a single entity -> same wording"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characterized by unity",
+        "being or joined into a single entity"
+      ],
+      "lemmaPartition": "",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "using%1:04:00::",
+      "lemma": "using",
+      "pos": "n",
+      "definition": "an act that exploits or victimizes someone (treats them unfairly)",
+      "decision": "gloss",
+      "simpleMeaning": "the act of treating someone unfairly to get something",
+      "scope": "Exploitation; not the ordinary use of a tool.",
+      "examples": [
+        "His using of her trust was cruel.",
+        "The using of workers is not acceptable."
+      ],
+      "branchCoverage": [
+        "exploits or victimizes someone -> \"treating someone unfairly\"",
+        "treats them unfairly -> same wording"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an act that exploits or victimizes someone (treats them unfairly)"
+      ],
+      "lemmaPartition": "",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "area%1:15:01::",
+      "lemma": "area",
+      "pos": "n",
+      "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
+      "decision": "gloss",
+      "simpleMeaning": "a part of a country or the world with no exact borders",
+      "scope": "Geographical region; not a body part.",
+      "examples": [
+        "a rural area",
+        "The area is known for its wine."
+      ],
+      "branchCoverage": [
+        "geographical region of indefinite boundary -> \"part of a country or the world with no exact borders\"",
+        "distinguished by people, culture, or geography -> \"known for its wine\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ],
+      "lemmaPartition": "noun geographical region / noun body part with a function",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "area%1:08:00::",
+      "lemma": "area",
+      "pos": "n",
+      "definition": "a part of an animal that has a special function or is supplied by a given artery or nerve",
+      "decision": "gloss",
+      "simpleMeaning": "a body part with a special job or nerve and blood supply",
+      "scope": "Body only; not a geographical region.",
+      "examples": [
+        "the motor area of the brain",
+        "Damage to the speech area caused her to lose words."
+      ],
+      "branchCoverage": [
+        "a part of an animal -> \"a body part\"",
+        "special function or supplied by an artery or nerve -> \"a special job or nerve and blood supply\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a part of an animal that has a special function or is supplied by a given artery or nerve"
+      ],
+      "lemmaPartition": "noun geographical region / noun body part with a function",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "black%3:00:01::",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "being of the achromatic color of maximum darkness; having little or no hue owing to absorption of almost all incident light",
+      "decision": "gloss",
+      "simpleMeaning": "of the darkest colour, like night or coal",
+      "scope": "The adjective; the colour as a noun is a separate entry.",
+      "examples": [
+        "She wore a black coat.",
+        "The sky turned black."
+      ],
+      "branchCoverage": [
+        "achromatic colour of maximum darkness -> \"the darkest colour\"",
+        "little or no hue -> \"like night or coal\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "being of the achromatic color of maximum darkness",
+        "having little or no hue owing to absorption of almost all incident light"
+      ],
+      "lemmaPartition": "adjective darkest colour / adjective racial group / noun darkest colour / adjective angry / verb make or become black",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%3:00:02::",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "of or belonging to a racial group especially of sub-Saharan African origin",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to a racial group with dark skin, especially of African origin",
+      "scope": "Racial description; not the colour sense.",
+      "examples": [
+        "black students at the college",
+        "a black writer from Lagos"
+      ],
+      "branchCoverage": [
+        "of or belonging to a racial group -> \"belonging to a racial group\"",
+        "especially of sub-Saharan African origin -> \"especially of African origin\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or belonging to a racial group especially of sub-Saharan African origin"
+      ],
+      "lemmaPartition": "adjective darkest colour / adjective racial group / noun darkest colour / adjective angry / verb make or become black",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%1:07:00::",
+      "lemma": "black",
+      "pos": "n",
+      "definition": "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)",
+      "decision": "gloss",
+      "simpleMeaning": "the darkest colour, like night or coal",
+      "scope": "The colour as a noun; the adjective is a separate entry.",
+      "examples": [
+        "She was dressed in black.",
+        "Black is the colour of the cat."
+      ],
+      "branchCoverage": [
+        "quality or state of the achromatic colour of least lightness -> \"the darkest colour\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)"
+      ],
+      "lemmaPartition": "adjective darkest colour / adjective racial group / noun darkest colour / adjective angry / verb make or become black",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%5:00:00:angry:00",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "marked by anger or resentment or hostility",
+      "decision": "gloss",
+      "simpleMeaning": "full of anger or hostility",
+      "scope": "Mood; not the colour.",
+      "examples": [
+        "She was in a black mood.",
+        "He gave me a black look."
+      ],
+      "branchCoverage": [
+        "marked by anger -> \"full of anger\"",
+        "resentment or hostility -> \"or hostility\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by anger or resentment or hostility"
+      ],
+      "lemmaPartition": "adjective darkest colour / adjective racial group / noun darkest colour / adjective angry / verb make or become black",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%2:30:00::",
+      "lemma": "black",
+      "pos": "v",
+      "definition": "make or become black",
+      "decision": "gloss",
+      "simpleMeaning": "to make something, or become, the darkest colour",
+      "scope": "The verb; not the colour words.",
+      "examples": [
+        "The fire blacked the walls.",
+        "He blacked his boots with polish."
+      ],
+      "branchCoverage": [
+        "make or become black -> \"make something, or become, the darkest colour\", without the headword"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make or become black"
+      ],
+      "lemmaPartition": "adjective darkest colour / adjective racial group / noun darkest colour / adjective angry / verb make or become black",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "self-approved-example-fix"
+    },
+    {
+      "senseId": "following%1:04:01::",
+      "lemma": "following",
+      "pos": "n",
+      "definition": "the act of pursuing in an effort to overtake or capture",
+      "decision": "gloss",
+      "simpleMeaning": "the act of chasing someone in order to catch them",
+      "scope": "Pursuit; not a group of supporters.",
+      "examples": [
+        "The following of the suspect lasted an hour.",
+        "Police began the following at dawn."
+      ],
+      "branchCoverage": [
+        "the act of pursuing -> \"the act of chasing\"",
+        "in an effort to overtake or capture -> \"in order to catch them\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of pursuing in an effort to overtake or capture"
+      ],
+      "lemmaPartition": "noun act of chasing / noun group of supporters / adjective coming next",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "following%1:14:00::",
+      "lemma": "following",
+      "pos": "n",
+      "definition": "a group of followers or enthusiasts",
+      "decision": "gloss",
+      "simpleMeaning": "a group of people who support or follow someone",
+      "scope": "Supporters; not the act of chasing.",
+      "examples": [
+        "The band has a large following.",
+        "She built a following online."
+      ],
+      "branchCoverage": [
+        "a group of followers or enthusiasts -> \"a group of people who support or follow someone\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a group of followers or enthusiasts"
+      ],
+      "lemmaPartition": "noun act of chasing / noun group of supporters / adjective coming next",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "following%5:00:02:succeeding:00",
+      "lemma": "following",
+      "pos": "a",
+      "definition": "immediately following in time or order",
+      "decision": "gloss",
+      "simpleMeaning": "coming next in time or order",
+      "scope": "The adjective; not the noun.",
+      "examples": [
+        "the following day",
+        "Answer the following questions."
+      ],
+      "branchCoverage": [
+        "immediately following in time or order -> \"coming next in time or order\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "immediately following in time or order"
+      ],
+      "lemmaPartition": "noun act of chasing / noun group of supporters / adjective coming next",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "law%1:09:00::",
+      "lemma": "law",
+      "pos": "n",
+      "definition": "a rule or body of rules of conduct inherent in human nature and essential to or binding upon human society",
+      "decision": "gloss",
+      "simpleMeaning": "the set of rules a society must obey",
+      "scope": "Rules binding on society; not a scientific law.",
+      "examples": [
+        "Murder is against the law.",
+        "The law protects workers."
+      ],
+      "branchCoverage": [
+        "a rule or body of rules of conduct -> \"the set of rules\"",
+        "binding upon human society -> \"a society must obey\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a rule or body of rules of conduct inherent in human nature and essential to or binding upon human society"
+      ],
+      "lemmaPartition": "",
+      "reason": "Second pass adopting reviewer wording.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "together%5:00:00:unneurotic:00",
+      "lemma": "together",
+      "pos": "a",
+      "definition": "mentally and emotionally stable",
+      "decision": "gloss",
+      "simpleMeaning": "mentally and emotionally stable; organized",
+      "scope": "The adjective; not the adverb \"with each other\".",
+      "examples": [
+        "She is very together.",
+        "He seemed more together after the rest."
+      ],
+      "branchCoverage": [
+        "mentally and emotionally stable -> \"mentally and emotionally stable\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "mentally and emotionally stable"
+      ],
+      "lemmaPartition": "",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "war%1:04:02::",
+      "lemma": "war",
+      "pos": "n",
+      "definition": "an active struggle between competing entities",
+      "decision": "gloss",
+      "simpleMeaning": "an active struggle between competing groups or forces",
+      "scope": "Struggle; not necessarily fighting with weapons.",
+      "examples": [
+        "a trade war",
+        "the war against poverty"
+      ],
+      "branchCoverage": [
+        "active struggle -> \"an active struggle\"",
+        "between competing entities -> \"between competing groups or forces\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an active struggle between competing entities"
+      ],
+      "lemmaPartition": "",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "whole%3:00:00::",
+      "lemma": "whole",
+      "pos": "a",
+      "definition": "including all components without exception; being one unit or constituting the full amount or extent or duration; complete",
+      "decision": "gloss",
+      "simpleMeaning": "complete; including every part",
+      "scope": "The adjective; the noun is a separate entry.",
+      "examples": [
+        "the whole story",
+        "He ate the whole cake."
+      ],
+      "branchCoverage": [
+        "including all components without exception -> \"including every part\"",
+        "constituting the full amount or extent or duration -> \"complete\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "including all components without exception",
+        "being one unit or constituting the full amount or extent or duration",
+        "complete"
+      ],
+      "lemmaPartition": "adjective complete / noun a complete thing made of parts",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "whole%1:03:00::",
+      "lemma": "whole",
+      "pos": "n",
+      "definition": "an assemblage of parts that is regarded as a single entity",
+      "decision": "gloss",
+      "simpleMeaning": "a complete thing made of parts",
+      "scope": "The noun; not the adjective.",
+      "examples": [
+        "The whole is greater than its parts.",
+        "They studied the whole of the plan."
+      ],
+      "branchCoverage": [
+        "an assemblage of parts regarded as a single entity -> \"a complete thing made of parts\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an assemblage of parts that is regarded as a single entity"
+      ],
+      "lemmaPartition": "adjective complete / noun a complete thing made of parts",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "car%1:06:03::",
+      "lemma": "car",
+      "pos": "n",
+      "definition": "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant",
+      "decision": "gloss",
+      "simpleMeaning": "the part of an airship that carries people, cargo, and the engines",
+      "scope": "Airships only; not a road vehicle.",
+      "examples": [
+        "The car of the airship held six passengers.",
+        "They climbed into the car below the balloon."
+      ],
+      "branchCoverage": [
+        "the compartment suspended from an airship -> \"the part of an airship\"",
+        "carries personnel, cargo, and power plant -> \"carries people, cargo, and the engines\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant"
+      ],
+      "lemmaPartition": "noun airship compartment / noun road motor vehicle / noun rail vehicle",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "car%1:06:00::",
+      "lemma": "car",
+      "pos": "n",
+      "definition": "a motor vehicle with four wheels; usually propelled by an internal combustion engine",
+      "decision": "gloss",
+      "simpleMeaning": "a road vehicle with four wheels and an engine",
+      "scope": "Motor vehicles; not a rail vehicle.",
+      "examples": [
+        "She bought a new car.",
+        "The car broke down on the hill."
+      ],
+      "branchCoverage": [
+        "a motor vehicle with four wheels -> \"a road vehicle with four wheels\"",
+        "propelled by an internal combustion engine -> \"and an engine\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a motor vehicle with four wheels",
+        "usually propelled by an internal combustion engine"
+      ],
+      "lemmaPartition": "noun airship compartment / noun road motor vehicle / noun rail vehicle",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "car%1:06:01::",
+      "lemma": "car",
+      "pos": "n",
+      "definition": "a wheeled vehicle adapted to the rails of railroad",
+      "decision": "gloss",
+      "simpleMeaning": "a vehicle that runs on rails",
+      "scope": "Rail vehicles; not a road car.",
+      "examples": [
+        "The dining car was full.",
+        "A sleeping car is attached to the train."
+      ],
+      "branchCoverage": [
+        "a wheeled vehicle adapted to the rails of a railroad -> \"a vehicle that runs on rails\""
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a wheeled vehicle adapted to the rails of railroad"
+      ],
+      "lemmaPartition": "noun airship compartment / noun road motor vehicle / noun rail vehicle",
+      "reason": "First draft, lemma-partitioned.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,962 @@
+{
+  "schema": "oewn-gloss-batch-v2",
+  "batch": 69,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 3400,
+  "senses": [
+    {
+      "senseId": "average%1:24:00::",
+      "lemma": "average",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(sports) the ratio of successful performances to opportunities",
+      "synsetId": "13842867-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 672,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(sports) the ratio of successful performances to opportunities"
+      ]
+    },
+    {
+      "senseId": "average%5:00:02:normal:01",
+      "lemma": "average",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "approximating the statistical norm or average or expected value",
+      "synsetId": "01598728-s",
+      "words": 9,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 672,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "approximating the statistical norm or average or expected value"
+      ]
+    },
+    {
+      "senseId": "average%2:31:00::",
+      "lemma": "average",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "compute the average of",
+      "synsetId": "00641660-v",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 672,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "compute the average of"
+      ]
+    },
+    {
+      "senseId": "received%3:00:04::",
+      "lemma": "received",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "conforming to the established language usage of educated native speakers",
+      "synsetId": "02305339-a",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 687,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "conforming to the established language usage of educated native speakers"
+      ]
+    },
+    {
+      "senseId": "evidence%1:10:00::",
+      "lemma": "evidence",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved",
+      "synsetId": "06746688-n",
+      "words": 22,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 712,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved"
+      ]
+    },
+    {
+      "senseId": "evidence%2:32:01::",
+      "lemma": "evidence",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "provide evidence for",
+      "synsetId": "01017253-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 712,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "provide evidence for"
+      ]
+    },
+    {
+      "senseId": "round%5:00:00:inexact:00",
+      "lemma": "round",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(mathematics) expressed to the nearest integer, ten, hundred, or thousand",
+      "synsetId": "00919638-s",
+      "words": 10,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 720,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(mathematics) expressed to the nearest integer, ten, hundred, or thousand"
+      ]
+    },
+    {
+      "senseId": "save%1:04:00::",
+      "lemma": "save",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(sports) the act of preventing the opposition from scoring",
+      "synsetId": "01081320-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 721,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(sports) the act of preventing the opposition from scoring"
+      ]
+    },
+    {
+      "senseId": "model%2:39:01::",
+      "lemma": "model",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "assume a posture as for artistic purposes",
+      "synsetId": "02147248-v",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 739,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "assume a posture as for artistic purposes"
+      ]
+    },
+    {
+      "senseId": "model%2:36:00::",
+      "lemma": "model",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "form in clay, wax, etc",
+      "synsetId": "01700922-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 739,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "form in clay, wax, etc"
+      ]
+    },
+    {
+      "senseId": "picture%2:36:00::",
+      "lemma": "picture",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "show in, or as in, a picture",
+      "synsetId": "01690851-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 740,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "show in, or as in, a picture"
+      ]
+    },
+    {
+      "senseId": "trade%2:40:01::",
+      "lemma": "trade",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "engage in the trade of",
+      "synsetId": "02265169-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 756,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "engage in the trade of"
+      ]
+    },
+    {
+      "senseId": "trade%2:42:00::",
+      "lemma": "trade",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "be traded at a certain price or under certain conditions",
+      "synsetId": "02734659-v",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 756,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "be traded at a certain price or under certain conditions"
+      ]
+    },
+    {
+      "senseId": "cup%2:29:00::",
+      "lemma": "cup",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "treat by applying evacuated cups to the patient's skin",
+      "synsetId": "00087042-v",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 764,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "treat by applying evacuated cups to the patient's skin"
+      ]
+    },
+    {
+      "senseId": "style%1:10:00::",
+      "lemma": "style",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period",
+      "synsetId": "07080699-n",
+      "words": 25,
+      "rare": 3,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 775,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period"
+      ]
+    },
+    {
+      "senseId": "style%2:36:00::",
+      "lemma": "style",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "make consistent with a certain fashion or style",
+      "synsetId": "01670789-v",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 775,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "make consistent with a certain fashion or style"
+      ]
+    },
+    {
+      "senseId": "vote%1:07:00::",
+      "lemma": "vote",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed to women by the 19th amendment",
+      "synsetId": "05193574-n",
+      "words": 19,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 776,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a legal right guaranteed by the 15th amendment to the US Constitution",
+        "guaranteed to women by the 19th amendment"
+      ]
+    },
+    {
+      "senseId": "blood%1:08:00::",
+      "lemma": "blood",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",
+      "synsetId": "05407190-n",
+      "words": 21,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 779,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets"
+      ]
+    },
+    {
+      "senseId": "language%1:10:01::",
+      "lemma": "language",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(language) communication by word of mouth",
+      "synsetId": "07123904-n",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 786,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(language) communication by word of mouth"
+      ]
+    },
+    {
+      "senseId": "stage%2:36:00::",
+      "lemma": "stage",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "perform (a play), especially on a stage",
+      "synsetId": "01715304-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 792,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "perform (a play), especially on a stage"
+      ]
+    },
+    {
+      "senseId": "decision%1:11:02::",
+      "lemma": "decision",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(boxing) a victory won on points when no knockout has occurred",
+      "synsetId": "07308384-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 801,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(boxing) a victory won on points when no knockout has occurred"
+      ]
+    },
+    {
+      "senseId": "code%1:10:02::",
+      "lemma": "code",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions",
+      "synsetId": "06367301-n",
+      "words": 19,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 815,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions"
+      ]
+    },
+    {
+      "senseId": "council%1:14:02::",
+      "lemma": "council",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine",
+      "synsetId": "08329489-n",
+      "words": 25,
+      "rare": 11,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 818,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine"
+      ]
+    },
+    {
+      "senseId": "union%1:04:02::",
+      "lemma": "union",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of pairing a male and female for reproductive purposes",
+      "synsetId": "00848970-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 838,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the act of pairing a male and female for reproductive purposes"
+      ]
+    },
+    {
+      "senseId": "walk%1:04:01::",
+      "lemma": "walk",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(baseball) an advance to first base by a batter who receives four balls",
+      "synsetId": "00128106-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 839,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(baseball) an advance to first base by a batter who receives four balls"
+      ]
+    },
+    {
+      "senseId": "safe%1:06:01::",
+      "lemma": "safe",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse",
+      "synsetId": "03092620-n",
+      "words": 19,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 861,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+      ]
+    },
+    {
+      "senseId": "access%2:40:00::",
+      "lemma": "access",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "obtain or retrieve from a storage device; as of information on a computer",
+      "synsetId": "02253616-v",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 883,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "obtain or retrieve from a storage device",
+        "as of information on a computer"
+      ]
+    },
+    {
+      "senseId": "pass%1:04:04::",
+      "lemma": "pass",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(baseball) an advance to first base by a batter who receives four balls",
+      "synsetId": "00128106-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 891,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(baseball) an advance to first base by a batter who receives four balls"
+      ]
+    },
+    {
+      "senseId": "pass%1:04:02::",
+      "lemma": "pass",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(American football) a play that involves one player throwing the ball to a teammate",
+      "synsetId": "00561566-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 891,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(American football) a play that involves one player throwing the ball to a teammate"
+      ]
+    },
+    {
+      "senseId": "wall%1:08:00::",
+      "lemma": "wall",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(anatomy) a layer (a lining or membrane) that encloses a structure",
+      "synsetId": "05612009-n",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 917,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(anatomy) a layer (a lining or membrane) that encloses a structure"
+      ]
+    },
+    {
+      "senseId": "growth%1:22:00::",
+      "lemma": "growth",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level",
+      "synsetId": "13510240-n",
+      "words": 29,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 925,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(biology) the process of an individual organism growing organically",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level"
+      ]
+    },
+    {
+      "senseId": "charge%1:10:00::",
+      "lemma": "charge",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(criminal law) a pleading describing some wrong or offense",
+      "synsetId": "06573933-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 943,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(criminal law) a pleading describing some wrong or offense"
+      ]
+    },
+    {
+      "senseId": "network%1:06:01::",
+      "lemma": "network",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs",
+      "synsetId": "03826014-n",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 953,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs"
+      ]
+    },
+    {
+      "senseId": "normal%3:00:03::",
+      "lemma": "normal",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "being approximately average or within certain limits in e.g. intelligence and development",
+      "synsetId": "01602901-a",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 983,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "being approximately average or within certain limits in e.g. intelligence and development"
+      ]
+    },
+    {
+      "senseId": "population%1:09:00::",
+      "lemma": "population",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(statistics) the entire aggregation of items from which samples can be drawn",
+      "synsetId": "06035684-n",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 985,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(statistics) the entire aggregation of items from which samples can be drawn"
+      ]
+    },
+    {
+      "senseId": "station%1:15:01::",
+      "lemma": "station",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(nautical) the location to which a ship or fleet is assigned for duty",
+      "synsetId": "08674221-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 989,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(nautical) the location to which a ship or fleet is assigned for duty"
+      ]
+    },
+    {
+      "senseId": "campaign%1:04:00::",
+      "lemma": "campaign",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "several related operations aimed at achieving a particular goal (usually within geographical and temporal constraints)",
+      "synsetId": "00970259-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 994,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "several related operations aimed at achieving a particular goal (usually within geographical and temporal constraints)"
+      ]
+    },
+    {
+      "senseId": "female%3:00:00::",
+      "lemma": "female",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop",
+      "synsetId": "01481113-a",
+      "words": 16,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1002,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop"
+      ]
+    },
+    {
+      "senseId": "kept%3:00:00::",
+      "lemma": "kept",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(especially of promises or contracts) not violated or disregarded",
+      "synsetId": "00290665-a",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1010,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(especially of promises or contracts) not violated or disregarded"
+      ]
+    },
+    {
+      "senseId": "particular%1:10:00::",
+      "lemma": "particular",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(logic) a proposition that asserts something about some (but not all) members of a class",
+      "synsetId": "06763856-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1016,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(logic) a proposition that asserts something about some (but not all) members of a class"
+      ]
+    },
+    {
+      "senseId": "section%1:10:00::",
+      "lemma": "section",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a self-contained part of a larger composition (written or musical)",
+      "synsetId": "06403644-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1021,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a self-contained part of a larger composition (written or musical)"
+      ]
+    },
+    {
+      "senseId": "conditions%1:19:00::",
+      "lemma": "conditions",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+      "synsetId": "11545095-n",
+      "words": 20,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1039,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation"
+      ]
+    },
+    {
+      "senseId": "significant%3:00:01::",
+      "lemma": "significant",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "too closely correlated to be attributed to chance and therefore indicating a systematic relation",
+      "synsetId": "02173212-a",
+      "words": 14,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1051,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "too closely correlated to be attributed to chance and therefore indicating a systematic relation"
+      ]
+    },
+    {
+      "senseId": "computer%1:06:00::",
+      "lemma": "computer",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a machine for performing calculations automatically",
+      "synsetId": "03086983-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1057,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a machine for performing calculations automatically"
+      ]
+    },
+    {
+      "senseId": "favorite%2:35:01::",
+      "lemma": "favorite",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "To mark an item as a personal favorite on social media",
+      "synsetId": "90000601-v",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1060,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "To mark an item as a personal favorite on social media"
+      ]
+    },
+    {
+      "senseId": "statement%1:10:04::",
+      "lemma": "statement",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(music) the presentation of a musical theme",
+      "synsetId": "07043306-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1074,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(music) the presentation of a musical theme"
+      ]
+    },
+    {
+      "senseId": "coach%1:18:00::",
+      "lemma": "coach",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a person who gives private instruction (as in singing, acting, etc.)",
+      "synsetId": "09950876-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1081,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a person who gives private instruction (as in singing, acting, etc.)"
+      ]
+    },
+    {
+      "senseId": "coach%2:38:00::",
+      "lemma": "coach",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "drive or operate a coach or carriage",
+      "synsetId": "01935233-v",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1081,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "drive or operate a coach or carriage"
+      ]
+    },
+    {
+      "senseId": "author%2:36:00::",
+      "lemma": "author",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be the author of",
+      "synsetId": "01708311-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1100,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "be the author of"
+      ]
+    },
+    {
+      "senseId": "annual%1:20:00::",
+      "lemma": "annual",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(botany) a plant that completes its entire life cycle within the space of a year",
+      "synsetId": "11573257-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1129,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(botany) a plant that completes its entire life cycle within the space of a year"
+      ]
+    }
+  ]
+}

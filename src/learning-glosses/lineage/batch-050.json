@@ -1,0 +1,1015 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 50,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 2450,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "bad%5:00:00:unhealthy:00",
+      "lemma": "bad",
+      "pos": "a",
+      "senseIndex": 9,
+      "definition": "physically unsound or diseased",
+      "synsetId": "01177766-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 284,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "physically unsound or diseased"
+      ]
+    },
+    {
+      "senseId": "hard%5:00:00:indulgent:00",
+      "lemma": "hard",
+      "pos": "a",
+      "senseIndex": 8,
+      "definition": "given to excessive indulgence of bodily appetites especially for intoxicating liquors",
+      "synsetId": "01302121-s",
+      "words": 11,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 286,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "given to excessive indulgence of bodily appetites especially for intoxicating liquors"
+      ]
+    },
+    {
+      "senseId": "hard%3:00:00::",
+      "lemma": "hard",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "produced without vibration of the vocal cords",
+      "synsetId": "02294026-a",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 286,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "produced without vibration of the vocal cords"
+      ]
+    },
+    {
+      "senseId": "hard%3:00:03::",
+      "lemma": "hard",
+      "pos": "a",
+      "senseIndex": 7,
+      "definition": "(of speech sounds); produced with the back of the tongue raised toward or touching the velum",
+      "synsetId": "01160012-a",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 286,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of speech sounds)",
+        "produced with the back of the tongue raised toward or touching the velum"
+      ]
+    },
+    {
+      "senseId": "hard%5:00:00:alcoholic:00",
+      "lemma": "hard",
+      "pos": "a",
+      "senseIndex": 9,
+      "definition": "being distilled rather than fermented; having a high alcoholic content",
+      "synsetId": "01162481-s",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 286,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "being distilled rather than fermented",
+        "having a high alcoholic content"
+      ]
+    },
+    {
+      "senseId": "mean%5:00:00:poor:03",
+      "lemma": "mean",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "marked by poverty befitting a beggar",
+      "synsetId": "02033096-s",
+      "words": 6,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 287,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by poverty befitting a beggar"
+      ]
+    },
+    {
+      "senseId": "mean%5:00:02:stingy:00",
+      "lemma": "mean",
+      "pos": "a",
+      "senseIndex": 4,
+      "definition": "(used of persons or behavior) characterized by or indicative of lack of generosity",
+      "synsetId": "01117549-s",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 287,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used of persons or behavior) characterized by or indicative of lack of generosity"
+      ]
+    },
+    {
+      "senseId": "mean%5:00:01:stingy:00",
+      "lemma": "mean",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "(used of sums of money) so small in amount as to deserve contempt",
+      "synsetId": "01116711-s",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 287,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used of sums of money) so small in amount as to deserve contempt"
+      ]
+    },
+    {
+      "senseId": "support%1:10:01::",
+      "lemma": "support",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "a musical part (vocal or instrumental) that supports or provides background for other musical parts",
+      "synsetId": "07045239-n",
+      "words": 15,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 289,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a musical part (vocal or instrumental) that supports or provides background for other musical parts"
+      ]
+    },
+    {
+      "senseId": "support%1:06:01::",
+      "lemma": "support",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "supporting structure that holds up or provides a foundation",
+      "synsetId": "04367588-n",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 289,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "supporting structure that holds up or provides a foundation"
+      ]
+    },
+    {
+      "senseId": "support%2:42:00::",
+      "lemma": "support",
+      "pos": "v",
+      "senseIndex": 6,
+      "definition": "support with evidence or authority or make more certain or confirm",
+      "synsetId": "02669418-v",
+      "words": 11,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 289,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "support with evidence or authority or make more certain or confirm"
+      ]
+    },
+    {
+      "senseId": "support%2:35:00::",
+      "lemma": "support",
+      "pos": "v",
+      "senseIndex": 3,
+      "definition": "be the physical support of; carry the weight of",
+      "synsetId": "01219607-v",
+      "words": 9,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 289,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be the physical support of",
+        "carry the weight of"
+      ]
+    },
+    {
+      "senseId": "tell%2:32:08::",
+      "lemma": "tell",
+      "pos": "v",
+      "senseIndex": 5,
+      "definition": "inform positively and with certainty and confidence",
+      "synsetId": "01021652-v",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 290,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "inform positively and with certainty and confidence"
+      ]
+    },
+    {
+      "senseId": "power%1:10:00::",
+      "lemma": "power",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "a mathematical notation indicating the number of times a quantity is multiplied by itself",
+      "synsetId": "06825275-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 293,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mathematical notation indicating the number of times a quantity is multiplied by itself"
+      ]
+    },
+    {
+      "senseId": "power%1:18:00::",
+      "lemma": "power",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "one possessing or exercising power or influence or authority",
+      "synsetId": "10480990-n",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 293,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one possessing or exercising power or influence or authority"
+      ]
+    },
+    {
+      "senseId": "power%1:18:01::",
+      "lemma": "power",
+      "pos": "n",
+      "senseIndex": 9,
+      "definition": "a very wealthy or powerful businessperson",
+      "synsetId": "09859605-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 293,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a very wealthy or powerful businessperson"
+      ]
+    },
+    {
+      "senseId": "power%1:14:00::",
+      "lemma": "power",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "a state powerful enough to influence events throughout the world",
+      "synsetId": "08194510-n",
+      "words": 10,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 293,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a state powerful enough to influence events throughout the world"
+      ]
+    },
+    {
+      "senseId": "stop%1:10:01::",
+      "lemma": "stop",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations",
+      "synsetId": "06856570-n",
+      "words": 19,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 296,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations"
+      ]
+    },
+    {
+      "senseId": "stop%2:42:13::",
+      "lemma": "stop",
+      "pos": "v",
+      "senseIndex": 7,
+      "definition": "have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",
+      "synsetId": "02615799-v",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 296,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have an end, in a temporal, spatial, or quantitative sense",
+        "either spatial or metaphorical"
+      ]
+    },
+    {
+      "senseId": "stop%1:06:02::",
+      "lemma": "stop",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "a mechanical device in a camera that controls size of aperture of the lens",
+      "synsetId": "03193767-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 296,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mechanical device in a camera that controls size of aperture of the lens"
+      ]
+    },
+    {
+      "senseId": "stop%1:06:00::",
+      "lemma": "stop",
+      "pos": "n",
+      "senseIndex": 9,
+      "definition": "a restraint that checks the motion of something",
+      "synsetId": "02986245-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 296,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a restraint that checks the motion of something"
+      ]
+    },
+    {
+      "senseId": "stop%1:06:01::",
+      "lemma": "stop",
+      "pos": "n",
+      "senseIndex": 10,
+      "definition": "an obstruction in a pipe or tube",
+      "synsetId": "02856708-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 296,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an obstruction in a pipe or tube"
+      ]
+    },
+    {
+      "senseId": "stop%1:10:00::",
+      "lemma": "stop",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "a consonant produced by stopping the flow of air at some point and suddenly releasing it",
+      "synsetId": "07130622-n",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 296,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a consonant produced by stopping the flow of air at some point and suddenly releasing it"
+      ]
+    },
+    {
+      "senseId": "stop%2:30:12::",
+      "lemma": "stop",
+      "pos": "v",
+      "senseIndex": 9,
+      "definition": "stop and wait, as if awaiting further instructions or developments",
+      "synsetId": "00363263-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 296,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "stop and wait, as if awaiting further instructions or developments"
+      ]
+    },
+    {
+      "senseId": "stop%2:35:12::",
+      "lemma": "stop",
+      "pos": "v",
+      "senseIndex": 8,
+      "definition": "render unsuitable for passage",
+      "synsetId": "01480632-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 296,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "render unsuitable for passage"
+      ]
+    },
+    {
+      "senseId": "water%1:06:00::",
+      "lemma": "water",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a facility that provides a source of water",
+      "synsetId": "04569944-n",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 297,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a facility that provides a source of water"
+      ]
+    },
+    {
+      "senseId": "call%1:10:08::",
+      "lemma": "call",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "a demand by a broker that a customer deposit enough to bring their margin up to the minimum requirement",
+      "synsetId": "07207321-n",
+      "words": 19,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a demand by a broker that a customer deposit enough to bring their margin up to the minimum requirement"
+      ]
+    },
+    {
+      "senseId": "call%2:32:09::",
+      "lemma": "call",
+      "pos": "v",
+      "senseIndex": 3,
+      "definition": "utter a sudden loud cry",
+      "synsetId": "00915018-v",
+      "words": 5,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "utter a sudden loud cry"
+      ]
+    },
+    {
+      "senseId": "call%1:09:16::",
+      "lemma": "call",
+      "pos": "n",
+      "senseIndex": 12,
+      "definition": "a special disposition (as if from a divine source) to pursue a particular course",
+      "synsetId": "06208240-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a special disposition (as if from a divine source) to pursue a particular course"
+      ]
+    },
+    {
+      "senseId": "call%1:10:07::",
+      "lemma": "call",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "an instruction that interrupts the program being executed",
+      "synsetId": "06594937-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an instruction that interrupts the program being executed"
+      ]
+    },
+    {
+      "senseId": "call%2:31:13::",
+      "lemma": "call",
+      "pos": "v",
+      "senseIndex": 24,
+      "definition": "utter in a loud voice or announce",
+      "synsetId": "00740752-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "utter in a loud voice or announce"
+      ]
+    },
+    {
+      "senseId": "call%2:32:03::",
+      "lemma": "call",
+      "pos": "v",
+      "senseIndex": 9,
+      "definition": "utter a characteristic note or cry",
+      "synsetId": "00977068-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "utter a characteristic note or cry"
+      ]
+    },
+    {
+      "senseId": "call%2:32:08::",
+      "lemma": "call",
+      "pos": "v",
+      "senseIndex": 20,
+      "definition": "declare in the capacity of an umpire or referee",
+      "synsetId": "00824407-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "declare in the capacity of an umpire or referee"
+      ]
+    },
+    {
+      "senseId": "call%2:32:11::",
+      "lemma": "call",
+      "pos": "v",
+      "senseIndex": 21,
+      "definition": "lure by imitating the characteristic call of an animal",
+      "synsetId": "00785570-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lure by imitating the characteristic call of an animal"
+      ]
+    },
+    {
+      "senseId": "call%2:32:13::",
+      "lemma": "call",
+      "pos": "v",
+      "senseIndex": 7,
+      "definition": "read aloud to check for omissions or absentees",
+      "synsetId": "01070017-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 300,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "read aloud to check for omissions or absentees"
+      ]
+    },
+    {
+      "senseId": "head%1:17:00::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 17,
+      "definition": "the foam or froth that accumulates at the top when you pour an effervescent liquid into a container",
+      "synsetId": "09324750-n",
+      "words": 18,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the foam or froth that accumulates at the top when you pour an effervescent liquid into a container"
+      ]
+    },
+    {
+      "senseId": "head%1:06:04::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 27,
+      "definition": "(usually plural) the obverse side of a coin that usually bears the representation of a person's head",
+      "synsetId": "03506955-n",
+      "words": 17,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(usually plural) the obverse side of a coin that usually bears the representation of a person's head"
+      ]
+    },
+    {
+      "senseId": "head%1:08:01::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 24,
+      "definition": "the rounded end of a bone that fits into a rounded cavity in another bone to form a joint",
+      "synsetId": "05603592-n",
+      "words": 19,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the rounded end of a bone that fits into a rounded cavity in another bone to form a joint"
+      ]
+    },
+    {
+      "senseId": "head%1:10:01::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 21,
+      "definition": "a V-shaped mark at one end of an arrow pointer",
+      "synsetId": "06834918-n",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a V-shaped mark at one end of an arrow pointer"
+      ]
+    },
+    {
+      "senseId": "head%1:06:01::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 31,
+      "definition": "a membrane that is stretched taut over a drum",
+      "synsetId": "03254982-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a membrane that is stretched taut over a drum"
+      ]
+    },
+    {
+      "senseId": "head%1:08:02::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 25,
+      "definition": "that part of a skeletal muscle that is away from the bone that it moves",
+      "synsetId": "05298255-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "that part of a skeletal muscle that is away from the bone that it moves"
+      ]
+    },
+    {
+      "senseId": "head%1:20:00::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 11,
+      "definition": "a dense cluster of flowers or foliage",
+      "synsetId": "13154545-n",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a dense cluster of flowers or foliage"
+      ]
+    },
+    {
+      "senseId": "head%1:26:00::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 9,
+      "definition": "the tip of an abscess (where the pus accumulates)",
+      "synsetId": "14335908-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the tip of an abscess (where the pus accumulates)"
+      ]
+    },
+    {
+      "senseId": "head%1:10:00::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 23,
+      "definition": "a line of text serving to indicate what the passage below it is about",
+      "synsetId": "06355341-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a line of text serving to indicate what the passage below it is about"
+      ]
+    },
+    {
+      "senseId": "head%1:17:02::",
+      "lemma": "head",
+      "pos": "n",
+      "senseIndex": 15,
+      "definition": "a natural elevation (especially a rocky one that juts out into the sea)",
+      "synsetId": "09422467-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 301,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a natural elevation (especially a rocky one that juts out into the sea)"
+      ]
+    },
+    {
+      "senseId": "national%3:01:01::",
+      "lemma": "national",
+      "pos": "a",
+      "senseIndex": 6,
+      "definition": "of or relating to nationality",
+      "synsetId": "02999749-a",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 303,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to nationality"
+      ]
+    },
+    {
+      "senseId": "national%3:01:02::",
+      "lemma": "national",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "characteristic of or peculiar to the people of a nation",
+      "synsetId": "02999870-a",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 303,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characteristic of or peculiar to the people of a nation"
+      ]
+    },
+    {
+      "senseId": "national%5:00:00:public:00",
+      "lemma": "national",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "owned or maintained for the public by the national government",
+      "synsetId": "01867716-s",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 303,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "owned or maintained for the public by the national government"
+      ]
+    },
+    {
+      "senseId": "small%5:00:00:little:03",
+      "lemma": "small",
+      "pos": "a",
+      "senseIndex": 3,
+      "definition": "slight or limited; especially in degree or intensity or scope",
+      "synsetId": "01559333-s",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 304,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "slight or limited",
+        "especially in degree or intensity or scope"
+      ]
+    },
+    {
+      "senseId": "small%5:00:00:fine:00",
+      "lemma": "small",
+      "pos": "a",
+      "senseIndex": 7,
+      "definition": "have fine or very small constituent particles",
+      "synsetId": "02241425-s",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 304,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have fine or very small constituent particles"
+      ]
+    }
+  ]
+}

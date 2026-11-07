@@ -1,0 +1,1128 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 50,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 50,
+      "of": 50,
+      "rate": 1.0
+    },
+    "selfApproved": [],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "f6b237f15fd95b9444d97e7144adbc5861467d97d69e822d39796c7486525326"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "bad%5:00:00:unhealthy:00",
+      "lemma": "bad",
+      "pos": "a",
+      "definition": "physically unsound or diseased",
+      "decision": "gloss",
+      "simpleMeaning": "Physically unhealthy or affected by disease.",
+      "scope": "This describes physical health, not poor quality or bad behavior.",
+      "examples": [
+        "The doctor found a bad lung in the scan.",
+        "One diseased tooth had to be removed."
+      ],
+      "branchCoverage": [
+        "physically unsound or diseased -> Physically unhealthy or affected by disease"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "physically unsound or diseased"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hard%5:00:00:indulgent:00",
+      "lemma": "hard",
+      "pos": "a",
+      "definition": "given to excessive indulgence of bodily appetites especially for intoxicating liquors",
+      "decision": "gloss",
+      "simpleMeaning": "Describes a person who gives in far too much to physical pleasures, especially drinking alcohol.",
+      "scope": "This describes excessive appetites in a person, not the sound of speech or the strength of a drink.",
+      "examples": [
+        "He was a hard drinker who went through several bottles a week.",
+        "Her hard-living uncle spent his nights eating and drinking to excess."
+      ],
+      "branchCoverage": [
+        "given to excessive indulgence of bodily appetites especially for intoxicating liquors -> gives in far too much to physical pleasures, especially drinking alcohol"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "given to excessive indulgence of bodily appetites especially for intoxicating liquors"
+      ],
+      "lemmaPartition": "hard%5:00:00:indulgent:00 -> person given to excessive physical pleasures, especially alcohol; hard%3:00:00:: -> speech sound without vocal-cord vibration; hard%3:00:03:: -> speech sound made at the soft rear roof of the mouth; hard%5:00:00:alcoholic:00 -> distilled drink with high alcohol content.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hard%3:00:00::",
+      "lemma": "hard",
+      "pos": "a",
+      "definition": "produced without vibration of the vocal cords",
+      "decision": "gloss",
+      "simpleMeaning": "A speech sound made without the vocal cords vibrating.",
+      "scope": "This concerns the lack of vocal-cord vibration, not where the back of the tongue is raised.",
+      "examples": [
+        "The hard /p/ in 'pin' is made without vocal-cord vibration.",
+        "The /t/ at the start of 'top' has no vocal-cord vibration."
+      ],
+      "branchCoverage": [
+        "produced without vibration of the vocal cords -> made without the vocal cords vibrating"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "produced without vibration of the vocal cords"
+      ],
+      "lemmaPartition": "hard%5:00:00:indulgent:00 -> person given to excessive physical pleasures, especially alcohol; hard%3:00:00:: -> speech sound without vocal-cord vibration; hard%3:00:03:: -> speech sound made at the soft rear roof of the mouth; hard%5:00:00:alcoholic:00 -> distilled drink with high alcohol content.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hard%3:00:03::",
+      "lemma": "hard",
+      "pos": "a",
+      "definition": "(of speech sounds); produced with the back of the tongue raised toward or touching the velum",
+      "decision": "gloss",
+      "simpleMeaning": "A speech sound made by raising the back of the tongue toward or against the soft part at the back of the roof of the mouth.",
+      "scope": "This describes where the tongue is placed, not whether the vocal cords vibrate.",
+      "examples": [
+        "The hard g in 'go' is made with the back of the tongue.",
+        "The first sound in 'give' uses the back of the tongue while the vocal cords vibrate."
+      ],
+      "branchCoverage": [
+        "(of speech sounds) -> A speech sound",
+        "produced with the back of the tongue raised toward or touching the velum -> made by raising the back of the tongue toward or against the soft part at the back of the roof of the mouth"
+      ],
+      "labelBranches": [
+        "(of speech sounds) -> This meaning applies to speech sounds."
+      ],
+      "sourceBranches": [
+        "(of speech sounds)",
+        "produced with the back of the tongue raised toward or touching the velum"
+      ],
+      "lemmaPartition": "hard%5:00:00:indulgent:00 -> person given to excessive physical pleasures, especially alcohol; hard%3:00:00:: -> speech sound without vocal-cord vibration; hard%3:00:03:: -> speech sound made at the soft rear roof of the mouth; hard%5:00:00:alcoholic:00 -> distilled drink with high alcohol content.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hard%5:00:00:alcoholic:00",
+      "lemma": "hard",
+      "pos": "a",
+      "definition": "being distilled rather than fermented; having a high alcoholic content",
+      "decision": "gloss",
+      "simpleMeaning": "An alcoholic drink made by distilling rather than fermenting, with a high alcohol content.",
+      "scope": "This describes a kind of drink, not a person who drinks too much.",
+      "examples": [
+        "The bar keeps its hard liquor behind the counter.",
+        "Whiskey is distilled and contains much more alcohol than beer."
+      ],
+      "branchCoverage": [
+        "being distilled rather than fermented -> made by distilling rather than fermenting",
+        "having a high alcoholic content -> with a high alcohol content"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "being distilled rather than fermented",
+        "having a high alcoholic content"
+      ],
+      "lemmaPartition": "hard%5:00:00:indulgent:00 -> person given to excessive physical pleasures, especially alcohol; hard%3:00:00:: -> speech sound without vocal-cord vibration; hard%3:00:03:: -> speech sound made at the soft rear roof of the mouth; hard%5:00:00:alcoholic:00 -> distilled drink with high alcohol content.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mean%5:00:00:poor:03",
+      "lemma": "mean",
+      "pos": "a",
+      "definition": "marked by poverty befitting a beggar",
+      "decision": "gloss",
+      "simpleMeaning": "Showing poverty so severe that it resembles the living conditions of someone who has to beg.",
+      "scope": "This describes extreme poverty, not unwillingness to give or a tiny sum of money.",
+      "examples": [
+        "They lived in mean rooms with bare walls and no heat.",
+        "His lodging was a bare shed with a dirt floor."
+      ],
+      "branchCoverage": [
+        "marked by poverty befitting a beggar -> Showing poverty so severe that it resembles the living conditions of someone who has to beg"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by poverty befitting a beggar"
+      ],
+      "lemmaPartition": "mean%5:00:00:poor:03 -> severe, beggar-like poverty; mean%5:00:02:stingy:00 -> ungenerous person or behavior; mean%5:00:01:stingy:00 -> insultingly tiny amount of money.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mean%5:00:02:stingy:00",
+      "lemma": "mean",
+      "pos": "a",
+      "definition": "(used of persons or behavior) characterized by or indicative of lack of generosity",
+      "decision": "gloss",
+      "simpleMeaning": "A person who is unwilling to give or share, or behavior that shows this unwillingness.",
+      "scope": "This concerns a person or behavior, not the size of a sum of money or living conditions.",
+      "examples": [
+        "She was mean with her money and never contributed to the fund.",
+        "His refusal to share even one blanket showed how little he would give."
+      ],
+      "branchCoverage": [
+        "(used of persons or behavior) characterized by or indicative of lack of generosity -> A person who is unwilling to give or share, or behavior that shows this unwillingness"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(used of persons or behavior) characterized by or indicative of lack of generosity"
+      ],
+      "lemmaPartition": "mean%5:00:00:poor:03 -> severe, beggar-like poverty; mean%5:00:02:stingy:00 -> ungenerous person or behavior; mean%5:00:01:stingy:00 -> insultingly tiny amount of money.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mean%5:00:01:stingy:00",
+      "lemma": "mean",
+      "pos": "a",
+      "definition": "(used of sums of money) so small in amount as to deserve contempt",
+      "decision": "gloss",
+      "simpleMeaning": "A sum of money so small in amount that it is insulting.",
+      "scope": "This describes the amount of money, not the character of a person or their living conditions.",
+      "examples": [
+        "The company offered a mean sum for a month of hard work.",
+        "Ten dollars for a full week of work was an insult."
+      ],
+      "branchCoverage": [
+        "(used of sums of money) so small in amount as to deserve contempt -> A sum of money so small in amount that it is insulting"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(used of sums of money) so small in amount as to deserve contempt"
+      ],
+      "lemmaPartition": "mean%5:00:00:poor:03 -> severe, beggar-like poverty; mean%5:00:02:stingy:00 -> ungenerous person or behavior; mean%5:00:01:stingy:00 -> insultingly tiny amount of money.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "support%1:10:01::",
+      "lemma": "support",
+      "pos": "n",
+      "definition": "a musical part (vocal or instrumental) that supports or provides background for other musical parts",
+      "decision": "gloss",
+      "simpleMeaning": "A sung or played part in music that backs up or provides a background for other musical parts.",
+      "scope": "This is a part of the music, not a load-bearing structure or an argument backed by evidence.",
+      "examples": [
+        "The piano part provided quiet support for the singer's melody.",
+        "A low cello line played behind the solo violin."
+      ],
+      "branchCoverage": [
+        "a musical part (vocal or instrumental) that supports or provides background for other musical parts -> A sung or played part in music that backs up or provides a background for other musical parts"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a musical part (vocal or instrumental) that supports or provides background for other musical parts"
+      ],
+      "lemmaPartition": "support%1:10:01:: -> background or backing musical part; support%1:06:01:: -> load-bearing structure or foundation; support%2:42:00:: -> confirm a claim with evidence or authority; support%2:35:00:: -> physically bear weight.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "support%1:06:01::",
+      "lemma": "support",
+      "pos": "n",
+      "definition": "supporting structure that holds up or provides a foundation",
+      "decision": "gloss",
+      "simpleMeaning": "A structure that holds something up or forms the base it rests on.",
+      "scope": "This is a physical structure, not a musical part or evidence for a claim.",
+      "examples": [
+        "The support under the shelf gave way.",
+        "A stone pillar formed the base of the roof."
+      ],
+      "branchCoverage": [
+        "supporting structure that holds up or provides a foundation -> A structure that holds something up or forms the base it rests on"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "supporting structure that holds up or provides a foundation"
+      ],
+      "lemmaPartition": "support%1:10:01:: -> background or backing musical part; support%1:06:01:: -> load-bearing structure or foundation; support%2:42:00:: -> confirm a claim with evidence or authority; support%2:35:00:: -> physically bear weight.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "support%2:42:00::",
+      "lemma": "support",
+      "pos": "v",
+      "definition": "support with evidence or authority or make more certain or confirm",
+      "decision": "gloss",
+      "simpleMeaning": "To give evidence or cite an authority for a claim, making it more certain or confirming it.",
+      "scope": "This concerns evidence or confirmation, not physically carrying weight or playing background music.",
+      "examples": [
+        "The test results support her account of what happened.",
+        "A signed record confirmed his claim."
+      ],
+      "branchCoverage": [
+        "support with evidence or authority or make more certain or confirm -> give evidence or cite an authority for a claim, making it more certain or confirming it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "support with evidence or authority or make more certain or confirm"
+      ],
+      "lemmaPartition": "support%1:10:01:: -> background or backing musical part; support%1:06:01:: -> load-bearing structure or foundation; support%2:42:00:: -> confirm a claim with evidence or authority; support%2:35:00:: -> physically bear weight.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "support%2:35:00::",
+      "lemma": "support",
+      "pos": "v",
+      "definition": "be the physical support of; carry the weight of",
+      "decision": "gloss",
+      "simpleMeaning": "To hold something up physically by carrying its weight.",
+      "scope": "This is about carrying physical weight, not confirming a claim with evidence.",
+      "examples": [
+        "Four steel beams support the roof.",
+        "The table legs carry the weight of the heavy top."
+      ],
+      "branchCoverage": [
+        "be the physical support of -> hold something up physically",
+        "carry the weight of -> carrying its weight"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be the physical support of",
+        "carry the weight of"
+      ],
+      "lemmaPartition": "support%1:10:01:: -> background or backing musical part; support%1:06:01:: -> load-bearing structure or foundation; support%2:42:00:: -> confirm a claim with evidence or authority; support%2:35:00:: -> physically bear weight.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "tell%2:32:08::",
+      "lemma": "tell",
+      "pos": "v",
+      "definition": "inform positively and with certainty and confidence",
+      "decision": "gloss",
+      "simpleMeaning": "To give someone information firmly, with certainty and confidence.",
+      "scope": "This is a confident statement of information, not a question or a guess.",
+      "examples": [
+        "She told us with confidence that the building was empty.",
+        "I can tell you for certain that the train leaves at noon."
+      ],
+      "branchCoverage": [
+        "inform positively and with certainty and confidence -> give someone information firmly, with certainty and confidence"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "inform positively and with certainty and confidence"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "power%1:10:00::",
+      "lemma": "power",
+      "pos": "n",
+      "definition": "a mathematical notation indicating the number of times a quantity is multiplied by itself",
+      "decision": "gloss",
+      "simpleMeaning": "A written number or symbol showing how many times a quantity is multiplied by itself.",
+      "scope": "This is mathematical notation, not an influential person, businessperson, or country.",
+      "examples": [
+        "In the expression 2³, the power shows that 2 is multiplied by itself three times.",
+        "The small 4 written above the 10 is the power."
+      ],
+      "branchCoverage": [
+        "a mathematical notation indicating the number of times a quantity is multiplied by itself -> A written number or symbol showing how many times a quantity is multiplied by itself"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a mathematical notation indicating the number of times a quantity is multiplied by itself"
+      ],
+      "lemmaPartition": "power%1:10:00:: -> mathematical notation for repeated multiplication; power%1:18:00:: -> person with influence or authority; power%1:18:01:: -> very rich or influential businessperson; power%1:14:00:: -> globally influential country.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "power%1:18:00::",
+      "lemma": "power",
+      "pos": "n",
+      "definition": "one possessing or exercising power or influence or authority",
+      "decision": "gloss",
+      "simpleMeaning": "A person who has or uses control, influence, or authority.",
+      "scope": "This is an influential person in general, not specifically a rich businessperson or a powerful country.",
+      "examples": [
+        "She became a power in city politics.",
+        "One influential figure persuaded the council to change its plans."
+      ],
+      "branchCoverage": [
+        "one possessing or exercising power or influence or authority -> A person who has or uses control, influence, or authority"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "one possessing or exercising power or influence or authority"
+      ],
+      "lemmaPartition": "power%1:10:00:: -> mathematical notation for repeated multiplication; power%1:18:00:: -> person with influence or authority; power%1:18:01:: -> very rich or influential businessperson; power%1:14:00:: -> globally influential country.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "power%1:18:01::",
+      "lemma": "power",
+      "pos": "n",
+      "definition": "a very wealthy or powerful businessperson",
+      "decision": "gloss",
+      "simpleMeaning": "A businessperson who is very rich or has great influence.",
+      "scope": "This specifically identifies a wealthy or influential businessperson, not an influential person in general or a country.",
+      "examples": [
+        "She became a power in banking after building a billion-dollar company.",
+        "The wealthy company owner bought a third chain of stores."
+      ],
+      "branchCoverage": [
+        "a very wealthy or powerful businessperson -> A businessperson who is very rich or has great influence"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a very wealthy or powerful businessperson"
+      ],
+      "lemmaPartition": "power%1:10:00:: -> mathematical notation for repeated multiplication; power%1:18:00:: -> person with influence or authority; power%1:18:01:: -> very rich or influential businessperson; power%1:14:00:: -> globally influential country.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "power%1:14:00::",
+      "lemma": "power",
+      "pos": "n",
+      "definition": "a state powerful enough to influence events throughout the world",
+      "decision": "gloss",
+      "simpleMeaning": "A country strong enough to influence events throughout the world.",
+      "scope": "This is a country with global influence, not an influential individual or businessperson.",
+      "examples": [
+        "The country grew into a global power.",
+        "That state can shape decisions far beyond its borders."
+      ],
+      "branchCoverage": [
+        "a state powerful enough to influence events throughout the world -> A country strong enough to influence events throughout the world"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a state powerful enough to influence events throughout the world"
+      ],
+      "lemmaPartition": "power%1:10:00:: -> mathematical notation for repeated multiplication; power%1:18:00:: -> person with influence or authority; power%1:18:01:: -> very rich or influential businessperson; power%1:14:00:: -> globally influential country.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stop%1:10:01::",
+      "lemma": "stop",
+      "pos": "n",
+      "definition": "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations",
+      "decision": "gloss",
+      "simpleMeaning": "A punctuation dot (.) put at the end of a statement or after a shortened word or name.",
+      "scope": "This is a mark in writing, not a blocked pipe, a camera part, or an action that ends.",
+      "examples": [
+        "Put a full stop after that statement.",
+        "The abbreviation 'Dr.' ends with a stop."
+      ],
+      "branchCoverage": [
+        "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations -> A punctuation dot (.) put at the end of a statement or after a shortened word or name"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations"
+      ],
+      "lemmaPartition": "stop%1:10:01:: -> sentence-ending or abbreviation punctuation dot; stop%2:42:13:: -> come to an end in time, space, or amount; stop%1:06:02:: -> camera device controlling lens opening; stop%1:06:00:: -> restraint on motion; stop%1:06:01:: -> blockage in a pipe or tube; stop%1:10:00:: -> consonant formed by blocking and releasing air; stop%2:30:12:: -> pause and wait for instructions or developments; stop%2:35:12:: -> make something unsuitable for passage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stop%2:42:13::",
+      "lemma": "stop",
+      "pos": "v",
+      "definition": "have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",
+      "decision": "gloss",
+      "simpleMeaning": "To come to an end in time, space, or amount, whether literally or in a figurative sense.",
+      "scope": "This is about reaching an end, not pausing to wait for instructions or blocking a passage.",
+      "examples": [
+        "The road stops at the river.",
+        "His loyalty stopped at the first sign of danger."
+      ],
+      "branchCoverage": [
+        "have an end, in a temporal, spatial, or quantitative sense -> come to an end in time, space, or amount",
+        "either spatial or metaphorical -> whether literally or in a figurative sense"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have an end, in a temporal, spatial, or quantitative sense",
+        "either spatial or metaphorical"
+      ],
+      "lemmaPartition": "stop%1:10:01:: -> sentence-ending or abbreviation punctuation dot; stop%2:42:13:: -> come to an end in time, space, or amount; stop%1:06:02:: -> camera device controlling lens opening; stop%1:06:00:: -> restraint on motion; stop%1:06:01:: -> blockage in a pipe or tube; stop%1:10:00:: -> consonant formed by blocking and releasing air; stop%2:30:12:: -> pause and wait for instructions or developments; stop%2:35:12:: -> make something unsuitable for passage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stop%1:06:02::",
+      "lemma": "stop",
+      "pos": "n",
+      "definition": "a mechanical device in a camera that controls size of aperture of the lens",
+      "decision": "gloss",
+      "simpleMeaning": "A mechanical part of a camera that controls the size of the opening in its lens.",
+      "scope": "This is a part of a camera lens, not a restraint on motion or a blockage in a pipe.",
+      "examples": [
+        "The aperture stop narrowed the lens opening.",
+        "The photographer adjusted the device to let less light through the lens."
+      ],
+      "branchCoverage": [
+        "a mechanical device in a camera that controls size of aperture of the lens -> A mechanical part of a camera that controls the size of the opening in its lens"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a mechanical device in a camera that controls size of aperture of the lens"
+      ],
+      "lemmaPartition": "stop%1:10:01:: -> sentence-ending or abbreviation punctuation dot; stop%2:42:13:: -> come to an end in time, space, or amount; stop%1:06:02:: -> camera device controlling lens opening; stop%1:06:00:: -> restraint on motion; stop%1:06:01:: -> blockage in a pipe or tube; stop%1:10:00:: -> consonant formed by blocking and releasing air; stop%2:30:12:: -> pause and wait for instructions or developments; stop%2:35:12:: -> make something unsuitable for passage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stop%1:06:00::",
+      "lemma": "stop",
+      "pos": "n",
+      "definition": "a restraint that checks the motion of something",
+      "decision": "gloss",
+      "simpleMeaning": "A restraint that holds back or limits the movement of something.",
+      "scope": "This restrains motion, rather than blocking a pipe or changing the opening of a camera lens.",
+      "examples": [
+        "A metal stop kept the drawer from sliding out.",
+        "A small block kept the gate from swinging too far."
+      ],
+      "branchCoverage": [
+        "a restraint that checks the motion of something -> A restraint that holds back or limits the movement of something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a restraint that checks the motion of something"
+      ],
+      "lemmaPartition": "stop%1:10:01:: -> sentence-ending or abbreviation punctuation dot; stop%2:42:13:: -> come to an end in time, space, or amount; stop%1:06:02:: -> camera device controlling lens opening; stop%1:06:00:: -> restraint on motion; stop%1:06:01:: -> blockage in a pipe or tube; stop%1:10:00:: -> consonant formed by blocking and releasing air; stop%2:30:12:: -> pause and wait for instructions or developments; stop%2:35:12:: -> make something unsuitable for passage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stop%1:06:01::",
+      "lemma": "stop",
+      "pos": "n",
+      "definition": "an obstruction in a pipe or tube",
+      "decision": "gloss",
+      "simpleMeaning": "Something that blocks the inside of a pipe or tube.",
+      "scope": "This is a blockage inside a pipe or tube, not a restraint on a moving part.",
+      "examples": [
+        "A stop in the narrow tube kept the water from flowing.",
+        "The plumber found a wad of paper blocking the drainpipe."
+      ],
+      "branchCoverage": [
+        "an obstruction in a pipe or tube -> Something that blocks the inside of a pipe or tube"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an obstruction in a pipe or tube"
+      ],
+      "lemmaPartition": "stop%1:10:01:: -> sentence-ending or abbreviation punctuation dot; stop%2:42:13:: -> come to an end in time, space, or amount; stop%1:06:02:: -> camera device controlling lens opening; stop%1:06:00:: -> restraint on motion; stop%1:06:01:: -> blockage in a pipe or tube; stop%1:10:00:: -> consonant formed by blocking and releasing air; stop%2:30:12:: -> pause and wait for instructions or developments; stop%2:35:12:: -> make something unsuitable for passage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stop%1:10:00::",
+      "lemma": "stop",
+      "pos": "n",
+      "definition": "a consonant produced by stopping the flow of air at some point and suddenly releasing it",
+      "decision": "gloss",
+      "simpleMeaning": "A consonant sound made by blocking the flow of air at some point and then suddenly releasing it.",
+      "scope": "This is a kind of speech sound, not a written punctuation mark.",
+      "examples": [
+        "The /p/ in 'pin' is a stop made by closing the lips and releasing air.",
+        "The first sound in 'dog' briefly blocks the air before letting it out."
+      ],
+      "branchCoverage": [
+        "a consonant produced by stopping the flow of air at some point and suddenly releasing it -> A consonant sound made by blocking the flow of air at some point and then suddenly releasing it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a consonant produced by stopping the flow of air at some point and suddenly releasing it"
+      ],
+      "lemmaPartition": "stop%1:10:01:: -> sentence-ending or abbreviation punctuation dot; stop%2:42:13:: -> come to an end in time, space, or amount; stop%1:06:02:: -> camera device controlling lens opening; stop%1:06:00:: -> restraint on motion; stop%1:06:01:: -> blockage in a pipe or tube; stop%1:10:00:: -> consonant formed by blocking and releasing air; stop%2:30:12:: -> pause and wait for instructions or developments; stop%2:35:12:: -> make something unsuitable for passage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stop%2:30:12::",
+      "lemma": "stop",
+      "pos": "v",
+      "definition": "stop and wait, as if awaiting further instructions or developments",
+      "decision": "gloss",
+      "simpleMeaning": "To pause and wait, as if for further instructions or for what happens next.",
+      "scope": "This includes waiting for directions or developments, rather than simply coming to an end.",
+      "examples": [
+        "The workers stopped and waited for the supervisor's instructions.",
+        "The crew paused there until news of the storm arrived."
+      ],
+      "branchCoverage": [
+        "stop and wait, as if awaiting further instructions or developments -> pause and wait, as if for further instructions or for what happens next"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "stop and wait, as if awaiting further instructions or developments"
+      ],
+      "lemmaPartition": "stop%1:10:01:: -> sentence-ending or abbreviation punctuation dot; stop%2:42:13:: -> come to an end in time, space, or amount; stop%1:06:02:: -> camera device controlling lens opening; stop%1:06:00:: -> restraint on motion; stop%1:06:01:: -> blockage in a pipe or tube; stop%1:10:00:: -> consonant formed by blocking and releasing air; stop%2:30:12:: -> pause and wait for instructions or developments; stop%2:35:12:: -> make something unsuitable for passage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stop%2:35:12::",
+      "lemma": "stop",
+      "pos": "v",
+      "definition": "render unsuitable for passage",
+      "decision": "gloss",
+      "simpleMeaning": "To make something unsuitable for passage through or across it.",
+      "scope": "This is about preventing passage, not merely restraining the motion of a moving object.",
+      "examples": [
+        "A pile of sandbags stopped the entrance to the tunnel.",
+        "Fallen rocks made the narrow lane impassable."
+      ],
+      "branchCoverage": [
+        "render unsuitable for passage -> make something unsuitable for passage through or across it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "render unsuitable for passage"
+      ],
+      "lemmaPartition": "stop%1:10:01:: -> sentence-ending or abbreviation punctuation dot; stop%2:42:13:: -> come to an end in time, space, or amount; stop%1:06:02:: -> camera device controlling lens opening; stop%1:06:00:: -> restraint on motion; stop%1:06:01:: -> blockage in a pipe or tube; stop%1:10:00:: -> consonant formed by blocking and releasing air; stop%2:30:12:: -> pause and wait for instructions or developments; stop%2:35:12:: -> make something unsuitable for passage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "water%1:06:00::",
+      "lemma": "water",
+      "pos": "n",
+      "definition": "a facility that provides a source of water",
+      "decision": "gloss",
+      "simpleMeaning": "a facility that supplies a place with the liquid that people drink and use every day",
+      "scope": "This is not the liquid itself and not a lake, river or sea; it is the supply facility that provides the liquid.",
+      "examples": [
+        "The town's water is tested for bacteria every week.",
+        "A burst pipe left the village without water for two days."
+      ],
+      "branchCoverage": [
+        "a facility that provides a source of water -> a facility that supplies a place with the liquid that people drink and use every day"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a facility that provides a source of water"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%1:10:08::",
+      "lemma": "call",
+      "pos": "n",
+      "definition": "a demand by a broker that a customer deposit enough to bring their margin up to the minimum requirement",
+      "decision": "gloss",
+      "simpleMeaning": "a demand from a broker that a customer put in more money to bring the amount in their account up to the required minimum",
+      "scope": "This is not a phone conversation, a shout or a sports decision; it is a financial demand about money in a trading account.",
+      "examples": [
+        "The broker issued a call after the share price fell.",
+        "She had to deposit more money to meet the call from her broker."
+      ],
+      "branchCoverage": [
+        "a demand by a broker that a customer deposit enough to bring their margin up to the minimum requirement -> a demand from a broker that a customer put in more money to bring the amount in their account up to the required minimum"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a demand by a broker that a customer deposit enough to bring their margin up to the minimum requirement"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%2:32:09::",
+      "lemma": "call",
+      "pos": "v",
+      "definition": "utter a sudden loud cry",
+      "decision": "gloss",
+      "simpleMeaning": "to make a sudden loud sound with the voice",
+      "scope": "This is not a phone conversation, a name or an official decision; it is a sudden loud sound made with the voice.",
+      "examples": [
+        "She called out in pain when the door slammed on her hand.",
+        "He called loudly into the empty hall, but no one answered."
+      ],
+      "branchCoverage": [
+        "utter a sudden loud cry -> to make a sudden loud sound with the voice"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "utter a sudden loud cry"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%1:09:16::",
+      "lemma": "call",
+      "pos": "n",
+      "definition": "a special disposition (as if from a divine source) to pursue a particular course",
+      "decision": "gloss",
+      "simpleMeaning": "a special inner urge, felt as if it comes from a god, to follow a particular path in life",
+      "scope": "This is not a phone conversation or a shout; it is an inner sense of purpose.",
+      "examples": [
+        "She felt a call to become a doctor after working in the clinic.",
+        "He gave up his job to follow a call to the priesthood."
+      ],
+      "branchCoverage": [
+        "a special disposition (as if from a divine source) to pursue a particular course -> a special inner urge, felt as if it comes from a god, to follow a particular path in life"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a special disposition (as if from a divine source) to pursue a particular course"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%1:10:07::",
+      "lemma": "call",
+      "pos": "n",
+      "definition": "an instruction that interrupts the program being executed",
+      "decision": "gloss",
+      "simpleMeaning": "a command that interrupts a computer program while it is running",
+      "scope": "This is not a phone conversation or a shout; it is a computing command.",
+      "examples": [
+        "An unexpected call from the system stopped the program.",
+        "The debugger logged the call that interrupted the loop."
+      ],
+      "branchCoverage": [
+        "an instruction that interrupts the program being executed -> a command that interrupts a computer program while it is running"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an instruction that interrupts the program being executed"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%2:31:13::",
+      "lemma": "call",
+      "pos": "v",
+      "definition": "utter in a loud voice or announce",
+      "decision": "gloss",
+      "simpleMeaning": "to say something loudly, or to make it known publicly",
+      "scope": "This is not a wordless cry and not a phone conversation; it is saying words loudly or making something known in public.",
+      "examples": [
+        "He called a warning to the climbers below.",
+        "The auctioneer called the final price to the room."
+      ],
+      "branchCoverage": [
+        "utter in a loud voice or announce -> to say something loudly, or to make it known publicly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "utter in a loud voice or announce"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%2:32:03::",
+      "lemma": "call",
+      "pos": "v",
+      "definition": "utter a characteristic note or cry",
+      "decision": "gloss",
+      "simpleMeaning": "to produce the typical note or cry of a particular kind of animal",
+      "scope": "This is not human speech and not a phone conversation; it is the natural sound an animal makes.",
+      "examples": [
+        "The owls called softly from the trees.",
+        "A cuckoo called somewhere beyond the hedge."
+      ],
+      "branchCoverage": [
+        "utter a characteristic note or cry -> to produce the typical note or cry of a particular kind of animal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "utter a characteristic note or cry"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%2:32:08::",
+      "lemma": "call",
+      "pos": "v",
+      "definition": "declare in the capacity of an umpire or referee",
+      "decision": "gloss",
+      "simpleMeaning": "to give an official ruling in a game, in the role of a referee or umpire",
+      "scope": "This is not a shout and not a phone conversation; it is an official decision in a game.",
+      "examples": [
+        "The referee called a foul on the defender.",
+        "She called the ball out before anyone could argue."
+      ],
+      "branchCoverage": [
+        "declare in the capacity of an umpire or referee -> to give an official ruling in a game, in the role of a referee or umpire"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "declare in the capacity of an umpire or referee"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%2:32:11::",
+      "lemma": "call",
+      "pos": "v",
+      "definition": "lure by imitating the characteristic call of an animal",
+      "decision": "gloss",
+      "simpleMeaning": "to draw an animal near by copying the sound that kind of animal makes",
+      "scope": "This is not just making an animal's sound; it is using a copy of that sound to bring the animal closer.",
+      "examples": [
+        "The hunter called the ducks toward the blind.",
+        "He learned to call deer by copying their mating sound."
+      ],
+      "branchCoverage": [
+        "lure by imitating the characteristic call of an animal -> to draw an animal near by copying the sound that kind of animal makes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "lure by imitating the characteristic call of an animal"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "call%2:32:13::",
+      "lemma": "call",
+      "pos": "v",
+      "definition": "read aloud to check for omissions or absentees",
+      "decision": "gloss",
+      "simpleMeaning": "to read out loud in order to check who is absent or what has been left out",
+      "scope": "This is not announcing something to a crowd; it is checking a group against a list.",
+      "examples": [
+        "The teacher called the roll before the lesson began.",
+        "She called each name on the list and ticked it off."
+      ],
+      "branchCoverage": [
+        "read aloud to check for omissions or absentees -> to read out loud in order to check who is absent or what has been left out"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "read aloud to check for omissions or absentees"
+      ],
+      "lemmaPartition": "call%1:10:08:: -> a broker's demand that a customer add money to reach the minimum account level; call%2:32:09:: -> a sudden loud shout; call%1:09:16:: -> an inner sense of purpose felt as if from a god; call%1:10:07:: -> a computing command that interrupts a running program; call%2:31:13:: -> saying words loudly or announcing them; call%2:32:03:: -> the typical sound made by a kind of animal; call%2:32:08:: -> a referee's or umpire's official decision in a game; call%2:32:11:: -> attracting an animal by copying its sound; call%2:32:13:: -> reading out loud from a list to check who is absent or what is missing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:17:00::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "the foam or froth that accumulates at the top when you pour an effervescent liquid into a container",
+      "decision": "gloss",
+      "simpleMeaning": "the layer of foam that collects at the top when a fizzy liquid is poured into a container",
+      "scope": "This is not the body part above the neck and not a leader; it is the foam on a poured drink.",
+      "examples": [
+        "The bartender poured the beer slowly to keep a thick head on it.",
+        "A white head formed on the cola as soon as she opened the bottle."
+      ],
+      "branchCoverage": [
+        "the foam or froth that accumulates at the top when you pour an effervescent liquid into a container -> the layer of foam that collects at the top when a fizzy liquid is poured into a container"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the foam or froth that accumulates at the top when you pour an effervescent liquid into a container"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:06:04::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "(usually plural) the obverse side of a coin that usually bears the representation of a person's head",
+      "decision": "gloss",
+      "simpleMeaning": "the front side of a coin, which usually shows a person's face; the word is usually used in the plural",
+      "scope": "This is not the body part above the neck and not a leader; it is the face side of a coin.",
+      "examples": [
+        "He tossed the coin and it came up heads.",
+        "They decided who would pay by choosing heads or tails."
+      ],
+      "branchCoverage": [
+        "(usually plural) the obverse side of a coin that usually bears the representation of a person's head -> the front side of a coin, which usually shows a person's face; the word is usually used in the plural"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(usually plural) the obverse side of a coin that usually bears the representation of a person's head"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:08:01::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "the rounded end of a bone that fits into a rounded cavity in another bone to form a joint",
+      "decision": "gloss",
+      "simpleMeaning": "the round end of a bone that fits into a round hollow in another bone to make a joint",
+      "scope": "This is not the body part above the neck; it is the rounded end of a bone where it meets another bone.",
+      "examples": [
+        "The scan showed a small crack in the head of the thigh bone.",
+        "The ball-shaped head of the upper arm bone sits in the shoulder socket."
+      ],
+      "branchCoverage": [
+        "the rounded end of a bone that fits into a rounded cavity in another bone to form a joint -> the round end of a bone that fits into a round hollow in another bone to make a joint"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the rounded end of a bone that fits into a rounded cavity in another bone to form a joint"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:10:01::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "a V-shaped mark at one end of an arrow pointer",
+      "decision": "gloss",
+      "simpleMeaning": "the pointed V shape drawn at the front end of an arrow",
+      "scope": "This is not the arrow as a whole; it is only the pointed mark at its end.",
+      "examples": [
+        "She drew the arrow's head in thick black ink.",
+        "The cursor arrow has a head that points up and to the left."
+      ],
+      "branchCoverage": [
+        "a V-shaped mark at one end of an arrow pointer -> the pointed V shape drawn at the front end of an arrow"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a V-shaped mark at one end of an arrow pointer"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:06:01::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "a membrane that is stretched taut over a drum",
+      "decision": "gloss",
+      "simpleMeaning": "the tightly stretched skin on a drum",
+      "scope": "This is not the drum itself; it is the skin stretched across it.",
+      "examples": [
+        "He replaced the torn head on his snare drum.",
+        "The drummer loosened the head to get a deeper sound."
+      ],
+      "branchCoverage": [
+        "a membrane that is stretched taut over a drum -> the tightly stretched skin on a drum"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a membrane that is stretched taut over a drum"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:08:02::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "that part of a skeletal muscle that is away from the bone that it moves",
+      "decision": "gloss",
+      "simpleMeaning": "the part of a muscle attached to the skeleton that lies away from the bone the muscle moves",
+      "scope": "This is not a bone and not the body part above the neck; it is one end of a muscle.",
+      "examples": [
+        "The diagram labels the two heads of the biceps muscle.",
+        "A strain near the head of the calf muscle kept him out of the race."
+      ],
+      "branchCoverage": [
+        "that part of a skeletal muscle that is away from the bone that it moves -> the part of a muscle attached to the skeleton that lies away from the bone the muscle moves"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "that part of a skeletal muscle that is away from the bone that it moves"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:20:00::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "a dense cluster of flowers or foliage",
+      "decision": "gloss",
+      "simpleMeaning": "a thick, tight cluster of flowers or leaves on a plant",
+      "scope": "This is not a single flower or leaf; it is a closely packed group of them.",
+      "examples": [
+        "The lettuce formed a tight head by midsummer.",
+        "Bees gathered on the purple head of the clover."
+      ],
+      "branchCoverage": [
+        "a dense cluster of flowers or foliage -> a thick, tight cluster of flowers or leaves on a plant"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a dense cluster of flowers or foliage"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:26:00::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "the tip of an abscess (where the pus accumulates)",
+      "decision": "gloss",
+      "simpleMeaning": "the tip of an infected swelling on the body, where the pus collects",
+      "scope": "This is not the whole infected swelling and not the body part above the neck; it is only its pointed top.",
+      "examples": [
+        "The abscess came to a head and burst.",
+        "The doctor said the head of the boil was ready to drain."
+      ],
+      "branchCoverage": [
+        "the tip of an abscess (where the pus accumulates) -> the tip of an infected swelling on the body, where the pus collects"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the tip of an abscess (where the pus accumulates)"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:10:00::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "a line of text serving to indicate what the passage below it is about",
+      "decision": "gloss",
+      "simpleMeaning": "a line of text that tells the reader what the passage below it is about",
+      "scope": "This is not the writing below it; it is the line that names its topic.",
+      "examples": [
+        "The story ran under the head 'Storm Hits Coast'.",
+        "She typed a short head above each block of notes."
+      ],
+      "branchCoverage": [
+        "a line of text serving to indicate what the passage below it is about -> a line of text that tells the reader what the passage below it is about"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a line of text serving to indicate what the passage below it is about"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "head%1:17:02::",
+      "lemma": "head",
+      "pos": "n",
+      "definition": "a natural elevation (especially a rocky one that juts out into the sea)",
+      "decision": "gloss",
+      "simpleMeaning": "a raised piece of land, especially a rocky point that sticks out into the sea",
+      "scope": "This is not a building or a made structure; it is a natural rise of land.",
+      "examples": [
+        "The fort was built on a rocky head above the sea.",
+        "From the ship we could see a green head jutting into the water."
+      ],
+      "branchCoverage": [
+        "a natural elevation (especially a rocky one that juts out into the sea) -> a raised piece of land, especially a rocky point that sticks out into the sea"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a natural elevation (especially a rocky one that juts out into the sea)"
+      ],
+      "lemmaPartition": "head%1:17:00:: -> the foam on top of a poured fizzy drink; head%1:06:04:: -> the face side of a coin; head%1:08:01:: -> the rounded end of a bone in a joint; head%1:10:01:: -> the V-shaped mark at the end of an arrow; head%1:06:01:: -> the skin stretched over a drum; head%1:08:02:: -> the end of a muscle away from the bone it moves; head%1:20:00:: -> a dense cluster of flowers or leaves; head%1:26:00:: -> the tip of an abscess where pus collects; head%1:10:00:: -> the line of text that introduces a passage; head%1:17:02:: -> a natural raised point of land, often rocky and by the sea",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "national%3:01:01::",
+      "lemma": "national",
+      "pos": "a",
+      "definition": "of or relating to nationality",
+      "decision": "gloss",
+      "simpleMeaning": "relating to a person's status as a citizen of a particular country",
+      "scope": "This is not about what a country's people are like and not about government ownership; it concerns a person's membership of a country.",
+      "examples": [
+        "The border officer asked about her national origins.",
+        "The form asks each applicant to state their national status."
+      ],
+      "branchCoverage": [
+        "of or relating to nationality -> relating to a person's status as a citizen of a particular country"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to nationality"
+      ],
+      "lemmaPartition": "national%3:01:01:: -> relating to a person's nationality; national%3:01:02:: -> typical of a country's people; national%5:00:00:public:00 -> owned or maintained by the central government for public use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "national%3:01:02::",
+      "lemma": "national",
+      "pos": "a",
+      "definition": "characteristic of or peculiar to the people of a nation",
+      "decision": "gloss",
+      "simpleMeaning": "typical of, or special to, the people of a particular country",
+      "scope": "This is not about a person's citizenship and not about government ownership; it is about what a country's people are like.",
+      "examples": [
+        "Football is a national passion in that country.",
+        "The festival has a strong national character."
+      ],
+      "branchCoverage": [
+        "characteristic of or peculiar to the people of a nation -> typical of, or special to, the people of a particular country"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characteristic of or peculiar to the people of a nation"
+      ],
+      "lemmaPartition": "national%3:01:01:: -> relating to a person's nationality; national%3:01:02:: -> typical of a country's people; national%5:00:00:public:00 -> owned or maintained by the central government for public use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "national%5:00:00:public:00",
+      "lemma": "national",
+      "pos": "a",
+      "definition": "owned or maintained for the public by the national government",
+      "decision": "gloss",
+      "simpleMeaning": "owned or kept up by the central government for everyone to use",
+      "scope": "This is not privately owned; it is paid for and run by the country's central government for public use.",
+      "examples": [
+        "The national museum is free to all visitors.",
+        "The national railway is paid for by the central government."
+      ],
+      "branchCoverage": [
+        "owned or maintained for the public by the national government -> owned or kept up by the central government for everyone to use"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "owned or maintained for the public by the national government"
+      ],
+      "lemmaPartition": "national%3:01:01:: -> relating to a person's nationality; national%3:01:02:: -> typical of a country's people; national%5:00:00:public:00 -> owned or maintained by the central government for public use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "small%5:00:00:little:03",
+      "lemma": "small",
+      "pos": "a",
+      "definition": "slight or limited; especially in degree or intensity or scope",
+      "decision": "gloss",
+      "simpleMeaning": "slight or limited, especially in degree, strength or range",
+      "scope": "This is not about physical size or age; it is about how slight or limited something is.",
+      "examples": [
+        "There is only a small chance of rain today.",
+        "The changes made only a small difference to the result."
+      ],
+      "branchCoverage": [
+        "slight or limited -> slight or limited",
+        "especially in degree or intensity or scope -> especially in degree, strength or range"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "slight or limited",
+        "especially in degree or intensity or scope"
+      ],
+      "lemmaPartition": "small%5:00:00:little:03 -> limited in degree, strength or scope; small%5:00:00:fine:00 -> made of fine or very tiny particles",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "small%5:00:00:fine:00",
+      "lemma": "small",
+      "pos": "a",
+      "definition": "have fine or very small constituent particles",
+      "decision": "defer",
+      "reason": "This use of the word for fine particles is archaic and survives mainly in old fixed phrases such as 'a small rain'; it is not current in modern general English, and any natural example would be read as the ordinary 'little in size' sense.",
+      "sourceBranches": [
+        "have fine or very small constituent particles"
+      ],
+      "lemmaPartition": "small%5:00:00:little:03 -> limited in degree, strength or scope; small%5:00:00:fine:00 -> made of fine or very tiny particles",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

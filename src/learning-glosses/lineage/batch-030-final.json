@@ -1,0 +1,1108 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 30,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 45,
+    "defers": 5,
+    "firstPass": {
+      "approved": 46,
+      "of": 50,
+      "rate": 0.92
+    },
+    "selfApproved": [
+      "complex%1:09:00::",
+      "condition%2:41:01::",
+      "distance%1:15:00::",
+      "fat%1:27:00::"
+    ],
+    "lineage": {
+      "draft": "1180f7bd84610a16622fb454721660784a19e7d449878b820e1ff318c3647976"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "complex%3:00:00::",
+      "lemma": "complex",
+      "pos": "a",
+      "definition": "complicated in structure; consisting of interconnected parts",
+      "decision": "gloss",
+      "simpleMeaning": "Hard to understand or deal with because it is made of many parts that are connected to one another.",
+      "scope": "This describes the structure of a thing, not a group of related things or buildings, and not a person's emotional difficulties.",
+      "examples": [
+        "The human brain is a complex organ that scientists still do not fully understand.",
+        "Building the bridge required a complex plan with many stages."
+      ],
+      "branchCoverage": [
+        "complicated in structure -> Hard to understand or deal with",
+        "consisting of interconnected parts -> made of many parts that are connected to one another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "complicated in structure",
+        "consisting of interconnected parts"
+      ],
+      "lemmaPartition": "complex%3:00:00:: = adjective: a thing's structure has many connected parts and is hard to understand; complex%1:09:00:: = noun: a whole built from related parts and taken as one unit",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "complex%1:09:00::",
+      "lemma": "complex",
+      "pos": "n",
+      "definition": "a conceptual whole made up of complicated and related parts",
+      "decision": "gloss",
+      "simpleMeaning": "a single whole, such as an idea or system, that is built from many connected parts.",
+      "scope": "This is a noun naming the whole itself, not the adjective describing something as hard to understand, and not a group of buildings.",
+      "examples": [
+        "The city's transport network is a complex of roads, rail lines, and tunnels.",
+        "The theory is a complex of ideas drawn from several fields."
+      ],
+      "branchCoverage": [
+        "a conceptual whole made up of complicated and related parts -> a single whole, such as an idea or system, that is built from many connected parts"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a conceptual whole made up of complicated and related parts"
+      ],
+      "lemmaPartition": "complex%3:00:00:: = adjective: a thing's structure has many connected parts and is hard to understand; complex%1:09:00:: = noun: a whole built from related parts and taken as one unit",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds hard to separate, an unsupported narrowing not present in the source definition."
+    },
+    {
+      "senseId": "condition%1:10:01::",
+      "lemma": "condition",
+      "pos": "n",
+      "definition": "an assumption on which rests the validity or effect of something else",
+      "decision": "gloss",
+      "simpleMeaning": "A fact or belief that is accepted as true, and that something else depends on in order to be valid or to take effect.",
+      "scope": "This is a premise that must hold for something else to work, not a requirement written into a contract, not a state of health, and not the act of training behavior.",
+      "examples": [
+        "These results hold only under the condition that the sample is truly random.",
+        "The forecast rests on one condition: that fuel prices stay steady."
+      ],
+      "branchCoverage": [
+        "an assumption on which rests the validity or effect of something else -> A fact or belief that is accepted as true, and that something else depends on in order to be valid or to take effect"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an assumption on which rests the validity or effect of something else"
+      ],
+      "lemmaPartition": "condition%1:10:01:: = noun: a premise accepted as true that something else depends on; condition%2:32:00:: = verb: to write a requirement into a contract or agreement; condition%2:41:00:: = verb: to train a child's or animal's behavior through instruction and practice, especially self-control; condition%2:41:01:: = verb: to establish an automatic learned reflex in behaviorist experiments",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "condition%2:32:00::",
+      "lemma": "condition",
+      "pos": "v",
+      "definition": "specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement",
+      "decision": "gloss",
+      "simpleMeaning": "To state in a contract or agreement that something must be done or supplied, and to make that demand clearly.",
+      "scope": "This is about writing a requirement into a formal agreement, not about training someone's behavior, creating a learned reflex, or naming a premise.",
+      "examples": [
+        "The contract conditions payment on delivery of the goods.",
+        "The agreement conditions the loan on an independent audit."
+      ],
+      "branchCoverage": [
+        "specify as a condition or requirement in a contract or agreement -> To state in a contract or agreement that something must be done or supplied",
+        "make an express demand or provision in an agreement -> and to make that demand clearly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "specify as a condition or requirement in a contract or agreement",
+        "make an express demand or provision in an agreement"
+      ],
+      "lemmaPartition": "condition%1:10:01:: = noun: a premise accepted as true that something else depends on; condition%2:32:00:: = verb: to write a requirement into a contract or agreement; condition%2:41:00:: = verb: to train a child's or animal's behavior through instruction and practice, especially self-control; condition%2:41:01:: = verb: to establish an automatic learned reflex in behaviorist experiments",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "condition%2:41:00::",
+      "lemma": "condition",
+      "pos": "v",
+      "definition": "develop (a child's or animal's) behavior by instruction and practice; especially to teach self-control",
+      "decision": "gloss",
+      "simpleMeaning": "To train a child or animal through teaching and repeated practice, especially so that they learn self-control.",
+      "scope": "This is about teaching and practice that build self-control in a child or animal, not about setting terms in a contract and not about creating an automatic reflex in a laboratory.",
+      "examples": [
+        "Parents condition their children to be polite at the table.",
+        "Trainers condition the horses to stand quietly while being groomed."
+      ],
+      "branchCoverage": [
+        "develop (a child's or animal's) behavior by instruction and practice -> To train a child or animal through teaching and repeated practice",
+        "especially to teach self-control -> especially so that they learn self-control"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "develop (a child's or animal's) behavior by instruction and practice",
+        "especially to teach self-control"
+      ],
+      "lemmaPartition": "condition%1:10:01:: = noun: a premise accepted as true that something else depends on; condition%2:32:00:: = verb: to write a requirement into a contract or agreement; condition%2:41:00:: = verb: to train a child's or animal's behavior through instruction and practice, especially self-control; condition%2:41:01:: = verb: to establish an automatic learned reflex in behaviorist experiments",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "condition%2:41:01::",
+      "lemma": "condition",
+      "pos": "v",
+      "definition": "establish a conditioned response",
+      "decision": "gloss",
+      "sourceBranches": [
+        "establish a conditioned response"
+      ],
+      "lemmaPartition": "condition%1:10:01:: = noun: a premise accepted as true that something else depends on; condition%2:32:00:: = verb: to write a requirement into a contract or agreement; condition%2:41:00:: = verb: to train a child's or animal's behavior through instruction and practice, especially self-control; condition%2:41:01:: = verb: to establish an automatic learned reflex in behaviorist experiments",
+      "verdict": "self-approved",
+      "reviewerNote": "Pavlovian sense is common general knowledge and easily glossed; natural examples exist, so deferring hides a usable sense.",
+      "simpleMeaning": "to train a person or animal so that a particular response becomes automatic whenever a signal is given.",
+      "scope": "This is the technical psychology sense; it is not the general sense of training a child or animal to behave well.",
+      "examples": [
+        "Pavlov conditioned dogs to salivate when they heard a bell.",
+        "The rats were conditioned to fear the light."
+      ],
+      "branchCoverage": [
+        "establish a conditioned response -> train a person or animal so that a particular response becomes automatic whenever a signal is given"
+      ],
+      "labelBranches": []
+    },
+    {
+      "senseId": "division%1:09:00::",
+      "lemma": "division",
+      "pos": "n",
+      "definition": "one of the portions into which something is regarded as divided and which together constitute a whole",
+      "decision": "gloss",
+      "simpleMeaning": "A part that something is thought of as being split into, with all such parts making up the whole.",
+      "scope": "This is one part of a whole that has been split up, not the arithmetic operation and not the act of separating.",
+      "examples": [
+        "The book is organized into three divisions, each covering a different period.",
+        "The course is arranged in five divisions, from beginner to advanced."
+      ],
+      "branchCoverage": [
+        "one of the portions into which something is regarded as divided and which together constitute a whole -> A part that something is thought of as being split into, with all such parts making up the whole"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "one of the portions into which something is regarded as divided and which together constitute a whole"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "evening%1:28:00::",
+      "lemma": "evening",
+      "pos": "n",
+      "definition": "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)",
+      "decision": "gloss",
+      "simpleMeaning": "The later part of the day, from late afternoon until it gets dark, when the light is fading.",
+      "scope": "This is the time of day, not the act of making something level or equal, and not the fully dark hours of night.",
+      "examples": [
+        "We spent the evening walking along the river.",
+        "The evenings are getting colder now that autumn has arrived."
+      ],
+      "branchCoverage": [
+        "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall) -> The later part of the day, from late afternoon until it gets dark, when the light is fading"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "flight%1:14:01::",
+      "lemma": "flight",
+      "pos": "n",
+      "definition": "a formation of aircraft in flight",
+      "decision": "gloss",
+      "simpleMeaning": "A group of aircraft moving together through the air in an arranged pattern.",
+      "scope": "This is the group of aircraft itself, not a single plane trip, not the act of moving through the air, and not a set of stairs.",
+      "examples": [
+        "A flight of fighter jets passed low over the city.",
+        "The squadron sent a flight of three helicopters to the rescue."
+      ],
+      "branchCoverage": [
+        "a formation of aircraft in flight -> A group of aircraft moving together through the air in an arranged pattern"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a formation of aircraft in flight"
+      ],
+      "lemmaPartition": "flight%1:14:01:: = noun: a group of aircraft flying together in formation; flight%2:41:00:: = verb: to shoot a bird while it is in the air",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "flight%2:41:00::",
+      "lemma": "flight",
+      "pos": "v",
+      "definition": "shoot a bird in flight",
+      "decision": "defer",
+      "reason": "Rare hunting term from sporting writing; the verb is not part of general modern English and two natural example sentences cannot be written without sounding contrived.",
+      "sourceBranches": [
+        "shoot a bird in flight"
+      ],
+      "lemmaPartition": "flight%1:14:01:: = noun: a group of aircraft flying together in formation; flight%2:41:00:: = verb: to shoot a bird while it is in the air",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "freedom%1:26:00::",
+      "lemma": "freedom",
+      "pos": "n",
+      "definition": "the condition of being free; the power to act or speak or think without externally imposed restraints",
+      "decision": "gloss",
+      "simpleMeaning": "The state of being able to act, speak, or think as one chooses, with no limits forced on one from outside.",
+      "scope": "This is liberty in general, not a particular legal right and not the ease of doing something without difficulty.",
+      "examples": [
+        "The prisoners finally regained their freedom after ten years.",
+        "She values the freedom to choose her own working hours."
+      ],
+      "branchCoverage": [
+        "the condition of being free -> The state of being able to act, speak, or think as one chooses",
+        "the power to act or speak or think without externally imposed restraints -> with no limits forced on one from outside"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the condition of being free",
+        "the power to act or speak or think without externally imposed restraints"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "heat%2:37:00::",
+      "lemma": "heat",
+      "pos": "v",
+      "definition": "arouse or excite feelings and passions",
+      "decision": "defer",
+      "reason": "Rare figurative use; modern English expresses this with 'heat up' or other verbs, and bare transitive examples in this sense sound unnatural.",
+      "sourceBranches": [
+        "arouse or excite feelings and passions"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "interview%1:10:01::",
+      "lemma": "interview",
+      "pos": "n",
+      "definition": "the questioning of a person (or a conversation in which information is elicited); often conducted by journalists",
+      "decision": "gloss",
+      "simpleMeaning": "A conversation in which one person asks another questions to draw out information, often for a news report.",
+      "scope": "This is the questioning event itself, not a job selection meeting and not a written questionnaire.",
+      "examples": [
+        "The actor gave a long interview about his new film.",
+        "Police conducted an interview with the witness."
+      ],
+      "branchCoverage": [
+        "the questioning of a person (or a conversation in which information is elicited) -> A conversation in which one person asks another questions to draw out information",
+        "often conducted by journalists -> often for a news report"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the questioning of a person (or a conversation in which information is elicited)",
+        "often conducted by journalists"
+      ],
+      "lemmaPartition": "interview%1:10:01:: = noun: the questioning event in which information is drawn out, often by journalists; interview%2:32:00:: = verb: a reporter questioning someone for television, newspaper, or radio; interview%2:32:02:: = verb: a job candidate attending a hiring meeting",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "interview%2:32:00::",
+      "lemma": "interview",
+      "pos": "v",
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "decision": "gloss",
+      "simpleMeaning": "To ask someone questions for a report on television, in a newspaper, or on the radio.",
+      "scope": "This is what a reporter does, not what a job candidate does at a hiring meeting, and not the noun for the event.",
+      "examples": [
+        "She interviewed the mayor about the new housing plan.",
+        "The reporter interviewed several witnesses at the scene."
+      ],
+      "branchCoverage": [
+        "conduct an interview in television, newspaper, and radio reporting -> To ask someone questions for a report on television, in a newspaper, or on the radio"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "conduct an interview in television, newspaper, and radio reporting"
+      ],
+      "lemmaPartition": "interview%1:10:01:: = noun: the questioning event in which information is drawn out, often by journalists; interview%2:32:00:: = verb: a reporter questioning someone for television, newspaper, or radio; interview%2:32:02:: = verb: a job candidate attending a hiring meeting",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "interview%2:32:02::",
+      "lemma": "interview",
+      "pos": "v",
+      "definition": "go for an interview in the hope of being hired",
+      "decision": "gloss",
+      "simpleMeaning": "To go to a meeting with a possible employer, hoping to be given a job.",
+      "scope": "This is what a job candidate does, not what a reporter does and not the event itself.",
+      "examples": [
+        "She interviewed for a job at the hospital last week.",
+        "He is interviewing with several firms this month."
+      ],
+      "branchCoverage": [
+        "go for an interview in the hope of being hired -> To go to a meeting with a possible employer, hoping to be given a job"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "go for an interview in the hope of being hired"
+      ],
+      "lemmaPartition": "interview%1:10:01:: = noun: the questioning event in which information is drawn out, often by journalists; interview%2:32:00:: = verb: a reporter questioning someone for television, newspaper, or radio; interview%2:32:02:: = verb: a job candidate attending a hiring meeting",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "library%1:14:00::",
+      "lemma": "library",
+      "pos": "n",
+      "definition": "a collection of literary documents or records kept for reference or borrowing",
+      "decision": "gloss",
+      "simpleMeaning": "A set of books, papers, or recordings kept together so that people can consult them or borrow them.",
+      "scope": "This is the collection itself, not the building or room that holds it, and not a set of computer programs.",
+      "examples": [
+        "The school has a large library of children's books.",
+        "He built a private library of rare maps and letters."
+      ],
+      "branchCoverage": [
+        "a collection of literary documents or records kept for reference or borrowing -> A set of books, papers, or recordings kept together so that people can consult them or borrow them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a collection of literary documents or records kept for reference or borrowing"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "putting%1:04:00::",
+      "lemma": "putting",
+      "pos": "n",
+      "definition": "hitting a golf ball that is on the green using a putter",
+      "decision": "gloss",
+      "simpleMeaning": "In golf, a stroke made with a special flat club that rolls the ball along the smooth short grass toward the hole.",
+      "scope": "This is the golf stroke, not the act of placing an object somewhere and not a full swing from the fairway.",
+      "examples": [
+        "Her putting improved after weeks of practice on the green.",
+        "Good putting won him the tournament."
+      ],
+      "branchCoverage": [
+        "hitting a golf ball that is on the green using a putter -> In golf, a stroke made with a special flat club that rolls the ball along the smooth short grass toward the hole"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "hitting a golf ball that is on the green using a putter"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "queen%1:05:01::",
+      "lemma": "queen",
+      "pos": "n",
+      "definition": "the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs",
+      "decision": "gloss",
+      "simpleMeaning": "The only female in a colony of social insects, such as bees, ants, or termites, that can produce young; her role is to lay eggs.",
+      "scope": "This is the insect, not a female ruler, not a playing card, and not a chess piece.",
+      "examples": [
+        "The queen bee lays thousands of eggs in her lifetime.",
+        "Each ant colony has a single queen."
+      ],
+      "branchCoverage": [
+        "the only fertile female in a colony of social insects such as bees and ants and termites -> The only female in a colony of social insects, such as bees, ants, or termites, that can produce young",
+        "its function is to lay eggs -> her role is to lay eggs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the only fertile female in a colony of social insects such as bees and ants and termites",
+        "its function is to lay eggs"
+      ],
+      "lemmaPartition": "queen%1:05:01:: = noun: the single egg-laying female of a colony of social insects; queen%2:41:00:: = verb: to promote a chess pawn to the strongest piece",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "queen%2:41:00::",
+      "lemma": "queen",
+      "pos": "v",
+      "definition": "promote to a queen, as of a pawn in chess",
+      "decision": "gloss",
+      "simpleMeaning": "In chess, to move a pawn to the far end of the board and upgrade it to the strongest piece.",
+      "scope": "This is a chess move, not making someone a royal ruler and not the insect.",
+      "examples": [
+        "She queened her pawn on the last move and won the game.",
+        "He queened a pawn early, which gave him a strong attack."
+      ],
+      "branchCoverage": [
+        "promote to a queen, as of a pawn in chess -> In chess, to move a pawn to the far end of the board and upgrade it to the strongest piece"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "promote to a queen, as of a pawn in chess"
+      ],
+      "lemmaPartition": "queen%1:05:01:: = noun: the single egg-laying female of a colony of social insects; queen%2:41:00:: = verb: to promote a chess pawn to the strongest piece",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sitting%3:00:02::",
+      "lemma": "sitting",
+      "pos": "a",
+      "definition": "(of persons) having the torso erect and legs bent with the body supported on the buttocks",
+      "decision": "gloss",
+      "simpleMeaning": "Used of a person whose upper body is upright and whose legs are bent, with the weight of the body resting on the buttocks.",
+      "scope": "This describes a person's body position, not a formal meeting, not a period when a court or parliament is in session, and not the act of taking a seat.",
+      "examples": [
+        "Please remain sitting until the bell rings.",
+        "She stayed sitting at her desk long after everyone had left."
+      ],
+      "branchCoverage": [
+        "(of persons) having the torso erect and legs bent with the body supported on the buttocks -> Used of a person whose upper body is upright and whose legs are bent, with the weight of the body resting on the buttocks"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of persons) having the torso erect and legs bent with the body supported on the buttocks"
+      ],
+      "lemmaPartition": "sitting%3:00:02:: = adjective: describes a person in an upright, legs-bent body position; sitting%1:04:00:: = noun: the act of taking or keeping that position",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sitting%1:04:00::",
+      "lemma": "sitting",
+      "pos": "n",
+      "definition": "the act of assuming or maintaining a seated position",
+      "decision": "gloss",
+      "simpleMeaning": "The act of taking a place on a chair or other support, or of staying in that position.",
+      "scope": "This is the act itself, not the body position described of a person and not a formal session.",
+      "examples": [
+        "Sitting for long hours can hurt your back.",
+        "The doctor advised him to avoid sitting for long periods."
+      ],
+      "branchCoverage": [
+        "the act of assuming or maintaining a seated position -> The act of taking a place on a chair or other support, or of staying in that position"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of assuming or maintaining a seated position"
+      ],
+      "lemmaPartition": "sitting%3:00:02:: = adjective: describes a person in an upright, legs-bent body position; sitting%1:04:00:: = noun: the act of taking or keeping that position",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "standing%1:10:00::",
+      "lemma": "standing",
+      "pos": "n",
+      "definition": "an ordered listing of scores or results showing the relative positions of competitors (individuals or teams) in a sporting event",
+      "decision": "gloss",
+      "simpleMeaning": "A table of scores, arranged in order, that shows how each player or team ranks in a sports competition.",
+      "scope": "This is the sports ranking table, not the act of being upright, not social reputation, and not a permanent rule.",
+      "examples": [
+        "The team is third in the league standings.",
+        "She checked the standings to see who they would play next."
+      ],
+      "branchCoverage": [
+        "an ordered listing of scores or results showing the relative positions of competitors (individuals or teams) in a sporting event -> A table of scores, arranged in order, that shows how each player or team ranks in a sports competition"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an ordered listing of scores or results showing the relative positions of competitors (individuals or teams) in a sporting event"
+      ],
+      "lemmaPartition": "standing%1:10:00:: = noun: an ordered table of sports scores showing each competitor's rank; standing%1:04:00:: = noun: the act of being upright on the feet",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "standing%1:04:00::",
+      "lemma": "standing",
+      "pos": "n",
+      "definition": "the act of assuming or maintaining an erect upright position",
+      "decision": "gloss",
+      "simpleMeaning": "The act of rising to an upright position or of remaining upright on the feet.",
+      "scope": "This is the physical act, not the sports ranking table, not rank or reputation, and not a long-lasting arrangement.",
+      "examples": [
+        "Long periods of standing can make your legs ache.",
+        "The job requires standing for most of the day."
+      ],
+      "branchCoverage": [
+        "the act of assuming or maintaining an erect upright position -> The act of rising to an upright position or of remaining upright on the feet"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of assuming or maintaining an erect upright position"
+      ],
+      "lemmaPartition": "standing%1:10:00:: = noun: an ordered table of sports scores showing each competitor's rank; standing%1:04:00:: = noun: the act of being upright on the feet",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "accept%2:32:00::",
+      "lemma": "accept",
+      "pos": "v",
+      "definition": "give an affirmative reply to; respond favorably to",
+      "decision": "gloss",
+      "simpleMeaning": "To say yes in reply to something, or to react to it in a positive way.",
+      "scope": "This is saying yes or reacting well, not physically taking something handed to you and not coming to believe a claim.",
+      "examples": [
+        "She accepted the job offer without hesitation.",
+        "The committee accepted the proposal after a short debate."
+      ],
+      "branchCoverage": [
+        "give an affirmative reply to -> To say yes in reply to something",
+        "respond favorably to -> or to react to it in a positive way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "give an affirmative reply to",
+        "respond favorably to"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "actual%5:00:00:true:00",
+      "lemma": "actual",
+      "pos": "a",
+      "definition": "being or reflecting the essential or genuine character of something",
+      "decision": "gloss",
+      "simpleMeaning": "True to the real, essential nature of something, rather than only seeming to be so.",
+      "scope": "This describes what something truly is at its core, not what exists now as opposed to what is planned, and not what only appears to be true.",
+      "examples": [
+        "The actual meaning of the poem is much darker than the surface reading.",
+        "Beneath the jokes, the actual point of his speech was serious."
+      ],
+      "branchCoverage": [
+        "being or reflecting the essential or genuine character of something -> True to the real, essential nature of something, rather than only seeming to be so"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "being or reflecting the essential or genuine character of something"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attempt%1:04:00::",
+      "lemma": "attempt",
+      "pos": "n",
+      "definition": "earnest and conscientious activity intended to do or accomplish something",
+      "decision": "gloss",
+      "simpleMeaning": "a serious, careful effort to do or achieve something.",
+      "scope": "This is the serious effort itself, not an attack on someone and not the result it produces.",
+      "examples": [
+        "He made one last attempt to reach the summit.",
+        "Her first attempt at baking bread took all afternoon."
+      ],
+      "branchCoverage": [
+        "earnest and conscientious activity intended to do or accomplish something -> a serious, careful effort to do or achieve something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "earnest and conscientious activity intended to do or accomplish something"
+      ],
+      "lemmaPartition": "attempt%1:04:00:: = the serious effort itself, as a thing (noun); attempt%2:41:00:: = to make such an effort (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attempt%2:41:00::",
+      "lemma": "attempt",
+      "pos": "v",
+      "definition": "make an effort or attempt",
+      "decision": "gloss",
+      "simpleMeaning": "to make an effort to do something.",
+      "scope": "This means trying to do something, not succeeding at it or merely planning it.",
+      "examples": [
+        "She attempted to lift the heavy box alone.",
+        "They attempted the climb without a guide."
+      ],
+      "branchCoverage": [
+        "make an effort or attempt -> to make an effort to do something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make an effort or attempt"
+      ],
+      "lemmaPartition": "attempt%1:04:00:: = the serious effort itself, as a thing (noun); attempt%2:41:00:: = to make such an effort (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "channel%1:25:00::",
+      "lemma": "channel",
+      "pos": "n",
+      "definition": "a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)",
+      "decision": "gloss",
+      "simpleMeaning": "a long, narrow cut or groove made by nature, such as water wearing away rock, or by a tool, such as the track cut into a record.",
+      "scope": "This is a cut or groove in a surface, not a waterway for boats, a broadcast station, or a means of communication.",
+      "examples": [
+        "Water had worn a narrow channel in the rock.",
+        "The needle follows the channel cut into the record."
+      ],
+      "branchCoverage": [
+        "a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record) -> a long, narrow cut or groove made by nature, such as water wearing away rock, or by a tool, such as the track cut into a record"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)"
+      ],
+      "lemmaPartition": "channel%1:25:00:: = a long narrow cut or groove in a surface (noun); channel%2:38:01:: = to carry something along or act as the means of passing it (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "channel%2:38:01::",
+      "lemma": "channel",
+      "pos": "v",
+      "definition": "transmit or serve as the medium for transmission",
+      "decision": "gloss",
+      "simpleMeaning": "to carry something along, or to be the means by which something is passed.",
+      "scope": "This is about passing something along, not a physical waterway or a broadcast station.",
+      "examples": [
+        "The charity channels money to small clinics.",
+        "The pipe channels water from the well to the house."
+      ],
+      "branchCoverage": [
+        "transmit or serve as the medium for transmission -> to carry something along, or to be the means by which something is passed"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "transmit or serve as the medium for transmission"
+      ],
+      "lemmaPartition": "channel%1:25:00:: = a long narrow cut or groove in a surface (noun); channel%2:38:01:: = to carry something along or act as the means of passing it (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "distance%1:15:00::",
+      "lemma": "distance",
+      "pos": "n",
+      "definition": "a distant region",
+      "decision": "gloss",
+      "simpleMeaning": "a faraway area or place.",
+      "scope": "This is a place far away, not the measured space between two points.",
+      "examples": [
+        "A light shone in the distance.",
+        "The ship slowly disappeared into the distance."
+      ],
+      "branchCoverage": [
+        "a distant region -> a faraway area or place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a distant region"
+      ],
+      "lemmaPartition": "distance%1:15:00:: = a faraway area (noun); distance%2:42:00:: = to keep apart or stay far from someone or something (verb)",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example uses unidiomatic 'from the distance'; standard is 'in the distance'."
+    },
+    {
+      "senseId": "distance%2:42:00::",
+      "lemma": "distance",
+      "pos": "v",
+      "definition": "keep at a distance",
+      "decision": "gloss",
+      "simpleMeaning": "to keep apart, or to make yourself stay far from someone or something.",
+      "scope": "This is about keeping apart, not about measuring how far apart things are.",
+      "examples": [
+        "She distanced herself from the scandal.",
+        "The company distanced itself from the failed project."
+      ],
+      "branchCoverage": [
+        "keep at a distance -> to keep apart, or to make yourself stay far from someone or something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "keep at a distance"
+      ],
+      "lemmaPartition": "distance%1:15:00:: = a faraway area (noun); distance%2:42:00:: = to keep apart or stay far from someone or something (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "exchange%1:10:00::",
+      "lemma": "exchange",
+      "pos": "n",
+      "definition": "a mutual expression of views (especially an unpleasant one)",
+      "decision": "gloss",
+      "simpleMeaning": "a conversation in which people tell each other what they think, often a hostile or angry one.",
+      "scope": "This is a sharing of opinions in talk, not a swap of goods, money, or prisoners.",
+      "examples": [
+        "The meeting ended with a heated exchange.",
+        "There was a sharp exchange between the two leaders."
+      ],
+      "branchCoverage": [
+        "a mutual expression of views (especially an unpleasant one) -> a conversation in which people tell each other what they think, often a hostile or angry one"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a mutual expression of views (especially an unpleasant one)"
+      ],
+      "lemmaPartition": "exchange%1:10:00:: = a mutual, often angry, sharing of views in talk (noun); exchange%1:19:00:: = a chemical swap of atoms, ions, or groups (noun); exchange%2:30:00:: = to give one thing and receive another in its place (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "exchange%1:19:00::",
+      "lemma": "exchange",
+      "pos": "n",
+      "definition": "chemical process in which one atom or ion or group changes places with another",
+      "decision": "gloss",
+      "simpleMeaning": "a chemical process in which one atom, charged particle, or group of atoms takes the place of another.",
+      "scope": "This is a swap at the level of atoms and molecules, not a trade of goods or a conversation.",
+      "examples": [
+        "The exchange of ions across the membrane keeps the cell charged.",
+        "Chemists studied the exchange of atoms during the reaction."
+      ],
+      "branchCoverage": [
+        "chemical process in which one atom or ion or group changes places with another -> a chemical process in which one atom, charged particle, or group of atoms takes the place of another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "chemical process in which one atom or ion or group changes places with another"
+      ],
+      "lemmaPartition": "exchange%1:10:00:: = a mutual, often angry, sharing of views in talk (noun); exchange%1:19:00:: = a chemical swap of atoms, ions, or groups (noun); exchange%2:30:00:: = to give one thing and receive another in its place (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "exchange%2:30:00::",
+      "lemma": "exchange",
+      "pos": "v",
+      "definition": "exchange or replace with another, usually of the same kind or category",
+      "decision": "gloss",
+      "simpleMeaning": "to give something and receive something else in its place, usually of the same kind.",
+      "scope": "This means swapping one thing for another, not holding a conversation or undergoing a chemical reaction.",
+      "examples": [
+        "The two boys exchanged hats.",
+        "She exchanged the broken lamp for a new one."
+      ],
+      "branchCoverage": [
+        "exchange or replace with another, usually of the same kind or category -> to give something and receive something else in its place, usually of the same kind"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "exchange or replace with another, usually of the same kind or category"
+      ],
+      "lemmaPartition": "exchange%1:10:00:: = a mutual, often angry, sharing of views in talk (noun); exchange%1:19:00:: = a chemical swap of atoms, ions, or groups (noun); exchange%2:30:00:: = to give one thing and receive another in its place (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fat%1:27:00::",
+      "lemma": "fat",
+      "pos": "n",
+      "definition": "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)",
+      "decision": "gloss",
+      "sourceBranches": [
+        "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)"
+      ],
+      "lemmaPartition": "fat%1:27:00:: = the greasy chemical substance itself (deferred); fat%1:08:00:: = the body tissue that stores that substance and protects organs (noun)",
+      "verdict": "self-approved",
+      "reviewerNote": "Everyday substance sense; a simple gloss and natural examples are clearly possible.",
+      "simpleMeaning": "a soft, greasy substance found in the bodies of people and animals and in some foods.",
+      "scope": "This is the substance itself, not the body tissue that stores it, and not the adjective meaning overweight.",
+      "examples": [
+        "The meat had a thick layer of fat.",
+        "Fat gives food a rich taste and provides a lot of energy."
+      ],
+      "branchCoverage": [
+        "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides) -> a soft, greasy substance found in the bodies of people and animals and in some foods"
+      ],
+      "labelBranches": []
+    },
+    {
+      "senseId": "fat%1:08:00::",
+      "lemma": "fat",
+      "pos": "n",
+      "definition": "a kind of body tissue containing stored fat that serves as a source of energy; it also cushions and insulates vital organs",
+      "decision": "gloss",
+      "simpleMeaning": "a type of body tissue that stores oily material as energy and also protects and keeps heat around important organs.",
+      "scope": "This is the body tissue that stores energy, not the greasy substance itself.",
+      "examples": [
+        "Fat under the skin helps keep the body warm.",
+        "The scan showed a layer of fat around his kidneys."
+      ],
+      "branchCoverage": [
+        "a kind of body tissue containing stored fat that serves as a source of energy -> a type of body tissue that stores oily material as energy",
+        "it also cushions and insulates vital organs -> protects and keeps heat around important organs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a kind of body tissue containing stored fat that serves as a source of energy",
+        "it also cushions and insulates vital organs"
+      ],
+      "lemmaPartition": "fat%1:27:00:: = the greasy chemical substance itself (deferred); fat%1:08:00:: = the body tissue that stores that substance and protects organs (noun)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fell%1:06:00::",
+      "lemma": "fell",
+      "pos": "n",
+      "definition": "seam made by turning under or folding together and stitching the seamed materials to avoid rough edges",
+      "decision": "defer",
+      "reason": "A specialized tailoring term for a folded, stitched seam edge; it appears almost only in sewing manuals, and no two natural modern example sentences can be written.",
+      "sourceBranches": [
+        "seam made by turning under or folding together and stitching the seamed materials to avoid rough edges"
+      ],
+      "lemmaPartition": "fell%1:06:00:: = the folded, stitched seam itself (noun, deferred); fell%2:35:02:: = to sew a seam by folding its edges (verb, deferred); fell%5:00:00:inhumane:00 = cruel and ready to cause pain (adjective, deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fell%2:35:02::",
+      "lemma": "fell",
+      "pos": "v",
+      "definition": "sew a seam by folding the edges",
+      "decision": "defer",
+      "reason": "A specialized sewing verb confined to tailoring instructions; natural modern example sentences outside a sewing manual cannot be produced.",
+      "sourceBranches": [
+        "sew a seam by folding the edges"
+      ],
+      "lemmaPartition": "fell%1:06:00:: = the folded, stitched seam itself (noun, deferred); fell%2:35:02:: = to sew a seam by folding its edges (verb, deferred); fell%5:00:00:inhumane:00 = cruel and ready to cause pain (adjective, deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fell%5:00:00:inhumane:00",
+      "lemma": "fell",
+      "pos": "a",
+      "definition": "(of persons or their actions) able or disposed to inflict pain or suffering",
+      "decision": "defer",
+      "reason": "Literary and now rare in general reading, surviving mainly in the fixed phrase 'one fell swoop'; two natural modern sentences cannot be written without sounding archaic.",
+      "sourceBranches": [
+        "(of persons or their actions) able or disposed to inflict pain or suffering"
+      ],
+      "lemmaPartition": "fell%1:06:00:: = the folded, stitched seam itself (noun, deferred); fell%2:35:02:: = to sew a seam by folding its edges (verb, deferred); fell%5:00:00:inhumane:00 = cruel and ready to cause pain (adjective, deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "finding%1:04:00::",
+      "lemma": "finding",
+      "pos": "n",
+      "definition": "the act of determining the properties of something, usually by research or calculation",
+      "decision": "gloss",
+      "simpleMeaning": "the work of discovering the facts or qualities of something, often through study or calculation.",
+      "scope": "This is the act of establishing facts, not the result or conclusion that is reached.",
+      "examples": [
+        "The finding of the ship's exact position took several hours.",
+        "The finding of the cause of the outbreak took months of study."
+      ],
+      "branchCoverage": [
+        "the act of determining the properties of something, usually by research or calculation -> the work of discovering the facts or qualities of something, often through study or calculation"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of determining the properties of something, usually by research or calculation"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "glass%1:27:00::",
+      "lemma": "glass",
+      "pos": "n",
+      "definition": "a brittle transparent solid with irregular atomic structure",
+      "decision": "gloss",
+      "simpleMeaning": "a hard, see-through solid that breaks easily, whose atoms are not arranged in a regular pattern.",
+      "scope": "This is the material itself, not a drinking container made from it or the amount it holds.",
+      "examples": [
+        "The bowl is made of thin glass.",
+        "Glass breaks easily when it is dropped."
+      ],
+      "branchCoverage": [
+        "a brittle transparent solid with irregular atomic structure -> a hard, see-through solid that breaks easily, whose atoms are not arranged in a regular pattern"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a brittle transparent solid with irregular atomic structure"
+      ],
+      "lemmaPartition": "glass%1:27:00:: = the hard see-through material (noun); glass%1:06:00:: = the drinking container (noun); glass%1:23:00:: = the amount that container holds (noun); glass%2:35:00:: = to close in an open space with panes (verb); glass%2:40:00:: = to fit panes into window or door frames (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "glass%1:06:00::",
+      "lemma": "glass",
+      "pos": "n",
+      "definition": "a container made of glass for holding liquids while drinking",
+      "decision": "gloss",
+      "simpleMeaning": "a container made of a hard see-through material, used for holding liquid while you drink.",
+      "scope": "This is the drinking container, not the material it is made of and not the amount it holds.",
+      "examples": [
+        "She poured water into a tall glass.",
+        "He rinsed his glass and set it by the sink."
+      ],
+      "branchCoverage": [
+        "a container made of glass for holding liquids while drinking -> a container made of a hard see-through material, used for holding liquid while you drink"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a container made of glass for holding liquids while drinking"
+      ],
+      "lemmaPartition": "glass%1:27:00:: = the hard see-through material (noun); glass%1:06:00:: = the drinking container (noun); glass%1:23:00:: = the amount that container holds (noun); glass%2:35:00:: = to close in an open space with panes (verb); glass%2:40:00:: = to fit panes into window or door frames (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "glass%1:23:00::",
+      "lemma": "glass",
+      "pos": "n",
+      "definition": "the quantity a glass will hold",
+      "decision": "gloss",
+      "simpleMeaning": "the amount of liquid that a drinking container can hold.",
+      "scope": "This is the amount held, not the container itself and not the material.",
+      "examples": [
+        "He drank a glass of milk with breakfast.",
+        "Add two glasses of water to the pot."
+      ],
+      "branchCoverage": [
+        "the quantity a glass will hold -> the amount of liquid that a drinking container can hold"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the quantity a glass will hold"
+      ],
+      "lemmaPartition": "glass%1:27:00:: = the hard see-through material (noun); glass%1:06:00:: = the drinking container (noun); glass%1:23:00:: = the amount that container holds (noun); glass%2:35:00:: = to close in an open space with panes (verb); glass%2:40:00:: = to fit panes into window or door frames (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "glass%2:35:00::",
+      "lemma": "glass",
+      "pos": "v",
+      "definition": "enclose with glass",
+      "decision": "gloss",
+      "simpleMeaning": "to close in or surround an open space with panes of a hard see-through material.",
+      "scope": "This means closing in a whole open space such as a porch, not fitting panes into the frames of existing windows.",
+      "examples": [
+        "They glassed in the porch so they could use it in winter.",
+        "The balcony was glassed in last spring."
+      ],
+      "branchCoverage": [
+        "enclose with glass -> to close in or surround an open space with panes of a hard see-through material"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "enclose with glass"
+      ],
+      "lemmaPartition": "glass%1:27:00:: = the hard see-through material (noun); glass%1:06:00:: = the drinking container (noun); glass%1:23:00:: = the amount that container holds (noun); glass%2:35:00:: = to close in an open space with panes (verb); glass%2:40:00:: = to fit panes into window or door frames (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "glass%2:40:00::",
+      "lemma": "glass",
+      "pos": "v",
+      "definition": "furnish with glass",
+      "decision": "gloss",
+      "simpleMeaning": "to fit panes of a hard see-through material into the frames of windows or doors.",
+      "scope": "This means putting panes into window or door frames, not closing in an entire open space such as a porch.",
+      "examples": [
+        "The builder glassed the new windows.",
+        "We still need to glass the back door."
+      ],
+      "branchCoverage": [
+        "furnish with glass -> to fit panes of a hard see-through material into the frames of windows or doors"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "furnish with glass"
+      ],
+      "lemmaPartition": "glass%1:27:00:: = the hard see-through material (noun); glass%1:06:00:: = the drinking container (noun); glass%1:23:00:: = the amount that container holds (noun); glass%2:35:00:: = to close in an open space with panes (verb); glass%2:40:00:: = to fit panes into window or door frames (verb)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mobile%1:06:00::",
+      "lemma": "mobile",
+      "pos": "n",
+      "definition": "sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents",
+      "decision": "gloss",
+      "simpleMeaning": "a hanging work of art whose light parts are carefully balanced so that moving air makes them turn.",
+      "scope": "This is a hanging work of art, not a telephone or any other object that can be moved.",
+      "examples": [
+        "A bright mobile hung above the baby's cot.",
+        "The gallery showed a large metal mobile that turned in the draft."
+      ],
+      "branchCoverage": [
+        "sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents -> a hanging work of art whose light parts are carefully balanced so that moving air makes them turn"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "northern%3:00:02::",
+      "lemma": "northern",
+      "pos": "a",
+      "definition": "in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line",
+      "decision": "gloss",
+      "simpleMeaning": "in or typical of the part of the United States above the old Mason-Dixon border line, roughly speaking.",
+      "scope": "This describes the upper part of the United States, not something that faces north or comes from the north.",
+      "examples": [
+        "She has a strong northern accent.",
+        "The northern states banned slavery earlier than the southern states."
+      ],
+      "branchCoverage": [
+        "in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line -> in or typical of the part of the United States above the old Mason-Dixon border line, roughly speaking"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line"
+      ],
+      "lemmaPartition": "northern%3:00:02:: = belonging to or typical of the northern part of the United States (adjective); northern%5:00:02:north:00 = facing or pointing north (adjective); northern%5:00:01:north:00 = coming from the north, especially of wind (adjective)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "northern%5:00:02:north:00",
+      "lemma": "northern",
+      "pos": "a",
+      "definition": "oriented toward the north",
+      "decision": "gloss",
+      "simpleMeaning": "facing or pointing toward the north.",
+      "scope": "This describes something that faces north, not a place in the north or a wind from the north.",
+      "examples": [
+        "The studio has a northern window, so the light stays soft.",
+        "The house has a northern exposure and stays cool in summer."
+      ],
+      "branchCoverage": [
+        "oriented toward the north -> facing or pointing toward the north"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "oriented toward the north"
+      ],
+      "lemmaPartition": "northern%3:00:02:: = belonging to or typical of the northern part of the United States (adjective); northern%5:00:02:north:00 = facing or pointing north (adjective); northern%5:00:01:north:00 = coming from the north, especially of wind (adjective)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "northern%5:00:01:north:00",
+      "lemma": "northern",
+      "pos": "a",
+      "definition": "coming from the north; used especially of wind",
+      "decision": "gloss",
+      "simpleMeaning": "coming from the north, especially of wind.",
+      "scope": "This describes something coming from the north, not a place in the north or something facing north.",
+      "examples": [
+        "A cold northern wind blew across the field.",
+        "The northern gales brought snow by morning."
+      ],
+      "branchCoverage": [
+        "coming from the north -> coming from the north",
+        "used especially of wind -> especially of wind (a usage note)"
+      ],
+      "labelBranches": [
+        "used especially of wind — a usage note saying the word is mostly applied to wind, not separate meaning content."
+      ],
+      "sourceBranches": [
+        "coming from the north",
+        "used especially of wind"
+      ],
+      "lemmaPartition": "northern%3:00:02:: = belonging to or typical of the northern part of the United States (adjective); northern%5:00:02:north:00 = facing or pointing north (adjective); northern%5:00:01:north:00 = coming from the north, especially of wind (adjective)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "powerful%3:00:00::",
+      "lemma": "powerful",
+      "pos": "a",
+      "definition": "having great power or force or potency or effect",
+      "decision": "gloss",
+      "simpleMeaning": "having great strength, force, or ability to produce a strong effect.",
+      "scope": "This is about strength or the ability to produce a strong effect, not about size or high rank.",
+      "examples": [
+        "The engine is powerful enough to pull a train.",
+        "She gave a powerful speech at the ceremony."
+      ],
+      "branchCoverage": [
+        "having great power or force or potency or effect -> having great strength, force, or ability to produce a strong effect"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having great power or force or potency or effect"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

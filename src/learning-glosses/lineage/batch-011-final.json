@@ -1,0 +1,1004 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 11,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 44,
+      "of": 50,
+      "rate": 0.88
+    },
+    "selfApproved": [
+      "street%1:06:01::",
+      "college%1:14:01::",
+      "current%1:11:00::",
+      "outside%1:15:01::",
+      "cut%3:00:01::",
+      "mother%1:27:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "582bbb806715bac67bac49a836f9b3b91e9ab4e5bdaa4d5841c5b69211695733"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "street%1:26:00::",
+      "lemma": "street",
+      "pos": "n",
+      "definition": "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction",
+      "decision": "gloss",
+      "simpleMeaning": "the rough, poor side of city life, where there is crime, sex work and neglect.",
+      "scope": "It is not a road you can point to on a map, but the poor and dangerous side of city life.",
+      "examples": [
+        "The film shows the city's streets, where poverty and crime are part of daily life.",
+        "He grew up on the streets, surrounded by crime and neglected buildings."
+      ],
+      "branchCoverage": [
+        "the streets of a city viewed as a depressed environment in which there is poverty and crime and prostitution and dereliction -> 'the rough, poor side of city life' (streets of a city, depressed environment), 'poor' (poverty), 'crime', 'sex work' (prostitution), 'neglect' (dereliction)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "street: the whole road with buildings and paths at the sides; only the roadway between the paths where vehicles drive; the poor, criminal side of city street life.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "street%1:06:01::",
+      "lemma": "street",
+      "pos": "n",
+      "definition": "the part of a thoroughfare between the sidewalks; the part of the thoroughfare on which vehicles travel",
+      "decision": "gloss",
+      "simpleMeaning": "the part of a road between the paths at the sides, where cars drive.",
+      "scope": "It is not the whole road with its paths and buildings, only the part where vehicles drive.",
+      "examples": [
+        "A dog ran into the street and a bus had to stop.",
+        "Children were told to stay out of the street and use the sidewalk."
+      ],
+      "branchCoverage": [
+        "the part of a thoroughfare between the sidewalks -> 'the part of a road between the paths at the sides'",
+        "the part of the thoroughfare on which vehicles travel -> 'where cars drive'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "street: the whole road with buildings and paths at the sides; only the roadway between the paths where vehicles drive; the poor, criminal side of city street life.",
+      "meaning": "the part of a road between the paths at the sides, where cars, buses, and other vehicles drive.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss says 'cars', narrowing 'vehicles'; its own example has a bus. Use 'where cars, buses and other vehicles drive'."
+    },
+    {
+      "senseId": "street%1:06:00::",
+      "lemma": "street",
+      "pos": "n",
+      "definition": "a thoroughfare (usually including sidewalks) that is lined with buildings",
+      "decision": "gloss",
+      "simpleMeaning": "a road in a town, with buildings along it and usually paths at the sides for walking.",
+      "scope": "It is not just the roadway where cars travel, and not the poor, criminal side of city life.",
+      "examples": [
+        "They live on a quiet street near the park.",
+        "Shops and cafes line the main street of the village."
+      ],
+      "branchCoverage": [
+        "a thoroughfare (usually including sidewalks) that is lined with buildings -> 'a road in a town, with buildings along it and usually paths at the sides for walking'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "street: the whole road with buildings and paths at the sides; only the roadway between the paths where vehicles drive; the poor, criminal side of city street life.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "college%1:14:01::",
+      "lemma": "college",
+      "pos": "n",
+      "definition": "an institution of higher education created to educate and grant degrees; often a part of a university",
+      "decision": "gloss",
+      "simpleMeaning": "a place where students study after school and receive degrees, often one part of a larger university.",
+      "scope": "It is not the people who study and teach, and not a school for young children, but the school itself.",
+      "examples": [
+        "She is going to college next year to study engineering.",
+        "He teaches history at a small college in the north."
+      ],
+      "branchCoverage": [
+        "an institution of higher education created to educate and grant degrees -> 'a place where students study after school and receive degrees'",
+        "often a part of a university -> 'often one part of a larger university'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "college: the school itself as an institution that grants degrees; the group of teachers and students who belong to it.",
+      "meaning": "a place where students study after finishing secondary school and receive degrees, often one part of a larger university.",
+      "verdict": "self-approved",
+      "reviewerNote": "'After school' reads as after the school day, not after secondary education. Use 'after finishing secondary school'."
+    },
+    {
+      "senseId": "college%1:14:00::",
+      "lemma": "college",
+      "pos": "n",
+      "definition": "the body of faculty and students of a college",
+      "decision": "gloss",
+      "simpleMeaning": "all the teachers and students at a place of higher learning, seen as one group.",
+      "scope": "It is not the buildings or the organization, but the people who belong to it.",
+      "examples": [
+        "The whole college was invited to the graduation ceremony.",
+        "The college voted to change its rules on exams."
+      ],
+      "branchCoverage": [
+        "the body of faculty and students of a college -> 'all the teachers and students at a place of higher learning, seen as one group'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "college: the school itself as an institution that grants degrees; the group of teachers and students who belong to it.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "current%1:11:00::",
+      "lemma": "current",
+      "pos": "n",
+      "definition": "a steady flow of a fluid (usually from natural causes)",
+      "decision": "gloss",
+      "simpleMeaning": "a steady flow of water or another liquid, usually caused by nature.",
+      "scope": "It is not electricity and not a trend in events, but moving water or another liquid.",
+      "examples": [
+        "The current was too strong for the children to swim.",
+        "A warm current flows north along the coast."
+      ],
+      "branchCoverage": [
+        "a steady flow of a fluid (usually from natural causes) -> 'a steady flow of water or another liquid, usually caused by nature'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "current: a steady flow of water or another liquid; the main direction that events or ideas are moving in.",
+      "meaning": "a steady flow of water or air, usually caused by nature.",
+      "verdict": "self-approved",
+      "reviewerNote": "'Fluid' includes air/gas; 'water or another liquid' drops air currents. Use 'a steady flow of water or air, usually caused by nature'."
+    },
+    {
+      "senseId": "current%1:14:00::",
+      "lemma": "current",
+      "pos": "n",
+      "definition": "dominant course (suggestive of running water) of successive events or ideas",
+      "decision": "gloss",
+      "simpleMeaning": "the main direction that events or ideas are moving in.",
+      "scope": "It is not moving water or electricity, but the way events or ideas are heading.",
+      "examples": [
+        "The current of public opinion turned against the plan.",
+        "He was carried along by the current of change in the country."
+      ],
+      "branchCoverage": [
+        "dominant course (suggestive of running water) of successive events or ideas -> 'the main direction that events or ideas are moving in'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "current: a steady flow of water or another liquid; the main direction that events or ideas are moving in.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "experience%2:31:00::",
+      "lemma": "experience",
+      "pos": "v",
+      "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+      "decision": "gloss",
+      "simpleMeaning": "to know a feeling or situation from having been in it yourself.",
+      "scope": "It is not a passing feeling and not skill built up over years, but personal knowledge of a state or emotion.",
+      "examples": [
+        "She has experienced real grief, so she knows how to sit with someone who is hurting.",
+        "He has experienced poverty himself and understands the pressure it puts on a family."
+      ],
+      "branchCoverage": [
+        "have firsthand knowledge of states, situations, emotions, or sensations -> 'know a feeling or situation from having been in it yourself'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "experience: (v) know a state or emotion from firsthand involvement; (n) knowledge and skill gained over time; (v) feel a state of body or mind at a moment; (v) live through a hard period.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "experience%1:09:01::",
+      "lemma": "experience",
+      "pos": "n",
+      "definition": "the accumulation of knowledge or skill that results from direct participation in events or activities",
+      "decision": "gloss",
+      "simpleMeaning": "the knowledge and skill you gain from doing something over time.",
+      "scope": "It is not one event that happens to you, but what you have learned from many events.",
+      "examples": [
+        "She has ten years of experience as a nurse.",
+        "The job requires experience with young children."
+      ],
+      "branchCoverage": [
+        "the accumulation of knowledge or skill that results from direct participation in events or activities -> 'the knowledge and skill you gain from doing something over time'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "experience: (v) know a state or emotion from firsthand involvement; (n) knowledge and skill gained over time; (v) feel a state of body or mind at a moment; (v) live through a hard period.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "experience%2:39:00::",
+      "lemma": "experience",
+      "pos": "v",
+      "definition": "go through (mental or physical states or experiences)",
+      "decision": "gloss",
+      "simpleMeaning": "to feel or go through a state of body or mind, such as pain or joy.",
+      "scope": "It is not a long, hard period of life and not knowledge you have gained, but a state you feel at one time.",
+      "examples": [
+        "Several passengers experienced chest pain during the flight.",
+        "He experienced a moment of pure happiness when he saw her."
+      ],
+      "branchCoverage": [
+        "go through (mental or physical states or experiences) -> 'feel or go through a state of body or mind'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "experience: (v) know a state or emotion from firsthand involvement; (n) knowledge and skill gained over time; (v) feel a state of body or mind at a moment; (v) live through a hard period.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "experience%2:39:01::",
+      "lemma": "experience",
+      "pos": "v",
+      "definition": "undergo or live through a difficult experience",
+      "decision": "gloss",
+      "simpleMeaning": "to live through something hard or painful.",
+      "scope": "It is not a quick sensation and not the skill you gain from work, but a hard period you live through.",
+      "examples": [
+        "The villagers experienced terrible losses in the flood.",
+        "She experienced a difficult childhood in a crowded flat."
+      ],
+      "branchCoverage": [
+        "undergo or live through a difficult experience -> 'live through something hard or painful'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "experience: (v) know a state or emotion from firsthand involvement; (n) knowledge and skill gained over time; (v) feel a state of body or mind at a moment; (v) live through a hard period.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "program%2:32:00::",
+      "lemma": "program",
+      "pos": "v",
+      "definition": "arrange a program of or for",
+      "decision": "gloss",
+      "simpleMeaning": "to plan the order of events or items for something.",
+      "scope": "It is not writing code for a computer, and not a show that is already on air, but planning the order of items.",
+      "examples": [
+        "She programmed the whole festival, from the opening speech to the last concert.",
+        "They programmed the conference so that no two talks overlapped."
+      ],
+      "branchCoverage": [
+        "arrange a program of or for -> 'plan the order of events or items for something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "chance%1:19:00::",
+      "lemma": "chance",
+      "pos": "n",
+      "definition": "an unknown and unpredictable phenomenon that causes an event to result one way rather than another",
+      "decision": "gloss",
+      "simpleMeaning": "the power that makes things happen in an unexpected way, with no plan.",
+      "scope": "It is not a good opportunity and not a risk you take, but luck as a force.",
+      "examples": [
+        "It was pure chance that we met on the train.",
+        "Chance decided the winner of the game."
+      ],
+      "branchCoverage": [
+        "an unknown and unpredictable phenomenon that causes an event to result one way rather than another -> 'the power that makes things happen in an unexpected way, with no plan'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "chance: (n) luck as an unpredictable force; (n) a good opportunity; (adj) happening without plan; (v) happen by luck.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "chance%1:26:00::",
+      "lemma": "chance",
+      "pos": "n",
+      "definition": "a possibility due to a favorable combination of circumstances",
+      "decision": "gloss",
+      "simpleMeaning": "a time when you can do something good because conditions are right.",
+      "scope": "It is not luck as a force and not a danger, but a good moment to act.",
+      "examples": [
+        "This job is a great chance to learn new skills.",
+        "She had the chance to study abroad for a year."
+      ],
+      "branchCoverage": [
+        "a possibility due to a favorable combination of circumstances -> 'a time when you can do something good because conditions are right'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "chance: (n) luck as an unpredictable force; (n) a good opportunity; (adj) happening without plan; (v) happen by luck.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "chance%5:00:00:unplanned:00",
+      "lemma": "chance",
+      "pos": "a",
+      "definition": "occurring or appearing or singled out by chance",
+      "decision": "gloss",
+      "simpleMeaning": "happening without being planned or chosen.",
+      "scope": "It is not an opportunity and not a feeling of luck; it describes an event that was not planned.",
+      "examples": [
+        "A chance meeting at the airport led to a new job.",
+        "The discovery was a chance event that no one had expected."
+      ],
+      "branchCoverage": [
+        "occurring or appearing or singled out by chance -> 'happening without being planned or chosen'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "chance: (n) luck as an unpredictable force; (n) a good opportunity; (adj) happening without plan; (v) happen by luck.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "chance%2:41:01::",
+      "lemma": "chance",
+      "pos": "v",
+      "definition": "be the case by chance",
+      "decision": "gloss",
+      "simpleMeaning": "to happen by luck, without being planned.",
+      "scope": "It is not to risk something on purpose, and not the noun for luck.",
+      "examples": [
+        "I chanced to see him at the station yesterday.",
+        "She chanced to be at home when the letter arrived."
+      ],
+      "branchCoverage": [
+        "be the case by chance -> 'happen by luck, without being planned'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "chance: (n) luck as an unpredictable force; (n) a good opportunity; (adj) happening without plan; (v) happen by luck.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "father%1:18:00::",
+      "lemma": "father",
+      "pos": "n",
+      "definition": "a male parent (also used as a term of address to your father)",
+      "decision": "gloss",
+      "simpleMeaning": "a child's male parent.",
+      "scope": "It is not a priest's title and not the founder of a movement, but a child's male parent.",
+      "examples": [
+        "Her father taught her to ride a bike.",
+        "Father, can I borrow the car tonight?"
+      ],
+      "branchCoverage": [
+        "a male parent (also used as a term of address to your father) -> 'a child's male parent'; the address use 'also used as a term of address to your father' is declared as a usage label"
+      ],
+      "labelBranches": [
+        "also used as a term of address to your father"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "march%1:04:00::",
+      "lemma": "march",
+      "pos": "n",
+      "definition": "the act of marching; walking with regular steps (especially in a procession of some kind)",
+      "decision": "gloss",
+      "simpleMeaning": "the act of walking with regular, firm steps, especially as part of a group.",
+      "scope": "It is not the month of March, and not the crowd or the route, but the walking itself.",
+      "examples": [
+        "After a five-hour march, the soldiers stopped to rest.",
+        "The march to the border took three days."
+      ],
+      "branchCoverage": [
+        "the act of marching -> 'the act of walking with regular, firm steps'",
+        "walking with regular steps (especially in a procession of some kind) -> 'regular, firm steps ... especially as part of a group'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "march: (n) the act of walking with regular steps; (v) walk that way in an organized group; (v) make others walk that way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "march%2:38:01::",
+      "lemma": "march",
+      "pos": "v",
+      "definition": "march in a procession",
+      "decision": "gloss",
+      "simpleMeaning": "to walk with regular steps as part of an organized group.",
+      "scope": "It is not walking normally or slowly, and not making other people walk.",
+      "examples": [
+        "The band marched down the main street.",
+        "Thousands of people marched through the city to protest."
+      ],
+      "branchCoverage": [
+        "march in a procession -> 'walk with regular steps as part of an organized group'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "march: (n) the act of walking with regular steps; (v) walk that way in an organized group; (v) make others walk that way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "march%2:38:04::",
+      "lemma": "march",
+      "pos": "v",
+      "definition": "force to march",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone walk with regular steps, especially as punishment or under guard.",
+      "scope": "It is not walking in a group yourself, but making others do it.",
+      "examples": [
+        "The guards marched the prisoners back to their cells.",
+        "The teacher marched the children into the hall."
+      ],
+      "branchCoverage": [
+        "force to march -> 'make someone walk with regular steps, especially as punishment or under guard'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "march: (n) the act of walking with regular steps; (v) walk that way in an organized group; (v) make others walk that way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%2:31:00::",
+      "lemma": "process",
+      "pos": "v",
+      "definition": "perform mathematical and logical operations on (data) according to programmed instructions in order to obtain the required information",
+      "decision": "gloss",
+      "simpleMeaning": "to use a computer to work through data and turn it into useful information.",
+      "scope": "It is not treating food or materials by hand, and not walking in a group.",
+      "examples": [
+        "The computer processes thousands of payments every minute.",
+        "The software processes the photos and makes them sharper."
+      ],
+      "branchCoverage": [
+        "perform mathematical and logical operations on (data) according to programmed instructions in order to obtain the required information -> 'use a computer to work through data and turn it into useful information' (operations on data, programmed instructions, required information)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process: (v) handle data by computer; (v) treat a material to prepare or improve it; (v) walk in a formal group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%2:30:00::",
+      "lemma": "process",
+      "pos": "v",
+      "definition": "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition",
+      "decision": "gloss",
+      "simpleMeaning": "to treat something in a special way so it is ready to use or in better condition.",
+      "scope": "It is not handling data in a computer, and not walking in a line.",
+      "examples": [
+        "The factory processes milk to make it safe to drink.",
+        "Waste water is processed before it goes back into the river."
+      ],
+      "branchCoverage": [
+        "subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition -> 'treat something in a special way so it is ready to use or in better condition'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process: (v) handle data by computer; (v) treat a material to prepare or improve it; (v) walk in a formal group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%2:38:00::",
+      "lemma": "process",
+      "pos": "v",
+      "definition": "march in a procession",
+      "decision": "gloss",
+      "simpleMeaning": "to walk with regular steps as part of a formal group.",
+      "scope": "It is not handling data or treating materials, and not a casual walk.",
+      "examples": [
+        "The choir processed slowly down the aisle.",
+        "The judges processed into the hall in their robes."
+      ],
+      "branchCoverage": [
+        "march in a procession -> 'walk with regular steps as part of a formal group'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process: (v) handle data by computer; (v) treat a material to prepare or improve it; (v) walk in a formal group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "study%1:10:00::",
+      "lemma": "study",
+      "pos": "n",
+      "definition": "a written document describing the findings of some individual or group",
+      "decision": "gloss",
+      "simpleMeaning": "a written report that describes what a person or group found out.",
+      "scope": "It is not the act of learning and not a room for reading, but a written report.",
+      "examples": [
+        "A recent study shows that young people sleep less than before.",
+        "She published a study on air pollution in the city."
+      ],
+      "branchCoverage": [
+        "a written document describing the findings of some individual or group -> 'a written report that describes what a person or group found out'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "study: (n) a written report of findings; (v) examine something closely to understand it; (v) be enrolled as a student and take a course.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "study%2:31:02::",
+      "lemma": "study",
+      "pos": "v",
+      "definition": "consider in detail and subject to an analysis in order to discover essential features or meaning",
+      "decision": "gloss",
+      "simpleMeaning": "to look at something closely and in an organized way in order to understand it.",
+      "scope": "It is not attending classes or preparing for an exam, and not a quick look.",
+      "examples": [
+        "Scientists are studying how the virus spreads.",
+        "He studied the map carefully before setting off."
+      ],
+      "branchCoverage": [
+        "consider in detail and subject to an analysis in order to discover essential features or meaning -> 'look at something closely and in an organized way in order to understand it'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "study: (n) a written report of findings; (v) examine something closely to understand it; (v) be enrolled as a student and take a course.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "study%2:31:03::",
+      "lemma": "study",
+      "pos": "v",
+      "definition": "be a student; follow a course of study; be enrolled at an institute of learning",
+      "decision": "gloss",
+      "simpleMeaning": "to go to a school or college and take lessons there.",
+      "scope": "This is not examining a subject closely to understand it; it means being a student who takes lessons.",
+      "examples": [
+        "She studies at a university in London.",
+        "He is studying for a degree in history."
+      ],
+      "branchCoverage": [
+        "be a student -> go to a school or college and take lessons",
+        "follow a course of study -> take lessons",
+        "be enrolled at an institute of learning -> go to a school or college"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "study (noun) = a written report of research findings; study (verb, examine) = to examine a subject closely to understand it; study (verb, be a student) = to go to a school or college and take lessons.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%1:15:00::",
+      "lemma": "clear",
+      "pos": "n",
+      "definition": "a clear or unobstructed space or expanse of land or water",
+      "decision": "gloss",
+      "simpleMeaning": "an open area of land or water with nothing blocking it.",
+      "scope": "This is not the verb about the sky turning bright; it is an open area with nothing in the way.",
+      "examples": [
+        "They found a quiet clear among the trees and set up camp.",
+        "The deer crossed a small clear and disappeared into the trees."
+      ],
+      "branchCoverage": [
+        "a clear or unobstructed space or expanse of land or water -> an open area of land or water with nothing blocking it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear (noun) = an open area with nothing in the way; clear (verb) = to become bright and free of clouds or easy to see through.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clear%2:43:00::",
+      "lemma": "clear",
+      "pos": "v",
+      "definition": "become clear",
+      "decision": "gloss",
+      "simpleMeaning": "to become bright and free of clouds or easy to see through.",
+      "scope": "This is not an open area of land; it is about sky or water turning bright and easy to see through.",
+      "examples": [
+        "After the storm, the sky cleared and the sun came out.",
+        "The muddy water slowly cleared and we could see the bottom."
+      ],
+      "branchCoverage": [
+        "become clear -> to become bright and free of clouds or easy to see through"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clear (noun) = an open area with nothing in the way; clear (verb) = to become bright and free of clouds or easy to see through.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "month%1:28:01::",
+      "lemma": "month",
+      "pos": "n",
+      "definition": "one of the twelve divisions of the calendar year",
+      "decision": "gloss",
+      "simpleMeaning": "one of the twelve parts of a year, such as January or May.",
+      "scope": "This is not any period of about thirty days; it is one of the named parts of the calendar year.",
+      "examples": [
+        "There are twelve months in a year.",
+        "March is often a windy month."
+      ],
+      "branchCoverage": [
+        "one of the twelve divisions of the calendar year -> one of the twelve parts of a year, such as January or May"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "outside%5:00:00:external:00",
+      "lemma": "outside",
+      "pos": "a",
+      "definition": "originating or belonging beyond some bounds",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to or coming from the world beyond a particular place or group.",
+      "scope": "This is not help or pressure coming from outsiders; it is about the wider world beyond a place or group.",
+      "examples": [
+        "The small village was cut off from the outside world for a week.",
+        "Besides her job, she has many outside interests."
+      ],
+      "branchCoverage": [
+        "originating or belonging beyond some bounds -> belonging to or coming from the world beyond a particular place or group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "outside (adj, wider world) = belonging to or coming from the wider world beyond a place or group; outside (noun) = the outer area or surface of something; outside (adv, open air) = in the open air, not inside a building; outside (adv, surface) = on the outer surface of something; outside (adj, from outsiders) = coming from people or things not part of a group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "outside%1:15:01::",
+      "lemma": "outside",
+      "pos": "n",
+      "definition": "the region that is outside of something",
+      "decision": "gloss",
+      "simpleMeaning": "the area beyond the edge of a place or thing.",
+      "scope": "This is not the open air beyond a building; it is the outer area or surface of any object or place.",
+      "examples": [
+        "The outside of the car was covered in mud.",
+        "She painted the outside of the house white."
+      ],
+      "branchCoverage": [
+        "the region that is outside of something -> the area beyond the edge of a place or thing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "outside (adj, wider world) = belonging to or coming from the wider world beyond a place or group; outside (noun) = the outer area or surface of something; outside (adv, open air) = in the open air, not inside a building; outside (adv, surface) = on the outer surface of something; outside (adj, from outsiders) = coming from people or things not part of a group.",
+      "meaning": "the outer area or surface of something.",
+      "verdict": "self-approved",
+      "reviewerNote": "SimpleMeaning contradicts scope, partition and examples (surface); use 'the outer area or surface of something.'"
+    },
+    {
+      "senseId": "outside%4:02:00::",
+      "lemma": "outside",
+      "pos": "r",
+      "definition": "outside a building",
+      "decision": "gloss",
+      "simpleMeaning": "in the open air, not inside a building.",
+      "scope": "This is not on the outer surface of an object; it means in the open air, away from buildings.",
+      "examples": [
+        "The children are playing outside in the garden.",
+        "It was cold outside, so we stayed indoors."
+      ],
+      "branchCoverage": [
+        "outside a building -> in the open air, not inside a building"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "outside (adj, wider world) = belonging to or coming from the wider world beyond a place or group; outside (noun) = the outer area or surface of something; outside (adv, open air) = in the open air, not inside a building; outside (adv, surface) = on the outer surface of something; outside (adj, from outsiders) = coming from people or things not part of a group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "outside%4:02:01::",
+      "lemma": "outside",
+      "pos": "r",
+      "definition": "on the outside",
+      "decision": "gloss",
+      "simpleMeaning": "on the outer surface of something.",
+      "scope": "This is not in the open air away from buildings; it means on the outer surface of something.",
+      "examples": [
+        "The mug is green outside and white inside.",
+        "The house looks small outside but is large inside."
+      ],
+      "branchCoverage": [
+        "on the outside -> on the outer surface of something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "outside (adj, wider world) = belonging to or coming from the wider world beyond a place or group; outside (noun) = the outer area or surface of something; outside (adv, open air) = in the open air, not inside a building; outside (adv, surface) = on the outer surface of something; outside (adj, from outsiders) = coming from people or things not part of a group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "outside%5:00:00:extrinsic:00",
+      "lemma": "outside",
+      "pos": "a",
+      "definition": "coming from the outside",
+      "decision": "gloss",
+      "simpleMeaning": "coming from people or things that are not part of a group or thing.",
+      "scope": "This is not the wider world in general; it is about help, influence or pressure coming from beyond a group.",
+      "examples": [
+        "The project succeeded with outside help from a local charity.",
+        "The team ignored outside pressure and played their own game."
+      ],
+      "branchCoverage": [
+        "coming from the outside -> coming from people or things that are not part of a group or thing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "outside (adj, wider world) = belonging to or coming from the wider world beyond a place or group; outside (noun) = the outer area or surface of something; outside (adv, open air) = in the open air, not inside a building; outside (adv, surface) = on the outer surface of something; outside (adj, from outsiders) = coming from people or things not part of a group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "board%1:27:00::",
+      "lemma": "board",
+      "pos": "n",
+      "definition": "a stout length of sawn timber; made in a wide variety of sizes and used for many purposes",
+      "decision": "gloss",
+      "simpleMeaning": "a long, flat piece of cut wood that comes in many sizes and is used for many jobs.",
+      "scope": "This is not a group of people who manage a company, nor getting on a train; it is a flat piece of wood.",
+      "examples": [
+        "He nailed two boards together to make a shelf.",
+        "The floor was made of wooden boards."
+      ],
+      "branchCoverage": [
+        "a stout length of sawn timber -> a long, flat piece of cut wood",
+        "made in a wide variety of sizes and used for many purposes -> comes in many sizes and is used for many jobs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "board (noun) = a long, flat piece of cut wood; board (verb) = to get on a train, bus, ship or plane.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "board%2:38:00::",
+      "lemma": "board",
+      "pos": "v",
+      "definition": "get on board of (trains, buses, ships, aircraft, etc.)",
+      "decision": "gloss",
+      "simpleMeaning": "to get on a train, bus, ship or plane.",
+      "scope": "This is not a flat piece of wood; it means getting onto a vehicle before it leaves.",
+      "examples": [
+        "We boarded the train just before the doors closed.",
+        "Passengers began to board the plane at six o'clock."
+      ],
+      "branchCoverage": [
+        "get on board of (trains, buses, ships, aircraft, etc.) -> to get on a train, bus, ship or plane"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "board (noun) = a long, flat piece of cut wood; board (verb) = to get on a train, bus, ship or plane.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cost%1:07:01::",
+      "lemma": "cost",
+      "pos": "n",
+      "definition": "value measured by what must be given or done or undergone to obtain something",
+      "decision": "gloss",
+      "simpleMeaning": "the price or effort needed to get something.",
+      "scope": "This is not the amount of money charged for something in a shop; it is what you must give, do or suffer to get it.",
+      "examples": [
+        "He won the race, but the cost was months of hard training.",
+        "The cost of their success was less time with family."
+      ],
+      "branchCoverage": [
+        "value measured by what must be given or done or undergone to obtain something -> the price or effort needed to get something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%1:06:00::",
+      "lemma": "cut",
+      "pos": "n",
+      "definition": "a trench resembling a furrow that was made by erosion or excavation",
+      "decision": "gloss",
+      "simpleMeaning": "a long, narrow ditch made in the ground by digging or by water wearing it away.",
+      "scope": "This is not an injury from a knife or a lower price; it is a long, narrow ditch in the ground.",
+      "examples": [
+        "The railway runs through a deep cut in the hillside.",
+        "Water had worn a cut through the soft earth."
+      ],
+      "branchCoverage": [
+        "a trench resembling a furrow that was made by erosion or excavation -> a long, narrow ditch made in the ground by digging or by water wearing it away"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut (noun) = a long, narrow ditch in the ground; cut (adj, divided) = divided or opened with a sharp tool; cut (adj, shaped) = shaped or formed using a sharp tool.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cut%3:00:01::",
+      "lemma": "cut",
+      "pos": "a",
+      "definition": "separated into parts or laid open or penetrated with a sharp edge or instrument",
+      "decision": "gloss",
+      "simpleMeaning": "divided or opened with a sharp tool.",
+      "scope": "This is not shaped into a pattern by a tool; it means something has been divided or opened by a sharp edge.",
+      "examples": [
+        "The cut flowers stood in a glass vase.",
+        "She put a bandage on his cut hand."
+      ],
+      "branchCoverage": [
+        "separated into parts or laid open or penetrated with a sharp edge or instrument -> divided or opened with a sharp tool"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut (noun) = a long, narrow ditch in the ground; cut (adj, divided) = divided or opened with a sharp tool; cut (adj, shaped) = shaped or formed using a sharp tool.",
+      "meaning": "divided, opened, or pierced with a sharp tool.",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'penetrated'; 'cut hand' is pierced, not divided. Use 'divided, opened or pierced with a sharp tool.'"
+    },
+    {
+      "senseId": "cut%3:00:03::",
+      "lemma": "cut",
+      "pos": "a",
+      "definition": "fashioned or shaped by cutting",
+      "decision": "gloss",
+      "simpleMeaning": "shaped or formed using a sharp tool.",
+      "scope": "This is not simply divided or opened; it means something has been shaped into a form by a tool.",
+      "examples": [
+        "The cut glass sparkled in the light.",
+        "She wore a necklace made of cut diamonds."
+      ],
+      "branchCoverage": [
+        "fashioned or shaped by cutting -> shaped or formed using a sharp tool"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cut (noun) = a long, narrow ditch in the ground; cut (adj, divided) = divided or opened with a sharp tool; cut (adj, shaped) = shaped or formed using a sharp tool.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "field%1:15:01::",
+      "lemma": "field",
+      "pos": "n",
+      "definition": "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected",
+      "decision": "gloss",
+      "simpleMeaning": "a place away from an office or lab where real work or research is done.",
+      "scope": "This is not an area of grass for crops or sport; it is a place outside the office or lab where practical work happens.",
+      "examples": [
+        "The researchers spent three months in the field, studying wild birds.",
+        "Her job takes her into the field to test water quality."
+      ],
+      "branchCoverage": [
+        "somewhere (away from a studio or office or library or laboratory) where practical work is done or data is collected -> a place away from an office or lab where real work or research is done"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "field (noun) = a place away from the office or lab where practical work or research is done; field (verb) = to catch or pick up the ball in baseball or cricket.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "field%2:33:01::",
+      "lemma": "field",
+      "pos": "v",
+      "definition": "catch or pick up (balls) in baseball or cricket",
+      "decision": "gloss",
+      "simpleMeaning": "to catch or pick up the ball during a game of baseball or cricket.",
+      "scope": "This is not working outdoors or studying something in a real setting; it means catching or picking up the ball in a game.",
+      "examples": [
+        "He fielded the ball cleanly and threw it to first base.",
+        "She fielded a hard hit near the boundary."
+      ],
+      "branchCoverage": [
+        "catch or pick up (balls) in baseball or cricket -> to catch or pick up the ball during a game of baseball or cricket"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "field (noun) = a place away from the office or lab where practical work or research is done; field (verb) = to catch or pick up the ball in baseball or cricket.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "main%1:06:00::",
+      "lemma": "main",
+      "pos": "n",
+      "definition": "a principal pipe in a system that distributes water or gas or electricity or that collects sewage",
+      "decision": "gloss",
+      "simpleMeaning": "a large pipe or cable that carries water, gas or electricity, or takes away waste.",
+      "scope": "This is not the most important thing or person; it is a large pipe or cable in a supply system.",
+      "examples": [
+        "Workers repaired a broken water main under the street.",
+        "A gas main runs along the side of the road."
+      ],
+      "branchCoverage": [
+        "a principal pipe in a system that distributes water or gas or electricity or that collects sewage -> a large pipe or cable that carries water, gas or electricity, or takes away waste"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mother%1:27:00::",
+      "lemma": "mother",
+      "pos": "n",
+      "definition": "a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar",
+      "decision": "gloss",
+      "simpleMeaning": "a slimy mix of yeast and bacteria that turns cider or wine into vinegar.",
+      "scope": "This is not a female parent; it is the slimy substance used to make vinegar.",
+      "examples": [
+        "The vinegar mother floated on top of the liquid.",
+        "She added the mother to the cider so it would turn into vinegar."
+      ],
+      "branchCoverage": [
+        "a stringy slimy substance consisting of yeast cells and bacteria -> a slimy mix of yeast and bacteria",
+        "forms during fermentation and is added to cider or wine to produce vinegar -> that turns cider or wine into vinegar"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mother (noun, vinegar) = a slimy mix of yeast and bacteria used to make vinegar; mother (noun, parent) = a woman who has a child; mother (verb) = to care for someone in a kind, protective way.",
+      "meaning": "a stringy mix of yeast and bacteria that forms during fermentation and turns cider or wine into vinegar.",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'fermentation' branch and 'stringy'; use 'a stringy mix of yeast and bacteria that forms during fermentation and turns cider or wine into vinegar.'"
+    },
+    {
+      "senseId": "mother%1:18:00::",
+      "lemma": "mother",
+      "pos": "n",
+      "definition": "a woman who has given birth to a child (also used as a term of address to your mother)",
+      "decision": "gloss",
+      "simpleMeaning": "a woman who has a child of her own, also used when you speak to her.",
+      "scope": "This is not the slimy substance used in vinegar-making, nor the act of caring for someone; it is a woman with a child.",
+      "examples": [
+        "My mother taught me how to cook.",
+        "She became a mother at the age of thirty."
+      ],
+      "branchCoverage": [
+        "a woman who has given birth to a child (also used as a term of address to your mother) -> a woman who has a child of her own, also used when you speak to her"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mother (noun, vinegar) = a slimy mix of yeast and bacteria used to make vinegar; mother (noun, parent) = a woman who has a child; mother (verb) = to care for someone in a kind, protective way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mother%2:41:00::",
+      "lemma": "mother",
+      "pos": "v",
+      "definition": "care for like a mother",
+      "decision": "gloss",
+      "simpleMeaning": "to care for someone in a kind, protective way.",
+      "scope": "This is not being a female parent; it means looking after someone with special care.",
+      "examples": [
+        "She mothered the new students until they felt at home.",
+        "He mothered his younger brother through the illness."
+      ],
+      "branchCoverage": [
+        "care for like a mother -> to care for someone in a kind, protective way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mother (noun, vinegar) = a slimy mix of yeast and bacteria used to make vinegar; mother (noun, parent) = a woman who has a child; mother (verb) = to care for someone in a kind, protective way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "department%1:15:00::",
+      "lemma": "department",
+      "pos": "n",
+      "definition": "the territorial and administrative division of some countries (such as France)",
+      "decision": "gloss",
+      "simpleMeaning": "a large area of a country that has its own local government.",
+      "scope": "This is not a group of workers in a company or a part of a shop; it is a large area of a country with its own local government.",
+      "examples": [
+        "The country is divided into departments, each with its own council.",
+        "They travelled through several departments on their way south."
+      ],
+      "branchCoverage": [
+        "the territorial and administrative division of some countries (such as France) -> a large area of a country that has its own local government"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fight%1:07:00::",
+      "lemma": "fight",
+      "pos": "n",
+      "definition": "an aggressive willingness to compete",
+      "decision": "gloss",
+      "simpleMeaning": "a strong wish to compete and win.",
+      "scope": "This is not a physical battle or an argument; it is the strong wish to compete and win.",
+      "examples": [
+        "There was real fight in the team during the second half.",
+        "She showed great fight and refused to give up the match."
+      ],
+      "branchCoverage": [
+        "an aggressive willingness to compete -> a strong wish to compete and win"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fight (noun, spirit) = a strong wish to compete and win; fight (noun, act) = an act of using force or a hard struggle; fight (verb) = to struggle hard against someone or something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fight%1:04:02::",
+      "lemma": "fight",
+      "pos": "n",
+      "definition": "the act of fighting; any contest or struggle",
+      "decision": "gloss",
+      "simpleMeaning": "an act of using force against someone, or a hard struggle.",
+      "scope": "This is not the strong wish to compete; it is the act itself, or a hard struggle.",
+      "examples": [
+        "A fight broke out outside the pub.",
+        "The fight against poverty will take many years."
+      ],
+      "branchCoverage": [
+        "the act of fighting -> an act of using force against someone",
+        "any contest or struggle -> a hard struggle"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fight (noun, spirit) = a strong wish to compete and win; fight (noun, act) = an act of using force or a hard struggle; fight (verb) = to struggle hard against someone or something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fight%2:33:01::",
+      "lemma": "fight",
+      "pos": "v",
+      "definition": "fight against or resist strongly",
+      "decision": "gloss",
+      "simpleMeaning": "to struggle hard against someone or something.",
+      "scope": "This is not taking part in a physical battle; it means resisting or opposing something with all your strength.",
+      "examples": [
+        "The villagers fought against the new road for years.",
+        "She fought hard to keep her business open."
+      ],
+      "branchCoverage": [
+        "fight against or resist strongly -> to struggle hard against someone or something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fight (noun, spirit) = a strong wish to compete and win; fight (noun, act) = an act of using force or a hard struggle; fight (verb) = to struggle hard against someone or something.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

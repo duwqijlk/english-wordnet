@@ -1,0 +1,1021 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 24,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1150,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "clean%3:00:01::",
+      "lemma": "clean",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "free from dirt or impurities; or having clean habits",
+      "synsetId": "00418932-a",
+      "words": 9,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1056,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "free from dirt or impurities",
+        "or having clean habits"
+      ]
+    },
+    {
+      "senseId": "clean%4:02:00::",
+      "lemma": "clean",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "in conformity with the rules or laws and without fraud or cheating",
+      "synsetId": "00286521-r",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1056,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in conformity with the rules or laws and without fraud or cheating"
+      ]
+    },
+    {
+      "senseId": "clean%2:35:01::",
+      "lemma": "clean",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "clean and tidy up the house",
+      "synsetId": "01536230-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1056,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "clean and tidy up the house"
+      ]
+    },
+    {
+      "senseId": "computer%1:18:00::",
+      "lemma": "computer",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an expert at calculation (or at operating calculating machines)",
+      "synsetId": "09906486-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1057,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an expert at calculation (or at operating calculating machines)"
+      ]
+    },
+    {
+      "senseId": "construction%1:09:00::",
+      "lemma": "construction",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the creation of a construct; the process of combining ideas into a congruous object of thought",
+      "synsetId": "05779833-n",
+      "words": 16,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1058,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the creation of a construct",
+        "the process of combining ideas into a congruous object of thought"
+      ]
+    },
+    {
+      "senseId": "construction%1:10:01::",
+      "lemma": "construction",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a group of words that form a constituent of a sentence and are considered as a single unit",
+      "synsetId": "06324641-n",
+      "words": 18,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1058,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a group of words that form a constituent of a sentence and are considered as a single unit"
+      ]
+    },
+    {
+      "senseId": "construction%1:04:00::",
+      "lemma": "construction",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of constructing something",
+      "synsetId": "00912746-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1058,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of constructing something"
+      ]
+    },
+    {
+      "senseId": "episode%1:10:01::",
+      "lemma": "episode",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a brief section of a literary or dramatic work that forms part of a connected series",
+      "synsetId": "06407973-n",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1059,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a brief section of a literary or dramatic work that forms part of a connected series"
+      ]
+    },
+    {
+      "senseId": "favorite%1:09:00::",
+      "lemma": "favorite",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "something regarded with special favor or liking",
+      "synsetId": "05798763-n",
+      "words": 7,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1060,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something regarded with special favor or liking"
+      ]
+    },
+    {
+      "senseId": "income%1:21:00::",
+      "lemma": "income",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the financial gain (earned or unearned) accruing over a given period of time",
+      "synsetId": "13276044-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1061,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the financial gain (earned or unearned) accruing over a given period of time"
+      ]
+    },
+    {
+      "senseId": "justice%1:04:00::",
+      "lemma": "justice",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "judgment involved in the determination of rights and the assignment of rewards and punishments",
+      "synsetId": "00695934-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1062,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "judgment involved in the determination of rights and the assignment of rewards and punishments"
+      ]
+    },
+    {
+      "senseId": "justice%1:18:00::",
+      "lemma": "justice",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a public official authorized to decide questions brought before a court of justice",
+      "synsetId": "10244889-n",
+      "words": 13,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1062,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a public official authorized to decide questions brought before a court of justice"
+      ]
+    },
+    {
+      "senseId": "photo%1:06:00::",
+      "lemma": "photo",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a representation of a person or scene in the form of a print or transparent slide or in digital format",
+      "synsetId": "03931348-n",
+      "words": 20,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1066,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a representation of a person or scene in the form of a print or transparent slide or in digital format"
+      ]
+    },
+    {
+      "senseId": "spend%2:40:01::",
+      "lemma": "spend",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "spend completely",
+      "synsetId": "02272374-v",
+      "words": 2,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1073,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "spend completely"
+      ]
+    },
+    {
+      "senseId": "statement%1:10:00::",
+      "lemma": "statement",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc",
+      "synsetId": "06735202-n",
+      "words": 18,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1074,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a message that is stated or declared",
+        "a communication (oral or written) setting forth particulars or facts etc"
+      ]
+    },
+    {
+      "senseId": "sun%2:39:00::",
+      "lemma": "sun",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "expose to the rays of the sun or affect by exposure to the sun",
+      "synsetId": "02117029-v",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1075,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "expose to the rays of the sun or affect by exposure to the sun"
+      ]
+    },
+    {
+      "senseId": "sun%1:18:00::",
+      "lemma": "sun",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a person considered as a source of warmth or energy or glory etc",
+      "synsetId": "10694335-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1075,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person considered as a source of warmth or energy or glory etc"
+      ]
+    },
+    {
+      "senseId": "ability%1:07:00::",
+      "lemma": "ability",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment",
+      "synsetId": "05207437-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1077,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the quality of being able to perform",
+        "a quality that permits or facilitates achievement or accomplishment"
+      ]
+    },
+    {
+      "senseId": "ability%1:09:00::",
+      "lemma": "ability",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "possession of the qualities (especially mental qualities) required to do something or get something done",
+      "synsetId": "05624029-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1077,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "possession of the qualities (especially mental qualities) required to do something or get something done"
+      ]
+    },
+    {
+      "senseId": "announced%5:00:00:declared:00",
+      "lemma": "announced",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "declared publicly; made widely known",
+      "synsetId": "00691027-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1078,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "declared publicly",
+        "made widely known"
+      ]
+    },
+    {
+      "senseId": "coach%2:32:00::",
+      "lemma": "coach",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "teach and supervise (someone); act as a trainer or coach (to), as in sports",
+      "synsetId": "00835381-v",
+      "words": 14,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1081,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "teach and supervise (someone)",
+        "act as a trainer or coach (to), as in sports"
+      ]
+    },
+    {
+      "senseId": "costs%1:21:00::",
+      "lemma": "costs",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "pecuniary reimbursement to the winning party for the expenses of litigation",
+      "synsetId": "13314648-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1084,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "pecuniary reimbursement to the winning party for the expenses of litigation"
+      ]
+    },
+    {
+      "senseId": "gun%1:06:00::",
+      "lemma": "gun",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)",
+      "synsetId": "03472916-n",
+      "words": 16,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1089,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)"
+      ]
+    },
+    {
+      "senseId": "heavy%1:18:00::",
+      "lemma": "heavy",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an actor who plays villainous roles",
+      "synsetId": "10186954-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1091,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an actor who plays villainous roles"
+      ]
+    },
+    {
+      "senseId": "knowledge%1:03:00::",
+      "lemma": "knowledge",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the psychological result of perception and learning and reasoning",
+      "synsetId": "00023451-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1093,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the psychological result of perception and learning and reasoning"
+      ]
+    },
+    {
+      "senseId": "search%2:35:00::",
+      "lemma": "search",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "try to locate or discover, or try to establish the existence of",
+      "synsetId": "01318273-v",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1095,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "try to locate or discover, or try to establish the existence of"
+      ]
+    },
+    {
+      "senseId": "search%2:39:00::",
+      "lemma": "search",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "search or seek",
+      "synsetId": "02158139-v",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1095,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "search or seek"
+      ]
+    },
+    {
+      "senseId": "subject%1:06:00::",
+      "lemma": "subject",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "something (a person or object or scene) selected by an artist or photographer for graphic representation",
+      "synsetId": "04354303-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1096,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something (a person or object or scene) selected by an artist or photographer for graphic representation"
+      ]
+    },
+    {
+      "senseId": "subject%2:39:03::",
+      "lemma": "subject",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "cause to experience or suffer or make liable or vulnerable to",
+      "synsetId": "02115410-v",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1096,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cause to experience or suffer or make liable or vulnerable to"
+      ]
+    },
+    {
+      "senseId": "subject%2:41:00::",
+      "lemma": "subject",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "make subservient; force to submit or subdue",
+      "synsetId": "02502465-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1096,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make subservient",
+        "force to submit or subdue"
+      ]
+    },
+    {
+      "senseId": "subject%1:10:00::",
+      "lemma": "subject",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the subject matter of a conversation or discussion",
+      "synsetId": "06612141-n",
+      "words": 8,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1096,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the subject matter of a conversation or discussion"
+      ]
+    },
+    {
+      "senseId": "train%1:14:00::",
+      "lemma": "train",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a procession (of wagons or mules or camels) traveling together in single file",
+      "synsetId": "08444586-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1097,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a procession (of wagons or mules or camels) traveling together in single file"
+      ]
+    },
+    {
+      "senseId": "train%1:06:00::",
+      "lemma": "train",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+      "synsetId": "04475240-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1097,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "public transport provided by a line of railway cars coupled together and drawn by a locomotive"
+      ]
+    },
+    {
+      "senseId": "train%2:31:00::",
+      "lemma": "train",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "undergo training or instruction in preparation for a particular role, function, or profession",
+      "synsetId": "00604200-v",
+      "words": 13,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1097,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "undergo training or instruction in preparation for a particular role, function, or profession"
+      ]
+    },
+    {
+      "senseId": "train%1:14:02::",
+      "lemma": "train",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding",
+      "synsetId": "08476659-n",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1097,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding"
+      ]
+    },
+    {
+      "senseId": "train%2:41:02::",
+      "lemma": "train",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "develop (a child's or animal's) behavior by instruction and practice; especially to teach self-control",
+      "synsetId": "02559394-v",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1097,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "develop (a child's or animal's) behavior by instruction and practice",
+        "especially to teach self-control"
+      ]
+    },
+    {
+      "senseId": "train%2:31:01::",
+      "lemma": "train",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "create by training and teaching",
+      "synsetId": "00604693-v",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1097,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "create by training and teaching"
+      ]
+    },
+    {
+      "senseId": "author%1:18:01::",
+      "lemma": "author",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "someone who originates or causes or initiates something",
+      "synsetId": "10145714-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1100,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "someone who originates or causes or initiates something"
+      ]
+    },
+    {
+      "senseId": "centre%3:00:01::",
+      "lemma": "centre",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of or belonging to neither the right nor the left politically or intellectually",
+      "synsetId": "02039031-a",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1101,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or belonging to neither the right nor the left politically or intellectually"
+      ]
+    },
+    {
+      "senseId": "centre%5:00:01:central:01",
+      "lemma": "centre",
+      "pos": "s",
+      "senseIndex": 0,
+      "definition": "equally distant from the extremes",
+      "synsetId": "00331404-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1101,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "equally distant from the extremes"
+      ]
+    },
+    {
+      "senseId": "centre%1:15:01::",
+      "lemma": "centre",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an area that is approximately central within some larger region",
+      "synsetId": "08540894-n",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1101,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an area that is approximately central within some larger region"
+      ]
+    },
+    {
+      "senseId": "claim%2:32:00::",
+      "lemma": "claim",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "assert or affirm strongly; state to be true or existing",
+      "synsetId": "00758383-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1102,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "assert or affirm strongly",
+        "state to be true or existing"
+      ]
+    },
+    {
+      "senseId": "claim%2:40:00::",
+      "lemma": "claim",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "demand as being one's due or property; assert one's right or title to",
+      "synsetId": "02280210-v",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1102,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "demand as being one's due or property",
+        "assert one's right or title to"
+      ]
+    },
+    {
+      "senseId": "claim%2:32:02::",
+      "lemma": "claim",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "ask for legally or make a legal claim to, as of debts, for example",
+      "synsetId": "01020361-v",
+      "words": 14,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1102,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "ask for legally or make a legal claim to, as of debts, for example"
+      ]
+    },
+    {
+      "senseId": "developed%3:00:00::",
+      "lemma": "developed",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "being changed over time so as to be e.g. stronger or more complete or more useful",
+      "synsetId": "00745450-a",
+      "words": 17,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1104,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "being changed over time so as to be e.g. stronger or more complete or more useful"
+      ]
+    },
+    {
+      "senseId": "developed%5:00:00:improved:00",
+      "lemma": "developed",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(of real estate) made more useful and profitable as by building or laying out roads",
+      "synsetId": "01292018-s",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1104,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of real estate) made more useful and profitable as by building or laying out roads"
+      ]
+    },
+    {
+      "senseId": "developed%5:00:00:industrial:00",
+      "lemma": "developed",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(used of societies) having high industrial development",
+      "synsetId": "01304775-s",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1104,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used of societies) having high industrial development"
+      ]
+    },
+    {
+      "senseId": "fear%1:12:00::",
+      "lemma": "fear",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+      "synsetId": "07534492-n",
+      "words": 20,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1105,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)"
+      ]
+    },
+    {
+      "senseId": "fear%2:37:03::",
+      "lemma": "fear",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be afraid or feel anxious or apprehensive about a possible or probable situation or event",
+      "synsetId": "01784548-v",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1105,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be afraid or feel anxious or apprehensive about a possible or probable situation or event"
+      ]
+    },
+    {
+      "senseId": "global%5:00:00:international:00",
+      "lemma": "global",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "involving the entire earth; not limited or provincial in scope",
+      "synsetId": "01573077-s",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1108,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "involving the entire earth",
+        "not limited or provincial in scope"
+      ]
+    }
+  ]
+}

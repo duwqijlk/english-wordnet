@@ -1,0 +1,1214 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 58,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 47,
+      "of": 50,
+      "rate": 0.94
+    },
+    "selfApproved": [
+      "record%1:04:00::",
+      "lead%1:07:01::",
+      "lead%1:06:01::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "3c95ca87e5d7a6667ac74638a332b6dd46a2d127ed007256aa499c827e0cba41"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "record%1:04:00::",
+      "lemma": "record",
+      "pos": "n",
+      "definition": "an extreme attainment; the best (or worst) performance ever attested (as in a sport)",
+      "sourceBranches": [
+        "an extreme attainment",
+        "the best (or worst) performance ever attested (as in a sport)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the best or worst result ever officially achieved, as in a sport; an extreme level of achievement",
+      "scope": "This is one best or worst result, not the overall total of someone's achievements or a list of past crimes.",
+      "examples": [
+        "She broke the world record for the 100 metres by two hundredths of a second.",
+        "The team's record of twelve straight wins still stands."
+      ],
+      "branchCoverage": [
+        "an extreme attainment -> an extreme level of achievement",
+        "the best (or worst) performance ever attested (as in a sport) -> the best or worst result ever officially achieved, as in a sport"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "record%1:04:00:: -> the best or worst result ever achieved; record%1:04:01:: -> the total of things someone has achieved; record%1:10:00:: -> an official list of a person's past crimes",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example uses 'on record', the documented-history idiom, not 'a record' as an extreme result; replace it."
+    },
+    {
+      "senseId": "record%1:04:01::",
+      "lemma": "record",
+      "pos": "n",
+      "definition": "the sum of recognized accomplishments",
+      "sourceBranches": [
+        "the sum of recognized accomplishments"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the whole total of a person's achievements as others recognize them",
+      "scope": "This is the overall total of what someone has achieved, not a single best or worst result or a list of crimes.",
+      "examples": [
+        "Judges reviewed her record of public service before appointing her.",
+        "His school record includes a prize for science and two years as captain."
+      ],
+      "branchCoverage": [
+        "the sum of recognized accomplishments -> the whole total of a person's achievements as others recognize them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "record%1:04:00:: -> the best or worst result ever achieved; record%1:04:01:: -> the total of things someone has achieved; record%1:10:00:: -> an official list of a person's past crimes",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "record%1:10:00::",
+      "lemma": "record",
+      "pos": "n",
+      "definition": "a list of crimes for which an accused person has been previously convicted",
+      "sourceBranches": [
+        "a list of crimes for which an accused person has been previously convicted"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an official list of the crimes a person accused of an offence has been found guilty of before",
+      "scope": "This is a list of past crimes, not a tally of achievements and not a single best or worst result.",
+      "examples": [
+        "The jury was not told about his criminal record.",
+        "A clean record can help someone find work after release from prison."
+      ],
+      "branchCoverage": [
+        "a list of crimes for which an accused person has been previously convicted -> an official list of the crimes a person accused of an offence has been found guilty of before"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "record%1:04:00:: -> the best or worst result ever achieved; record%1:04:01:: -> the total of things someone has achieved; record%1:10:00:: -> an official list of a person's past crimes",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "similar%5:00:00:replaceable:00",
+      "lemma": "similar",
+      "pos": "a",
+      "definition": "capable of replacing or changing places with something else; permitting mutual substitution without loss of function or suitability",
+      "sourceBranches": [
+        "capable of replacing or changing places with something else",
+        "permitting mutual substitution without loss of function or suitability"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "able to replace another thing or swap places with it, with no loss of how well it works or how suitable it is",
+      "scope": "This describes things that can stand in for one another, not things that merely look alike or words with related meanings.",
+      "examples": [
+        "Either battery will do; they are similar enough to be swapped with no loss of power.",
+        "The two brackets are similar, so each can be fitted in place of the other without any change in fit."
+      ],
+      "branchCoverage": [
+        "capable of replacing or changing places with something else -> able to replace another thing or swap places with it",
+        "permitting mutual substitution without loss of function or suitability -> with no loss of how well it works or how suitable it is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "similar%5:00:00:replaceable:00 -> able to take another thing's place; similar%5:00:00:synonymous:00 -> words that express closely related meanings",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "similar%5:00:00:synonymous:00",
+      "lemma": "similar",
+      "pos": "a",
+      "definition": "(of words) expressing closely related meanings",
+      "sourceBranches": [
+        "(of words) expressing closely related meanings"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "used of words that have meanings closely connected to one another",
+      "scope": "This applies to words and their meanings, not to objects that can be used in place of one another.",
+      "examples": [
+        "'Begin' and 'start' are similar in meaning, though one sounds more formal.",
+        "'Thin' and 'slim' are similar words, though they describe people differently."
+      ],
+      "branchCoverage": [
+        "(of words) expressing closely related meanings -> used of words that have meanings closely connected to one another"
+      ],
+      "labelBranches": [
+        "(of words) -> restricts the sense to words and their meanings, not to physical things"
+      ],
+      "lemmaPartition": "similar%5:00:00:replaceable:00 -> able to take another thing's place; similar%5:00:00:synonymous:00 -> words that express closely related meanings",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "club%1:06:04::",
+      "lemma": "club",
+      "pos": "n",
+      "definition": "a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink",
+      "sourceBranches": [
+        "a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a place that stays open late into the night and offers entertainment such as singers or dancers, plus dancing, food and drink",
+      "scope": "This is a late-night place for music, dancing and drinking, not the stick used to hit a golf ball or a group of people who meet over a shared interest.",
+      "examples": [
+        "After the concert we went to a club and danced until four in the morning.",
+        "The club on the corner has live singers on Fridays and serves food until midnight."
+      ],
+      "branchCoverage": [
+        "a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink -> a place that stays open late into the night and offers entertainment such as singers or dancers, plus dancing, food and drink"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "club%1:06:04:: -> a place open late that offers entertainment, food, and often music; club%1:06:01:: -> a stick with a shaped head used to hit a golf ball",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "club%1:06:01::",
+      "lemma": "club",
+      "pos": "n",
+      "definition": "golf equipment used by a golfer to hit a golf ball",
+      "sourceBranches": [
+        "golf equipment used by a golfer to hit a golf ball"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a stick with a shaped head that a golfer uses to hit a golf ball",
+      "scope": "This is the stick used for hitting a golf ball, not a late-night place for music and dancing.",
+      "examples": [
+        "He chose a heavier club for the shot into the wind.",
+        "She wiped her clubs after the round and put them back in the bag."
+      ],
+      "branchCoverage": [
+        "golf equipment used by a golfer to hit a golf ball -> a stick with a shaped head that a golfer uses to hit a golf ball"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "club%1:06:04:: -> a place open late that offers entertainment, food, and often music; club%1:06:01:: -> a stick with a shaped head used to hit a golf ball",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "film%1:06:02::",
+      "lemma": "film",
+      "pos": "n",
+      "definition": "a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things",
+      "sourceBranches": [
+        "a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thin sheet of material, usually plastic and usually see-through, used to wrap or cover things",
+      "scope": "This is a sheet used for wrapping or covering, not a thin layer lying on a surface and not a motion picture.",
+      "examples": [
+        "She wrapped the sandwiches in film and put them in the fridge.",
+        "Stretch film keeps the boxes steady on the pallet."
+      ],
+      "branchCoverage": [
+        "a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things -> a thin sheet of material, usually plastic and usually see-through, used to wrap or cover things"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "film%1:06:02:: -> a thin sheet of plastic that lets light through; film%1:06:00:: -> a thin layer or coating",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "film%1:06:00::",
+      "lemma": "film",
+      "pos": "n",
+      "definition": "a thin coating or layer",
+      "sourceBranches": [
+        "a thin coating or layer"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thin covering or layer of something",
+      "scope": "This is a thin layer lying on something, not a sheet used for wrapping and not a motion picture.",
+      "examples": [
+        "A film of oil covered the surface of the water.",
+        "Dust had left a thin film on every shelf in the empty house."
+      ],
+      "branchCoverage": [
+        "a thin coating or layer -> a thin covering or layer of something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "film%1:06:02:: -> a thin sheet of plastic that lets light through; film%1:06:00:: -> a thin layer or coating",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lead%1:06:03::",
+      "lemma": "lead",
+      "pos": "n",
+      "definition": "restraint consisting of a rope (or light chain) used to restrain an animal",
+      "sourceBranches": [
+        "restraint consisting of a rope (or light chain) used to restrain an animal"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a rope or light chain used to hold back and control an animal",
+      "scope": "This is the rope or chain for an animal, not a short wire joining points in a circuit or the timing of a spark.",
+      "examples": [
+        "She kept the dog on a lead while they crossed the road.",
+        "The puppy chewed through its lead and ran off across the park."
+      ],
+      "branchCoverage": [
+        "restraint consisting of a rope (or light chain) used to restrain an animal -> a rope or light chain used to hold back and control an animal"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lead%1:06:03:: -> a rope or light chain used to hold and control a dog; lead%1:07:01:: -> the timing of the spark in an engine compared with the piston; lead%1:25:00:: -> the angle between where a gun points and where it is aimed; lead%1:06:01:: -> a short piece of wire used as a jumper; lead%1:06:02:: -> a thin strip of metal used to separate lines of type; lead%2:42:00:: -> stretch out over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lead%1:07:01::",
+      "lemma": "lead",
+      "pos": "n",
+      "definition": "the timing of ignition relative to the position of the piston in an internal-combustion engine",
+      "sourceBranches": [
+        "the timing of ignition relative to the position of the piston in an internal-combustion engine"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the timing of the spark in an engine that burns fuel inside it, compared with where the piston is",
+      "scope": "This is about when the spark fires in an engine, not the rope for an animal, not the short connecting wire, and not the angle used when aiming at a moving target.",
+      "examples": [
+        "The mechanic adjusted the lead so the spark came earlier in the stroke.",
+        "A longer lead makes the spark fire sooner as the piston rises."
+      ],
+      "branchCoverage": [
+        "the timing of ignition relative to the position of the piston in an internal-combustion engine -> the timing of the spark in an engine that burns fuel inside it, compared with where the piston is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lead%1:06:03:: -> a rope or light chain used to hold and control a dog; lead%1:07:01:: -> the timing of the spark in an engine compared with the piston; lead%1:25:00:: -> the angle between where a gun points and where it is aimed; lead%1:06:01:: -> a short piece of wire used as a jumper; lead%1:06:02:: -> a thin strip of metal used to separate lines of type; lead%2:42:00:: -> stretch out over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Both examples mislead: 'checked the lead' reads as a wire, 'too much lead' as leaded fuel. Rewrite them; scope should also exclude the wire."
+    },
+    {
+      "senseId": "lead%1:25:00::",
+      "lemma": "lead",
+      "pos": "n",
+      "definition": "the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)",
+      "sourceBranches": [
+        "the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the angle between where a gun is aimed and where a moving target will be when the shot reaches it, allowing for flight time",
+      "scope": "This is about aiming ahead of a moving target, not the rope for an animal or the timing of a spark in an engine.",
+      "examples": [
+        "The shooter judged the lead and fired slightly ahead of the running target.",
+        "At that distance the bullet takes almost a second to arrive, so the hunter must allow plenty of lead."
+      ],
+      "branchCoverage": [
+        "the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile) -> the angle between where a gun is aimed and where a moving target will be when the shot reaches it, allowing for flight time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lead%1:06:03:: -> a rope or light chain used to hold and control a dog; lead%1:07:01:: -> the timing of the spark in an engine compared with the piston; lead%1:25:00:: -> the angle between where a gun points and where it is aimed; lead%1:06:01:: -> a short piece of wire used as a jumper; lead%1:06:02:: -> a thin strip of metal used to separate lines of type; lead%2:42:00:: -> stretch out over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lead%1:06:01::",
+      "lemma": "lead",
+      "pos": "n",
+      "definition": "a jumper that consists of a short piece of wire",
+      "sourceBranches": [
+        "a jumper that consists of a short piece of wire"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a short piece of wire used to make an electrical connection",
+      "scope": "This is a short wire making an electrical connection, not the rope for an animal or the strip of metal used in printing.",
+      "examples": [
+        "He used a short lead to bridge the two terminals while he tested the circuit.",
+        "The technician soldered a lead across the broken track to restore the connection."
+      ],
+      "branchCoverage": [
+        "a jumper that consists of a short piece of wire -> a short piece of wire used to make an electrical connection"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lead%1:06:03:: -> a rope or light chain used to hold and control a dog; lead%1:07:01:: -> the timing of the spark in an engine compared with the piston; lead%1:25:00:: -> the angle between where a gun points and where it is aimed; lead%1:06:01:: -> a short piece of wire used as a jumper; lead%1:06:02:: -> a thin strip of metal used to separate lines of type; lead%2:42:00:: -> stretch out over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss says 'temporary' but the soldered example is permanent; drop 'temporary' or replace that example."
+    },
+    {
+      "senseId": "lead%1:06:02::",
+      "lemma": "lead",
+      "pos": "n",
+      "definition": "thin strip of metal used to separate lines of type in printing",
+      "sourceBranches": [
+        "thin strip of metal used to separate lines of type in printing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thin strip of metal placed between rows of printing type to keep the printed lines apart",
+      "scope": "This is not the wire jumper or the dog's rope; it is a printer's spacing strip.",
+      "examples": [
+        "The printer kept a drawer of leads for spacing rows of type.",
+        "She slid a lead between two lines of metal type before the page was printed."
+      ],
+      "branchCoverage": [
+        "thin strip of metal used to separate lines of type in printing -> a thin strip of metal placed between rows of printing type to keep the printed lines apart"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lead%1:06:03:: -> a rope or light chain used to hold and control a dog; lead%1:07:01:: -> the timing of the spark in an engine compared with the piston; lead%1:25:00:: -> the angle between where a gun points and where it is aimed; lead%1:06:01:: -> a short piece of wire used as a jumper; lead%1:06:02:: -> a thin strip of metal used to separate lines of type; lead%2:42:00:: -> stretch out over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lead%2:42:00::",
+      "lemma": "lead",
+      "pos": "v",
+      "definition": "stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point",
+      "sourceBranches": [
+        "stretch out over a distance, space, time, or scope",
+        "run or extend between two points or beyond a certain point"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to reach across a distance, area, period, or range, going between two points or past a certain point",
+      "scope": "This is not about guiding people; it describes a path, cable, or period reaching from one point to another.",
+      "examples": [
+        "The path leads from the village square down to the river.",
+        "The conversation led from local complaints to wider questions about the budget."
+      ],
+      "branchCoverage": [
+        "stretch out over a distance, space, time, or scope -> reach across a distance, area, period, or range",
+        "run or extend between two points or beyond a certain point -> going between two points or past a certain point"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lead%1:06:03:: -> a rope or light chain used to hold and control a dog; lead%1:07:01:: -> the timing of the spark in an engine compared with the piston; lead%1:25:00:: -> the angle between where a gun points and where it is aimed; lead%1:06:01:: -> a short piece of wire used as a jumper; lead%1:06:02:: -> a thin strip of metal used to separate lines of type; lead%2:42:00:: -> stretch out over a distance, time, or range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "personal%5:00:00:physical:00",
+      "lemma": "personal",
+      "pos": "a",
+      "definition": "intimately concerning a person's body or physical being",
+      "sourceBranches": [
+        "intimately concerning a person's body or physical being"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "closely connected with someone's body or physical self",
+      "scope": "This is not about private feelings or one individual's tastes; it refers to the body itself.",
+      "examples": [
+        "After the accident, she needed personal care from a nurse for several weeks.",
+        "Doctors should wash their hands before any personal contact with a patient."
+      ],
+      "branchCoverage": [
+        "intimately concerning a person's body or physical being -> closely connected with someone's body or physical self"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "security%1:21:04::",
+      "lemma": "security",
+      "pos": "n",
+      "definition": "a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends",
+      "sourceBranches": [
+        "a formal declaration that documents a fact of relevance to finance and investment",
+        "the holder has a right to receive interest or dividends"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an official document about a financial matter such as an investment, giving its owner the right to receive interest or a share of profits",
+      "scope": "This is not the precautions taken against theft; it is a financial certificate or investment.",
+      "examples": [
+        "She bought government securities that pay interest twice a year.",
+        "The fund holds a mix of securities, including bonds and stocks."
+      ],
+      "branchCoverage": [
+        "a formal declaration that documents a fact of relevance to finance and investment -> an official document about a financial matter such as an investment",
+        "the holder has a right to receive interest or dividends -> giving its owner the right to receive interest or a share of profits"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "security%1:21:04:: -> an official document proving a fact about finances; security%1:04:00:: -> steps taken to guard against theft or spying; security%1:06:00:: -> an electrical device that sounds an alarm when disturbed; security%1:21:00:: -> property a lender can take if a loan is not repaid; security%1:14:00:: -> the department that protects an institution",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "security%1:04:00::",
+      "lemma": "security",
+      "pos": "n",
+      "definition": "measures taken as a precaution against theft or espionage or sabotage etc.",
+      "sourceBranches": [
+        "measures taken as a precaution against theft or espionage or sabotage etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "steps taken in advance to guard against stealing, spying, or deliberate damage, and similar threats",
+      "scope": "This is not an alarm device or a financial document; these are the precautions themselves.",
+      "examples": [
+        "The embassy tightened security after the protest outside its gates.",
+        "Good security means locking the server room and checking who enters."
+      ],
+      "branchCoverage": [
+        "measures taken as a precaution against theft or espionage or sabotage etc -> steps taken in advance to guard against stealing, spying, or deliberate damage, and similar threats"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "security%1:21:04:: -> an official document proving a fact about finances; security%1:04:00:: -> steps taken to guard against theft or spying; security%1:06:00:: -> an electrical device that sounds an alarm when disturbed; security%1:21:00:: -> property a lender can take if a loan is not repaid; security%1:14:00:: -> the department that protects an institution",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "security%1:06:00::",
+      "lemma": "security",
+      "pos": "n",
+      "definition": "an electrical device that sets off an alarm when someone tries to break in",
+      "sourceBranches": [
+        "an electrical device that sets off an alarm when someone tries to break in"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an electric device that starts an alarm if someone tries to break in",
+      "scope": "This is not the general precautions or the staff department; it is the device itself.",
+      "examples": [
+        "They installed a security system after the burglary.",
+        "The security alarm woke the whole street."
+      ],
+      "branchCoverage": [
+        "an electrical device that sets off an alarm when someone tries to break in -> an electric device that starts an alarm if someone tries to break in"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "security%1:21:04:: -> an official document proving a fact about finances; security%1:04:00:: -> steps taken to guard against theft or spying; security%1:06:00:: -> an electrical device that sounds an alarm when disturbed; security%1:21:00:: -> property a lender can take if a loan is not repaid; security%1:14:00:: -> the department that protects an institution",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "security%1:21:00::",
+      "lemma": "security",
+      "pos": "n",
+      "definition": "property that your creditor can claim in case you default on your obligation",
+      "sourceBranches": [
+        "property that your creditor can claim in case you default on your obligation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "property that a lender can take if you do not do what you agreed to",
+      "scope": "This is not an investment certificate; it is property a lender may take if a debt is not paid.",
+      "examples": [
+        "The bank accepted his house as security for the loan.",
+        "The company pledged its machinery as security for the credit line."
+      ],
+      "branchCoverage": [
+        "property that your creditor can claim in case you default on your obligation -> property that a lender can take if you do not do what you agreed to"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "security%1:21:04:: -> an official document proving a fact about finances; security%1:04:00:: -> steps taken to guard against theft or spying; security%1:06:00:: -> an electrical device that sounds an alarm when disturbed; security%1:21:00:: -> property a lender can take if a loan is not repaid; security%1:14:00:: -> the department that protects an institution",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "security%1:14:00::",
+      "lemma": "security",
+      "pos": "n",
+      "definition": "a department responsible for the security of the institution's property and workers",
+      "sourceBranches": [
+        "a department responsible for the security of the institution's property and workers"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the department of an organization that protects its property and employees",
+      "scope": "This is not an alarm device or a set of precautions; it is the organizational unit.",
+      "examples": [
+        "Please call security if you see anyone without a badge.",
+        "Security is investigating how the documents left the building."
+      ],
+      "branchCoverage": [
+        "a department responsible for the security of the institution's property and workers -> the department of an organization that protects its property and employees"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "security%1:21:04:: -> an official document proving a fact about finances; security%1:04:00:: -> steps taken to guard against theft or spying; security%1:06:00:: -> an electrical device that sounds an alarm when disturbed; security%1:21:00:: -> property a lender can take if a loan is not repaid; security%1:14:00:: -> the department that protects an institution",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "share%1:06:00::",
+      "lemma": "share",
+      "pos": "n",
+      "definition": "a sharp steel wedge that cuts loose the top layer of soil",
+      "sourceBranches": [
+        "a sharp steel wedge that cuts loose the top layer of soil"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a sharp steel wedge that loosens the top layer of soil as it cuts through the ground",
+      "scope": "This is not a portion given to someone; it is the cutting part of a plow.",
+      "examples": [
+        "The farmer replaced the worn share on his plow before spring planting.",
+        "A steel share sliced through the sod and turned it over."
+      ],
+      "branchCoverage": [
+        "a sharp steel wedge that cuts loose the top layer of soil -> a sharp steel wedge that loosens the top layer of soil as it cuts through the ground"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "share%1:06:00:: -> a steel blade that cuts the top layer of soil; share%2:40:00:: -> give part of something to others",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "share%2:40:00::",
+      "lemma": "share",
+      "pos": "v",
+      "definition": "give out as one's portion or share",
+      "sourceBranches": [
+        "give out as one's portion or share"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to give out pieces of something so that each person gets a portion",
+      "scope": "This is not using something jointly with others; it is about handing out portions.",
+      "examples": [
+        "The volunteers shared the food among the families at the shelter.",
+        "He shared out the tickets so that everyone got two."
+      ],
+      "branchCoverage": [
+        "give out as one's portion or share -> to give out pieces of something so that each person gets a portion"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "share%1:06:00:: -> a steel blade that cuts the top layer of soil; share%2:40:00:: -> give part of something to others",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%1:06:01::",
+      "lemma": "center",
+      "pos": "n",
+      "definition": "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers; usually includes restaurants and a convenient parking area; a modern version of the traditional marketplace",
+      "sourceBranches": [
+        "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers",
+        "usually includes restaurants and a convenient parking area",
+        "a modern version of the traditional marketplace"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a carefully landscaped shopping complex of major stores, usually with restaurants and easy parking, and a modern version of the traditional marketplace",
+      "scope": "This is not the middle point of something; it is a shopping development.",
+      "examples": [
+        "The new shopping center has forty stores and a large food court.",
+        "They spent the afternoon at the shopping center, browsing the stores and eating lunch."
+      ],
+      "branchCoverage": [
+        "mercantile establishment consisting of a carefully landscaped complex of shops representing leading merchandisers -> a carefully landscaped shopping complex of major stores",
+        "usually includes restaurants and a convenient parking area -> usually with restaurants and easy parking",
+        "a modern version of the traditional marketplace -> a modern version of the traditional marketplace"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center%1:06:01:: -> a group of shops built and landscaped as one place; center%1:13:00:: -> the sweet middle part inside a piece of candy; center%1:08:00:: -> a group of nerve cells that controls a body function; center%1:14:00:: -> people with moderate political views; center%1:04:02:: -> the football position of the player who snaps the ball; center%1:09:00:: -> the most important or essential part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%1:13:00::",
+      "lemma": "center",
+      "pos": "n",
+      "definition": "the sweet central portion of a piece of candy that is enclosed in chocolate or some other covering",
+      "sourceBranches": [
+        "the sweet central portion of a piece of candy that is enclosed in chocolate or some other covering"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the sweet middle part inside a piece of candy, surrounded by chocolate or another coating",
+      "scope": "This is not the middle of a place or object in general; it is the filling inside a sweet.",
+      "examples": [
+        "The chocolate has a soft caramel center.",
+        "The candy maker adds a soft center before coating each piece in chocolate."
+      ],
+      "branchCoverage": [
+        "the sweet central portion of a piece of candy that is enclosed in chocolate or some other covering -> the sweet middle part inside a piece of candy, surrounded by chocolate or another coating"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center%1:06:01:: -> a group of shops built and landscaped as one place; center%1:13:00:: -> the sweet middle part inside a piece of candy; center%1:08:00:: -> a group of nerve cells that controls a body function; center%1:14:00:: -> people with moderate political views; center%1:04:02:: -> the football position of the player who snaps the ball; center%1:09:00:: -> the most important or essential part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%1:08:00::",
+      "lemma": "center",
+      "pos": "n",
+      "definition": "a cluster of nerve cells governing a specific bodily process",
+      "sourceBranches": [
+        "a cluster of nerve cells governing a specific bodily process"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a group of nerve cells that controls one particular function of the body",
+      "scope": "This is not the main part of something; it is a group of nerve cells in the body.",
+      "examples": [
+        "Damage to the brain's respiratory center can make breathing difficult.",
+        "The cough center responds to irritation in the throat by triggering a reflex."
+      ],
+      "branchCoverage": [
+        "a cluster of nerve cells governing a specific bodily process -> a group of nerve cells that controls one particular function of the body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center%1:06:01:: -> a group of shops built and landscaped as one place; center%1:13:00:: -> the sweet middle part inside a piece of candy; center%1:08:00:: -> a group of nerve cells that controls a body function; center%1:14:00:: -> people with moderate political views; center%1:04:02:: -> the football position of the player who snaps the ball; center%1:09:00:: -> the most important or essential part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%1:14:00::",
+      "lemma": "center",
+      "pos": "n",
+      "definition": "politically moderate persons; centrists",
+      "sourceBranches": [
+        "politically moderate persons",
+        "centrists"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "people whose political views are not extreme, sitting between the left and the right",
+      "scope": "This means a group of people with middle-of-the-road politics, not the middle point of a place or thing.",
+      "examples": [
+        "The new law was written to win over the political center.",
+        "Both parties are courting the center ahead of the election."
+      ],
+      "branchCoverage": [
+        "politically moderate persons -> people whose political views are not extreme",
+        "centrists -> sitting between the left and the right"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center%1:06:01:: -> a group of shops built and landscaped as one place; center%1:13:00:: -> the sweet middle part inside a piece of candy; center%1:08:00:: -> a group of nerve cells that controls a body function; center%1:14:00:: -> people with moderate political views; center%1:04:02:: -> the football position of the player who snaps the ball; center%1:09:00:: -> the most important or essential part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%1:04:02::",
+      "lemma": "center",
+      "pos": "n",
+      "definition": "(American football) the position of the player on the line of scrimmage who puts the ball in play",
+      "sourceBranches": [
+        "(American football) the position of the player on the line of scrimmage who puts the ball in play"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In American football, the role of the player who stands on the line where each play starts and begins the play by passing the ball backward",
+      "scope": "This is a player's position on a football team, not the middle point of a field or of anything else.",
+      "examples": [
+        "He played center for three years before switching to guard.",
+        "The coach moved our strongest lineman to center this season."
+      ],
+      "branchCoverage": [
+        "(American football) the position of the player on the line of scrimmage who puts the ball in play -> the role of the player who stands on the line where each play starts and begins the play by passing the ball backward"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center%1:06:01:: -> a group of shops built and landscaped as one place; center%1:13:00:: -> the sweet middle part inside a piece of candy; center%1:08:00:: -> a group of nerve cells that controls a body function; center%1:14:00:: -> people with moderate political views; center%1:04:02:: -> the football position of the player who snaps the ball; center%1:09:00:: -> the most important or essential part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%1:09:00::",
+      "lemma": "center",
+      "pos": "n",
+      "definition": "the choicest or most essential or most vital part of some idea or experience",
+      "sourceBranches": [
+        "the choicest or most essential or most vital part of some idea or experience"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the most important, most valuable, or most necessary part of an idea or an experience",
+      "scope": "This is the key part of an idea or experience, not a physical middle point or a place.",
+      "examples": [
+        "The center of her argument is that education should be free.",
+        "At the center of the festival was a shared meal, not the music."
+      ],
+      "branchCoverage": [
+        "the choicest or most essential or most vital part of some idea or experience -> the most important, most valuable, or most necessary part of an idea or an experience"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center%1:06:01:: -> a group of shops built and landscaped as one place; center%1:13:00:: -> the sweet middle part inside a piece of candy; center%1:08:00:: -> a group of nerve cells that controls a body function; center%1:14:00:: -> people with moderate political views; center%1:04:02:: -> the football position of the player who snaps the ball; center%1:09:00:: -> the most important or essential part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "couple%2:35:00::",
+      "lemma": "couple",
+      "pos": "v",
+      "definition": "engage in sexual intercourse",
+      "sourceBranches": [
+        "engage in sexual intercourse"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "have sex with another person",
+      "scope": "This is a physical sexual act between people, not the joining or pairing of two things.",
+      "examples": [
+        "They coupled that night, and by morning he was gone.",
+        "The film's opening scene shows two strangers coupling in a hotel room."
+      ],
+      "branchCoverage": [
+        "engage in sexual intercourse -> have sex with another person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dead%5:00:00:inelastic:00",
+      "lemma": "dead",
+      "pos": "a",
+      "definition": "lacking resilience or bounce",
+      "sourceBranches": [
+        "lacking resilience or bounce"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "not able to spring back or rebound after being pressed, stretched, or hit",
+      "scope": "This is about a material failing to spring back, not about loss of physical feeling or of echo.",
+      "examples": [
+        "The old tennis ball had gone dead and barely bounced.",
+        "This foam mattress feels dead and leaves a dent where you lie."
+      ],
+      "branchCoverage": [
+        "lacking resilience or bounce -> not able to spring back or rebound after being pressed, stretched, or hit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dead%5:00:00:inelastic:00 -> not able to bounce back; dead%5:00:00:insensitive:01 -> without physical feeling; dead%5:00:00:unreverberant:00 -> without echo",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dead%5:00:00:insensitive:01",
+      "lemma": "dead",
+      "pos": "a",
+      "definition": "devoid of physical sensation; numb",
+      "sourceBranches": [
+        "devoid of physical sensation",
+        "numb"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "having no feeling in the body or a part of it; unable to sense touch or pain",
+      "scope": "This is about lost feeling in the body, not about a material that will not bounce back or a space with no echo.",
+      "examples": [
+        "My fingers went dead with cold after ten minutes in the snow.",
+        "The dentist's injection left half my mouth dead for hours."
+      ],
+      "branchCoverage": [
+        "devoid of physical sensation -> having no feeling in the body or a part of it",
+        "numb -> unable to sense touch or pain"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dead%5:00:00:inelastic:00 -> not able to bounce back; dead%5:00:00:insensitive:01 -> without physical feeling; dead%5:00:00:unreverberant:00 -> without echo",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dead%5:00:00:unreverberant:00",
+      "lemma": "dead",
+      "pos": "a",
+      "definition": "lacking acoustic resonance",
+      "sourceBranches": [
+        "lacking acoustic resonance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "giving back no echo and no ring; sound in such a space does not carry",
+      "scope": "This is about sound and echo, not about a material's bounce or a numb body part.",
+      "examples": [
+        "The room was dead, with no echo at all.",
+        "Thick carpet and heavy curtains made the theater dead, so voices did not carry."
+      ],
+      "branchCoverage": [
+        "lacking acoustic resonance -> giving back no echo and no ring; sound in such a space does not carry"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dead%5:00:00:inelastic:00 -> not able to bounce back; dead%5:00:00:insensitive:01 -> without physical feeling; dead%5:00:00:unreverberant:00 -> without echo",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hold%2:41:15::",
+      "lemma": "hold",
+      "pos": "v",
+      "definition": "lessen the intensity of; temper; hold in restraint; hold or keep within limits",
+      "sourceBranches": [
+        "lessen the intensity of",
+        "temper",
+        "hold in restraint",
+        "hold or keep within limits"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make something less strong or less intense; soften it, keep it under control, and stop it from going too far",
+      "scope": "This means making a feeling, force, or activity weaker or more controlled, not carrying something in your hands.",
+      "examples": [
+        "She struggled to hold back her anger during the meeting.",
+        "He held his temper long enough to finish the speech."
+      ],
+      "branchCoverage": [
+        "lessen the intensity of -> make something less strong or less intense",
+        "temper -> soften it",
+        "hold in restraint -> keep it under control",
+        "hold or keep within limits -> stop it from going too far"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hold%2:41:15:: -> make something weaker or keep it under control; hold%1:06:02:: -> the space in a ship or aircraft for cargo; hold%2:32:13:: -> make someone feel obliged or in debt; hold%2:40:00:: -> have or own something, concrete or abstract; hold%2:40:04:: -> have a right, title, or office; hold%2:41:00:: -> book something in advance for someone; hold%2:42:04:: -> be true or relevant to a case; hold%2:42:08:: -> stand firm against attack or pressure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hold%1:06:02::",
+      "lemma": "hold",
+      "pos": "n",
+      "definition": "the space in a ship or aircraft for storing cargo",
+      "sourceBranches": [
+        "the space in a ship or aircraft for storing cargo"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the area inside a ship or plane where goods are kept during a trip",
+      "scope": "This is a storage area on a ship or plane, not a firm grip with the hands.",
+      "examples": [
+        "The crew loaded the crates into the ship's hold before dawn.",
+        "Smuggled goods were found in the cargo hold of the plane."
+      ],
+      "branchCoverage": [
+        "the space in a ship or aircraft for storing cargo -> the area inside a ship or plane where goods are kept during a trip"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hold%2:41:15:: -> make something weaker or keep it under control; hold%1:06:02:: -> the space in a ship or aircraft for cargo; hold%2:32:13:: -> make someone feel obliged or in debt; hold%2:40:00:: -> have or own something, concrete or abstract; hold%2:40:04:: -> have a right, title, or office; hold%2:41:00:: -> book something in advance for someone; hold%2:42:04:: -> be true or relevant to a case; hold%2:42:08:: -> stand firm against attack or pressure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hold%2:32:13::",
+      "lemma": "hold",
+      "pos": "v",
+      "definition": "bind by an obligation; cause to be indebted",
+      "sourceBranches": [
+        "bind by an obligation",
+        "cause to be indebted"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make someone feel that they must do something for you, or that they owe you something",
+      "scope": "This is about creating a duty or a debt of gratitude, not about owning an object or a right.",
+      "examples": [
+        "She held him to his promise to visit every summer.",
+        "The old man was held by a debt of gratitude he could never repay."
+      ],
+      "branchCoverage": [
+        "bind by an obligation -> make someone feel that they must do something for you",
+        "cause to be indebted -> that they owe you something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hold%2:41:15:: -> make something weaker or keep it under control; hold%1:06:02:: -> the space in a ship or aircraft for cargo; hold%2:32:13:: -> make someone feel obliged or in debt; hold%2:40:00:: -> have or own something, concrete or abstract; hold%2:40:04:: -> have a right, title, or office; hold%2:41:00:: -> book something in advance for someone; hold%2:42:04:: -> be true or relevant to a case; hold%2:42:08:: -> stand firm against attack or pressure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hold%2:40:00::",
+      "lemma": "hold",
+      "pos": "v",
+      "definition": "have or possess, either in a concrete or an abstract sense",
+      "sourceBranches": [
+        "have or possess, either in a concrete or an abstract sense"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "have something as your own, whether a physical object or something you cannot touch, such as a quality or idea",
+      "scope": "This is about owning or having something in general, not about a legal right, title, or post.",
+      "examples": [
+        "She holds most of the shares in the family business.",
+        "He holds a great deal of influence over the committee."
+      ],
+      "branchCoverage": [
+        "have or possess, either in a concrete or an abstract sense -> have something as your own, whether a physical object or something you cannot touch"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hold%2:41:15:: -> make something weaker or keep it under control; hold%1:06:02:: -> the space in a ship or aircraft for cargo; hold%2:32:13:: -> make someone feel obliged or in debt; hold%2:40:00:: -> have or own something, concrete or abstract; hold%2:40:04:: -> have a right, title, or office; hold%2:41:00:: -> book something in advance for someone; hold%2:42:04:: -> be true or relevant to a case; hold%2:42:08:: -> stand firm against attack or pressure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hold%2:40:04::",
+      "lemma": "hold",
+      "pos": "v",
+      "definition": "have rightfully; of rights, titles, and offices",
+      "sourceBranches": [
+        "have rightfully",
+        "of rights, titles, and offices"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "have something as a legal right, such as a title, a rank, or a public position",
+      "scope": "This is about a lawful right, title, or post, not about owning an object or a quality in general.",
+      "examples": [
+        "She holds the title of professor emerita at the university.",
+        "He has held the office of mayor since 2018."
+      ],
+      "branchCoverage": [
+        "have rightfully -> have something as a legal right",
+        "of rights, titles, and offices -> such as a title, a rank, or a public position"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hold%2:41:15:: -> make something weaker or keep it under control; hold%1:06:02:: -> the space in a ship or aircraft for cargo; hold%2:32:13:: -> make someone feel obliged or in debt; hold%2:40:00:: -> have or own something, concrete or abstract; hold%2:40:04:: -> have a right, title, or office; hold%2:41:00:: -> book something in advance for someone; hold%2:42:04:: -> be true or relevant to a case; hold%2:42:08:: -> stand firm against attack or pressure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hold%2:41:00::",
+      "lemma": "hold",
+      "pos": "v",
+      "definition": "arrange for and reserve (something for someone else) in advance",
+      "sourceBranches": [
+        "arrange for and reserve (something for someone else) in advance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "arrange for something to be kept for another person ahead of time",
+      "scope": "This is not owning or gripping something; it is arranging in advance for something to be kept for another person.",
+      "examples": [
+        "Could you hold two tickets for me until Friday?",
+        "The travel agent held a room for us in Rome."
+      ],
+      "branchCoverage": [
+        "arrange for and reserve (something for someone else) in advance -> arrange for something to be kept for another person ahead of time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hold%2:41:15:: -> make something weaker or keep it under control; hold%1:06:02:: -> the space in a ship or aircraft for cargo; hold%2:32:13:: -> make someone feel obliged or in debt; hold%2:40:00:: -> have or own something, concrete or abstract; hold%2:40:04:: -> have a right, title, or office; hold%2:41:00:: -> book something in advance for someone; hold%2:42:04:: -> be true or relevant to a case; hold%2:42:08:: -> stand firm against attack or pressure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hold%2:42:04::",
+      "lemma": "hold",
+      "pos": "v",
+      "definition": "be pertinent or relevant or applicable",
+      "sourceBranches": [
+        "be pertinent or relevant or applicable"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "be closely connected to and matter for a particular case, so it can be applied to it",
+      "scope": "This is not about physically gripping something or keeping it in place; it is about a rule, fact, or argument applying to a situation.",
+      "examples": [
+        "This rule holds for every member of the club, without exception.",
+        "The same reasoning holds for smaller companies."
+      ],
+      "branchCoverage": [
+        "be pertinent or relevant or applicable -> be closely connected to and matter for a particular case, so it can be applied to it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hold%2:41:15:: -> make something weaker or keep it under control; hold%1:06:02:: -> the space in a ship or aircraft for cargo; hold%2:32:13:: -> make someone feel obliged or in debt; hold%2:40:00:: -> have or own something, concrete or abstract; hold%2:40:04:: -> have a right, title, or office; hold%2:41:00:: -> book something in advance for someone; hold%2:42:04:: -> be true or relevant to a case; hold%2:42:08:: -> stand firm against attack or pressure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hold%2:42:08::",
+      "lemma": "hold",
+      "pos": "v",
+      "definition": "resist or confront with resistance",
+      "sourceBranches": [
+        "resist or confront with resistance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "stand firm against an attack, force, or pressure and refuse to give way",
+      "scope": "This is not keeping an object in your hand or storing it; it is staying firm under attack or pressure.",
+      "examples": [
+        "The dam holds against the floodwaters every spring.",
+        "The soldiers held the line despite heavy fire."
+      ],
+      "branchCoverage": [
+        "resist or confront with resistance -> stand firm against an attack, force, or pressure and refuse to give way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hold%2:41:15:: -> make something weaker or keep it under control; hold%1:06:02:: -> the space in a ship or aircraft for cargo; hold%2:32:13:: -> make someone feel obliged or in debt; hold%2:40:00:: -> have or own something, concrete or abstract; hold%2:40:04:: -> have a right, title, or office; hold%2:41:00:: -> book something in advance for someone; hold%2:42:04:: -> be true or relevant to a case; hold%2:42:08:: -> stand firm against attack or pressure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "player%1:18:04::",
+      "lemma": "player",
+      "pos": "n",
+      "definition": "a person who pursues a number of different social and sexual partners simultaneously",
+      "sourceBranches": [
+        "a person who pursues a number of different social and sexual partners simultaneously"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a person who actively seeks more than one dating and sexual partner at the same time",
+      "scope": "This is not someone who takes part in a sport, game, or music; it describes how a person dates several partners.",
+      "examples": [
+        "Everyone warned her that he was a player.",
+        "He was known around campus as a player who never dated one person for long."
+      ],
+      "branchCoverage": [
+        "a person who pursues a number of different social and sexual partners simultaneously -> a person who actively seeks more than one dating and sexual partner at the same time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "return%1:06:00::",
+      "lemma": "return",
+      "pos": "n",
+      "definition": "the key on electric typewriters or computer keyboards that causes a carriage return and a line feed",
+      "sourceBranches": [
+        "the key on electric typewriters or computer keyboards that causes a carriage return and a line feed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the key on electric typewriters or computer keyboards that sends the typing position back to the start of a new line",
+      "scope": "This is not a reply, a tennis shot, or a journey back; it is the key that starts a new line.",
+      "examples": [
+        "Press the return key to start a new paragraph.",
+        "On an old electric typewriter, the return key also moved the carriage."
+      ],
+      "branchCoverage": [
+        "the key on electric typewriters or computer keyboards that causes a carriage return and a line feed -> the key on electric typewriters or computer keyboards that sends the typing position back to the start of a new line"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "return%1:06:00:: -> the key that moves the cursor to a new line; return%1:04:04:: -> a tennis stroke that sends the ball back; return%1:10:02:: -> a quick reply to a question or remark; return%2:38:01:: -> go back to an earlier position; return%2:40:03:: -> give back the same treatment received",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "return%1:04:04::",
+      "lemma": "return",
+      "pos": "n",
+      "definition": "a tennis stroke that sends the ball back to the other player",
+      "sourceBranches": [
+        "a tennis stroke that sends the ball back to the other player"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a stroke in tennis that hits the ball back across the net to the opponent",
+      "scope": "This is not a spoken reply or a trip back to a place; it is a shot that sends the ball back in tennis.",
+      "examples": [
+        "Her return was so powerful that he could not reach the ball.",
+        "He spent an hour practicing his backhand return."
+      ],
+      "branchCoverage": [
+        "a tennis stroke that sends the ball back to the other player -> a stroke in tennis that hits the ball back across the net to the opponent"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "return%1:06:00:: -> the key that moves the cursor to a new line; return%1:04:04:: -> a tennis stroke that sends the ball back; return%1:10:02:: -> a quick reply to a question or remark; return%2:38:01:: -> go back to an earlier position; return%2:40:03:: -> give back the same treatment received",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "return%1:10:02::",
+      "lemma": "return",
+      "pos": "n",
+      "definition": "a quick reply to a question or remark (especially a witty or critical one)",
+      "sourceBranches": [
+        "a quick reply to a question or remark (especially a witty or critical one)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a fast answer to a question or comment, often a clever or sharp one",
+      "scope": "This is not a tennis shot or a journey home; it is a spoken answer, often clever or critical.",
+      "examples": [
+        "His witty return made the whole table laugh.",
+        "She always had a sharp return ready for reporters' questions."
+      ],
+      "branchCoverage": [
+        "a quick reply to a question or remark (especially a witty or critical one) -> a fast answer to a question or comment, often a clever or sharp one"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "return%1:06:00:: -> the key that moves the cursor to a new line; return%1:04:04:: -> a tennis stroke that sends the ball back; return%1:10:02:: -> a quick reply to a question or remark; return%2:38:01:: -> go back to an earlier position; return%2:40:03:: -> give back the same treatment received",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "return%2:38:01::",
+      "lemma": "return",
+      "pos": "v",
+      "definition": "return to a previous position; in mathematics",
+      "sourceBranches": [
+        "return to a previous position",
+        "in mathematics"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "go back to an earlier position, as when a mathematical operation moves a point or value to where it was before",
+      "scope": "This is not handing something back to its owner; it is moving back to an earlier position, often in a mathematical setting.",
+      "examples": [
+        "After reaching its peak, the curve returns to its earlier position.",
+        "In this model, the value returns to its starting point after each cycle."
+      ],
+      "branchCoverage": [
+        "return to a previous position -> go back to an earlier position",
+        "in mathematics -> as when a mathematical operation moves a point or value to where it was before"
+      ],
+      "labelBranches": [
+        "in mathematics -> domain label marking that this sense is used in mathematics; the gloss carries it as a mathematical operation"
+      ],
+      "lemmaPartition": "return%1:06:00:: -> the key that moves the cursor to a new line; return%1:04:04:: -> a tennis stroke that sends the ball back; return%1:10:02:: -> a quick reply to a question or remark; return%2:38:01:: -> go back to an earlier position; return%2:40:03:: -> give back the same treatment received",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "return%2:40:03::",
+      "lemma": "return",
+      "pos": "v",
+      "definition": "return in kind",
+      "sourceBranches": [
+        "return in kind"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "give back the same kind of treatment, feeling, or action that you received",
+      "scope": "This is not going back to a place; it is answering a treatment or feeling with the same kind.",
+      "examples": [
+        "She returned his smile with a warm one of her own.",
+        "He returned the insult with an even sharper joke."
+      ],
+      "branchCoverage": [
+        "return in kind -> give back the same kind of treatment, feeling, or action that you received"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "return%1:06:00:: -> the key that moves the cursor to a new line; return%1:04:04:: -> a tennis stroke that sends the ball back; return%1:10:02:: -> a quick reply to a question or remark; return%2:38:01:: -> go back to an earlier position; return%2:40:03:: -> give back the same treatment received",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "star%1:18:02::",
+      "lemma": "star",
+      "pos": "n",
+      "definition": "a performer who receives prominent billing",
+      "sourceBranches": [
+        "a performer who receives prominent billing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a performer whose name is given the most prominent place in a show's publicity and credits",
+      "scope": "This is not a ball of burning gas in the night sky or a shape on a flag; it is a performer given top billing.",
+      "examples": [
+        "She became a star after her first role on Broadway.",
+        "The film's star refused to answer questions about the ending."
+      ],
+      "branchCoverage": [
+        "a performer who receives prominent billing -> a performer whose name is given the most prominent place in a show's publicity and credits"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "star%1:18:02:: -> a performer whose name is featured in the billing; star%1:09:00:: -> a network shape with all points connected to one central point",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "star%1:09:00::",
+      "lemma": "star",
+      "pos": "n",
+      "definition": "the topology of a network whose components are connected to a hub",
+      "sourceBranches": [
+        "the topology of a network whose components are connected to a hub"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the way a network is laid out when every part links to one central point",
+      "scope": "This is not a famous performer or a glowing object in the sky; it is the arrangement of a network.",
+      "examples": [
+        "In a star network, every computer connects to one central server.",
+        "The office uses a star layout, with all machines linked to a single hub."
+      ],
+      "branchCoverage": [
+        "the topology of a network whose components are connected to a hub -> the way a network is laid out when every part links to one central point"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "star%1:18:02:: -> a performer whose name is featured in the billing; star%1:09:00:: -> a network shape with all points connected to one central point",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "test%1:05:00::",
+      "lemma": "test",
+      "pos": "n",
+      "definition": "a hard outer covering as of some amoebas and sea urchins",
+      "sourceBranches": [
+        "a hard outer covering as of some amoebas and sea urchins"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a tough outer shell, such as the one around some amoebas and sea urchins",
+      "scope": "This is not an examination or a trial of something; it is the hard shell of certain simple sea creatures.",
+      "examples": [
+        "Under the microscope, the test of the amoeba looked like a tiny shell.",
+        "Sea urchins have a chalky test covered in spines."
+      ],
+      "branchCoverage": [
+        "a hard outer covering as of some amoebas and sea urchins -> a tough outer shell, such as the one around some amoebas and sea urchins"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

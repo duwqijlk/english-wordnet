@@ -1,0 +1,1212 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 62,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 37,
+      "of": 50,
+      "rate": 0.74
+    },
+    "selfApproved": [
+      "match%1:23:00::",
+      "model%1:18:02::",
+      "step%1:10:00::",
+      "key%1:10:01::",
+      "key%1:06:02::",
+      "key%1:10:02::",
+      "range%1:06:01::",
+      "range%2:31:00::",
+      "range%2:42:00::",
+      "trade%1:19:00::",
+      "character%1:10:01::",
+      "cup%1:13:00::",
+      "style%1:07:01::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "f0e2df5b0c2412e98922b10a7d39366aa346e7022d35042075119de33178cd6e"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "match%1:18:01::",
+      "lemma": "match",
+      "pos": "n",
+      "definition": "a person regarded as a good matrimonial prospect",
+      "sourceBranches": [
+        "a person regarded as a good matrimonial prospect"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a person that others see as a good possible husband or wife",
+      "scope": "This is a person, not a game or contest, and not a pair of things that look the same.",
+      "examples": [
+        "Her parents thought the young doctor was a fine match for their daughter.",
+        "In those days, a wealthy landowner was seen as an excellent match."
+      ],
+      "branchCoverage": [
+        "a person regarded as a good matrimonial prospect -> a person that others see as a good possible husband or wife"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "match%1:18:01:: -> a person seen as a good marriage prospect; match%1:23:00:: -> the score needed to win a game",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "match%1:23:00::",
+      "lemma": "match",
+      "pos": "n",
+      "definition": "the score needed to win a match",
+      "sourceBranches": [
+        "the score needed to win a match"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the number of points a player or team must reach in order to win a contest",
+      "scope": "This is the total needed to win, not the contest itself or its final result.",
+      "examples": [
+        "The match is played to 100 points; the first player to reach it wins.",
+        "He needed only three more points to reach the target and win the match."
+      ],
+      "branchCoverage": [
+        "the score needed to win a match -> the number of points a player or team must reach in order to win a contest"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "match%1:18:01:: -> a person seen as a good marriage prospect; match%1:23:00:: -> the score needed to win a game",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1's 'winning match score' is unidiomatic. Rewrite: 'The match is played to 100 points; the first to reach it wins.'"
+    },
+    {
+      "senseId": "model%1:18:02::",
+      "lemma": "model",
+      "pos": "n",
+      "definition": "a woman who wears clothes to display fashions",
+      "sourceBranches": [
+        "a woman who wears clothes to display fashions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a woman who wears fashionable clothes to show them to buyers or an audience",
+      "scope": "This is a person, not a small copy of an object or an example to follow.",
+      "examples": [
+        "The model walked down the runway in a red silk dress.",
+        "She worked as a fashion model in Paris before starting her own label."
+      ],
+      "branchCoverage": [
+        "a woman who wears clothes to display fashions -> a woman who wears fashionable clothes to show them to buyers or an audience"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "model%1:18:02:: -> a woman employed to wear clothes and show them to buyers; model%2:36:01:: -> make a model that looks like something",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'whose job' (definition lacks employment) and keep fashion: 'a woman who wears fashionable clothes to show to buyers or an audience.'"
+    },
+    {
+      "senseId": "model%2:36:01::",
+      "lemma": "model",
+      "pos": "v",
+      "definition": "construct a model in the likeness of",
+      "sourceBranches": [
+        "construct a model in the likeness of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "build a copy that looks like the real thing",
+      "scope": "This is about building a copy, not about a person who shows clothes or an example to follow.",
+      "examples": [
+        "The engineers modeled the new bridge in software before building it.",
+        "She spent the weekend modeling a tiny village out of cardboard."
+      ],
+      "branchCoverage": [
+        "construct a model in the likeness of -> build a copy that looks like the real thing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "model%1:18:02:: -> a woman employed to wear clothes and show them to buyers; model%2:36:01:: -> make a model that looks like something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "picture%1:06:02::",
+      "lemma": "picture",
+      "pos": "n",
+      "definition": "a representation of a person or scene in the form of a print or transparent slide or in digital format",
+      "sourceBranches": [
+        "a representation of a person or scene in the form of a print or transparent slide or in digital format"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a copy of how a person or scene looks, printed on paper, on a clear slide, or stored as computer data",
+      "scope": "This is a still image, not a film with movement or a description in words.",
+      "examples": [
+        "She hung a picture of her grandparents above the fireplace.",
+        "The report includes a picture of the damaged part, saved as a digital file."
+      ],
+      "branchCoverage": [
+        "a representation of a person or scene in the form of a print or transparent slide or in digital format -> a copy of how a person or scene looks, printed on paper, on a clear slide, or stored as computer data"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "picture%1:06:02:: -> a painting, drawing, or photograph of a person or scene; picture%1:10:02:: -> a film that tells a story with sound and moving images; picture%1:10:03:: -> a vivid description in words",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "picture%1:10:02::",
+      "lemma": "picture",
+      "pos": "n",
+      "definition": "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement",
+      "sourceBranches": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a type of entertainment that tells a story using sound and a series of images that seem to move",
+      "scope": "This is a moving show, not a single still image or a description in words.",
+      "examples": [
+        "The director's latest picture opens in theaters next month.",
+        "We settled in to watch a black-and-white picture from the 1940s."
+      ],
+      "branchCoverage": [
+        "a form of entertainment that enacts a story by sound and a sequence of images giving the illusion of continuous movement -> a type of entertainment that tells a story using sound and a series of images that seem to move"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "picture%1:06:02:: -> a painting, drawing, or photograph of a person or scene; picture%1:10:02:: -> a film that tells a story with sound and moving images; picture%1:10:03:: -> a vivid description in words",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "picture%1:10:03::",
+      "lemma": "picture",
+      "pos": "n",
+      "definition": "a graphic or vivid verbal description",
+      "sourceBranches": [
+        "a graphic or vivid verbal description"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a description in words that is very clear and full of life",
+      "scope": "This is spoken or written words, not a printed image or a film.",
+      "examples": [
+        "Her novel gives a vivid picture of life in a small fishing town.",
+        "The witness painted a detailed picture of the accident for the jury."
+      ],
+      "branchCoverage": [
+        "a graphic or vivid verbal description -> a description in words that is very clear and full of life"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "picture%1:06:02:: -> a painting, drawing, or photograph of a person or scene; picture%1:10:02:: -> a film that tells a story with sound and moving images; picture%1:10:03:: -> a vivid description in words",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "step%1:06:01::",
+      "lemma": "step",
+      "pos": "n",
+      "definition": "a solid block joined to the beams in which the heel of a ship's mast or capstan is fixed",
+      "sourceBranches": [
+        "a solid block joined to the beams in which the heel of a ship's mast or capstan is fixed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a solid block fixed to a ship's beams, where the bottom end of a mast or a rope-winding winch sits",
+      "scope": "This is a ship part, not the stair you put your foot on or a stage in a process.",
+      "examples": [
+        "The crew lowered the mast into its step on the deck.",
+        "Water had rotted the wooden step that held the base of the mast."
+      ],
+      "branchCoverage": [
+        "a solid block joined to the beams in which the heel of a ship's mast or capstan is fixed -> a solid block fixed to a ship's beams, where the bottom end of a mast or a rope-winding winch sits"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "step%1:06:01:: -> a block joined to the beams where a mast's heel rests; step%1:06:00:: -> a support to rest your foot on while climbing; step%1:10:00:: -> a musical interval of two semitones; step%2:30:00:: -> measure a distance by walking it; step%2:38:03:: -> walk a short distance to a place",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "step%1:06:00::",
+      "lemma": "step",
+      "pos": "n",
+      "definition": "support consisting of a place to rest the foot while ascending or descending a stairway",
+      "sourceBranches": [
+        "support consisting of a place to rest the foot while ascending or descending a stairway"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one of the raised parts of a staircase that you put your foot on as you go up or down",
+      "scope": "This is part of a staircase, not a ship fitting or a stage in a process.",
+      "examples": [
+        "She tripped on the bottom step and dropped her keys.",
+        "The wooden steps creaked as we climbed to the attic."
+      ],
+      "branchCoverage": [
+        "support consisting of a place to rest the foot while ascending or descending a stairway -> one of the raised parts of a staircase that you put your foot on as you go up or down"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "step%1:06:01:: -> a block joined to the beams where a mast's heel rests; step%1:06:00:: -> a support to rest your foot on while climbing; step%1:10:00:: -> a musical interval of two semitones; step%2:30:00:: -> measure a distance by walking it; step%2:38:03:: -> walk a short distance to a place",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "step%1:10:00::",
+      "lemma": "step",
+      "pos": "n",
+      "definition": "a musical interval of two semitones",
+      "sourceBranches": [
+        "a musical interval of two semitones"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a difference in pitch of two semitones",
+      "scope": "This is about pitch in music, not a stair or a stage in a process.",
+      "examples": [
+        "The melody rises by a whole step at the end of the phrase.",
+        "In this scale the gap between the first two notes is a step."
+      ],
+      "branchCoverage": [
+        "a musical interval of two semitones -> a difference in pitch of two semitones"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "step%1:06:01:: -> a block joined to the beams where a mast's heel rests; step%1:06:00:: -> a support to rest your foot on while climbing; step%1:10:00:: -> a musical interval of two semitones; step%2:30:00:: -> measure a distance by walking it; step%2:38:03:: -> walk a short distance to a place",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Delete 'the smallest gap between keys on a piano' - that is one semitone, not two; a step spans two semitones."
+    },
+    {
+      "senseId": "step%2:30:00::",
+      "lemma": "step",
+      "pos": "v",
+      "definition": "measure (distances) by pacing",
+      "sourceBranches": [
+        "measure (distances) by pacing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "measure a distance by walking it and counting the number of paces",
+      "scope": "This is about measuring, not about walking somewhere or about a stair.",
+      "examples": [
+        "He stepped off the length of the room to see whether the rug would fit.",
+        "The surveyor paced the field twice to get an accurate measurement."
+      ],
+      "branchCoverage": [
+        "measure (distances) by pacing -> measure a distance by walking it and counting the number of paces"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "step%1:06:01:: -> a block joined to the beams where a mast's heel rests; step%1:06:00:: -> a support to rest your foot on while climbing; step%1:10:00:: -> a musical interval of two semitones; step%2:30:00:: -> measure a distance by walking it; step%2:38:03:: -> walk a short distance to a place",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "step%2:38:03::",
+      "lemma": "step",
+      "pos": "v",
+      "definition": "walk a short distance to a specified place or in a specified manner",
+      "sourceBranches": [
+        "walk a short distance to a specified place or in a specified manner"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "walk a short way to a particular place, or in a particular way",
+      "scope": "This is about moving a short way, not about measuring a distance.",
+      "examples": [
+        "She stepped outside to take the call.",
+        "He stepped carefully around the broken glass."
+      ],
+      "branchCoverage": [
+        "walk a short distance to a specified place or in a specified manner -> walk a short way to a particular place, or in a particular way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "step%1:06:01:: -> a block joined to the beams where a mast's heel rests; step%1:06:00:: -> a support to rest your foot on while climbing; step%1:10:00:: -> a musical interval of two semitones; step%2:30:00:: -> measure a distance by walking it; step%2:38:03:: -> walk a short distance to a place",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trust%1:14:00::",
+      "lemma": "trust",
+      "pos": "n",
+      "definition": "a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service",
+      "sourceBranches": [
+        "a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a group of separate organizations that join together to reduce competition by controlling how a product or service is made and supplied",
+      "scope": "This is a business arrangement, not a feeling of confidence between people.",
+      "examples": [
+        "The government broke up the oil trust into smaller competing companies.",
+        "In the early 1900s, several railroads combined into a trust to fix prices."
+      ],
+      "branchCoverage": [
+        "a consortium of independent organizations formed to limit competition by controlling the production and distribution of a product or service -> a group of separate organizations that join together to reduce competition by controlling how a product or service is made and supplied"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "trust%1:14:00:: -> a group of companies formed to limit competition; trust%1:26:00:: -> a relationship of mutual confidence; trust%2:40:00:: -> give someone responsibility for something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trust%1:26:00::",
+      "lemma": "trust",
+      "pos": "n",
+      "definition": "a trustful relationship",
+      "sourceBranches": [
+        "a trustful relationship"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A relationship in which people have confidence in each other and feel safe relying on one another.",
+      "scope": "This is a bond of mutual confidence between people, not a group of companies formed to limit competition.",
+      "examples": [
+        "Years of shared work built a deep trust between the two doctors.",
+        "Their marriage rests on trust: each knows the other will keep a promise."
+      ],
+      "branchCoverage": [
+        "a trustful relationship -> a relationship in which people have confidence in each other and feel safe relying on one another"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "trust%1:14:00:: -> a group of companies formed to limit competition; trust%1:26:00:: -> a relationship of mutual confidence; trust%2:40:00:: -> give someone responsibility for something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trust%2:40:00::",
+      "lemma": "trust",
+      "pos": "v",
+      "definition": "confer a trust upon",
+      "sourceBranches": [
+        "confer a trust upon"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To give someone the responsibility of caring for or managing something for another person's benefit.",
+      "scope": "This is about handing someone a duty or responsibility, not about believing that a person is honest.",
+      "examples": [
+        "The lawyer was trusted with the family's savings.",
+        "The board trusted the museum's collection to a seasoned curator."
+      ],
+      "branchCoverage": [
+        "confer a trust upon -> give someone the responsibility of caring for or managing something for another person's benefit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "trust%1:14:00:: -> a group of companies formed to limit competition; trust%1:26:00:: -> a relationship of mutual confidence; trust%2:40:00:: -> give someone responsibility for something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%4:02:01::",
+      "lemma": "forward",
+      "pos": "r",
+      "definition": "in a forward direction",
+      "sourceBranches": [
+        "in a forward direction"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Toward the front, or ahead of the present position.",
+      "scope": "This is an adverb telling the direction of movement or position, not an adjective describing something as moving ahead.",
+      "examples": [
+        "She took a step forward to see the stage better.",
+        "The line moved forward slowly as each passenger showed a ticket."
+      ],
+      "branchCoverage": [
+        "in a forward direction -> toward the front, or ahead of the present position"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "forward%4:02:01:: -> in a direction toward the front; forward%5:00:00:progressive:01 -> moving toward the front",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%5:00:00:progressive:01",
+      "lemma": "forward",
+      "pos": "a",
+      "definition": "moving forward",
+      "sourceBranches": [
+        "moving forward"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Advancing toward the front rather than staying still or moving back.",
+      "scope": "This describes something that moves ahead, not the adverb that tells the direction of a movement.",
+      "examples": [
+        "The forward march of the soldiers never slowed.",
+        "A forward pass caught the defenders off guard."
+      ],
+      "branchCoverage": [
+        "moving forward -> advancing toward the front rather than staying still or moving back"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "forward%4:02:01:: -> in a direction toward the front; forward%5:00:00:progressive:01 -> moving toward the front",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "key%1:20:00::",
+      "lemma": "key",
+      "pos": "n",
+      "definition": "a winged often one-seed indehiscent fruit as of the ash or elm or maple",
+      "sourceBranches": [
+        "a winged often one-seed indehiscent fruit as of the ash or elm or maple"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A fruit with a wing-like part that usually holds one seed and does not split open, such as those of ash, elm, or maple trees.",
+      "scope": "This is a tree fruit, not the lever you press to work a machine or a musical scale.",
+      "examples": [
+        "In autumn the ash trees shed their keys all over the path.",
+        "Each maple key spun to the ground like a tiny wing."
+      ],
+      "branchCoverage": [
+        "a winged often one-seed indehiscent fruit as of the ash or elm or maple -> a fruit with a wing-like part that usually holds one seed and does not split open, such as those of ash, elm, or maple trees"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key%1:20:00:: -> a winged one-seed fruit, as of the ash tree; key%1:06:01:: -> a lever on a keyboard that works a mechanism; key%1:10:00:: -> any of the 24 major or minor musical scales; key%1:10:01:: -> a device whose possession gives access or control; key%1:06:02:: -> a device used to wind another device; key%1:10:02:: -> a list explaining symbols or abbreviations; key%1:17:00:: -> a coral reef off southern Florida",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "key%1:06:01::",
+      "lemma": "key",
+      "pos": "n",
+      "definition": "a lever (as in a keyboard) that actuates a mechanism when depressed",
+      "sourceBranches": [
+        "a lever (as in a keyboard) that actuates a mechanism when depressed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A small bar you press down to make a machine work, such as one on a piano or a computer.",
+      "scope": "This is a part you press to operate a machine, not a device that opens a lock or a set of musical notes.",
+      "examples": [
+        "She hit the wrong key and the whole line of text vanished.",
+        "The piano's middle key stuck and would not rise again."
+      ],
+      "branchCoverage": [
+        "a lever (as in a keyboard) that actuates a mechanism when depressed -> a small bar you press down to make a machine work, such as one on a piano or a computer"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key%1:20:00:: -> a winged one-seed fruit, as of the ash tree; key%1:06:01:: -> a lever on a keyboard that works a mechanism; key%1:10:00:: -> any of the 24 major or minor musical scales; key%1:10:01:: -> a device whose possession gives access or control; key%1:06:02:: -> a device used to wind another device; key%1:10:02:: -> a list explaining symbols or abbreviations; key%1:17:00:: -> a coral reef off southern Florida",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "key%1:10:00::",
+      "lemma": "key",
+      "pos": "n",
+      "definition": "any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music",
+      "sourceBranches": [
+        "any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Any of the 24 major or minor musical scales, using the standard whole-and-half-step pattern, that give a piece its tonal base.",
+      "scope": "This is the tonal system of a piece of music, not a lever you press or a list explaining symbols.",
+      "examples": [
+        "The symphony begins in a minor key but ends in a bright major one.",
+        "She sang the song in a lower key because the high notes strained her voice."
+      ],
+      "branchCoverage": [
+        "any of 24 major or minor diatonic scales that provide the tonal framework for a piece of music -> any of the 24 major or minor musical scales, using the standard whole-and-half-step pattern, that give a piece its tonal base"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key%1:20:00:: -> a winged one-seed fruit, as of the ash tree; key%1:06:01:: -> a lever on a keyboard that works a mechanism; key%1:10:00:: -> any of the 24 major or minor musical scales; key%1:10:01:: -> a device whose possession gives access or control; key%1:06:02:: -> a device used to wind another device; key%1:10:02:: -> a list explaining symbols or abbreviations; key%1:17:00:: -> a coral reef off southern Florida",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "key%1:10:01::",
+      "lemma": "key",
+      "pos": "n",
+      "definition": "a generic term for any device whose possession entitles the holder to a means of access",
+      "sourceBranches": [
+        "a generic term for any device whose possession entitles the holder to a means of access"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A general word for any object that, when held, entitles the holder to a way in or a means of reaching something.",
+      "scope": "This is a broad label for objects that grant access, not a lever you press or a musical scale.",
+      "examples": [
+        "Staff carry a key in the form of a badge that opens every door in the lab.",
+        "The rental company gives you a key to the boat: an electronic fob that unlocks the cabin door."
+      ],
+      "branchCoverage": [
+        "a generic term for any device whose possession entitles the holder to a means of access -> A general word for any object that, when held, entitles the holder to a way in or a means of reaching something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key%1:20:00:: -> a winged one-seed fruit, as of the ash tree; key%1:06:01:: -> a lever on a keyboard that works a mechanism; key%1:10:00:: -> any of the 24 major or minor musical scales; key%1:10:01:: -> a device whose possession gives access or control; key%1:06:02:: -> a device used to wind another device; key%1:10:02:: -> a list explaining symbols or abbreviations; key%1:17:00:: -> a coral reef off southern Florida",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Use 'holder' not 'owner'; a renter can hold a key. Keep 'entitles', since access is a right."
+    },
+    {
+      "senseId": "key%1:06:02::",
+      "lemma": "key",
+      "pos": "n",
+      "definition": "mechanical device used to wind another device that is driven by a spring (as a clock)",
+      "sourceBranches": [
+        "mechanical device used to wind another device that is driven by a spring (as a clock)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A mechanical tool for winding the spring of a clock or other spring-driven device so it keeps running.",
+      "scope": "This is a tool for tightening a spring, not a button you press or a device that grants access.",
+      "examples": [
+        "He lost the little key that winds the grandfather clock.",
+        "She turned the key in the toy robot's back until the spring was tight."
+      ],
+      "branchCoverage": [
+        "mechanical device used to wind another device that is driven by a spring (as a clock) -> A mechanical tool for winding the spring of a clock or other spring-driven device so it keeps running"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key%1:20:00:: -> a winged one-seed fruit, as of the ash tree; key%1:06:01:: -> a lever on a keyboard that works a mechanism; key%1:10:00:: -> any of the 24 major or minor musical scales; key%1:10:01:: -> a device whose possession gives access or control; key%1:06:02:: -> a device used to wind another device; key%1:10:02:: -> a list explaining symbols or abbreviations; key%1:17:00:: -> a coral reef off southern Florida",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'small'; tower-clock winding keys can be large. Say 'winding' or 'tightening the spring', not 'turning the spring'."
+    },
+    {
+      "senseId": "key%1:10:02::",
+      "lemma": "key",
+      "pos": "n",
+      "definition": "a list of words or phrases that explain symbols or abbreviations",
+      "sourceBranches": [
+        "a list of words or phrases that explain symbols or abbreviations"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A list that explains what symbols or abbreviations mean.",
+      "scope": "This is an explanatory list, not a musical scale or a device that opens something.",
+      "examples": [
+        "The map's key shows that a red dot marks a hospital.",
+        "Check the key at the bottom of the chart to see what each abbreviation stands for."
+      ],
+      "branchCoverage": [
+        "a list of words or phrases that explain symbols or abbreviations -> A list that explains what symbols or abbreviations mean"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key%1:20:00:: -> a winged one-seed fruit, as of the ash tree; key%1:06:01:: -> a lever on a keyboard that works a mechanism; key%1:10:00:: -> any of the 24 major or minor musical scales; key%1:10:01:: -> a device whose possession gives access or control; key%1:06:02:: -> a device used to wind another device; key%1:10:02:: -> a list explaining symbols or abbreviations; key%1:17:00:: -> a coral reef off southern Florida",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'in a book, chart, or map'; the definition sets no medium, and keys also appear in diagrams and games."
+    },
+    {
+      "senseId": "key%1:17:00::",
+      "lemma": "key",
+      "pos": "n",
+      "definition": "a coral reef off the southern coast of Florida",
+      "sourceBranches": [
+        "a coral reef off the southern coast of Florida"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A reef built by coral, lying in the sea just off the southern coast of Florida in the United States.",
+      "scope": "This is a named coral reef near Florida, not a tree fruit or a musical scale.",
+      "examples": [
+        "The boat anchored near a small key covered in mangroves.",
+        "Fishermen know every key along that stretch of the Florida coast."
+      ],
+      "branchCoverage": [
+        "a coral reef off the southern coast of Florida -> a reef built by coral, lying in the sea just off the southern coast of Florida in the United States"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key%1:20:00:: -> a winged one-seed fruit, as of the ash tree; key%1:06:01:: -> a lever on a keyboard that works a mechanism; key%1:10:00:: -> any of the 24 major or minor musical scales; key%1:10:01:: -> a device whose possession gives access or control; key%1:06:02:: -> a device used to wind another device; key%1:10:02:: -> a list explaining symbols or abbreviations; key%1:17:00:: -> a coral reef off southern Florida",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "page%1:18:01::",
+      "lemma": "page",
+      "pos": "n",
+      "definition": "in medieval times a youth acting as a knight's attendant as the first stage in training for knighthood",
+      "sourceBranches": [
+        "in medieval times a youth acting as a knight's attendant as the first stage in training for knighthood"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In the Middle Ages, a young person who served a knight and trained in this way as the first step toward knighthood.",
+      "scope": "This is a young attendant in medieval knight training, not a sheet of a book or a servant in a modern hotel.",
+      "examples": [
+        "As a page, the boy carried his lord's shield and learned to ride.",
+        "The castle kept several pages who hoped one day to be dubbed knights."
+      ],
+      "branchCoverage": [
+        "in medieval times a youth acting as a knight's attendant as the first stage in training for knighthood -> in the Middle Ages, a young person who served a knight and trained in this way as the first step toward knighthood"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "range%1:06:00::",
+      "lemma": "range",
+      "pos": "n",
+      "definition": "a place for shooting (firing or driving) projectiles of various kinds",
+      "sourceBranches": [
+        "a place for shooting (firing or driving) projectiles of various kinds"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A place set aside for firing weapons or driving objects through the air, such as bullets, arrows, or golf balls.",
+      "scope": "This is a place for shooting or driving objects, not a set of different amounts or a kitchen stove.",
+      "examples": [
+        "The soldiers spent the morning at the rifle range.",
+        "He practises his swing at the driving range every Saturday."
+      ],
+      "branchCoverage": [
+        "a place for shooting (firing or driving) projectiles of various kinds -> a place set aside for firing weapons or driving objects through the air, such as bullets, arrows, or golf balls"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "range%1:06:00:: -> a place for shooting projectiles; range%1:06:01:: -> a kitchen appliance for cooking; range%2:31:00:: -> assign a rank or rating to; range%2:35:00:: -> lay things out in a line; range%2:42:00:: -> extend over an area",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "range%1:06:01::",
+      "lemma": "range",
+      "pos": "n",
+      "definition": "a kitchen appliance used for cooking food",
+      "sourceBranches": [
+        "a kitchen appliance used for cooking food"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a kitchen appliance used to cook food",
+      "scope": "Not a place for firing guns, and not the distance over which something can reach.",
+      "examples": [
+        "She left the soup on the range while she set the table.",
+        "The new range has six burners and a wide oven."
+      ],
+      "branchCoverage": [
+        "a kitchen appliance used for cooking food -> a kitchen appliance used to cook food"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "range%1:06:00:: -> a place for shooting projectiles; range%1:06:01:: -> a kitchen appliance for cooking; range%2:31:00:: -> assign a rank or rating to; range%2:35:00:: -> lay things out in a line; range%2:42:00:: -> extend over an area",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'large': the definition says only 'a kitchen appliance used for cooking food'; 'large' adds a size restriction."
+    },
+    {
+      "senseId": "range%2:31:00::",
+      "lemma": "range",
+      "pos": "v",
+      "definition": "assign a rank or rating to",
+      "sourceBranches": [
+        "assign a rank or rating to"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to give someone or something a place on a scale or a score",
+      "scope": "Not to stretch across an area, and not to lay things out in a row.",
+      "examples": [
+        "The judges ranged the entries from first to last.",
+        "Critics ranged the film among the year's best."
+      ],
+      "branchCoverage": [
+        "assign a rank or rating to -> to give someone or something a place on a scale or a score"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "range%1:06:00:: -> a place for shooting projectiles; range%1:06:01:: -> a kitchen appliance for cooking; range%2:31:00:: -> assign a rank or rating to; range%2:35:00:: -> lay things out in a line; range%2:42:00:: -> extend over an area",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 ('ranges hotels by price') is unidiomatic and shows sorting, not rating. Use 'Critics ranged the film among the year's best.'"
+    },
+    {
+      "senseId": "range%2:35:00::",
+      "lemma": "range",
+      "pos": "v",
+      "definition": "lay out orderly or logically in a line or as if in a line",
+      "sourceBranches": [
+        "lay out orderly or logically in a line or as if in a line"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to place things in a neat row or clear order, or set them out as if in a row",
+      "scope": "Not to cover an area, and not to give something a score or level.",
+      "examples": [
+        "She ranged the bottles in neat rows along the bar.",
+        "The cards were ranged by suit before the game began."
+      ],
+      "branchCoverage": [
+        "lay out orderly or logically in a line or as if in a line -> to place things in a neat row or clear order, or set them out as if in a row"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "range%1:06:00:: -> a place for shooting projectiles; range%1:06:01:: -> a kitchen appliance for cooking; range%2:31:00:: -> assign a rank or rating to; range%2:35:00:: -> lay things out in a line; range%2:42:00:: -> extend over an area",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "range%2:42:00::",
+      "lemma": "range",
+      "pos": "v",
+      "definition": "range or extend over; occupy a certain area",
+      "sourceBranches": [
+        "range or extend over",
+        "occupy a certain area"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to stretch across an area or cover a certain stretch of land or space",
+      "scope": "Not to put objects in a row, and not to give a rating.",
+      "examples": [
+        "The species ranges over the whole continent.",
+        "These birds range across the whole valley in summer."
+      ],
+      "branchCoverage": [
+        "range or extend over -> to stretch across an area",
+        "occupy a certain area -> cover a certain stretch of land or space"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "range%1:06:00:: -> a place for shooting projectiles; range%1:06:01:: -> a kitchen appliance for cooking; range%2:31:00:: -> assign a rank or rating to; range%2:35:00:: -> lay things out in a line; range%2:42:00:: -> extend over an area",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 ('ranch ranges over') is unidiomatic and example 2 reads as roaming. Use a species subject: 'The species ranges over the whole continent.'"
+    },
+    {
+      "senseId": "review%1:10:02::",
+      "lemma": "review",
+      "pos": "n",
+      "definition": "a variety show with topical sketches and songs and dancing and comedians",
+      "sourceBranches": [
+        "a variety show with topical sketches and songs and dancing and comedians"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a stage show made of short funny scenes about recent events, plus songs, dancing, and comedy acts",
+      "scope": "Not a magazine of critical essays, and not a summary at the end of a talk.",
+      "examples": [
+        "The troupe staged a review that made fun of the year's politics.",
+        "We stayed for a song-and-dance review at the seaside theater."
+      ],
+      "branchCoverage": [
+        "a variety show with topical sketches and songs and dancing and comedians -> a stage show made of short funny scenes about recent events, plus songs, dancing, and comedy acts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "review%1:10:02:: -> a variety show with sketches, songs, and dancing; review%1:10:03:: -> a periodical of critical essays on current affairs; review%1:10:00:: -> a summary that repeats the substance of a longer work",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "review%1:10:03::",
+      "lemma": "review",
+      "pos": "n",
+      "definition": "a periodical that publishes critical essays on current affairs or literature or art",
+      "sourceBranches": [
+        "a periodical that publishes critical essays on current affairs or literature or art"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a magazine that prints thoughtful articles judging books, art, or events in the news",
+      "scope": "Not a stage variety show, and not a summary that repeats a longer work.",
+      "examples": [
+        "Her first novel was praised in a leading literary review.",
+        "He reads a monthly review of art and politics."
+      ],
+      "branchCoverage": [
+        "a periodical that publishes critical essays on current affairs or literature or art -> a magazine that prints thoughtful articles judging books, art, or events in the news"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "review%1:10:02:: -> a variety show with sketches, songs, and dancing; review%1:10:03:: -> a periodical of critical essays on current affairs; review%1:10:00:: -> a summary that repeats the substance of a longer work",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "review%1:10:00::",
+      "lemma": "review",
+      "pos": "n",
+      "definition": "a summary at the end that repeats the substance of a longer discussion",
+      "sourceBranches": [
+        "a summary at the end that repeats the substance of a longer discussion"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a short account at the end that goes over the main points of a longer talk or text",
+      "scope": "Not a magazine of critical essays, and not a stage variety show.",
+      "examples": [
+        "At the end of the seminar, the professor gave a brief review of what had been covered.",
+        "The report ends with a short review of the main findings."
+      ],
+      "branchCoverage": [
+        "a summary at the end that repeats the substance of a longer discussion -> a short account at the end that goes over the main points of a longer talk or text"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "review%1:10:02:: -> a variety show with sketches, songs, and dancing; review%1:10:03:: -> a periodical of critical essays on current affairs; review%1:10:00:: -> a summary that repeats the substance of a longer work",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trade%1:19:00::",
+      "lemma": "trade",
+      "pos": "n",
+      "definition": "steady winds blowing from east to west above and below the equator",
+      "sourceBranches": [
+        "steady winds blowing from east to west above and below the equator"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "steady winds that blow from east to west just north and south of the equator",
+      "scope": "Not the buying and selling of goods.",
+      "examples": [
+        "Early sailors used the trade winds to carry them west across the Atlantic.",
+        "The trades blow steadily from the east near the equator."
+      ],
+      "branchCoverage": [
+        "steady winds blowing from east to west above and below the equator -> steady winds that blow from east to west just north and south of the equator"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'strong': the definition says only steady winds; trade winds are not necessarily strong."
+    },
+    {
+      "senseId": "attention%1:04:02::",
+      "lemma": "attention",
+      "pos": "n",
+      "definition": "a courteous act indicating affection",
+      "sourceBranches": [
+        "a courteous act indicating affection"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a polite act that shows fondness or care for someone",
+      "scope": "Not the act of watching or listening closely, and not care given to a problem.",
+      "examples": [
+        "He brought her flowers and other small attentions.",
+        "The young man's attentions flattered her."
+      ],
+      "branchCoverage": [
+        "a courteous act indicating affection -> a polite act that shows fondness or care for someone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "character%1:10:01::",
+      "lemma": "character",
+      "pos": "n",
+      "definition": "a formal recommendation by a former employer to a potential future employer describing the person's qualifications and dependability",
+      "sourceBranches": [
+        "a formal recommendation by a former employer to a potential future employer describing the person's qualifications and dependability"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a formal recommendation from a past employer to a possible new one, describing the worker's qualifications and how reliable they are",
+      "scope": "Not a person in a story, and not the qualities that make up someone's nature.",
+      "examples": [
+        "The landlord asked for a character reference before signing the lease.",
+        "Her former boss provided a character reference for the new job."
+      ],
+      "branchCoverage": [
+        "a formal recommendation by a former employer to a potential future employer describing the person's qualifications and dependability -> a formal recommendation from a past employer to a possible new one, describing the worker's qualifications and how reliable they are"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Use 'formal recommendation' and 'qualifications': 'statement' drops the endorsement, and 'written' and 'skills' narrow the definition."
+    },
+    {
+      "senseId": "cup%1:06:01::",
+      "lemma": "cup",
+      "pos": "n",
+      "definition": "a large metal vessel with two handles that is awarded as a trophy to the winner of a competition",
+      "sourceBranches": [
+        "a large metal vessel with two handles that is awarded as a trophy to the winner of a competition"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a big metal container with two handles, given as a prize to the person or team that wins a contest",
+      "scope": "Not a small vessel for drinking, and not a unit of measure for cooking.",
+      "examples": [
+        "She raised the cup above her head as the crowd cheered.",
+        "Our team has won the cup three years running."
+      ],
+      "branchCoverage": [
+        "a large metal vessel with two handles that is awarded as a trophy to the winner of a competition -> a big metal container with two handles, given as a prize to the person or team that wins a contest"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cup%1:06:01:: -> a large metal vessel with two handles given as a prize; cup%1:13:00:: -> a punch served from a pitcher; cup%1:23:02:: -> a US liquid unit of 8 fluid ounces",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cup%1:13:00::",
+      "lemma": "cup",
+      "pos": "n",
+      "definition": "a punch served in a pitcher instead of a punch bowl",
+      "sourceBranches": [
+        "a punch served in a pitcher instead of a punch bowl"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a punch served from a jug rather than a wide bowl",
+      "scope": "Not a drinking vessel, and not the prize given to a winner.",
+      "examples": [
+        "For the picnic he mixed a claret cup and chilled it in a jug.",
+        "They served a summer cup from a tall jug at the garden party."
+      ],
+      "branchCoverage": [
+        "a punch served in a pitcher instead of a punch bowl -> a punch served from a jug rather than a wide bowl"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cup%1:06:01:: -> a large metal vessel with two handles given as a prize; cup%1:13:00:: -> a punch served from a pitcher; cup%1:23:02:: -> a US liquid unit of 8 fluid ounces",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'fruit' and 'tall': punch need not be fruity, a pitcher need not be tall. Say 'a punch served from a jug, not a bowl.'"
+    },
+    {
+      "senseId": "cup%1:23:02::",
+      "lemma": "cup",
+      "pos": "n",
+      "definition": "a United States liquid unit equal to 8 fluid ounces",
+      "sourceBranches": [
+        "a United States liquid unit equal to 8 fluid ounces"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a unit of liquid volume used in the United States, equal to eight fluid ounces",
+      "scope": "This is the unit of volume, not the drinking vessel, the prize trophy, or the punch served in a pitcher.",
+      "examples": [
+        "The recipe calls for two cups of flour.",
+        "Nutrition labels in the US list serving sizes in cups."
+      ],
+      "branchCoverage": [
+        "a United States liquid unit equal to 8 fluid ounces -> a unit of liquid volume used in the United States, equal to eight fluid ounces"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cup%1:06:01:: -> a large metal vessel with two handles given as a prize; cup%1:13:00:: -> a punch served from a pitcher; cup%1:23:02:: -> a US liquid unit of 8 fluid ounces",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "natural%5:00:00:unprocessed:00",
+      "lemma": "natural",
+      "pos": "a",
+      "definition": "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes",
+      "sourceBranches": [
+        "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "used especially of goods sold as raw materials: not processed, or produced using only simple or very few steps",
+      "scope": "This describes raw goods that are untreated or only lightly worked, not a person's inborn talent and not behaviour that comes from instinct.",
+      "examples": [
+        "The shop sells natural honey straight from the hive, with nothing added.",
+        "Buyers pay a premium for natural rubber that is tapped and dried but not chemically treated."
+      ],
+      "branchCoverage": [
+        "(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes -> used especially of goods sold as raw materials: not processed, or produced using only simple or very few steps"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "natural%5:00:00:unprocessed:00 -> unprocessed and unmanufactured, as a commodity; natural%5:00:00:intelligent:00 -> talented through inherited qualities; natural%5:00:00:spontaneous:00 -> done without thinking, from instinct",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "natural%5:00:00:intelligent:00",
+      "lemma": "natural",
+      "pos": "a",
+      "definition": "being talented through inherited qualities",
+      "sourceBranches": [
+        "being talented through inherited qualities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "having a skill or ability that comes from qualities passed down from parents rather than from training",
+      "scope": "This is about inborn ability in a person, not about raw goods that are unprocessed and not about actions done from instinct.",
+      "examples": [
+        "She is a natural linguist who picks up new languages in months.",
+        "He has a natural gift for spotting a false note in an argument."
+      ],
+      "branchCoverage": [
+        "being talented through inherited qualities -> having a skill or ability that comes from qualities passed down from parents rather than from training"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "natural%5:00:00:unprocessed:00 -> unprocessed and unmanufactured, as a commodity; natural%5:00:00:intelligent:00 -> talented through inherited qualities; natural%5:00:00:spontaneous:00 -> done without thinking, from instinct",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "natural%5:00:00:spontaneous:00",
+      "lemma": "natural",
+      "pos": "a",
+      "definition": "unthinking; prompted by (or as if by) instinct",
+      "sourceBranches": [
+        "unthinking",
+        "prompted by (or as if by) instinct"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "done without stopping to think, driven by instinct or by something that works like instinct",
+      "scope": "This describes behaviour that comes without thought, not raw goods that are unprocessed and not a person's inborn talent.",
+      "examples": [
+        "Catching the falling glass was a natural reflex; her hand moved before she had time to think.",
+        "Digging is natural to a terrier, and no one has to teach it."
+      ],
+      "branchCoverage": [
+        "unthinking -> done without stopping to think",
+        "prompted by (or as if by) instinct -> driven by instinct or by something that works like instinct"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "natural%5:00:00:unprocessed:00 -> unprocessed and unmanufactured, as a commodity; natural%5:00:00:intelligent:00 -> talented through inherited qualities; natural%5:00:00:spontaneous:00 -> done without thinking, from instinct",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "property%1:09:00::",
+      "lemma": "property",
+      "pos": "n",
+      "definition": "a construct whereby objects or individuals can be distinguished",
+      "sourceBranches": [
+        "a construct whereby objects or individuals can be distinguished"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an abstract idea, such as a quality that a thing or person has, by which it can be told apart from others",
+      "scope": "This is the abstract feature used to tell one thing from another, not land or buildings that someone owns, and not the things someone possesses.",
+      "examples": [
+        "In the model, colour and weight are treated as separate properties of each object.",
+        "The database lets you sort records by any property you choose, such as size or date."
+      ],
+      "branchCoverage": [
+        "a construct whereby objects or individuals can be distinguished -> an abstract idea, such as a quality that a thing or person has, by which it can be told apart from others"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "send%2:40:00::",
+      "lemma": "send",
+      "pos": "v",
+      "definition": "cause to be admitted; of persons to an institution",
+      "sourceBranches": [
+        "cause to be admitted",
+        "of persons to an institution"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to cause a person to be taken in and kept at an institution such as a hospital, prison or care home",
+      "scope": "This is about placing a person in an institution, not about posting a letter or passing on a message.",
+      "examples": [
+        "The court sent him to a secure mental hospital for treatment.",
+        "Social services sent the boy to a residential school for children with special needs."
+      ],
+      "branchCoverage": [
+        "cause to be admitted -> to cause a person to be taken in and kept",
+        "of persons to an institution -> a person ... at an institution such as a hospital, prison or care home"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "style%1:10:01::",
+      "lemma": "style",
+      "pos": "n",
+      "definition": "editorial directions to be followed in spelling and punctuation and capitalization and typographical display",
+      "sourceBranches": [
+        "editorial directions to be followed in spelling and punctuation and capitalization and typographical display"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a set of rules from an editor telling writers how to spell, punctuate, capitalize and lay out text for printing",
+      "scope": "These are publishing rules for how text is written and printed, not a writer's personal way of expressing things, not a pointed writing tool, and not a narrow growth on a plant.",
+      "examples": [
+        "The journal's house style requires UK spelling and one space after a full stop.",
+        "Follow the company style guide when you lay out the annual report."
+      ],
+      "branchCoverage": [
+        "editorial directions to be followed in spelling and punctuation and capitalization and typographical display -> a set of rules from an editor telling writers how to spell, punctuate, capitalize and lay out text for printing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "style%1:10:01:: -> editorial rules for spelling and punctuation; style%1:06:00:: -> a pointed tool for writing or engraving; style%1:05:00:: -> a slender bristle-like or tube-like growth; style%1:07:01:: -> distinctive elegance in appearance or manner",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "style%1:06:00::",
+      "lemma": "style",
+      "pos": "n",
+      "definition": "a pointed tool for writing or drawing or engraving",
+      "sourceBranches": [
+        "a pointed tool for writing or drawing or engraving"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a sharp-pointed instrument used to write, draw, or cut designs into a surface",
+      "scope": "This is the pointed tool, not the rules for spelling and printing, not a narrow growth on a plant or animal, and not elegance of appearance.",
+      "examples": [
+        "Roman schoolchildren used a style to scratch letters into wax tablets.",
+        "The engraver pressed the style into the copper plate to cut the design."
+      ],
+      "branchCoverage": [
+        "a pointed tool for writing or drawing or engraving -> a sharp-pointed instrument used to write, draw, or cut designs into a surface"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "style%1:10:01:: -> editorial rules for spelling and punctuation; style%1:06:00:: -> a pointed tool for writing or engraving; style%1:05:00:: -> a slender bristle-like or tube-like growth; style%1:07:01:: -> distinctive elegance in appearance or manner",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "style%1:05:00::",
+      "lemma": "style",
+      "pos": "n",
+      "definition": "a slender bristlelike or tubular process",
+      "sourceBranches": [
+        "a slender bristlelike or tubular process"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thin, bristle-like or tube-shaped growth sticking out from a plant or animal",
+      "scope": "This is a narrow growth on a living thing, not a pointed writing tool, not printing rules, and not elegance of appearance.",
+      "examples": [
+        "The flower's style is a slender tube linking the stigma to the ovary.",
+        "Under the lens, the bristle-like styles on the insect's leg were easy to see."
+      ],
+      "branchCoverage": [
+        "a slender bristlelike or tubular process -> a thin, bristle-like or tube-shaped growth sticking out from a plant or animal"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "style%1:10:01:: -> editorial rules for spelling and punctuation; style%1:06:00:: -> a pointed tool for writing or engraving; style%1:05:00:: -> a slender bristle-like or tube-like growth; style%1:07:01:: -> distinctive elegance in appearance or manner",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "style%1:07:01::",
+      "lemma": "style",
+      "pos": "n",
+      "definition": "distinctive and stylish elegance",
+      "sourceBranches": [
+        "distinctive and stylish elegance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a striking, fashionable grace in appearance or manner",
+      "scope": "This is grace of appearance or manner, not a pointed tool, not a narrow growth on a plant or animal, and not rules for spelling and printing.",
+      "examples": [
+        "She dresses with real style, even on ordinary weekdays.",
+        "The hotel lobby has a quiet style that makes guests feel pampered."
+      ],
+      "branchCoverage": [
+        "distinctive and stylish elegance -> a striking, fashionable grace in appearance or manner"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "style%1:10:01:: -> editorial rules for spelling and punctuation; style%1:06:00:: -> a pointed tool for writing or engraving; style%1:05:00:: -> a slender bristle-like or tube-like growth; style%1:07:01:: -> distinctive elegance in appearance or manner",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss limits style to 'someone', but the lobby example applies it to a place. Say 'grace in appearance or manner'."
+    },
+    {
+      "senseId": "complete%5:00:00:unmitigated:00",
+      "lemma": "complete",
+      "pos": "a",
+      "definition": "without qualification; used informally as (often pejorative) intensifiers",
+      "sourceBranches": [
+        "without qualification",
+        "used informally as (often pejorative) intensifiers"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "used in casual speech to strengthen a word, meaning total and without any limit, often showing disapproval",
+      "scope": "This is the strengthening use before a noun, not the sense of having every part or being finished.",
+      "examples": [
+        "He made a complete fool of himself at the party.",
+        "Their explanation was complete rubbish, and nobody believed it."
+      ],
+      "branchCoverage": [
+        "without qualification -> total and without any limit",
+        "used informally as (often pejorative) intensifiers -> used in casual speech to strengthen a word ... often showing disapproval"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dog%1:13:01::",
+      "lemma": "dog",
+      "pos": "n",
+      "definition": "a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll",
+      "sourceBranches": [
+        "a smooth-textured sausage of minced beef or pork usually smoked",
+        "often served on a bread roll"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a smooth sausage made of finely chopped beef or pork, usually smoked, and often served in a bread roll",
+      "scope": "This is the sausage served in a roll, not the four-legged animal kept as a pet.",
+      "examples": [
+        "He bought a hot dog and a drink at the ballpark.",
+        "The diner serves chili dogs with onions and cheese."
+      ],
+      "branchCoverage": [
+        "a smooth-textured sausage of minced beef or pork usually smoked -> a smooth sausage made of finely chopped beef or pork, usually smoked",
+        "often served on a bread roll -> often served in a bread roll"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

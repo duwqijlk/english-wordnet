@@ -1,0 +1,1021 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 36,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1750,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "proud%3:00:00::",
+      "lemma": "proud",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride",
+      "synsetId": "01895355-a",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1598,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "feeling self-respect or pleasure in something by which you measure your self-worth",
+        "or being a reason for pride"
+      ]
+    },
+    {
+      "senseId": "proud%5:00:00:impressive:00",
+      "lemma": "proud",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having or displaying great dignity or nobility",
+      "synsetId": "01288228-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1598,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having or displaying great dignity or nobility"
+      ]
+    },
+    {
+      "senseId": "require%2:42:00::",
+      "lemma": "require",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "require as useful, just, or proper",
+      "synsetId": "02634015-v",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1599,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "require as useful, just, or proper"
+      ]
+    },
+    {
+      "senseId": "van%1:06:02::",
+      "lemma": "van",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(Great Britain) a closed railroad car that carries baggage or freight",
+      "synsetId": "04527775-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1605,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(Great Britain) a closed railroad car that carries baggage or freight"
+      ]
+    },
+    {
+      "senseId": "van%1:14:01::",
+      "lemma": "van",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)",
+      "synsetId": "08482569-n",
+      "words": 22,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1605,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)"
+      ]
+    },
+    {
+      "senseId": "wood%1:27:00::",
+      "lemma": "wood",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the hard fibrous lignified substance under the bark of trees",
+      "synsetId": "15122728-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1606,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the hard fibrous lignified substance under the bark of trees"
+      ]
+    },
+    {
+      "senseId": "wood%1:06:01::",
+      "lemma": "wood",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "any wind instrument other than the brass instruments",
+      "synsetId": "04605909-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1606,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any wind instrument other than the brass instruments"
+      ]
+    },
+    {
+      "senseId": "birth%1:22:00::",
+      "lemma": "birth",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the process of giving birth",
+      "synsetId": "13554089-n",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1608,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the process of giving birth"
+      ]
+    },
+    {
+      "senseId": "bridge%1:06:05::",
+      "lemma": "bridge",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+      "synsetId": "02903091-n",
+      "words": 18,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1609,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected"
+      ]
+    },
+    {
+      "senseId": "bridge%1:06:00::",
+      "lemma": "bridge",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+      "synsetId": "02901994-n",
+      "words": 20,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1609,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc"
+      ]
+    },
+    {
+      "senseId": "bridge%1:24:00::",
+      "lemma": "bridge",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "something resembling a bridge in form or function",
+      "synsetId": "13815542-n",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1609,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something resembling a bridge in form or function"
+      ]
+    },
+    {
+      "senseId": "bridge%2:35:00::",
+      "lemma": "bridge",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "make a bridge across",
+      "synsetId": "01298910-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1609,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make a bridge across"
+      ]
+    },
+    {
+      "senseId": "bridge%2:38:00::",
+      "lemma": "bridge",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "cross over on a bridge",
+      "synsetId": "01919124-v",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1609,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cross over on a bridge"
+      ]
+    },
+    {
+      "senseId": "completed%5:00:00:consummated:00",
+      "lemma": "completed",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(of a marriage) completed by the first act of sexual intercourse after the ceremony",
+      "synsetId": "00554170-s",
+      "words": 14,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1612,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of a marriage) completed by the first act of sexual intercourse after the ceremony"
+      ]
+    },
+    {
+      "senseId": "completed%5:00:00:complete:00",
+      "lemma": "completed",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "successfully completed or brought to an end",
+      "synsetId": "00523272-s",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1612,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "successfully completed or brought to an end"
+      ]
+    },
+    {
+      "senseId": "concept%1:09:00::",
+      "lemma": "concept",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an abstract or general idea inferred or derived from specific instances",
+      "synsetId": "05844071-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1613,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an abstract or general idea inferred or derived from specific instances"
+      ]
+    },
+    {
+      "senseId": "copy%1:10:01::",
+      "lemma": "copy",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "matter to be printed; exclusive of graphical materials",
+      "synsetId": "06402155-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1614,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "matter to be printed",
+        "exclusive of graphical materials"
+      ]
+    },
+    {
+      "senseId": "dear%1:18:01::",
+      "lemma": "dear",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a sweet innocent mild-mannered person (especially a child)",
+      "synsetId": "10263569-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1615,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sweet innocent mild-mannered person (especially a child)"
+      ]
+    },
+    {
+      "senseId": "garden%1:14:00::",
+      "lemma": "garden",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+      "synsetId": "08456800-n",
+      "words": 14,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1619,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden"
+      ]
+    },
+    {
+      "senseId": "garden%1:06:01::",
+      "lemma": "garden",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a yard or lawn adjoining a house",
+      "synsetId": "03422659-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1619,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a yard or lawn adjoining a house"
+      ]
+    },
+    {
+      "senseId": "host%1:05:00::",
+      "lemma": "host",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association",
+      "synsetId": "01388168-n",
+      "words": 21,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1620,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an animal or plant that nourishes and supports a parasite",
+        "it does not benefit and is often harmed by the association"
+      ]
+    },
+    {
+      "senseId": "host%1:18:02::",
+      "lemma": "host",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there",
+      "synsetId": "10206749-n",
+      "words": 29,
+      "rare": 2,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1620,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there"
+      ]
+    },
+    {
+      "senseId": "housing%1:06:02::",
+      "lemma": "housing",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "stable gear consisting of a decorated covering for a horse, especially (formerly) for a warhorse",
+      "synsetId": "02958976-n",
+      "words": 15,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1621,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "stable gear consisting of a decorated covering for a horse, especially (formerly) for a warhorse"
+      ]
+    },
+    {
+      "senseId": "housing%1:06:01::",
+      "lemma": "housing",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a protective cover designed to contain or support a mechanical component",
+      "synsetId": "03551946-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1621,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a protective cover designed to contain or support a mechanical component"
+      ]
+    },
+    {
+      "senseId": "housing%1:06:00::",
+      "lemma": "housing",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "structures collectively in which people are housed",
+      "synsetId": "03551520-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1621,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "structures collectively in which people are housed"
+      ]
+    },
+    {
+      "senseId": "journal%1:21:00::",
+      "lemma": "journal",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a ledger in which transactions have been recorded as they occurred",
+      "synsetId": "13426339-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1622,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a ledger in which transactions have been recorded as they occurred"
+      ]
+    },
+    {
+      "senseId": "labor%1:26:00::",
+      "lemma": "labor",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "concluding state of pregnancy; from the onset of contractions to the birth of a child",
+      "synsetId": "14071923-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1623,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "concluding state of pregnancy",
+        "from the onset of contractions to the birth of a child"
+      ]
+    },
+    {
+      "senseId": "labor%1:14:00::",
+      "lemma": "labor",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a social class comprising those who do manual labor or work for wages",
+      "synsetId": "08197557-n",
+      "words": 13,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1623,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a social class comprising those who do manual labor or work for wages"
+      ]
+    },
+    {
+      "senseId": "leadership%1:26:00::",
+      "lemma": "leadership",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the status of a leader",
+      "synsetId": "14456827-n",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1624,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the status of a leader"
+      ]
+    },
+    {
+      "senseId": "length%1:07:00::",
+      "lemma": "length",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the linear extent in space from one end to the other; the longest dimension of something that is fixed in place",
+      "synsetId": "05136466-n",
+      "words": 21,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1625,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the linear extent in space from one end to the other",
+        "the longest dimension of something that is fixed in place"
+      ]
+    },
+    {
+      "senseId": "neither%5:00:00:incomplete:00",
+      "lemma": "neither",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "not either; not one or the other; entity, dual, negative pronoun; quantifier, dual, negative",
+      "synsetId": "00526784-s",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1627,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not either",
+        "not one or the other",
+        "entity, dual, negative pronoun",
+        "quantifier, dual, negative"
+      ]
+    },
+    {
+      "senseId": "patient%1:10:00::",
+      "lemma": "patient",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause",
+      "synsetId": "06343129-n",
+      "words": 28,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1629,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause"
+      ]
+    },
+    {
+      "senseId": "patient%3:00:00::",
+      "lemma": "patient",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "enduring trying circumstances with even temper or characterized by such endurance",
+      "synsetId": "01739985-a",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1629,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "enduring trying circumstances with even temper or characterized by such endurance"
+      ]
+    },
+    {
+      "senseId": "possibly%4:02:01::",
+      "lemma": "possibly",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "to a degree possible of achievement or by possible means",
+      "synsetId": "00301868-r",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1630,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "to a degree possible of achievement or by possible means"
+      ]
+    },
+    {
+      "senseId": "prove%2:31:00::",
+      "lemma": "prove",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "establish the validity of something, as by an example, explanation or experiment",
+      "synsetId": "00666706-v",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1631,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "establish the validity of something, as by an example, explanation or experiment"
+      ]
+    },
+    {
+      "senseId": "rare%5:00:00:uncommon:00",
+      "lemma": "rare",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "not widely known; especially valued for its uncommonness",
+      "synsetId": "00490548-s",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1632,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not widely known",
+        "especially valued for its uncommonness"
+      ]
+    },
+    {
+      "senseId": "setting%1:06:01::",
+      "lemma": "setting",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "arrangement of scenery and properties to represent the place where a play or movie is enacted",
+      "synsetId": "03778801-n",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1633,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "arrangement of scenery and properties to represent the place where a play or movie is enacted"
+      ]
+    },
+    {
+      "senseId": "tough%1:18:02::",
+      "lemma": "tough",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "someone who learned to fight in the streets rather than being formally trained in the sport of boxing",
+      "synsetId": "10682088-n",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1636,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "someone who learned to fight in the streets rather than being formally trained in the sport of boxing"
+      ]
+    },
+    {
+      "senseId": "tough%5:00:01:difficult:00",
+      "lemma": "tough",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "very difficult; severely testing stamina or resolution",
+      "synsetId": "00751671-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1636,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "very difficult",
+        "severely testing stamina or resolution"
+      ]
+    },
+    {
+      "senseId": "tough%3:00:02::",
+      "lemma": "tough",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "physically toughened",
+      "synsetId": "02456417-a",
+      "words": 2,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1636,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "physically toughened"
+      ]
+    },
+    {
+      "senseId": "balance%1:07:00::",
+      "lemma": "balance",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "harmonious arrangement or relation of parts or elements within a whole (as in a design)",
+      "synsetId": "05083996-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1640,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "harmonious arrangement or relation of parts or elements within a whole (as in a design)"
+      ]
+    },
+    {
+      "senseId": "balance%1:21:00::",
+      "lemma": "balance",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "equality between the totals of the credit and debit sides of an account",
+      "synsetId": "13430153-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1640,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "equality between the totals of the credit and debit sides of an account"
+      ]
+    },
+    {
+      "senseId": "balance%2:40:00::",
+      "lemma": "balance",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "compute credits and debits of an account",
+      "synsetId": "02269775-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1640,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "compute credits and debits of an account"
+      ]
+    },
+    {
+      "senseId": "balance%2:42:00::",
+      "lemma": "balance",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "bring into balance or equilibrium",
+      "synsetId": "02678923-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1640,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "bring into balance or equilibrium"
+      ]
+    },
+    {
+      "senseId": "cards%1:04:00::",
+      "lemma": "cards",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a game played with playing cards",
+      "synsetId": "00489236-n",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1643,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a game played with playing cards"
+      ]
+    },
+    {
+      "senseId": "changing%5:00:00:dynamic:00",
+      "lemma": "changing",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "marked by continuous change or effective action",
+      "synsetId": "00812391-s",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1644,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by continuous change or effective action"
+      ]
+    },
+    {
+      "senseId": "connection%1:24:00::",
+      "lemma": "connection",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a relation between things or events (as in the case of one causing the other or sharing features with it)",
+      "synsetId": "13813601-n",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1645,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a relation between things or events (as in the case of one causing the other or sharing features with it)"
+      ]
+    },
+    {
+      "senseId": "connection%1:06:00::",
+      "lemma": "connection",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an instrumentality that connects",
+      "synsetId": "03095830-n",
+      "words": 4,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1645,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an instrumentality that connects"
+      ]
+    },
+    {
+      "senseId": "connection%1:26:00::",
+      "lemma": "connection",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the state of being connected",
+      "synsetId": "14442568-n",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1645,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the state of being connected"
+      ]
+    },
+    {
+      "senseId": "dress%1:06:00::",
+      "lemma": "dress",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a one-piece garment for a woman; has skirt and bodice",
+      "synsetId": "03241438-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1646,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a one-piece garment for a woman",
+        "has skirt and bodice"
+      ]
+    }
+  ]
+}

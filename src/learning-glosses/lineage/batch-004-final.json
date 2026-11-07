@@ -1,0 +1,1125 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 4,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 30,
+      "of": 50,
+      "rate": 0.6
+    },
+    "thirdPass": {
+      "approved": 2,
+      "of": 3
+    },
+    "fourthPass": {
+      "approved": 1,
+      "of": 1
+    },
+    "secondPass": {
+      "approved": 15,
+      "of": 19
+    },
+    "scope": "priority 0-1, general vocabulary only",
+    "lineage": {
+      "draft": "5b8a79e7e94ad8b6ca98e35ca9b82fb9c23269df695322bf4b14186e1a04a613",
+      "corrections": "63c8a74f95dc3a26bdbb5109661c0c749332c032110c404dc3048e3c8585bea6"
+    },
+    "studentValidated": false,
+    "semanticAcceptance": false
+  },
+  "accepted": [
+    {
+      "senseId": "found%2:41:00::",
+      "lemma": "found",
+      "pos": "v",
+      "definition": "set up or found",
+      "decision": "gloss",
+      "simpleMeaning": "to start an organization such as a school, company, or city",
+      "scope": "The verb meaning establish; not the unrelated verb \"found on\" (to base something).",
+      "examples": [
+        "The school was founded in 1902.",
+        "They founded a small company."
+      ],
+      "branchCoverage": [
+        "set up -> \"start an organization\"",
+        "or found -> \"such as a school, company, or city\""
+      ],
+      "sourceBranches": [
+        "set up or found"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "must%1:07:00::",
+      "lemma": "must",
+      "pos": "n",
+      "definition": "the quality of smelling or tasting old or stale or mouldy",
+      "decision": "gloss",
+      "simpleMeaning": "a smell or taste of something old, stale, or mouldy",
+      "scope": "The noun for the smell or taste; not the modal verb.",
+      "examples": [
+        "The cellar had a must of damp wood.",
+        "She noticed the must of stale bread."
+      ],
+      "branchCoverage": [
+        "quality of smelling or tasting old or stale or mouldy -> \"a smell or taste of something old, stale, or mouldy\""
+      ],
+      "sourceBranches": [
+        "the quality of smelling or tasting old or stale or mouldy"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "must%1:13:00::",
+      "lemma": "must",
+      "pos": "n",
+      "definition": "grape juice before or during fermentation",
+      "decision": "gloss",
+      "simpleMeaning": "grape juice before or while it turns into wine",
+      "scope": "Winemaking only; not the smell sense and not the modal verb.",
+      "examples": [
+        "They pressed the grapes and left the juice to turn into wine.",
+        "The juice was still sweet before it became wine."
+      ],
+      "branchCoverage": [
+        "grape juice -> \"grape juice\"",
+        "before or during fermentation -> \"before or while it turns into wine\""
+      ],
+      "sourceBranches": [
+        "grape juice before or during fermentation"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "show%2:31:00::",
+      "lemma": "show",
+      "pos": "v",
+      "definition": "establish the validity of something, as by an example, explanation or experiment",
+      "decision": "gloss",
+      "simpleMeaning": "to prove that something is true, using an example, explanation, or experiment",
+      "scope": "Proving or demonstrating; not letting someone see something.",
+      "examples": [
+        "The experiment showed that the metal bends.",
+        "These figures show that the plan is too costly."
+      ],
+      "branchCoverage": [
+        "establish the validity of something -> \"prove that something is true\"",
+        "as by an example, explanation, or experiment -> all three named in the meaning"
+      ],
+      "sourceBranches": [
+        "establish the validity of something, as by an example, explanation or experiment"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "big%3:00:01::",
+      "lemma": "big",
+      "pos": "a",
+      "definition": "above average in size or number or quantity or magnitude or extent",
+      "decision": "gloss",
+      "simpleMeaning": "above average in size, number, amount, or degree",
+      "scope": "Physical size and degree; not the sense \"older\" or \"generous\".",
+      "examples": [
+        "They live in a big house.",
+        "There is a big difference between the two plans."
+      ],
+      "branchCoverage": [
+        "above average -> \"above average\"",
+        "in size or number or quantity or magnitude or extent -> \"size, number, amount, or degree\""
+      ],
+      "sourceBranches": [
+        "above average in size or number or quantity or magnitude or extent"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "feel%2:39:00::",
+      "lemma": "feel",
+      "pos": "v",
+      "definition": "perceive by a physical sensation, e.g., coming from the skin or muscles",
+      "decision": "gloss",
+      "simpleMeaning": "to notice something through your skin or body",
+      "scope": "Physical feeling; not believing or thinking something.",
+      "examples": [
+        "I felt a pain in my back.",
+        "She felt the cold wind on her face."
+      ],
+      "branchCoverage": [
+        "perceive by a physical sensation -> \"notice something through your skin or body\"",
+        "coming from the skin or muscles -> \"skin or body\""
+      ],
+      "sourceBranches": [
+        "perceive by a physical sensation, e.g., coming from the skin or muscles"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "feel%2:31:00::",
+      "lemma": "feel",
+      "pos": "v",
+      "definition": "come to believe on the basis of emotion, intuitions, or indefinite grounds",
+      "decision": "gloss",
+      "simpleMeaning": "to think or believe something because of emotion or a sense rather than proof",
+      "scope": "Belief based on emotion or a sense; not physical sensation.",
+      "examples": [
+        "I feel that he is right.",
+        "She felt something was wrong."
+      ],
+      "branchCoverage": [
+        "come to believe -> \"think or believe something\"",
+        "on the basis of emotion, intuitions, or indefinite grounds -> \"because of emotion or a sense rather than proof\""
+      ],
+      "sourceBranches": [
+        "come to believe on the basis of emotion, intuitions, or indefinite grounds"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "sure%3:00:00::",
+      "lemma": "sure",
+      "pos": "a",
+      "definition": "having or feeling no doubt or uncertainty; confident and assured",
+      "decision": "gloss",
+      "simpleMeaning": "having no doubt; certain and confident",
+      "scope": "About a person's confidence; not \"certain to happen\", which is a separate entry.",
+      "examples": [
+        "Are you sure about the date?",
+        "She was sure she had locked the door."
+      ],
+      "branchCoverage": [
+        "having or feeling no doubt or uncertainty -> \"having no doubt\"",
+        "confident and assured -> \"certain and confident\""
+      ],
+      "sourceBranches": [
+        "having or feeling no doubt or uncertainty",
+        "confident and assured"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sure%3:00:04::",
+      "lemma": "sure",
+      "pos": "a",
+      "definition": "certain to occur; destined or inevitable",
+      "decision": "gloss",
+      "simpleMeaning": "certain to happen; unable to be avoided",
+      "scope": "About events; not a person's confidence.",
+      "examples": [
+        "He is sure to win.",
+        "The plan is sure to fail."
+      ],
+      "branchCoverage": [
+        "certain to occur -> \"certain to happen\"",
+        "destined or inevitable -> \"unable to be avoided\""
+      ],
+      "sourceBranches": [
+        "certain to occur",
+        "destined or inevitable"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sure%4:02:00::",
+      "lemma": "sure",
+      "pos": "r",
+      "definition": "definitely or positively (‘sure’ is sometimes used informally for ‘surely’)",
+      "decision": "gloss",
+      "simpleMeaning": "certainly or definitely (informal)",
+      "scope": "Informal, especially in American English; not the adjective.",
+      "examples": [
+        "Sure, I can help.",
+        "That sure is a big fish."
+      ],
+      "branchCoverage": [
+        "definitely or positively -> \"certainly or definitely\"",
+        "sure is sometimes used informally for surely -> \"informal\""
+      ],
+      "sourceBranches": [
+        "definitely or positively (‘sure’ is sometimes used informally for ‘surely’)"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "keep%1:06:00::",
+      "lemma": "keep",
+      "pos": "n",
+      "definition": "the main tower within the walls of a medieval castle or fortress",
+      "decision": "gloss",
+      "simpleMeaning": "the main tower inside a medieval castle or fortress",
+      "scope": "Castles and fortresses only; not the verb.",
+      "examples": [
+        "The keep was the strongest part of the castle.",
+        "They climbed the keep for a view."
+      ],
+      "branchCoverage": [
+        "main tower -> \"the main tower\"",
+        "within the walls of a medieval castle or fortress -> \"inside a medieval castle or fortress\""
+      ],
+      "sourceBranches": [
+        "the main tower within the walls of a medieval castle or fortress"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "please%2:37:00::",
+      "lemma": "please",
+      "pos": "v",
+      "definition": "give pleasure to or be pleasing to",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone happy or satisfied",
+      "scope": "Giving pleasure; not the polite word \"please\".",
+      "examples": [
+        "The gift pleased her.",
+        "It is hard to please everyone."
+      ],
+      "branchCoverage": [
+        "give pleasure to -> \"make someone happy\"",
+        "or be pleasing to -> \"or satisfied\""
+      ],
+      "sourceBranches": [
+        "give pleasure to or be pleasing to"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "money%1:21:00::",
+      "lemma": "money",
+      "pos": "n",
+      "definition": "the most common medium of exchange; functions as legal tender",
+      "decision": "gloss",
+      "simpleMeaning": "the coins and notes used to buy and sell things; the usual means of exchange",
+      "scope": "The medium of exchange; not wealth in general.",
+      "examples": [
+        "She paid the money into the bank.",
+        "Money cannot buy health."
+      ],
+      "branchCoverage": [
+        "most common medium of exchange -> \"the usual means of exchange\"",
+        "functions as legal tender -> \"the coins and notes used to buy and sell things\""
+      ],
+      "sourceBranches": [
+        "the most common medium of exchange",
+        "functions as legal tender"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "money%1:21:02::",
+      "lemma": "money",
+      "pos": "n",
+      "definition": "wealth reckoned in terms of money",
+      "decision": "gloss",
+      "simpleMeaning": "the property and valuable things that someone owns",
+      "scope": "Wealth and possessions; not the coins and notes used to pay.",
+      "examples": [
+        "He made his money in oil.",
+        "The family lost all its money and land."
+      ],
+      "branchCoverage": [
+        "wealth -> \"the property and valuable things\"",
+        "reckoned in terms of money -> \"that someone owns\""
+      ],
+      "sourceBranches": [
+        "wealth reckoned in terms of money"
+      ],
+      "reason": "Third pass correcting a named reviewer defect.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "free%3:00:02::",
+      "lemma": "free",
+      "pos": "a",
+      "definition": "unconstrained or not chemically bound in a molecule or not fixed and capable of relatively unrestricted motion",
+      "decision": "gloss",
+      "simpleMeaning": "not joined to anything else, and able to move or act without being held",
+      "scope": "Chemistry and physics: uncombined atoms or particles in motion; not \"free of charge\" and not political freedom.",
+      "examples": [
+        "The acid releases free hydrogen ions.",
+        "The particles are free to move in a gas."
+      ],
+      "branchCoverage": [
+        "unconstrained -> \"able to move or act without being held\"",
+        "not chemically bound in a molecule -> \"not joined to anything else\"",
+        "not fixed and capable of relatively unrestricted motion -> \"able to move\""
+      ],
+      "sourceBranches": [
+        "unconstrained or not chemically bound in a molecule or not fixed and capable of relatively unrestricted motion"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "free%3:00:00::",
+      "lemma": "free",
+      "pos": "a",
+      "definition": "not limited or hampered; not under compulsion or restraint",
+      "decision": "gloss",
+      "simpleMeaning": "not controlled or limited by anyone or anything",
+      "scope": "Freedom from control or force; not \"free of charge\".",
+      "examples": [
+        "They live in a free country.",
+        "You are free to leave."
+      ],
+      "branchCoverage": [
+        "not limited or hampered -> \"not controlled or limited\"",
+        "not under compulsion or restraint -> \"by anyone or anything\""
+      ],
+      "sourceBranches": [
+        "not limited or hampered",
+        "not under compulsion or restraint"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "second%1:04:00::",
+      "lemma": "second",
+      "pos": "n",
+      "definition": "the fielding position of the player on a baseball team who is stationed near the second of the bases in the infield",
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, the position of the player who defends second base",
+      "scope": "Baseball only; not the unit of time and not the ordinal.",
+      "examples": [
+        "He plays second.",
+        "The ball went to the player at second base."
+      ],
+      "branchCoverage": [
+        "fielding position of a player -> \"the position of the player who defends\"",
+        "stationed near the second of the bases in the infield -> \"second base\""
+      ],
+      "sourceBranches": [
+        "the fielding position of the player on a baseball team who is stationed near the second of the bases in the infield"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "second%3:00:00::",
+      "lemma": "second",
+      "pos": "a",
+      "definition": "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first",
+      "decision": "gloss",
+      "simpleMeaning": "lower in pitch than or below the first part, voice, instrument, or section",
+      "scope": "Music only; not the ordinal number.",
+      "examples": [
+        "She plays in the second violins.",
+        "He sang the second part."
+      ],
+      "branchCoverage": [
+        "part or voice or instrument or orchestra section -> all four named",
+        "lower in pitch than or subordinate to the first -> \"lower in pitch than or below the first\""
+      ],
+      "sourceBranches": [
+        "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+      ],
+      "reason": "Third pass correcting a named reviewer defect.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "second%1:28:00::",
+      "lemma": "second",
+      "pos": "n",
+      "definition": "1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites",
+      "decision": "gloss",
+      "simpleMeaning": "the basic unit of time; one sixtieth of a minute",
+      "scope": "The unit of time; not the ordinal or the baseball position.",
+      "examples": [
+        "Wait a second.",
+        "There are sixty seconds in a minute."
+      ],
+      "branchCoverage": [
+        "1/60 of a minute -> \"one sixtieth of a minute\"",
+        "basic unit of time -> \"the basic unit of time\""
+      ],
+      "sourceBranches": [
+        "1/60 of a minute",
+        "the basic unit of time adopted under the Systeme International d'Unites"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "second%2:41:01::",
+      "lemma": "second",
+      "pos": "v",
+      "definition": "transfer an employee to a different, temporary assignment",
+      "decision": "gloss",
+      "simpleMeaning": "to move an employee to another job for a time",
+      "scope": "Temporary transfer of a worker; not the ordinal.",
+      "examples": [
+        "She was seconded to the Paris office.",
+        "The company seconded him to the project for six months."
+      ],
+      "branchCoverage": [
+        "transfer an employee -> \"move an employee\"",
+        "to a different, temporary assignment -> \"to another job for a time\""
+      ],
+      "sourceBranches": [
+        "transfer an employee to a different, temporary assignment"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "second%4:02:00::",
+      "lemma": "second",
+      "pos": "r",
+      "definition": "in the second place",
+      "decision": "gloss",
+      "simpleMeaning": "as the next point in a list, after first",
+      "scope": "Ordering points in speech or writing; not time.",
+      "examples": [
+        "First, it is cheap; second, it is quick.",
+        "Second, we must consider the cost."
+      ],
+      "branchCoverage": [
+        "in the second place -> \"as the next point in a list, after first\", without the headword"
+      ],
+      "sourceBranches": [
+        "in the second place"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "someone%1:03:00::",
+      "lemma": "someone",
+      "pos": "n",
+      "definition": "a human being; person, singular, assertive existential pronoun; pronoun, person, singular; quantifier: assertive existential",
+      "decision": "gloss",
+      "simpleMeaning": "a person; a human being",
+      "scope": "Singular and indefinite; the grammar labels in the source describe this same meaning.",
+      "examples": [
+        "Someone left a bag in the hall.",
+        "Ask someone for help."
+      ],
+      "branchCoverage": [
+        "a human being -> \"a person; a human being\"",
+        "person and pronoun labels -> grammar notes about the same meaning",
+        "quantifier: assertive existential -> grammar label"
+      ],
+      "sourceBranches": [
+        "a human being",
+        "person, singular, assertive existential pronoun",
+        "pronoun, person, singular",
+        "quantifier: assertive existential",
+        "after colon: assertive existential"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "away%5:00:00:inaccurate:00",
+      "lemma": "away",
+      "pos": "a",
+      "definition": "(of a baseball pitch) on the far side of home plate from the batter",
+      "decision": "gloss",
+      "reason": "Second pass correcting a named reviewer defect.",
+      "sourceBranches": [
+        "(of a baseball pitch) on the far side of home plate from the batter"
+      ],
+      "simpleMeaning": "in baseball, a pitch that passes on the far side of home plate from the batter",
+      "scope": "Baseball only; the general adverb \"away\" is a different entry.",
+      "examples": [
+        "The pitch was away, outside the strike zone.",
+        "The catcher reached for a ball that was away."
+      ],
+      "branchCoverage": [
+        "of a baseball pitch -> \"in baseball, a pitch\"",
+        "on the far side of home plate from the batter -> \"passes on the far side of home plate from the batter\""
+      ],
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "left%1:14:00::",
+      "lemma": "left",
+      "pos": "n",
+      "definition": "those who support varying degrees of social or political or economic change designed to promote the public welfare",
+      "decision": "gloss",
+      "simpleMeaning": "people who support social, political, or economic change to help ordinary people",
+      "scope": "Politics; not the direction.",
+      "examples": [
+        "The left won the election.",
+        "She belongs to the left."
+      ],
+      "branchCoverage": [
+        "those who support varying degrees of social or political or economic change -> all three named",
+        "designed to promote the public welfare -> \"to help ordinary people\""
+      ],
+      "sourceBranches": [
+        "those who support varying degrees of social or political or economic change designed to promote the public welfare"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "left%1:15:00::",
+      "lemma": "left",
+      "pos": "n",
+      "definition": "location near or direction toward the left side; i.e. the side to the north when a person or object faces east",
+      "decision": "gloss",
+      "simpleMeaning": "the side or direction opposite your right",
+      "scope": "On a map, this is the side to the north when you face east; not the political sense.",
+      "examples": [
+        "Turn to the left at the church.",
+        "The shop is on the left."
+      ],
+      "branchCoverage": [
+        "location near or direction toward the left side -> \"the side or direction opposite your right\"",
+        "the side to the north when facing east -> stated in the scope"
+      ],
+      "sourceBranches": [
+        "location near or direction toward the left side",
+        "i.e. the side to the north when a person or object faces east"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%1:07:00::",
+      "lemma": "number",
+      "pos": "n",
+      "definition": "the property possessed by a sum or total or indefinite quantity of units or individuals",
+      "decision": "gloss",
+      "simpleMeaning": "the amount or total of things or people, seen as a quality of a group",
+      "scope": "The property of being a total; not a written numeral.",
+      "examples": [
+        "The number of cars has risen.",
+        "A large number of people came."
+      ],
+      "branchCoverage": [
+        "property possessed by a sum or total -> \"the amount or total ... seen as a quality\"",
+        "of units or individuals -> \"of things or people\""
+      ],
+      "sourceBranches": [
+        "the property possessed by a sum or total or indefinite quantity of units or individuals"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%1:23:00::",
+      "lemma": "number",
+      "pos": "n",
+      "definition": "a concept of quantity involving zero and units",
+      "decision": "gloss",
+      "simpleMeaning": "a quantity such as one, two, or three, that can be counted or measured",
+      "scope": "The concept of quantity, including zero; not the total of a group.",
+      "examples": [
+        "Write the number on the box.",
+        "Zero is a number."
+      ],
+      "branchCoverage": [
+        "concept of quantity -> \"a quantity ... that can be counted or measured\"",
+        "involving zero and units -> \"such as one, two, or three\" and the zero example"
+      ],
+      "sourceBranches": [
+        "a concept of quantity involving zero and units"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%2:42:00::",
+      "lemma": "number",
+      "pos": "v",
+      "definition": "add up in number or quantity",
+      "decision": "gloss",
+      "simpleMeaning": "to add up to a total",
+      "scope": "The verb of total; not putting numbers on things.",
+      "examples": [
+        "The crowd numbered more than a thousand.",
+        "The files number about fifty."
+      ],
+      "branchCoverage": [
+        "add up in number or quantity -> \"add up to a total\""
+      ],
+      "sourceBranches": [
+        "add up in number or quantity"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%2:32:03::",
+      "lemma": "number",
+      "pos": "v",
+      "definition": "give numbers to",
+      "decision": "gloss",
+      "simpleMeaning": "to put numbers on things, one after another",
+      "scope": "Labelling; not counting a total.",
+      "examples": [
+        "Number the pages before you copy them.",
+        "The seats are numbered."
+      ],
+      "branchCoverage": [
+        "give numbers to -> \"put numbers on things, one after another\""
+      ],
+      "sourceBranches": [
+        "give numbers to"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "city%1:15:00::",
+      "lemma": "city",
+      "pos": "n",
+      "definition": "a large and densely populated urban area; may include several independent administrative districts",
+      "decision": "gloss",
+      "simpleMeaning": "a large town where many people live and work; it may include several districts",
+      "scope": "The place; not the people who live there.",
+      "examples": [
+        "She moved to the city last year.",
+        "The city is noisy at night."
+      ],
+      "branchCoverage": [
+        "large and densely populated urban area -> \"a large town where many people live and work\"",
+        "may include several independent administrative districts -> \"it may include several districts\""
+      ],
+      "sourceBranches": [
+        "a large and densely populated urban area",
+        "may include several independent administrative districts"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "city%1:14:00::",
+      "lemma": "city",
+      "pos": "n",
+      "definition": "people living in a large densely populated municipality",
+      "decision": "gloss",
+      "simpleMeaning": "the people who live in a large town",
+      "scope": "The people; not the place.",
+      "examples": [
+        "The whole city came out to celebrate.",
+        "The city voted for change."
+      ],
+      "branchCoverage": [
+        "people living in a large densely populated municipality -> \"the people who live in a large town\""
+      ],
+      "sourceBranches": [
+        "people living in a large densely populated municipality"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "city%1:15:01::",
+      "lemma": "city",
+      "pos": "n",
+      "definition": "an incorporated administrative district established by state charter",
+      "decision": "gloss",
+      "simpleMeaning": "a town or district with its own local government, set up by law",
+      "scope": "The legal unit; not any large town.",
+      "examples": [
+        "The city has its own council.",
+        "The city was incorporated in 1850."
+      ],
+      "branchCoverage": [
+        "incorporated administrative district -> \"a town or district with its own local government\"",
+        "established by state charter -> \"set up by law\""
+      ],
+      "sourceBranches": [
+        "an incorporated administrative district established by state charter"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lot%2:40:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "The verb is rare and its natural examples are uncertain; leaving the original rather than inventing usage."
+    },
+    {
+      "senseId": "name%2:32:02::",
+      "lemma": "name",
+      "pos": "v",
+      "definition": "give the name or identifying characteristics of; refer to by name or some other identifying characteristic property",
+      "decision": "gloss",
+      "simpleMeaning": "to give the name of someone or something, or say what it is",
+      "scope": "Identifying by name or features; not giving a new name to a baby.",
+      "examples": [
+        "Can you name the capital of France?",
+        "She named the plant by its Latin name."
+      ],
+      "branchCoverage": [
+        "give the name or identifying characteristics of -> \"give the name ... or say what it is\"",
+        "refer to by name or some other identifying characteristic -> \"by its Latin name\""
+      ],
+      "sourceBranches": [
+        "give the name or identifying characteristics of",
+        "refer to by name or some other identifying characteristic property"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "night%1:28:01::",
+      "lemma": "night",
+      "pos": "n",
+      "definition": "a period of ignorance or backwardness or gloom",
+      "decision": "gloss",
+      "simpleMeaning": "a period of ignorance, lack of progress, or gloom",
+      "scope": "Figurative and literary; not the ordinary dark hours.",
+      "examples": [
+        "The war was a long night for the country.",
+        "They lived through the night of tyranny."
+      ],
+      "branchCoverage": [
+        "period of ignorance -> \"ignorance\"",
+        "or backwardness -> \"lack of progress\"",
+        "or gloom -> \"gloom\""
+      ],
+      "sourceBranches": [
+        "a period of ignorance or backwardness or gloom"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "company%2:42:00::",
+      "lemma": "company",
+      "pos": "v",
+      "definition": "be a companion to somebody",
+      "decision": "gloss",
+      "simpleMeaning": "to be with someone so they are not alone",
+      "scope": "The verb; not a business.",
+      "examples": [
+        "He companied the old man on his walk.",
+        "She companied him to the door."
+      ],
+      "branchCoverage": [
+        "be a companion to somebody -> \"be with someone so they are not alone\""
+      ],
+      "sourceBranches": [
+        "be a companion to somebody"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "few%3:00:00::",
+      "lemma": "few",
+      "pos": "a",
+      "definition": "a quantifier that can be used with count nouns and is often preceded by ‘a’; a small but indefinite number",
+      "decision": "gloss",
+      "simpleMeaning": "a small number of things you can count; not many",
+      "scope": "With count nouns; often with \"a\", as in a few friends.",
+      "examples": [
+        "Few people came to the meeting.",
+        "She has a few friends in the city."
+      ],
+      "branchCoverage": [
+        "quantifier with count nouns -> \"things you can count\" in the scope",
+        "often preceded by a -> \"often with 'a'\"",
+        "small but indefinite number -> \"a small number ... not many\""
+      ],
+      "sourceBranches": [
+        "a quantifier that can be used with count nouns and is often preceded by ‘a’",
+        "a small but indefinite number"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "let%2:32:02::",
+      "lemma": "let",
+      "pos": "v",
+      "definition": "consent to, give permission; permit",
+      "decision": "gloss",
+      "simpleMeaning": "to allow someone to do something",
+      "scope": "Giving permission; not renting a room.",
+      "examples": [
+        "Let me help you.",
+        "Her parents let her go to the party."
+      ],
+      "branchCoverage": [
+        "consent to -> \"allow\"",
+        "give permission -> \"to do something\"",
+        "permit -> same meaning"
+      ],
+      "sourceBranches": [
+        "consent to, give permission",
+        "permit"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "real%3:00:00::",
+      "lemma": "real",
+      "pos": "a",
+      "definition": "being or occurring in fact or actuality; having verified existence; not illusory",
+      "decision": "gloss",
+      "simpleMeaning": "existing in fact; not imagined or false",
+      "scope": "Fact and existence; not \"very\" as an intensifier.",
+      "examples": [
+        "Is the story real?",
+        "They saw a real bear in the woods."
+      ],
+      "branchCoverage": [
+        "being or occurring in fact or actuality -> \"existing in fact\"",
+        "having verified existence -> \"existing\"",
+        "not illusory -> \"not imagined or false\""
+      ],
+      "sourceBranches": [
+        "being or occurring in fact or actuality",
+        "having verified existence",
+        "not illusory"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "different%5:00:00:unusual:00",
+      "lemma": "different",
+      "pos": "a",
+      "definition": "differing from all others; not ordinary",
+      "decision": "gloss",
+      "simpleMeaning": "not like others; unusual",
+      "scope": "Unusualness; not the plain sense \"not the same\".",
+      "examples": [
+        "She has a different way of thinking.",
+        "The house is different from any other in the street."
+      ],
+      "branchCoverage": [
+        "differing from all others -> \"not like others\"",
+        "not ordinary -> \"unusual\""
+      ],
+      "sourceBranches": [
+        "differing from all others",
+        "not ordinary"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%1:14:02::",
+      "lemma": "set",
+      "pos": "n",
+      "definition": "(mathematics) an abstract collection of numbers or symbols",
+      "decision": "gloss",
+      "simpleMeaning": "in mathematics, a collection of numbers or symbols",
+      "scope": "Mathematics only; not a group of objects in everyday use.",
+      "examples": [
+        "The set contains three numbers.",
+        "Each set is shown in brackets."
+      ],
+      "branchCoverage": [
+        "mathematics -> stated in the meaning and the scope",
+        "abstract collection of numbers or symbols -> \"a collection of numbers or symbols\""
+      ],
+      "sourceBranches": [
+        "(mathematics) an abstract collection of numbers or symbols"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "however%4:02:00::",
+      "lemma": "however",
+      "pos": "r",
+      "definition": "despite anything to the contrary (usually preceding a concession)",
+      "decision": "gloss",
+      "simpleMeaning": "despite what has been said; but",
+      "scope": "A contrast, usually at the start of a clause; not \"in whatever way\".",
+      "examples": [
+        "It was late; however, we kept walking.",
+        "The plan is good; however, it costs too much."
+      ],
+      "branchCoverage": [
+        "despite anything to the contrary -> \"despite what has been said\"",
+        "usually preceding a concession -> \"but\", shown by both examples"
+      ],
+      "sourceBranches": [
+        "despite anything to the contrary (usually preceding a concession)"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "god%1:18:01::",
+      "lemma": "god",
+      "pos": "n",
+      "definition": "any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force",
+      "decision": "gloss",
+      "simpleMeaning": "a supernatural being that people worship and that controls part of the world or life, or that represents a force",
+      "scope": "A being in a religion with many gods; the capitalised God of one religion is a separate entry.",
+      "examples": [
+        "The Romans worshipped many gods.",
+        "She prayed to the god of the sea."
+      ],
+      "branchCoverage": [
+        "supernatural being worshipped -> \"a supernatural being that people worship\"",
+        "controlling some part of the world or some aspect of life -> \"controls part of the world or life\"",
+        "or the personification of a force -> \"or that represents a force\""
+      ],
+      "sourceBranches": [
+        "any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force"
+      ],
+      "reason": "Fourth pass adopting the re-reviewer wording.",
+      "verdict": "fourth-pass"
+    },
+    {
+      "senseId": "god%1:18:02::",
+      "lemma": "god",
+      "pos": "n",
+      "definition": "a man of such superior qualities that he seems like a deity to other people",
+      "decision": "gloss",
+      "simpleMeaning": "a man admired so much that he seems like a supernatural being",
+      "scope": "Figurative admiration; not a being that is worshipped.",
+      "examples": [
+        "The singer was treated as a god.",
+        "He was a god to his fans."
+      ],
+      "branchCoverage": [
+        "man of superior qualities -> \"a man admired so much\"",
+        "seems like a deity to other people -> \"seems like a supernatural being\""
+      ],
+      "sourceBranches": [
+        "a man of such superior qualities that he seems like a deity to other people"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "government%1:04:00::",
+      "lemma": "government",
+      "pos": "n",
+      "definition": "the act of governing; exercising authority",
+      "decision": "gloss",
+      "simpleMeaning": "the act of controlling a country or group; the use of authority",
+      "scope": "The activity; not the people or the system.",
+      "examples": [
+        "Good government requires honest officials.",
+        "The party promised better government."
+      ],
+      "branchCoverage": [
+        "act of governing -> \"the act of controlling a country or group\", without the headword",
+        "exercising authority -> \"the use of authority\""
+      ],
+      "sourceBranches": [
+        "the act of governing",
+        "exercising authority"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "government%1:09:00::",
+      "lemma": "government",
+      "pos": "n",
+      "definition": "(government) the system or form by which a community or other political unit is governed",
+      "decision": "gloss",
+      "simpleMeaning": "the way a country or group is run or controlled",
+      "scope": "The system; not the people in office.",
+      "examples": [
+        "Democratic government takes many forms.",
+        "They discussed the form of government."
+      ],
+      "branchCoverage": [
+        "the system or form -> \"the way ... is run\"",
+        "by which a community or political unit is governed -> \"a country or group is run or controlled\""
+      ],
+      "sourceBranches": [
+        "(government) the system or form by which a community or other political unit is governed"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "government%1:14:00::",
+      "lemma": "government",
+      "pos": "n",
+      "definition": "the organization that is the governing authority of a political unit",
+      "decision": "gloss",
+      "simpleMeaning": "the group of people who control and run a country or region",
+      "scope": "The people in authority; not the activity or the system.",
+      "examples": [
+        "The government announced a new law.",
+        "She works for the government."
+      ],
+      "branchCoverage": [
+        "organization that is the governing authority -> \"the group of people who control and run\"",
+        "of a political unit -> \"a country or region\""
+      ],
+      "sourceBranches": [
+        "the organization that is the governing authority of a political unit"
+      ],
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "group%1:09:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Technical algebra (a set closed under an operation); not glossable for a learner without group theory."
+    },
+    {
+      "senseId": "group%1:27:00::",
+      "lemma": "group",
+      "pos": "n",
+      "definition": "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule",
+      "decision": "gloss",
+      "simpleMeaning": "in chemistry, two or more atoms joined together as a unit in a molecule",
+      "scope": "Chemistry only; not a set of people or things.",
+      "examples": [
+        "A methyl group contains one carbon and three hydrogen atoms.",
+        "The group is attached to the ring."
+      ],
+      "branchCoverage": [
+        "chemistry -> stated in the meaning and the scope",
+        "two or more atoms bound together as a single unit -> \"two or more atoms joined together as a unit\"",
+        "forming part of a molecule -> \"in a molecule\""
+      ],
+      "sourceBranches": [
+        "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "group%2:31:00::",
+      "lemma": "group",
+      "pos": "v",
+      "definition": "arrange into a group or groups",
+      "decision": "gloss",
+      "simpleMeaning": "to put people or things into groups",
+      "scope": "The verb; not a mathematical group.",
+      "examples": [
+        "Group the words by meaning.",
+        "The students were grouped by age."
+      ],
+      "branchCoverage": [
+        "arrange into a group or groups -> \"put people or things into groups\""
+      ],
+      "sourceBranches": [
+        "arrange into a group or groups"
+      ],
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

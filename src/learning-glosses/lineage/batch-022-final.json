@@ -1,0 +1,1010 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 22,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 45,
+      "of": 50,
+      "rate": 0.9
+    },
+    "selfApproved": [
+      "potential%1:19:00::",
+      "pressure%1:19:00::",
+      "radio%3:01:00::",
+      "western%3:00:02::",
+      "focus%1:07:01::"
+    ],
+    "lineage": {
+      "draft": "184449e0cefb869b4f8f3a82847ca3fadcf6f8bdff75c19c701aa1fd357cdce3"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "island%1:06:00::",
+      "lemma": "island",
+      "pos": "n",
+      "definition": "a zone or area resembling an island",
+      "decision": "gloss",
+      "simpleMeaning": "a small area that stands apart from everything around it, like a patch of land with water on every side",
+      "scope": "This is not a piece of land with water all around it; it is any area that is set apart from what surrounds it.",
+      "examples": [
+        "The children sat on a small island of dry ground in the flooded field.",
+        "A bright island of light showed where the campfire was burning in the dark."
+      ],
+      "branchCoverage": [
+        "a zone or area resembling an island -> a small area; stands apart from everything around it; like a patch of land with water on every side"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "moved%3:00:00::",
+      "lemma": "moved",
+      "pos": "a",
+      "definition": "being excited or provoked to the expression of an emotion",
+      "decision": "gloss",
+      "simpleMeaning": "feeling strong emotion, such as pity or sadness, that you want to show because of something you saw or heard",
+      "scope": "This is not about changing position or going to live in a new home; it describes how a person feels.",
+      "examples": [
+        "She was deeply moved by the old man's story.",
+        "Everyone in the room felt moved when the choir sang."
+      ],
+      "branchCoverage": [
+        "being excited or provoked to the expression of an emotion -> feeling strong emotion; such as pity or sadness; want to show it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "normal%3:00:01::",
+      "lemma": "normal",
+      "pos": "a",
+      "definition": "conforming with or constituting a norm or standard or level or type or social norm; not abnormal",
+      "decision": "gloss",
+      "simpleMeaning": "matching the usual standard, level or type that a group or society expects, and not strange or different",
+      "scope": "This is not the noun for a standard example; it describes something that fits what is usual.",
+      "examples": [
+        "It is normal to feel nervous before a test.",
+        "The machine is working at normal speed."
+      ],
+      "branchCoverage": [
+        "conforming with or constituting a norm or standard or level or type or social norm -> matching the usual standard, level or type; what a group or society expects",
+        "not abnormal -> not strange or different"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "normal (adj): matching the usual standard, not strange; normal (n): the standard example that others are compared with.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "normal%1:09:00::",
+      "lemma": "normal",
+      "pos": "n",
+      "definition": "something regarded as a normative example",
+      "decision": "gloss",
+      "simpleMeaning": "the usual or standard example that other things are compared with",
+      "scope": "This is not the adjective for usual things; it is the standard example itself.",
+      "examples": [
+        "Their design was accepted as the normal for the whole industry.",
+        "The test uses the normal as its reference point."
+      ],
+      "branchCoverage": [
+        "something regarded as a normative example -> the usual or standard example; that other things are compared with"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "normal (adj): matching the usual standard, not strange; normal (n): the standard example that others are compared with.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "potential%1:19:00::",
+      "lemma": "potential",
+      "pos": "n",
+      "definition": "the difference in electrical charge between two points in a circuit expressed in volts",
+      "decision": "gloss",
+      "simpleMeaning": "the electrical force between two points in a circuit, measured in volts",
+      "scope": "This is not a person's ability or a chance that something may happen; it is a measure in electricity.",
+      "examples": [
+        "The meter showed a potential of twelve volts across the battery.",
+        "A high potential between the wires can be dangerous."
+      ],
+      "branchCoverage": [
+        "the difference in electrical charge between two points in a circuit expressed in volts -> the electrical force; two points in a circuit; measured in volts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "difference in electrical charge between two points, measured in volts",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'difference'; volts measure charge difference, not force. Better: 'difference in electrical charge between two points, measured in volts'."
+    },
+    {
+      "senseId": "pressure%1:19:00::",
+      "lemma": "pressure",
+      "pos": "n",
+      "definition": "the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit)",
+      "decision": "gloss",
+      "simpleMeaning": "the force of something pushing on a surface, measured in scientific units such as pascals or dynes",
+      "scope": "This is not a feeling of stress and not the act of pushing something with your hand; it is a scientific measure of force on an area.",
+      "examples": [
+        "The pressure inside the tyre is too low.",
+        "Deep under the sea, the pressure is very high."
+      ],
+      "branchCoverage": [
+        "the force applied to a unit area of surface -> the force; pushing on a surface",
+        "measured in pascals (SI unit) or in dynes (cgs unit) -> measured in scientific units such as pascals or dynes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pressure (n, physics): force on a surface measured in pascals; pressure (v, cause): make someone act by force, argument or need; pressure (n, act): the physical act of pushing; pressure (v, threats): make someone act by threatening them.",
+      "meaning": "how hard something pushes on each unit of area, measured in pascals or dynes",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'unit area'; use 'how hard something pushes on each unit of area, measured in pascals or dynes'."
+    },
+    {
+      "senseId": "pressure%2:41:00::",
+      "lemma": "pressure",
+      "pos": "v",
+      "definition": "to cause to do through pressure or necessity, by physical, moral or intellectual means",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone do something using physical force, moral duty or clever argument, or because they have no other choice",
+      "scope": "This is not the scientific measure of force and not the act of pushing; it means making a person act.",
+      "examples": [
+        "The coach pressured the team to train harder.",
+        "Her friends pressured her into changing her mind."
+      ],
+      "branchCoverage": [
+        "to cause to do through pressure or necessity, by physical, moral or intellectual means -> make someone do something; physical force, moral duty or clever argument; because they have no other choice"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pressure (n, physics): force on a surface measured in pascals; pressure (v, cause): make someone act by force, argument or need; pressure (n, act): the physical act of pushing; pressure (v, threats): make someone act by threatening them.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pressure%1:04:00::",
+      "lemma": "pressure",
+      "pos": "n",
+      "definition": "the act of pressing; the exertion of pressure",
+      "decision": "gloss",
+      "simpleMeaning": "the act of pushing down or against something with your hand or a tool",
+      "scope": "This is not the scientific measure of force on an area and not a feeling of stress; it is the physical action of pushing.",
+      "examples": [
+        "A light pressure on the button starts the machine.",
+        "He felt the pressure of her hand on his arm."
+      ],
+      "branchCoverage": [
+        "the act of pressing -> the act of pushing down or against something; with your hand or a tool",
+        "the exertion of pressure -> pushing against something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pressure (n, physics): force on a surface measured in pascals; pressure (v, cause): make someone act by force, argument or need; pressure (n, act): the physical act of pushing; pressure (v, threats): make someone act by threatening them.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pressure%2:41:01::",
+      "lemma": "pressure",
+      "pos": "v",
+      "definition": "exert pressure on someone through threats",
+      "decision": "gloss",
+      "simpleMeaning": "to try to make someone do something by threatening them",
+      "scope": "This is not making someone act through argument or need, and not pushing a surface; it works through fear of harm.",
+      "examples": [
+        "The gang pressured the shopkeeper into paying by threatening his family.",
+        "He was pressured into giving them the keys after they threatened him."
+      ],
+      "branchCoverage": [
+        "exert pressure on someone through threats -> try to make someone do something; by threatening them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pressure (n, physics): force on a surface measured in pascals; pressure (v, cause): make someone act by force, argument or need; pressure (n, act): the physical act of pushing; pressure (v, threats): make someone act by threatening them.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "radio%1:06:01::",
+      "lemma": "radio",
+      "pos": "n",
+      "definition": "an electronic receiver that detects and demodulates and amplifies transmitted signals",
+      "decision": "gloss",
+      "simpleMeaning": "a device that picks up broadcast signals, makes them stronger and turns them into sound",
+      "scope": "This is not the broadcasting system and not the act of sending a message; it is the device you listen to.",
+      "examples": [
+        "She turned on the radio to hear the news.",
+        "The old radio in the kitchen still works."
+      ],
+      "branchCoverage": [
+        "an electronic receiver that detects and demodulates and amplifies transmitted signals -> a device that picks up broadcast signals; makes them stronger; turns them into sound"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "radio (n, device): the box that turns signals into sound; radio (n, system): the whole way of sending sound through the air; radio (v): send a message by wave signals; radio (adj): word part for strong rays or atom energy.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "radio%1:06:00::",
+      "lemma": "radio",
+      "pos": "n",
+      "definition": "a communication system based on broadcasting electromagnetic waves",
+      "decision": "gloss",
+      "simpleMeaning": "a way of sending sound or information through the air using waves",
+      "scope": "This is not the device in your kitchen; it is the whole way of sending programmes and messages through the air.",
+      "examples": [
+        "Radio brings music and news into millions of homes.",
+        "The ship used radio to call for help."
+      ],
+      "branchCoverage": [
+        "a communication system based on broadcasting electromagnetic waves -> a way of sending sound or information; through the air using waves"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "radio (n, device): the box that turns signals into sound; radio (n, system): the whole way of sending sound through the air; radio (v): send a message by wave signals; radio (adj): word part for strong rays or atom energy.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "radio%2:32:00::",
+      "lemma": "radio",
+      "pos": "v",
+      "definition": "transmit messages via radio waves",
+      "decision": "gloss",
+      "simpleMeaning": "to send a message through the air using wave signals",
+      "scope": "This is not listening to a broadcast; it is sending a message out.",
+      "examples": [
+        "The pilot radioed the airport for permission to land.",
+        "They radioed for help when the engine failed."
+      ],
+      "branchCoverage": [
+        "transmit messages via radio waves -> send a message; through the air using wave signals"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "radio (n, device): the box that turns signals into sound; radio (n, system): the whole way of sending sound through the air; radio (v): send a message by wave signals; radio (adj): word part for strong rays or atom energy.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "radio%3:01:00::",
+      "lemma": "radio",
+      "pos": "a",
+      "definition": "indicating radiation or radioactivity",
+      "decision": "gloss",
+      "simpleMeaning": "used in front of another word to show that something is connected with the strong rays or energy given off by certain atoms",
+      "scope": "This is not about sound broadcasting; it is a word part used for scientific energy and rays.",
+      "examples": [
+        "The lab uses radiocarbon dating to find the age of ancient wood.",
+        "Radiotherapy uses strong rays to treat cancer."
+      ],
+      "branchCoverage": [
+        "indicating radiation or radioactivity -> shows a connection with strong rays or energy given off by certain atoms"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "radio (n, device): the box that turns signals into sound; radio (n, system): the whole way of sending sound through the air; radio (v): send a message by wave signals; radio (adj): word part for strong rays or atom energy.",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples misspelled: use 'radiocarbon dating' and 'radiotherapy' (no hyphens)."
+    },
+    {
+      "senseId": "station%1:06:00::",
+      "lemma": "station",
+      "pos": "n",
+      "definition": "a facility equipped with special equipment and personnel for a particular purpose",
+      "decision": "gloss",
+      "simpleMeaning": "a building or place with special equipment and workers for a particular job",
+      "scope": "This is not a stop on a railway line and not a broadcasting company; it is a place set up for a special kind of work.",
+      "examples": [
+        "The fire station is at the end of our street.",
+        "Scientists at the research station study the ice."
+      ],
+      "branchCoverage": [
+        "a facility equipped with special equipment and personnel for a particular purpose -> a building or place; special equipment and workers; for a particular job"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "station (n): a place with special equipment and workers for a job; station (v): put a person in a place to work.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "station%2:33:00::",
+      "lemma": "station",
+      "pos": "v",
+      "definition": "assign to a station",
+      "decision": "gloss",
+      "simpleMeaning": "to put someone in a place to do a job or keep watch",
+      "scope": "This is not the building itself; it is the act of placing a person somewhere to work.",
+      "examples": [
+        "Guards were stationed at every door.",
+        "She was stationed in Germany for two years."
+      ],
+      "branchCoverage": [
+        "assign to a station -> put someone in a place; to do a job or keep watch"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "station (n): a place with special equipment and workers for a job; station (v): put a person in a place to work.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "text%1:10:03::",
+      "lemma": "text",
+      "pos": "n",
+      "definition": "a passage from the Bible that is used as the subject of a sermon",
+      "decision": "gloss",
+      "simpleMeaning": "a short part of the Bible that a preacher speaks about",
+      "scope": "This is not a message on a phone and not the main words of a book; it is a Bible passage chosen for a church talk.",
+      "examples": [
+        "The minister read the text and then explained it.",
+        "He chose a text from the Gospel of John."
+      ],
+      "branchCoverage": [
+        "a passage from the Bible that is used as the subject of a sermon -> a short part of the Bible; that a preacher speaks about"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treatment%1:04:00::",
+      "lemma": "treatment",
+      "pos": "n",
+      "definition": "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
+      "decision": "gloss",
+      "simpleMeaning": "care given to make a situation better, especially medical help that is meant to ease an illness or injury",
+      "scope": "This is not the way an artist handles a subject and not how you behave toward someone; it means help given to heal or improve.",
+      "examples": [
+        "She is receiving treatment for a broken arm.",
+        "The new treatment helped him walk again."
+      ],
+      "branchCoverage": [
+        "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury) -> care given to make a situation better; medical help meant to ease an illness or injury"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "treatment (n, medical): help given to heal illness or injury; treatment (n, artistic): the way an artist handles a subject.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treatment%1:07:00::",
+      "lemma": "treatment",
+      "pos": "n",
+      "definition": "a manner of dealing with something artistically",
+      "decision": "gloss",
+      "simpleMeaning": "the way an artist or writer handles a subject in their work",
+      "scope": "This is not medical care; it is about the style and choices an artist makes.",
+      "examples": [
+        "The film's treatment of the war is gentle and sad.",
+        "Critics praised her treatment of light in the painting."
+      ],
+      "branchCoverage": [
+        "a manner of dealing with something artistically -> the way an artist or writer handles a subject; in their work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "treatment (n, medical): help given to heal illness or injury; treatment (n, artistic): the way an artist handles a subject.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "western%3:00:01::",
+      "lemma": "western",
+      "pos": "a",
+      "definition": "relating to or characteristic of the western parts of the world or the West as opposed to the eastern or oriental parts",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to or typical of Europe and North America rather than Asia",
+      "scope": "This is not about the western side of a country and not a film about cowboys; it means Europe and North America.",
+      "examples": [
+        "Western music is popular in many Asian cities.",
+        "She studied Western philosophy at university."
+      ],
+      "branchCoverage": [
+        "relating to or characteristic of the western parts of the world or the West as opposed to the eastern or oriental parts -> belonging to or typical of Europe and North America; rather than Asia"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "western (adj, world): about Europe and North America; western (adj, US): about the western states of the US; western (n): an egg sandwich.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "western%3:00:02::",
+      "lemma": "western",
+      "pos": "a",
+      "definition": "of or characteristic of regions of the United States west of the Mississippi River",
+      "decision": "gloss",
+      "simpleMeaning": "from or typical of the states in the west of the US, beyond the Mississippi River",
+      "scope": "This is not about Europe and North America as a whole; it is only about the western states of the US.",
+      "examples": [
+        "Many western towns grew quickly during the gold rush.",
+        "Cattle ranching spread across the western regions in the 1800s."
+      ],
+      "branchCoverage": [
+        "of or characteristic of regions of the United States west of the Mississippi River -> from or typical of the states in the west of the US; beyond the Mississippi River"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "western (adj, world): about Europe and North America; western (adj, US): about the western states of the US; western (n): an egg sandwich.",
+      "meaning": "western regions of the US",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 shows any state's west; narrows 'regions' to 'states'. Use 'western regions of the US'."
+    },
+    {
+      "senseId": "western%1:13:00::",
+      "lemma": "western",
+      "pos": "n",
+      "definition": "a sandwich made from a western omelet",
+      "decision": "gloss",
+      "simpleMeaning": "a sandwich made with a folded egg mixture containing ham, onion and green pepper",
+      "scope": "This is not a film about cowboys and not a person from the West; it is a kind of egg sandwich.",
+      "examples": [
+        "He ordered a western and a cup of coffee.",
+        "The diner's western comes with fried potatoes."
+      ],
+      "branchCoverage": [
+        "a sandwich made from a western omelet -> a sandwich; made with a folded egg mixture containing ham, onion and green pepper"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "western (adj, world): about Europe and North America; western (adj, US): about the western states of the US; western (n): an egg sandwich.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beginning%5:00:00:opening:00",
+      "lemma": "beginning",
+      "pos": "a",
+      "definition": "serving to begin",
+      "decision": "gloss",
+      "simpleMeaning": "first, and starting a series of things off",
+      "scope": "This is not the noun for the moment something starts; it describes something that comes first and starts a series.",
+      "examples": [
+        "The beginning chapters of the book are the easiest.",
+        "He took the beginning steps toward a new career."
+      ],
+      "branchCoverage": [
+        "serving to begin -> first; starting a series of things off"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beginning (adj): first, starting a series off; beginning (n): the moment when something starts.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beginning%1:28:00::",
+      "lemma": "beginning",
+      "pos": "n",
+      "definition": "the time at which something is supposed to begin",
+      "decision": "gloss",
+      "simpleMeaning": "the point in time when something is expected to start",
+      "scope": "This is not the first part of a thing and not a first action; it is a moment in time.",
+      "examples": [
+        "At the beginning of the film, we meet the hero as a child.",
+        "The beginning of spring is my favourite time of year."
+      ],
+      "branchCoverage": [
+        "the time at which something is supposed to begin -> the point in time; when something is expected to start"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beginning (adj): first, starting a series off; beginning (n): the moment when something starts.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "campaign%2:41:10::",
+      "lemma": "campaign",
+      "pos": "v",
+      "definition": "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for",
+      "decision": "gloss",
+      "simpleMeaning": "to work hard and speak up again and again to win support for a cause, a goal or a person",
+      "scope": "This is not a war and not a planned set of actions; it is the work of trying to win support.",
+      "examples": [
+        "She campaigned for cleaner air in the city.",
+        "They campaigned hard for the new library."
+      ],
+      "branchCoverage": [
+        "exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person -> work hard; again and again; win support for a cause, a goal or a person",
+        "be an advocate for -> speak up"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "campaign (v, support): work and speak up to win support; campaign (n): a planned set of actions for a goal; campaign (v, war) 'go off to war' also appears in this batch and is drafted in part 2.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "campaign%1:04:02::",
+      "lemma": "campaign",
+      "pos": "n",
+      "definition": "a series of actions advancing a principle or tending toward a particular end",
+      "decision": "gloss",
+      "simpleMeaning": "a planned set of actions to reach a goal or support an idea",
+      "scope": "This is not the work of speaking up for a cause and not a war; it is the organized plan of actions itself.",
+      "examples": [
+        "The health campaign encouraged people to walk more.",
+        "They launched a campaign to save the old theatre."
+      ],
+      "branchCoverage": [
+        "a series of actions advancing a principle or tending toward a particular end -> a planned set of actions; to reach a goal or support an idea"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "campaign (v, support): work and speak up to win support; campaign (n): a planned set of actions for a goal; campaign (v, war) 'go off to war' also appears in this batch and is drafted in part 2.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "campaign%2:33:00::",
+      "lemma": "campaign",
+      "pos": "v",
+      "definition": "go on a campaign; go off to war",
+      "decision": "gloss",
+      "simpleMeaning": "to take part in a planned military operation or go to war.",
+      "scope": "This is about fighting in a war, not about working to win votes or support for a cause.",
+      "examples": [
+        "The army campaigned in the mountains for two years.",
+        "Thousands of soldiers campaigned far from home during the war."
+      ],
+      "branchCoverage": [
+        "go on a campaign -> take part in a planned military operation",
+        "go off to war -> go to war"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "campaign senses: verb 'exert oneself for a cause' = to work hard to win support for a cause or person; noun 'series of actions' = a planned series of actions to reach a goal; verb 'go on a campaign' = to take part in a military operation or go to war.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "certainly%4:02:00::",
+      "lemma": "certainly",
+      "pos": "r",
+      "definition": "definitely or positively (‘sure’ is sometimes used informally for ‘surely’)",
+      "decision": "gloss",
+      "simpleMeaning": "in a way that leaves no doubt at all.",
+      "scope": "This strengthens a whole statement to show there is no doubt; it is not the adjective sense of being fixed or sure to happen.",
+      "examples": [
+        "I will certainly be there by eight.",
+        "That was certainly the best meal I have had all year."
+      ],
+      "branchCoverage": [
+        "definitely or positively (‘sure’ is sometimes used informally for ‘surely’) -> in a way that leaves no doubt at all (the note on 'sure' and 'surely' inside this branch is a usage label)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "completely%4:02:04::",
+      "lemma": "completely",
+      "pos": "r",
+      "definition": "to a complete degree or to the full or entire extent; Completely or entirely",
+      "decision": "gloss",
+      "simpleMeaning": "in every way, with no part left out.",
+      "scope": "This means the whole of something is affected; it is not the other adverb sense, which means having all the parts that are needed.",
+      "examples": [
+        "The old bridge was completely destroyed by the flood.",
+        "I completely forgot about the meeting."
+      ],
+      "branchCoverage": [
+        "to a complete degree or to the full or entire extent -> in every way, with no part left out",
+        "Completely or entirely -> the same meaning, given again as a synonym"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "completely senses: adverb 'to a complete degree' = in every way, with no part left out; adverb 'so as to be complete' = with all the parts or things that are needed.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "completely%4:02:03::",
+      "lemma": "completely",
+      "pos": "r",
+      "definition": "so as to be complete; with everything necessary",
+      "decision": "gloss",
+      "simpleMeaning": "with all the parts or things that are needed.",
+      "scope": "This is about being fully equipped or finished, not about affecting every part of something.",
+      "examples": [
+        "The flat comes completely furnished with beds and tables.",
+        "The first-aid box is completely stocked for a family of four."
+      ],
+      "branchCoverage": [
+        "so as to be complete -> with all the parts or things that are needed",
+        "with everything necessary -> things that are needed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "completely senses: adverb 'to a complete degree' = in every way, with no part left out; adverb 'so as to be complete' = with all the parts or things that are needed.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "content%1:24:00::",
+      "lemma": "content",
+      "pos": "n",
+      "definition": "the proportion of a substance that is contained in a mixture or alloy etc.",
+      "decision": "gloss",
+      "simpleMeaning": "the amount of one substance that is inside a mixture or material.",
+      "scope": "This is about how much of a substance a mixture holds, not about the ideas in a message or a feeling of satisfaction.",
+      "examples": [
+        "This chocolate has a high sugar content.",
+        "The test measures the water content of the soil."
+      ],
+      "branchCoverage": [
+        "the proportion of a substance that is contained in a mixture or alloy etc -> the amount of one substance that is inside a mixture or material"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "content senses: noun 'proportion of a substance' = the amount of one substance inside a mixture or material; noun 'content communicating a message' = the ideas or information in a book, speech or website; noun 'state of being contented' = a calm feeling that life is good enough; verb 'make content' = to make someone feel happy and satisfied.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "content%1:10:00::",
+      "lemma": "content",
+      "pos": "n",
+      "definition": "content communicating a message; what something is about",
+      "decision": "gloss",
+      "simpleMeaning": "the ideas or information in something such as a book, speech or website.",
+      "scope": "This is about the subject matter of a message, not the amount of a substance in a mixture or a feeling of satisfaction.",
+      "examples": [
+        "The content of her speech surprised everyone.",
+        "Parents should check the content of the websites their children visit."
+      ],
+      "branchCoverage": [
+        "content communicating a message -> the ideas or information in something such as a book, speech or website",
+        "what something is about -> the ideas or information in something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "content senses: noun 'proportion of a substance' = the amount of one substance inside a mixture or material; noun 'content communicating a message' = the ideas or information in a book, speech or website; noun 'state of being contented' = a calm feeling that life is good enough; verb 'make content' = to make someone feel happy and satisfied.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "content%1:26:00::",
+      "lemma": "content",
+      "pos": "n",
+      "definition": "the state of being contented with your situation in life",
+      "decision": "gloss",
+      "simpleMeaning": "a calm feeling that your life is good enough as it is.",
+      "scope": "This is a peaceful feeling about your life, not the information in a book or the amount of a substance in a mixture.",
+      "examples": [
+        "She smiled with quiet content as she watched the children play.",
+        "He found content in a simple life in the countryside."
+      ],
+      "branchCoverage": [
+        "the state of being contented with your situation in life -> a calm feeling that your life is good enough as it is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "content senses: noun 'proportion of a substance' = the amount of one substance inside a mixture or material; noun 'content communicating a message' = the ideas or information in a book, speech or website; noun 'state of being contented' = a calm feeling that life is good enough; verb 'make content' = to make someone feel happy and satisfied.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "content%2:37:00::",
+      "lemma": "content",
+      "pos": "v",
+      "definition": "make content",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone feel happy and satisfied with what they have.",
+      "scope": "This is about giving someone a feeling of satisfaction, not about putting information into something.",
+      "examples": [
+        "A warm meal and a good book contented him.",
+        "Nothing could content the restless child for long."
+      ],
+      "branchCoverage": [
+        "make content -> make someone feel happy and satisfied with what they have"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "content senses: noun 'proportion of a substance' = the amount of one substance inside a mixture or material; noun 'content communicating a message' = the ideas or information in a book, speech or website; noun 'state of being contented' = a calm feeling that life is good enough; verb 'make content' = to make someone feel happy and satisfied.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "credit%2:31:01::",
+      "lemma": "credit",
+      "pos": "v",
+      "definition": "give someone credit for something",
+      "decision": "gloss",
+      "simpleMeaning": "to say that someone did something good or is responsible for it.",
+      "scope": "This is about praising someone for an achievement, not about adding money to a bank account.",
+      "examples": [
+        "The teacher credited her with the idea for the project.",
+        "He was credited with saving the company from ruin."
+      ],
+      "branchCoverage": [
+        "give someone credit for something -> say that someone did something good or is responsible for it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "credit senses: verb 'give someone credit for something' = to say someone is responsible for something good; verb 'enter as credit' = to add money to a bank account.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "credit%2:40:00::",
+      "lemma": "credit",
+      "pos": "v",
+      "definition": "enter as credit",
+      "decision": "gloss",
+      "simpleMeaning": "to add an amount of money to someone's bank account.",
+      "scope": "This is about adding money to an account, not about praising someone for something they did.",
+      "examples": [
+        "The shop credited my account with a full refund.",
+        "The bank credited the interest at the end of the month."
+      ],
+      "branchCoverage": [
+        "enter as credit -> add an amount of money to someone's bank account"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "credit senses: verb 'give someone credit for something' = to say someone is responsible for something good; verb 'enter as credit' = to add money to a bank account.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cross%1:06:01::",
+      "lemma": "cross",
+      "pos": "n",
+      "definition": "a wooden structure consisting of an upright post with a transverse piece",
+      "decision": "gloss",
+      "simpleMeaning": "a tall wooden post with a bar joined to it from side to side.",
+      "scope": "This is the wooden structure itself, not a written mark or a heavy burden in life.",
+      "examples": [
+        "A wooden cross stood on the hill above the village.",
+        "They raised a wooden cross to mark the grave."
+      ],
+      "branchCoverage": [
+        "a wooden structure consisting of an upright post with a transverse piece -> a tall wooden post with a bar joined to it from side to side"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cross senses: noun 'wooden structure' = a wooden post with a bar joined to it from side to side; adjective 'crosswise' = lying or going from one side to the other at a right angle; noun 'affliction' = a heavy trouble or pain in life; noun 'marking' = a written mark of two lines that pass over each other.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cross%5:00:00:crosswise:00",
+      "lemma": "cross",
+      "pos": "a",
+      "definition": "extending or lying across; in a crosswise direction; at right angles to the long axis",
+      "decision": "gloss",
+      "simpleMeaning": "placed or going from one side to the other at a right angle to the length.",
+      "scope": "This describes position or direction, not a feeling of anger and not the wooden structure.",
+      "examples": [
+        "The carpenter fixed a cross piece to the top of the post.",
+        "A cross wind blew the ball to the left."
+      ],
+      "branchCoverage": [
+        "extending or lying across -> placed or going from one side to the other",
+        "in a crosswise direction -> going from one side to the other",
+        "at right angles to the long axis -> at a right angle to the length"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cross senses: noun 'wooden structure' = a wooden post with a bar joined to it from side to side; adjective 'crosswise' = lying or going from one side to the other at a right angle; noun 'affliction' = a heavy trouble or pain in life; noun 'marking' = a written mark of two lines that pass over each other.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cross%1:26:00::",
+      "lemma": "cross",
+      "pos": "n",
+      "definition": "any affliction that causes great suffering",
+      "decision": "gloss",
+      "simpleMeaning": "a heavy problem or pain that someone has to bear in life.",
+      "scope": "This is a burden in someone's life, not the wooden structure or a written mark.",
+      "examples": [
+        "Illness was a heavy cross for the whole family to bear.",
+        "She bore her loneliness like a cross."
+      ],
+      "branchCoverage": [
+        "any affliction that causes great suffering -> a heavy problem or pain that someone has to bear in life"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cross senses: noun 'wooden structure' = a wooden post with a bar joined to it from side to side; adjective 'crosswise' = lying or going from one side to the other at a right angle; noun 'affliction' = a heavy trouble or pain in life; noun 'marking' = a written mark of two lines that pass over each other.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cross%1:07:00::",
+      "lemma": "cross",
+      "pos": "n",
+      "definition": "a marking that consists of lines that cross each other",
+      "decision": "gloss",
+      "simpleMeaning": "a written mark made of two lines that meet and pass over each other.",
+      "scope": "This is a simple mark, not the wooden structure used for punishment or a burden in life.",
+      "examples": [
+        "Put a cross next to the correct answer.",
+        "She drew a cross on the map to show where the treasure was buried."
+      ],
+      "branchCoverage": [
+        "a marking that consists of lines that cross each other -> a written mark made of two lines that meet and pass over each other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cross senses: noun 'wooden structure' = a wooden post with a bar joined to it from side to side; adjective 'crosswise' = lying or going from one side to the other at a right angle; noun 'affliction' = a heavy trouble or pain in life; noun 'marking' = a written mark of two lines that pass over each other.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "described%5:00:00:delineated:00",
+      "lemma": "described",
+      "pos": "a",
+      "definition": "represented in words especially with sharpness and detail",
+      "decision": "gloss",
+      "simpleMeaning": "shown in words in a clear and detailed way.",
+      "scope": "This means something has been put into clear words, not that a shape or place has been drawn on paper.",
+      "examples": [
+        "The well-described scene stayed in my mind for days.",
+        "Her carefully described characters feel like real people."
+      ],
+      "branchCoverage": [
+        "represented in words especially with sharpness and detail -> shown in words in a clear and detailed way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "despite%1:12:00::",
+      "lemma": "despite",
+      "pos": "n",
+      "definition": "lack of respect accompanied by a feeling of intense dislike",
+      "decision": "gloss",
+      "simpleMeaning": "a strong feeling of dislike mixed with a lack of respect.",
+      "scope": "This is the old noun for contempt, not the common word that means 'even though'.",
+      "examples": [
+        "He spoke of their customs with despite.",
+        "The king looked at his rival with cold despite."
+      ],
+      "branchCoverage": [
+        "lack of respect accompanied by a feeling of intense dislike -> a strong feeling of dislike mixed with a lack of respect"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "female%1:05:00::",
+      "lemma": "female",
+      "pos": "n",
+      "definition": "an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa)",
+      "decision": "gloss",
+      "simpleMeaning": "an animal of the sex that produces eggs which a male can fertilize.",
+      "scope": "This is about animals, not about a woman or girl.",
+      "examples": [
+        "The female of the species is larger than the male.",
+        "Only the female lays eggs in this species."
+      ],
+      "branchCoverage": [
+        "an animal that produces gametes (ova) that can be fertilized by male gametes (spermatozoa) -> an animal of the sex that produces eggs which a male can fertilize"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "female senses: noun 'animal' = an animal of the sex that produces eggs; noun 'person' = a woman or girl.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "female%1:18:00::",
+      "lemma": "female",
+      "pos": "n",
+      "definition": "a person who belongs to the sex that can have babies",
+      "decision": "gloss",
+      "simpleMeaning": "a person of the sex that can have babies.",
+      "scope": "This means a woman or girl, not an animal.",
+      "examples": [
+        "The club admits both males and females.",
+        "Females in the study lived longer than males."
+      ],
+      "branchCoverage": [
+        "a person who belongs to the sex that can have babies -> a person of the sex that can have babies"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "female senses: noun 'animal' = an animal of the sex that produces eggs; noun 'person' = a woman or girl.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "focus%1:07:01::",
+      "lemma": "focus",
+      "pos": "n",
+      "definition": "maximum clarity or distinctness of an image rendered by an optical system",
+      "decision": "gloss",
+      "simpleMeaning": "the point at which an image from a camera or lens is sharpest.",
+      "scope": "This is about a sharp image, not about the main subject of attention or a clear idea.",
+      "examples": [
+        "The photograph is out of focus.",
+        "Turn the ring until the image comes into focus."
+      ],
+      "branchCoverage": [
+        "maximum clarity or distinctness of an image rendered by an optical system -> the point at which an image from a camera or lens is sharpest"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "focus senses: noun 'clarity of an image' = the point where a camera or lens makes the sharpest picture; verb 'bring into focus or alignment' = to bring ideas or feelings together into one clear point; noun 'clarity of an idea' = the state of an idea being clear and exact.",
+      "meaning": "the state of an image being as sharp and clear as possible",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss makes image clarity a location; better: 'the state of an image being as sharp and clear as possible'."
+    },
+    {
+      "senseId": "focus%2:31:01::",
+      "lemma": "focus",
+      "pos": "v",
+      "definition": "bring into focus or alignment; to converge or cause to converge; of ideas or emotions",
+      "decision": "gloss",
+      "simpleMeaning": "to bring ideas or feelings together into one clear point.",
+      "scope": "This is about thoughts or emotions becoming clear, not about making a camera image sharp.",
+      "examples": [
+        "The meeting helped focus our ideas on the real problem.",
+        "Anger focused his thoughts on one goal."
+      ],
+      "branchCoverage": [
+        "bring into focus or alignment -> bring ideas or feelings together into one clear point",
+        "to converge or cause to converge -> bring together",
+        "of ideas or emotions -> ideas or feelings"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "focus senses: noun 'clarity of an image' = the point where a camera or lens makes the sharpest picture; verb 'bring into focus or alignment' = to bring ideas or feelings together into one clear point; noun 'clarity of an idea' = the state of an idea being clear and exact.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "focus%1:07:03::",
+      "lemma": "focus",
+      "pos": "n",
+      "definition": "maximum clarity or distinctness of an idea",
+      "decision": "gloss",
+      "simpleMeaning": "the state of an idea being completely clear and exact.",
+      "scope": "This is about a clear idea, not about a sharp image from a camera.",
+      "examples": [
+        "The discussion brought the problem into focus.",
+        "Her essay lacks focus and jumps between topics."
+      ],
+      "branchCoverage": [
+        "maximum clarity or distinctness of an idea -> the state of an idea being completely clear and exact"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "focus senses: noun 'clarity of an image' = the point where a camera or lens makes the sharpest picture; verb 'bring into focus or alignment' = to bring ideas or feelings together into one clear point; noun 'clarity of an idea' = the state of an idea being clear and exact.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "individual%1:03:00::",
+      "lemma": "individual",
+      "pos": "n",
+      "definition": "a human being; person, singular, assertive existential pronoun; pronoun, person, singular; quantifier: assertive existential",
+      "decision": "gloss",
+      "simpleMeaning": "one person, considered on their own.",
+      "scope": "This means a single person, not a group or a general type.",
+      "examples": [
+        "Each individual has the right to speak.",
+        "The virus can pass from one individual to another."
+      ],
+      "branchCoverage": [
+        "a human being -> one person, considered on their own",
+        "person, singular, assertive existential pronoun -> declared grammar/usage label",
+        "pronoun, person, singular -> declared grammar/usage label",
+        "quantifier: assertive existential -> declared grammar/usage label",
+        "after colon: assertive existential -> declared grammar/usage label"
+      ],
+      "labelBranches": [
+        "person, singular, assertive existential pronoun",
+        "pronoun, person, singular",
+        "quantifier: assertive existential",
+        "after colon: assertive existential"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leading%1:06:00::",
+      "lemma": "leading",
+      "pos": "n",
+      "definition": "thin strip of metal used to separate lines of type in printing",
+      "decision": "gloss",
+      "simpleMeaning": "a thin strip of metal put between rows of printed letters to space them out.",
+      "scope": "This is a printing material, not the act of guiding a group or being in first place.",
+      "examples": [
+        "The printer adjusted the leading to make the page easier to read.",
+        "Strips of leading separate the lines on this old press."
+      ],
+      "branchCoverage": [
+        "thin strip of metal used to separate lines of type in printing -> a thin strip of metal put between rows of printed letters to space them out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "leading senses: noun 'metal strip' = a thin strip of metal that spaces out lines of type; adjective 'greatest' = most important or most successful in a group; noun 'activity of leading' = the work of guiding a group or being in charge.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leading%5:00:00:superior:01",
+      "lemma": "leading",
+      "pos": "a",
+      "definition": "greatest in importance or degree or significance or achievement",
+      "decision": "gloss",
+      "simpleMeaning": "most important or most successful in a group.",
+      "scope": "This describes the top person or thing, not the metal strips used in printing.",
+      "examples": [
+        "She is a leading expert on climate change.",
+        "The company is a leading maker of electric cars."
+      ],
+      "branchCoverage": [
+        "greatest in importance or degree or significance or achievement -> most important or most successful in a group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "leading senses: noun 'metal strip' = a thin strip of metal that spaces out lines of type; adjective 'greatest' = most important or most successful in a group; noun 'activity of leading' = the work of guiding a group or being in charge.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leading%1:04:00::",
+      "lemma": "leading",
+      "pos": "n",
+      "definition": "the activity of leading",
+      "decision": "gloss",
+      "simpleMeaning": "the work of guiding a group or being in charge of it.",
+      "scope": "This is the act of guiding people, not the metal strips used in printing and not the position of being first.",
+      "examples": [
+        "The course teaches leading and teamwork.",
+        "Her leading of the project was calm and effective."
+      ],
+      "branchCoverage": [
+        "the activity of leading -> the work of guiding a group or being in charge of it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "leading senses: noun 'metal strip' = a thin strip of metal that spaces out lines of type; adjective 'greatest' = most important or most successful in a group; noun 'activity of leading' = the work of guiding a group or being in charge.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,1019 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 30,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1450,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "complex%3:00:00::",
+      "lemma": "complex",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "complicated in structure; consisting of interconnected parts",
+      "synsetId": "02183738-a",
+      "words": 7,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1344,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "complicated in structure",
+        "consisting of interconnected parts"
+      ]
+    },
+    {
+      "senseId": "complex%1:09:00::",
+      "lemma": "complex",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a conceptual whole made up of complicated and related parts",
+      "synsetId": "05878987-n",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1344,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a conceptual whole made up of complicated and related parts"
+      ]
+    },
+    {
+      "senseId": "condition%1:10:01::",
+      "lemma": "condition",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an assumption on which rests the validity or effect of something else",
+      "synsetId": "06768279-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1345,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an assumption on which rests the validity or effect of something else"
+      ]
+    },
+    {
+      "senseId": "condition%2:32:00::",
+      "lemma": "condition",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "specify as a condition or requirement in a contract or agreement; make an express demand or provision in an agreement",
+      "synsetId": "01020937-v",
+      "words": 20,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1345,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "specify as a condition or requirement in a contract or agreement",
+        "make an express demand or provision in an agreement"
+      ]
+    },
+    {
+      "senseId": "condition%2:41:00::",
+      "lemma": "condition",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "develop (a child's or animal's) behavior by instruction and practice; especially to teach self-control",
+      "synsetId": "02559394-v",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1345,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "develop (a child's or animal's) behavior by instruction and practice",
+        "especially to teach self-control"
+      ]
+    },
+    {
+      "senseId": "condition%2:41:01::",
+      "lemma": "condition",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "establish a conditioned response",
+      "synsetId": "02577683-v",
+      "words": 4,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1345,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "establish a conditioned response"
+      ]
+    },
+    {
+      "senseId": "division%1:09:00::",
+      "lemma": "division",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "one of the portions into which something is regarded as divided and which together constitute a whole",
+      "synsetId": "05876035-n",
+      "words": 17,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1346,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one of the portions into which something is regarded as divided and which together constitute a whole"
+      ]
+    },
+    {
+      "senseId": "evening%1:28:00::",
+      "lemma": "evening",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)",
+      "synsetId": "15191509-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1347,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)"
+      ]
+    },
+    {
+      "senseId": "flight%1:14:01::",
+      "lemma": "flight",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a formation of aircraft in flight",
+      "synsetId": "08237455-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1348,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a formation of aircraft in flight"
+      ]
+    },
+    {
+      "senseId": "flight%2:41:00::",
+      "lemma": "flight",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "shoot a bird in flight",
+      "synsetId": "02490360-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1348,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "shoot a bird in flight"
+      ]
+    },
+    {
+      "senseId": "freedom%1:26:00::",
+      "lemma": "freedom",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the condition of being free; the power to act or speak or think without externally imposed restraints",
+      "synsetId": "14015308-n",
+      "words": 17,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1349,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the condition of being free",
+        "the power to act or speak or think without externally imposed restraints"
+      ]
+    },
+    {
+      "senseId": "heat%2:37:00::",
+      "lemma": "heat",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "arouse or excite feelings and passions",
+      "synsetId": "01764964-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1350,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "arouse or excite feelings and passions"
+      ]
+    },
+    {
+      "senseId": "interview%1:10:01::",
+      "lemma": "interview",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the questioning of a person (or a conversation in which information is elicited); often conducted by journalists",
+      "synsetId": "07210735-n",
+      "words": 17,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1352,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the questioning of a person (or a conversation in which information is elicited)",
+        "often conducted by journalists"
+      ]
+    },
+    {
+      "senseId": "interview%2:32:00::",
+      "lemma": "interview",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "conduct an interview in television, newspaper, and radio reporting",
+      "synsetId": "00810517-v",
+      "words": 9,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1352,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "conduct an interview in television, newspaper, and radio reporting"
+      ]
+    },
+    {
+      "senseId": "interview%2:32:02::",
+      "lemma": "interview",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "go for an interview in the hope of being hired",
+      "synsetId": "00811115-v",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1352,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "go for an interview in the hope of being hired"
+      ]
+    },
+    {
+      "senseId": "library%1:14:00::",
+      "lemma": "library",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a collection of literary documents or records kept for reference or borrowing",
+      "synsetId": "07994293-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1353,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a collection of literary documents or records kept for reference or borrowing"
+      ]
+    },
+    {
+      "senseId": "putting%1:04:00::",
+      "lemma": "putting",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "hitting a golf ball that is on the green using a putter",
+      "synsetId": "00573875-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1358,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "hitting a golf ball that is on the green using a putter"
+      ]
+    },
+    {
+      "senseId": "queen%1:05:01::",
+      "lemma": "queen",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the only fertile female in a colony of social insects such as bees and ants and termites; its function is to lay eggs",
+      "synsetId": "02315660-n",
+      "words": 23,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1359,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the only fertile female in a colony of social insects such as bees and ants and termites",
+        "its function is to lay eggs"
+      ]
+    },
+    {
+      "senseId": "queen%2:41:00::",
+      "lemma": "queen",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "promote to a queen, as of a pawn in chess",
+      "synsetId": "02599946-v",
+      "words": 10,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1359,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "promote to a queen, as of a pawn in chess"
+      ]
+    },
+    {
+      "senseId": "sitting%3:00:02::",
+      "lemma": "sitting",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(of persons) having the torso erect and legs bent with the body supported on the buttocks",
+      "synsetId": "01242902-a",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1362,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of persons) having the torso erect and legs bent with the body supported on the buttocks"
+      ]
+    },
+    {
+      "senseId": "sitting%1:04:00::",
+      "lemma": "sitting",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of assuming or maintaining a seated position",
+      "synsetId": "00345085-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1362,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of assuming or maintaining a seated position"
+      ]
+    },
+    {
+      "senseId": "standing%1:10:00::",
+      "lemma": "standing",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an ordered listing of scores or results showing the relative positions of competitors (individuals or teams) in a sporting event",
+      "synsetId": "06508107-n",
+      "words": 20,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1363,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an ordered listing of scores or results showing the relative positions of competitors (individuals or teams) in a sporting event"
+      ]
+    },
+    {
+      "senseId": "standing%1:04:00::",
+      "lemma": "standing",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of assuming or maintaining an erect upright position",
+      "synsetId": "00349906-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1363,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of assuming or maintaining an erect upright position"
+      ]
+    },
+    {
+      "senseId": "accept%2:32:00::",
+      "lemma": "accept",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "give an affirmative reply to; respond favorably to",
+      "synsetId": "00799359-v",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1366,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "give an affirmative reply to",
+        "respond favorably to"
+      ]
+    },
+    {
+      "senseId": "actual%5:00:00:true:00",
+      "lemma": "actual",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "being or reflecting the essential or genuine character of something",
+      "synsetId": "02470192-s",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1367,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "being or reflecting the essential or genuine character of something"
+      ]
+    },
+    {
+      "senseId": "attempt%1:04:00::",
+      "lemma": "attempt",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "earnest and conscientious activity intended to do or accomplish something",
+      "synsetId": "00787849-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1369,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "earnest and conscientious activity intended to do or accomplish something"
+      ]
+    },
+    {
+      "senseId": "attempt%2:41:00::",
+      "lemma": "attempt",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make an effort or attempt",
+      "synsetId": "02535833-v",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1369,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make an effort or attempt"
+      ]
+    },
+    {
+      "senseId": "channel%1:25:00::",
+      "lemma": "channel",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)",
+      "synsetId": "13916479-n",
+      "words": 26,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1371,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)"
+      ]
+    },
+    {
+      "senseId": "channel%2:38:01::",
+      "lemma": "channel",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "transmit or serve as the medium for transmission",
+      "synsetId": "02084180-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1371,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "transmit or serve as the medium for transmission"
+      ]
+    },
+    {
+      "senseId": "distance%1:15:00::",
+      "lemma": "distance",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a distant region",
+      "synsetId": "08573923-n",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1372,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a distant region"
+      ]
+    },
+    {
+      "senseId": "distance%2:42:00::",
+      "lemma": "distance",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "keep at a distance",
+      "synsetId": "02688950-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1372,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "keep at a distance"
+      ]
+    },
+    {
+      "senseId": "exchange%1:10:00::",
+      "lemma": "exchange",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a mutual expression of views (especially an unpleasant one)",
+      "synsetId": "07149414-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1374,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mutual expression of views (especially an unpleasant one)"
+      ]
+    },
+    {
+      "senseId": "exchange%1:19:00::",
+      "lemma": "exchange",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "chemical process in which one atom or ion or group changes places with another",
+      "synsetId": "11429652-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1374,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "chemical process in which one atom or ion or group changes places with another"
+      ]
+    },
+    {
+      "senseId": "exchange%2:30:00::",
+      "lemma": "exchange",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "exchange or replace with another, usually of the same kind or category",
+      "synsetId": "00161033-v",
+      "words": 12,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1374,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "exchange or replace with another, usually of the same kind or category"
+      ]
+    },
+    {
+      "senseId": "fat%1:27:00::",
+      "lemma": "fat",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)",
+      "synsetId": "14888511-n",
+      "words": 17,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1375,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)"
+      ]
+    },
+    {
+      "senseId": "fat%1:08:00::",
+      "lemma": "fat",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a kind of body tissue containing stored fat that serves as a source of energy; it also cushions and insulates vital organs",
+      "synsetId": "05276464-n",
+      "words": 22,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1375,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a kind of body tissue containing stored fat that serves as a source of energy",
+        "it also cushions and insulates vital organs"
+      ]
+    },
+    {
+      "senseId": "fell%1:06:00::",
+      "lemma": "fell",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "seam made by turning under or folding together and stitching the seamed materials to avoid rough edges",
+      "synsetId": "03331420-n",
+      "words": 17,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1376,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "seam made by turning under or folding together and stitching the seamed materials to avoid rough edges"
+      ]
+    },
+    {
+      "senseId": "fell%2:35:02::",
+      "lemma": "fell",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "sew a seam by folding the edges",
+      "synsetId": "01333919-v",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1376,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "sew a seam by folding the edges"
+      ]
+    },
+    {
+      "senseId": "fell%5:00:00:inhumane:00",
+      "lemma": "fell",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(of persons or their actions) able or disposed to inflict pain or suffering",
+      "synsetId": "01266123-s",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1376,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of persons or their actions) able or disposed to inflict pain or suffering"
+      ]
+    },
+    {
+      "senseId": "finding%1:04:00::",
+      "lemma": "finding",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of determining the properties of something, usually by research or calculation",
+      "synsetId": "00152317-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1377,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of determining the properties of something, usually by research or calculation"
+      ]
+    },
+    {
+      "senseId": "glass%1:27:00::",
+      "lemma": "glass",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a brittle transparent solid with irregular atomic structure",
+      "synsetId": "14905454-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1378,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a brittle transparent solid with irregular atomic structure"
+      ]
+    },
+    {
+      "senseId": "glass%1:06:00::",
+      "lemma": "glass",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a container made of glass for holding liquids while drinking",
+      "synsetId": "03443167-n",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1378,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a container made of glass for holding liquids while drinking"
+      ]
+    },
+    {
+      "senseId": "glass%1:23:00::",
+      "lemma": "glass",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the quantity a glass will hold",
+      "synsetId": "13789379-n",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1378,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the quantity a glass will hold"
+      ]
+    },
+    {
+      "senseId": "glass%2:35:00::",
+      "lemma": "glass",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "enclose with glass",
+      "synsetId": "01590496-v",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1378,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "enclose with glass"
+      ]
+    },
+    {
+      "senseId": "glass%2:40:00::",
+      "lemma": "glass",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "furnish with glass",
+      "synsetId": "02340359-v",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1378,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "furnish with glass"
+      ]
+    },
+    {
+      "senseId": "mobile%1:06:00::",
+      "lemma": "mobile",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents",
+      "synsetId": "03781824-n",
+      "words": 16,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1381,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "sculpture suspended in midair whose delicately balanced parts can be set in motion by air currents"
+      ]
+    },
+    {
+      "senseId": "northern%3:00:02::",
+      "lemma": "northern",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line",
+      "synsetId": "01610335-a",
+      "words": 17,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1382,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line"
+      ]
+    },
+    {
+      "senseId": "northern%5:00:02:north:00",
+      "lemma": "northern",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "oriented toward the north",
+      "synsetId": "01605879-s",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1382,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "oriented toward the north"
+      ]
+    },
+    {
+      "senseId": "northern%5:00:01:north:00",
+      "lemma": "northern",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "coming from the north; used especially of wind",
+      "synsetId": "01605651-s",
+      "words": 8,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1382,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "coming from the north",
+        "used especially of wind"
+      ]
+    },
+    {
+      "senseId": "powerful%3:00:00::",
+      "lemma": "powerful",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "having great power or force or potency or effect",
+      "synsetId": "01831389-a",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1385,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having great power or force or potency or effect"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1018 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 56,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 2750,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "meet%2:34:00::",
+      "lemma": "meet",
+      "pos": "v",
+      "senseIndex": 3,
+      "definition": "fill, satisfy or meet a want or need or condition or restriction",
+      "synsetId": "01185870-v",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 532,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "fill, satisfy or meet a want or need or condition or restriction"
+      ]
+    },
+    {
+      "senseId": "program%1:10:00::",
+      "lemma": "program",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "an announcement of the events that will occur as part of a theatrical or sporting event",
+      "synsetId": "06761180-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 533,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an announcement of the events that will occur as part of a theatrical or sporting event"
+      ]
+    },
+    {
+      "senseId": "program%1:10:04::",
+      "lemma": "program",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a document stating the aims and principles of a political party",
+      "synsetId": "06513302-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 533,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a document stating the aims and principles of a political party"
+      ]
+    },
+    {
+      "senseId": "type%1:06:00::",
+      "lemma": "type",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "a small metal block bearing a raised character on one end; produces a printed character when inked and pressed on paper",
+      "synsetId": "04511781-n",
+      "words": 21,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 534,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a small metal block bearing a raised character on one end",
+        "produces a printed character when inked and pressed on paper"
+      ]
+    },
+    {
+      "senseId": "chance%1:07:00::",
+      "lemma": "chance",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a measure of how likely it is that some event will occur; a number expressing the ratio of favorable cases to the whole number of cases possible",
+      "synsetId": "05098974-n",
+      "words": 27,
+      "rare": 5,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 536,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a measure of how likely it is that some event will occur",
+        "a number expressing the ratio of favorable cases to the whole number of cases possible"
+      ]
+    },
+    {
+      "senseId": "father%1:18:06::",
+      "lemma": "father",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a person who founds or establishes some institution",
+      "synsetId": "10127072-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 537,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who founds or establishes some institution"
+      ]
+    },
+    {
+      "senseId": "march%1:10:01::",
+      "lemma": "march",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "genre of music written for marching",
+      "synsetId": "07072336-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 538,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "genre of music written for marching"
+      ]
+    },
+    {
+      "senseId": "march%2:38:10::",
+      "lemma": "march",
+      "pos": "v",
+      "senseIndex": 5,
+      "definition": "cause to march or go at a marching pace",
+      "synsetId": "02088834-v",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 538,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cause to march or go at a marching pace"
+      ]
+    },
+    {
+      "senseId": "march%2:41:00::",
+      "lemma": "march",
+      "pos": "v",
+      "senseIndex": 3,
+      "definition": "march in protest; take part in a demonstration",
+      "synsetId": "02527482-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 538,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "march in protest",
+        "take part in a demonstration"
+      ]
+    },
+    {
+      "senseId": "process%1:03:00::",
+      "lemma": "process",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "a sustained phenomenon or one marked by gradual changes through a series of states",
+      "synsetId": "00029976-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 539,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sustained phenomenon or one marked by gradual changes through a series of states"
+      ]
+    },
+    {
+      "senseId": "process%1:08:00::",
+      "lemma": "process",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "a natural prolongation or projection from a part of an organism either animal or plant",
+      "synsetId": "05477841-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 539,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a natural prolongation or projection from a part of an organism either animal or plant"
+      ]
+    },
+    {
+      "senseId": "process%2:35:00::",
+      "lemma": "process",
+      "pos": "v",
+      "senseIndex": 5,
+      "definition": "deliver a warrant or summons to someone",
+      "synsetId": "01441318-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 539,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "deliver a warrant or summons to someone"
+      ]
+    },
+    {
+      "senseId": "process%2:41:00::",
+      "lemma": "process",
+      "pos": "v",
+      "senseIndex": 3,
+      "definition": "institute legal proceedings against; file a suit against",
+      "synsetId": "02588127-v",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 539,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "institute legal proceedings against",
+        "file a suit against"
+      ]
+    },
+    {
+      "senseId": "process%1:09:01::",
+      "lemma": "process",
+      "pos": "n",
+      "senseIndex": 3,
+      "definition": "a mental process that you are not directly aware of",
+      "synsetId": "05709685-n",
+      "words": 10,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 539,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mental process that you are not directly aware of"
+      ]
+    },
+    {
+      "senseId": "study%1:10:01::",
+      "lemma": "study",
+      "pos": "n",
+      "senseIndex": 9,
+      "definition": "a composition intended to develop one aspect of the performer's technique",
+      "synsetId": "07062685-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 541,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a composition intended to develop one aspect of the performer's technique"
+      ]
+    },
+    {
+      "senseId": "study%1:06:01::",
+      "lemma": "study",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "preliminary drawing for later elaboration",
+      "synsetId": "04234206-n",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 541,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "preliminary drawing for later elaboration"
+      ]
+    },
+    {
+      "senseId": "study%1:09:01::",
+      "lemma": "study",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "attentive consideration and meditation",
+      "synsetId": "05792247-n",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 541,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "attentive consideration and meditation"
+      ]
+    },
+    {
+      "senseId": "study%2:31:04::",
+      "lemma": "study",
+      "pos": "v",
+      "senseIndex": 5,
+      "definition": "think intently and at length, as for spiritual purposes",
+      "synsetId": "00706154-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 541,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "think intently and at length, as for spiritual purposes"
+      ]
+    },
+    {
+      "senseId": "study%1:06:00::",
+      "lemma": "study",
+      "pos": "n",
+      "senseIndex": 4,
+      "definition": "a room used for reading and writing and studying",
+      "synsetId": "04352106-n",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 541,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a room used for reading and writing and studying"
+      ]
+    },
+    {
+      "senseId": "word%1:23:00::",
+      "lemma": "word",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "a string of bits stored in computer memory",
+      "synsetId": "13648798-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 542,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a string of bits stored in computer memory"
+      ]
+    },
+    {
+      "senseId": "action%1:06:01::",
+      "lemma": "action",
+      "pos": "n",
+      "senseIndex": 10,
+      "definition": "In firearms terminology, the mechanism that handles the ammunition (loads, locks, fires, and extracts the cartridges).",
+      "synsetId": "92459306-n",
+      "words": 16,
+      "rare": 10,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 544,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "In firearms terminology, the mechanism that handles the ammunition (loads, locks, fires, and extracts the cartridges)"
+      ]
+    },
+    {
+      "senseId": "action%1:07:00::",
+      "lemma": "action",
+      "pos": "n",
+      "senseIndex": 5,
+      "definition": "the trait of being active and energetic and forceful",
+      "synsetId": "04843181-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 544,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the trait of being active and energetic and forceful"
+      ]
+    },
+    {
+      "senseId": "clear%2:40:00::",
+      "lemma": "clear",
+      "pos": "v",
+      "senseIndex": 14,
+      "definition": "earn on some commercial or business transaction; earn as salary or wages",
+      "synsetId": "02294200-v",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "earn on some commercial or business transaction",
+        "earn as salary or wages"
+      ]
+    },
+    {
+      "senseId": "clear%2:40:12::",
+      "lemma": "clear",
+      "pos": "v",
+      "senseIndex": 11,
+      "definition": "clear from impurities, blemishes, pollution, etc.",
+      "synsetId": "02355436-v",
+      "words": 6,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "clear from impurities, blemishes, pollution, etc"
+      ]
+    },
+    {
+      "senseId": "clear%5:00:00:discerning:00",
+      "lemma": "clear",
+      "pos": "a",
+      "senseIndex": 16,
+      "definition": "characterized by ease and quickness in perceiving",
+      "synsetId": "00775175-s",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterized by ease and quickness in perceiving"
+      ]
+    },
+    {
+      "senseId": "clear%2:41:00::",
+      "lemma": "clear",
+      "pos": "v",
+      "senseIndex": 10,
+      "definition": "free from payment of customs duties, as of a shipment",
+      "synsetId": "02427509-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "free from payment of customs duties, as of a shipment"
+      ]
+    },
+    {
+      "senseId": "clear%5:00:00:distinct:00",
+      "lemma": "clear",
+      "pos": "a",
+      "senseIndex": 8,
+      "definition": "clear and distinct to the senses; easily perceptible",
+      "synsetId": "00783570-s",
+      "words": 8,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "clear and distinct to the senses",
+        "easily perceptible"
+      ]
+    },
+    {
+      "senseId": "clear%5:00:00:perfect:00",
+      "lemma": "clear",
+      "pos": "a",
+      "senseIndex": 12,
+      "definition": "free from flaw or blemish or impurity",
+      "synsetId": "01754557-s",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "free from flaw or blemish or impurity"
+      ]
+    },
+    {
+      "senseId": "clear%5:00:00:unencumbered:00",
+      "lemma": "clear",
+      "pos": "a",
+      "senseIndex": 7,
+      "definition": "(especially of a title) free from any encumbrance or limitation that presents a question of fact or law",
+      "synsetId": "00872561-s",
+      "words": 18,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(especially of a title) free from any encumbrance or limitation that presents a question of fact or law"
+      ]
+    },
+    {
+      "senseId": "clear%5:00:00:untroubled:00",
+      "lemma": "clear",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "characterized by freedom from troubling thoughts (especially guilt)",
+      "synsetId": "02468895-s",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterized by freedom from troubling thoughts (especially guilt)"
+      ]
+    },
+    {
+      "senseId": "clear%2:30:03::",
+      "lemma": "clear",
+      "pos": "v",
+      "senseIndex": 19,
+      "definition": "make clear, bright, light, or translucent",
+      "synsetId": "00550297-v",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make clear, bright, light, or translucent"
+      ]
+    },
+    {
+      "senseId": "clear%2:31:00::",
+      "lemma": "clear",
+      "pos": "v",
+      "senseIndex": 9,
+      "definition": "make free from confusion or ambiguity; make clear",
+      "synsetId": "00622730-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make free from confusion or ambiguity",
+        "make clear"
+      ]
+    },
+    {
+      "senseId": "clear%2:32:01::",
+      "lemma": "clear",
+      "pos": "v",
+      "senseIndex": 3,
+      "definition": "grant authorization or clearance for",
+      "synsetId": "00804987-v",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "grant authorization or clearance for"
+      ]
+    },
+    {
+      "senseId": "clear%5:00:00:net:00",
+      "lemma": "clear",
+      "pos": "a",
+      "senseIndex": 13,
+      "definition": "clear of charges or deductions",
+      "synsetId": "01587006-s",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 545,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "clear of charges or deductions"
+      ]
+    },
+    {
+      "senseId": "outside%5:00:00:extramural:00",
+      "lemma": "outside",
+      "pos": "a",
+      "senseIndex": 4,
+      "definition": "functioning outside the boundaries or precincts of an organized unit",
+      "synsetId": "01350597-s",
+      "words": 10,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 550,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "functioning outside the boundaries or precincts of an organized unit"
+      ]
+    },
+    {
+      "senseId": "outside%5:00:00:exterior:00",
+      "lemma": "outside",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "leading to or from the outside",
+      "synsetId": "00955951-s",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 550,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "leading to or from the outside"
+      ]
+    },
+    {
+      "senseId": "board%1:06:02::",
+      "lemma": "board",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "electrical device consisting of a flat insulated surface that contains switches and dials and meters for controlling other electrical devices",
+      "synsetId": "03102791-n",
+      "words": 20,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 554,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "electrical device consisting of a flat insulated surface that contains switches and dials and meters for controlling other electrical devices"
+      ]
+    },
+    {
+      "senseId": "board%1:06:04::",
+      "lemma": "board",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities",
+      "synsetId": "03037971-n",
+      "words": 18,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 554,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities"
+      ]
+    },
+    {
+      "senseId": "board%1:06:05::",
+      "lemma": "board",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "a flat portable surface (usually rectangular) designed for board games",
+      "synsetId": "02860303-n",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 554,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a flat portable surface (usually rectangular) designed for board games"
+      ]
+    },
+    {
+      "senseId": "cut%1:10:04::",
+      "lemma": "cut",
+      "pos": "n",
+      "senseIndex": 7,
+      "definition": "a distinct selection of music from a recording or a compact disc",
+      "synsetId": "06625218-n",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a distinct selection of music from a recording or a compact disc"
+      ]
+    },
+    {
+      "senseId": "cut%1:10:01::",
+      "lemma": "cut",
+      "pos": "n",
+      "senseIndex": 8,
+      "definition": "the omission that is made when an editorial change shortens a written passage",
+      "synsetId": "06439886-n",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the omission that is made when an editorial change shortens a written passage"
+      ]
+    },
+    {
+      "senseId": "cut%1:10:02::",
+      "lemma": "cut",
+      "pos": "n",
+      "senseIndex": 6,
+      "definition": "a remark capable of wounding mentally",
+      "synsetId": "06734210-n",
+      "words": 6,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a remark capable of wounding mentally"
+      ]
+    },
+    {
+      "senseId": "cut%2:35:05::",
+      "lemma": "cut",
+      "pos": "v",
+      "senseIndex": 25,
+      "definition": "divide a deck of cards at random into two parts to make selection difficult",
+      "synsetId": "01558219-v",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "divide a deck of cards at random into two parts to make selection difficult"
+      ]
+    },
+    {
+      "senseId": "cut%3:00:02::",
+      "lemma": "cut",
+      "pos": "a",
+      "senseIndex": 5,
+      "definition": "(of pages of a book) having the folds of the leaves trimmed or slit",
+      "synsetId": "00666145-a",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of pages of a book) having the folds of the leaves trimmed or slit"
+      ]
+    },
+    {
+      "senseId": "cut%1:04:07::",
+      "lemma": "cut",
+      "pos": "n",
+      "senseIndex": 12,
+      "definition": "in baseball; a batter's attempt to hit a pitched ball",
+      "synsetId": "00572481-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in baseball",
+        "a batter's attempt to hit a pitched ball"
+      ]
+    },
+    {
+      "senseId": "cut%1:06:01::",
+      "lemma": "cut",
+      "pos": "n",
+      "senseIndex": 10,
+      "definition": "a canal made by erosion or excavation",
+      "synsetId": "03157409-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a canal made by erosion or excavation"
+      ]
+    },
+    {
+      "senseId": "cut%2:30:02::",
+      "lemma": "cut",
+      "pos": "v",
+      "senseIndex": 32,
+      "definition": "weed out unwanted or unnecessary things",
+      "synsetId": "00474253-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "weed out unwanted or unnecessary things"
+      ]
+    },
+    {
+      "senseId": "cut%2:30:05::",
+      "lemma": "cut",
+      "pos": "v",
+      "senseIndex": 37,
+      "definition": "lessen the strength or flavor of a solution or mixture",
+      "synsetId": "00226497-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lessen the strength or flavor of a solution or mixture"
+      ]
+    },
+    {
+      "senseId": "cut%2:30:08::",
+      "lemma": "cut",
+      "pos": "v",
+      "senseIndex": 36,
+      "definition": "reduce in scope while retaining essential elements",
+      "synsetId": "00244786-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "reduce in scope while retaining essential elements"
+      ]
+    },
+    {
+      "senseId": "cut%2:30:14::",
+      "lemma": "cut",
+      "pos": "v",
+      "senseIndex": 31,
+      "definition": "shorten as if by severing the edges or ends of",
+      "synsetId": "00562167-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 556,
+      "priority": 1,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "shorten as if by severing the edges or ends of"
+      ]
+    }
+  ]
+}

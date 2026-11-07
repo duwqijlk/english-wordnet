@@ -1,0 +1,1002 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 8,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 45,
+      "of": 50,
+      "rate": 0.9
+    },
+    "selfApproved": [
+      "true%1:07:00::",
+      "lost%3:00:01::",
+      "university%1:14:01::",
+      "university%1:06:00::",
+      "wanted%3:00:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "ed65c041469fcca6b5b211d957e7d80bc77632aea5b61b047a543393af64824b"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "control%1:24:00::",
+      "lemma": "control",
+      "pos": "n",
+      "definition": "a relation of constraint of one entity (thing or person or group) by another",
+      "decision": "gloss",
+      "simpleMeaning": "A situation in which one person, group, or thing limits what another can do.",
+      "scope": "This is the limiting relationship between two parties, not the act of directing people or things.",
+      "examples": [
+        "Their relationship was one of control, with one side limiting what the other could do.",
+        "The old contract kept the workers under the control of the owners."
+      ],
+      "branchCoverage": [
+        "a relation of constraint of one entity (thing or person or group) by another -> \"one person, group, or thing limits what another can do\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "control (n) names the limiting relationship between two parties; control (v) names the act of directing people or things by authority.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%2:41:00::",
+      "lemma": "control",
+      "pos": "v",
+      "definition": "exercise authoritative control or power over",
+      "decision": "gloss",
+      "simpleMeaning": "to use your power to decide what someone or something does.",
+      "scope": "This is about authority over people or things, not about operating a machine, checking facts, or holding something back.",
+      "examples": [
+        "She controls the family business.",
+        "The new manager controls how the money is spent."
+      ],
+      "branchCoverage": [
+        "exercise authoritative control or power over -> \"use your power to decide what someone or something does\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "control (n) names the limiting relationship between two parties; control (v) names the act of directing people or things by authority.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "death%1:19:00::",
+      "lemma": "death",
+      "pos": "n",
+      "definition": "the permanent end of all life functions in an organism or part of an organism",
+      "decision": "gloss",
+      "simpleMeaning": "the end of life in a living thing or in part of it, which cannot be reversed.",
+      "scope": "This is the end of life itself, not the act of killing someone or a report of how many people died.",
+      "examples": [
+        "The death of his father changed his life.",
+        "The death of the old tree left a gap in the garden."
+      ],
+      "branchCoverage": [
+        "the permanent end of all life functions in an organism or part of an organism -> \"the end of life in a living thing or in part of it, which cannot be reversed\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "food%1:03:00::",
+      "lemma": "food",
+      "pos": "n",
+      "definition": "any substance that can be metabolized by an animal to give energy and build tissue",
+      "decision": "gloss",
+      "simpleMeaning": "anything that a living creature takes in and uses for energy and growth.",
+      "scope": "This is the substance itself, not a meal or a dish, and not something that gives the mind ideas.",
+      "examples": [
+        "We bought enough food for the whole week.",
+        "Plants make their own food from sunlight."
+      ],
+      "branchCoverage": [
+        "any substance that can be metabolized by an animal to give energy and build tissue -> \"anything that a living creature takes in and uses for energy and growth\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "guy%1:06:00::",
+      "lemma": "guy",
+      "pos": "n",
+      "definition": "a cable, wire, or rope that is used to brace something (especially a tent)",
+      "decision": "gloss",
+      "simpleMeaning": "a rope, wire, or cable that holds something steady, especially a tent.",
+      "scope": "This is a supporting rope or wire, not a man or a boy.",
+      "examples": [
+        "A guy wire keeps the tall antenna from falling.",
+        "The tent stayed up because the guy ropes were tied to strong pegs."
+      ],
+      "branchCoverage": [
+        "a cable, wire, or rope that is used to brace something (especially a tent) -> \"a rope, wire, or cable that holds something steady, especially a tent\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "guy (n) is the rope or wire itself; guy (v) is the act of steadying something with one.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "guy%2:30:00::",
+      "lemma": "guy",
+      "pos": "v",
+      "definition": "steady or support with a guy wire or cable",
+      "decision": "gloss",
+      "simpleMeaning": "to hold something steady with a rope or wire.",
+      "scope": "This is about steadying something with a line, not about making fun of someone.",
+      "examples": [
+        "They guyed the tent before the wind grew stronger.",
+        "The pole was guyed to the ground with strong cables."
+      ],
+      "branchCoverage": [
+        "steady or support with a guy wire or cable -> \"hold something steady with a rope or wire\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "guy (n) is the rope or wire itself; guy (v) is the act of steadying something with one.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pay%2:32:00::",
+      "lemma": "pay",
+      "pos": "v",
+      "definition": "convey, as of a compliment, regards, attention, etc.; bestow",
+      "decision": "gloss",
+      "simpleMeaning": "to give or offer something such as praise, respect, or attention to someone.",
+      "scope": "This is about giving words or attention, not about giving money for goods or work.",
+      "examples": [
+        "She paid him a compliment on his cooking.",
+        "We paid our respects at the memorial."
+      ],
+      "branchCoverage": [
+        "convey, as of a compliment, regards, attention, etc -> \"give or offer something such as praise, respect, or attention\"",
+        "bestow -> \"give or offer\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "south%1:24:02::",
+      "lemma": "south",
+      "pos": "n",
+      "definition": "the direction corresponding to the southward cardinal compass point",
+      "decision": "gloss",
+      "simpleMeaning": "the direction that is opposite north, thought of as a line or path.",
+      "scope": "This is the direction as a line or path, not the fixed 180-degree point on a compass and not a region.",
+      "examples": [
+        "The birds flew toward the south for the winter.",
+        "The window looks out to the south."
+      ],
+      "branchCoverage": [
+        "the direction corresponding to the southward cardinal compass point -> \"the direction that is opposite north, thought of as a line or path\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "south (n, 13858098) is the direction as a line or path; south (n, 13855574) is the fixed 180-degree compass point; south (n, 08579120) is the southern region of a place; south (adj) describes position, facing, or origin on that side; south (adv) describes movement in that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "south%1:24:00::",
+      "lemma": "south",
+      "pos": "n",
+      "definition": "the cardinal compass point that is at 180 degrees",
+      "decision": "gloss",
+      "simpleMeaning": "the fixed point on a compass that is opposite north and marks 180 degrees.",
+      "scope": "This is the marked point on a compass, not the general direction of travel and not a southern region.",
+      "examples": [
+        "The compass rose shows south at the bottom.",
+        "The needle swung around and settled on south."
+      ],
+      "branchCoverage": [
+        "the cardinal compass point that is at 180 degrees -> \"the fixed point on a compass that is opposite north and marks 180 degrees\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "south (n, 13858098) is the direction as a line or path; south (n, 13855574) is the fixed 180-degree compass point; south (n, 08579120) is the southern region of a place; south (adj) describes position, facing, or origin on that side; south (adv) describes movement in that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "south%3:00:00::",
+      "lemma": "south",
+      "pos": "a",
+      "definition": "situated in or facing or moving toward or coming from the south",
+      "decision": "gloss",
+      "simpleMeaning": "placed on, turned toward, moving toward, or coming from the side opposite north.",
+      "scope": "This describes where something is or where it comes from, not the compass point or a region.",
+      "examples": [
+        "They live on the south side of the city.",
+        "A south wind brought warm air."
+      ],
+      "branchCoverage": [
+        "situated in or facing or moving toward or coming from the south -> \"placed on, turned toward, moving toward, or coming from the side opposite north\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "south (n, 13858098) is the direction as a line or path; south (n, 13855574) is the fixed 180-degree compass point; south (n, 08579120) is the southern region of a place; south (adj) describes position, facing, or origin on that side; south (adv) describes movement in that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "south%1:15:02::",
+      "lemma": "south",
+      "pos": "n",
+      "definition": "a location in the southern part of a country, region, or city",
+      "decision": "gloss",
+      "simpleMeaning": "the part of a country, city, or other area that lies toward the direction opposite north.",
+      "scope": "This is a region inside a place, not a compass point or a direction of movement.",
+      "examples": [
+        "She grew up in the south of Spain.",
+        "The south of the country is warmer than the north."
+      ],
+      "branchCoverage": [
+        "a location in the southern part of a country, region, or city -> \"the part of a country, city, or other area that lies toward the direction opposite north\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "south (n, 13858098) is the direction as a line or path; south (n, 13855574) is the fixed 180-degree compass point; south (n, 08579120) is the southern region of a place; south (adj) describes position, facing, or origin on that side; south (adv) describes movement in that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "south%4:02:00::",
+      "lemma": "south",
+      "pos": "r",
+      "definition": "in a southern direction",
+      "decision": "gloss",
+      "simpleMeaning": "toward the direction that is opposite north.",
+      "scope": "This tells you the direction of movement, not a place or a point on a compass.",
+      "examples": [
+        "The train went south for two hours.",
+        "They walked south along the beach."
+      ],
+      "branchCoverage": [
+        "in a southern direction -> \"toward the direction that is opposite north\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "south (n, 13858098) is the direction as a line or path; south (n, 13855574) is the fixed 180-degree compass point; south (n, 08579120) is the southern region of a place; south (adj) describes position, facing, or origin on that side; south (adv) describes movement in that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "true%1:07:00::",
+      "lemma": "true",
+      "pos": "n",
+      "definition": "proper alignment; the property possessed by something that is in correct or proper alignment",
+      "decision": "gloss",
+      "simpleMeaning": "the state of being in the correct or exact position.",
+      "scope": "This is about exact alignment, not about a statement being factually correct.",
+      "examples": [
+        "The beam was cut out of true.",
+        "The door frame was out of true, so it stuck."
+      ],
+      "branchCoverage": [
+        "proper alignment -> \"in the correct or exact position\"",
+        "the property possessed by something that is in correct or proper alignment -> \"the state of being in the correct or exact position\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 'in true' is unnatural and reads as 'in truth'; use 'The door frame was out of true, so it stuck.'"
+    },
+    {
+      "senseId": "history%1:09:00::",
+      "lemma": "history",
+      "pos": "n",
+      "definition": "the discipline that records and interprets past events involving human beings",
+      "decision": "gloss",
+      "simpleMeaning": "the subject that studies, records, and explains past events involving people.",
+      "scope": "This is the field of study, not the events themselves or a story about them.",
+      "examples": [
+        "She studied history at university.",
+        "History helps us understand how earlier societies lived."
+      ],
+      "branchCoverage": [
+        "the discipline that records and interprets past events involving human beings -> \"the subject that studies, records, and explains past events involving people\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "large%3:00:00::",
+      "lemma": "large",
+      "pos": "a",
+      "definition": "above average in size or number or quantity or magnitude or extent",
+      "decision": "gloss",
+      "simpleMeaning": "bigger or greater than usual in size, number, amount, or reach.",
+      "scope": "This is about physical size or amount, not about importance or influence.",
+      "examples": [
+        "They live in a large house near the park.",
+        "A large number of people came to the show."
+      ],
+      "branchCoverage": [
+        "above average in size or number or quantity or magnitude or extent -> \"bigger or greater than usual in size, number, amount, or reach\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "large (adj, 01385012) means big in size or amount; large (adj, 02170722) means important in effect or influence; large (n) is a clothing size.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "large%5:00:00:significant:00",
+      "lemma": "large",
+      "pos": "a",
+      "definition": "fairly large or important in effect; influential",
+      "decision": "gloss",
+      "simpleMeaning": "important and able to have a strong effect on people or events.",
+      "scope": "This is about importance and influence, not about physical size or amount.",
+      "examples": [
+        "The decision had a large impact on the local economy.",
+        "She played a large part in the project's success."
+      ],
+      "branchCoverage": [
+        "fairly large or important in effect -> \"important and able to have a strong effect\"",
+        "influential -> \"a strong effect on people or events\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "large (adj, 01385012) means big in size or amount; large (adj, 02170722) means important in effect or influence; large (n) is a clothing size.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "large%1:07:00::",
+      "lemma": "large",
+      "pos": "n",
+      "definition": "a garment size for a large person",
+      "decision": "gloss",
+      "simpleMeaning": "a standard size of clothes that is bigger than medium.",
+      "scope": "This is a clothing size, not the quality of being big.",
+      "examples": [
+        "Do you have this shirt in a large?",
+        "She usually wears a large in jackets."
+      ],
+      "branchCoverage": [
+        "a garment size for a large person -> \"a standard size of clothes that is bigger than medium\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "large (adj, 01385012) means big in size or amount; large (adj, 02170722) means important in effect or influence; large (n) is a clothing size.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lost%3:00:02::",
+      "lemma": "lost",
+      "pos": "a",
+      "definition": "spiritually or physically doomed or destroyed",
+      "decision": "gloss",
+      "simpleMeaning": "certain to be destroyed or ruined, in body or spirit.",
+      "scope": "This means beyond saving, not simply unable to be found.",
+      "examples": [
+        "They believed the sinner was lost and could not be saved.",
+        "The old kingdom was lost to war and fire."
+      ],
+      "branchCoverage": [
+        "spiritually or physically doomed or destroyed -> \"certain to be destroyed or ruined, in body or spirit\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lost (adj, 01452455) means no longer held or findable; lost (adj, 01453748) means doomed or destroyed; lost (adj, 01688793) means confused about place or identity.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lost%3:00:01::",
+      "lemma": "lost",
+      "pos": "a",
+      "definition": "no longer in your possession or control; unable to be found or recovered",
+      "decision": "gloss",
+      "simpleMeaning": "gone from your possession, or impossible to find or get back.",
+      "scope": "This is about something you no longer have, not about being confused or doomed.",
+      "examples": [
+        "My keys are lost, so I cannot get into the house.",
+        "The money is lost and cannot be recovered."
+      ],
+      "branchCoverage": [
+        "no longer in your possession or control -> \"gone from your possession\"",
+        "unable to be found or recovered -> \"impossible to find or get back\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lost (adj, 01452455) means no longer held or findable; lost (adj, 01453748) means doomed or destroyed; lost (adj, 01688793) means confused about place or identity.",
+      "meaning": "no longer yours or under your control, or impossible to find or get back",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'or control'; 'possession' is formal. Say 'no longer yours or under your control, or impossible to find or get back'."
+    },
+    {
+      "senseId": "lost%5:00:00:unoriented:00",
+      "lemma": "lost",
+      "pos": "a",
+      "definition": "having lost your bearings; confused as to time or place or personal identity",
+      "decision": "gloss",
+      "simpleMeaning": "unable to tell where you are, what time it is, or who you are.",
+      "scope": "This is about confusion over place or identity, not about missing things or being doomed.",
+      "examples": [
+        "After the accident, he felt lost and could not remember his name.",
+        "She was lost in the dark forest without a map."
+      ],
+      "branchCoverage": [
+        "having lost your bearings -> \"unable to tell where you are\"",
+        "confused as to time or place or personal identity -> \"unable to tell what time it is or who you are\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lost (adj, 01452455) means no longer held or findable; lost (adj, 01453748) means doomed or destroyed; lost (adj, 01688793) means confused about place or identity.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "room%1:06:00::",
+      "lemma": "room",
+      "pos": "n",
+      "definition": "an area within a building enclosed by walls and floor and ceiling",
+      "decision": "gloss",
+      "simpleMeaning": "a space inside a building with walls, a floor, and a ceiling.",
+      "scope": "This is an enclosed space in a building, not empty space for something or a chance to do something.",
+      "examples": [
+        "The meeting is in the room at the end of the hall.",
+        "She painted her room blue."
+      ],
+      "branchCoverage": [
+        "an area within a building enclosed by walls and floor and ceiling -> \"a space inside a building with walls, a floor, and a ceiling\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "university%1:14:01::",
+      "lemma": "university",
+      "pos": "n",
+      "definition": "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees",
+      "decision": "gloss",
+      "simpleMeaning": "a large school where adults study many subjects, prepare for jobs, and earn degrees.",
+      "scope": "This is the organization that teaches and grants degrees, not its buildings or the people in it.",
+      "examples": [
+        "She teaches at a university in the north.",
+        "He went to university to study medicine."
+      ],
+      "branchCoverage": [
+        "a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees -> \"a large school where adults study many subjects, prepare for jobs, and earn degrees\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "university (n, 08303490) is the organization that teaches and grants degrees; university (n, 04518297) is the physical site and buildings; university (n, 08303084) is the group of teachers and students.",
+      "meaning": "a large school with many subjects that prepares adults for life and work and gives degrees",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'educate for life'; say 'a large school with many subjects that prepares adults for life and work and gives degrees'."
+    },
+    {
+      "senseId": "university%1:06:00::",
+      "lemma": "university",
+      "pos": "n",
+      "definition": "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching",
+      "decision": "gloss",
+      "simpleMeaning": "the buildings and land of a place where adults study for degrees, including offices, homes, and research spaces.",
+      "scope": "This is the physical place, not the organization or the people who study and teach there.",
+      "examples": [
+        "The university has a new library on its main campus.",
+        "They walked around the university and looked at the labs."
+      ],
+      "branchCoverage": [
+        "establishment where a seat of higher learning is housed, including administrative and living quarters as well as facilities for research and teaching -> \"the buildings and land of a place where adults study for degrees, including offices, homes, and research spaces\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "university (n, 08303490) is the organization that teaches and grants degrees; university (n, 04518297) is the physical site and buildings; university (n, 08303084) is the group of teachers and students.",
+      "meaning": "the buildings and land of a place where adults study for degrees, including offices, living quarters, research and teaching spaces",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'teaching'; 'homes' vague. Say 'buildings and land of a place where adults study for degrees, including offices, living quarters, research and teaching spaces'."
+    },
+    {
+      "senseId": "university%1:14:00::",
+      "lemma": "university",
+      "pos": "n",
+      "definition": "the body of faculty and students at a university",
+      "decision": "gloss",
+      "simpleMeaning": "all the teachers and students who belong to a place of higher learning.",
+      "scope": "This means the people as a group, not the buildings or the organization that runs them.",
+      "examples": [
+        "The whole university gathered in the hall to hear the speech.",
+        "The university voted to support the strike."
+      ],
+      "branchCoverage": [
+        "the body of faculty and students at a university -> \"all the teachers and students who belong to a place of higher learning\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "university (n, 08303490) is the organization that teaches and grants degrees; university (n, 04518297) is the physical site and buildings; university (n, 08303084) is the group of teachers and students.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "win%2:33:01::",
+      "lemma": "win",
+      "pos": "v",
+      "definition": "obtain advantages, such as points, etc.",
+      "decision": "gloss",
+      "simpleMeaning": "to gain points or another advantage in a game or contest.",
+      "scope": "This is about gaining points or an advantage during play, not about finishing first overall.",
+      "examples": [
+        "The player won two points with that shot.",
+        "They won an early advantage by scoring first."
+      ],
+      "branchCoverage": [
+        "obtain advantages, such as points, etc -> \"gain points or another advantage in a game or contest\""
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wrong%1:04:00::",
+      "lemma": "wrong",
+      "pos": "n",
+      "definition": "any harm or injury resulting from a violation of a legal right",
+      "decision": "gloss",
+      "simpleMeaning": "harm or damage that someone suffers because another person broke the law.",
+      "scope": "This is not a mistaken belief, an incorrect answer, or bad behaviour in general; it is the legal harm that a person actually suffers.",
+      "examples": [
+        "The court found that the company had done a wrong to its customers.",
+        "She went to court to get compensation for the wrong she had suffered."
+      ],
+      "branchCoverage": [
+        "any harm or injury resulting from a violation of a legal right -> harm or damage, someone suffers, broke the law"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wrong: noun = the legal harm a person suffers; adjective = morally bad or against the law; verb = to treat someone unfairly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wrong%3:00:01::",
+      "lemma": "wrong",
+      "pos": "a",
+      "definition": "contrary to conscience or morality or law",
+      "decision": "gloss",
+      "simpleMeaning": "bad in a moral way, unfair, or against the law.",
+      "scope": "This is not about a fact being incorrect, as in a wrong answer; it is about actions and choices that are bad or illegal.",
+      "examples": [
+        "It is wrong to take things that do not belong to you.",
+        "He knew that cheating was wrong, but he did it anyway."
+      ],
+      "branchCoverage": [
+        "contrary to conscience or morality or law -> bad in a moral way, unfair, against the law"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wrong: noun = the legal harm a person suffers; adjective = morally bad or against the law; verb = to treat someone unfairly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wrong%2:41:00::",
+      "lemma": "wrong",
+      "pos": "v",
+      "definition": "treat unjustly; do wrong to",
+      "decision": "gloss",
+      "simpleMeaning": "to treat someone unfairly or do something hurtful to them.",
+      "scope": "This is not about making a mistake or giving an incorrect answer; it is about behaving badly toward a person.",
+      "examples": [
+        "She felt she had been wronged by her manager and asked for an apology.",
+        "He wronged his friend by telling lies about him."
+      ],
+      "branchCoverage": [
+        "treat unjustly -> treat someone unfairly",
+        "do wrong to -> do something hurtful to them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wrong: noun = the legal harm a person suffers; adjective = morally bad or against the law; verb = to treat someone unfairly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pretty%5:00:00:beautiful:00",
+      "lemma": "pretty",
+      "pos": "a",
+      "definition": "pleasing by delicacy or grace; not imposing",
+      "decision": "gloss",
+      "simpleMeaning": "attractive in a light, delicate way rather than in a bold or grand way.",
+      "scope": "This is not the adverb meaning 'fairly' or 'quite', and it does not describe something large or impressive.",
+      "examples": [
+        "They rented a pretty cottage with roses around the door.",
+        "She wore a pretty blue dress to the wedding."
+      ],
+      "branchCoverage": [
+        "pleasing by delicacy or grace -> attractive in a light, delicate way",
+        "not imposing -> rather than in a bold or grand way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "remember%2:31:02::",
+      "lemma": "remember",
+      "pos": "v",
+      "definition": "recapture the past; indulge in memories",
+      "decision": "gloss",
+      "simpleMeaning": "to think about things that happened in the past, especially with pleasure.",
+      "scope": "This is not simply recalling a fact you need, such as a name or a date; it is spending time thinking about past times.",
+      "examples": [
+        "On winter evenings she likes to remember her childhood in the countryside.",
+        "He sat by the fire, remembering the summer they first met."
+      ],
+      "branchCoverage": [
+        "recapture the past -> think about things that happened in the past",
+        "indulge in memories -> especially with pleasure"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "air%1:27:00::",
+      "lemma": "air",
+      "pos": "n",
+      "definition": "a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of",
+      "decision": "gloss",
+      "simpleMeaning": "the gas around us that we breathe and that moves as wind.",
+      "scope": "This is not the mood a place seems to have, and not a tune or piece of music.",
+      "examples": [
+        "The mountain air was cold and clean.",
+        "Open the window and let some fresh air in."
+      ],
+      "branchCoverage": [
+        "a mixture of gases (especially oxygen) required for breathing -> the gas around us that we breathe",
+        "the stuff that the wind consists of -> that moves as wind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "air: noun (gas) = what we breathe and what wind is made of; noun (manner) = the mood or quality that a person or place seems to give off.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "air%1:07:00::",
+      "lemma": "air",
+      "pos": "n",
+      "definition": "a distinctive but intangible quality surrounding a person or thing",
+      "decision": "gloss",
+      "simpleMeaning": "the feeling or mood that seems to surround a person or place.",
+      "scope": "This is not the gas we breathe and not a tune; it is an impression given off by someone or something.",
+      "examples": [
+        "The old hotel had an air of faded elegance.",
+        "There was an air of excitement in the room before the show."
+      ],
+      "branchCoverage": [
+        "a distinctive but intangible quality surrounding a person or thing -> the feeling or mood that seems to surround a person or place"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "air: noun (gas) = what we breathe and what wind is made of; noun (manner) = the mood or quality that a person or place seems to give off.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "friend%1:18:03::",
+      "lemma": "friend",
+      "pos": "n",
+      "definition": "an associate who provides cooperation or assistance",
+      "decision": "gloss",
+      "simpleMeaning": "a person who helps you or works with you on something.",
+      "scope": "This is not a close companion you love and spend your free time with; it is someone who supports a person, group, or project.",
+      "examples": [
+        "The library is supported by a group of friends who raise money for new books.",
+        "She became a friend of the charity and helped at its events."
+      ],
+      "branchCoverage": [
+        "an associate who provides cooperation or assistance -> a person who helps you or works with you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nice%5:00:00:respectable:00",
+      "lemma": "nice",
+      "pos": "a",
+      "definition": "socially or conventionally correct; refined or virtuous",
+      "decision": "gloss",
+      "simpleMeaning": "behaving in a polite and proper way that society expects.",
+      "scope": "This is not about something being pleasant or enjoyable; it is about good, respectable behaviour.",
+      "examples": [
+        "He came from a nice family and always behaved politely at dinner.",
+        "It is not nice to talk with your mouth full."
+      ],
+      "branchCoverage": [
+        "socially or conventionally correct -> behaving in a polite and proper way that society expects",
+        "refined or virtuous -> good and well-mannered"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "nice: adjective (pleasant) = enjoyable or good to look at; adjective (proper) = behaving politely and respectably.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nice%3:00:00::",
+      "lemma": "nice",
+      "pos": "a",
+      "definition": "pleasant or pleasing or agreeable in nature or appearance",
+      "decision": "gloss",
+      "simpleMeaning": "pleasant and enjoyable, or good to look at.",
+      "scope": "This is not about good or respectable behaviour; it describes things and experiences that feel pleasant.",
+      "examples": [
+        "We had a nice day at the beach.",
+        "That is a nice picture you have painted."
+      ],
+      "branchCoverage": [
+        "pleasant or pleasing or agreeable in nature or appearance -> pleasant and enjoyable, or good to look at"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "nice: adjective (pleasant) = enjoyable or good to look at; adjective (proper) = behaving politely and respectably.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "playing%1:04:01::",
+      "lemma": "playing",
+      "pos": "n",
+      "definition": "the act of playing a musical instrument",
+      "decision": "gloss",
+      "simpleMeaning": "the activity of making music with an instrument.",
+      "scope": "This is not playing a game or a sport, and not singing; it is about performing on a musical instrument.",
+      "examples": [
+        "The audience clapped loudly at the end of her piano playing.",
+        "His playing has become much more confident since he joined the orchestra."
+      ],
+      "branchCoverage": [
+        "the act of playing a musical instrument -> the activity of making music with an instrument"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "class%2:31:00::",
+      "lemma": "class",
+      "pos": "v",
+      "definition": "arrange or order by classes or categories",
+      "decision": "gloss",
+      "simpleMeaning": "to put things into groups that share the same features.",
+      "scope": "This is not to teach a lesson or to belong to a school group; it is about sorting things into categories.",
+      "examples": [
+        "The librarian classes the books by subject and author.",
+        "Researchers classed the animals by size and diet."
+      ],
+      "branchCoverage": [
+        "arrange or order by classes or categories -> put things into groups that share the same features"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%2:41:00::",
+      "lemma": "close",
+      "pos": "v",
+      "definition": "cease to operate or cause to cease operating",
+      "decision": "gloss",
+      "simpleMeaning": "to stop working, or to make a business stop working.",
+      "scope": "This is not the physical action of shutting a door or lid; it is about a business, service, or machine stopping.",
+      "examples": [
+        "The shop closes at six on weekdays.",
+        "They had to close the factory after sales fell."
+      ],
+      "branchCoverage": [
+        "cease to operate or cause to cease operating -> stop working, or make a business stop working"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close: verb (shut) = to move shut; verb (stop operating) = to stop running a business or service; adjective = having a strong connection.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%3:00:02::",
+      "lemma": "close",
+      "pos": "a",
+      "definition": "close in relevance or relationship",
+      "decision": "gloss",
+      "simpleMeaning": "strongly connected through shared feelings, interests, or relationship.",
+      "scope": "This is not about being near in distance and not about being shut; it describes a strong personal or working connection.",
+      "examples": [
+        "She has been a close friend of mine since school.",
+        "The two countries have close ties in trade and culture."
+      ],
+      "branchCoverage": [
+        "close in relevance or relationship -> strongly connected through shared feelings, interests, or relationship"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close: verb (shut) = to move shut; verb (stop operating) = to stop running a business or service; adjective = having a strong connection.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%2:35:06::",
+      "lemma": "close",
+      "pos": "v",
+      "definition": "become closed",
+      "decision": "gloss",
+      "simpleMeaning": "to move shut so that no opening is left.",
+      "scope": "This is not about a business stopping work; it is the physical action of a door, lid, or flower shutting.",
+      "examples": [
+        "The door closed quietly behind her.",
+        "Many flowers close at night."
+      ],
+      "branchCoverage": [
+        "become closed -> move shut so that no opening is left"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close: verb (shut) = to move shut; verb (stop operating) = to stop running a business or service; adjective = having a strong connection.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "past%1:10:00::",
+      "lemma": "past",
+      "pos": "n",
+      "definition": "a verb tense that expresses actions or states in the past",
+      "decision": "gloss",
+      "simpleMeaning": "a verb form used for actions or states that happened before now.",
+      "scope": "This is not the earlier period of time itself, and not the preposition meaning 'beyond'; it is a grammar term.",
+      "examples": [
+        "In English, you often add '-ed' to a verb to form the past.",
+        "The teacher showed how the past works in the sentence 'I walked home'."
+      ],
+      "branchCoverage": [
+        "a verb tense that expresses actions or states in the past -> a verb form used for actions or states that happened before now"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "possible%3:00:04::",
+      "lemma": "possible",
+      "pos": "a",
+      "definition": "existing in possibility",
+      "decision": "gloss",
+      "simpleMeaning": "able to become real or true later, even if it is not real now.",
+      "scope": "This is not something that is certain or already happening; it is something that could exist or occur.",
+      "examples": [
+        "We must prepare for every possible result of the experiment.",
+        "The medicine has some possible side effects that patients should know about."
+      ],
+      "branchCoverage": [
+        "existing in possibility -> able to become real or true later, even if it is not real now"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wanted%3:00:00::",
+      "lemma": "wanted",
+      "pos": "a",
+      "definition": "desired or wished for or sought",
+      "decision": "gloss",
+      "simpleMeaning": "wished for or needed by people.",
+      "scope": "This is not about being loved and cared for by someone; it is about something people wish to have or find.",
+      "examples": [
+        "Their second child was very wanted, and they had planned for years to have her.",
+        "The council asked residents which new sports facilities were most wanted."
+      ],
+      "branchCoverage": [
+        "desired or wished for or sought -> wished for or needed by people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wanted: adjective (desired) = wished for or needed; adjective (loved) = cherished and cared for by someone.",
+      "meaning": "wished for or looked for by people.",
+      "verdict": "self-approved",
+      "reviewerNote": "Adds 'needed', absent from the definition, and drops 'sought'; needed things are not always wanted. Use 'wished for or looked for by people.'"
+    },
+    {
+      "senseId": "wanted%5:00:00:loved:00",
+      "lemma": "wanted",
+      "pos": "a",
+      "definition": "characterized by feeling or showing fond affection for",
+      "decision": "gloss",
+      "simpleMeaning": "loved and cared for by someone.",
+      "scope": "This is not about something being wished for or needed; it describes a person or animal that is cherished.",
+      "examples": [
+        "She grew up in a warm home where she felt wanted.",
+        "The puppy was clearly wanted and followed the boy everywhere."
+      ],
+      "branchCoverage": [
+        "characterized by feeling or showing fond affection for -> loved and cared for by someone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wanted: adjective (desired) = wished for or needed; adjective (loved) = cherished and cared for by someone.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cause%1:04:01::",
+      "lemma": "cause",
+      "pos": "n",
+      "definition": "a series of actions advancing a principle or tending toward a particular end",
+      "decision": "gloss",
+      "simpleMeaning": "an aim or principle that people work together to support.",
+      "scope": "This is not the reason why something happened, and not the act of making something happen; it is a goal people fight for.",
+      "examples": [
+        "She has campaigned for years for the cause of clean water.",
+        "They gave money to the cause of protecting wild animals."
+      ],
+      "branchCoverage": [
+        "a series of actions advancing a principle or tending toward a particular end -> an aim or principle that people work together to support"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cause: noun (aim) = a principle or aim people support; verb (event) = to bring about something, often by accident; verb (person) = to make someone act in a certain way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cause%2:32:00::",
+      "lemma": "cause",
+      "pos": "v",
+      "definition": "cause to do; cause to act in a specified manner",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone do something or act in a certain way.",
+      "scope": "This is not about making an event happen; it is about making a person behave in a particular way.",
+      "examples": [
+        "The loud noise caused everyone to jump.",
+        "Her speech caused the audience to think again about the problem."
+      ],
+      "branchCoverage": [
+        "cause to do -> make someone do something",
+        "cause to act in a specified manner -> act in a certain way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cause: noun (aim) = a principle or aim people support; verb (event) = to bring about something, often by accident; verb (person) = to make someone act in a certain way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cause%2:36:00::",
+      "lemma": "cause",
+      "pos": "v",
+      "definition": "give rise to; cause to happen or occur, not always intentionally",
+      "decision": "gloss",
+      "simpleMeaning": "to make something happen, often without meaning to.",
+      "scope": "This is not about making a person act in a certain way; it is about bringing about events or situations.",
+      "examples": [
+        "Heavy rain caused serious flooding in the valley.",
+        "The computer error caused a delay of two hours."
+      ],
+      "branchCoverage": [
+        "give rise to -> make something happen",
+        "cause to happen or occur, not always intentionally -> often without meaning to"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cause: noun (aim) = a principle or aim people support; verb (event) = to bring about something, often by accident; verb (person) = to make someone act in a certain way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "due%1:21:00::",
+      "lemma": "due",
+      "pos": "n",
+      "definition": "a payment that is due (e.g., as the price of membership)",
+      "decision": "gloss",
+      "simpleMeaning": "money that a member must pay to belong to a group or club.",
+      "scope": "This is not a favour owed to someone, and not the adjective meaning 'expected at a certain time'; it is a regular payment.",
+      "examples": [
+        "She paid her dues to the union every month.",
+        "He forgot to pay his dues and lost his membership."
+      ],
+      "branchCoverage": [
+        "a payment that is due (e.g., as the price of membership) -> money that a member must pay to belong to a group or club"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "happy%3:00:00::",
+      "lemma": "happy",
+      "pos": "a",
+      "definition": "enjoying or showing or marked by joy or pleasure",
+      "decision": "gloss",
+      "simpleMeaning": "feeling pleased and full of joy.",
+      "scope": "This is not the meaning 'willing to do something', and not the meaning 'lucky or fortunate'.",
+      "examples": [
+        "She looked happy as she opened her birthday presents.",
+        "We were so happy when we heard the good news."
+      ],
+      "branchCoverage": [
+        "enjoying or showing or marked by joy or pleasure -> feeling pleased and full of joy"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "human%1:05:00::",
+      "lemma": "human",
+      "pos": "n",
+      "definition": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+      "decision": "gloss",
+      "simpleMeaning": "a person, living now or long ago, who can think, speak, and walk upright.",
+      "scope": "This is not an ape or other animal, even one that looks similar, and not a machine or a spirit.",
+      "examples": [
+        "Humans have lived on this land for thousands of years.",
+        "The study asks how early humans made tools."
+      ],
+      "branchCoverage": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage -> a person, living now or long ago, who can think, speak, and walk upright"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

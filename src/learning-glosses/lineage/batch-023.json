@@ -1,0 +1,1022 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 23,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1100,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "message%1:10:01::",
+      "lemma": "message",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a communication (usually brief) that is written or spoken or signaled",
+      "synsetId": "06263820-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1013,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a communication (usually brief) that is written or spoken or signaled"
+      ]
+    },
+    {
+      "senseId": "message%1:10:00::",
+      "lemma": "message",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "content communicating a message; what something is about",
+      "synsetId": "06611268-n",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1013,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "content communicating a message",
+        "what something is about"
+      ]
+    },
+    {
+      "senseId": "message%2:32:00::",
+      "lemma": "message",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "send a message",
+      "synsetId": "01073350-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1013,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "send a message"
+      ]
+    },
+    {
+      "senseId": "message%2:32:01::",
+      "lemma": "message",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "send as a message",
+      "synsetId": "01073496-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1013,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "send as a message"
+      ]
+    },
+    {
+      "senseId": "message%2:32:02::",
+      "lemma": "message",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "send a message to",
+      "synsetId": "01073654-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1013,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "send a message to"
+      ]
+    },
+    {
+      "senseId": "region%1:08:00::",
+      "lemma": "region",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a part of an animal that has a special function or is supplied by a given artery or nerve",
+      "synsetId": "05229188-n",
+      "words": 19,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1019,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a part of an animal that has a special function or is supplied by a given artery or nerve"
+      ]
+    },
+    {
+      "senseId": "section%1:17:00::",
+      "lemma": "section",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a very thin slice (of tissue or mineral or other substance) for examination under a microscope",
+      "synsetId": "09451645-n",
+      "words": 16,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1021,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a very thin slice (of tissue or mineral or other substance) for examination under a microscope"
+      ]
+    },
+    {
+      "senseId": "section%1:15:01::",
+      "lemma": "section",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a distinct region or subdivision of a territorial or political area or community or group of people",
+      "synsetId": "08665897-n",
+      "words": 17,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1021,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a distinct region or subdivision of a territorial or political area or community or group of people"
+      ]
+    },
+    {
+      "senseId": "sort%1:09:00::",
+      "lemma": "sort",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a category of things distinguished by some common characteristic or quality",
+      "synsetId": "05847533-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1022,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a category of things distinguished by some common characteristic or quality"
+      ]
+    },
+    {
+      "senseId": "travel%2:38:00::",
+      "lemma": "travel",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "change location; move, travel, or proceed, also metaphorically",
+      "synsetId": "01839438-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1024,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "change location",
+        "move, travel, or proceed, also metaphorically"
+      ]
+    },
+    {
+      "senseId": "consider%2:31:01::",
+      "lemma": "consider",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "take into consideration for exemplifying purposes",
+      "synsetId": "00736077-v",
+      "words": 6,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1025,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "take into consideration for exemplifying purposes"
+      ]
+    },
+    {
+      "senseId": "consider%2:39:00::",
+      "lemma": "consider",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "give careful consideration to",
+      "synsetId": "02170904-v",
+      "words": 4,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1025,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "give careful consideration to"
+      ]
+    },
+    {
+      "senseId": "contact%1:26:00::",
+      "lemma": "contact",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the state or condition of touching or of being in immediate proximity",
+      "synsetId": "14442914-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1026,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the state or condition of touching or of being in immediate proximity"
+      ]
+    },
+    {
+      "senseId": "contact%2:35:03::",
+      "lemma": "contact",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "be in direct physical contact with; make contact",
+      "synsetId": "01208316-v",
+      "words": 8,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1026,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be in direct physical contact with",
+        "make contact"
+      ]
+    },
+    {
+      "senseId": "drop%1:07:00::",
+      "lemma": "drop",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a sudden sharp decrease in some quantity",
+      "synsetId": "05119135-n",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1027,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sudden sharp decrease in some quantity"
+      ]
+    },
+    {
+      "senseId": "drop%1:23:00::",
+      "lemma": "drop",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a small indefinite quantity (especially of a liquid)",
+      "synsetId": "13793544-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1027,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a small indefinite quantity (especially of a liquid)"
+      ]
+    },
+    {
+      "senseId": "fair%1:04:01::",
+      "lemma": "fair",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a traveling show; having sideshows and rides and games of skill etc.",
+      "synsetId": "00520389-n",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1028,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a traveling show",
+        "having sideshows and rides and games of skill etc"
+      ]
+    },
+    {
+      "senseId": "fair%2:35:00::",
+      "lemma": "fair",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "join so that the external surfaces blend smoothly",
+      "synsetId": "01297381-v",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1028,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "join so that the external surfaces blend smoothly"
+      ]
+    },
+    {
+      "senseId": "fair%3:00:03::",
+      "lemma": "fair",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "free from favoritism or self-interest or bias or deception; conforming with established standards or rules",
+      "synsetId": "00959321-a",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1028,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "free from favoritism or self-interest or bias or deception",
+        "conforming with established standards or rules"
+      ]
+    },
+    {
+      "senseId": "fair%1:14:01::",
+      "lemma": "fair",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "gathering of producers to promote business",
+      "synsetId": "08425514-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1028,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "gathering of producers to promote business"
+      ]
+    },
+    {
+      "senseId": "fair%4:02:00::",
+      "lemma": "fair",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "without favoring one party, in a fair evenhanded manner",
+      "synsetId": "00107446-r",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1028,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "without favoring one party, in a fair evenhanded manner"
+      ]
+    },
+    {
+      "senseId": "fair%4:02:01::",
+      "lemma": "fair",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "in conformity with the rules or laws and without fraud or cheating",
+      "synsetId": "00286521-r",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1028,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in conformity with the rules or laws and without fraud or cheating"
+      ]
+    },
+    {
+      "senseId": "kid%1:27:00::",
+      "lemma": "kid",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "soft smooth leather from the hide of a young goat",
+      "synsetId": "14787025-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1030,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "soft smooth leather from the hide of a young goat"
+      ]
+    },
+    {
+      "senseId": "positive%1:10:00::",
+      "lemma": "positive",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the primary form of an adjective or adverb; denotes a quality without qualification, comparison, or relation to increase or diminution",
+      "synsetId": "06333461-n",
+      "words": 20,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1031,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the primary form of an adjective or adverb",
+        "denotes a quality without qualification, comparison, or relation to increase or diminution"
+      ]
+    },
+    {
+      "senseId": "positive%3:00:01::",
+      "lemma": "positive",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "characterized by or displaying affirmation or acceptance or certainty etc.",
+      "synsetId": "01823004-a",
+      "words": 10,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1031,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterized by or displaying affirmation or acceptance or certainty etc"
+      ]
+    },
+    {
+      "senseId": "positive%1:06:00::",
+      "lemma": "positive",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a film showing a photographic image whose tones correspond to those of the original subject",
+      "synsetId": "03993867-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1031,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a film showing a photographic image whose tones correspond to those of the original subject"
+      ]
+    },
+    {
+      "senseId": "sale%1:04:01::",
+      "lemma": "sale",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an occasion (usually brief) for buying at specially reduced prices",
+      "synsetId": "01120044-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1032,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an occasion (usually brief) for buying at specially reduced prices"
+      ]
+    },
+    {
+      "senseId": "welcome%3:00:00::",
+      "lemma": "welcome",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "giving pleasure or satisfaction or received with pleasure or freely granted",
+      "synsetId": "02550712-a",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1035,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "giving pleasure or satisfaction or received with pleasure or freely granted"
+      ]
+    },
+    {
+      "senseId": "welcome%2:32:00::",
+      "lemma": "welcome",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "bid welcome to; greet upon arrival",
+      "synsetId": "00902346-v",
+      "words": 6,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1035,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "bid welcome to",
+        "greet upon arrival"
+      ]
+    },
+    {
+      "senseId": "welcome%1:26:00::",
+      "lemma": "welcome",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the state of being welcome",
+      "synsetId": "14436669-n",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1035,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the state of being welcome"
+      ]
+    },
+    {
+      "senseId": "absolutely%4:02:00::",
+      "lemma": "absolutely",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "completely and without qualification; used informally as intensifiers",
+      "synsetId": "00009459-r",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1036,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "completely and without qualification",
+        "used informally as intensifiers"
+      ]
+    },
+    {
+      "senseId": "conditions%1:26:03::",
+      "lemma": "conditions",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the set of circumstances that affect someone's welfare",
+      "synsetId": "13946063-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1039,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the set of circumstances that affect someone's welfare"
+      ]
+    },
+    {
+      "senseId": "conditions%1:26:04::",
+      "lemma": "conditions",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the prevailing context that influences the performance or the outcome of a process",
+      "synsetId": "13946252-n",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1039,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the prevailing context that influences the performance or the outcome of a process"
+      ]
+    },
+    {
+      "senseId": "earlier%4:02:00::",
+      "lemma": "earlier",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "earlier in time; previously",
+      "synsetId": "00061477-r",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1040,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "earlier in time",
+        "previously"
+      ]
+    },
+    {
+      "senseId": "extra%1:18:00::",
+      "lemma": "extra",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a minor actor in crowd scenes",
+      "synsetId": "10696008-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1041,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a minor actor in crowd scenes"
+      ]
+    },
+    {
+      "senseId": "immediately%4:02:00::",
+      "lemma": "immediately",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "without delay or hesitation; with no time intervening",
+      "synsetId": "00049277-r",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1043,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "without delay or hesitation",
+        "with no time intervening"
+      ]
+    },
+    {
+      "senseId": "immediately%4:02:05::",
+      "lemma": "immediately",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "bearing an immediate relation",
+      "synsetId": "00506609-r",
+      "words": 4,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1043,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "bearing an immediate relation"
+      ]
+    },
+    {
+      "senseId": "minute%5:00:00:careful:00",
+      "lemma": "minute",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "characterized by painstaking care and detailed examination",
+      "synsetId": "00311514-s",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1046,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characterized by painstaking care and detailed examination"
+      ]
+    },
+    {
+      "senseId": "nature%1:07:02::",
+      "lemma": "nature",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the essential qualities or characteristics by which something is recognized",
+      "synsetId": "04733982-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1047,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the essential qualities or characteristics by which something is recognized"
+      ]
+    },
+    {
+      "senseId": "nature%1:18:00::",
+      "lemma": "nature",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a causal agent creating and controlling things in the universe",
+      "synsetId": "09526814-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1047,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a causal agent creating and controlling things in the universe"
+      ]
+    },
+    {
+      "senseId": "nature%1:17:00::",
+      "lemma": "nature",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the natural physical world including plants and animals and landscapes etc.",
+      "synsetId": "09389659-n",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1047,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the natural physical world including plants and animals and landscapes etc"
+      ]
+    },
+    {
+      "senseId": "quick%1:08:00::",
+      "lemma": "quick",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)",
+      "synsetId": "05605735-n",
+      "words": 22,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1049,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)"
+      ]
+    },
+    {
+      "senseId": "quick%5:00:00:fast:01",
+      "lemma": "quick",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "accomplished rapidly and without delay",
+      "synsetId": "00982557-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1049,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "accomplished rapidly and without delay"
+      ]
+    },
+    {
+      "senseId": "quick%5:00:00:active:01",
+      "lemma": "quick",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "moving quickly and lightly",
+      "synsetId": "00032846-s",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1049,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "moving quickly and lightly"
+      ]
+    },
+    {
+      "senseId": "agree%2:42:00::",
+      "lemma": "agree",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "be compatible, similar or consistent; coincide in their characteristics",
+      "synsetId": "02663315-v",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1055,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be compatible, similar or consistent",
+        "coincide in their characteristics"
+      ]
+    },
+    {
+      "senseId": "agree%2:32:01::",
+      "lemma": "agree",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "consent or assent to a condition, or agree to do something",
+      "synsetId": "00766267-v",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1055,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "consent or assent to a condition, or agree to do something"
+      ]
+    },
+    {
+      "senseId": "agree%2:32:00::",
+      "lemma": "agree",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be in accord; be in agreement",
+      "synsetId": "00807038-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1055,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be in accord",
+        "be in agreement"
+      ]
+    },
+    {
+      "senseId": "clean%1:04:00::",
+      "lemma": "clean",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a weightlift in which the barbell is lifted to shoulder height and then jerked overhead",
+      "synsetId": "00628078-n",
+      "words": 15,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1056,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a weightlift in which the barbell is lifted to shoulder height and then jerked overhead"
+      ]
+    },
+    {
+      "senseId": "clean%2:35:00::",
+      "lemma": "clean",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make clean by removing dirt, filth, or unwanted substances from",
+      "synsetId": "01535377-v",
+      "words": 10,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1056,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make clean by removing dirt, filth, or unwanted substances from"
+      ]
+    },
+    {
+      "senseId": "clean%2:30:01::",
+      "lemma": "clean",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "remove unwanted substances from, such as feathers or pits",
+      "synsetId": "00177724-v",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1056,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "remove unwanted substances from, such as feathers or pits"
+      ]
+    }
+  ]
+}

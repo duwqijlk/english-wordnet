@@ -1,0 +1,1196 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 63,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 47,
+      "of": 50,
+      "rate": 0.94
+    },
+    "selfApproved": [
+      "stage%1:10:00::",
+      "release%1:04:02::",
+      "hair%1:06:00::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "a1655426c91f33bb49c1c1f7ee507e1e089c4946ca07cb568ce0df76f910aebe"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "dog%1:06:00::",
+      "lemma": "dog",
+      "pos": "n",
+      "definition": "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward",
+      "sourceBranches": [
+        "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A part joined so it can swing, dropping into a gap between the teeth of a toothed wheel to drive it forward or keep it from turning back.",
+      "scope": "This sense is not the metal log supports in a fireplace, nor the animal.",
+      "examples": [
+        "The dog in the winch clicked as it caught each tooth, holding the load steady.",
+        "He oiled the dog so it would drop cleanly into the ratchet's notches."
+      ],
+      "branchCoverage": [
+        "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward -> A part joined so it can swing, dropping into a gap between the teeth of a toothed wheel to drive it forward or keep it from turning back"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dog%1:06:00:: -> a hinged catch that fits into a ratchet notch; dog%1:06:01:: -> metal supports that hold logs in a fireplace",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dog%1:06:01::",
+      "lemma": "dog",
+      "pos": "n",
+      "definition": "metal supports for logs in a fireplace",
+      "sourceBranches": [
+        "metal supports for logs in a fireplace"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Metal stands that hold the logs in a fireplace.",
+      "scope": "This sense is not the hinged catch on a toothed wheel, nor the animal.",
+      "examples": [
+        "She polished the brass dogs and set fresh logs across them.",
+        "The old fireplace still had its iron dog, blackened by years of smoke."
+      ],
+      "branchCoverage": [
+        "metal supports for logs in a fireplace -> Metal stands that hold the logs in a fireplace"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dog%1:06:00:: -> a hinged catch that fits into a ratchet notch; dog%1:06:01:: -> metal supports that hold logs in a fireplace",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "involved%5:00:00:complex:00",
+      "lemma": "involved",
+      "pos": "a",
+      "definition": "highly complex or intricate and occasionally devious",
+      "sourceBranches": [
+        "highly complex or intricate and occasionally devious"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Very complicated, full of fine detail, and sometimes tricky or dishonest.",
+      "scope": "This sense is not about taking part in something or being connected with it.",
+      "examples": [
+        "The fraud scheme was so involved that investigators needed months to trace the money.",
+        "She gave an involved explanation of the tax rules, full of exceptions and cross-references."
+      ],
+      "branchCoverage": [
+        "highly complex or intricate and occasionally devious -> Very complicated, full of fine detail, and sometimes tricky or dishonest"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "language%1:09:01::",
+      "lemma": "language",
+      "pos": "n",
+      "definition": "the cognitive processes involved in producing and understanding linguistic communication",
+      "sourceBranches": [
+        "the cognitive processes involved in producing and understanding linguistic communication"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The mental activities a person uses to speak, write, hear or read words and sentences.",
+      "scope": "This sense is not a shared system of words, such as English or Japanese, nor a style of speaking or writing.",
+      "examples": [
+        "After the stroke, his language skills slowly returned as the brain areas for words and grammar healed.",
+        "Researchers study how the brain handles language, from hearing a word to forming a reply."
+      ],
+      "branchCoverage": [
+        "the cognitive processes involved in producing and understanding linguistic communication -> The mental activities a person uses to speak, write, hear or read words and sentences"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "oil%1:13:00::",
+      "lemma": "oil",
+      "pos": "n",
+      "definition": "any of a group of liquid edible fats that are obtained from plants",
+      "sourceBranches": [
+        "any of a group of liquid edible fats that are obtained from plants"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A liquid fat taken from plants and safe to eat.",
+      "scope": "This sense is not the thick dark liquid used as fuel or to make machines run.",
+      "examples": [
+        "She dressed the salad with a little olive oil and lemon juice.",
+        "The factory presses sunflower oil from the seeds and bottles it for sale."
+      ],
+      "branchCoverage": [
+        "any of a group of liquid edible fats that are obtained from plants -> A liquid fat taken from plants and safe to eat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "serious%5:00:00:difficult:00",
+      "lemma": "serious",
+      "pos": "a",
+      "definition": "requiring effort or concentration; complex and not easy to answer or solve",
+      "sourceBranches": [
+        "requiring effort or concentration",
+        "complex and not easy to answer or solve"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Needing hard work and close attention, and too complicated to answer or solve easily.",
+      "scope": "This sense is not about being solemn rather than funny, nor about something bad or dangerous.",
+      "examples": [
+        "Choosing a treatment raised serious questions that the doctors could not settle quickly.",
+        "Learning the proof is serious work that demands quiet, sustained concentration."
+      ],
+      "branchCoverage": [
+        "requiring effort or concentration -> Needing hard work and close attention",
+        "complex and not easy to answer or solve -> too complicated to answer or solve easily"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stage%1:06:01::",
+      "lemma": "stage",
+      "pos": "n",
+      "definition": "a large coach-and-four formerly used to carry passengers and mail on regular routes between towns",
+      "sourceBranches": [
+        "a large coach-and-four formerly used to carry passengers and mail on regular routes between towns"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A large carriage pulled by four horses that once carried passengers and mail along fixed routes between towns.",
+      "scope": "This sense is not the raised floor where actors perform, nor a step in a process.",
+      "examples": [
+        "In the 1700s the stage left Bristol every morning for London.",
+        "Robbers on horseback often stopped the stage before it reached the next town."
+      ],
+      "branchCoverage": [
+        "a large coach-and-four formerly used to carry passengers and mail on regular routes between towns -> A large carriage pulled by four horses that once carried passengers and mail along fixed routes between towns"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stage%1:06:01:: -> a large horse-drawn coach that carried passengers; stage%1:06:02:: -> the small platform on a microscope that holds the specimen; stage%1:10:00:: -> the theatre as a profession",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stage%1:06:02::",
+      "lemma": "stage",
+      "pos": "n",
+      "definition": "a small platform on a microscope where the specimen is mounted for examination",
+      "sourceBranches": [
+        "a small platform on a microscope where the specimen is mounted for examination"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The flat shelf on a microscope where you place the slide or sample for examination.",
+      "scope": "This sense is not a theatre platform or a step in a process, but the shelf that holds a sample.",
+      "examples": [
+        "Raise the stage slowly so the slide does not crack against the lens.",
+        "He wiped a drop of water from the microscope's stage before fitting a new specimen."
+      ],
+      "branchCoverage": [
+        "a small platform on a microscope where the specimen is mounted for examination -> The flat shelf on a microscope where you place the slide or sample for examination"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stage%1:06:01:: -> a large horse-drawn coach that carried passengers; stage%1:06:02:: -> the small platform on a microscope that holds the specimen; stage%1:10:00:: -> the theatre as a profession",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stage%1:10:00::",
+      "lemma": "stage",
+      "pos": "n",
+      "definition": "the theater as a profession (usually ‘the stage’)",
+      "sourceBranches": [
+        "the theater as a profession (usually ‘the stage’)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The world of acting and putting on plays as a paid job.",
+      "scope": "This sense is usually expressed as 'the stage'; it is not the raised platform where actors perform, nor a period or step in a process.",
+      "examples": [
+        "She left teaching to try her luck on the stage.",
+        "After twenty years on the stage, he moved into directing."
+      ],
+      "branchCoverage": [
+        "the theater as a profession (usually ‘the stage’) -> The world of acting and putting on plays as a paid job"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stage%1:06:01:: -> a large horse-drawn coach that carried passengers; stage%1:06:02:: -> the small platform on a microscope that holds the specimen; stage%1:10:00:: -> the theatre as a profession",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops the '(usually the stage)' note in the definition. Add that this sense is usually called 'the stage'."
+    },
+    {
+      "senseId": "title%1:10:02::",
+      "lemma": "title",
+      "pos": "n",
+      "definition": "an identifying appellation signifying status or function: e.g. ‘Mr.’ or ‘General’",
+      "sourceBranches": [
+        "an identifying appellation signifying status or function: e.g. ‘Mr.’ or ‘General’",
+        "after colon: e.g. ‘Mr.’ or ‘General’"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A word used before or instead of someone's name to show their rank or the job they do, such as 'Mr.' or 'General'.",
+      "scope": "This sense is not the name of a book, film or song, and not a word showing noble rank.",
+      "examples": [
+        "The envelope was addressed to 'Dr. Chen', using her professional title.",
+        "He was introduced as 'Captain' Hall, a title earned in the navy."
+      ],
+      "branchCoverage": [
+        "an identifying appellation signifying status or function: e.g. ‘Mr.’ or ‘General’ -> A word used before or instead of someone's name to show their rank or the job they do, such as 'Mr.' or 'General'",
+        "after colon: e.g. ‘Mr.’ or ‘General’ -> such as 'Mr.' or 'General'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "title%1:10:02:: -> a name that shows a person's status or job; title%1:10:06:: -> words added on screen to a film; title%1:10:03:: -> a name showing noble rank",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "title%1:10:06::",
+      "lemma": "title",
+      "pos": "n",
+      "definition": "(usually plural) written material introduced into a movie or TV show to give credits or represent dialogue or explain an action",
+      "sourceBranches": [
+        "(usually plural) written material introduced into a movie or TV show to give credits or represent dialogue or explain an action"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Words added to a film or TV show, usually in the plural, to list who worked on it, show spoken words, or describe what is happening.",
+      "scope": "This sense is not the name of a film or program, nor a word of rank.",
+      "examples": [
+        "The opening titles rolled over a shot of the empty city.",
+        "Foreign films often add titles at the bottom to translate the dialogue."
+      ],
+      "branchCoverage": [
+        "(usually plural) written material introduced into a movie or TV show to give credits or represent dialogue or explain an action -> Words added to a film or TV show, usually in the plural, to list who worked on it, show spoken words, or describe what is happening"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "title%1:10:02:: -> a name that shows a person's status or job; title%1:10:06:: -> words added on screen to a film; title%1:10:03:: -> a name showing noble rank",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "title%1:10:03::",
+      "lemma": "title",
+      "pos": "n",
+      "definition": "an appellation signifying nobility",
+      "sourceBranches": [
+        "an appellation signifying nobility"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A word used with a person's name that shows noble rank, such as 'Duke' or 'Countess'.",
+      "scope": "This sense is not a general word of status or job, such as 'Mr.' or 'General'; it marks noble rank only.",
+      "examples": [
+        "He inherited the title of Earl when his father died.",
+        "Guests addressed him by his title, 'Lord Ashby', all evening."
+      ],
+      "branchCoverage": [
+        "an appellation signifying nobility -> A word used with a person's name that shows noble rank, such as 'Duke' or 'Countess'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "title%1:10:02:: -> a name that shows a person's status or job; title%1:10:06:: -> words added on screen to a film; title%1:10:03:: -> a name showing noble rank",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%1:04:01::",
+      "lemma": "attack",
+      "pos": "n",
+      "definition": "a decisive manner of beginning a musical tone or phrase",
+      "sourceBranches": [
+        "a decisive manner of beginning a musical tone or phrase"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The firm, confident way a player begins a note or a musical phrase.",
+      "scope": "This sense is not violence done to someone, nor a sudden bout of illness.",
+      "examples": [
+        "The trumpeter's attack was crisp, every note starting exactly together with the beat.",
+        "The cellist's attack in the opening bars was bold and perfectly controlled."
+      ],
+      "branchCoverage": [
+        "a decisive manner of beginning a musical tone or phrase -> The firm, confident way a player begins a note or a musical phrase"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack%1:04:01:: -> a decisive way of starting a musical note or phrase; attack%1:22:00:: -> the start of a destructive process, as by a disease; attack%2:30:00:: -> begin working on something with energy; attack%1:26:00:: -> a sudden fit of an illness; attack%2:33:02:: -> hurt someone physically or emotionally; attack%1:04:02:: -> the act of attacking",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%1:22:00::",
+      "lemma": "attack",
+      "pos": "n",
+      "definition": "the onset of a corrosive or destructive process (as by a chemical agent)",
+      "sourceBranches": [
+        "the onset of a corrosive or destructive process (as by a chemical agent)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the start of a wearing-away or damaging process, for example one caused by a chemical substance.",
+      "scope": "This is not a sudden fit of illness or a physical assault, but the start of chemical damage or decay.",
+      "examples": [
+        "Engineers inspect the pipelines regularly for any sign of chemical attack.",
+        "A protective coating shields the steel from attack by salt water."
+      ],
+      "branchCoverage": [
+        "the onset of a corrosive or destructive process (as by a chemical agent) -> the start of a wearing-away or damaging process, for example one caused by a chemical substance"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack%1:04:01:: -> a decisive way of starting a musical note or phrase; attack%1:22:00:: -> the start of a destructive process, as by a disease; attack%2:30:00:: -> begin working on something with energy; attack%1:26:00:: -> a sudden fit of an illness; attack%2:33:02:: -> hurt someone physically or emotionally; attack%1:04:02:: -> the act of attacking",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%2:30:00::",
+      "lemma": "attack",
+      "pos": "v",
+      "definition": "set to work upon; turn one's energies vigorously to a task",
+      "sourceBranches": [
+        "set to work upon",
+        "turn one's energies vigorously to a task"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "begin working on something and put all your energy and force into the task.",
+      "scope": "This means starting a task with energy, not hurting someone or criticizing them.",
+      "examples": [
+        "She attacked the pile of paperwork as soon as she sat down.",
+        "The team attacked the problem with fresh enthusiasm."
+      ],
+      "branchCoverage": [
+        "set to work upon -> begin working on something",
+        "turn one's energies vigorously to a task -> put all your energy and force into the task"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack%1:04:01:: -> a decisive way of starting a musical note or phrase; attack%1:22:00:: -> the start of a destructive process, as by a disease; attack%2:30:00:: -> begin working on something with energy; attack%1:26:00:: -> a sudden fit of an illness; attack%2:33:02:: -> hurt someone physically or emotionally; attack%1:04:02:: -> the act of attacking",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%1:26:00::",
+      "lemma": "attack",
+      "pos": "n",
+      "definition": "a sudden occurrence of an uncontrollable condition",
+      "sourceBranches": [
+        "a sudden occurrence of an uncontrollable condition"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a fit of an illness or similar condition that comes on suddenly and cannot be controlled.",
+      "scope": "This is a fit of illness, not a physical assault or the start of chemical damage.",
+      "examples": [
+        "He had a severe asthma attack in the middle of the night.",
+        "She felt an anxiety attack coming on before the interview."
+      ],
+      "branchCoverage": [
+        "a sudden occurrence of an uncontrollable condition -> a fit of an illness or similar condition that comes on suddenly and cannot be controlled"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack%1:04:01:: -> a decisive way of starting a musical note or phrase; attack%1:22:00:: -> the start of a destructive process, as by a disease; attack%2:30:00:: -> begin working on something with energy; attack%1:26:00:: -> a sudden fit of an illness; attack%2:33:02:: -> hurt someone physically or emotionally; attack%1:04:02:: -> the act of attacking",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%2:33:02::",
+      "lemma": "attack",
+      "pos": "v",
+      "definition": "attack someone physically or emotionally",
+      "sourceBranches": [
+        "attack someone physically or emotionally"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "hurt someone in body or in feelings, for example by hitting or insulting them.",
+      "scope": "This is about harming a person, not about starting a task with energy or having a fit of illness.",
+      "examples": [
+        "The dog attacked the postman at the gate.",
+        "The critics attacked the mayor mercilessly in the press."
+      ],
+      "branchCoverage": [
+        "attack someone physically or emotionally -> hurt someone in body or in feelings, for example by hitting or insulting them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack%1:04:01:: -> a decisive way of starting a musical note or phrase; attack%1:22:00:: -> the start of a destructive process, as by a disease; attack%2:30:00:: -> begin working on something with energy; attack%1:26:00:: -> a sudden fit of an illness; attack%2:33:02:: -> hurt someone physically or emotionally; attack%1:04:02:: -> the act of attacking",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%1:04:02::",
+      "lemma": "attack",
+      "pos": "n",
+      "definition": "the act of attacking",
+      "sourceBranches": [
+        "the act of attacking"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of using force or angry words against someone or something.",
+      "scope": "This names a hostile deed, not a sudden fit of illness, the start of chemical damage, or the way a musical note begins.",
+      "examples": [
+        "The army's attack began at dawn.",
+        "The attack left him with a broken arm."
+      ],
+      "branchCoverage": [
+        "the act of attacking -> the act of using force or angry words against someone or something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack%1:04:01:: -> a decisive way of starting a musical note or phrase; attack%1:22:00:: -> the start of a destructive process, as by a disease; attack%2:30:00:: -> begin working on something with energy; attack%1:26:00:: -> a sudden fit of an illness; attack%2:33:02:: -> hurt someone physically or emotionally; attack%1:04:02:: -> the act of attacking",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "decision%1:07:00::",
+      "lemma": "decision",
+      "pos": "n",
+      "definition": "the trait of resoluteness as evidenced by firmness of character or purpose",
+      "sourceBranches": [
+        "the trait of resoluteness as evidenced by firmness of character or purpose"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the quality of being determined and not changing your mind, shown in your character or purpose.",
+      "scope": "This is a personal quality of firmness, not a choice you make about what to do.",
+      "examples": [
+        "She spoke with quiet decision, and no one dared interrupt.",
+        "The nurse acted with decision when the patient collapsed."
+      ],
+      "branchCoverage": [
+        "the trait of resoluteness as evidenced by firmness of character or purpose -> the quality of being determined and not changing your mind, shown in your character or purpose"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kill%2:30:00::",
+      "lemma": "kill",
+      "pos": "v",
+      "definition": "mark for deletion, rub off, or erase",
+      "sourceBranches": [
+        "mark for deletion, rub off, or erase"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "mark something so it will be removed, rub it out, or wipe it away.",
+      "scope": "This is about removing written or printed marks, not about ending a life, delighting someone, or ruining something's essential nature.",
+      "examples": [
+        "The editor killed the paragraph before the article went to print.",
+        "Kill that line in the script; it doesn't fit the scene."
+      ],
+      "branchCoverage": [
+        "mark for deletion, rub off, or erase -> mark something so it will be removed, rub it out, or wipe it away"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "kill%2:30:00:: -> mark text for deletion or erase it; kill%2:37:00:: -> make someone laugh or admire greatly; kill%2:30:02:: -> destroy the essential quality of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kill%2:37:00::",
+      "lemma": "kill",
+      "pos": "v",
+      "definition": "overwhelm with hilarity, pleasure, or admiration",
+      "sourceBranches": [
+        "overwhelm with hilarity, pleasure, or admiration"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make someone laugh very hard, fill them with delight, or make them admire you deeply.",
+      "scope": "This is about delighting or amazing someone, not about ending a life, deleting text, or ruining something's nature.",
+      "examples": [
+        "The comedian's last joke killed the audience.",
+        "Her final song killed the crowd, who cheered for a full minute."
+      ],
+      "branchCoverage": [
+        "overwhelm with hilarity, pleasure, or admiration -> make someone laugh very hard, fill them with delight, or make them admire you deeply"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "kill%2:30:00:: -> mark text for deletion or erase it; kill%2:37:00:: -> make someone laugh or admire greatly; kill%2:30:02:: -> destroy the essential quality of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kill%2:30:02::",
+      "lemma": "kill",
+      "pos": "v",
+      "definition": "destroy a vitally essential quality of or in",
+      "sourceBranches": [
+        "destroy a vitally essential quality of or in"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "completely remove a quality that is essential to something, so it is no longer truly itself.",
+      "scope": "This means stripping away something's essential nature, not causing death, deleting text, or delighting someone.",
+      "examples": [
+        "Adding too much water kills the flavor of the soup.",
+        "The new rules killed the spirit of the festival."
+      ],
+      "branchCoverage": [
+        "destroy a vitally essential quality of or in -> completely remove a quality that is essential to something, so it is no longer truly itself"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "kill%2:30:00:: -> mark text for deletion or erase it; kill%2:37:00:: -> make someone laugh or admire greatly; kill%2:30:02:: -> destroy the essential quality of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "release%1:10:00::",
+      "lemma": "release",
+      "pos": "n",
+      "definition": "an announcement distributed to members of the press in order to supplement or replace an oral presentation",
+      "sourceBranches": [
+        "an announcement distributed to members of the press in order to supplement or replace an oral presentation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an announcement given out to journalists to add to or take the place of something spoken.",
+      "scope": "This is a statement for journalists, not the act of setting something free, ending a job, or letting fluid out.",
+      "examples": [
+        "The company sent a press release to announce the new product.",
+        "The senator's office issued a release denying the rumors."
+      ],
+      "branchCoverage": [
+        "an announcement distributed to members of the press in order to supplement or replace an oral presentation -> an announcement given out to journalists to add to or take the place of something spoken"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "release%1:10:00:: -> an announcement given to the press; release%1:04:00:: -> an activity that lets out creative energy or emotion; release%1:04:02:: -> the ending of someone's employment; release%1:04:03:: -> the act of letting a fluid escape; release%2:29:00:: -> produce and give off a substance from cells or the body; release%1:06:01:: -> a part that when pressed frees a mechanism",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "release%1:04:00::",
+      "lemma": "release",
+      "pos": "n",
+      "definition": "activity that frees or expresses creative energy or emotion",
+      "sourceBranches": [
+        "activity that frees or expresses creative energy or emotion"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an activity that lets out or gives voice to creative energy or emotion.",
+      "scope": "This is an activity that channels energy or feeling, not a press statement, a job ending, or a fluid escaping.",
+      "examples": [
+        "Painting became a release for the grief she could not put into words.",
+        "Dancing is his main release after a long week at work."
+      ],
+      "branchCoverage": [
+        "activity that frees or expresses creative energy or emotion -> an activity that lets out or gives voice to creative energy or emotion"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "release%1:10:00:: -> an announcement given to the press; release%1:04:00:: -> an activity that lets out creative energy or emotion; release%1:04:02:: -> the ending of someone's employment; release%1:04:03:: -> the act of letting a fluid escape; release%2:29:00:: -> produce and give off a substance from cells or the body; release%1:06:01:: -> a part that when pressed frees a mechanism",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "release%1:04:02::",
+      "lemma": "release",
+      "pos": "n",
+      "definition": "the termination of someone's employment (leaving them free to depart)",
+      "sourceBranches": [
+        "the termination of someone's employment (leaving them free to depart)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the ending of someone's job, so they are free to leave.",
+      "scope": "This is the ending of a job, not letting a fluid out, giving a statement to journalists, or expressing emotion.",
+      "examples": [
+        "He was released from his contract after the merger.",
+        "She asked for an early release from her contract."
+      ],
+      "branchCoverage": [
+        "the termination of someone's employment (leaving them free to depart) -> the ending of someone's job, so they are free to leave"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "release%1:10:00:: -> an announcement given to the press; release%1:04:00:: -> an activity that lets out creative energy or emotion; release%1:04:02:: -> the ending of someone's employment; release%1:04:03:: -> the act of letting a fluid escape; release%2:29:00:: -> produce and give off a substance from cells or the body; release%1:06:01:: -> a part that when pressed frees a mechanism",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Both examples are unnatural for this sense; 'release of fifty employees' is not idiomatic. Use 'released from his contract' or 'given an early release'."
+    },
+    {
+      "senseId": "release%1:04:03::",
+      "lemma": "release",
+      "pos": "n",
+      "definition": "the act of allowing a fluid to escape",
+      "sourceBranches": [
+        "the act of allowing a fluid to escape"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of letting a liquid or gas flow out.",
+      "scope": "This is about liquid or gas flowing out, not about ending a job, expressing feelings, or giving a statement to the press.",
+      "examples": [
+        "The valve controls the release of steam from the boiler.",
+        "A slow release of water from the dam prevented flooding downstream."
+      ],
+      "branchCoverage": [
+        "the act of allowing a fluid to escape -> the act of letting a liquid or gas flow out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "release%1:10:00:: -> an announcement given to the press; release%1:04:00:: -> an activity that lets out creative energy or emotion; release%1:04:02:: -> the ending of someone's employment; release%1:04:03:: -> the act of letting a fluid escape; release%2:29:00:: -> produce and give off a substance from cells or the body; release%1:06:01:: -> a part that when pressed frees a mechanism",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "release%2:29:00::",
+      "lemma": "release",
+      "pos": "v",
+      "definition": "generate and separate from cells or bodily fluids",
+      "sourceBranches": [
+        "generate and separate from cells or bodily fluids"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to produce a substance and let it pass out of cells or fluids in the body",
+      "scope": "Not the general escape of fluid from a pipe or container, and not making a film or product available to buy.",
+      "examples": [
+        "The gland releases hormones directly into the bloodstream.",
+        "Damaged cells release chemicals that cause the skin to swell."
+      ],
+      "branchCoverage": [
+        "generate and separate from cells or bodily fluids -> to produce a substance and let it pass out of cells or fluids in the body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "release%1:10:00:: -> an announcement given to the press; release%1:04:00:: -> an activity that lets out creative energy or emotion; release%1:04:02:: -> the ending of someone's employment; release%1:04:03:: -> the act of letting a fluid escape; release%2:29:00:: -> produce and give off a substance from cells or the body; release%1:06:01:: -> a part that when pressed frees a mechanism",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "release%1:06:01::",
+      "lemma": "release",
+      "pos": "n",
+      "definition": "a device that when pressed will release part of a mechanism",
+      "sourceBranches": [
+        "a device that when pressed will release part of a mechanism"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a device you press that frees part of a machine to move",
+      "scope": "Not an announcement to the press, an ending of employment, or the act of letting a fluid escape.",
+      "examples": [
+        "Press the release to fold the handle down.",
+        "He pressed the release and the seat slid back."
+      ],
+      "branchCoverage": [
+        "a device that when pressed will release part of a mechanism -> a device you press that frees part of a machine to move"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "release%1:10:00:: -> an announcement given to the press; release%1:04:00:: -> an activity that lets out creative energy or emotion; release%1:04:02:: -> the ending of someone's employment; release%1:04:03:: -> the act of letting a fluid escape; release%2:29:00:: -> produce and give off a substance from cells or the body; release%1:06:01:: -> a part that when pressed frees a mechanism",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "code%1:10:03::",
+      "lemma": "code",
+      "pos": "n",
+      "definition": "a series of letters, numbers or symbols assigned to something for the purpose of classification or identification",
+      "sourceBranches": [
+        "a series of letters, numbers or symbols assigned to something for the purpose of classification or identification"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a pattern of letters, numbers, or signs given to something so it can be grouped or recognized",
+      "scope": "Not a secret way of writing, and not a set of rules for behavior.",
+      "examples": [
+        "Each item in the catalog has a code that shows its category.",
+        "Airports use three-letter codes such as JFK."
+      ],
+      "branchCoverage": [
+        "a series of letters, numbers or symbols assigned to something for the purpose of classification or identification -> a pattern of letters, numbers, or signs given to something so it can be grouped or recognized"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "continue%2:42:11::",
+      "lemma": "continue",
+      "pos": "v",
+      "definition": "continue after an interruption",
+      "sourceBranches": [
+        "continue after an interruption"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to start again after a break in an activity",
+      "scope": "Not to stay in the same place or position, and not to keep doing something without stopping.",
+      "examples": [
+        "The game continued after the rain stopped.",
+        "After the phone call, she continued reading where she had left off."
+      ],
+      "branchCoverage": [
+        "continue after an interruption -> to start again after a break in an activity"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "continue%2:42:11:: -> start again after an interruption; continue%2:42:10:: -> stay in a place, position, or situation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "continue%2:42:10::",
+      "lemma": "continue",
+      "pos": "v",
+      "definition": "continue in a place, position, or situation",
+      "sourceBranches": [
+        "continue in a place, position, or situation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to stay where you are, keep the same role or rank, or remain in the same state",
+      "scope": "Not to start again after a break, and not to carry on with an activity without stopping.",
+      "examples": [
+        "Despite the criticism, she continued in her role as director.",
+        "The school continued in the same building for over a century."
+      ],
+      "branchCoverage": [
+        "continue in a place, position, or situation -> to stay where you are, keep the same role or rank, or remain in the same state"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "continue%2:42:11:: -> start again after an interruption; continue%2:42:10:: -> stay in a place, position, or situation",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%2:42:02::",
+      "lemma": "cover",
+      "pos": "v",
+      "definition": "include in scope; include as part of something broader; have as one's sphere or territory",
+      "sourceBranches": [
+        "include in scope",
+        "include as part of something broader",
+        "have as one's sphere or territory"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to include something within the range of a wider subject, group, or area of control",
+      "scope": "Not to deal with a subject in a book, speech, or film, and not to take another person's place.",
+      "examples": [
+        "The new safety rules cover part-time workers as well as full-time staff.",
+        "The survey covers every household in the district."
+      ],
+      "branchCoverage": [
+        "include in scope -> to include something within the range",
+        "include as part of something broader -> of a wider subject, group",
+        "have as one's sphere or territory -> or area of control"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%2:41:10::",
+      "lemma": "cover",
+      "pos": "v",
+      "definition": "help out by taking someone's place and temporarily assuming their responsibilities",
+      "sourceBranches": [
+        "help out by taking someone's place and temporarily assuming their responsibilities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to take another person's place for a time and carry out their duties to help out",
+      "scope": "Not to include something in a range, and not to hide a fault or weakness.",
+      "examples": [
+        "Can you cover my shift on Friday while I see the doctor?",
+        "Another teacher covered her classes while she was on leave."
+      ],
+      "branchCoverage": [
+        "help out by taking someone's place and temporarily assuming their responsibilities -> to take another person's place for a time and carry out their duties to help out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%2:42:14::",
+      "lemma": "cover",
+      "pos": "v",
+      "definition": "make up for shortcomings or a feeling of inferiority by exaggerating good qualities",
+      "sourceBranches": [
+        "make up for shortcomings or a feeling of inferiority by exaggerating good qualities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to balance out a fault or a sense of not being good enough by making one's strengths seem greater",
+      "scope": "Not to take another person's place, and not to include something in a wider group.",
+      "examples": [
+        "He covers his insecurity with constant boasting about his success.",
+        "She covered her lack of training by exaggerating her past achievements."
+      ],
+      "branchCoverage": [
+        "make up for shortcomings or a feeling of inferiority by exaggerating good qualities -> to balance out a fault or a sense of not being good enough by making one's strengths seem greater"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%1:04:02::",
+      "lemma": "cover",
+      "pos": "n",
+      "definition": "a false identity and background (especially one created for an undercover agent)",
+      "sourceBranches": [
+        "a false identity and background (especially one created for an undercover agent)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a made-up name and life story, especially one invented for a secret agent",
+      "scope": "Not the outer material of a book, and not a lid or other object that lies over something.",
+      "examples": [
+        "For years he maintained a cover as a modest bakery owner.",
+        "Her cover was blown when a neighbor recognized her from the news."
+      ],
+      "branchCoverage": [
+        "a false identity and background (especially one created for an undercover agent) -> a made-up name and life story, especially one invented for a secret agent"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%1:06:04::",
+      "lemma": "cover",
+      "pos": "n",
+      "definition": "the protective covering on the front, back, and spine of a book",
+      "sourceBranches": [
+        "the protective covering on the front, back, and spine of a book"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the outer material that protects the front, back, and spine of a book",
+      "scope": "Not a lid on a container, and not a natural layer such as snow or cloud.",
+      "examples": [
+        "The book has a red cover with gold letters on the spine.",
+        "She wiped the dust off the cover before opening the novel."
+      ],
+      "branchCoverage": [
+        "the protective covering on the front, back, and spine of a book -> the outer material that protects the front, back, and spine of a book"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%1:17:00::",
+      "lemma": "cover",
+      "pos": "n",
+      "definition": "a natural object that covers or envelops",
+      "sourceBranches": [
+        "a natural object that covers or envelops"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thing found in nature that lies over or around something else",
+      "scope": "Not the outer material of a book, and not a lid on a container.",
+      "examples": [
+        "A thick cover of snow lay over the fields.",
+        "Dense cloud cover kept the hills hidden all morning."
+      ],
+      "branchCoverage": [
+        "a natural object that covers or envelops -> a thing found in nature that lies over or around something else"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%2:32:01::",
+      "lemma": "cover",
+      "pos": "v",
+      "definition": "act on verbally or in some form of artistic expression",
+      "sourceBranches": [
+        "act on verbally or in some form of artistic expression"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to deal with a subject in words or through art",
+      "scope": "Not to include something as part of a wider group, and not to take another person's place.",
+      "examples": [
+        "The lecture covered the causes of the war in great detail.",
+        "Her new film covers the life of a forgotten painter."
+      ],
+      "branchCoverage": [
+        "act on verbally or in some form of artistic expression -> to deal with a subject in words or through art"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%2:40:00::",
+      "lemma": "cover",
+      "pos": "v",
+      "definition": "be sufficient to meet, defray, or offset the charge or cost of",
+      "sourceBranches": [
+        "be sufficient to meet, defray, or offset the charge or cost of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "be enough to pay for a charge or cost, or to balance it out.",
+      "scope": "This is not about placing something over an object or hiding a fault; it is about money being enough.",
+      "examples": [
+        "The grant doesn't cover the full cost of the equipment.",
+        "Membership fees were enough to pay for the new lights."
+      ],
+      "branchCoverage": [
+        "be sufficient to meet, defray, or offset the charge or cost of -> be enough to pay for a charge or cost, or to balance it out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%1:06:03::",
+      "lemma": "cover",
+      "pos": "n",
+      "definition": "covering for a hole (especially a hole in the top of a container)",
+      "sourceBranches": [
+        "covering for a hole (especially a hole in the top of a container)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a lid or other piece placed over an opening, especially a hole in the top of a container.",
+      "scope": "This is not the outer board of a book or a natural layer lying over the ground; it is a lid for an opening.",
+      "examples": [
+        "She put the cover back on the pan so the rice would stay warm.",
+        "The drain cover had worked loose, leaving a hole in the pavement."
+      ],
+      "branchCoverage": [
+        "covering for a hole (especially a hole in the top of a container) -> a lid or other piece placed over an opening, especially a hole in the top of a container"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%2:35:13::",
+      "lemma": "cover",
+      "pos": "v",
+      "definition": "cover as if with a shroud",
+      "sourceBranches": [
+        "cover as if with a shroud"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "put something over a thing the way a burial cloth is laid over a body.",
+      "scope": "This is not a lid fitted to a container or a protective material; it is something spread over a thing like a burial cloth.",
+      "examples": [
+        "Mist covered the lake so completely that we could not see the far shore.",
+        "A dark cloud covered the moon and the garden went black."
+      ],
+      "branchCoverage": [
+        "cover as if with a shroud -> put something over a thing the way a burial cloth is laid over a body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover%2:42:02:: -> include something as part of a wider thing; cover%2:41:10:: -> take someone's place and do their work for a while; cover%2:42:14:: -> hide a shortcoming or feeling of inferiority; cover%1:04:02:: -> a false identity and background; cover%1:06:04:: -> the outer material on a book's front, back, and spine; cover%1:17:00:: -> a natural object that lies over or around something; cover%2:32:01:: -> deal with something in words or art; cover%2:40:00:: -> be enough to pay a charge or cost; cover%1:06:03:: -> a lid for a hole, especially in a container top; cover%2:35:13:: -> lay something over as if with a shroud",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hair%1:06:00::",
+      "lemma": "hair",
+      "pos": "n",
+      "definition": "cloth woven from horsehair or camelhair; used for upholstery or stiffening in garments",
+      "sourceBranches": [
+        "cloth woven from horsehair or camelhair",
+        "used for upholstery or stiffening in garments"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "cloth woven from the long, stiff strands of a horse's or camel's coat, used to pad furniture or stiffen clothes.",
+      "scope": "This is not the strands growing on a person's head or an animal's skin, but the woven cloth made from an animal's coat.",
+      "examples": [
+        "The antique chair was padded with horsehair.",
+        "Horsehair canvas stiffened the shoulders of the jacket."
+      ],
+      "branchCoverage": [
+        "cloth woven from horsehair or camelhair -> cloth woven from the long, stiff strands of a horse's or camel's coat",
+        "used for upholstery or stiffening in garments -> used to pad furniture or stiffen clothes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hair%1:06:00:: -> cloth woven from horsehair or camelhair for upholstery; hair%1:08:01:: -> the thread-like strands that grow on skin; hair%1:05:02:: -> a thread-like growth on a plant or animal",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2's cloth could be any stiff fabric; it never names horsehair or camelhair. Rewrite to show horsehair cloth, e.g. 'Horsehair canvas stiffened the shoulders.'"
+    },
+    {
+      "senseId": "hair%1:08:01::",
+      "lemma": "hair",
+      "pos": "n",
+      "definition": "any of the cylindrical filaments characteristically growing from the epidermis of a mammal",
+      "sourceBranches": [
+        "any of the cylindrical filaments characteristically growing from the epidermis of a mammal"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "any of the round, thread-like strands that normally grow out of a mammal's skin.",
+      "scope": "This is not woven cloth made from an animal's coat, and not the thread-like growths found on plants or insects.",
+      "examples": [
+        "She tied her hair back before starting work.",
+        "He found a single grey hair on the pillow."
+      ],
+      "branchCoverage": [
+        "any of the cylindrical filaments characteristically growing from the epidermis of a mammal -> any of the round, thread-like strands that normally grow out of a mammal's skin"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hair%1:06:00:: -> cloth woven from horsehair or camelhair for upholstery; hair%1:08:01:: -> the thread-like strands that grow on skin; hair%1:05:02:: -> a thread-like growth on a plant or animal",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hair%1:05:02::",
+      "lemma": "hair",
+      "pos": "n",
+      "definition": "a filamentous projection or process on an organism",
+      "sourceBranches": [
+        "a filamentous projection or process on an organism"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thin, thread-like growth or outgrowth on the body of a living thing, such as a plant or an insect.",
+      "scope": "This is not the strands that grow from a mammal's skin in a coat or on a head, but growths on other living things such as plants and insects.",
+      "examples": [
+        "Fine hairs on the underside of the leaf hold a thin layer of air.",
+        "The caterpillar's hairs can sting if you touch them."
+      ],
+      "branchCoverage": [
+        "a filamentous projection or process on an organism -> a thin, thread-like growth or outgrowth on the body of a living thing, such as a plant or an insect"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hair%1:06:00:: -> cloth woven from horsehair or camelhair for upholstery; hair%1:08:01:: -> the thread-like strands that grow on skin; hair%1:05:02:: -> a thread-like growth on a plant or animal",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "increase%1:07:00::",
+      "lemma": "increase",
+      "pos": "n",
+      "definition": "the amount by which something increases",
+      "sourceBranches": [
+        "the amount by which something increases"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the extra amount by which something grows or becomes larger, compared with what it was before.",
+      "scope": "This is not the act of making something larger; it is the size of the rise itself.",
+      "examples": [
+        "This year's increase in ticket prices was ten percent.",
+        "The report noted a small increase in average rainfall."
+      ],
+      "branchCoverage": [
+        "the amount by which something increases -> the extra amount by which something grows or becomes larger, compared with what it was before"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "increase%1:07:00:: -> the amount by which something grows; increase%1:04:00:: -> the act of making something larger",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "increase%1:04:00::",
+      "lemma": "increase",
+      "pos": "n",
+      "definition": "the act of increasing something",
+      "sourceBranches": [
+        "the act of increasing something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of making something bigger, larger in number, or stronger.",
+      "scope": "This is not the extra amount gained; it is the act or process of making something larger.",
+      "examples": [
+        "The government's increase of the minimum wage helped low-paid workers.",
+        "The company's increase of production led to longer shifts."
+      ],
+      "branchCoverage": [
+        "the act of increasing something -> the act of making something bigger, larger in number, or stronger"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "increase%1:07:00:: -> the amount by which something grows; increase%1:04:00:: -> the act of making something larger",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "legal%3:01:01::",
+      "lemma": "legal",
+      "pos": "a",
+      "definition": "relating to or characteristic of the profession of law",
+      "sourceBranches": [
+        "relating to or characteristic of the profession of law"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "connected with the work of lawyers and courts, or typical of that work.",
+      "scope": "This is not about whether something is allowed by law, but about the work and habits of the law profession.",
+      "examples": [
+        "She gave up legal practice to become a teacher.",
+        "The contract is full of legal jargon that most readers cannot follow."
+      ],
+      "branchCoverage": [
+        "relating to or characteristic of the profession of law -> connected with the work of lawyers and courts, or typical of that work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lose%2:39:01::",
+      "lemma": "lose",
+      "pos": "v",
+      "definition": "fail to perceive or to catch with the senses or the mind",
+      "sourceBranches": [
+        "fail to perceive or to catch with the senses or the mind"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "be unable to see, hear, notice, or understand something.",
+      "scope": "This is not about an object you owned going missing or out of view; it is about failing to notice, hear, or follow something.",
+      "examples": [
+        "Sorry, I lost you for a moment — could you say that again?",
+        "He lost the thread of the argument halfway through the talk."
+      ],
+      "branchCoverage": [
+        "fail to perceive or to catch with the senses or the mind -> be unable to see, hear, notice, or understand something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lose%2:39:01:: -> fail to see, hear, or notice something; lose%2:40:01:: -> no longer have something, or lose sight of it",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lose%2:40:01::",
+      "lemma": "lose",
+      "pos": "v",
+      "definition": "miss from one's possessions; lose sight of",
+      "sourceBranches": [
+        "miss from one's possessions",
+        "lose sight of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "no longer have something that was yours, or no longer be able to see it.",
+      "scope": "This is not about failing to hear or follow what someone says; it is about an object that is no longer in your possession or no longer in view.",
+      "examples": [
+        "I lost my keys somewhere between the car and the front door.",
+        "We lost sight of the boat in the mist."
+      ],
+      "branchCoverage": [
+        "miss from one's possessions -> no longer have something that was yours",
+        "lose sight of -> no longer be able to see it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lose%2:39:01:: -> fail to see, hear, or notice something; lose%2:40:01:: -> no longer have something, or lose sight of it",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pick%1:06:03::",
+      "lemma": "pick",
+      "pos": "n",
+      "definition": "a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument",
+      "sourceBranches": [
+        "a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a small, thin piece of metal, plastic, or ivory used to pluck the strings of a guitar or other stringed instrument.",
+      "scope": "This is not the act of choosing or a tool for breaking ground; it is the small piece used on a stringed instrument.",
+      "examples": [
+        "He dropped his pick inside the guitar and had to shake it out.",
+        "She prefers a thin plastic pick to her fingers."
+      ],
+      "branchCoverage": [
+        "a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument -> a small, thin piece of metal, plastic, or ivory used to pluck the strings of a guitar or other stringed instrument"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

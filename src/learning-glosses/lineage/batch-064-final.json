@@ -1,0 +1,1206 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 64,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 40,
+      "of": 50,
+      "rate": 0.8
+    },
+    "selfApproved": [
+      "sign%2:32:01::",
+      "bed%1:06:04::",
+      "figure%1:07:01::",
+      "figure%1:10:01::",
+      "paper%1:06:00::",
+      "version%1:04:00::",
+      "voice%1:10:04::",
+      "earth%1:09:00::",
+      "success%1:18:00::",
+      "offer%2:40:09::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "a5a51beac2799a4037a85d9229a6f36e6e93a36ce3a556d107aae6bcadae77f9"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "pick%1:04:01::",
+      "lemma": "pick",
+      "pos": "n",
+      "definition": "a basketball maneuver; obstructing an opponent with one's body",
+      "sourceBranches": [
+        "a basketball maneuver",
+        "obstructing an opponent with one's body"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a move in basketball in which a player blocks an opposing player using the body",
+      "scope": "This is a body-blocking move on the court, not a choice between options or a tool.",
+      "examples": [
+        "The guard set a solid pick at the top of the key.",
+        "She used a pick to free her teammate for an open shot."
+      ],
+      "branchCoverage": [
+        "a basketball maneuver -> a move in basketball",
+        "obstructing an opponent with one's body -> a player blocks an opposing player using the body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick%1:04:01:: -> a basketball move that blocks an opponent with the body; pick%1:06:01:: -> a thin sharp tool for removing unwanted material; pick%1:06:02:: -> the crosswise yarn in weaving; pick%1:06:00:: -> a heavy iron tool with a curved head and wooden handle; pick%2:30:01:: -> remove unwanted bits such as feathers from something; pick%2:35:05:: -> pull something lightly but sharply; pick%2:35:00:: -> hit something lightly with a picking motion",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pick%1:06:01::",
+      "lemma": "pick",
+      "pos": "n",
+      "definition": "a thin sharp implement used for removing unwanted material",
+      "sourceBranches": [
+        "a thin sharp implement used for removing unwanted material"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a thin, sharp tool used to take away material that is not wanted",
+      "scope": "This is a small pointed hand tool, not the act of choosing or a heavy digging tool.",
+      "examples": [
+        "He used a pick to scrape the old paint from the groove.",
+        "The dentist's pick gently removed plaque from between her teeth."
+      ],
+      "branchCoverage": [
+        "a thin sharp implement used for removing unwanted material -> a thin, sharp tool used to take away material that is not wanted"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick%1:04:01:: -> a basketball move that blocks an opponent with the body; pick%1:06:01:: -> a thin sharp tool for removing unwanted material; pick%1:06:02:: -> the crosswise yarn in weaving; pick%1:06:00:: -> a heavy iron tool with a curved head and wooden handle; pick%2:30:01:: -> remove unwanted bits such as feathers from something; pick%2:35:05:: -> pull something lightly but sharply; pick%2:35:00:: -> hit something lightly with a picking motion",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pick%1:06:02::",
+      "lemma": "pick",
+      "pos": "n",
+      "definition": "the yarn woven across the warp yarn in weaving",
+      "sourceBranches": [
+        "the yarn woven across the warp yarn in weaving"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the thread carried across the lengthwise threads during weaving",
+      "scope": "This is the crosswise thread in cloth, not the tool used to make cloth or a basketball move.",
+      "examples": [
+        "In this pattern the pick is a deep red, contrasting with the pale warp.",
+        "The weaver counted every pick to keep the pattern even."
+      ],
+      "branchCoverage": [
+        "the yarn woven across the warp yarn in weaving -> the thread carried across the lengthwise threads during weaving"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick%1:04:01:: -> a basketball move that blocks an opponent with the body; pick%1:06:01:: -> a thin sharp tool for removing unwanted material; pick%1:06:02:: -> the crosswise yarn in weaving; pick%1:06:00:: -> a heavy iron tool with a curved head and wooden handle; pick%2:30:01:: -> remove unwanted bits such as feathers from something; pick%2:35:05:: -> pull something lightly but sharply; pick%2:35:00:: -> hit something lightly with a picking motion",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pick%1:06:00::",
+      "lemma": "pick",
+      "pos": "n",
+      "definition": "a heavy iron tool with a wooden handle and a curved head that is pointed on both ends",
+      "sourceBranches": [
+        "a heavy iron tool with a wooden handle and a curved head that is pointed on both ends"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a heavy iron tool with a wooden handle and a curved head pointed at both ends",
+      "scope": "This is a large digging tool, not a thin scraping tool or a basketball move.",
+      "examples": [
+        "The worker swung the pick into the hard ground.",
+        "A miner's pick leaned against the tunnel wall."
+      ],
+      "branchCoverage": [
+        "a heavy iron tool with a wooden handle and a curved head that is pointed on both ends -> a heavy iron tool with a wooden handle and a curved head pointed at both ends"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick%1:04:01:: -> a basketball move that blocks an opponent with the body; pick%1:06:01:: -> a thin sharp tool for removing unwanted material; pick%1:06:02:: -> the crosswise yarn in weaving; pick%1:06:00:: -> a heavy iron tool with a curved head and wooden handle; pick%2:30:01:: -> remove unwanted bits such as feathers from something; pick%2:35:05:: -> pull something lightly but sharply; pick%2:35:00:: -> hit something lightly with a picking motion",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pick%2:30:01::",
+      "lemma": "pick",
+      "pos": "v",
+      "definition": "remove unwanted substances from, such as feathers or pits",
+      "sourceBranches": [
+        "remove unwanted substances from, such as feathers or pits"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to take away unwanted material from something, such as feathers or stones from fruit",
+      "scope": "This means cleaning something by taking parts off, not choosing something or pulling at it lightly.",
+      "examples": [
+        "She picked the feathers from the chicken before roasting it.",
+        "We picked the stones out of the olives by hand."
+      ],
+      "branchCoverage": [
+        "remove unwanted substances from, such as feathers or pits -> to take away unwanted material from something, such as feathers or stones from fruit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick%1:04:01:: -> a basketball move that blocks an opponent with the body; pick%1:06:01:: -> a thin sharp tool for removing unwanted material; pick%1:06:02:: -> the crosswise yarn in weaving; pick%1:06:00:: -> a heavy iron tool with a curved head and wooden handle; pick%2:30:01:: -> remove unwanted bits such as feathers from something; pick%2:35:05:: -> pull something lightly but sharply; pick%2:35:00:: -> hit something lightly with a picking motion",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pick%2:35:05::",
+      "lemma": "pick",
+      "pos": "v",
+      "definition": "pull lightly but sharply with a plucking motion",
+      "sourceBranches": [
+        "pull lightly but sharply with a plucking motion"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to pull something lightly but sharply, as when a finger plucks a guitar string",
+      "scope": "This is a light pulling action, not a light hit and not taking unwanted parts off.",
+      "examples": [
+        "She picked at a loose thread on her sleeve.",
+        "He picked at the strings of his guitar while thinking."
+      ],
+      "branchCoverage": [
+        "pull lightly but sharply with a plucking motion -> to pull something lightly but sharply, as when a finger plucks a guitar string"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick%1:04:01:: -> a basketball move that blocks an opponent with the body; pick%1:06:01:: -> a thin sharp tool for removing unwanted material; pick%1:06:02:: -> the crosswise yarn in weaving; pick%1:06:00:: -> a heavy iron tool with a curved head and wooden handle; pick%2:30:01:: -> remove unwanted bits such as feathers from something; pick%2:35:05:: -> pull something lightly but sharply; pick%2:35:00:: -> hit something lightly with a picking motion",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pick%2:35:00::",
+      "lemma": "pick",
+      "pos": "v",
+      "definition": "hit lightly with a picking motion",
+      "sourceBranches": [
+        "hit lightly with a picking motion"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to hit something lightly with a quick movement, as a bird does with its beak",
+      "scope": "This is a light hit, not a light pull or the act of removing unwanted material.",
+      "examples": [
+        "The hen picked at the seeds on the ground.",
+        "His fingers picked at the typewriter keys while he waited."
+      ],
+      "branchCoverage": [
+        "hit lightly with a picking motion -> to hit something lightly with a quick movement, as a bird does with its beak"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick%1:04:01:: -> a basketball move that blocks an opponent with the body; pick%1:06:01:: -> a thin sharp tool for removing unwanted material; pick%1:06:02:: -> the crosswise yarn in weaving; pick%1:06:00:: -> a heavy iron tool with a curved head and wooden handle; pick%2:30:01:: -> remove unwanted bits such as feathers from something; pick%2:35:05:: -> pull something lightly but sharply; pick%2:35:00:: -> hit something lightly with a picking motion",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "race%1:19:00::",
+      "lemma": "race",
+      "pos": "n",
+      "definition": "the flow of air that is driven backwards by an aircraft propeller",
+      "sourceBranches": [
+        "the flow of air that is driven backwards by an aircraft propeller"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the stream of air pushed backward by the turning blades of an aircraft",
+      "scope": "This is air moved backward by a propeller, not a competition or a group of people.",
+      "examples": [
+        "Keep clear of the propeller race when the engine starts.",
+        "The propeller race whipped the grass flat behind the plane."
+      ],
+      "branchCoverage": [
+        "the flow of air that is driven backwards by an aircraft propeller -> the stream of air pushed backward by the turning blades of an aircraft"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sign%2:32:01::",
+      "lemma": "sign",
+      "pos": "v",
+      "definition": "communicate silently and non-verbally by signals or signs",
+      "sourceBranches": [
+        "communicate silently and non-verbally by signals or signs"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to pass information without speaking, using gestures, movements or other wordless messages",
+      "scope": "This is wordless communication, not writing one's name or a mark showing quantity.",
+      "examples": [
+        "She signed to him across the room to stay quiet.",
+        "The officer signed to the driver to stop."
+      ],
+      "branchCoverage": [
+        "communicate silently and non-verbally by signals or signs -> to pass information without speaking, using gestures, movements or other wordless messages"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sign%2:32:01:: -> communicate silently with gestures or signals; sign%1:10:04:: -> a character showing a relation between quantities; sign%1:24:00:: -> having a stated pole, as positive or negative",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example is unidiomatic; referees signal, not 'sign that.' Replace with e.g. 'The officer signed to the driver to stop.'"
+    },
+    {
+      "senseId": "sign%1:10:04::",
+      "lemma": "sign",
+      "pos": "n",
+      "definition": "a character indicating a relation between quantities",
+      "sourceBranches": [
+        "a character indicating a relation between quantities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a written mark that shows how two amounts are related",
+      "scope": "This is a mathematical mark such as plus or equals, not a notice board or a gesture.",
+      "examples": [
+        "The equals sign shows that the two sides balance.",
+        "He forgot to write the minus sign before the number."
+      ],
+      "branchCoverage": [
+        "a character indicating a relation between quantities -> a written mark that shows how two amounts are related"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sign%2:32:01:: -> communicate silently with gestures or signals; sign%1:10:04:: -> a character showing a relation between quantities; sign%1:24:00:: -> having a stated pole, as positive or negative",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sign%1:24:00::",
+      "lemma": "sign",
+      "pos": "n",
+      "definition": "having an indicated pole (as the distinction between positive and negative electric charges)",
+      "sourceBranches": [
+        "having an indicated pole (as the distinction between positive and negative electric charges)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "which pole something has, for example positive or negative in an electric charge",
+      "scope": "This is about positive or negative direction, not a written mark or a gesture.",
+      "examples": [
+        "The sign of the charge determines which way the particle moves.",
+        "Reversing the sign of the number flips its position on the line."
+      ],
+      "branchCoverage": [
+        "having an indicated pole (as the distinction between positive and negative electric charges) -> which pole something has, for example positive or negative in an electric charge"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sign%2:32:01:: -> communicate silently with gestures or signals; sign%1:10:04:: -> a character showing a relation between quantities; sign%1:24:00:: -> having a stated pole, as positive or negative",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "simple%5:00:00:naive:00",
+      "lemma": "simple",
+      "pos": "a",
+      "definition": "exhibiting childlike simplicity and credulity",
+      "sourceBranches": [
+        "exhibiting childlike simplicity and credulity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "showing a childlike innocence and a readiness to believe things",
+      "scope": "This describes a trusting person, not something easy to do or plain in style.",
+      "examples": [
+        "In her simple trust, she handed over the money without asking questions.",
+        "He is a simple soul who believes everything he reads."
+      ],
+      "branchCoverage": [
+        "exhibiting childlike simplicity and credulity -> showing a childlike innocence and a readiness to believe things"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "simply%4:02:01::",
+      "lemma": "simply",
+      "pos": "r",
+      "definition": "in a simple manner; without extravagance or embellishment",
+      "sourceBranches": [
+        "in a simple manner",
+        "without extravagance or embellishment"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in a plain way, with nothing extra or decorative added",
+      "scope": "This describes a plain style or modest living, not only or merely.",
+      "examples": [
+        "They lived simply, with few possessions and no luxury.",
+        "The room was simply furnished, with a bed and a chair."
+      ],
+      "branchCoverage": [
+        "in a simple manner -> in a plain way",
+        "without extravagance or embellishment -> with nothing extra or decorative added"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "staff%1:27:00::",
+      "lemma": "staff",
+      "pos": "n",
+      "definition": "building material consisting of plaster and hair; used to cover external surfaces of temporary structure (as at an exposition) or for decoration",
+      "sourceBranches": [
+        "building material consisting of plaster and hair",
+        "used to cover external surfaces of temporary structure (as at an exposition) or for decoration"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A building material made of plaster mixed with hair, spread over the outside of temporary structures such as exhibition halls, or used as decoration.",
+      "scope": "Not a group of employees, a long pole carried as a support, or the five lines used in music notation.",
+      "examples": [
+        "The temporary pavilion was covered in staff, a plaster-and-hair mix that hardened into a smooth shell.",
+        "Craftsmen shaped staff into decorative leaves for the exhibition hall's ceiling."
+      ],
+      "branchCoverage": [
+        "building material consisting of plaster and hair -> A building material made of plaster mixed with hair",
+        "used to cover external surfaces of temporary structure (as at an exposition) or for decoration -> spread over the outside of temporary structures such as exhibition halls, or used as decoration"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "union%1:06:01::",
+      "lemma": "union",
+      "pos": "n",
+      "definition": "a device on a national flag emblematic of the union of two or more sovereignties (typically in the upper inner corner)",
+      "sourceBranches": [
+        "a device on a national flag emblematic of the union of two or more sovereignties (typically in the upper inner corner)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A design on a national flag that stands for the joining of two or more independent states, usually placed in the upper inner corner.",
+      "scope": "Not the act of joining groups, not an organization of workers, and not the healing of a wound or bone.",
+      "examples": [
+        "The new national banner shows a small union in its upper inner corner, standing for the joining of the two states.",
+        "Historians traced how the union on the flag changed each time another territory was added."
+      ],
+      "branchCoverage": [
+        "a device on a national flag emblematic of the union of two or more sovereignties (typically in the upper inner corner) -> A design on a national flag that stands for the joining of two or more independent states, usually placed in the upper inner corner"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "union%1:06:01:: -> a device on a national flag showing the union of countries; union%1:22:00:: -> the healing process in which parts grow together",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "union%1:22:00::",
+      "lemma": "union",
+      "pos": "n",
+      "definition": "healing process involving the growing together of the edges of a wound or the growing together of broken bones",
+      "sourceBranches": [
+        "healing process involving the growing together of the edges of a wound or the growing together of broken bones"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The healing process in which the edges of a wound grow together, or the ends of a broken bone knit back together.",
+      "scope": "Not a trade association or political alliance, and not a design on a flag.",
+      "examples": [
+        "The X-ray showed complete union of the broken bone after eight weeks.",
+        "Doctors watched the wound for signs of union along its edges."
+      ],
+      "branchCoverage": [
+        "healing process involving the growing together of the edges of a wound or the growing together of broken bones -> The healing process in which the edges of a wound grow together, or the ends of a broken bone knit back together"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "union%1:06:01:: -> a device on a national flag showing the union of countries; union%1:22:00:: -> the healing process in which parts grow together",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "walk%2:41:00::",
+      "lemma": "walk",
+      "pos": "v",
+      "definition": "live or behave in a specified manner",
+      "sourceBranches": [
+        "live or behave in a specified manner"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To live or act in the particular way that is stated.",
+      "scope": "Not the physical act of moving along on foot.",
+      "examples": [
+        "The congregation was urged to walk humbly and to care for their neighbors.",
+        "She has always walked with integrity, refusing to cut corners at work."
+      ],
+      "branchCoverage": [
+        "live or behave in a specified manner -> To live or act in the particular way that is stated"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bed%1:06:03::",
+      "lemma": "bed",
+      "pos": "n",
+      "definition": "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc.",
+      "sourceBranches": [
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The flat surface of a printing press where the frame holding the raised type is placed in the final stage of printing a newspaper, magazine, or book.",
+      "scope": "Not a piece of furniture for sleeping, not the ground under a river, and not a layer of ore or coal.",
+      "examples": [
+        "The press operator locked the type into the form and slid it onto the bed.",
+        "A worn bed on the old press left faint lines across every printed page."
+      ],
+      "branchCoverage": [
+        "the flat surface of a printing press on which the type form is laid in the last stage of producing a newspaper or magazine or book etc -> The flat surface of a printing press where the frame holding the raised type is placed in the final stage of printing a newspaper, magazine, or book"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bed%1:06:03:: -> the flat surface of a printing press that holds the type; bed%1:15:00:: -> a layer of ore or coal thick enough to mine; bed%1:06:04:: -> a single thickness of some material",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bed%1:15:00::",
+      "lemma": "bed",
+      "pos": "n",
+      "definition": "a stratum of ore or coal thick enough to be mined with profit",
+      "sourceBranches": [
+        "a stratum of ore or coal thick enough to be mined with profit"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A layer of ore or coal that is thick enough to be dug out at a profit.",
+      "scope": "Not just any layer of rock, and not a place for sleeping.",
+      "examples": [
+        "The company sank a shaft to reach the coal bed beneath the valley.",
+        "Geologists mapped a rich bed of iron ore running under the hills."
+      ],
+      "branchCoverage": [
+        "a stratum of ore or coal thick enough to be mined with profit -> A layer of ore or coal that is thick enough to be dug out at a profit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bed%1:06:03:: -> the flat surface of a printing press that holds the type; bed%1:15:00:: -> a layer of ore or coal thick enough to mine; bed%1:06:04:: -> a single thickness of some material",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bed%1:06:04::",
+      "lemma": "bed",
+      "pos": "n",
+      "definition": "single thickness of usually some homogeneous substance",
+      "sourceBranches": [
+        "single thickness of usually some homogeneous substance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "One layer of a material, usually of the same kind throughout.",
+      "scope": "Not a sleeping place, not a garden plot, not the ground beneath a river, and not the layer of ore or coal that is thick enough to mine.",
+      "examples": [
+        "The patio was built on a thick bed of gravel.",
+        "She served the fish on a bed of rice."
+      ],
+      "branchCoverage": [
+        "single thickness of usually some homogeneous substance -> One layer of a material, usually of the same kind throughout"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bed%1:06:03:: -> the flat surface of a printing press that holds the type; bed%1:15:00:: -> a layer of ore or coal thick enough to mine; bed%1:06:04:: -> a single thickness of some material",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope should exclude the ore/coal seam sibling; 'one layer of a material' also describes a mineable bed."
+    },
+    {
+      "senseId": "crazy%5:00:00:enthusiastic:00",
+      "lemma": "crazy",
+      "pos": "a",
+      "definition": "intensely enthusiastic about or preoccupied with",
+      "sourceBranches": [
+        "intensely enthusiastic about or preoccupied with"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Extremely keen about something, or so focused on it that you think of little else.",
+      "scope": "Not mentally ill, and not wildly foolish or impractical.",
+      "examples": [
+        "He's crazy about old motorcycles and spends every weekend restoring one.",
+        "The kids are crazy for that new game and talk about nothing else."
+      ],
+      "branchCoverage": [
+        "intensely enthusiastic about or preoccupied with -> Extremely keen about something, or so focused on it that you think of little else"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "figure%1:09:00::",
+      "lemma": "figure",
+      "pos": "n",
+      "definition": "a unitary percept having structure and coherence that is the object of attention and that stands out against a ground",
+      "sourceBranches": [
+        "a unitary percept having structure and coherence that is the object of attention and that stands out against a ground"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A single perceived shape that has a clear, connected structure and stands out from its background as the thing you are looking at.",
+      "scope": "Not a number or amount, and not a geometric drawing.",
+      "examples": [
+        "In the optical illusion, the vase becomes the figure while the faces fade into the background.",
+        "Psychologists study how the eye picks out a figure from a busy pattern."
+      ],
+      "branchCoverage": [
+        "a unitary percept having structure and coherence that is the object of attention and that stands out against a ground -> A single perceived shape that has a clear, connected structure and stands out from its background as the thing you are looking at"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "figure%1:09:00:: -> a unified shape the mind perceives as a whole; figure%1:04:00:: -> a set sequence of movements in dancing or skating; figure%1:07:01:: -> a number or amount, especially a stated total; figure%1:25:00:: -> a shape formed from points, lines, and planes; figure%1:10:01:: -> language used in a nonliteral sense",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "figure%1:04:00::",
+      "lemma": "figure",
+      "pos": "n",
+      "definition": "a predetermined set of movements in dancing or skating",
+      "sourceBranches": [
+        "a predetermined set of movements in dancing or skating"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A fixed series of steps or movements performed in a dance or on skates.",
+      "scope": "Not a numeral, and not a drawing in a geometry book.",
+      "examples": [
+        "The pair practiced the same figure until every turn was flawless.",
+        "Judges awarded high marks for a complicated skating figure."
+      ],
+      "branchCoverage": [
+        "a predetermined set of movements in dancing or skating -> A fixed series of steps or movements performed in a dance or on skates"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "figure%1:09:00:: -> a unified shape the mind perceives as a whole; figure%1:04:00:: -> a set sequence of movements in dancing or skating; figure%1:07:01:: -> a number or amount, especially a stated total; figure%1:25:00:: -> a shape formed from points, lines, and planes; figure%1:10:01:: -> language used in a nonliteral sense",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "figure%1:07:01::",
+      "lemma": "figure",
+      "pos": "n",
+      "definition": "the property possessed by a sum or total or indefinite quantity of units or individuals",
+      "sourceBranches": [
+        "the property possessed by a sum or total or indefinite quantity of units or individuals"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The amount you get when units or individuals are counted or added up, whether the total is exact or only approximate.",
+      "scope": "Not a digit or symbol on a page, not the geometric shape made of points and lines, and not the outline of a body.",
+      "examples": [
+        "Sales figures for the quarter were higher than anyone expected.",
+        "The unemployment figure fell to its lowest level in five years."
+      ],
+      "branchCoverage": [
+        "the property possessed by a sum or total or indefinite quantity of units or individuals -> The amount you get when units or individuals are counted or added up, whether the total is exact or only approximate"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "figure%1:09:00:: -> a unified shape the mind perceives as a whole; figure%1:04:00:: -> a set sequence of movements in dancing or skating; figure%1:07:01:: -> a number or amount, especially a stated total; figure%1:25:00:: -> a shape formed from points, lines, and planes; figure%1:10:01:: -> language used in a nonliteral sense",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope should exclude the geometric-shape sibling (points, lines, planes), not a body outline."
+    },
+    {
+      "senseId": "figure%1:25:00::",
+      "lemma": "figure",
+      "pos": "n",
+      "definition": "a combination of points and lines and planes that form a visible palpable shape",
+      "sourceBranches": [
+        "a combination of points and lines and planes that form a visible palpable shape"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A shape made by combining points, lines, and flat surfaces so that it can be seen and touched.",
+      "scope": "Not a number or amount, and not a perceived shape that stands out from its background.",
+      "examples": [
+        "The students drew a triangle and other geometric figures on the board.",
+        "Each figure in the diagram is built from straight lines and flat planes."
+      ],
+      "branchCoverage": [
+        "a combination of points and lines and planes that form a visible palpable shape -> A shape made by combining points, lines, and flat surfaces so that it can be seen and touched"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "figure%1:09:00:: -> a unified shape the mind perceives as a whole; figure%1:04:00:: -> a set sequence of movements in dancing or skating; figure%1:07:01:: -> a number or amount, especially a stated total; figure%1:25:00:: -> a shape formed from points, lines, and planes; figure%1:10:01:: -> language used in a nonliteral sense",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "figure%1:10:01::",
+      "lemma": "figure",
+      "pos": "n",
+      "definition": "language used in a figurative or nonliteral sense",
+      "sourceBranches": [
+        "language used in a figurative or nonliteral sense"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Words used in a way that is not literal, so the plain sense is not the one meant.",
+      "scope": "Not literal language, and not a numeral or a drawn shape.",
+      "examples": [
+        "'A sea of troubles' is a figure of speech that pictures trouble as an ocean.",
+        "The teacher explained that 'the classroom was a zoo' uses a figure of speech, not a literal claim."
+      ],
+      "branchCoverage": [
+        "language used in a figurative or nonliteral sense -> Words used in a way that is not literal, so the plain sense is not the one meant"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "figure%1:09:00:: -> a unified shape the mind perceives as a whole; figure%1:04:00:: -> a set sequence of movements in dancing or skating; figure%1:07:01:: -> a number or amount, especially a stated total; figure%1:25:00:: -> a shape formed from points, lines, and planes; figure%1:10:01:: -> language used in a nonliteral sense",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'image or comparison', narrowing the definition; nonliteral language also includes metonymy and irony."
+    },
+    {
+      "senseId": "paper%1:10:02::",
+      "lemma": "paper",
+      "pos": "n",
+      "definition": "a scholarly article describing the results of observations or stating hypotheses",
+      "sourceBranches": [
+        "a scholarly article describing the results of observations or stating hypotheses"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A written report by a researcher that presents what was found by watching or measuring, or that sets out ideas to be tested.",
+      "scope": "This is a written study, not a whole news publication, and not the thin material used for writing.",
+      "examples": [
+        "Her paper on sleep and memory was published in a leading journal.",
+        "I spent the weekend drafting a paper for my biology seminar."
+      ],
+      "branchCoverage": [
+        "a scholarly article describing the results of observations or stating hypotheses -> A written report by a researcher that presents what was found by watching or measuring, or that sets out ideas to be tested"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "paper%1:10:02:: -> a scholarly article reporting research; paper%1:06:00:: -> the printed product of a newspaper",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "paper%1:06:00::",
+      "lemma": "paper",
+      "pos": "n",
+      "definition": "the physical object that is the product of a newspaper publisher",
+      "sourceBranches": [
+        "the physical object that is the product of a newspaper publisher"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the printed news publication that a publisher puts out, as a thing you can hold",
+      "scope": "This is a whole news publication as a physical thing, not a research article and not blank material.",
+      "examples": [
+        "She folded the paper and tucked it under her arm on the way to work.",
+        "The Sunday paper landed on the doorstep in a plastic wrapper."
+      ],
+      "branchCoverage": [
+        "the physical object that is the product of a newspaper publisher -> the printed news publication that a publisher puts out, as a thing you can hold"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "paper%1:10:02:: -> a scholarly article reporting research; paper%1:06:00:: -> the printed product of a newspaper",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'and buy': a free newspaper is still the product. 'Complete set' also suggests every issue, not one copy."
+    },
+    {
+      "senseId": "version%1:04:00::",
+      "lemma": "version",
+      "pos": "n",
+      "definition": "manual turning of a fetus in the uterus (usually to aid delivery)",
+      "sourceBranches": [
+        "manual turning of a fetus in the uterus (usually to aid delivery)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A procedure in which the baby is turned around inside the womb by hand, usually to help delivery.",
+      "scope": "This is a hands-on medical procedure, not a particular edition or form of something, and not a translation.",
+      "examples": [
+        "The obstetrician suggested a version to turn the baby before labor began.",
+        "The version was done at thirty-seven weeks, and the baby stayed head-down."
+      ],
+      "branchCoverage": [
+        "manual turning of a fetus in the uterus (usually to aid delivery) -> A procedure in which the baby is turned around inside the womb by hand, usually to help delivery"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'doctor' (the definition says manual, not who performs it) and 'more safely' (it says only to aid delivery)."
+    },
+    {
+      "senseId": "voice%1:10:04::",
+      "lemma": "voice",
+      "pos": "n",
+      "definition": "A term used in phonetics and phonology to characterize speech sounds, with sounds described as either voiceless (unvoiced) or voiced.",
+      "sourceBranches": [
+        "A term used in phonetics and phonology to characterize speech sounds, with sounds described as either voiceless (unvoiced) or voiced"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In the study of speech sounds and sound systems, a label that puts each speech sound in one of two groups: made with the vocal cords vibrating, or made without.",
+      "scope": "This is a technical label for speech sounds, not the sound of a person speaking or singing, and not a right to express an opinion.",
+      "examples": [
+        "In phonetics class we learned that voice separates the sounds /p/ and /b/.",
+        "The speech therapist explained that voice is what makes /z/ different from /s/."
+      ],
+      "branchCoverage": [
+        "A term used in phonetics and phonology to characterize speech sounds, with sounds described as either voiceless (unvoiced) or voiced -> In the study of speech sounds and sound systems, a label that puts each speech sound in one of two groups: made with the vocal cords vibrating, or made without"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice%1:10:04:: -> a phonetic term for the vibration of the vocal cords; voice%1:10:01:: -> expressing something in clear spoken or written form; voice%1:10:02:: -> the melody carried by one voice or instrument; voice%1:10:03:: -> something that suggests speech as a medium of expression; voice%1:18:00:: -> a person who speaks for another's policy or views",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss and scope narrow 'speech sounds' to consonants; vowels and other sounds also carry voice. Say 'each speech sound'."
+    },
+    {
+      "senseId": "voice%1:10:01::",
+      "lemma": "voice",
+      "pos": "n",
+      "definition": "expressing in coherent verbal form",
+      "sourceBranches": [
+        "expressing in coherent verbal form"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The act of putting something into clear, well-ordered words, spoken or written, so others can understand it.",
+      "scope": "This is the act of putting something into words, not a publication or other channel that acts as a medium.",
+      "examples": [
+        "The protest gave voice to anger that had built up for years.",
+        "Her letters gave voice to grief she could not speak about at home."
+      ],
+      "branchCoverage": [
+        "expressing in coherent verbal form -> The act of putting something into clear, well-ordered words, spoken or written, so others can understand it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice%1:10:04:: -> a phonetic term for the vibration of the vocal cords; voice%1:10:01:: -> expressing something in clear spoken or written form; voice%1:10:02:: -> the melody carried by one voice or instrument; voice%1:10:03:: -> something that suggests speech as a medium of expression; voice%1:18:00:: -> a person who speaks for another's policy or views",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "voice%1:10:02::",
+      "lemma": "voice",
+      "pos": "n",
+      "definition": "the melody carried by a particular voice or instrument in polyphonic music",
+      "sourceBranches": [
+        "the melody carried by a particular voice or instrument in polyphonic music"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The tune or melodic line carried by one singer or instrument in music where several independent parts sound at once.",
+      "scope": "This is a melodic part in music, not the sound of a person speaking, and not a right to be heard.",
+      "examples": [
+        "The soprano voice enters first, then the alto joins a beat later.",
+        "The cello plays the lower voice in this fugue."
+      ],
+      "branchCoverage": [
+        "the melody carried by a particular voice or instrument in polyphonic music -> The tune or melodic line carried by one singer or instrument in music where several independent parts sound at once"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice%1:10:04:: -> a phonetic term for the vibration of the vocal cords; voice%1:10:01:: -> expressing something in clear spoken or written form; voice%1:10:02:: -> the melody carried by one voice or instrument; voice%1:10:03:: -> something that suggests speech as a medium of expression; voice%1:18:00:: -> a person who speaks for another's policy or views",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "voice%1:10:03::",
+      "lemma": "voice",
+      "pos": "n",
+      "definition": "something suggestive of speech in being a medium of expression",
+      "sourceBranches": [
+        "something suggestive of speech in being a medium of expression"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A thing, such as a publication or an art form, that works like speech in giving people a way to express ideas and feelings.",
+      "scope": "This is a channel or outlet itself, not the act of putting something into words, and not a person who speaks for others.",
+      "examples": [
+        "The magazine became an important voice for reform, printing stories no other outlet dared to.",
+        "Street art gave the neighborhood a voice when official newspapers ignored it."
+      ],
+      "branchCoverage": [
+        "something suggestive of speech in being a medium of expression -> A thing, such as a publication or an art form, that works like speech in giving people a way to express ideas and feelings"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice%1:10:04:: -> a phonetic term for the vibration of the vocal cords; voice%1:10:01:: -> expressing something in clear spoken or written form; voice%1:10:02:: -> the melody carried by one voice or instrument; voice%1:10:03:: -> something that suggests speech as a medium of expression; voice%1:18:00:: -> a person who speaks for another's policy or views",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "voice%1:18:00::",
+      "lemma": "voice",
+      "pos": "n",
+      "definition": "an advocate who represents someone else's policy or purpose",
+      "sourceBranches": [
+        "an advocate who represents someone else's policy or purpose"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A person who publicly speaks for another person or group, putting forward their policies or aims.",
+      "scope": "This is a person, not a publication or other channel, and not the act of expressing something.",
+      "examples": [
+        "She served as the voice of the striking workers during talks with management.",
+        "The senator became the voice of rural hospitals in the budget fight."
+      ],
+      "branchCoverage": [
+        "an advocate who represents someone else's policy or purpose -> A person who publicly speaks for another person or group, putting forward their policies or aims"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice%1:10:04:: -> a phonetic term for the vibration of the vocal cords; voice%1:10:01:: -> expressing something in clear spoken or written form; voice%1:10:02:: -> the melody carried by one voice or instrument; voice%1:10:03:: -> something that suggests speech as a medium of expression; voice%1:18:00:: -> a person who speaks for another's policy or views",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "writing%1:10:01::",
+      "lemma": "writing",
+      "pos": "n",
+      "definition": "letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language",
+      "sourceBranches": [
+        "letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Letters or symbols set down or printed on a surface as a way of standing for the sounds or words of a language.",
+      "scope": "This is the marks on a surface, not the activity of producing text, and not a composed work such as a book.",
+      "examples": [
+        "The writing on the cave wall is thousands of years old.",
+        "The writing on the label had faded until the letters were barely visible."
+      ],
+      "branchCoverage": [
+        "letters or symbols that are written or imprinted on a surface to represent the sounds or words of a language -> Letters or symbols set down or printed on a surface as a way of standing for the sounds or words of a language"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "earth%1:27:01::",
+      "lemma": "earth",
+      "pos": "n",
+      "definition": "once thought to be one of four elements composing the universe (Empedocles), associated with the humour black bile",
+      "sourceBranches": [
+        "once thought to be one of four elements composing the universe (Empedocles), associated with the humour black bile"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In ancient Greek thought, one of the four basic substances believed to make up the universe, linked by the philosopher Empedocles to the bodily fluid called black bile.",
+      "scope": "This is an ancient element of the universe, not the planet we live on, and not soil or ground.",
+      "examples": [
+        "In medieval medicine, earth was one of the four elements, paired with black bile.",
+        "The alchemists believed that earth, air, fire and water made up all matter."
+      ],
+      "branchCoverage": [
+        "once thought to be one of four elements composing the universe (Empedocles), associated with the humour black bile -> In ancient Greek thought, one of the four basic substances believed to make up the universe, linked by the philosopher Empedocles to the bodily fluid called black bile"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "earth%1:27:01:: -> one of the four elements of ancient cosmology; earth%1:09:00:: -> the concerns of this life, as opposed to heaven",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "earth%1:09:00::",
+      "lemma": "earth",
+      "pos": "n",
+      "definition": "the concerns of this life as distinguished from heaven and the afterlife",
+      "sourceBranches": [
+        "the concerns of this life as distinguished from heaven and the afterlife"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The concerns of life in this world, seen as separate from heaven and from what comes after death.",
+      "scope": "This is the world of daily life as opposed to heaven, not the planet, and not soil.",
+      "examples": [
+        "The monk gave up the goods of earth and devoted himself to prayer.",
+        "Her sermon asked the congregation to look beyond the cares of earth to the life to come."
+      ],
+      "branchCoverage": [
+        "the concerns of this life as distinguished from heaven and the afterlife -> The concerns of life in this world, seen as separate from heaven and from what comes after death"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "earth%1:27:01:: -> one of the four elements of ancient cosmology; earth%1:09:00:: -> the concerns of this life, as opposed to heaven",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss narrows 'concerns' to 'practical matters and worries'; worldly concerns also include moral, social and artistic ones."
+    },
+    {
+      "senseId": "success%1:18:00::",
+      "lemma": "success",
+      "pos": "n",
+      "definition": "a person with a record of successes",
+      "sourceBranches": [
+        "a person with a record of successes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A person who has achieved a series of good results.",
+      "scope": "This is a person, not an achievement and not the state of doing well.",
+      "examples": [
+        "By thirty she was already a success in the fashion world.",
+        "The company hired him because he was a proven success in sales."
+      ],
+      "branchCoverage": [
+        "a person with a record of successes -> A person who has achieved a series of good results"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Adds 'known for' and 'winning praise'; the definition only requires a person with a record of successes."
+    },
+    {
+      "senseId": "access%1:10:00::",
+      "lemma": "access",
+      "pos": "n",
+      "definition": "a code (a series of characters or digits) that must be entered in some way (typed or dialed or spoken) to get the use of something (a telephone line or a computer or a local area network etc.)",
+      "sourceBranches": [
+        "a code (a series of characters or digits) that must be entered in some way (typed or dialed or spoken) to get the use of something (a telephone line or a computer or a local area network etc.)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a set of letters or numbers that you type, dial, or say to be allowed to use something such as a phone line or computer network.",
+      "scope": "This is not the right or opportunity to enter a place or use a service; it is the set of letters or numbers that unlocks it.",
+      "examples": [
+        "The receptionist wrote the access code on the back of my key card.",
+        "You cannot open the lab door without the four-digit code the manager gave you."
+      ],
+      "branchCoverage": [
+        "a code (a series of characters or digits) that must be entered in some way (typed or dialed or spoken) to get the use of something (a telephone line or a computer or a local area network etc.) -> a set of letters or numbers that you type, dial, or say to be allowed to use something such as a phone line or computer network"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "base%1:27:01::",
+      "lemma": "base",
+      "pos": "n",
+      "definition": "a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)",
+      "sourceBranches": [
+        "a phosphoric ester of a nucleoside",
+        "the basic structural unit of nucleic acids (DNA or RNA)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a compound formed when phosphoric acid links to a sugar-and-nitrogen unit, the fundamental building block of nucleic acids such as DNA and RNA.",
+      "scope": "This is not the chemical that turns litmus blue, the main ingredient of a mixture, or the side of a shape; it is the molecular unit that makes up DNA and RNA.",
+      "examples": [
+        "A single base is made of a phosphate group, a sugar, and a nitrogen-containing part.",
+        "The enzyme builds the new DNA strand by adding bases one after another."
+      ],
+      "branchCoverage": [
+        "a phosphoric ester of a nucleoside -> a compound formed when phosphoric acid links to a sugar-and-nitrogen unit",
+        "the basic structural unit of nucleic acids (DNA or RNA) -> the fundamental building block of nucleic acids such as DNA and RNA"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "base%1:27:01:: -> the phosphate-sugar unit that forms the backbone of DNA; base%1:27:00:: -> a water-soluble compound that turns litmus blue; base%1:09:00:: -> the fundamental assumptions something rests on; base%1:06:07:: -> the main ingredient in a mixture; base%1:25:00:: -> the bottom side of a geometric figure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "base%1:27:00::",
+      "lemma": "base",
+      "pos": "n",
+      "definition": "any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water",
+      "sourceBranches": [
+        "any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "any of a group of compounds that dissolve in water, turn litmus dye blue, and react with an acid to form a salt and water.",
+      "scope": "This is not the molecular unit in DNA, the main ingredient of a mixture, or the groundwork of an argument; it is the chemical that neutralises acids.",
+      "examples": [
+        "Soap is a mild base that feels slippery on the skin.",
+        "Farmers spread a base such as lime on the field to reduce soil acidity."
+      ],
+      "branchCoverage": [
+        "any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water -> any of a group of compounds that dissolve in water, turn litmus dye blue, and react with an acid to form a salt and water"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "base%1:27:01:: -> the phosphate-sugar unit that forms the backbone of DNA; base%1:27:00:: -> a water-soluble compound that turns litmus blue; base%1:09:00:: -> the fundamental assumptions something rests on; base%1:06:07:: -> the main ingredient in a mixture; base%1:25:00:: -> the bottom side of a geometric figure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "base%1:09:00::",
+      "lemma": "base",
+      "pos": "n",
+      "definition": "the fundamental assumptions from which something is begun or developed or calculated or explained",
+      "sourceBranches": [
+        "the fundamental assumptions from which something is begun or developed or calculated or explained"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the underlying things accepted as true without proof on which something is started, developed, calculated, or explained.",
+      "scope": "This is not a physical bottom, a chemical, or a main ingredient; it is the set of accepted ideas that an argument or system rests on.",
+      "examples": [
+        "The new policy was built on a base of old assumptions about family life.",
+        "Before you calculate anything, agree on the base of facts you are working from."
+      ],
+      "branchCoverage": [
+        "the fundamental assumptions from which something is begun or developed or calculated or explained -> the underlying things accepted as true without proof on which something is started, developed, calculated, or explained"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "base%1:27:01:: -> the phosphate-sugar unit that forms the backbone of DNA; base%1:27:00:: -> a water-soluble compound that turns litmus blue; base%1:09:00:: -> the fundamental assumptions something rests on; base%1:06:07:: -> the main ingredient in a mixture; base%1:25:00:: -> the bottom side of a geometric figure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "base%1:06:07::",
+      "lemma": "base",
+      "pos": "n",
+      "definition": "the principal ingredient of a mixture",
+      "sourceBranches": [
+        "the principal ingredient of a mixture"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the main substance in a mixture, to which the other parts are added.",
+      "scope": "This is not the chemical that neutralises acid or the bottom of a shape; it is the largest or most important part of what something is made of.",
+      "examples": [
+        "Olive oil is the base of this dressing, with vinegar and herbs added.",
+        "The sauce has a base of tomatoes and garlic."
+      ],
+      "branchCoverage": [
+        "the principal ingredient of a mixture -> the main substance in a mixture, to which the other parts are added"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "base%1:27:01:: -> the phosphate-sugar unit that forms the backbone of DNA; base%1:27:00:: -> a water-soluble compound that turns litmus blue; base%1:09:00:: -> the fundamental assumptions something rests on; base%1:06:07:: -> the main ingredient in a mixture; base%1:25:00:: -> the bottom side of a geometric figure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "base%1:25:00::",
+      "lemma": "base",
+      "pos": "n",
+      "definition": "the bottom side of a geometric figure from which the altitude can be constructed",
+      "sourceBranches": [
+        "the bottom side of a geometric figure from which the altitude can be constructed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the bottom side of a geometric shape, from which a line for its height can be drawn.",
+      "scope": "This is not the lowest part of a solid object or a chemical; it is the side of a flat shape used to measure height.",
+      "examples": [
+        "The triangle has a base of six centimetres and a height of four.",
+        "Draw a line from the top corner straight down to the base."
+      ],
+      "branchCoverage": [
+        "the bottom side of a geometric figure from which the altitude can be constructed -> the bottom side of a geometric shape, from which a line for its height can be drawn"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "base%1:27:01:: -> the phosphate-sugar unit that forms the backbone of DNA; base%1:27:00:: -> a water-soluble compound that turns litmus blue; base%1:09:00:: -> the fundamental assumptions something rests on; base%1:06:07:: -> the main ingredient in a mixture; base%1:25:00:: -> the bottom side of a geometric figure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deep%5:00:00:artful:00",
+      "lemma": "deep",
+      "pos": "a",
+      "definition": "exhibiting great cunning usually with secrecy",
+      "sourceBranches": [
+        "exhibiting great cunning usually with secrecy"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "showing great skill at tricking people, usually while keeping the plan secret.",
+      "scope": "This is not about distance from top to bottom or strength of feeling; it is about a person being secretly clever and tricky.",
+      "examples": [
+        "He plays a deep game and never lets anyone see his real plan.",
+        "The novel's villain is deep and patient, hiding his purpose for years."
+      ],
+      "branchCoverage": [
+        "exhibiting great cunning usually with secrecy -> showing great skill at tricking people, usually while keeping the plan secret"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deep%5:00:00:artful:00 -> cunning in a secretive way; deep%5:00:00:esoteric:00 -> hard to understand; deep%5:00:00:low:03 -> low in pitch, as a voice or instrument; deep%5:00:00:wide:00 -> extending far inward",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deep%5:00:00:esoteric:00",
+      "lemma": "deep",
+      "pos": "a",
+      "definition": "difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+      "sourceBranches": [
+        "difficult to penetrate",
+        "incomprehensible to one of ordinary understanding or knowledge"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "hard to get into and impossible for an ordinary person to understand or follow.",
+      "scope": "This is not physical distance downwards or a low sound; it is about ideas too difficult for most people to grasp.",
+      "examples": [
+        "The lecture was too deep for me; I lost the thread after ten minutes.",
+        "The book is deep, full of references that only specialists recognise."
+      ],
+      "branchCoverage": [
+        "difficult to penetrate -> hard to get into",
+        "incomprehensible to one of ordinary understanding or knowledge -> impossible for an ordinary person to understand or follow"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deep%5:00:00:artful:00 -> cunning in a secretive way; deep%5:00:00:esoteric:00 -> hard to understand; deep%5:00:00:low:03 -> low in pitch, as a voice or instrument; deep%5:00:00:wide:00 -> extending far inward",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deep%5:00:00:low:03",
+      "lemma": "deep",
+      "pos": "a",
+      "definition": "having or denoting a low vocal or instrumental range",
+      "sourceBranches": [
+        "having or denoting a low vocal or instrumental range"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "having or naming a low range of notes for a voice or an instrument.",
+      "scope": "This is not about physical depth or secret cleverness; it is about sound sitting low in the scale.",
+      "examples": [
+        "She sang the deep notes of the alto part with ease.",
+        "The cello's deep voice filled the hall."
+      ],
+      "branchCoverage": [
+        "having or denoting a low vocal or instrumental range -> having or naming a low range of notes for a voice or an instrument"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deep%5:00:00:artful:00 -> cunning in a secretive way; deep%5:00:00:esoteric:00 -> hard to understand; deep%5:00:00:low:03 -> low in pitch, as a voice or instrument; deep%5:00:00:wide:00 -> extending far inward",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deep%5:00:00:wide:00",
+      "lemma": "deep",
+      "pos": "a",
+      "definition": "extending relatively far inward",
+      "sourceBranches": [
+        "extending relatively far inward"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "reaching a long way in from the outer edge or surface.",
+      "scope": "This is not about how far down something goes from the top or about a low sound; it is about distance in from the front or outer edge.",
+      "examples": [
+        "The shelf is deep enough to hold a row of large books.",
+        "A deep drawer runs far back under the counter."
+      ],
+      "branchCoverage": [
+        "extending relatively far inward -> reaching a long way in from the outer edge or surface"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deep%5:00:00:artful:00 -> cunning in a secretive way; deep%5:00:00:esoteric:00 -> hard to understand; deep%5:00:00:low:03 -> low in pitch, as a voice or instrument; deep%5:00:00:wide:00 -> extending far inward",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "offer%2:40:09::",
+      "lemma": "offer",
+      "pos": "v",
+      "definition": "offer verbally",
+      "sourceBranches": [
+        "offer verbally"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to express greetings, sympathy, or good wishes to someone in words",
+      "scope": "This is putting a greeting or good wish into words, not holding something out for someone to take, not handing it over, and not volunteering to do something.",
+      "examples": [
+        "He offered his sympathy to the family at the funeral.",
+        "She offered her congratulations to the newlyweds."
+      ],
+      "branchCoverage": [
+        "offer verbally -> to express greetings, sympathy, or good wishes to someone in words"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Offer verbally' means express greetings or sympathy, not volunteer/present. Gloss and examples fit siblings; scope misreads it. Use 'He offered his sympathy.'"
+    },
+    {
+      "senseId": "pass%1:17:00::",
+      "lemma": "pass",
+      "pos": "n",
+      "definition": "the location in a range of mountains of a geological formation that is lower than the surrounding peaks",
+      "sourceBranches": [
+        "the location in a range of mountains of a geological formation that is lower than the surrounding peaks"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a low point in a mountain range, a gap in the land that sits below the peaks around it.",
+      "scope": "This is not a ticket or a permit to enter, nor the act of moving past something; it is a low place between mountains.",
+      "examples": [
+        "The road climbs through a narrow pass before dropping into the valley.",
+        "Snow had closed the mountain pass, so the trucks took the long way round."
+      ],
+      "branchCoverage": [
+        "the location in a range of mountains of a geological formation that is lower than the surrounding peaks -> a low point in a mountain range, a gap in the land that sits below the peaks around it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

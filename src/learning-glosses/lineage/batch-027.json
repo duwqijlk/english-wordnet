@@ -1,0 +1,1024 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 27,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1300,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "wear%2:42:01::",
+      "lemma": "wear",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "have in one's aspect; wear an expression of one's attitude or personality",
+      "synsetId": "02745909-v",
+      "words": 12,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1200,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have in one's aspect",
+        "wear an expression of one's attitude or personality"
+      ]
+    },
+    {
+      "senseId": "wear%1:06:00::",
+      "lemma": "wear",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a covering designed to be worn on a person's body",
+      "synsetId": "03055525-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1200,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a covering designed to be worn on a person's body"
+      ]
+    },
+    {
+      "senseId": "address%1:10:00::",
+      "lemma": "address",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of delivering a formal spoken communication to an audience",
+      "synsetId": "07253354-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1202,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of delivering a formal spoken communication to an audience"
+      ]
+    },
+    {
+      "senseId": "address%2:32:03::",
+      "lemma": "address",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "put an address on (an envelope)",
+      "synsetId": "00992844-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1202,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "put an address on (an envelope)"
+      ]
+    },
+    {
+      "senseId": "analysis%1:09:00::",
+      "lemma": "analysis",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the abstract separation of a whole into its constituent parts in order to study the parts and their relations",
+      "synsetId": "05780664-n",
+      "words": 19,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1203,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the abstract separation of a whole into its constituent parts in order to study the parts and their relations"
+      ]
+    },
+    {
+      "senseId": "analysis%1:10:00::",
+      "lemma": "analysis",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a form of literary criticism in which the structure of a piece of writing is analyzed",
+      "synsetId": "06387637-n",
+      "words": 16,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1203,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a form of literary criticism in which the structure of a piece of writing is analyzed"
+      ]
+    },
+    {
+      "senseId": "anyway%4:02:00::",
+      "lemma": "anyway",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "used to indicate that a statement explains or supports a previous statement",
+      "synsetId": "00026948-r",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1204,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "used to indicate that a statement explains or supports a previous statement"
+      ]
+    },
+    {
+      "senseId": "choose%2:31:00::",
+      "lemma": "choose",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "pick out, select, or choose from a number of alternatives",
+      "synsetId": "00676526-v",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1207,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "pick out, select, or choose from a number of alternatives"
+      ]
+    },
+    {
+      "senseId": "color%1:07:00::",
+      "lemma": "color",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a visual attribute of things that results from the light they emit or transmit or reflect",
+      "synsetId": "04963771-n",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1209,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a visual attribute of things that results from the light they emit or transmit or reflect"
+      ]
+    },
+    {
+      "senseId": "color%2:30:00::",
+      "lemma": "color",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "add color to",
+      "synsetId": "00284671-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1209,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "add color to"
+      ]
+    },
+    {
+      "senseId": "commission%1:21:00::",
+      "lemma": "commission",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)",
+      "synsetId": "13341882-n",
+      "words": 25,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1210,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)"
+      ]
+    },
+    {
+      "senseId": "commission%1:04:02::",
+      "lemma": "commission",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of granting authority to undertake certain functions",
+      "synsetId": "01142792-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1210,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of granting authority to undertake certain functions"
+      ]
+    },
+    {
+      "senseId": "commission%2:41:01::",
+      "lemma": "commission",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "put into commission; equip for service; of ships",
+      "synsetId": "02480824-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1210,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "put into commission",
+        "equip for service",
+        "of ships"
+      ]
+    },
+    {
+      "senseId": "competition%1:04:00::",
+      "lemma": "competition",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of competing as for profit or a prize",
+      "synsetId": "01171059-n",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1211,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of competing as for profit or a prize"
+      ]
+    },
+    {
+      "senseId": "competition%1:24:01::",
+      "lemma": "competition",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a business relation in which two parties compete to gain customers",
+      "synsetId": "13859208-n",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1211,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a business relation in which two parties compete to gain customers"
+      ]
+    },
+    {
+      "senseId": "direct%3:00:00::",
+      "lemma": "direct",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "direct in spatial dimensions; proceeding without deviation or interruption; straight and short",
+      "synsetId": "00764460-a",
+      "words": 12,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1213,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "direct in spatial dimensions",
+        "proceeding without deviation or interruption",
+        "straight and short"
+      ]
+    },
+    {
+      "senseId": "direct%5:00:00:immediate:00",
+      "lemma": "direct",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having no intervening persons, agents, conditions",
+      "synsetId": "00774039-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1213,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having no intervening persons, agents, conditions"
+      ]
+    },
+    {
+      "senseId": "dream%1:09:02::",
+      "lemma": "dream",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "imaginative thoughts indulged in while awake",
+      "synsetId": "05776803-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1214,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "imaginative thoughts indulged in while awake"
+      ]
+    },
+    {
+      "senseId": "dream%2:36:00::",
+      "lemma": "dream",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "have a daydream; indulge in a fantasy",
+      "synsetId": "01641175-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1214,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have a daydream",
+        "indulge in a fantasy"
+      ]
+    },
+    {
+      "senseId": "easily%4:02:05::",
+      "lemma": "easily",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "indicating high probability; in all likelihood",
+      "synsetId": "00012993-r",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1215,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "indicating high probability",
+        "in all likelihood"
+      ]
+    },
+    {
+      "senseId": "easily%4:02:01::",
+      "lemma": "easily",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "with ease (‘easy’ is sometimes used informally for ‘easily’)",
+      "synsetId": "00148912-r",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1215,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "with ease (‘easy’ is sometimes used informally for ‘easily’)"
+      ]
+    },
+    {
+      "senseId": "finish%2:42:00::",
+      "lemma": "finish",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",
+      "synsetId": "02615799-v",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1216,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have an end, in a temporal, spatial, or quantitative sense",
+        "either spatial or metaphorical"
+      ]
+    },
+    {
+      "senseId": "finish%1:07:00::",
+      "lemma": "finish",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a decorative texture or appearance of a surface (or the substance that gives it that appearance)",
+      "synsetId": "04707990-n",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1216,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a decorative texture or appearance of a surface (or the substance that gives it that appearance)"
+      ]
+    },
+    {
+      "senseId": "finish%1:26:00::",
+      "lemma": "finish",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a highly developed state of perfection; having a flawless or impeccable quality",
+      "synsetId": "14483408-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1216,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a highly developed state of perfection",
+        "having a flawless or impeccable quality"
+      ]
+    },
+    {
+      "senseId": "finish%2:30:02::",
+      "lemma": "finish",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "come or bring to a finish or an end",
+      "synsetId": "00485097-v",
+      "words": 9,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1216,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "come or bring to a finish or an end"
+      ]
+    },
+    {
+      "senseId": "grand%1:06:00::",
+      "lemma": "grand",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a piano with the strings on a horizontal harp-shaped frame; usually supported by three legs",
+      "synsetId": "03457685-n",
+      "words": 16,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1217,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a piano with the strings on a horizontal harp-shaped frame",
+        "usually supported by three legs"
+      ]
+    },
+    {
+      "senseId": "grand%5:00:00:impressive:00",
+      "lemma": "grand",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of behavior that is impressive and ambitious in scale or scope",
+      "synsetId": "01287636-s",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1217,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of behavior that is impressive and ambitious in scale or scope"
+      ]
+    },
+    {
+      "senseId": "literally%4:02:01::",
+      "lemma": "literally",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "(intensifier before a figurative expression) without exaggeration",
+      "synsetId": "00112012-r",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1219,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(intensifier before a figurative expression) without exaggeration"
+      ]
+    },
+    {
+      "senseId": "literally%4:02:00::",
+      "lemma": "literally",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "in a literal sense",
+      "synsetId": "00341857-r",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1219,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in a literal sense"
+      ]
+    },
+    {
+      "senseId": "luck%1:19:01::",
+      "lemma": "luck",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an unknown and unpredictable phenomenon that leads to a favorable outcome",
+      "synsetId": "11438574-n",
+      "words": 11,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1220,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an unknown and unpredictable phenomenon that leads to a favorable outcome"
+      ]
+    },
+    {
+      "senseId": "luck%1:19:00::",
+      "lemma": "luck",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an unknown and unpredictable phenomenon that causes an event to result one way rather than another",
+      "synsetId": "11438252-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1220,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an unknown and unpredictable phenomenon that causes an event to result one way rather than another"
+      ]
+    },
+    {
+      "senseId": "marriage%1:04:00::",
+      "lemma": "marriage",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of marrying; the nuptial ceremony",
+      "synsetId": "01039028-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1221,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of marrying",
+        "the nuptial ceremony"
+      ]
+    },
+    {
+      "senseId": "marriage%1:14:00::",
+      "lemma": "marriage",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "two people who are married to each other",
+      "synsetId": "08005815-n",
+      "words": 8,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1221,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "two people who are married to each other"
+      ]
+    },
+    {
+      "senseId": "names%1:10:00::",
+      "lemma": "names",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "verbal abuse; a crude substitute for argument",
+      "synsetId": "06733533-n",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1222,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "verbal abuse",
+        "a crude substitute for argument"
+      ]
+    },
+    {
+      "senseId": "necessary%5:00:00:inevitable:00",
+      "lemma": "necessary",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "unavoidably determined by prior circumstances",
+      "synsetId": "00344451-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1223,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "unavoidably determined by prior circumstances"
+      ]
+    },
+    {
+      "senseId": "rich%3:00:02::",
+      "lemma": "rich",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having an abundant supply of desirable qualities or substances (especially natural resources)",
+      "synsetId": "02031394-a",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1226,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having an abundant supply of desirable qualities or substances (especially natural resources)"
+      ]
+    },
+    {
+      "senseId": "skin%2:38:00::",
+      "lemma": "skin",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "climb awkwardly, as if by scrambling",
+      "synsetId": "01925765-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1227,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "climb awkwardly, as if by scrambling"
+      ]
+    },
+    {
+      "senseId": "speaking%3:00:00::",
+      "lemma": "speaking",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "capable of or involving speech or speaking",
+      "synsetId": "00154164-a",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1228,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "capable of or involving speech or speaking"
+      ]
+    },
+    {
+      "senseId": "sweet%5:00:00:lovable:00",
+      "lemma": "sweet",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having a sweet nature befitting an angel or cherub",
+      "synsetId": "01462871-s",
+      "words": 9,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1230,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having a sweet nature befitting an angel or cherub"
+      ]
+    },
+    {
+      "senseId": "thus%1:27:00::",
+      "lemma": "thus",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an aromatic gum resin obtained from various Arabian or East African trees; formerly valued for worship and for embalming and fumigation",
+      "synsetId": "14898102-n",
+      "words": 21,
+      "rare": 11,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1231,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an aromatic gum resin obtained from various Arabian or East African trees",
+        "formerly valued for worship and for embalming and fumigation"
+      ]
+    },
+    {
+      "senseId": "thus%4:02:00::",
+      "lemma": "thus",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+      "synsetId": "00043413-r",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1231,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result"
+      ]
+    },
+    {
+      "senseId": "touch%1:09:01::",
+      "lemma": "touch",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the faculty by which external objects or forces are perceived through contact with the body (especially the hands)",
+      "synsetId": "05662964-n",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1232,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the faculty by which external objects or forces are perceived through contact with the body (especially the hands)"
+      ]
+    },
+    {
+      "senseId": "damage%2:30:01::",
+      "lemma": "damage",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "suffer or be susceptible to damage",
+      "synsetId": "00589255-v",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1236,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "suffer or be susceptible to damage"
+      ]
+    },
+    {
+      "senseId": "damage%1:04:00::",
+      "lemma": "damage",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of damaging something or someone",
+      "synsetId": "00403900-n",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1236,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of damaging something or someone"
+      ]
+    },
+    {
+      "senseId": "damage%2:30:00::",
+      "lemma": "damage",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "inflict damage upon",
+      "synsetId": "00259743-v",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1236,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "inflict damage upon"
+      ]
+    },
+    {
+      "senseId": "directly%4:02:07::",
+      "lemma": "directly",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "without delay or hesitation; with no time intervening",
+      "synsetId": "00049277-r",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1237,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "without delay or hesitation",
+        "with no time intervening"
+      ]
+    },
+    {
+      "senseId": "disease%1:26:00::",
+      "lemma": "disease",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an impairment of health or a condition of abnormal functioning",
+      "synsetId": "14093842-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1238,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an impairment of health or a condition of abnormal functioning"
+      ]
+    },
+    {
+      "senseId": "doctor%1:18:01::",
+      "lemma": "doctor",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a person who holds Ph.D. degree (or the equivalent) from an academic institution",
+      "synsetId": "10041617-n",
+      "words": 14,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1239,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who holds Ph.D. degree (or the equivalent) from an academic institution"
+      ]
+    },
+    {
+      "senseId": "doctor%1:04:00::",
+      "lemma": "doctor",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+      "synsetId": "00433296-n",
+      "words": 18,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1239,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "children take the roles of physician or patient or nurse and pretend they are at the physician's office"
+      ]
+    },
+    {
+      "senseId": "doctor%2:30:00::",
+      "lemma": "doctor",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "alter and make impure, as with the intention to deceive",
+      "synsetId": "00489366-v",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1239,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "alter and make impure, as with the intention to deceive"
+      ]
+    }
+  ]
+}
