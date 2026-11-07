@@ -1,0 +1,997 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 7,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 42,
+      "of": 50,
+      "rate": 0.84
+    },
+    "selfApproved": [
+      "five%1:06:00::",
+      "working%5:00:00:practical:00",
+      "means%1:06:01::",
+      "book%2:41:01::",
+      "early%3:00:02::",
+      "local%1:06:00::",
+      "single%3:00:05::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "4e15091cda228b0141363fc848196db5e3dca10ef2a5eed9e3e7ad42b6707be9"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "face%1:08:00::",
+      "lemma": "face",
+      "pos": "n",
+      "definition": "the front of the human head from the forehead to the chin and ear to ear",
+      "decision": "gloss",
+      "simpleMeaning": "the front part of a person's head, from the top of the forehead down to the chin and across from one ear to the other",
+      "scope": "This is the front of the head itself, not the whole head and not the look on someone's face.",
+      "examples": [
+        "She washed her face with cold water.",
+        "A fly landed on his face and he brushed it away."
+      ],
+      "branchCoverage": [
+        "the front of the human head from the forehead to the chin and ear to ear -> the front part of a person's head, from the top of the forehead down to the chin and across from one ear to the other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "five%1:06:00::",
+      "lemma": "five",
+      "pos": "n",
+      "definition": "a playing card or a domino or a die whose upward face shows five pips",
+      "decision": "gloss",
+      "simpleMeaning": "a playing card, domino or one of a pair of dice whose top side shows as many spots as there are fingers on one hand",
+      "scope": "This is the marked card, domino, or die itself, not the number five or a group of five things.",
+      "examples": [
+        "He laid a five on the table and won the round.",
+        "She threw the dice and a five came up."
+      ],
+      "branchCoverage": [
+        "a playing card or a domino or a die whose upward face shows five pips -> a playing card, domino or one of a pair of dice whose top side shows as many spots as there are fingers on one hand"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "a card, domino, or die showing five spots",
+      "verdict": "self-approved",
+      "reviewerNote": "Riddle is hard to parse; 'one of a pair of dice' wrongly implies pairs. Say 'a card, domino or die showing five spots'."
+    },
+    {
+      "senseId": "kind%3:00:00::",
+      "lemma": "kind",
+      "pos": "a",
+      "definition": "having or showing a tender and considerate and helpful nature; used especially of persons and their behavior",
+      "decision": "gloss",
+      "simpleMeaning": "describes a person, or the way a person acts, who cares about other people and gently tries to help them",
+      "scope": "This describes a warm, caring character, not something that is merely pleasant or comfortable.",
+      "examples": [
+        "It was kind of you to carry her bags.",
+        "He gave the frightened child a kind smile."
+      ],
+      "branchCoverage": [
+        "having or showing a tender and considerate and helpful nature -> cares about other people and gently tries to help them",
+        "used especially of persons and their behavior -> describes a person, or the way a person acts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "kind (adj) warm and helpful to others; kind (n) a type or sort of thing; kind (adj) ready to forgive and not easily angered; kind (adj) mild and comfortable, used of weather, climate or places.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kind%1:09:00::",
+      "lemma": "kind",
+      "pos": "n",
+      "definition": "a category of things distinguished by some common characteristic or quality",
+      "decision": "gloss",
+      "simpleMeaning": "a group of things that are alike in some way",
+      "scope": "This is a group or type of things, not a person's caring nature.",
+      "examples": [
+        "What kind of music do you like?",
+        "This kind of plant needs very little water."
+      ],
+      "branchCoverage": [
+        "a category of things distinguished by some common characteristic or quality -> a group of things that are alike in some way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "kind (adj) warm and helpful to others; kind (n) a type or sort of thing; kind (adj) ready to forgive and not easily angered; kind (adj) mild and comfortable, used of weather, climate or places.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kind%5:00:00:forgiving:00",
+      "lemma": "kind",
+      "pos": "a",
+      "definition": "tolerant and forgiving under provocation",
+      "decision": "gloss",
+      "simpleMeaning": "willing to forgive people and not get angry when they upset you",
+      "scope": "This is about staying calm and forgiving when someone upsets you, not about being gentle and helpful in general.",
+      "examples": [
+        "She was kind about the broken cup and said it did not matter.",
+        "Even after the argument, he stayed kind and did not blame her."
+      ],
+      "branchCoverage": [
+        "tolerant and forgiving under provocation -> willing to forgive people and not get angry when they upset you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "kind (adj) warm and helpful to others; kind (n) a type or sort of thing; kind (adj) ready to forgive and not easily angered; kind (adj) mild and comfortable, used of weather, climate or places.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kind%5:00:00:hospitable:00",
+      "lemma": "kind",
+      "pos": "a",
+      "definition": "agreeable, conducive to comfort",
+      "decision": "gloss",
+      "simpleMeaning": "pleasant and comfortable, especially of weather or a place that makes you feel at ease",
+      "scope": "This describes mild, comfortable conditions such as weather or a place, not a person who is caring.",
+      "examples": [
+        "The south of the country is known for its kind climate.",
+        "In such kind conditions, the young plants grew fast."
+      ],
+      "branchCoverage": [
+        "agreeable, conducive to comfort -> pleasant and comfortable, especially of weather or a place that makes you feel at ease"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "kind (adj) warm and helpful to others; kind (n) a type or sort of thing; kind (adj) ready to forgive and not easily angered; kind (adj) mild and comfortable, used of weather, climate or places.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "president%1:18:03::",
+      "lemma": "president",
+      "pos": "n",
+      "definition": "the officer who presides at the meetings of an organization",
+      "decision": "gloss",
+      "simpleMeaning": "the person who leads the meetings of a club or company and keeps them in order",
+      "scope": "This is the person who runs meetings, not the head of a country or the chief of a company.",
+      "examples": [
+        "She was elected president of the gardening club.",
+        "The president called the meeting to order."
+      ],
+      "branchCoverage": [
+        "the officer who presides at the meetings of an organization -> the person who leads the meetings of a club or company and keeps them in order"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "story%1:06:00::",
+      "lemma": "story",
+      "pos": "n",
+      "definition": "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+      "decision": "gloss",
+      "simpleMeaning": "one level of a building, with the rooms that sit at the same height",
+      "scope": "This is a level of a building, not a tale that someone tells.",
+      "examples": [
+        "Their flat is on the top story of the block.",
+        "The new library has three stories and a roof garden."
+      ],
+      "branchCoverage": [
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale -> one level of a building, with the rooms that sit at the same height"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "story (n) one level or floor of a building; story (n) an invented tale; story (n) an account of events given in the media.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "story%1:10:00::",
+      "lemma": "story",
+      "pos": "n",
+      "definition": "a piece of fiction that narrates a chain of related events",
+      "decision": "gloss",
+      "simpleMeaning": "a made-up tale that tells about a series of events",
+      "scope": "This is an invented tale, not a report of real events and not a level of a building.",
+      "examples": [
+        "She read the children a story about a talking fox.",
+        "He writes short stories for a magazine."
+      ],
+      "branchCoverage": [
+        "a piece of fiction that narrates a chain of related events -> a made-up tale that tells about a series of events"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "story (n) one level or floor of a building; story (n) an invented tale; story (n) an account of events given in the media.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "story%1:10:03::",
+      "lemma": "story",
+      "pos": "n",
+      "definition": "a message that tells the particulars of an act or occurrence or course of events; presented in writing or drama or cinema or as a radio or television program",
+      "decision": "gloss",
+      "simpleMeaning": "an account of what happened, given in writing, in a play or film, or on radio or television",
+      "scope": "This is an account of events given in the media, not an invented tale and not a level of a building.",
+      "examples": [
+        "The newspaper ran a story about the fire.",
+        "The evening news led with the story of the missing climber."
+      ],
+      "branchCoverage": [
+        "a message that tells the particulars of an act or occurrence or course of events -> an account of what happened",
+        "presented in writing or drama or cinema or as a radio or television program -> given in writing, in a play or film, or on radio or television"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "story (n) one level or floor of a building; story (n) an invented tale; story (n) an account of events given in the media.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "working%5:00:00:practical:00",
+      "lemma": "working",
+      "pos": "a",
+      "definition": "adequate for practical use; especially sufficient in strength or numbers to accomplish something",
+      "decision": "gloss",
+      "simpleMeaning": "good enough to be used in everyday practice, with enough people, votes or strength to get the job done",
+      "scope": "This describes something good enough to do a job, not a machine that is switched on and running.",
+      "examples": [
+        "The two schools have a working agreement to share the pool.",
+        "With a working majority, the government could pass the new law."
+      ],
+      "branchCoverage": [
+        "adequate for practical use -> good enough to be used in everyday practice",
+        "especially sufficient in strength or numbers to accomplish something -> with enough people, votes or strength to get the job done"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "good enough to be used in real situations, with enough people, votes, or strength to do the job",
+      "verdict": "self-approved",
+      "reviewerNote": "'Everyday practice' reads as rehearsal; say 'good enough to be used in real situations, with enough people, votes or strength to do the job'."
+    },
+    {
+      "senseId": "course%1:04:01::",
+      "lemma": "course",
+      "pos": "n",
+      "definition": "education imparted in a series of lessons or meetings",
+      "decision": "gloss",
+      "simpleMeaning": "a set of lessons on one subject, taught over a period of time",
+      "scope": "This is a series of lessons, not the direction something moves in and not a part of a meal.",
+      "examples": [
+        "I'm taking a course in Spanish this year.",
+        "The course lasts ten weeks and ends with a test."
+      ],
+      "branchCoverage": [
+        "education imparted in a series of lessons or meetings -> a set of lessons on one subject, taught over a period of time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "health%1:26:00::",
+      "lemma": "health",
+      "pos": "n",
+      "definition": "a healthy state of wellbeing free from disease",
+      "decision": "gloss",
+      "simpleMeaning": "the condition of being well in body and mind, with no illness",
+      "scope": "This is the state of being well, not the work of doctors and not the condition of a company or economy.",
+      "examples": [
+        "Her health improved after she started walking every day.",
+        "Good food and enough sleep are important for health."
+      ],
+      "branchCoverage": [
+        "a healthy state of wellbeing free from disease -> the condition of being well in body and mind, with no illness"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hope%2:31:00::",
+      "lemma": "hope",
+      "pos": "v",
+      "definition": "intend with some possibility of fulfilment",
+      "decision": "gloss",
+      "simpleMeaning": "to plan to do something that you think may be possible",
+      "scope": "This is planning to do something you think is possible, not wishing for something you cannot control.",
+      "examples": [
+        "We hope to move house next spring.",
+        "She hopes to finish the race in under an hour."
+      ],
+      "branchCoverage": [
+        "intend with some possibility of fulfilment -> to plan to do something that you think may be possible"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "important%3:00:02::",
+      "lemma": "important",
+      "pos": "a",
+      "definition": "of extreme importance; vital to the resolution of a crisis",
+      "decision": "gloss",
+      "simpleMeaning": "needed more than anything else to get through a serious problem, because it can decide how that problem ends",
+      "scope": "This is about something needed to end a serious emergency, not about something that matters in general.",
+      "examples": [
+        "Getting water to the village was the most important thing after the flood.",
+        "The doctor's quick decision was important in saving the child's life."
+      ],
+      "branchCoverage": [
+        "of extreme importance -> needed more than anything else in a serious situation",
+        "vital to the resolution of a crisis -> because it can decide how that problem ends"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "important (adj) needed to end a serious crisis; important (adj) having a strong effect or real meaning.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "important%3:00:04::",
+      "lemma": "important",
+      "pos": "a",
+      "definition": "important in effect or meaning",
+      "decision": "gloss",
+      "simpleMeaning": "having a strong effect, or carrying real meaning",
+      "scope": "This is about something that matters because of its effect or meaning, not something needed to end a crisis.",
+      "examples": [
+        "This is an important book about the history of the city.",
+        "Her letter made an important point about safety."
+      ],
+      "branchCoverage": [
+        "important in effect or meaning -> having a strong effect, or carrying real meaning"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "important (adj) needed to end a serious crisis; important (adj) having a strong effect or real meaning.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "least%3:00:00::",
+      "lemma": "least",
+      "pos": "a",
+      "definition": "the superlative of ‘little’ that can be used with mass nouns and is usually preceded by ‘the’; a quantifier meaning smallest in amount or extent or degree",
+      "decision": "gloss",
+      "simpleMeaning": "smallest in amount, size or degree when compared with others",
+      "scope": "This is about the smallest amount or degree, not about a small number of countable things.",
+      "examples": [
+        "She has the least money of all of us.",
+        "This is the least difficult of the three tasks."
+      ],
+      "branchCoverage": [
+        "the superlative of ‘little’ that can be used with mass nouns and is usually preceded by ‘the’ -> grammar label only (see labelBranches)",
+        "a quantifier meaning smallest in amount or extent or degree -> smallest in amount, size or degree when compared with others"
+      ],
+      "labelBranches": [
+        "the superlative of ‘little’ that can be used with mass nouns and is usually preceded by ‘the’"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "means%1:06:01::",
+      "lemma": "means",
+      "pos": "n",
+      "definition": "an artifact (that is instrumental in accomplishing some end) for accomplishing some end",
+      "decision": "gloss",
+      "simpleMeaning": "a thing or tool that you use to get something done",
+      "scope": "This is a thing or tool used to reach a goal, not the money or wealth someone has.",
+      "examples": [
+        "The bicycle was her only means of getting to work.",
+        "A hammer is a simple means of driving in a nail."
+      ],
+      "branchCoverage": [
+        "an artifact (that is instrumental in accomplishing some end) for accomplishing some end -> a thing or tool that you use to get something done"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 uses 'means' as methods/resources, not a tool; use 'A hammer is a simple means of driving in a nail.'"
+    },
+    {
+      "senseId": "news%1:10:02::",
+      "lemma": "news",
+      "pos": "n",
+      "definition": "a program devoted to current events, often using interviews and commentary",
+      "decision": "gloss",
+      "simpleMeaning": "a radio or television show about things that are happening now, often with interviews and people's opinions",
+      "scope": "This is a broadcast show about events, not the information itself and not a person who is interesting.",
+      "examples": [
+        "We watch the evening news at seven.",
+        "The news comes on after the football."
+      ],
+      "branchCoverage": [
+        "a program devoted to current events, often using interviews and commentary -> a radio or television show about things that are happening now, often with interviews and people's opinions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "book%1:06:00::",
+      "lemma": "book",
+      "pos": "n",
+      "definition": "physical objects consisting of a number of pages bound together",
+      "decision": "gloss",
+      "simpleMeaning": "a set of pages joined together inside a cover",
+      "scope": "This is the physical object you can hold, not the written work inside it.",
+      "examples": [
+        "She put the heavy book back on the shelf.",
+        "He dropped the book and bent the corner of a page."
+      ],
+      "branchCoverage": [
+        "physical objects consisting of a number of pages bound together -> a set of pages joined together inside a cover"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "book (n) the paper object with pages and a cover; book (n) the published written work itself; book (v) to reserve something in advance.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "book%1:10:00::",
+      "lemma": "book",
+      "pos": "n",
+      "definition": "a written work or composition that has been published (printed on pages bound together)",
+      "decision": "gloss",
+      "simpleMeaning": "a written work that has been printed and made available to the public",
+      "scope": "This is the published written work and its content, not just the paper object on a shelf.",
+      "examples": [
+        "Her book on bees sold a million copies.",
+        "He is writing a book about his travels."
+      ],
+      "branchCoverage": [
+        "a written work or composition that has been published (printed on pages bound together) -> a written work that has been printed and made available to the public"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "book (n) the paper object with pages and a cover; book (n) the published written work itself; book (v) to reserve something in advance.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "book%2:41:01::",
+      "lemma": "book",
+      "pos": "v",
+      "definition": "arrange for and reserve (something for someone else) in advance",
+      "decision": "gloss",
+      "simpleMeaning": "to arrange for a seat, room or ticket to be kept for someone before the time they need it",
+      "scope": "This is about reserving something in advance, not about writing a person's name in a police record.",
+      "examples": [
+        "I booked a table for four at the restaurant.",
+        "She booked us seats on the morning train."
+      ],
+      "branchCoverage": [
+        "arrange for and reserve (something for someone else) in advance -> to arrange for a seat, room or ticket to be kept for someone before the time they need it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "book (n) the paper object with pages and a cover; book (n) the published written work itself; book (v) to reserve something in advance.",
+      "meaning": "to arrange for something such as a seat, room, or table to be kept for someone before the time they need it",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss limits 'something' to seat/room/ticket, yet example 1 books a table; say 'something such as a seat, room or table'."
+    },
+    {
+      "senseId": "early%3:00:02::",
+      "lemma": "early",
+      "pos": "a",
+      "definition": "being or occurring at an early stage of development",
+      "decision": "gloss",
+      "simpleMeaning": "happening near the beginning of a process of growing or developing",
+      "scope": "This describes something at a first stage of growth or development, not a time before the usual hour.",
+      "examples": [
+        "These are the early weeks of the project, so much may change.",
+        "The early version of the app had many faults."
+      ],
+      "branchCoverage": [
+        "being or occurring at an early stage of development -> happening near the beginning of a process of growing or developing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "early (adj) at a first stage of growth or development; early (adv) near the beginning of a period.",
+      "meaning": "at or near the beginning of a process of growth or development",
+      "verdict": "self-approved",
+      "reviewerNote": "'Happening' drops the source's 'being' branch and misfits 'early version'; say 'at or near the beginning of a process of growth or development'."
+    },
+    {
+      "senseId": "early%4:02:01::",
+      "lemma": "early",
+      "pos": "r",
+      "definition": "during an early stage",
+      "decision": "gloss",
+      "simpleMeaning": "near the beginning of a period of time or of an event",
+      "scope": "This tells you when something happens, not what something is like at a first stage.",
+      "examples": [
+        "He learned to swim early in life.",
+        "The first problems appeared early in the project."
+      ],
+      "branchCoverage": [
+        "during an early stage -> near the beginning of a period of time or of an event"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "early (adj) at a first stage of growth or development; early (adv) near the beginning of a period.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "local%1:06:00::",
+      "lemma": "local",
+      "pos": "n",
+      "definition": "public transport consisting of a bus or train that stops at all stations or stops",
+      "decision": "gloss",
+      "simpleMeaning": "a bus or train that stops at every station on its route",
+      "scope": "This is the slow bus or train that stops everywhere, not a person who lives in the area.",
+      "examples": [
+        "Take the local; it is slower but it stops near our hotel.",
+        "The local takes forty minutes longer than the express."
+      ],
+      "branchCoverage": [
+        "public transport consisting of a bus or train that stops at all stations or stops -> a bus or train that stops at every station on its route"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "local (n) the slow bus or train that stops at every stop (this row); local (adj) about a nearby area or neighbourhood (part 2); local (adj) about a town or city government rather than a whole country (part 2).",
+      "meaning": "a bus or train that stops at every station or stop on its route",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops bus stops: source says 'all stations or stops'; say 'stops at every station or stop on its route'."
+    },
+    {
+      "senseId": "local%3:01:01::",
+      "lemma": "local",
+      "pos": "a",
+      "definition": "of or belonging to or characteristic of a particular locality or neighborhood",
+      "decision": "gloss",
+      "simpleMeaning": "connected with a small area near you, such as your town or neighbourhood.",
+      "scope": "It is not about the government of a town or city, and it is not a bus or train.",
+      "examples": [
+        "She shops at the local market every Saturday.",
+        "The local people were very kind to us."
+      ],
+      "branchCoverage": [
+        "of or belonging to or characteristic of a particular locality or neighborhood -> connected with a small area near you, such as your town or neighbourhood"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "local (n, sense 0) = a bus or train that stops at every stop; local (adj, sense 1) = belonging to or typical of a nearby area; local (adj, sense 0) = connected with town or city government.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "local%3:00:01::",
+      "lemma": "local",
+      "pos": "a",
+      "definition": "relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area",
+      "decision": "gloss",
+      "simpleMeaning": "connected with the government of a town, city or small area rather than a whole country.",
+      "scope": "It is not about shops or people that belong to an area, and it is not a bus or train.",
+      "examples": [
+        "The local council is responsible for collecting rubbish.",
+        "She voted in the local elections last week."
+      ],
+      "branchCoverage": [
+        "relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area -> connected with the government of a town, city or small area rather than a whole country"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "local (n, sense 0) = a bus or train that stops at every stop; local (adj, sense 1) = belonging to or typical of a nearby area; local (adj, sense 0) = connected with town or city government.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "post%1:15:00::",
+      "lemma": "post",
+      "pos": "n",
+      "definition": "the position where someone (as a guard or sentry) stands or is assigned to stand",
+      "decision": "gloss",
+      "simpleMeaning": "the place where a guard or soldier is told to stand and watch.",
+      "scope": "It is not a job, and it is not the mail service.",
+      "examples": [
+        "The soldier returned to his post at the gate.",
+        "Two guards left their posts for a few minutes."
+      ],
+      "branchCoverage": [
+        "the position where someone (as a guard or sentry) stands or is assigned to stand -> the place where a guard or soldier is told to stand and watch"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "video%1:06:00::",
+      "lemma": "video",
+      "pos": "n",
+      "definition": "a recording of both the visual and audible components (especially one containing a recording of a movie or television program)",
+      "decision": "gloss",
+      "simpleMeaning": "a recording that has both pictures and sound, especially of a film or television programme.",
+      "scope": "It is not a live programme, and it is not the machine used to play it.",
+      "examples": [
+        "She showed us a video of her holiday.",
+        "The teacher played a short video about volcanoes."
+      ],
+      "branchCoverage": [
+        "a recording of both the visual and audible components (especially one containing a recording of a movie or television program) -> a recording that has both pictures and sound, especially of a film or television programme"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "young%5:00:00:early:02",
+      "lemma": "young",
+      "pos": "a",
+      "definition": "(of crops) harvested at an early stage of development; before complete maturity",
+      "decision": "gloss",
+      "simpleMeaning": "used about crops that are picked early, before they have finished growing.",
+      "scope": "It is not about a person or animal that is not yet an adult.",
+      "examples": [
+        "The shop sells young potatoes in spring.",
+        "We ate young peas from the garden."
+      ],
+      "branchCoverage": [
+        "(of crops) harvested at an early stage of development -> used about crops that are picked early",
+        "before complete maturity -> before they have finished growing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "young (adj) = crops picked before they are fully grown; young (n) = people who are not yet adults, as a group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "young%1:14:00::",
+      "lemma": "young",
+      "pos": "n",
+      "definition": "young people collectively",
+      "decision": "gloss",
+      "simpleMeaning": "people who are not yet adults, thought of as a group.",
+      "scope": "It is not a word for baby animals, and it is not about crops.",
+      "examples": [
+        "The young in this town need more places to meet.",
+        "The charity runs sports clubs for the young."
+      ],
+      "branchCoverage": [
+        "young people collectively -> people who are not yet adults, thought of as a group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "young (adj) = crops picked before they are fully grown; young (n) = people who are not yet adults, as a group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "social%1:14:00::",
+      "lemma": "social",
+      "pos": "n",
+      "definition": "a party of people assembled to promote sociability and communal activity",
+      "decision": "gloss",
+      "simpleMeaning": "a friendly gathering where people meet and enjoy themselves.",
+      "scope": "It is not an adjective about society, and it is not a person who likes meeting people.",
+      "examples": [
+        "The club holds a social every month.",
+        "She met her new colleagues at a social on Friday."
+      ],
+      "branchCoverage": [
+        "a party of people assembled to promote sociability and communal activity -> a friendly gathering where people meet and enjoy themselves"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "social (n) = a party where people meet and enjoy themselves; social (adj) = connected with rich and important families and their way of life.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "social%3:01:02::",
+      "lemma": "social",
+      "pos": "a",
+      "definition": "relating to or belonging to or characteristic of high society",
+      "decision": "gloss",
+      "simpleMeaning": "connected with rich and important families and the way they live.",
+      "scope": "It is not about society in general, and it is not about being friendly with other people.",
+      "examples": [
+        "The magazine reports on the city's social scene.",
+        "The wedding was the biggest event in the social calendar."
+      ],
+      "branchCoverage": [
+        "relating to or belonging to or characteristic of high society -> connected with rich and important families and the way they live"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "social (n) = a party where people meet and enjoy themselves; social (adj) = connected with rich and important families and their way of life.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "court%1:14:00::",
+      "lemma": "court",
+      "pos": "n",
+      "definition": "an assembly (including one or more judges) to conduct judicial business",
+      "decision": "gloss",
+      "simpleMeaning": "a group of judges who meet to hear cases and make legal decisions.",
+      "scope": "It is not the home of a king or queen, and it is not an area for playing a game.",
+      "examples": [
+        "The court found him not guilty.",
+        "The court will hear the case next Monday."
+      ],
+      "branchCoverage": [
+        "an assembly (including one or more judges) to conduct judicial business -> a group of judges who meet to hear cases and make legal decisions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "court (n, sense 0) = the judges who hear legal cases; court (n, sense 2) = a king or queen and their advisers; court (v) = to try to win the support of someone powerful.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "court%1:14:01::",
+      "lemma": "court",
+      "pos": "n",
+      "definition": "the sovereign and their advisers who are the governing power of a state",
+      "decision": "gloss",
+      "simpleMeaning": "a king or queen together with the people who advise and serve them.",
+      "scope": "It is not the place where legal cases are decided, and it is not a sports area.",
+      "examples": [
+        "The queen invited the whole court to the feast.",
+        "He was a favourite at the royal court."
+      ],
+      "branchCoverage": [
+        "the sovereign and their advisers who are the governing power of a state -> a king or queen together with the people who advise and serve them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "court (n, sense 0) = the judges who hear legal cases; court (n, sense 2) = a king or queen and their advisers; court (v) = to try to win the support of someone powerful.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "court%2:41:01::",
+      "lemma": "court",
+      "pos": "v",
+      "definition": "seek someone's favor",
+      "decision": "gloss",
+      "simpleMeaning": "to try hard to please someone powerful so that they will help you.",
+      "scope": "It is not about trying to win someone's love, and it is not about asking a judge for a decision.",
+      "examples": [
+        "The company courted wealthy investors before the launch.",
+        "Politicians often court the support of local leaders."
+      ],
+      "branchCoverage": [
+        "seek someone's favor -> to try hard to please someone powerful so that they will help you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "court (n, sense 0) = the judges who hear legal cases; court (n, sense 2) = a king or queen and their advisers; court (v) = to try to win the support of someone powerful.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "half%1:28:00::",
+      "lemma": "half",
+      "pos": "n",
+      "definition": "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval",
+      "decision": "gloss",
+      "simpleMeaning": "one of the two equal parts of a game or show, with a short break between them.",
+      "scope": "It is not a share of an amount, and it is not the number one over two.",
+      "examples": [
+        "Our team scored twice in the first half.",
+        "The singer returned for the second half of the show."
+      ],
+      "branchCoverage": [
+        "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval -> one of the two equal parts of a game or show",
+        "after colon: the two divisions are separated by an interval -> with a short break between them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "half (n) = one of two parts of a game or show; half (adj) = forming one of two equal parts of an amount.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "half%5:00:00:fractional:00",
+      "lemma": "half",
+      "pos": "a",
+      "definition": "consisting of one of two equivalent parts in value or quantity",
+      "decision": "gloss",
+      "simpleMeaning": "being one of two equal parts of an amount.",
+      "scope": "It is not a part of a game or performance.",
+      "examples": [
+        "She ate half an apple and gave the rest to me.",
+        "We paid half the price because the box was damaged."
+      ],
+      "branchCoverage": [
+        "consisting of one of two equivalent parts in value or quantity -> being one of two equal parts of an amount"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "half (n) = one of two parts of a game or show; half (adj) = forming one of two equal parts of an amount.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hand%1:08:00::",
+      "lemma": "hand",
+      "pos": "n",
+      "definition": "the (prehensile) extremity of the superior limb",
+      "decision": "gloss",
+      "simpleMeaning": "the part at the end of your arm, with fingers, that can hold things.",
+      "scope": "It is not a paid worker on a farm, and it is not the pointer on a clock.",
+      "examples": [
+        "She held the cup in both hands.",
+        "He washed his hands before dinner."
+      ],
+      "branchCoverage": [
+        "the (prehensile) extremity of the superior limb -> the part at the end of your arm, with fingers, that can hold things"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hand (n, sense 0) = the body part at the end of your arm; hand (n, sense 1) = a paid worker on a farm.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hand%1:18:00::",
+      "lemma": "hand",
+      "pos": "n",
+      "definition": "a hired laborer on a farm or ranch",
+      "decision": "gloss",
+      "simpleMeaning": "a person who is paid to do physical work on a farm.",
+      "scope": "It is not the body part at the end of your arm.",
+      "examples": [
+        "The farmer hired two hands for the harvest.",
+        "He worked as a hand on a cattle ranch for a year."
+      ],
+      "branchCoverage": [
+        "a hired laborer on a farm or ranch -> a person who is paid to do physical work on a farm"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hand (n, sense 0) = the body part at the end of your arm; hand (n, sense 1) = a paid worker on a farm.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "level%2:35:01::",
+      "lemma": "level",
+      "pos": "v",
+      "definition": "make level or straight",
+      "decision": "gloss",
+      "simpleMeaning": "to make a surface flat and even, or to make something straight.",
+      "scope": "It is not about knocking a building down, and it is not about aiming a gun at someone.",
+      "examples": [
+        "They used a machine to level the soil.",
+        "Workers leveled the path so that wheelchairs could use it."
+      ],
+      "branchCoverage": [
+        "make level or straight -> to make a surface flat and even, or to make something straight"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mind%1:09:00::",
+      "lemma": "mind",
+      "pos": "n",
+      "definition": "that which is responsible for one's thoughts, feelings, and conscious brain functions; the seat of the faculty of reason",
+      "decision": "gloss",
+      "simpleMeaning": "the part of a person that thinks, feels and is aware, and that makes reasoned decisions.",
+      "scope": "It is not a person's opinion, and it is not the brain as a physical organ.",
+      "examples": [
+        "She has a sharp mind and learns quickly.",
+        "Reading poetry keeps his mind active."
+      ],
+      "branchCoverage": [
+        "that which is responsible for one's thoughts, feelings, and conscious brain functions -> the part of a person that thinks, feels and is aware",
+        "the seat of the faculty of reason -> that makes reasoned decisions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mind (n) = the part of a person that thinks and feels; mind (v) = to feel upset or annoyed about something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mind%2:32:00::",
+      "lemma": "mind",
+      "pos": "v",
+      "definition": "be offended or bothered by; take offense with, be bothered by",
+      "decision": "gloss",
+      "simpleMeaning": "to feel upset or annoyed about something.",
+      "scope": "It is not about looking after something, and it is not about paying attention.",
+      "examples": [
+        "Do you mind if I open the window?",
+        "She did not mind waiting for an hour."
+      ],
+      "branchCoverage": [
+        "be offended or bothered by -> to feel upset",
+        "take offense with, be bothered by -> to be annoyed about something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mind (n) = the part of a person that thinks and feels; mind (v) = to feel upset or annoyed about something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "single%1:04:00::",
+      "lemma": "single",
+      "pos": "n",
+      "definition": "a base hit on which the batter stops safely at first base",
+      "decision": "gloss",
+      "simpleMeaning": "a hit in baseball that lets the batter reach first base safely.",
+      "scope": "It is not the number one, and it is not a room or ticket for one person.",
+      "examples": [
+        "He hit a single to left field.",
+        "The batter got a single and then stole second base."
+      ],
+      "branchCoverage": [
+        "a base hit on which the batter stops safely at first base -> a hit in baseball that lets the batter reach first base safely"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "single (n, sense 0) = a baseball hit that gets the batter to first base; single (n, sense 1) = the number one (deferred); single (adj, sense 2) = used to stress there is only one; single (adj, sense 0) = made for one person or thing only.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "single%1:23:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "The noun use of 'single' for the number one is very rare in real English, so any example sentence would sound artificial."
+    },
+    {
+      "senseId": "single%3:00:05::",
+      "lemma": "single",
+      "pos": "a",
+      "definition": "existing alone or consisting of one entity or part or aspect or individual",
+      "decision": "gloss",
+      "simpleMeaning": "used to stress that something is one only, or that each one is meant.",
+      "scope": "It is not about something made for one person; it adds emphasis to the idea of one.",
+      "examples": [
+        "Not a single student passed the test.",
+        "She read every single page of the report."
+      ],
+      "branchCoverage": [
+        "existing alone or consisting of one entity or part or aspect or individual -> used to stress that something is one only, or that each one is meant"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "single (n, sense 0) = a baseball hit that gets the batter to first base; single (n, sense 1) = the number one (deferred); single (adj, sense 2) = used to stress there is only one; single (adj, sense 0) = made for one person or thing only.",
+      "meaning": "used to emphasize that you mean one thing only, or every one.",
+      "verdict": "self-approved",
+      "reviewerNote": "'each one is meant' is unclear; say 'used to emphasize that you mean one thing only, or every one.'"
+    },
+    {
+      "senseId": "single%3:00:00::",
+      "lemma": "single",
+      "pos": "a",
+      "definition": "being or characteristic of a single thing or person",
+      "decision": "gloss",
+      "simpleMeaning": "made for or belonging to one person or thing only.",
+      "scope": "It is not the emphatic word for 'not even one', and it is not about a person who is not married.",
+      "examples": [
+        "He booked a single room for the night.",
+        "The room has two single beds."
+      ],
+      "branchCoverage": [
+        "being or characteristic of a single thing or person -> made for or belonging to one person or thing only"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "single (n, sense 0) = a baseball hit that gets the batter to first base; single (n, sense 1) = the number one (deferred); single (adj, sense 2) = used to stress there is only one; single (adj, sense 0) = made for one person or thing only.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "body%1:14:00::",
+      "lemma": "body",
+      "pos": "n",
+      "definition": "a group of persons associated by some common tie or occupation and regarded as an entity",
+      "decision": "gloss",
+      "simpleMeaning": "a group of people who work together or share a purpose, seen as one unit.",
+      "scope": "It is not the physical form of a person or animal.",
+      "examples": [
+        "The school has a student body of about a thousand.",
+        "A body of experts was asked to study the problem."
+      ],
+      "branchCoverage": [
+        "a group of persons associated by some common tie or occupation and regarded as an entity -> a group of people who work together or share a purpose, seen as one unit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "coming%1:04:01::",
+      "lemma": "coming",
+      "pos": "n",
+      "definition": "arrival that has been awaited (especially of something momentous)",
+      "decision": "gloss",
+      "simpleMeaning": "the moment when someone or something that people have waited for arrives.",
+      "scope": "It is not just the act of moving towards a place; it is an arrival people have been waiting for.",
+      "examples": [
+        "The whole town prepared for the coming of the new king.",
+        "They waited for the coming of spring."
+      ],
+      "branchCoverage": [
+        "arrival that has been awaited (especially of something momentous) -> the moment when someone or something that people have waited for arrives"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%2:41:01::",
+      "lemma": "control",
+      "pos": "v",
+      "definition": "lessen the intensity of; temper; hold in restraint; hold or keep within limits",
+      "decision": "gloss",
+      "simpleMeaning": "to make something less strong, calm it down and hold it back within limits.",
+      "scope": "It is not about being in charge of a company or machine, and it is not about checking that facts are right.",
+      "examples": [
+        "She struggled to control her anger.",
+        "The government introduced rules to control prices."
+      ],
+      "branchCoverage": [
+        "lessen the intensity of -> to make something less strong",
+        "temper -> calm it down",
+        "hold in restraint -> hold it back",
+        "hold or keep within limits -> within limits"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

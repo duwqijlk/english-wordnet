@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'condition%1:10:01::'
+synsetId: 06768279-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 57910c870fa54e96df6abf4ecfd56586ba39c302cba55ab6b089dc43702744dd
+simpleMeaning: A fact or belief that is accepted as true, and that something else depends on in order
+  to be valid or to take effect.
+scope: This is a premise that must hold for something else to work, not a requirement written into a contract,
+  not a state of health, and not the act of training behavior.
+examples:
+- These results hold only under the condition that the sample is truly random.
+- 'The forecast rests on one condition: that fuel prices stay steady.'
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 30
+sourceFinalSha256: 4d616413347f44db1832b60282f9e89654ac0819c65f59a977140ee616c5c192
+reviewVerdict: first-pass

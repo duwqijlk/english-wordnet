@@ -1,0 +1,1017 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 18,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 850,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "poor%5:00:00:unfortunate:00",
+      "lemma": "poor",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "deserving or inciting pity",
+      "synsetId": "01054589-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 808,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "deserving or inciting pity"
+      ]
+    },
+    {
+      "senseId": "release%2:35:00::",
+      "lemma": "release",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "release, as from one's grip",
+      "synsetId": "01477180-v",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 809,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "release, as from one's grip"
+      ]
+    },
+    {
+      "senseId": "technology%1:04:00::",
+      "lemma": "technology",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the application of the knowledge and usage of tools (such as machines or utensils) and techniques to control one's environment",
+      "synsetId": "00951435-n",
+      "words": 20,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 811,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the application of the knowledge and usage of tools (such as machines or utensils) and techniques to control one's environment"
+      ]
+    },
+    {
+      "senseId": "technology%1:09:00::",
+      "lemma": "technology",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the discipline dealing with the art or science of applying scientific knowledge to practical problems",
+      "synsetId": "06134474-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 811,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the discipline dealing with the art or science of applying scientific knowledge to practical problems"
+      ]
+    },
+    {
+      "senseId": "written%3:00:02::",
+      "lemma": "written",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "systematically collected and written down",
+      "synsetId": "02294393-a",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 813,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "systematically collected and written down"
+      ]
+    },
+    {
+      "senseId": "written%3:00:04::",
+      "lemma": "written",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "written as for a film or play or broadcast",
+      "synsetId": "02220939-a",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 813,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "written as for a film or play or broadcast"
+      ]
+    },
+    {
+      "senseId": "code%1:10:00::",
+      "lemma": "code",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a coding system used for transmitting messages requiring brevity or secrecy",
+      "synsetId": "06365341-n",
+      "words": 11,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 815,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a coding system used for transmitting messages requiring brevity or secrecy"
+      ]
+    },
+    {
+      "senseId": "continue%2:32:00::",
+      "lemma": "continue",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "continue talking",
+      "synsetId": "00783045-v",
+      "words": 2,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 817,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "continue talking"
+      ]
+    },
+    {
+      "senseId": "continue%2:42:01::",
+      "lemma": "continue",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "continue a certain state, condition, or activity",
+      "synsetId": "02690747-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 817,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "continue a certain state, condition, or activity"
+      ]
+    },
+    {
+      "senseId": "cover%1:06:02::",
+      "lemma": "cover",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a covering that serves to conceal or shelter something",
+      "synsetId": "04159023-n",
+      "words": 9,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 819,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a covering that serves to conceal or shelter something"
+      ]
+    },
+    {
+      "senseId": "cover%1:04:00::",
+      "lemma": "cover",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the act of concealing the existence of something by obstructing the view of it",
+      "synsetId": "01051609-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 819,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of concealing the existence of something by obstructing the view of it"
+      ]
+    },
+    {
+      "senseId": "cover%2:35:00::",
+      "lemma": "cover",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "provide with a covering or cause to be covered",
+      "synsetId": "01335412-v",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 819,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "provide with a covering or cause to be covered"
+      ]
+    },
+    {
+      "senseId": "cover%2:35:01::",
+      "lemma": "cover",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "form a cover over",
+      "synsetId": "01210571-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 819,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "form a cover over"
+      ]
+    },
+    {
+      "senseId": "door%1:06:00::",
+      "lemma": "door",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+      "synsetId": "03226423-n",
+      "words": 17,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 821,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a swinging or sliding barrier that will close the entrance to a room or building or vehicle"
+      ]
+    },
+    {
+      "senseId": "financial%3:01:00::",
+      "lemma": "financial",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "involving financial matters",
+      "synsetId": "02858779-a",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 823,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "involving financial matters"
+      ]
+    },
+    {
+      "senseId": "foreign%3:00:01::",
+      "lemma": "foreign",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "relating to or originating in or characteristic of another place or part of the world",
+      "synsetId": "01038139-a",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 824,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "relating to or originating in or characteristic of another place or part of the world"
+      ]
+    },
+    {
+      "senseId": "foreign%5:00:00:extrinsic:00",
+      "lemma": "foreign",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "not contained in or deriving from the essential nature of something",
+      "synsetId": "01352775-s",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 824,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not contained in or deriving from the essential nature of something"
+      ]
+    },
+    {
+      "senseId": "hair%1:08:00::",
+      "lemma": "hair",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss",
+      "synsetId": "05262259-n",
+      "words": 27,
+      "rare": 5,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 825,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head)",
+        "helps to prevent heat loss"
+      ]
+    },
+    {
+      "senseId": "increase%1:11:00::",
+      "lemma": "increase",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a change resulting in an increase",
+      "synsetId": "07371276-n",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 826,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a change resulting in an increase"
+      ]
+    },
+    {
+      "senseId": "legal%5:00:00:valid:00",
+      "lemma": "legal",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "having legal efficacy or force",
+      "synsetId": "02508961-s",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 827,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having legal efficacy or force"
+      ]
+    },
+    {
+      "senseId": "pick%1:23:00::",
+      "lemma": "pick",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the quantity of a crop that is harvested",
+      "synsetId": "13781698-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 829,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the quantity of a crop that is harvested"
+      ]
+    },
+    {
+      "senseId": "pick%2:32:09::",
+      "lemma": "pick",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "harass with constant criticism",
+      "synsetId": "00844451-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 829,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "harass with constant criticism"
+      ]
+    },
+    {
+      "senseId": "seem%2:39:01::",
+      "lemma": "seem",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "(of a proposition) seem to be true, probable, or apparent",
+      "synsetId": "02139137-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 831,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of a proposition) seem to be true, probable, or apparent"
+      ]
+    },
+    {
+      "senseId": "seven%1:06:00::",
+      "lemma": "seven",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "one of four playing cards in a deck with seven pips on the face",
+      "synsetId": "04185123-n",
+      "words": 14,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 832,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one of four playing cards in a deck with seven pips on the face"
+      ]
+    },
+    {
+      "senseId": "sign%1:10:05::",
+      "lemma": "sign",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a perceptible indication of something not immediately apparent (as a visible clue that something has happened)",
+      "synsetId": "06659006-n",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 833,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a perceptible indication of something not immediately apparent (as a visible clue that something has happened)"
+      ]
+    },
+    {
+      "senseId": "sign%2:32:02::",
+      "lemma": "sign",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "mark with one's signature; write one's name (on)",
+      "synsetId": "00998530-v",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 833,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "mark with one's signature",
+        "write one's name (on)"
+      ]
+    },
+    {
+      "senseId": "sign%1:10:03::",
+      "lemma": "sign",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "any nonverbal action or gesture that encodes a message",
+      "synsetId": "06804229-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 833,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any nonverbal action or gesture that encodes a message"
+      ]
+    },
+    {
+      "senseId": "sign%2:41:00::",
+      "lemma": "sign",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "approve and express assent, responsibility, or obligation",
+      "synsetId": "02470289-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 833,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "approve and express assent, responsibility, or obligation"
+      ]
+    },
+    {
+      "senseId": "simple%1:20:00::",
+      "lemma": "simple",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any herbaceous plant having medicinal properties",
+      "synsetId": "12233207-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 834,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any herbaceous plant having medicinal properties"
+      ]
+    },
+    {
+      "senseId": "staff%1:14:01::",
+      "lemma": "staff",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "personnel who assist their superior in carrying out an assigned task",
+      "synsetId": "08456947-n",
+      "words": 11,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 836,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "personnel who assist their superior in carrying out an assigned task"
+      ]
+    },
+    {
+      "senseId": "staff%1:06:00::",
+      "lemma": "staff",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a strong rod or stick with a specialized utilitarian purpose",
+      "synsetId": "04303399-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 836,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a strong rod or stick with a specialized utilitarian purpose"
+      ]
+    },
+    {
+      "senseId": "staff%2:33:00::",
+      "lemma": "staff",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "provide with staff",
+      "synsetId": "01091160-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 836,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "provide with staff"
+      ]
+    },
+    {
+      "senseId": "staff%2:33:01::",
+      "lemma": "staff",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "serve on the staff of",
+      "synsetId": "01098150-v",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 836,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "serve on the staff of"
+      ]
+    },
+    {
+      "senseId": "super%1:18:00::",
+      "lemma": "super",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a caretaker for an apartment house; represents the owner as janitor and rent collector",
+      "synsetId": "10695160-n",
+      "words": 14,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 837,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a caretaker for an apartment house",
+        "represents the owner as janitor and rent collector"
+      ]
+    },
+    {
+      "senseId": "union%3:00:00::",
+      "lemma": "union",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of trade unions",
+      "synsetId": "02483666-a",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 838,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of trade unions"
+      ]
+    },
+    {
+      "senseId": "walk%2:38:00::",
+      "lemma": "walk",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "use one's feet to advance; advance by steps",
+      "synsetId": "01908923-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 839,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "use one's feet to advance",
+        "advance by steps"
+      ]
+    },
+    {
+      "senseId": "built%5:00:00:improved:00",
+      "lemma": "built",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness",
+      "synsetId": "01291813-s",
+      "words": 17,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 842,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness"
+      ]
+    },
+    {
+      "senseId": "crazy%5:00:00:excited:00",
+      "lemma": "crazy",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "possessed by inordinate excitement",
+      "synsetId": "00923212-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 845,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "possessed by inordinate excitement"
+      ]
+    },
+    {
+      "senseId": "crazy%5:00:00:insane:00",
+      "lemma": "crazy",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "affected with madness or insanity",
+      "synsetId": "02082451-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 845,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "affected with madness or insanity"
+      ]
+    },
+    {
+      "senseId": "daily%5:00:00:informal:01",
+      "lemma": "daily",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "appropriate for ordinary or routine occasions",
+      "synsetId": "01048256-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 846,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "appropriate for ordinary or routine occasions"
+      ]
+    },
+    {
+      "senseId": "die%1:06:02::",
+      "lemma": "die",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a cutting tool that is fitted into a diestock and used for cutting male (external) screw threads on screws or bolts or pipes or rods",
+      "synsetId": "03197591-n",
+      "words": 25,
+      "rare": 12,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 849,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a cutting tool that is fitted into a diestock and used for cutting male (external) screw threads on screws or bolts or pipes or rods"
+      ]
+    },
+    {
+      "senseId": "die%1:06:00::",
+      "lemma": "die",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers",
+      "synsetId": "03195713-n",
+      "words": 17,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 849,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a small cube with 1 to 6 spots on the six faces",
+        "used in gambling to generate random numbers"
+      ]
+    },
+    {
+      "senseId": "die%2:37:00::",
+      "lemma": "die",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame",
+      "synsetId": "01788772-v",
+      "words": 21,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 849,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame"
+      ]
+    },
+    {
+      "senseId": "die%2:30:00::",
+      "lemma": "die",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "synsetId": "00359085-v",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 849,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "pass from physical life and lose all bodily attributes and functions necessary to sustain life"
+      ]
+    },
+    {
+      "senseId": "difficult%3:00:00::",
+      "lemma": "difficult",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "not easy; requiring great physical or mental effort to accomplish or comprehend or endure",
+      "synsetId": "00748528-a",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 850,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not easy",
+        "requiring great physical or mental effort to accomplish or comprehend or endure"
+      ]
+    },
+    {
+      "senseId": "figure%1:10:00::",
+      "lemma": "figure",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a diagram or picture illustrating textual material",
+      "synsetId": "07012307-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 851,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a diagram or picture illustrating textual material"
+      ]
+    },
+    {
+      "senseId": "hospital%1:14:00::",
+      "lemma": "hospital",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a medical institution where sick or injured people are given medical or surgical care",
+      "synsetId": "08071169-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 852,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a medical institution where sick or injured people are given medical or surgical care"
+      ]
+    },
+    {
+      "senseId": "modern%1:10:00::",
+      "lemma": "modern",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a typeface (based on an 18th century design by Gianbattista Bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes",
+      "synsetId": "06839776-n",
+      "words": 21,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 855,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a typeface (based on an 18th century design by Gianbattista Bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes"
+      ]
+    },
+    {
+      "senseId": "modern%5:00:00:nonclassical:00",
+      "lemma": "modern",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "characteristic of present-day art and music and literature and architecture",
+      "synsetId": "00415873-s",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 855,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characteristic of present-day art and music and literature and architecture"
+      ]
+    },
+    {
+      "senseId": "modern%3:00:00::",
+      "lemma": "modern",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "belonging to the modern era; since the Middle Ages",
+      "synsetId": "01539804-a",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 855,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "belonging to the modern era",
+        "since the Middle Ages"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 17,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 46,
+      "of": 50,
+      "rate": 0.92
+    },
+    "selfApproved": [
+      "lower%2:29:00::",
+      "lower%2:30:00::",
+      "natural%3:00:02::",
+      "related%3:00:02::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "d8b520ef7b2f574a3106eaa52287e74de3b97a8a5fef3e20be15d40727e28cd6"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "lower%2:29:00::",
+      "lemma": "lower",
+      "pos": "v",
+      "definition": "look angry or sullen, wrinkle one's forehead, as if to signal disapproval",
+      "decision": "gloss",
+      "simpleMeaning": "to frown and look angry or unhappy, as if you strongly disapprove.",
+      "scope": "This is only about a face showing anger or dislike; it is not about moving something down or making a sound quieter.",
+      "examples": [
+        "Don't lower at me like that - I only asked a question.",
+        "She lowers at her brother whenever he borrows her things without asking."
+      ],
+      "branchCoverage": [
+        "look angry or sullen, wrinkle one's forehead, as if to signal disapproval -> frown, look angry, look unhappy, strongly disapprove"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lower (5 senses in this batch): 'look angry' (v, this one) = a frowning face; 'bottom bed' (n) = the lower berth of a bunk pair; 'make quieter or smaller' (v) = reduce sound or level; 'turn a setting down' (v) = set a control to a smaller number; 'move down' (v) = carry something to a lower place.",
+      "meaning": "to frown and look angry or unhappy, as if you strongly disapprove (literary).",
+      "verdict": "self-approved",
+      "reviewerNote": "Literary 'lour' presented as everyday; add '(literary)'—e.g. 'to frown and look angry or unhappy (literary)'."
+    },
+    {
+      "senseId": "lower%1:06:00::",
+      "lemma": "lower",
+      "pos": "n",
+      "definition": "the lower of two berths",
+      "decision": "gloss",
+      "simpleMeaning": "the bottom bed in a pair of beds, one above the other.",
+      "scope": "This is only the bottom bed of a bunk pair; it is not the top bed, and not the verb or adjective uses of the word.",
+      "examples": [
+        "He took the lower and let his brother climb up to the top bunk.",
+        "The lower was already made up with clean sheets when we arrived."
+      ],
+      "branchCoverage": [
+        "the lower of two berths -> bottom bed, pair of beds, one above the other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lower (5 senses in this batch): 'look angry' (v) = a frowning face; 'bottom bed' (n, this one) = the lower berth of a bunk pair; 'make quieter or smaller' (v) = reduce sound or level; 'turn a setting down' (v) = set a control to a smaller number; 'move down' (v) = carry something to a lower place.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lower%2:30:00::",
+      "lemma": "lower",
+      "pos": "v",
+      "definition": "make lower or quieter",
+      "decision": "gloss",
+      "simpleMeaning": "to make a sound or a level quieter or smaller.",
+      "scope": "This is about sound or amount, not about moving an object down or turning a control to a new setting.",
+      "examples": [
+        "The noise lowered as the train moved away.",
+        "He lowered his voice so the children would not hear."
+      ],
+      "branchCoverage": [
+        "make lower or quieter -> make a sound quieter, make a level smaller"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lower (5 senses in this batch): 'look angry' (v) = a frowning face; 'bottom bed' (n) = the lower berth of a bunk pair; 'make quieter or smaller' (v, this one) = reduce sound or level; 'turn a setting down' (v) = set a control to a smaller number; 'move down' (v) = carry something to a lower place.",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 'lower the radio' is a control, contradicting scope and sense 4; say 'make a sound less loud'."
+    },
+    {
+      "senseId": "lower%2:30:01::",
+      "lemma": "lower",
+      "pos": "v",
+      "definition": "set lower",
+      "decision": "gloss",
+      "simpleMeaning": "to turn a control or machine setting down to a smaller number or weaker level.",
+      "scope": "This is about controls and settings, not about carrying an object to a lower place or about a person's face.",
+      "examples": [
+        "Lower the heat under the pan before the sauce burns.",
+        "She lowered the thermostat to save money on heating."
+      ],
+      "branchCoverage": [
+        "set lower -> turn a control down, smaller number, weaker level, machine setting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lower (5 senses in this batch): 'look angry' (v) = a frowning face; 'bottom bed' (n) = the lower berth of a bunk pair; 'make quieter or smaller' (v) = reduce sound or level; 'turn a setting down' (v, this one) = set a control to a smaller number; 'move down' (v) = carry something to a lower place.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lower%2:38:00::",
+      "lemma": "lower",
+      "pos": "v",
+      "definition": "move something or somebody to a lower position",
+      "decision": "gloss",
+      "simpleMeaning": "to move someone or something down from a higher place.",
+      "scope": "This is about physically moving a person or object down, not about sound levels, machine settings or facial expressions.",
+      "examples": [
+        "They lowered the box gently to the floor.",
+        "The rescuers lowered a rope to the man in the well."
+      ],
+      "branchCoverage": [
+        "move something or somebody to a lower position -> move down, from a higher place, person or object"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "lower (5 senses in this batch): 'look angry' (v) = a frowning face; 'bottom bed' (n) = the lower berth of a bunk pair; 'make quieter or smaller' (v) = reduce sound or level; 'turn a setting down' (v) = set a control to a smaller number; 'move down' (v, this one) = carry something to a lower place.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "natural%3:00:03::",
+      "lemma": "natural",
+      "pos": "a",
+      "definition": "existing in or in conformity with nature or the observable world; neither supernatural nor magical",
+      "decision": "gloss",
+      "simpleMeaning": "real and able to be explained by ordinary physical causes, not by magic or spirits.",
+      "scope": "This is about explaining events without magic; it is not about things being genuine rather than fake, and not about the physical world as a subject.",
+      "examples": [
+        "The film offers a natural explanation for what looks like a ghost.",
+        "The doctor looked for natural causes before considering anything unusual."
+      ],
+      "branchCoverage": [
+        "existing in or in conformity with nature or the observable world -> real, ordinary physical causes, observable world",
+        "neither supernatural nor magical -> not magic, not spirits"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "natural (4 senses in this batch): 'explained by ordinary causes' (a, this one) = not magic or spirits; 'music sign' (n) = cancels an earlier sharp or flat; 'connected with the physical world' (a) = its forces, plants and animals; 'grown or formed by the living world' (a) = not man-made or copied.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "natural%1:10:00::",
+      "lemma": "natural",
+      "pos": "n",
+      "definition": "a notation cancelling a previous sharp or flat",
+      "decision": "gloss",
+      "simpleMeaning": "a written sign in music that cancels an earlier sharp or flat note.",
+      "scope": "This is only the written music sign; it is not the adjective meaning connected with the physical world.",
+      "examples": [
+        "The natural in bar twelve tells the player to go back to the plain note.",
+        "She missed the natural and played the note sharp again."
+      ],
+      "branchCoverage": [
+        "a notation cancelling a previous sharp or flat -> written sign in music, cancels, earlier sharp or flat note"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "natural (4 senses in this batch): 'explained by ordinary causes' (a) = not magic or spirits; 'music sign' (n, this one) = cancels an earlier sharp or flat; 'connected with the physical world' (a) = its forces, plants and animals; 'grown or formed by the living world' (a) = not man-made or copied.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "natural%3:00:01::",
+      "lemma": "natural",
+      "pos": "a",
+      "definition": "in accordance with nature; relating to or concerning nature",
+      "decision": "gloss",
+      "simpleMeaning": "connected with the physical world and its forces, plants and animals.",
+      "scope": "This is about the physical world as a subject or force; it is not about a thing being genuine rather than fake.",
+      "examples": [
+        "The park is protected for its natural beauty.",
+        "Earthquakes and floods are natural events that no one can stop."
+      ],
+      "branchCoverage": [
+        "in accordance with nature -> connected with the physical world, its forces",
+        "relating to or concerning nature -> plants and animals, physical world as a subject"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "natural (4 senses in this batch): 'explained by ordinary causes' (a) = not magic or spirits; 'music sign' (n) = cancels an earlier sharp or flat; 'connected with the physical world' (a, this one) = its forces, plants and animals; 'grown or formed by the living world' (a) = not man-made or copied.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "natural%3:00:02::",
+      "lemma": "natural",
+      "pos": "a",
+      "definition": "existing in or produced by nature; not artificial or imitation",
+      "decision": "gloss",
+      "simpleMeaning": "grown or formed by the living world rather than by people, and not fake.",
+      "scope": "This is about things being genuine rather than man-made or copied; it is not about the physical world as a subject.",
+      "examples": [
+        "This juice is made from natural ingredients, with no added colours.",
+        "She has natural curls, not a perm."
+      ],
+      "branchCoverage": [
+        "existing in or produced by nature -> grown or formed by the living world",
+        "not artificial or imitation -> not made by people, not fake"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "natural (4 senses in this batch): 'explained by ordinary causes' (a) = not magic or spirits; 'music sign' (n) = cancels an earlier sharp or flat; 'connected with the physical world' (a) = its forces, plants and animals; 'grown or formed by the living world' (a, this one) = not man-made or copied.",
+      "meaning": "formed by nature rather than by people, and not fake.",
+      "verdict": "self-approved",
+      "reviewerNote": "'Living world' excludes natural gas/minerals/light; say 'produced by the earth or living things, not people'."
+    },
+    {
+      "senseId": "property%1:21:00::",
+      "lemma": "property",
+      "pos": "n",
+      "definition": "something owned; any tangible or intangible possession that is owned by someone",
+      "decision": "gloss",
+      "simpleMeaning": "a thing that someone owns, such as a house, land or money.",
+      "scope": "This is about things a person owns, not about a feature or characteristic of something.",
+      "examples": [
+        "The family lost all their property in the fire.",
+        "He was arrested for damaging public property."
+      ],
+      "branchCoverage": [
+        "something owned -> thing that someone owns",
+        "any tangible or intangible possession that is owned by someone -> house, land, money, belongs to a person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "property (2 senses in this batch): 'things owned' (n, this one) = house, land, money; 'shared feature' (n) = a feature all members of a group have in common.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "property%1:07:00::",
+      "lemma": "property",
+      "pos": "n",
+      "definition": "a basic or essential property shared by all members of a class",
+      "decision": "gloss",
+      "simpleMeaning": "a feature that all members of a group have in common.",
+      "scope": "This is a shared feature of a whole group, not a thing that someone owns.",
+      "examples": [
+        "The teacher asked which property all the shapes had in common.",
+        "Being able to breathe underwater is a property of fish, not of dogs."
+      ],
+      "branchCoverage": [
+        "a basic or essential property shared by all members of a class -> feature, all members, group, in common"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "property (2 senses in this batch): 'things owned' (n) = house, land, money; 'shared feature' (n, this one) = a feature all members of a group have in common.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "quality%1:07:00::",
+      "lemma": "quality",
+      "pos": "n",
+      "definition": "an essential and distinguishing attribute of something or someone",
+      "decision": "gloss",
+      "simpleMeaning": "a feature of a person or thing that makes them different from others.",
+      "scope": "This is a named feature of a person or thing, not the overall feel of something and not how good it is.",
+      "examples": [
+        "Kindness is her best quality.",
+        "Patience is a quality every good teacher needs."
+      ],
+      "branchCoverage": [
+        "an essential and distinguishing attribute of something or someone -> feature, person or thing, makes them different from others"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "quality (2 senses in this batch): 'named feature' (n, this one) = a feature that makes a person or thing different, like kindness; 'overall feel' (n) = the special character something seems to have, like the quality of the light.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "quality%1:09:00::",
+      "lemma": "quality",
+      "pos": "n",
+      "definition": "a characteristic property that defines the apparent individual nature of something",
+      "decision": "gloss",
+      "simpleMeaning": "the special feel or character that something seems to have.",
+      "scope": "This is the overall feel or character of something, not a named feature like kindness and not how good it is.",
+      "examples": [
+        "There was a strange quality to the silence in the empty house.",
+        "The light had the soft quality of early morning."
+      ],
+      "branchCoverage": [
+        "a characteristic property that defines the apparent individual nature of something -> special feel, character, seems to have"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "quality (2 senses in this batch): 'named feature' (n) = a feature that makes a person or thing different, like kindness; 'overall feel' (n, this one) = the special character something seems to have, like the quality of the light.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "style%2:32:04::",
+      "lemma": "style",
+      "pos": "v",
+      "definition": "make consistent with certain rules of style",
+      "decision": "gloss",
+      "simpleMeaning": "to change how something is written so it follows an agreed set of rules.",
+      "scope": "This is about following writing rules; it is not about designing clothes or hair, and not about giving something a name.",
+      "examples": [
+        "The editor styled the article to match the journal's rules.",
+        "All the reports were styled in the same way."
+      ],
+      "branchCoverage": [
+        "make consistent with certain rules of style -> change how something is written, agreed set of rules"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "vote%2:41:13::",
+      "lemma": "vote",
+      "pos": "v",
+      "definition": "express one's preference for a candidate or for a measure or resolution; cast a vote",
+      "decision": "gloss",
+      "simpleMeaning": "to choose in an election or meeting by marking a paper or raising a hand.",
+      "scope": "This is a formal choice in an election or meeting, not a casual statement of opinion.",
+      "examples": [
+        "Most people voted for the new mayor.",
+        "At the meeting, we voted for the plan with the lower cost."
+      ],
+      "branchCoverage": [
+        "express one's preference for a candidate or for a measure or resolution -> choose in an election or meeting, candidate, plan",
+        "cast a vote -> marking a paper, raising a hand"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "amazing%5:00:00:impressive:00",
+      "lemma": "amazing",
+      "pos": "a",
+      "definition": "inspiring awe or admiration or wonder",
+      "decision": "gloss",
+      "simpleMeaning": "so surprising and impressive that it makes you feel full of wonder.",
+      "scope": "This means surprisingly impressive, not simply pleasant or merely good.",
+      "examples": [
+        "The view from the top of the mountain was amazing.",
+        "She told an amazing story about surviving the storm."
+      ],
+      "branchCoverage": [
+        "inspiring awe or admiration or wonder -> surprising, impressive, full of wonder, admiration"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blood%2:35:00::",
+      "lemma": "blood",
+      "pos": "v",
+      "definition": "smear with blood, as in a hunting initiation rite, where the face of a person is smeared with the blood of the kill",
+      "decision": "gloss",
+      "simpleMeaning": "to smear a person's face with the red liquid from a killed animal, as an old hunting ceremony.",
+      "scope": "This is a ceremonial marking with an animal's red liquid, not the liquid itself and not injuring someone.",
+      "examples": [
+        "The older hunters blooded the young man after his first kill.",
+        "In the old ceremony, the boy's face was blooded before the feast."
+      ],
+      "branchCoverage": [
+        "smear with blood, as in a hunting initiation rite, where the face of a person is smeared with the blood of the kill -> smear a person's face, red liquid, killed animal, old hunting ceremony"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "complete%5:00:00:perfect:00",
+      "lemma": "complete",
+      "pos": "a",
+      "definition": "perfect and complete in every respect; having all necessary qualities",
+      "decision": "gloss",
+      "simpleMeaning": "having every part and every good feature, with nothing missing or weak.",
+      "scope": "This describes something with no part missing, not the act of finishing a task.",
+      "examples": [
+        "He is a complete athlete: fast, strong and clever.",
+        "It was a complete performance, with no weak moment."
+      ],
+      "branchCoverage": [
+        "perfect and complete in every respect -> every part, every good feature",
+        "having all necessary qualities -> nothing missing, nothing weak"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "complete (2 senses in this batch): 'with every part' (a, this one) = nothing missing or weak; 'finish a task' (v) = do the last part of something started.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "complete%2:41:00::",
+      "lemma": "complete",
+      "pos": "v",
+      "definition": "complete or carry out",
+      "decision": "gloss",
+      "simpleMeaning": "to finish doing something that was planned or started.",
+      "scope": "This is the act of finishing a task, not the adjective describing something with every part.",
+      "examples": [
+        "She completed the report before the deadline.",
+        "The team completed the job in two days."
+      ],
+      "branchCoverage": [
+        "complete or carry out -> finish doing, planned or started, carry out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "complete (2 senses in this batch): 'with every part' (a) = nothing missing or weak; 'finish a task' (v, this one) = do the last part of something started.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dog%1:05:00::",
+      "lemma": "dog",
+      "pos": "n",
+      "definition": "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+      "decision": "gloss",
+      "simpleMeaning": "a common four-legged animal with a tail that people keep as a pet or train to work.",
+      "scope": "This is the animal, not the insulting word for a woman.",
+      "examples": [
+        "Our dog barks at the postman every morning.",
+        "She walks her dog in the park after work."
+      ],
+      "branchCoverage": [
+        "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times -> four-legged animal, tail, kept as a pet, trained to work",
+        "occurs in many breeds -> common animal, many kinds"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dog (2 senses in this batch): 'the animal' (n, this one) = a pet or working animal with four legs; 'cruel insult' (n) = an insulting word for a woman.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dog%1:18:01::",
+      "lemma": "dog",
+      "pos": "n",
+      "definition": "a dull unattractive unpleasant girl or woman",
+      "decision": "gloss",
+      "simpleMeaning": "a cruel, insulting word for a woman someone thinks is boring and not attractive.",
+      "scope": "This is the insulting use for a woman, not the animal.",
+      "examples": [
+        "He called her a dog behind her back, which was cruel.",
+        "Don't use that word - calling a woman a dog is a real insult."
+      ],
+      "branchCoverage": [
+        "a dull unattractive unpleasant girl or woman -> boring, not attractive, unpleasant, woman"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dog (2 senses in this batch): 'the animal' (n) = a pet or working animal with four legs; 'cruel insult' (n, this one) = an insulting word for a woman.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "economic%3:01:00::",
+      "lemma": "economic",
+      "pos": "a",
+      "definition": "of or relating to the science of economics",
+      "decision": "gloss",
+      "simpleMeaning": "connected with the study of how money, trade and industry work.",
+      "scope": "This is about the academic subject, not about a country's real system of trade and money.",
+      "examples": [
+        "He teaches economic theory at the university.",
+        "She is writing an economic study of how prices rise."
+      ],
+      "branchCoverage": [
+        "of or relating to the science of economics -> study, money, trade, industry, academic subject"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "economic (2 senses in this batch): 'academic study' (a, this one) = the science of money and trade; 'a country's system' (a) = producing, selling and using goods and money.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "economic%3:01:01::",
+      "lemma": "economic",
+      "pos": "a",
+      "definition": "of or relating to an economy, the system of production and management of material wealth",
+      "decision": "gloss",
+      "simpleMeaning": "connected with a country's system of producing, selling and using goods and money.",
+      "scope": "This is about a country's real system of trade and money, not about the academic subject or about saving money.",
+      "examples": [
+        "The country is going through a difficult economic period.",
+        "Low wages are an economic problem, not just a personal one."
+      ],
+      "branchCoverage": [
+        "of or relating to an economy, the system of production and management of material wealth -> country's system, producing, selling, using goods and money"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "economic (2 senses in this batch): 'academic study' (a) = the science of money and trade; 'a country's system' (a, this one) = producing, selling and using goods and money.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hell%1:04:00::",
+      "lemma": "hell",
+      "pos": "n",
+      "definition": "noisy and unrestrained mischief",
+      "decision": "gloss",
+      "simpleMeaning": "wild, noisy behaviour that causes trouble and upset.",
+      "scope": "This is noisy, wild behaviour, not the place of punishment after death.",
+      "examples": [
+        "The children raised hell when the babysitter fell asleep.",
+        "He was out raising hell with his friends all night."
+      ],
+      "branchCoverage": [
+        "noisy and unrestrained mischief -> wild, noisy behaviour, causes trouble, unrestrained"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "involved%5:00:00:encumbered:00",
+      "lemma": "involved",
+      "pos": "a",
+      "definition": "entangled or hindered as if e.g. in mire",
+      "decision": "gloss",
+      "simpleMeaning": "stuck in a difficult situation and unable to get free, as if caught in deep mud.",
+      "scope": "This is about being trapped by difficulties, not about choosing to take part or about strong feelings for someone.",
+      "examples": [
+        "He was so involved in debt that he could not see a way out.",
+        "The country found itself involved in a costly war."
+      ],
+      "branchCoverage": [
+        "entangled or hindered as if e.g. in mire -> stuck, difficult situation, unable to get free, deep mud"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "involved (2 senses in this batch): 'trapped or hindered' (a, this one) = stuck in difficulties, as if in mud; 'emotionally attached' (a, part 2) = feeling strongly about someone.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "involved%5:00:00:attached:01",
+      "lemma": "involved",
+      "pos": "a",
+      "definition": "emotionally involved",
+      "decision": "gloss",
+      "simpleMeaning": "having a strong emotional bond with someone, so that you care about them deeply.",
+      "scope": "It is not being caught up in a difficult situation and not simply taking part in an activity; it means having close feelings for a person.",
+      "examples": [
+        "He was deeply involved with a woman he had met at work, and they soon moved in together.",
+        "She is deeply involved with her grandchildren and sees them almost every day."
+      ],
+      "branchCoverage": [
+        "emotionally involved -> having a strong emotional bond with someone, so that you care about them deeply"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "involved (2 senses in this batch): adjective = caught up or hindered as if stuck in mud (involved%5:00:00:encumbered:00); adjective = having a strong emotional bond with someone (involved%5:00:00:attached:01).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "language%1:10:00::",
+      "lemma": "language",
+      "pos": "n",
+      "definition": "a systematic means of communicating by the use of sounds or conventional symbols",
+      "decision": "gloss",
+      "simpleMeaning": "a system of words, sounds, or signs that people use to communicate.",
+      "scope": "It is not the special vocabulary of a subject and not a person's style of writing; it is the whole system of communication itself.",
+      "examples": [
+        "Children learn language quickly when they hear it every day.",
+        "French and Spanish are different languages, but they share some words."
+      ],
+      "branchCoverage": [
+        "a systematic means of communicating by the use of sounds or conventional symbols -> a system of words, sounds, or signs that people use to communicate"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lord%1:18:03::",
+      "lemma": "lord",
+      "pos": "n",
+      "definition": "a titled peer of the realm",
+      "decision": "gloss",
+      "simpleMeaning": "a man who holds a noble title and a high rank among the nobility of a country.",
+      "scope": "It is not God and not a man who owns or controls other people; it means a man with an inherited noble title.",
+      "examples": [
+        "Lord Ashford owned most of the land around the village.",
+        "Several lords voted against the bill in the upper house of parliament."
+      ],
+      "branchCoverage": [
+        "a titled peer of the realm -> a man who holds a noble title and a high rank among the nobility of a country"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "oil%1:27:00::",
+      "lemma": "oil",
+      "pos": "n",
+      "definition": "a slippery or viscous liquid or liquefiable substance not miscible with water",
+      "decision": "gloss",
+      "simpleMeaning": "a thick, slippery liquid or soft substance, such as the kind used for cooking or in machines, that does not mix with water.",
+      "scope": "It is not the dark liquid taken from the ground for fuel, not paint, and not the verb; it is the general slippery substance itself.",
+      "examples": [
+        "Add a little cooking oil to the hot pan.",
+        "The engine needs more oil before the long drive."
+      ],
+      "branchCoverage": [
+        "a slippery or viscous liquid or liquefiable substance not miscible with water -> a thick, slippery liquid or soft substance, such as the kind used for cooking or in machines, that does not mix with water"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "oil (4 senses in this batch): noun = a slippery liquid or soft substance that does not mix with water (oil%1:27:00::); verb = to put a liquid or cream on someone, often in a religious ceremony (oil%2:29:00::); noun = thick paint used by artists (oil%1:06:01::); noun = the dark liquid from underground used for fuel and chemicals (oil%1:27:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "oil%2:29:00::",
+      "lemma": "oil",
+      "pos": "v",
+      "definition": "administer an oil or ointment to; often in a religious ceremony of blessing",
+      "decision": "gloss",
+      "simpleMeaning": "to rub a special liquid or cream on someone, especially as part of a religious ceremony asking for God's blessing.",
+      "scope": "It is not putting fuel in a machine or paint on a picture; it means putting a liquid or cream on a person, usually in a religious rite.",
+      "examples": [
+        "The bishop oiled the new king's head during the ceremony.",
+        "In the old rite, they oiled the sick to ask for healing."
+      ],
+      "branchCoverage": [
+        "administer an oil or ointment to -> rub a special liquid or cream on someone",
+        "often in a religious ceremony of blessing -> especially as part of a religious ceremony asking for God's blessing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "oil (4 senses in this batch): noun = a slippery liquid or soft substance that does not mix with water (oil%1:27:00::); verb = to put a liquid or cream on someone, often in a religious ceremony (oil%2:29:00::); noun = thick paint used by artists (oil%1:06:01::); noun = the dark liquid from underground used for fuel and chemicals (oil%1:27:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "oil%1:06:01::",
+      "lemma": "oil",
+      "pos": "n",
+      "definition": "oil paint containing pigment that is used by an artist",
+      "decision": "gloss",
+      "simpleMeaning": "paint made by mixing colour powder into a thick liquid, used by artists.",
+      "scope": "It is not the cooking or machine liquid and not the fuel taken from the ground; it is the kind of paint an artist puts on a canvas.",
+      "examples": [
+        "The portrait was painted in oils, so the colours look rich and deep.",
+        "He bought a set of oils and some new brushes for his art class."
+      ],
+      "branchCoverage": [
+        "oil paint containing pigment that is used by an artist -> paint made by mixing colour powder into a thick liquid, used by artists"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "oil (4 senses in this batch): noun = a slippery liquid or soft substance that does not mix with water (oil%1:27:00::); verb = to put a liquid or cream on someone, often in a religious ceremony (oil%2:29:00::); noun = thick paint used by artists (oil%1:06:01::); noun = the dark liquid from underground used for fuel and chemicals (oil%1:27:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "oil%1:27:01::",
+      "lemma": "oil",
+      "pos": "n",
+      "definition": "a dark oil consisting mainly of hydrocarbons",
+      "decision": "gloss",
+      "simpleMeaning": "a dark liquid found under the ground, made mostly of carbon and hydrogen, that is used to make petrol and many other products.",
+      "scope": "It is not the cooking or machine liquid, not paint, and not the verb; it is the raw fuel taken from under the earth.",
+      "examples": [
+        "The country earns much of its money from oil.",
+        "Oil prices rose sharply last year, so petrol cost more."
+      ],
+      "branchCoverage": [
+        "a dark oil consisting mainly of hydrocarbons -> a dark liquid found under the ground, made mostly of carbon and hydrogen, that is used to make petrol and many other products"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "oil (4 senses in this batch): noun = a slippery liquid or soft substance that does not mix with water (oil%1:27:00::); verb = to put a liquid or cream on someone, often in a religious ceremony (oil%2:29:00::); noun = thick paint used by artists (oil%1:06:01::); noun = the dark liquid from underground used for fuel and chemicals (oil%1:27:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "related%3:00:02::",
+      "lemma": "related",
+      "pos": "a",
+      "definition": "being connected either logically or causally or by shared characteristics",
+      "decision": "gloss",
+      "simpleMeaning": "connected to something else in meaning, in cause, or by shared features.",
+      "scope": "It is not about belonging to the same family; it describes things that are linked in meaning, cause, or features.",
+      "examples": [
+        "The two problems are closely related, so one solution may fix both.",
+        "The island is home to several related species of bird."
+      ],
+      "branchCoverage": [
+        "being connected either logically or causally or by shared characteristics -> connected to something else in meaning, in cause, or by shared features"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "connected by logic, by cause, or by shared features.",
+      "verdict": "self-approved",
+      "reviewerNote": "'logically' became 'in meaning', a shifted branch; use 'connected by logic, by cause, or by shared features'."
+    },
+    {
+      "senseId": "serious%5:00:00:critical:03",
+      "lemma": "serious",
+      "pos": "a",
+      "definition": "causing fear or anxiety by threatening great harm",
+      "decision": "gloss",
+      "simpleMeaning": "very bad and likely to cause great harm, so that people feel afraid or worried.",
+      "scope": "It is not about someone who is not joking and not about something merely important; it describes a harmful or dangerous situation.",
+      "examples": [
+        "The accident caused serious injuries to both drivers.",
+        "Doctors say her condition is serious and she must stay in hospital."
+      ],
+      "branchCoverage": [
+        "causing fear or anxiety by threatening great harm -> very bad and likely to cause great harm, so that people feel afraid or worried"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "title%1:10:05::",
+      "lemma": "title",
+      "pos": "n",
+      "definition": "a heading that names a statute or legislative bill; may give a brief summary of the matters it deals with",
+      "decision": "gloss",
+      "simpleMeaning": "the name or heading given to a law or a proposed law, which may include a short summary of what it deals with.",
+      "scope": "It is not the name of a book or song and not a person's rank; it is the heading of a law or bill.",
+      "examples": [
+        "The bill was introduced under the title 'Clean Water Act'.",
+        "The title of the new law promised lower taxes and simpler rules."
+      ],
+      "branchCoverage": [
+        "a heading that names a statute or legislative bill -> the name or heading given to a law or a proposed law",
+        "may give a brief summary of the matters it deals with -> which may include a short summary of what it deals with"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "title (3 senses in this batch): noun = the heading that names a law or bill (title%1:10:05::); noun = the name of a book, film, song, or other work (title%1:10:00::); verb = to give a name to a work (title%2:32:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "title%1:10:00::",
+      "lemma": "title",
+      "pos": "n",
+      "definition": "the name of a work of art or literary composition etc.",
+      "decision": "gloss",
+      "simpleMeaning": "the name of a book, film, song, painting, or other work.",
+      "scope": "It is not the heading of a law and not a rank or championship; it is the name given to a creative work.",
+      "examples": [
+        "What is the title of her latest novel?",
+        "The painting has no title, so visitors simply call it 'Untitled'."
+      ],
+      "branchCoverage": [
+        "the name of a work of art or literary composition etc -> the name of a book, film, song, painting, or other work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "title (3 senses in this batch): noun = the heading that names a law or bill (title%1:10:05::); noun = the name of a book, film, song, or other work (title%1:10:00::); verb = to give a name to a work (title%2:32:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "title%2:32:00::",
+      "lemma": "title",
+      "pos": "v",
+      "definition": "give a title to",
+      "decision": "gloss",
+      "simpleMeaning": "to give a name to a book, film, song, or other work.",
+      "scope": "It is not naming a law and not winning a sports championship; it means choosing the name of a creative work.",
+      "examples": [
+        "She titled her first album 'Home'.",
+        "The author titled the final chapter 'Return'."
+      ],
+      "branchCoverage": [
+        "give a title to -> give a name to a book, film, song, or other work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "title (3 senses in this batch): noun = the heading that names a law or bill (title%1:10:05::); noun = the name of a book, film, song, or other work (title%1:10:00::); verb = to give a name to a work (title%2:32:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "add%2:30:00::",
+      "lemma": "add",
+      "pos": "v",
+      "definition": "make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of",
+      "decision": "gloss",
+      "simpleMeaning": "to put something together with something else, or to make something bigger or better by joining more to it.",
+      "scope": "It is not the arithmetic sense of finding a total; it means putting something extra into or onto something else.",
+      "examples": [
+        "Add a little salt to the soup.",
+        "They added a new room to the back of the house."
+      ],
+      "branchCoverage": [
+        "make an addition (to) -> put something together with something else",
+        "join or combine or unite with others -> joining more to it",
+        "increase the quality, quantity, size or scope of -> make something bigger or better"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "article%1:10:00::",
+      "lemma": "article",
+      "pos": "n",
+      "definition": "nonfictional prose forming an independent part of a publication",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of writing about real people, events, or ideas that is published as a separate part of a newspaper, magazine, or website.",
+      "scope": "It is not a physical object and not a grammar word such as 'a' or 'the'; it means a written report or essay.",
+      "examples": [
+        "She wrote an article about climate change for a science magazine.",
+        "I read an article online about healthy eating."
+      ],
+      "branchCoverage": [
+        "nonfictional prose forming an independent part of a publication -> a piece of writing about real people, events, or ideas that is published as a separate part of a newspaper, magazine, or website"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%1:10:00::",
+      "lemma": "attack",
+      "pos": "n",
+      "definition": "intense adverse criticism",
+      "decision": "gloss",
+      "simpleMeaning": "strong criticism that says someone or something is very bad.",
+      "scope": "It is not physical violence or a military strike; it is an attack made with words.",
+      "examples": [
+        "The minister's speech was a fierce attack on the new policy.",
+        "The book drew attacks from several reviewers."
+      ],
+      "branchCoverage": [
+        "intense adverse criticism -> strong criticism that says someone or something is very bad"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack (3 senses in this batch): noun = very strong criticism (attack%1:10:00::); verb = to use weapons or force against someone or a place (attack%2:33:00::); verb = to criticize someone very strongly in words (attack%2:32:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%2:33:00::",
+      "lemma": "attack",
+      "pos": "v",
+      "definition": "launch an attack or assault on; begin hostilities or start warfare with",
+      "decision": "gloss",
+      "simpleMeaning": "to use violence or weapons against someone or a place, or to start a war with a country.",
+      "scope": "It is not criticizing someone in words and not a sudden illness; it means using physical force against an enemy.",
+      "examples": [
+        "The army attacked the town at dawn.",
+        "The country was attacked without warning."
+      ],
+      "branchCoverage": [
+        "launch an attack or assault on -> use violence or weapons against someone or a place",
+        "begin hostilities or start warfare with -> start a war with a country"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack (3 senses in this batch): noun = very strong criticism (attack%1:10:00::); verb = to use weapons or force against someone or a place (attack%2:33:00::); verb = to criticize someone very strongly in words (attack%2:32:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attack%2:32:00::",
+      "lemma": "attack",
+      "pos": "v",
+      "definition": "attack in speech or writing",
+      "decision": "gloss",
+      "simpleMeaning": "to criticize someone or something very strongly in speech or writing.",
+      "scope": "It is not using physical force and not a disease striking the body; it means speaking or writing against someone.",
+      "examples": [
+        "The report attacked the company for wasting public money.",
+        "She attacked the idea in a long blog post."
+      ],
+      "branchCoverage": [
+        "attack in speech or writing -> criticize someone or something very strongly in speech or writing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attack (3 senses in this batch): noun = very strong criticism (attack%1:10:00::); verb = to use weapons or force against someone or a place (attack%2:33:00::); verb = to criticize someone very strongly in words (attack%2:32:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "born%5:00:00:intelligent:00",
+      "lemma": "born",
+      "pos": "a",
+      "definition": "being talented through inherited qualities",
+      "decision": "gloss",
+      "simpleMeaning": "having a natural skill that seems to come from your family or from the moment you came into the world.",
+      "scope": "It is not the plain sense of coming into the world at a time or place; it describes a skill that seems to be part of a person from the start.",
+      "examples": [
+        "She is a born teacher and can explain anything clearly.",
+        "Their daughter is a born performer and loves being on stage."
+      ],
+      "branchCoverage": [
+        "being talented through inherited qualities -> having a natural skill that seems to come from your family or from the moment you came into the world"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "damn%5:00:02:cursed:00",
+      "lemma": "damn",
+      "pos": "a",
+      "definition": "expletives used informally as intensifiers",
+      "decision": "gloss",
+      "simpleMeaning": "used in informal speech before a noun to show anger or strong feeling.",
+      "scope": "It is not a curse asking God to punish someone and not a religious judgement; here it only adds force to what you are saying.",
+      "examples": [
+        "I can't get this damn door open.",
+        "Where did I put that damn key?"
+      ],
+      "branchCoverage": [
+        "expletives used informally as intensifiers -> declared usage label (informal swear word used to add force)"
+      ],
+      "labelBranches": [
+        "expletives used informally as intensifiers"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "enjoy%2:37:00::",
+      "lemma": "enjoy",
+      "pos": "v",
+      "definition": "derive or receive pleasure from; get enjoyment from; take pleasure in",
+      "decision": "gloss",
+      "simpleMeaning": "to get pleasure from something.",
+      "scope": "It is not the formal sense of having the use or benefit of something, as in 'enjoy good health'; it means feeling happy because of an activity or experience.",
+      "examples": [
+        "I really enjoyed the concert last night.",
+        "She enjoys walking in the rain."
+      ],
+      "branchCoverage": [
+        "derive or receive pleasure from -> get pleasure from something",
+        "get enjoyment from -> get pleasure from something",
+        "take pleasure in -> get pleasure from something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "entire%5:00:02:whole:00",
+      "lemma": "entire",
+      "pos": "a",
+      "definition": "constituting the undiminished entirety; lacking nothing essential especially not damaged",
+      "decision": "gloss",
+      "simpleMeaning": "whole and complete, with nothing missing and nothing broken.",
+      "scope": "It is not the everyday sense of 'all of' a period or group; it describes one object that is complete and undamaged.",
+      "examples": [
+        "The ancient cup was found entire, with no cracks.",
+        "The museum's set of first editions is still entire."
+      ],
+      "branchCoverage": [
+        "constituting the undiminished entirety -> whole and complete, with nothing missing",
+        "lacking nothing essential especially not damaged -> with nothing missing and nothing broken"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "entire (3 senses in this batch): adjective = whole and undamaged, with nothing missing (entire%5:00:02:whole:00); adjective = (of a leaf or petal) having a smooth edge (entire%5:00:00:smooth:02); adjective = including all of a group, area, or period (entire%5:00:01:whole:00).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "entire%5:00:00:smooth:02",
+      "lemma": "entire",
+      "pos": "a",
+      "definition": "(of leaves or petals) having a smooth edge; not broken up into teeth or lobes",
+      "decision": "gloss",
+      "simpleMeaning": "a leaf or petal with a smooth edge, not cut into teeth or deep rounded parts.",
+      "scope": "It is not the everyday sense meaning whole or complete; it describes the shape of the edge of a leaf or petal.",
+      "examples": [
+        "The bush has entire leaves with smooth edges.",
+        "Unlike oak leaves, these leaves are entire."
+      ],
+      "branchCoverage": [
+        "(of leaves or petals) having a smooth edge -> a leaf or petal with a smooth edge",
+        "not broken up into teeth or lobes -> not cut into teeth or deep rounded parts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "entire (3 senses in this batch): adjective = whole and undamaged, with nothing missing (entire%5:00:02:whole:00); adjective = (of a leaf or petal) having a smooth edge (entire%5:00:00:smooth:02); adjective = including all of a group, area, or period (entire%5:00:01:whole:00).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "entire%5:00:01:whole:00",
+      "lemma": "entire",
+      "pos": "a",
+      "definition": "constituting the full quantity or extent; complete",
+      "decision": "gloss",
+      "simpleMeaning": "including every part of a group, area, or period, with nothing left out.",
+      "scope": "It is not the sense of one object being unbroken or undamaged; it means all of a group, area, or period is included.",
+      "examples": [
+        "She spent the entire day at the library.",
+        "The entire class passed the exam."
+      ],
+      "branchCoverage": [
+        "constituting the full quantity or extent -> including every part of a group, area, or period",
+        "complete -> with nothing left out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "entire (3 senses in this batch): adjective = whole and undamaged, with nothing missing (entire%5:00:02:whole:00); adjective = (of a leaf or petal) having a smooth edge (entire%5:00:00:smooth:02); adjective = including all of a group, area, or period (entire%5:00:01:whole:00).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kill%1:04:01::",
+      "lemma": "kill",
+      "pos": "n",
+      "definition": "the destruction of an enemy plane or ship or tank or missile",
+      "decision": "gloss",
+      "simpleMeaning": "an occasion when an enemy plane, ship, tank, or missile is destroyed.",
+      "scope": "It is not the act of taking a person's life; it is a military count of destroyed enemy equipment.",
+      "examples": [
+        "The pilot scored three kills in one mission.",
+        "The report listed the number of kills for the month."
+      ],
+      "branchCoverage": [
+        "the destruction of an enemy plane or ship or tank or missile -> an occasion when an enemy plane, ship, tank, or missile is destroyed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "poor%3:00:03::",
+      "lemma": "poor",
+      "pos": "a",
+      "definition": "characterized by or indicating poverty",
+      "decision": "gloss",
+      "simpleMeaning": "having very little money or few possessions.",
+      "scope": "It is not the sense meaning bad in quality or deserving sympathy; it describes people or places that lack money.",
+      "examples": [
+        "The charity helps poor families in the city.",
+        "He grew up in a poor neighbourhood with few shops."
+      ],
+      "branchCoverage": [
+        "characterized by or indicating poverty -> having very little money or few possessions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,1010 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 18,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 41,
+      "of": 50,
+      "rate": 0.82
+    },
+    "selfApproved": [
+      "written%3:00:02::",
+      "written%3:00:04::",
+      "code%1:10:00::",
+      "foreign%5:00:00:extrinsic:00",
+      "pick%1:23:00::",
+      "sign%2:32:02::",
+      "built%5:00:00:improved:00",
+      "die%2:37:00::",
+      "figure%1:10:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "76df3eaad02fc2eca788b87a717dbcbf1e993b39b5dbe02172439c4ed5f3dc56"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "poor%5:00:00:unfortunate:00",
+      "lemma": "poor",
+      "pos": "a",
+      "definition": "deserving or inciting pity",
+      "decision": "gloss",
+      "simpleMeaning": "deserving sympathy because of bad luck or a hard situation",
+      "scope": "It describes someone you feel sorry for, not someone with little money.",
+      "examples": [
+        "The poor child was shivering in the cold.",
+        "We gave the poor dog some food and water."
+      ],
+      "branchCoverage": [
+        "deserving or inciting pity -> deserving sympathy; makes you feel sorry for them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "release%2:35:00::",
+      "lemma": "release",
+      "pos": "v",
+      "definition": "release, as from one's grip",
+      "decision": "gloss",
+      "simpleMeaning": "to stop holding something so that it can move or fall",
+      "scope": "It is about letting go with your hands, not about setting a prisoner free.",
+      "examples": [
+        "She released the rope and the boat drifted away.",
+        "He released the handle and the door swung shut."
+      ],
+      "branchCoverage": [
+        "release, as from one's grip -> stop holding; let go of"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "technology%1:04:00::",
+      "lemma": "technology",
+      "pos": "n",
+      "definition": "the application of the knowledge and usage of tools (such as machines or utensils) and techniques to control one's environment",
+      "decision": "gloss",
+      "simpleMeaning": "the use of tools, machines and skills to make things or solve problems",
+      "scope": "It is the practical use of tools and methods, not the school subject that studies them.",
+      "examples": [
+        "Technology has changed the way farmers grow food.",
+        "Modern technology helps doctors treat patients faster."
+      ],
+      "branchCoverage": [
+        "the application of the knowledge and usage of tools (such as machines or utensils) and techniques to control one's environment -> use of tools and machines; skills and methods; to make things or solve problems and control the world around us"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "technology (application sense) = the practical use of tools, machines and skills; technology (discipline sense) = the subject that studies how science is used for practical problems.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "technology%1:09:00::",
+      "lemma": "technology",
+      "pos": "n",
+      "definition": "the discipline dealing with the art or science of applying scientific knowledge to practical problems",
+      "decision": "gloss",
+      "simpleMeaning": "the subject that studies how scientific knowledge is used to solve practical problems",
+      "scope": "It is the field of study, not the machines and tools themselves.",
+      "examples": [
+        "She is studying technology at university.",
+        "He teaches technology at the local school."
+      ],
+      "branchCoverage": [
+        "the discipline dealing with the art or science of applying scientific knowledge to practical problems -> subject or field of study; how science is used for practical problems"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "technology (application sense) = the practical use of tools, machines and skills; technology (discipline sense) = the subject that studies how science is used for practical problems.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "written%3:00:02::",
+      "lemma": "written",
+      "pos": "a",
+      "definition": "systematically collected and written down",
+      "decision": "gloss",
+      "simpleMeaning": "put down in words in an organised way, often in a book or record",
+      "scope": "It describes text that has been recorded, not the style of handwriting or a script for a screen.",
+      "examples": [
+        "The village keeps a written record of every birth.",
+        "These rules exist only in written form."
+      ],
+      "branchCoverage": [
+        "systematically collected and written down -> put down in words; collected in an organised way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "written (record sense) = text collected and set down in an organised way; written (script sense) = words composed for a film, play or broadcast.",
+      "meaning": "kept in an organised record, not just spoken",
+      "verdict": "self-approved",
+      "reviewerNote": "Circular: 'put down in words' restates written. Use 'kept in an organised record, not just spoken'."
+    },
+    {
+      "senseId": "written%3:00:04::",
+      "lemma": "written",
+      "pos": "a",
+      "definition": "written as for a film or play or broadcast",
+      "decision": "gloss",
+      "simpleMeaning": "created in words for a film, play, or radio or television show",
+      "scope": "It refers to scripts for performance, not to records or notes.",
+      "examples": [
+        "The story was written for radio before it reached television.",
+        "It began as a written play before it became a film."
+      ],
+      "branchCoverage": [
+        "written as for a film or play or broadcast -> created in words; for a film, play, or radio or television show"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "written (record sense) = text collected and set down in an organised way; written (script sense) = words composed for a film, play or broadcast.",
+      "meaning": "made as a script for a film, play, or show",
+      "verdict": "self-approved",
+      "reviewerNote": "Circular 'in words'; ex1 'written script' redundant. Use 'made as a script for a film, play or show'."
+    },
+    {
+      "senseId": "code%1:10:00::",
+      "lemma": "code",
+      "pos": "n",
+      "definition": "a coding system used for transmitting messages requiring brevity or secrecy",
+      "decision": "gloss",
+      "simpleMeaning": "a secret way of writing messages using letters, numbers or symbols",
+      "scope": "It is a system for hiding messages, not a set of laws or computer instructions.",
+      "examples": [
+        "The spies sent their messages in code.",
+        "They used a simple code so no one else could read the letter."
+      ],
+      "branchCoverage": [
+        "a coding system used for transmitting messages requiring brevity or secrecy -> system for sending messages; kept secret; in short form"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "short signs or signals for messages, sometimes secret",
+      "verdict": "self-approved",
+      "reviewerNote": "Brevity branch dropped; 'hiding' scope false (Morse). Use 'short signs or signals for messages, sometimes secret'."
+    },
+    {
+      "senseId": "continue%2:32:00::",
+      "lemma": "continue",
+      "pos": "v",
+      "definition": "continue talking",
+      "decision": "gloss",
+      "simpleMeaning": "to go on speaking after a pause",
+      "scope": "It is only about speech, not about keeping on with an activity.",
+      "examples": [
+        "'And then,' she continued, 'the door slowly opened.'",
+        "He stopped to drink some water, then continued with his story."
+      ],
+      "branchCoverage": [
+        "continue talking -> go on speaking; after a pause"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "continue (talking sense) = go on speaking after a pause; continue (state or activity sense) = keep doing something or stay in the same situation.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "continue%2:42:01::",
+      "lemma": "continue",
+      "pos": "v",
+      "definition": "continue a certain state, condition, or activity",
+      "decision": "gloss",
+      "simpleMeaning": "to keep doing something or stay in the same situation",
+      "scope": "It is about an activity or state going on, not about someone speaking.",
+      "examples": [
+        "The rain continued all night.",
+        "She continued to live in the same house for years."
+      ],
+      "branchCoverage": [
+        "continue a certain state, condition, or activity -> keep doing something; stay in the same situation"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "continue (talking sense) = go on speaking after a pause; continue (state or activity sense) = keep doing something or stay in the same situation.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%1:06:02::",
+      "lemma": "cover",
+      "pos": "n",
+      "definition": "a covering that serves to conceal or shelter something",
+      "decision": "gloss",
+      "simpleMeaning": "something you put over a thing to hide it or keep it safe",
+      "scope": "It is the object itself, not the act of hiding something or the front of a book.",
+      "examples": [
+        "They kept the motorbike under a canvas cover.",
+        "Put the cover back on the grill before it rains."
+      ],
+      "branchCoverage": [
+        "a covering that serves to conceal or shelter something -> something put over a thing; to hide it or keep it safe"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover (noun, thing) = the object put over something; cover (noun, act) = the act of hiding something by blocking the view; cover (verb, put on) = put a covering on something; cover (verb, spread) = lie over a whole surface like a layer.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%1:04:00::",
+      "lemma": "cover",
+      "pos": "n",
+      "definition": "the act of concealing the existence of something by obstructing the view of it",
+      "decision": "gloss",
+      "simpleMeaning": "the act of hiding something by blocking the view of it",
+      "scope": "It is the hiding itself, not the thing used to hide something.",
+      "examples": [
+        "The thick smoke provided cover for their escape.",
+        "The soldiers moved forward under cover of darkness."
+      ],
+      "branchCoverage": [
+        "the act of concealing the existence of something by obstructing the view of it -> act of hiding; blocking the view"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover (noun, thing) = the object put over something; cover (noun, act) = the act of hiding something by blocking the view; cover (verb, put on) = put a covering on something; cover (verb, spread) = lie over a whole surface like a layer.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%2:35:00::",
+      "lemma": "cover",
+      "pos": "v",
+      "definition": "provide with a covering or cause to be covered",
+      "decision": "gloss",
+      "simpleMeaning": "to put something over another thing to protect or hide it",
+      "scope": "It is about putting a covering on something, not about a material spreading over a surface by itself.",
+      "examples": [
+        "She covered the baby with a warm blanket.",
+        "Cover the pot so the soup cooks faster."
+      ],
+      "branchCoverage": [
+        "provide with a covering or cause to be covered -> put something over a thing; protect or hide it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover (noun, thing) = the object put over something; cover (noun, act) = the act of hiding something by blocking the view; cover (verb, put on) = put a covering on something; cover (verb, spread) = lie over a whole surface like a layer.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cover%2:35:01::",
+      "lemma": "cover",
+      "pos": "v",
+      "definition": "form a cover over",
+      "decision": "gloss",
+      "simpleMeaning": "to spread over the whole surface of something like a layer",
+      "scope": "It is about a layer lying over an area, not about a person putting a covering on something.",
+      "examples": [
+        "Snow covered the whole garden.",
+        "Dust covered the old piano."
+      ],
+      "branchCoverage": [
+        "form a cover over -> spread over the whole surface; lie like a layer"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cover (noun, thing) = the object put over something; cover (noun, act) = the act of hiding something by blocking the view; cover (verb, put on) = put a covering on something; cover (verb, spread) = lie over a whole surface like a layer.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "door%1:06:00::",
+      "lemma": "door",
+      "pos": "n",
+      "definition": "a swinging or sliding barrier that will close the entrance to a room or building or vehicle",
+      "decision": "gloss",
+      "simpleMeaning": "a flat panel that opens and closes to let you into or out of a room, building or vehicle",
+      "scope": "It is the moving panel itself, not the empty opening or a gate in a fence.",
+      "examples": [
+        "Please close the door when you leave.",
+        "The car door was frozen shut this morning."
+      ],
+      "branchCoverage": [
+        "a swinging or sliding barrier that will close the entrance to a room or building or vehicle -> flat panel; opens and closes; entrance to a room, building or vehicle"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "financial%3:01:00::",
+      "lemma": "financial",
+      "pos": "a",
+      "definition": "involving financial matters",
+      "decision": "gloss",
+      "simpleMeaning": "connected with money and how it is managed",
+      "scope": "It is about money matters, not about coins and notes as physical objects.",
+      "examples": [
+        "The company is in serious financial trouble.",
+        "She asked a friend for financial advice."
+      ],
+      "branchCoverage": [
+        "involving financial matters -> connected with money; how money is managed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "foreign%3:00:01::",
+      "lemma": "foreign",
+      "pos": "a",
+      "definition": "relating to or originating in or characteristic of another place or part of the world",
+      "decision": "gloss",
+      "simpleMeaning": "coming from or belonging to another country",
+      "scope": "It describes things from other countries, not things that feel unnatural or out of place.",
+      "examples": [
+        "She speaks three foreign languages.",
+        "The market was full of foreign visitors."
+      ],
+      "branchCoverage": [
+        "relating to or originating in or characteristic of another place or part of the world -> coming from another country; belonging to another place"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "foreign (country sense) = from or about another country; foreign (nature sense) = not a natural part of something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "foreign%5:00:00:extrinsic:00",
+      "lemma": "foreign",
+      "pos": "a",
+      "definition": "not contained in or deriving from the essential nature of something",
+      "decision": "gloss",
+      "simpleMeaning": "not a natural part of something, but added from outside",
+      "scope": "It does not mean from another country; it means not belonging to the basic nature of a thing.",
+      "examples": [
+        "Such rudeness was foreign to her gentle nature.",
+        "The new custom felt foreign to the villagers at first."
+      ],
+      "branchCoverage": [
+        "not contained in or deriving from the essential nature of something -> not a natural part; added from outside; not belonging to the basic nature"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "foreign (country sense) = from or about another country; foreign (nature sense) = not a natural part of something.",
+      "meaning": "not part of something's basic nature",
+      "verdict": "self-approved",
+      "reviewerNote": "'Added from outside' is wrong (nothing added); ex2 means unfamiliar. Use 'not part of something's basic nature'."
+    },
+    {
+      "senseId": "hair%1:08:00::",
+      "lemma": "hair",
+      "pos": "n",
+      "definition": "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head); helps to prevent heat loss",
+      "decision": "gloss",
+      "simpleMeaning": "the fine threads that grow on a person's or animal's skin, especially on the head, which help keep the body warm",
+      "scope": "It means the whole growth on the body, not a single strand.",
+      "examples": [
+        "She brushed her hair before the party.",
+        "The dog left hair all over the sofa."
+      ],
+      "branchCoverage": [
+        "a covering for the body (or parts of it) consisting of a dense growth of threadlike structures (as on the human head) -> fine threads growing on the skin; dense covering, especially on the head",
+        "helps to prevent heat loss -> helps keep the body warm"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "increase%1:11:00::",
+      "lemma": "increase",
+      "pos": "n",
+      "definition": "a change resulting in an increase",
+      "decision": "gloss",
+      "simpleMeaning": "a rise in an amount, number or level",
+      "scope": "It is the rise itself, not the act of making something bigger.",
+      "examples": [
+        "There was a sharp increase in food prices.",
+        "The report shows an increase in road accidents."
+      ],
+      "branchCoverage": [
+        "a change resulting in an increase -> a rise; in amount, number or level"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "legal%5:00:00:valid:00",
+      "lemma": "legal",
+      "pos": "a",
+      "definition": "having legal efficacy or force",
+      "decision": "gloss",
+      "simpleMeaning": "officially valid and able to be enforced by law",
+      "scope": "It means something is valid under the law, not simply connected with courts or lawyers.",
+      "examples": [
+        "The contract is not legal until both people have signed it.",
+        "Two witnesses made the will legal."
+      ],
+      "branchCoverage": [
+        "having legal efficacy or force -> officially valid; able to be enforced by law"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pick%1:23:00::",
+      "lemma": "pick",
+      "pos": "n",
+      "definition": "the quantity of a crop that is harvested",
+      "decision": "gloss",
+      "simpleMeaning": "the amount of fruit or vegetables gathered in one harvest",
+      "scope": "It is the amount collected, not the act of choosing or a tool.",
+      "examples": [
+        "This year's apple pick was the best in years.",
+        "The farmers sold their whole pick at the market."
+      ],
+      "branchCoverage": [
+        "the quantity of a crop that is harvested -> amount of fruit or vegetables; gathered in one harvest"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick (noun) = the amount of a crop gathered in a harvest; pick (verb) = criticize someone again and again about small things.",
+      "meaning": "the amount of a crop gathered in one harvest",
+      "verdict": "self-approved",
+      "reviewerNote": "Narrows 'crop' to fruit/vegetables; grains, cotton excluded. Use 'the amount of a crop gathered in one harvest'."
+    },
+    {
+      "senseId": "pick%2:32:09::",
+      "lemma": "pick",
+      "pos": "v",
+      "definition": "harass with constant criticism",
+      "decision": "gloss",
+      "simpleMeaning": "to keep criticizing someone about small things",
+      "scope": "It is about constant criticism, not about choosing something or gathering fruit.",
+      "examples": [
+        "Stop picking at me about my clothes.",
+        "His boss picks on him every day."
+      ],
+      "branchCoverage": [
+        "harass with constant criticism -> keep criticizing; about small things"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pick (noun) = the amount of a crop gathered in a harvest; pick (verb) = criticize someone again and again about small things.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "seem%2:39:01::",
+      "lemma": "seem",
+      "pos": "v",
+      "definition": "(of a proposition) seem to be true, probable, or apparent",
+      "decision": "gloss",
+      "simpleMeaning": "to appear to be true or likely, used about statements and ideas",
+      "scope": "It is about ideas being likely, not about how a person or thing looks.",
+      "examples": [
+        "It seems that nobody told her the news.",
+        "There seems to be a mistake in the bill."
+      ],
+      "branchCoverage": [
+        "(of a proposition) seem to be true, probable, or apparent -> appear to be true or likely; used about statements and ideas (propositions)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "seven%1:06:00::",
+      "lemma": "seven",
+      "pos": "n",
+      "definition": "one of four playing cards in a deck with seven pips on the face",
+      "decision": "gloss",
+      "simpleMeaning": "a playing card of the rank just above six",
+      "scope": "It is a card, not the number itself.",
+      "examples": [
+        "He played a seven and won the trick.",
+        "She drew a seven from the deck."
+      ],
+      "branchCoverage": [
+        "one of four playing cards in a deck with seven pips on the face -> playing card; rank just above six; one of four in the deck"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sign%1:10:05::",
+      "lemma": "sign",
+      "pos": "n",
+      "definition": "a perceptible indication of something not immediately apparent (as a visible clue that something has happened)",
+      "decision": "gloss",
+      "simpleMeaning": "something you can see that shows something has happened or is true",
+      "scope": "It is a clue you notice, not a board with words on it or a hand gesture.",
+      "examples": [
+        "There were no signs that anyone had been in the room.",
+        "Mud on the floor was a sign that the dog had been inside."
+      ],
+      "branchCoverage": [
+        "a perceptible indication of something not immediately apparent (as a visible clue that something has happened) -> something you can see; shows that something is true; a clue that something happened; about something not obvious"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sign (noun, clue) = something seen that shows a fact or event; sign (verb, write name) = write your name on something; sign (noun, gesture) = a movement or action that sends a message; sign (verb, approve) = formally agree to something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sign%2:32:02::",
+      "lemma": "sign",
+      "pos": "v",
+      "definition": "mark with one's signature; write one's name (on)",
+      "decision": "gloss",
+      "simpleMeaning": "to write your name at the marked place on a document.",
+      "scope": "This is not a hand movement that sends a message, a public notice on a wall, or a clue that something has happened; it is only the act of adding your name.",
+      "examples": [
+        "Please sign the form at the bottom and return it to the desk.",
+        "The author signed each copy of her book."
+      ],
+      "branchCoverage": [
+        "mark with one's signature -> write your name at the marked place on a document",
+        "write one's name (on) -> write your name"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sign (n) = a visible clue that something has happened; sign (n) = a movement or gesture that sends a message; sign (v) = to write your name on a document; sign (v) = to officially agree to a deal or rule.",
+      "meaning": "to write your name on a letter, form, or picture.",
+      "verdict": "self-approved",
+      "reviewerNote": "Narrowed to document/marked place; book example contradicts. Use 'write your name on a letter, form, or picture.'"
+    },
+    {
+      "senseId": "sign%1:10:03::",
+      "lemma": "sign",
+      "pos": "n",
+      "definition": "any nonverbal action or gesture that encodes a message",
+      "decision": "gloss",
+      "simpleMeaning": "a movement or action of the hand or body that sends a message.",
+      "scope": "This is not a written name on a document, not a notice board, and not a visible clue that something has happened.",
+      "examples": [
+        "He made a sign with his hand for us to come closer.",
+        "She gave a small sign to show that she understood."
+      ],
+      "branchCoverage": [
+        "any nonverbal action or gesture that encodes a message -> a movement or action of the hand or body that sends a message"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sign (n) = a visible clue that something has happened; sign (n) = a movement or gesture that sends a message; sign (v) = to write your name on a document; sign (v) = to officially agree to a deal or rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sign%2:41:00::",
+      "lemma": "sign",
+      "pos": "v",
+      "definition": "approve and express assent, responsibility, or obligation",
+      "decision": "gloss",
+      "simpleMeaning": "to agree officially to a deal or rule and accept the duty that comes with it.",
+      "scope": "This is not the simple act of writing your name, and it is not a hand movement that gives a message; it is giving formal approval by that act.",
+      "examples": [
+        "Both sides signed the peace agreement on Friday.",
+        "He signed the lease, so the flat is ours for two years."
+      ],
+      "branchCoverage": [
+        "approve and express assent, responsibility, or obligation -> agree officially to a deal or rule and accept the duty that comes with it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sign (n) = a visible clue that something has happened; sign (n) = a movement or gesture that sends a message; sign (v) = to write your name on a document; sign (v) = to officially agree to a deal or rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "simple%1:20:00::",
+      "lemma": "simple",
+      "pos": "n",
+      "definition": "any herbaceous plant having medicinal properties",
+      "decision": "gloss",
+      "simpleMeaning": "an old name for a soft-stemmed plant that is used to treat illness.",
+      "scope": "This is not the usual adjective meaning 'easy' or 'plain'; here it names a kind of plant.",
+      "examples": [
+        "In the past, healers made medicines from simples grown in the garden.",
+        "The old herb book lists simples for coughs and fevers."
+      ],
+      "branchCoverage": [
+        "any herbaceous plant having medicinal properties -> soft-stemmed plant that is used to treat illness"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "staff%1:14:01::",
+      "lemma": "staff",
+      "pos": "n",
+      "definition": "personnel who assist their superior in carrying out an assigned task",
+      "decision": "gloss",
+      "simpleMeaning": "the group of people who work for a leader or an organization and help do the job.",
+      "scope": "This is not a long stick or pole, and it is not the verb meaning to supply workers.",
+      "examples": [
+        "The manager called all her staff into the meeting room.",
+        "Hospital staff worked through the night to help the injured."
+      ],
+      "branchCoverage": [
+        "personnel who assist their superior in carrying out an assigned task -> the group of people who work for a leader or an organization and help do the job"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "staff (n) = the people who work for an organization; staff (n) = a long strong stick made for a purpose; staff (v) = to supply workers; staff (v) = to work as one of the workers.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "staff%1:06:00::",
+      "lemma": "staff",
+      "pos": "n",
+      "definition": "a strong rod or stick with a specialized utilitarian purpose",
+      "decision": "gloss",
+      "simpleMeaning": "a long strong stick that is made for a particular job, such as walking or fighting.",
+      "scope": "This is not a group of workers; it is a physical object that you hold in your hand.",
+      "examples": [
+        "The shepherd leaned on his wooden staff as he walked.",
+        "She carried a long staff to help her cross the rocky stream."
+      ],
+      "branchCoverage": [
+        "a strong rod or stick with a specialized utilitarian purpose -> a long strong stick that is made for a particular job"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "staff (n) = the people who work for an organization; staff (n) = a long strong stick made for a purpose; staff (v) = to supply workers; staff (v) = to work as one of the workers.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "staff%2:33:00::",
+      "lemma": "staff",
+      "pos": "v",
+      "definition": "provide with staff",
+      "decision": "gloss",
+      "simpleMeaning": "to give a business or place the workers it needs.",
+      "scope": "This is not working as one of those workers yourself, and it is not the noun for the workers.",
+      "examples": [
+        "The new hotel is now fully staffed and ready for guests.",
+        "We need to staff the shop with two more people at weekends."
+      ],
+      "branchCoverage": [
+        "provide with staff -> give a business or place the workers it needs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "staff (n) = the people who work for an organization; staff (n) = a long strong stick made for a purpose; staff (v) = to supply workers; staff (v) = to work as one of the workers.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "staff%2:33:01::",
+      "lemma": "staff",
+      "pos": "v",
+      "definition": "serve on the staff of",
+      "decision": "gloss",
+      "simpleMeaning": "to be one of the workers who run a place or support a leader.",
+      "scope": "This is not giving other people jobs; it is being one of those workers yourself.",
+      "examples": [
+        "As a young reporter, he staffed the newspaper's Paris office.",
+        "She staffed the governor's office as a speech writer."
+      ],
+      "branchCoverage": [
+        "serve on the staff of -> be one of the workers who run a place or support a leader"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "staff (n) = the people who work for an organization; staff (n) = a long strong stick made for a purpose; staff (v) = to supply workers; staff (v) = to work as one of the workers.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "super%1:18:00::",
+      "lemma": "super",
+      "pos": "n",
+      "definition": "a caretaker for an apartment house; represents the owner as janitor and rent collector",
+      "decision": "gloss",
+      "simpleMeaning": "a person who looks after an apartment building for its owner and collects the rent.",
+      "scope": "This is not the adjective meaning 'very good' or 'excellent'; here it is a person with a job in a building.",
+      "examples": [
+        "The super fixed the broken tap in our kitchen.",
+        "Ask the super when the heating will come back on."
+      ],
+      "branchCoverage": [
+        "a caretaker for an apartment house -> a person who looks after an apartment building",
+        "represents the owner as janitor and rent collector -> for its owner and collects the rent"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "union%3:00:00::",
+      "lemma": "union",
+      "pos": "a",
+      "definition": "of trade unions",
+      "decision": "gloss",
+      "simpleMeaning": "connected with groups of workers who join together to ask for better pay and conditions.",
+      "scope": "This is not the noun for such a group itself, and not a country or organization formed by joining parts; it describes something belonging to worker groups.",
+      "examples": [
+        "The union leader spoke to the workers outside the factory.",
+        "Union rules say that overtime must be paid."
+      ],
+      "branchCoverage": [
+        "of trade unions -> connected with groups of workers who join together to ask for better pay and conditions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "walk%2:38:00::",
+      "lemma": "walk",
+      "pos": "v",
+      "definition": "use one's feet to advance; advance by steps",
+      "decision": "gloss",
+      "simpleMeaning": "to move forward on your feet, one step at a time.",
+      "scope": "This is not travelling in a car or on a bus, and not the noun for a journey on foot.",
+      "examples": [
+        "We walk to school every morning.",
+        "He walked slowly along the beach."
+      ],
+      "branchCoverage": [
+        "use one's feet to advance -> move forward on your feet",
+        "advance by steps -> one step at a time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "built%5:00:00:improved:00",
+      "lemma": "built",
+      "pos": "a",
+      "definition": "(used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness",
+      "decision": "gloss",
+      "simpleMeaning": "having an extra substance added to a soap or cleaner so that it works better.",
+      "scope": "This is not the usual meaning 'made or constructed'; it describes only soap and cleaning products with added ingredients.",
+      "examples": [
+        "This built soap cuts through grease faster than plain soap.",
+        "The label says the cleaning powder is built with minerals for extra strength."
+      ],
+      "branchCoverage": [
+        "(used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness -> a soap or cleaner ... an extra substance added ... works better"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "having an extra ingredient added to make it work better.",
+      "verdict": "self-approved",
+      "reviewerNote": "Misplaced modifier; says substance added to a soap. Use 'having an extra ingredient added to make it work better.'"
+    },
+    {
+      "senseId": "crazy%5:00:00:excited:00",
+      "lemma": "crazy",
+      "pos": "a",
+      "definition": "possessed by inordinate excitement",
+      "decision": "gloss",
+      "simpleMeaning": "extremely excited about something, in a way that seems wild.",
+      "scope": "This is not the sense 'mentally ill' and not the everyday sense 'very foolish'; it describes strong excitement about an event.",
+      "examples": [
+        "The fans went crazy when their team scored.",
+        "The children were crazy with excitement on the last day of school."
+      ],
+      "branchCoverage": [
+        "possessed by inordinate excitement -> extremely excited about something, in a way that seems wild"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "crazy = wild with excitement about something; crazy = mentally ill or insane.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "crazy%5:00:00:insane:00",
+      "lemma": "crazy",
+      "pos": "a",
+      "definition": "affected with madness or insanity",
+      "decision": "gloss",
+      "simpleMeaning": "suffering from a serious mental illness, so that the mind does not work normally.",
+      "scope": "This is not the sense 'wildly excited' and not the everyday sense 'very silly or foolish'; it refers to real mental illness.",
+      "examples": [
+        "The story tells of a king who went crazy and left his throne.",
+        "After weeks without sleep, he feared he was going crazy."
+      ],
+      "branchCoverage": [
+        "affected with madness or insanity -> suffering from a serious mental illness, so that the mind does not work normally"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "crazy = wild with excitement about something; crazy = mentally ill or insane.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "daily%5:00:00:informal:01",
+      "lemma": "daily",
+      "pos": "a",
+      "definition": "appropriate for ordinary or routine occasions",
+      "decision": "gloss",
+      "simpleMeaning": "suitable for normal, everyday use rather than for special events.",
+      "scope": "This is not the sense 'happening every day'; here it describes clothes or things used on ordinary days.",
+      "examples": [
+        "This coat is meant for daily wear, not for special occasions.",
+        "The shoes are plain and cheap, good for daily use."
+      ],
+      "branchCoverage": [
+        "appropriate for ordinary or routine occasions -> suitable for normal, everyday use rather than for special events"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "die%1:06:02::",
+      "lemma": "die",
+      "pos": "n",
+      "definition": "a cutting tool that is fitted into a diestock and used for cutting male (external) screw threads on screws or bolts or pipes or rods",
+      "decision": "gloss",
+      "simpleMeaning": "a metal tool that cuts the spiral ridges on the outside of a screw, bolt, or pipe.",
+      "scope": "This is not the small cube used in games, and not the verb meaning to stop living.",
+      "examples": [
+        "He turned the die onto the end of the rod to cut new threads.",
+        "A set of dies lets a mechanic make bolts of different sizes."
+      ],
+      "branchCoverage": [
+        "a cutting tool that is fitted into a diestock and used for cutting male (external) screw threads on screws or bolts or pipes or rods -> a metal tool that cuts the spiral ridges on the outside of a screw, bolt, or pipe"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "die (n) = the small cube with spots used in games; die (n) = a tool that cuts threads on screws and pipes; die (v) = to stop living; die (v) = to feel an emotion so strongly that it seems overwhelming.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "die%1:06:00::",
+      "lemma": "die",
+      "pos": "n",
+      "definition": "a small cube with 1 to 6 spots on the six faces; used in gambling to generate random numbers",
+      "decision": "gloss",
+      "simpleMeaning": "a small cube with a different number of dots on each side, thrown in games to get a random number.",
+      "scope": "This is not the cutting tool for screws, and not the verb meaning to stop living.",
+      "examples": [
+        "He rolled the die and got a six.",
+        "Each player throws the die once to begin the game."
+      ],
+      "branchCoverage": [
+        "a small cube with 1 to 6 spots on the six faces -> a small cube with a different number of dots on each side",
+        "used in gambling to generate random numbers -> thrown in games to get a random number"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "die (n) = the small cube with spots used in games; die (n) = a tool that cuts threads on screws and pipes; die (v) = to stop living; die (v) = to feel an emotion so strongly that it seems overwhelming.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "die%2:37:00::",
+      "lemma": "die",
+      "pos": "v",
+      "definition": "be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame",
+      "decision": "gloss",
+      "simpleMeaning": "to feel embarrassment, laughter, or shame so strongly that it seems you cannot bear it.",
+      "scope": "This is not actually stopping living; it is an exaggerated way to talk about very strong feelings.",
+      "examples": [
+        "I nearly died of embarrassment when I forgot her name.",
+        "We almost died laughing at his story."
+      ],
+      "branchCoverage": [
+        "be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame -> feel embarrassment, laughter, or shame so strongly that it seems you cannot bear it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "die (n) = the small cube with spots used in games; die (n) = a tool that cuts threads on screws and pipes; die (v) = to stop living; die (v) = to feel an emotion so strongly that it seems overwhelming.",
+      "meaning": "to feel embarrassment, amusement, or shame so strongly that it seems you cannot bear it.",
+      "verdict": "self-approved",
+      "reviewerNote": "Laughter cannot be felt; replace with amusement: 'to feel embarrassment, amusement, or shame so strongly...'"
+    },
+    {
+      "senseId": "die%2:30:00::",
+      "lemma": "die",
+      "pos": "v",
+      "definition": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "decision": "gloss",
+      "simpleMeaning": "to stop living; the body no longer breathes or works.",
+      "scope": "This is not the exaggerated use about strong feelings, and not the noun for a game cube or a cutting tool.",
+      "examples": [
+        "Her grandfather died last winter at the age of ninety.",
+        "Many young plants died in the long dry summer."
+      ],
+      "branchCoverage": [
+        "pass from physical life and lose all bodily attributes and functions necessary to sustain life -> stop living; the body no longer breathes or works"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "die (n) = the small cube with spots used in games; die (n) = a tool that cuts threads on screws and pipes; die (v) = to stop living; die (v) = to feel an emotion so strongly that it seems overwhelming.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "difficult%3:00:00::",
+      "lemma": "difficult",
+      "pos": "a",
+      "definition": "not easy; requiring great physical or mental effort to accomplish or comprehend or endure",
+      "decision": "gloss",
+      "simpleMeaning": "hard to do, understand, or deal with, and needing a lot of effort.",
+      "scope": "This is not about a person being unhelpful or hard to please; it describes a task, question, or situation that needs much effort.",
+      "examples": [
+        "The exam was difficult, but she passed it.",
+        "It is difficult to learn a new language as an adult."
+      ],
+      "branchCoverage": [
+        "not easy -> hard to do",
+        "requiring great physical or mental effort to accomplish or comprehend or endure -> understand, or deal with, and needing a lot of effort"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "figure%1:10:00::",
+      "lemma": "figure",
+      "pos": "n",
+      "definition": "a diagram or picture illustrating textual material",
+      "decision": "gloss",
+      "simpleMeaning": "a drawing or picture in a book that helps explain the words beside it.",
+      "scope": "This is not a number, a person's body shape, or a shape studied in maths; it is an illustration in a text.",
+      "examples": [
+        "Look at the figure on page ten to see how the water cycle works.",
+        "The report includes a figure showing the new bridge design."
+      ],
+      "branchCoverage": [
+        "a diagram or picture illustrating textual material -> a drawing or picture in a book that helps explain the words beside it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "a drawing or picture explaining the text in a book or report.",
+      "verdict": "self-approved",
+      "reviewerNote": "'in a book' excludes report example; use 'a drawing or picture explaining the text in a book or report.'"
+    },
+    {
+      "senseId": "hospital%1:14:00::",
+      "lemma": "hospital",
+      "pos": "n",
+      "definition": "a medical institution where sick or injured people are given medical or surgical care",
+      "decision": "gloss",
+      "simpleMeaning": "a place where doctors and nurses treat people who are ill or hurt.",
+      "scope": "This is not a pharmacy where you only buy medicine, and not a care home for older people; it is a place where ill or injured people receive treatment, often staying overnight.",
+      "examples": [
+        "She was taken to hospital after the accident.",
+        "The hospital has a new unit for children."
+      ],
+      "branchCoverage": [
+        "a medical institution where sick or injured people are given medical or surgical care -> a place where doctors and nurses treat people who are ill or hurt"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "modern%1:10:00::",
+      "lemma": "modern",
+      "pos": "n",
+      "definition": "a typeface (based on an 18th century design by Gianbattista Bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes",
+      "decision": "gloss",
+      "simpleMeaning": "a style of printed letters with very thin end lines and heavy upright strokes, based on an old Italian design.",
+      "scope": "This is not the adjective meaning 'of the present time'; here it names a particular style of printed letters.",
+      "examples": [
+        "Bodoni's modern is still used for fashion magazines.",
+        "The title page was set in a modern with very fine serifs."
+      ],
+      "branchCoverage": [
+        "a typeface (based on an 18th century design by Gianbattista Bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes -> a style of printed letters with very thin end lines and heavy upright strokes, based on an old Italian design"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "modern (n) = a style of printed letters; modern (a) = belonging to the present era since the Middle Ages; modern (a) = typical of present-day art, music, and building.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "modern%5:00:00:nonclassical:00",
+      "lemma": "modern",
+      "pos": "a",
+      "definition": "characteristic of present-day art and music and literature and architecture",
+      "decision": "gloss",
+      "simpleMeaning": "typical of the art, music, writing, or buildings of the present day.",
+      "scope": "This is not the sense 'existing since the Middle Ages', and not the noun for a style of letters; it describes current artistic work.",
+      "examples": [
+        "The gallery shows modern art from the last twenty years.",
+        "She prefers modern music to the songs her parents play."
+      ],
+      "branchCoverage": [
+        "characteristic of present-day art and music and literature and architecture -> typical of the art, music, writing, or buildings of the present day"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "modern (n) = a style of printed letters; modern (a) = belonging to the present era since the Middle Ages; modern (a) = typical of present-day art, music, and building.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "modern%3:00:00::",
+      "lemma": "modern",
+      "pos": "a",
+      "definition": "belonging to the modern era; since the Middle Ages",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to the period of history that began after the Middle Ages and continues today.",
+      "scope": "This is not the sense 'typical of present-day art'; it covers the whole historical period after the Middle Ages.",
+      "examples": [
+        "Modern history is usually taught after the medieval period.",
+        "The museum covers modern times, from about 1500 to the present."
+      ],
+      "branchCoverage": [
+        "belonging to the modern era -> belonging to the period of history that began after the Middle Ages",
+        "since the Middle Ages -> and continues today"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "modern (n) = a style of printed letters; modern (a) = belonging to the present era since the Middle Ages; modern (a) = typical of present-day art, music, and building.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

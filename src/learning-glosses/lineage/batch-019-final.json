@@ -1,0 +1,983 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 19,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 45,
+      "of": 50,
+      "rate": 0.9
+    },
+    "selfApproved": [
+      "starting%1:04:00::",
+      "voice%2:32:01::",
+      "goal%1:06:00::",
+      "deep%3:00:01::",
+      "risk%1:26:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted and one deferral recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "b90bd005e1d0a91ccf4df3c63e754f729f8ace94493faf50cc81844b00c6069e"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "paper%1:27:00::",
+      "lemma": "paper",
+      "pos": "n",
+      "definition": "a material made of cellulose pulp derived mainly from wood or rags or certain grasses",
+      "decision": "gloss",
+      "simpleMeaning": "a thin material made from soft wood fibre, cloth scraps or plant stems, used for writing, printing or wrapping.",
+      "scope": "Not a newspaper, an essay or an official document; it is only the thin material itself.",
+      "examples": [
+        "We need more paper for the printer.",
+        "He wrapped the fish in paper."
+      ],
+      "branchCoverage": [
+        "a material made of cellulose pulp derived mainly from wood or rags or certain grasses -> material; soft wood fibre (cellulose pulp); cloth scraps (rags); plant stems (grasses)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "paper (3 senses here): the thin writing material; a daily or weekly news publication; the verb meaning to cover something with a thin sheet material.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "paper%1:10:03::",
+      "lemma": "paper",
+      "pos": "n",
+      "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+      "decision": "gloss",
+      "simpleMeaning": "a printed publication that comes out every day or every week, with news, articles and adverts.",
+      "scope": "Not the thin material and not a school essay; it is the regular printed news publication.",
+      "examples": [
+        "He reads the daily paper on the train.",
+        "The story was on the front page of every weekly paper in the county."
+      ],
+      "branchCoverage": [
+        "a daily or weekly publication on folded sheets -> comes out every day or every week; printed publication",
+        "contains news and articles and advertisements -> news, articles, adverts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "paper (3 senses here): the thin writing material; a daily or weekly news publication; the verb meaning to cover something with a thin sheet material.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "paper%2:35:00::",
+      "lemma": "paper",
+      "pos": "v",
+      "definition": "cover with paper",
+      "decision": "gloss",
+      "simpleMeaning": "to cover something with a thin sheet material used for writing or wrapping.",
+      "scope": "Not writing on something or sending something for printing; it is only putting a covering layer over it.",
+      "examples": [
+        "The old ceiling was papered to hide the cracks.",
+        "She papered the box before painting it."
+      ],
+      "branchCoverage": [
+        "cover with paper -> cover; thin sheet material"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "paper (3 senses here): the thin writing material; a daily or weekly news publication; the verb meaning to cover something with a thin sheet material.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "popular%3:00:00::",
+      "lemma": "popular",
+      "pos": "a",
+      "definition": "regarded with great favor, approval, or affection especially by the general public",
+      "decision": "gloss",
+      "simpleMeaning": "liked or loved by a lot of ordinary people.",
+      "scope": "Not the sense of being made for everyone; here it is about how much people like someone or something.",
+      "examples": [
+        "This song is very popular with teenagers.",
+        "She was a popular teacher because she listened to her students."
+      ],
+      "branchCoverage": [
+        "regarded with great favor, approval, or affection especially by the general public -> liked or loved; by a lot of ordinary people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "popular (2 senses here): liked by many people; made for or aimed at ordinary people as a whole.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "popular%5:00:01:common:01",
+      "lemma": "popular",
+      "pos": "a",
+      "definition": "representing or appealing to or adapted for the benefit of the people at large",
+      "decision": "gloss",
+      "simpleMeaning": "made for or aimed at ordinary people as a whole, not just a small expert group.",
+      "scope": "Not the sense of being liked by many people; here it is about being made for or aimed at the general public.",
+      "examples": [
+        "He writes popular science books for the general reader.",
+        "The party promised popular reforms that would help ordinary families."
+      ],
+      "branchCoverage": [
+        "representing or appealing to or adapted for the benefit of the people at large -> made for or aimed at; ordinary people as a whole"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "popular (2 senses here): liked by many people; made for or aimed at ordinary people as a whole.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "published%5:00:00:publicized:00",
+      "lemma": "published",
+      "pos": "a",
+      "definition": "formally made public",
+      "decision": "gloss",
+      "simpleMeaning": "officially released so that everyone can read or see it.",
+      "scope": "Not a private or draft text, and not the act of releasing something; it describes work that has already been released to the public.",
+      "examples": [
+        "The published version of the report has fewer details than the draft.",
+        "Only published research can be checked by other scientists."
+      ],
+      "branchCoverage": [
+        "formally made public -> officially released; everyone can read or see it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "safe%1:06:02::",
+      "lemma": "safe",
+      "pos": "n",
+      "definition": "a ventilated or refrigerated cupboard for securing provisions from pests",
+      "decision": "gloss",
+      "simpleMeaning": "a cupboard with air holes or cooling, used to keep food away from insects and other animals.",
+      "scope": "Not the strong metal box for money and jewels; this is the cupboard that keeps food fresh and free from pests.",
+      "examples": [
+        "The milk was kept in the safe to stop the ants getting to it.",
+        "Grandma's old food safe hung on the cool wall of the pantry."
+      ],
+      "branchCoverage": [
+        "a ventilated or refrigerated cupboard for securing provisions from pests -> cupboard with air holes or cooling; keep food; away from insects and other animals"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "safe (2 senses here): a ventilated or cooled cupboard for keeping food; a strong locked box for valuables.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "safe%1:06:00::",
+      "lemma": "safe",
+      "pos": "n",
+      "definition": "strongbox where valuables can be safely kept",
+      "decision": "gloss",
+      "simpleMeaning": "a strong metal box with a lock, used to keep money and valuable things secure.",
+      "scope": "Not the ventilated food cupboard; this is the heavy locked box for money and valuables.",
+      "examples": [
+        "The jewels were locked in the safe.",
+        "Thieves broke into the office and carried off the safe."
+      ],
+      "branchCoverage": [
+        "strongbox where valuables can be safely kept -> strong metal box with a lock; money and valuable things; secure"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "safe (2 senses here): a ventilated or cooled cupboard for keeping food; a strong locked box for valuables.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "starting%1:04:00::",
+      "decision": "defer",
+      "verdict": "self-deferred",
+      "reason": "The noun survives only in fixed phrases such as \"a starting place\"; natural examples for the bare noun would be invented.",
+      "reviewerNote": "Examples ungrammatical ('his starting'); noun use non-idiomatic. Defer sense; if kept, 'He earned a starting place.'"
+    },
+    {
+      "senseId": "starting%5:00:00:opening:00",
+      "lemma": "starting",
+      "pos": "a",
+      "definition": "appropriate to the beginning or start of an event",
+      "decision": "gloss",
+      "simpleMeaning": "suitable for the opening part of an event.",
+      "scope": "Not the noun for the chance to play first; it describes something that belongs at the opening of an event.",
+      "examples": [
+        "The starting gun fired and the runners set off.",
+        "Her starting remarks welcomed everyone to the conference."
+      ],
+      "branchCoverage": [
+        "appropriate to the beginning or start of an event -> suitable; opening part of an event"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "starting (2 senses here): the noun meaning the chance to play from the beginning of a game; the adjective meaning suited to the opening of an event.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "voice%1:10:00::",
+      "lemma": "voice",
+      "pos": "n",
+      "definition": "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract",
+      "decision": "gloss",
+      "simpleMeaning": "the sound a person makes when speaking or singing, produced by air moving over small folds in the throat.",
+      "scope": "Not a person's opinion and not the special quality that makes speech recognizable; this is the physical sound itself.",
+      "examples": [
+        "Her voice was hoarse after the concert.",
+        "I could hear voices in the next room."
+      ],
+      "branchCoverage": [
+        "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract -> sound; small folds in the throat vibrate; shaped by the mouth and throat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice (5 senses here): the physical sound made in the throat; the verb meaning to make that sound; the recognizable quality of a person's speech; a sound that seems to come from a speaker; the verb meaning to express something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "voice%2:32:01::",
+      "lemma": "voice",
+      "pos": "v",
+      "definition": "utter with vibrating vocal chords",
+      "decision": "gloss",
+      "simpleMeaning": "to make a sound with the throat by making the small folds there vibrate.",
+      "scope": "Not expressing an opinion; this is only about making sound with the throat.",
+      "examples": [
+        "She voiced a low humming note.",
+        "The final sound in 'buzz' is voiced."
+      ],
+      "branchCoverage": [
+        "utter with vibrating vocal chords -> make a sound; vocal cords vibrate"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice (5 senses here): the physical sound made in the throat; the verb meaning to make that sound; the recognizable quality of a person's speech; a sound that seems to come from a speaker; the verb meaning to express something.",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 restates the gloss, not usage; use 'She voiced a low humming note.'"
+    },
+    {
+      "senseId": "voice%1:07:00::",
+      "lemma": "voice",
+      "pos": "n",
+      "definition": "the distinctive quality or pitch or condition of a person's speech",
+      "decision": "gloss",
+      "simpleMeaning": "the special sound of a person's speech that lets you know who is talking and how they feel.",
+      "scope": "Not the plain physical sound, not a sound that only seems human, and not an opinion; it is what makes one person's speech recognizable.",
+      "examples": [
+        "I knew it was Dad on the phone from his deep voice.",
+        "Her voice shook as she read the letter."
+      ],
+      "branchCoverage": [
+        "the distinctive quality or pitch or condition of a person's speech -> special sound; high or low pitch; state of the speech; lets you know who is talking and how they feel"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice (5 senses here): the physical sound made in the throat; the verb meaning to make that sound; the recognizable quality of a person's speech; a sound that seems to come from a speaker; the verb meaning to express something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "voice%1:11:00::",
+      "lemma": "voice",
+      "pos": "n",
+      "definition": "a sound suggestive of a vocal utterance",
+      "decision": "gloss",
+      "simpleMeaning": "a sound that seems to be speaking or calling, though it does not come from a person.",
+      "scope": "Not a real person speaking and not an opinion; it is another sound that makes you think of a person's voice.",
+      "examples": [
+        "The voice of the wind howled through the trees.",
+        "He heard the voice of the sea in the shell."
+      ],
+      "branchCoverage": [
+        "a sound suggestive of a vocal utterance -> a sound; seems to be speaking or calling; not from a person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice (5 senses here): the physical sound made in the throat; the verb meaning to make that sound; the recognizable quality of a person's speech; a sound that seems to come from a speaker; the verb meaning to express something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "voice%2:32:00::",
+      "lemma": "voice",
+      "pos": "v",
+      "definition": "give voice to",
+      "decision": "gloss",
+      "simpleMeaning": "to say or express something openly, especially a feeling or opinion.",
+      "scope": "Not making a sound with the throat; this is about putting a feeling or idea into words.",
+      "examples": [
+        "She voiced her doubts about the plan at the meeting.",
+        "The workers voiced their anger over the pay cut."
+      ],
+      "branchCoverage": [
+        "give voice to -> say or express openly"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "voice (5 senses here): the physical sound made in the throat; the verb meaning to make that sound; the recognizable quality of a person's speech; a sound that seems to come from a speaker; the verb meaning to express something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "earth%1:15:01::",
+      "lemma": "earth",
+      "pos": "n",
+      "definition": "the abode of mortals (as contrasted with Heaven or Hell)",
+      "decision": "gloss",
+      "simpleMeaning": "the world where people live, seen as different from heaven or hell.",
+      "scope": "Not the planet as a physical body and not the ground under your feet; this is the human world in a religious contrast.",
+      "examples": [
+        "He believed good deeds on earth would be rewarded later.",
+        "The prayer asks for peace on earth."
+      ],
+      "branchCoverage": [
+        "the abode of mortals (as contrasted with Heaven or Hell) -> the world where people live; as opposed to heaven or hell"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "earth (4 senses here): the human world as opposed to heaven or hell; the verb meaning to hide underground like a hunted animal; solid ground rather than sea or sky; the verb meaning to connect electrically to the ground.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "earth%2:39:00::",
+      "lemma": "earth",
+      "pos": "v",
+      "definition": "hide in the earth like a hunted animal",
+      "decision": "gloss",
+      "simpleMeaning": "to hide by going into a hole in the ground, as a hunted animal does.",
+      "scope": "Not connecting a wire to the ground; this is about an animal hiding underground.",
+      "examples": [
+        "The fox earthed among the tree roots when the dogs arrived.",
+        "Hunted animals often earth to escape danger."
+      ],
+      "branchCoverage": [
+        "hide in the earth like a hunted animal -> hide; going into a hole in the ground; as a hunted animal does"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "earth (4 senses here): the human world as opposed to heaven or hell; the verb meaning to hide underground like a hunted animal; solid ground rather than sea or sky; the verb meaning to connect electrically to the ground.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "earth%1:17:01::",
+      "lemma": "earth",
+      "pos": "n",
+      "definition": "the solid part of the earth's surface",
+      "decision": "gloss",
+      "simpleMeaning": "the dry land or ground, rather than the sea or the sky.",
+      "scope": "Not the whole planet and not the human world in a religious sense; this is solid ground rather than sea or sky.",
+      "examples": [
+        "The bird flew low over the earth before landing.",
+        "He fell to the earth and lay still."
+      ],
+      "branchCoverage": [
+        "the solid part of the earth's surface -> dry land or ground; rather than the sea or the sky"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "earth (4 senses here): the human world as opposed to heaven or hell; the verb meaning to hide underground like a hunted animal; solid ground rather than sea or sky; the verb meaning to connect electrically to the ground.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "earth%2:35:00::",
+      "lemma": "earth",
+      "pos": "v",
+      "definition": "connect to the earth",
+      "decision": "gloss",
+      "simpleMeaning": "to join a wire or piece of equipment to the ground so that electricity can flow away safely.",
+      "scope": "Not an animal hiding underground; this is about electrical wiring.",
+      "examples": [
+        "The metal case must be earthed to prevent shocks.",
+        "An electrician came to earth the new wiring."
+      ],
+      "branchCoverage": [
+        "connect to the earth -> join a wire or piece of equipment to the ground"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "earth (4 senses here): the human world as opposed to heaven or hell; the verb meaning to hide underground like a hunted animal; solid ground rather than sea or sky; the verb meaning to connect electrically to the ground.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forget%2:31:03::",
+      "lemma": "forget",
+      "pos": "v",
+      "definition": "forget to do something",
+      "decision": "gloss",
+      "simpleMeaning": "to fail to do something because it slipped from your mind.",
+      "scope": "Not losing the memory of a fact or a person; here the point is that a planned action was not done.",
+      "examples": [
+        "I forgot to call the dentist again.",
+        "Don't forget to bring your passport."
+      ],
+      "branchCoverage": [
+        "forget to do something -> fail to do something; slipped from your mind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "goal%1:09:00::",
+      "lemma": "goal",
+      "pos": "n",
+      "definition": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+      "decision": "gloss",
+      "simpleMeaning": "the result that you are trying to reach with a plan.",
+      "scope": "Not the net or posts in a game and not the point scored; this is the aim you work towards.",
+      "examples": [
+        "Her goal is to run a marathon next year.",
+        "The company set a clear goal for the next quarter."
+      ],
+      "branchCoverage": [
+        "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it -> the result you are trying to reach; with a plan"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "goal (2 senses here): the aim a plan is meant to reach; the physical frame or area where players try to send the ball.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "goal%1:06:00::",
+      "lemma": "goal",
+      "pos": "n",
+      "definition": "game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points",
+      "decision": "gloss",
+      "simpleMeaning": "the frame or area on the field where players try to send the ball in order to score.",
+      "scope": "Not the aim you work towards and not the point scored; this is the physical target on the field.",
+      "examples": [
+        "The ball hit the post and bounced away from the goal.",
+        "He stood in front of the goal, ready to save the shot."
+      ],
+      "branchCoverage": [
+        "game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points -> the frame or area on the field; players try to send the ball; to score"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "goal (2 senses here): the aim a plan is meant to reach; the physical frame or area where players try to send the ball.",
+      "meaning": "the frame or area where players send the ball or puck.",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'puck' and rinks; say 'the frame or area where players send the ball or puck.'"
+    },
+    {
+      "senseId": "huge%5:00:01:large:00",
+      "lemma": "huge",
+      "pos": "a",
+      "definition": "unusually great in size or amount or degree or especially extent or scope",
+      "decision": "gloss",
+      "simpleMeaning": "very big in size, amount or degree.",
+      "scope": "Not just a little large; it suggests something unusually big.",
+      "examples": [
+        "They live in a huge house near the river.",
+        "The concert was a huge success."
+      ],
+      "branchCoverage": [
+        "unusually great in size or amount or degree or especially extent or scope -> very big; size, amount or degree; more than usual"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "listen%2:39:01::",
+      "lemma": "listen",
+      "pos": "v",
+      "definition": "listen and pay attention",
+      "decision": "gloss",
+      "simpleMeaning": "to give your attention to a sound or to what someone is saying.",
+      "scope": "Not hearing something by accident; this means paying attention on purpose.",
+      "examples": [
+        "She listened carefully to the instructions.",
+        "I like to listen to music while I cook."
+      ],
+      "branchCoverage": [
+        "listen and pay attention -> give your attention; to a sound or to what someone is saying"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "okay%4:02:00::",
+      "lemma": "okay",
+      "pos": "r",
+      "definition": "in a satisfactory or adequate manner",
+      "decision": "gloss",
+      "simpleMeaning": "in a way that is good enough, though not excellent.",
+      "scope": "Not the adjective meaning acceptable and not the spoken word of agreement; here it tells how something was done.",
+      "examples": [
+        "The team played okay, but they can do better.",
+        "Everything went okay at the interview."
+      ],
+      "branchCoverage": [
+        "in a satisfactory or adequate manner -> in a way that is good enough; though not excellent"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "practice%2:41:00::",
+      "lemma": "practice",
+      "pos": "v",
+      "definition": "carry out or practice; as of jobs and professions",
+      "decision": "gloss",
+      "simpleMeaning": "to work in a job that needs special training, such as medicine or law",
+      "scope": "This is not training by repeating an activity to get better at it, and it is not a habit or custom.",
+      "examples": [
+        "She has practiced law in London for twenty years.",
+        "He practices medicine in a small country clinic."
+      ],
+      "branchCoverage": [
+        "carry out or practice -> to work in",
+        "as of jobs and professions -> a job that needs special training, such as medicine or law"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sea%1:17:00::",
+      "lemma": "sea",
+      "pos": "n",
+      "definition": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "decision": "gloss",
+      "simpleMeaning": "a large part of the ocean, or a big area of salt water that is partly surrounded by land",
+      "scope": "This is not rough water during a storm, and it is not a lake of fresh water.",
+      "examples": [
+        "The Mediterranean is a sea between Europe and Africa.",
+        "We swam in the warm sea near the coast."
+      ],
+      "branchCoverage": [
+        "a division of an ocean or a large body of salt water partially enclosed by land -> a large part of the ocean, or a big area of salt water that is partly surrounded by land"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sea (1) n: a large salt-water area that is part of the ocean and partly enclosed by land; sea (2) n: rough water with big waves, especially in bad weather.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sea%1:19:00::",
+      "lemma": "sea",
+      "pos": "n",
+      "definition": "turbulent water with swells of considerable size",
+      "decision": "gloss",
+      "simpleMeaning": "rough water with big rolling waves, especially in bad weather",
+      "scope": "This is not a named area of salt water, but the rough condition of the water itself.",
+      "examples": [
+        "The small boat rocked in a heavy sea.",
+        "The fishermen stayed in port because the seas were too high."
+      ],
+      "branchCoverage": [
+        "turbulent water with swells of considerable size -> rough water with big rolling waves"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sea (1) n: a large salt-water area that is part of the ocean and partly enclosed by land; sea (2) n: rough water with big waves, especially in bad weather.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "success%1:04:00::",
+      "lemma": "success",
+      "pos": "n",
+      "definition": "an attainment that is successful",
+      "decision": "gloss",
+      "simpleMeaning": "something you have managed to do well after trying",
+      "scope": "This is one thing that went well, not the general state of being rich or famous.",
+      "examples": [
+        "Her first book was a great success.",
+        "The experiment was a success, and the results were published."
+      ],
+      "branchCoverage": [
+        "an attainment that is successful -> something you have managed to do well"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "waiting%1:04:00::",
+      "lemma": "waiting",
+      "pos": "n",
+      "definition": "the act of waiting (remaining inactive in one place while expecting something)",
+      "decision": "gloss",
+      "simpleMeaning": "staying in one place until something happens or someone arrives",
+      "scope": "This is the activity itself, not the length of time that passes while you do it.",
+      "examples": [
+        "After two hours of waiting, we finally saw the doctor.",
+        "The waiting was the hardest part of the day."
+      ],
+      "branchCoverage": [
+        "the act of waiting (remaining inactive in one place while expecting something) -> staying in one place until something happens or someone arrives"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ways%1:06:00::",
+      "lemma": "ways",
+      "pos": "n",
+      "definition": "structure consisting of a sloping way down to the water from the place where ships are built or repaired",
+      "decision": "gloss",
+      "simpleMeaning": "a sloping track that lets ships slide down into the water after they are built or repaired",
+      "scope": "This is not a road or a method, but a shipyard structure for moving ships into the water.",
+      "examples": [
+        "The ship slid down the ways into the harbor.",
+        "Workers repaired the wooden ways at the old shipyard."
+      ],
+      "branchCoverage": [
+        "structure consisting of a sloping way down to the water from the place where ships are built or repaired -> a sloping track that lets ships slide down into the water after they are built or repaired"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "access%2:38:00::",
+      "lemma": "access",
+      "pos": "v",
+      "definition": "reach or gain access to",
+      "decision": "gloss",
+      "simpleMeaning": "to get to a place or reach something you need",
+      "scope": "This is the act of reaching something, not the official right or permission to use it.",
+      "examples": [
+        "You can access your files from any computer.",
+        "Rescue teams could not access the building for hours."
+      ],
+      "branchCoverage": [
+        "reach or gain access to -> to get to a place or reach something you need"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "base%2:34:00::",
+      "lemma": "base",
+      "pos": "v",
+      "definition": "use (purified cocaine) by burning it and inhaling the fumes",
+      "decision": "gloss",
+      "simpleMeaning": "to smoke a strong, purified form of cocaine after heating it",
+      "scope": "This is not using something as a foundation, and it is not the lowest part of anything.",
+      "examples": [
+        "In the 1980s, some users based cocaine instead of snorting it.",
+        "The report explains how the drug is based and then breathed in."
+      ],
+      "branchCoverage": [
+        "use (purified cocaine) by burning it and inhaling the fumes -> to smoke a strong, purified form of cocaine after heating it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "base (1) v: to heat and breathe in a strong, purified form of cocaine; base (2) adj: made of or mixed with a cheaper, low-quality metal.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "base%5:00:00:inferior:02",
+      "lemma": "base",
+      "pos": "a",
+      "definition": "(used of metals) consisting of or alloyed with inferior metal",
+      "decision": "gloss",
+      "simpleMeaning": "made of or mixed with a cheaper, low-quality metal",
+      "scope": "It describes the quality of metal, not something morally low or the bottom part of an object.",
+      "examples": [
+        "The base metal was covered with a thin layer of gold.",
+        "These cheap coins are made of base metal."
+      ],
+      "branchCoverage": [
+        "(used of metals) consisting of or alloyed with inferior metal -> made of or mixed with a cheaper, low-quality metal"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "base (1) v: to heat and breathe in a strong, purified form of cocaine; base (2) adj: made of or mixed with a cheaper, low-quality metal.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "below%4:02:06::",
+      "lemma": "below",
+      "pos": "r",
+      "definition": "on a floor below",
+      "decision": "gloss",
+      "simpleMeaning": "on the floor or level under the one you are on",
+      "scope": "It means on a lower floor of a building, not lower than a particular thing in general.",
+      "examples": [
+        "The kitchen is below, and the bedrooms are upstairs.",
+        "We could hear the neighbors talking in the flat below."
+      ],
+      "branchCoverage": [
+        "on a floor below -> on the floor or level under the one you are on"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deep%3:00:01::",
+      "lemma": "deep",
+      "pos": "a",
+      "definition": "having great spatial extension or penetration downward or inward from an outer surface or backward or laterally or outward from a center; sometimes used in combination",
+      "decision": "gloss",
+      "simpleMeaning": "going a long way down or in from the outside",
+      "scope": "This is about physical distance from the outside to the inside, not about strong feelings.",
+      "examples": [
+        "The water is deep here, so be careful.",
+        "They dug a deep hole in the garden."
+      ],
+      "branchCoverage": [
+        "having great spatial extension or penetration downward or inward from an outer surface or backward or laterally or outward from a center -> going a long way down or in from the outside",
+        "sometimes used in combination -> labelBranches (usage label: the adjective also appears in compounds such as knee-deep)"
+      ],
+      "labelBranches": [
+        "sometimes used in combination"
+      ],
+      "lemmaPartition": "deep (1) adj: going a long way down or in from the outside; deep (2) n: a long, narrow, low area on the ocean floor; deep (3) adj: strong and felt very strongly.",
+      "meaning": "going a long way down, in, back, or across from the outside",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'backward/laterally/outward from a center'; use 'going a long way down, in, back or across from the outside'."
+    },
+    {
+      "senseId": "deep%1:17:00::",
+      "lemma": "deep",
+      "pos": "n",
+      "definition": "a long steep-sided depression in the ocean floor",
+      "decision": "gloss",
+      "simpleMeaning": "a long, narrow, very low area with steep sides at the bottom of the ocean",
+      "scope": "It is a low place on the ocean floor, not the distance from the surface to the bottom.",
+      "examples": [
+        "The Pacific has many deeps, some deeper than any mountain is tall.",
+        "Their ship passed over a deep where the ocean floor drops sharply."
+      ],
+      "branchCoverage": [
+        "a long steep-sided depression in the ocean floor -> a long, narrow, very low area with steep sides at the bottom of the ocean"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deep (1) adj: going a long way down or in from the outside; deep (2) n: a long, narrow, low area on the ocean floor; deep (3) adj: strong and felt very strongly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deep%3:00:02::",
+      "lemma": "deep",
+      "pos": "a",
+      "definition": "relatively deep or strong; affecting one deeply",
+      "decision": "gloss",
+      "simpleMeaning": "strong and felt very strongly",
+      "scope": "This is about strong feelings, not about physical distance or depth.",
+      "examples": [
+        "She felt a deep sadness after the news.",
+        "They have a deep respect for their old teacher."
+      ],
+      "branchCoverage": [
+        "relatively deep or strong -> strong",
+        "affecting one deeply -> felt very strongly"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deep (1) adj: going a long way down or in from the outside; deep (2) n: a long, narrow, low area on the ocean floor; deep (3) adj: strong and felt very strongly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "offer%1:10:00::",
+      "lemma": "offer",
+      "pos": "n",
+      "definition": "something offered (as a proposal or bid)",
+      "decision": "gloss",
+      "simpleMeaning": "something that someone says they will give you or do for you, or an amount they will pay",
+      "scope": "It is the thing or amount that is proposed, not the act of saying it.",
+      "examples": [
+        "She accepted the job offer.",
+        "They made a low offer for the house."
+      ],
+      "branchCoverage": [
+        "something offered (as a proposal or bid) -> something that someone says they will give you or do for you, or an amount they will pay"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "offer (1) n: the thing or amount that someone proposes to give; offer (2) n: the act of saying that you will give or do something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "offer%1:10:01::",
+      "lemma": "offer",
+      "pos": "n",
+      "definition": "the verbal act of offering",
+      "decision": "gloss",
+      "simpleMeaning": "the act of saying that you will give something or do something",
+      "scope": "It is the act of saying it, not the thing or amount that is proposed.",
+      "examples": [
+        "His offer of help came at exactly the right moment.",
+        "The offer to drive us home was very kind."
+      ],
+      "branchCoverage": [
+        "the verbal act of offering -> the act of saying that you will give something or do something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "offer (1) n: the thing or amount that someone proposes to give; offer (2) n: the act of saying that you will give or do something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pass%2:41:02::",
+      "lemma": "pass",
+      "pos": "v",
+      "definition": "make laws, bills, etc. or bring into effect by legislation",
+      "decision": "gloss",
+      "simpleMeaning": "to officially approve a law so that it can start being used",
+      "scope": "This is about approving laws, not about moving by something or succeeding in a test.",
+      "examples": [
+        "Parliament passed the new law last month.",
+        "The council passed a rule banning cars in the square."
+      ],
+      "branchCoverage": [
+        "make laws, bills, etc. or bring into effect by legislation -> to officially approve a law so that it can start being used"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "professional%3:00:01::",
+      "lemma": "professional",
+      "pos": "a",
+      "definition": "engaged in a profession or engaging in as a profession or means of livelihood",
+      "decision": "gloss",
+      "simpleMeaning": "doing a skilled job as your paid work",
+      "scope": "It describes someone who earns a living from a skilled job, not the quality of their work.",
+      "examples": [
+        "She is a professional photographer, not an amateur.",
+        "Many professional athletes train every day."
+      ],
+      "branchCoverage": [
+        "engaged in a profession or engaging in as a profession or means of livelihood -> doing a skilled job as your paid work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "professional (1) adj: earning a living from a skilled job; professional (2) adj: done with the skill and care expected of a trained worker; professional (3) adj: connected with a type of skilled job; professional (4) n: a person whose job needs a lot of training.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "professional%3:00:02::",
+      "lemma": "professional",
+      "pos": "a",
+      "definition": "characteristic of or befitting a profession or one engaged in a profession",
+      "decision": "gloss",
+      "simpleMeaning": "done with the skill and care that a trained worker should show",
+      "scope": "It describes how well something is done, not the job itself or the person who does it.",
+      "examples": [
+        "The report was written in a professional way.",
+        "His professional attitude impressed the clients."
+      ],
+      "branchCoverage": [
+        "characteristic of or befitting a profession or one engaged in a profession -> done with the skill and care that a trained worker should show"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "professional (1) adj: earning a living from a skilled job; professional (2) adj: done with the skill and care expected of a trained worker; professional (3) adj: connected with a type of skilled job; professional (4) n: a person whose job needs a lot of training.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "professional%3:01:01::",
+      "lemma": "professional",
+      "pos": "a",
+      "definition": "of or relating to or suitable as a profession",
+      "decision": "gloss",
+      "simpleMeaning": "connected with a type of job that needs special training",
+      "scope": "It links something to a type of job; it does not say that a person earns money from a skill.",
+      "examples": [
+        "She joined a professional body for engineers.",
+        "Professional training for nurses takes several years."
+      ],
+      "branchCoverage": [
+        "of or relating to or suitable as a profession -> connected with a type of job that needs special training"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "professional (1) adj: earning a living from a skilled job; professional (2) adj: done with the skill and care expected of a trained worker; professional (3) adj: connected with a type of skilled job; professional (4) n: a person whose job needs a lot of training.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "professional%1:18:00::",
+      "lemma": "professional",
+      "pos": "n",
+      "definition": "a person engaged in one of the learned professions",
+      "decision": "gloss",
+      "simpleMeaning": "someone whose job needs a lot of training and special knowledge",
+      "scope": "It means a trained worker, not the standard of work done or a job area.",
+      "examples": [
+        "The survey asked doctors, lawyers and other professionals.",
+        "Professionals such as teachers and nurses are in demand."
+      ],
+      "branchCoverage": [
+        "a person engaged in one of the learned professions -> someone whose job needs a lot of training and special knowledge"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "professional (1) adj: earning a living from a skilled job; professional (2) adj: done with the skill and care expected of a trained worker; professional (3) adj: connected with a type of skilled job; professional (4) n: a person whose job needs a lot of training.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "risk%1:07:02::",
+      "lemma": "risk",
+      "pos": "n",
+      "definition": "the probability of becoming infected given that exposure to an infectious agent has occurred",
+      "decision": "gloss",
+      "simpleMeaning": "the chance that you will catch an illness after you have been near the germ",
+      "scope": "It is the chance of becoming ill, not danger or loss in general.",
+      "examples": [
+        "The risk of infection is high in dirty water.",
+        "Tests showed only a low risk of catching the disease."
+      ],
+      "branchCoverage": [
+        "the probability of becoming infected given that exposure to an infectious agent has occurred -> the chance that you will catch an illness after you have been near the germ"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "risk (1) n: the chance of catching an illness after contact with germs; risk (2) n: a danger or the chance of losing something; risk (3) n: a bold action taken although it may cause loss or harm.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "risk%1:26:00::",
+      "lemma": "risk",
+      "pos": "n",
+      "definition": "a source of danger; a possibility of incurring loss or misfortune",
+      "decision": "gloss",
+      "simpleMeaning": "something that could cause harm, or the chance of losing something",
+      "scope": "It is a danger or a possible loss, not the chance of catching a disease.",
+      "examples": [
+        "Smoking is a serious risk to health.",
+        "There is a risk that the whole plan will fail."
+      ],
+      "branchCoverage": [
+        "a source of danger -> something that could cause harm",
+        "a possibility of incurring loss or misfortune -> the chance of losing something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "risk (1) n: the chance of catching an illness after contact with germs; risk (2) n: a danger or the chance of losing something; risk (3) n: a bold action taken although it may cause loss or harm.",
+      "meaning": "something that could cause harm, or the chance something bad happens",
+      "verdict": "self-approved",
+      "reviewerNote": "Drops 'misfortune'; plan-failure example uncovered. Use 'something that could cause harm or the chance something bad happens'."
+    },
+    {
+      "senseId": "risk%1:04:00::",
+      "lemma": "risk",
+      "pos": "n",
+      "definition": "a venture undertaken without regard to possible loss or injury",
+      "decision": "gloss",
+      "simpleMeaning": "an action you take even though it may cost you something or hurt you",
+      "scope": "It is the bold action itself, not the danger or the chance of loss.",
+      "examples": [
+        "Climbing the mountain alone was a big risk.",
+        "He took a risk and put all his savings into the shop."
+      ],
+      "branchCoverage": [
+        "a venture undertaken without regard to possible loss or injury -> an action you take even though it may cost you something or hurt you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "risk (1) n: the chance of catching an illness after contact with germs; risk (2) n: a danger or the chance of losing something; risk (3) n: a bold action taken although it may cause loss or harm.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sleep%1:26:00::",
+      "lemma": "sleep",
+      "pos": "n",
+      "definition": "a natural and periodic state of rest during which consciousness of the world is suspended",
+      "decision": "gloss",
+      "simpleMeaning": "the regular state of rest when you are not awake and not aware of anything",
+      "scope": "This is normal rest at night, not a still, dull state caused by illness or cold.",
+      "examples": [
+        "She needs eight hours of sleep a night.",
+        "The baby fell into a deep sleep."
+      ],
+      "branchCoverage": [
+        "a natural and periodic state of rest during which consciousness of the world is suspended -> the regular state of rest when you are not awake and not aware of anything"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sleep (1) n: the normal state of rest when you are not awake; sleep (2) n: a long, still state like sleep caused by illness or cold.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sleep%1:26:02::",
+      "lemma": "sleep",
+      "pos": "n",
+      "definition": "a torpid state resembling deep sleep",
+      "decision": "gloss",
+      "simpleMeaning": "a long, still state in which a person or animal is not awake and does not move much",
+      "scope": "This is not normal rest; it is a long, still condition caused by illness, cold or the needs of an animal's body.",
+      "examples": [
+        "The sick animal lay in a sleep from which it did not wake.",
+        "Some animals fall into a long sleep when the weather turns cold."
+      ],
+      "branchCoverage": [
+        "a torpid state resembling deep sleep -> a long, still state in which a person or animal is not awake and does not move much"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sleep (1) n: the normal state of rest when you are not awake; sleep (2) n: a long, still state like sleep caused by illness or cold.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

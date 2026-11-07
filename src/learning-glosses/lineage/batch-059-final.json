@@ -1,0 +1,1208 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 59,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 45,
+      "of": 50,
+      "rate": 0.9
+    },
+    "selfApproved": [
+      "break%2:41:00::",
+      "present%2:32:03::",
+      "present%2:32:04::",
+      "guess%2:31:02::",
+      "bank%1:21:01::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "3cab89fa88e80002ee097e860799d04161d14aae927c7ad39feadd934f21c7f2"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "test%2:32:08::",
+      "lemma": "test",
+      "pos": "v",
+      "definition": "determine the presence or properties of (a substance)",
+      "sourceBranches": [
+        "determine the presence or properties of (a substance)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "find out whether a particular substance is present, or discover its qualities",
+      "scope": "This is about checking a material for something, not about giving someone an exam or trying a product to see if it works.",
+      "examples": [
+        "The clinic tested his blood for traces of the drug.",
+        "Engineers tested the alloy to learn how it behaves under heat."
+      ],
+      "branchCoverage": [
+        "determine the presence or properties of (a substance) -> find out whether a particular substance is present, or discover its qualities"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "view%1:06:00::",
+      "lemma": "view",
+      "pos": "n",
+      "definition": "graphic art consisting of the graphic or photographic representation of a visual percept",
+      "sourceBranches": [
+        "graphic art consisting of the graphic or photographic representation of a visual percept"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a picture made as art, drawn or photographic, that represents something seen",
+      "scope": "This is a picture of a scene, not an opinion or belief about something.",
+      "examples": [
+        "The gallery hung a view of the harbor at sunset.",
+        "The postcard shows a view of the old town from the hill."
+      ],
+      "branchCoverage": [
+        "graphic art consisting of the graphic or photographic representation of a visual percept -> a picture made as art, drawn or photographic, that represents something seen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "view%1:06:00:: -> a picture or photograph of a scene; view%1:10:00:: -> a statement of what you believe about something; view%1:09:04:: -> a personal judgment not based on proof",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "view%1:10:00::",
+      "lemma": "view",
+      "pos": "n",
+      "definition": "a message expressing a belief about something; the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof",
+      "sourceBranches": [
+        "a message expressing a belief about something",
+        "the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a statement of what someone believes about something, said with confidence although no direct knowledge or proof supports it",
+      "scope": "This is an opinion someone puts into words, not a private judgment kept to oneself and not a picture of a scene.",
+      "examples": [
+        "In her view, the new policy does more harm than good.",
+        "He made his views on the matter clear at the meeting."
+      ],
+      "branchCoverage": [
+        "a message expressing a belief about something -> a statement of what someone believes about something",
+        "the expression of a belief that is held with confidence but not substantiated by positive knowledge or proof -> said with confidence although no direct knowledge or proof supports it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "view%1:06:00:: -> a picture or photograph of a scene; view%1:10:00:: -> a statement of what you believe about something; view%1:09:04:: -> a personal judgment not based on proof",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "view%1:09:04::",
+      "lemma": "view",
+      "pos": "n",
+      "definition": "a personal belief or judgment that is not founded on proof or certainty",
+      "sourceBranches": [
+        "a personal belief or judgment that is not founded on proof or certainty"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a belief or opinion of your own that is not based on proof or certainty",
+      "scope": "This is a judgment held in the mind, not an opinion spoken out to others and not a picture.",
+      "examples": [
+        "He holds the view that hard work always pays off.",
+        "Their view of the newcomer was shaped by rumor rather than fact."
+      ],
+      "branchCoverage": [
+        "a personal belief or judgment that is not founded on proof or certainty -> a belief or opinion of your own that is not based on proof or certainty"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "view%1:06:00:: -> a picture or photograph of a scene; view%1:10:00:: -> a statement of what you believe about something; view%1:09:04:: -> a personal judgment not based on proof",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:41:11::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "enter someone's (virtual or real) property in an unauthorized manner, usually with the intent to steal or commit a violent act",
+      "sourceBranches": [
+        "enter someone's (virtual or real) property in an unauthorized manner, usually with the intent to steal or commit a violent act"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "get into another person's property, real or online, without permission, usually meaning to steal or do violence",
+      "scope": "This is unlawful entry into a place or account, not smashing an object and not merely ignoring a rule.",
+      "examples": [
+        "Someone broke into the warehouse through a side window.",
+        "Hackers broke into the company's servers overnight."
+      ],
+      "branchCoverage": [
+        "enter someone's (virtual or real) property in an unauthorized manner, usually with the intent to steal or commit a violent act -> get into another person's property, real or online, without permission, usually meaning to steal or do violence"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:04:06::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "any frame in which a bowler fails to make a strike or spare",
+      "sourceBranches": [
+        "any frame in which a bowler fails to make a strike or spare"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in bowling, a turn in which the player fails to knock down all ten pins with one ball or with two",
+      "scope": "This is a bowling turn that falls short, not the opening shot in pool and not a pause in activity.",
+      "examples": [
+        "He was annoyed by a break in the third frame.",
+        "Two breaks in the final game dropped her average."
+      ],
+      "branchCoverage": [
+        "any frame in which a bowler fails to make a strike or spare -> in bowling, a turn in which the player fails to knock down all ten pins with one ball or with two"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:11:04::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "an abrupt change in the tone or register of the voice (as at puberty or due to emotion)",
+      "sourceBranches": [
+        "an abrupt change in the tone or register of the voice (as at puberty or due to emotion)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a sudden shift in how the voice sounds or in its pitch range, as when a boy's voice deepens or when feelings take over",
+      "scope": "This is a change in how a voice sounds, not a pause in an activity and not a split between people.",
+      "examples": [
+        "The break in his voice betrayed how nervous he was.",
+        "The choir director noticed a break in the soprano's voice on the high note."
+      ],
+      "branchCoverage": [
+        "an abrupt change in the tone or register of the voice (as at puberty or due to emotion) -> a sudden shift in how the voice sounds or in its pitch range, as when a boy's voice deepens or when feelings take over"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:38:01::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "curl over and fall apart in surf or foam, of waves",
+      "sourceBranches": [
+        "curl over and fall apart in surf or foam, of waves"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of waves, to curl over at the top and come apart as surf or white foam",
+      "scope": "This is what waves do at the shore, not an action on an object and not a style of dance.",
+      "examples": [
+        "We watched the waves break against the rocks.",
+        "The swell began to break a hundred meters from shore."
+      ],
+      "branchCoverage": [
+        "curl over and fall apart in surf or foam, of waves -> of waves, to curl over at the top and come apart as surf or white foam"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:42:05::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "vary or interrupt a uniformity or continuity",
+      "sourceBranches": [
+        "vary or interrupt a uniformity or continuity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to change or stop something that is steady and continuous, such as a pattern or flow",
+      "scope": "This is about changing a steady pattern or flow, not smashing an object and not entering a place without permission.",
+      "examples": [
+        "A single loud laugh broke the silence of the library.",
+        "Tall pines break the flat line of the horizon."
+      ],
+      "branchCoverage": [
+        "vary or interrupt a uniformity or continuity -> to change or stop something that is steady and continuous, such as a pattern or flow"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:04:01::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "an act of delaying or interrupting the continuity",
+      "sourceBranches": [
+        "an act of delaying or interrupting the continuity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an action that slows something down or stops its flow for a time",
+      "scope": "This is the interruption itself, not the stretch of free time after it and not a split between people.",
+      "examples": [
+        "The storm caused a break in the power supply.",
+        "A break in the chain of evidence weakened the case."
+      ],
+      "branchCoverage": [
+        "an act of delaying or interrupting the continuity -> an action that slows something down or stops its flow for a time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:04:03::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "the opening shot that scatters the balls in billiards or pool",
+      "sourceBranches": [
+        "the opening shot that scatters the balls in billiards or pool"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the first shot in billiards or pool, which sends the balls spreading across the table",
+      "scope": "This is the first shot of a billiards or pool game, not a turn in bowling and not a pause.",
+      "examples": [
+        "He made a strong break and sank two balls.",
+        "A weak break left the balls clustered near the cushion."
+      ],
+      "branchCoverage": [
+        "the opening shot that scatters the balls in billiards or pool -> the first shot in billiards or pool, which sends the balls spreading across the table"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:11:03::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "a personal or social separation (as between opposing factions)",
+      "sourceBranches": [
+        "a personal or social separation (as between opposing factions)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a split between people or groups, as when opposing sides go their separate ways",
+      "scope": "This is a parting between people or groups, not a crack in an object and not a pause in activity.",
+      "examples": [
+        "The argument caused a break between the two old friends.",
+        "The break within the party led to a new faction."
+      ],
+      "branchCoverage": [
+        "a personal or social separation (as between opposing factions) -> a split between people or groups, as when opposing sides go their separate ways"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:28:00::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "a time interval during which there is a temporary cessation of something",
+      "sourceBranches": [
+        "a time interval during which there is a temporary cessation of something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a period of time when something stops for a while",
+      "scope": "This is the stretch of time when activity stops, not the act of stopping it and not a split between people.",
+      "examples": [
+        "We took a short break after two hours of work.",
+        "The speaker announced a ten-minute break before the next session."
+      ],
+      "branchCoverage": [
+        "a time interval during which there is a temporary cessation of something -> a period of time when something stops for a while"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:29:11::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "diminish or discontinue abruptly",
+      "sourceBranches": [
+        "diminish or discontinue abruptly"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "become less strong or stop suddenly and without warning",
+      "scope": "This is a fever or a spell of weather becoming weaker or ending, not a person damaging an object or disobeying a rule.",
+      "examples": [
+        "The patient's fever broke during the night.",
+        "The heat wave broke when the storms finally arrived."
+      ],
+      "branchCoverage": [
+        "diminish or discontinue abruptly -> become less strong or stop suddenly and without warning"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:30:10::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "destroy the integrity of; usually by force; cause to separate into pieces or fragments",
+      "sourceBranches": [
+        "destroy the integrity of",
+        "usually by force",
+        "cause to separate into pieces or fragments"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "damage something so badly that it is no longer whole, usually with force, and make it come apart into pieces or small bits",
+      "scope": "This is smashing an object so that it is no longer whole, not a surface split that leaves it in one piece or taking off a single part.",
+      "examples": [
+        "She broke the vase when she knocked it off the table.",
+        "The hammer broke the stone into several pieces."
+      ],
+      "branchCoverage": [
+        "destroy the integrity of -> damage something so badly that it is no longer whole",
+        "usually by force -> usually with force",
+        "cause to separate into pieces or fragments -> make it come apart into pieces or small bits"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:41:00::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "act in disregard of laws, rules, contracts, or promises",
+      "sourceBranches": [
+        "act in disregard of laws, rules, contracts, or promises"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "do something that ignores a law, rule, contract, or promise",
+      "scope": "This is a person going against a law, rule, contract, or promise, not data or behaviour failing to match a pattern.",
+      "examples": [
+        "He broke the law by driving without insurance.",
+        "She broke her promise to call every day."
+      ],
+      "branchCoverage": [
+        "act in disregard of laws, rules, contracts, or promises -> do something that ignores a law, rule, contract, or promise"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'deliberately', a restriction absent from the definition; example 1 can be an unintentional breach."
+    },
+    {
+      "senseId": "break%2:42:00::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "fail to agree with; be in violation of; as of rules or patterns",
+      "sourceBranches": [
+        "fail to agree with",
+        "be in violation of",
+        "as of rules or patterns"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "not match a rule or regular pattern, and so go against it",
+      "scope": "This is a fact, result, or piece of behaviour not matching a rule or pattern, not a person deliberately disobeying a law or promise.",
+      "examples": [
+        "This sentence breaks the rules of grammar.",
+        "The new data breaks the pattern we saw last year."
+      ],
+      "branchCoverage": [
+        "fail to agree with -> not match a rule or regular pattern",
+        "be in violation of -> and so go against it",
+        "as of rules or patterns -> a rule or regular pattern"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:26:00::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "breaking of hard tissue such as bone",
+      "sourceBranches": [
+        "breaking of hard tissue such as bone"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a split or crack in hard body tissue, such as a bone",
+      "scope": "This is an injury to bone or similar hard tissue, not a pause in activity or the act of damaging an object.",
+      "examples": [
+        "The X-ray showed a break in his ankle.",
+        "A bad break in the hip can take months to heal."
+      ],
+      "branchCoverage": [
+        "breaking of hard tissue such as bone -> a split or crack in hard body tissue, such as a bone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:30:15::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "become fractured; break or crack on the surface only",
+      "sourceBranches": [
+        "become fractured",
+        "break or crack on the surface only"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "get a split in the surface only, without coming apart into pieces",
+      "scope": "This is a surface split that leaves the thing in one piece, not an object being smashed into separate pieces.",
+      "examples": [
+        "The plate broke along the edge but did not fall apart.",
+        "The ice on the pond cracked in the cold."
+      ],
+      "branchCoverage": [
+        "become fractured -> get a split",
+        "break or crack on the surface only -> in the surface only, without coming apart into pieces"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:11:02::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "the occurrence of breaking",
+      "sourceBranches": [
+        "the occurrence of breaking"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the event of something giving way or splitting apart",
+      "scope": "This is the event itself, not the act of a person damaging something or an injury to a bone.",
+      "examples": [
+        "The break in the dam threatened the whole valley.",
+        "Engineers rushed to repair the break in the pipeline."
+      ],
+      "branchCoverage": [
+        "the occurrence of breaking -> the event of something giving way or splitting apart"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:32:07::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "undergo breaking",
+      "sourceBranches": [
+        "undergo breaking"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "change from a single vowel sound into a different sound, as happened in some older languages",
+      "scope": "This is a sound change inside a language, not the physical splitting of an object.",
+      "examples": [
+        "In Old English, the vowel broke before certain consonants.",
+        "The vowel breaks into two sounds in some northern dialects."
+      ],
+      "branchCoverage": [
+        "undergo breaking -> change from a single vowel sound into a different sound"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:38:11::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "break down, literally or metaphorically",
+      "sourceBranches": [
+        "break down, literally or metaphorically"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "give way or fail completely, either as a real physical structure or as an idea or situation",
+      "scope": "This is a structure, business, or person giving way completely, not a surface split or a rule being disobeyed.",
+      "examples": [
+        "The roof broke under the weight of the snow.",
+        "He broke under the pressure of the long trial."
+      ],
+      "branchCoverage": [
+        "break down, literally or metaphorically -> give way or fail completely, either as a real physical structure or as an idea or situation"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:04:00::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "the act of breaking something",
+      "sourceBranches": [
+        "the act of breaking something"
+      ],
+      "decision": "defer",
+      "simpleMeaning": "",
+      "scope": "",
+      "examples": [],
+      "branchCoverage": [],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "In current English this act is expressed with \"breakage\" or \"the breaking of something\"; the noun \"break\" in a natural sentence means a crack, an injury, or an interruption, so two idiomatic examples of the act itself cannot be written.",
+      "reason": "In current English this act is expressed with \"breakage\" or \"the breaking of something\"; the noun \"break\" in a natural sentence means a crack, an injury, or an interruption, so two idiomatic examples of the act itself cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:35:05::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "break a piece from a whole",
+      "sourceBranches": [
+        "break a piece from a whole"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "separate one piece from a whole",
+      "scope": "This is detaching one part from a whole, not smashing the whole thing into many pieces.",
+      "examples": [
+        "She broke a piece off the chocolate bar.",
+        "He broke a small branch from the tree."
+      ],
+      "branchCoverage": [
+        "break a piece from a whole -> separate one piece from a whole"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:38:00::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "do a break dance",
+      "sourceBranches": [
+        "do a break dance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "perform a style of street dance with fast, athletic moves",
+      "scope": "This is a style of dancing, not damaging something or stopping an activity.",
+      "examples": [
+        "The kids were break-dancing at the street corner.",
+        "He has been break-dancing since he was twelve."
+      ],
+      "branchCoverage": [
+        "do a break dance -> perform a style of street dance with fast, athletic moves"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break%2:41:11:: -> enter someone's property without permission; break%1:04:06:: -> a bowling frame in which no strike or spare is made; break%1:11:04:: -> a sudden change in the tone of a voice; break%2:38:01:: -> curl and fall apart into foam, as waves do; break%2:42:05:: -> interrupt a steady pattern or flow; break%1:04:01:: -> an act that delays or interrupts something continuous; break%1:04:03:: -> the first shot that scatters the balls in billiards or pool; break%1:11:03:: -> a personal or social split between opposing groups; break%1:28:00:: -> a period when usual activity stops for a while; break%2:29:11:: -> stop or reduce something suddenly; break%2:30:10:: -> destroy something's wholeness, usually by force; break%2:41:00:: -> act against a law, rule, or promise; break%2:42:00:: -> fail to follow a rule or pattern; break%1:26:00:: -> a crack in hard tissue such as bone; break%2:30:15:: -> crack on the surface only; break%1:11:02:: -> the event of something breaking; break%2:32:07:: -> change from one vowel sound to another, as in some historical sound changes; break%2:38:11:: -> collapse or fail, literally or figuratively; break%1:04:00:: -> the act of breaking something; break%2:35:05:: -> separate a piece from the whole; break%2:38:00:: -> dance in a breakdance style",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "member%1:14:00::",
+      "lemma": "member",
+      "pos": "n",
+      "definition": "an organization that is a member of another organization (especially a state that belongs to a group of nations)",
+      "sourceBranches": [
+        "an organization that is a member of another organization (especially a state that belongs to a group of nations)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a group or state that belongs to another organization, especially a country in a group of nations",
+      "scope": "This is a whole organization or country that belongs to another organization, not one person who joins a club.",
+      "examples": [
+        "Canada is a member of the United Nations.",
+        "The library was a member of the interlibrary loan association."
+      ],
+      "branchCoverage": [
+        "an organization that is a member of another organization (especially a state that belongs to a group of nations) -> a group or state that belongs to another organization, especially a country in a group of nations"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "present%2:32:03::",
+      "lemma": "present",
+      "pos": "v",
+      "definition": "recognize with a gesture prescribed by a military regulation; assume a prescribed position",
+      "sourceBranches": [
+        "recognize with a gesture prescribed by a military regulation",
+        "assume a prescribed position"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In the military, greet someone with an official gesture and take up the stance that rules require.",
+      "scope": "Not the everyday act of giving a gift or introducing someone; this is only the formal military salute and the required stance.",
+      "examples": [
+        "The guard presented arms as the general walked past.",
+        "New recruits learn to present arms before they are allowed on parade."
+      ],
+      "branchCoverage": [
+        "recognize with a gesture prescribed by a military regulation -> In the military, greet someone with an official gesture",
+        "assume a prescribed position -> take up the stance that rules require"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "present%2:32:03:: -> greet someone with a military salute; present%2:32:04:: -> formally introduce a debutante or a country's representative; present%2:32:06:: -> bring something to someone's attention, often to accuse or criticize; present%2:40:00:: -> give something as a gift",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'As a soldier' narrows the sense to army personnel; sailors and airmen also present arms. Use 'in the military'."
+    },
+    {
+      "senseId": "present%2:32:04::",
+      "lemma": "present",
+      "pos": "v",
+      "definition": "formally present a debutante, a representative of a country, etc.",
+      "sourceBranches": [
+        "formally present a debutante, a representative of a country, etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "At a formal ceremony, bring a young woman into adult society, or formally bring forward a country's representative.",
+      "scope": "Not the military salute and not the giving of a gift; here someone is officially brought forward at a ceremony.",
+      "examples": [
+        "She was presented at court the year she turned eighteen.",
+        "The new ambassador was presented to the queen at a formal reception."
+      ],
+      "branchCoverage": [
+        "formally present a debutante, a representative of a country, etc -> At a formal ceremony, bring a young woman into adult society, or formally bring forward a country's representative"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "present%2:32:03:: -> greet someone with a military salute; present%2:32:04:: -> formally introduce a debutante or a country's representative; present%2:32:06:: -> bring something to someone's attention, often to accuse or criticize; present%2:40:00:: -> give something as a gift",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Before the people' is not in the definition and clashes with the queen example; ambassadors are presented to a head of state."
+    },
+    {
+      "senseId": "present%2:32:06::",
+      "lemma": "present",
+      "pos": "v",
+      "definition": "present somebody with something, usually to accuse or criticize",
+      "sourceBranches": [
+        "present somebody with something, usually to accuse or criticize"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Hand someone something, such as a bill or a set of charges, often so as to blame them or find fault.",
+      "scope": "Not the giving of a gift; the thing handed over is usually unwelcome, like a bill or an accusation.",
+      "examples": [
+        "The landlord presented me with a bill for three months' rent.",
+        "When the audit ended, the inspectors presented the manager with a list of violations."
+      ],
+      "branchCoverage": [
+        "present somebody with something, usually to accuse or criticize -> Hand someone something, such as a bill or a set of charges, often so as to blame them or find fault"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "present%2:32:03:: -> greet someone with a military salute; present%2:32:04:: -> formally introduce a debutante or a country's representative; present%2:32:06:: -> bring something to someone's attention, often to accuse or criticize; present%2:40:00:: -> give something as a gift",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "present%2:40:00::",
+      "lemma": "present",
+      "pos": "v",
+      "definition": "give as a present; make a gift of",
+      "sourceBranches": [
+        "give as a present",
+        "make a gift of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Give a thing to someone as a gift, freely and without payment.",
+      "scope": "Not handing over a bill or a charge, and not a formal introduction; the thing given here is a gift.",
+      "examples": [
+        "They presented her with a silver necklace on her graduation.",
+        "The mayor presented the trophy to the winning team."
+      ],
+      "branchCoverage": [
+        "give as a present -> Give a thing to someone",
+        "make a gift of -> as a gift, freely and without payment"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "present%2:32:03:: -> greet someone with a military salute; present%2:32:04:: -> formally introduce a debutante or a country's representative; present%2:32:06:: -> bring something to someone's attention, often to accuse or criticize; present%2:40:00:: -> give something as a gift",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "result%1:10:01::",
+      "lemma": "result",
+      "pos": "n",
+      "definition": "the semantic role of the noun phrase whose referent exists only by virtue of the activity denoted by the verb in the clause",
+      "sourceBranches": [
+        "the semantic role of the noun phrase whose referent exists only by virtue of the activity denoted by the verb in the clause"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In grammar, the role of a noun phrase that names something which exists only because of the action the verb describes.",
+      "scope": "Not the ordinary idea of an outcome or consequence; this is a technical grammar label for the role a noun phrase plays.",
+      "examples": [
+        "In 'she baked a cake', the phrase 'a cake' has the result role.",
+        "The class discussed why 'a poem' counts as a result in 'he wrote a poem'."
+      ],
+      "branchCoverage": [
+        "the semantic role of the noun phrase whose referent exists only by virtue of the activity denoted by the verb in the clause -> In grammar, the role of a noun phrase that names something which exists only because of the action the verb describes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "answer%2:32:06::",
+      "lemma": "answer",
+      "pos": "v",
+      "definition": "give a defence or refutation of (a charge) or in (an argument)",
+      "sourceBranches": [
+        "give a defence or refutation of (a charge) or in (an argument)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Reply so as to defend yourself against a charge, or to argue back during a dispute.",
+      "scope": "Not simply replying to a question; here the reply defends against an accusation or argues a case.",
+      "examples": [
+        "He answered the charge of negligence by producing the safety records.",
+        "Given the chance to answer her critics, she spoke for ten minutes."
+      ],
+      "branchCoverage": [
+        "give a defence or refutation of (a charge) or in (an argument) -> Reply so as to defend yourself against a charge, or to argue back during a dispute"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "answer%2:32:06:: -> reply to defend yourself against a charge; answer%2:42:02:: -> be enough or suitable for a need",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "answer%2:42:02::",
+      "lemma": "answer",
+      "pos": "v",
+      "definition": "be sufficient; be adequate, either in quality or quantity",
+      "sourceBranches": [
+        "be sufficient",
+        "be adequate, either in quality or quantity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Be enough for a need, whether in how much there is or in how good it is.",
+      "scope": "Not replying to a question or a charge; here the point is being enough for a need.",
+      "examples": [
+        "The cheaper model answers all our requirements.",
+        "Her part-time wage answered the family's needs that winter."
+      ],
+      "branchCoverage": [
+        "be sufficient -> Be enough for a need",
+        "be adequate, either in quality or quantity -> whether in how much there is or in how good it is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "answer%2:32:06:: -> reply to defend yourself against a charge; answer%2:42:02:: -> be enough or suitable for a need",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "boy%1:18:01::",
+      "lemma": "boy",
+      "pos": "n",
+      "definition": "(ethnic slur) offensive and disparaging term for Black man",
+      "sourceBranches": [
+        "(ethnic slur) offensive and disparaging term for Black man"
+      ],
+      "decision": "defer",
+      "simpleMeaning": "",
+      "scope": "",
+      "examples": [],
+      "branchCoverage": [],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "Offensive ethnic slur; unsuitable for a learner-facing entry and no example can be written without reproducing abuse.",
+      "reason": "Offensive ethnic slur; unsuitable for a learner-facing entry and no example can be written without reproducing abuse.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "design%1:06:01::",
+      "lemma": "design",
+      "pos": "n",
+      "definition": "a preliminary sketch indicating the plan for something",
+      "sourceBranches": [
+        "a preliminary sketch indicating the plan for something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "An early drawing that shows the intended plan for how something will be built or arranged.",
+      "scope": "Not the aim you intend to reach; this is the drawn sketch itself, made before the work begins.",
+      "examples": [
+        "The architect showed us an early design for the new library.",
+        "She sketched a rough design for the garden on the back of an envelope."
+      ],
+      "branchCoverage": [
+        "a preliminary sketch indicating the plan for something -> An early drawing that shows the intended plan for how something will be built or arranged"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "design%1:06:01:: -> a first sketch showing a plan; design%1:09:03:: -> the result you intend or plan for; design%2:36:07:: -> make drawings or plans for something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "design%1:09:03::",
+      "lemma": "design",
+      "pos": "n",
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "sourceBranches": [
+        "an anticipated outcome that is intended or that guides your planned actions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The outcome you mean to bring about, or the aim that guides the steps you plan to take.",
+      "scope": "Not a drawing or sketch; this is the purpose or intended outcome behind your actions.",
+      "examples": [
+        "Whether by design or by accident, the meeting ended in agreement.",
+        "The design behind the new rules was to cut waiting times."
+      ],
+      "branchCoverage": [
+        "an anticipated outcome that is intended or that guides your planned actions -> The outcome you mean to bring about, or the aim that guides the steps you plan to take"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "design%1:06:01:: -> a first sketch showing a plan; design%1:09:03:: -> the result you intend or plan for; design%2:36:07:: -> make drawings or plans for something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "design%2:36:07::",
+      "lemma": "design",
+      "pos": "v",
+      "definition": "create designs",
+      "sourceBranches": [
+        "create designs"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Make drawings or plans for something that will be built, made or arranged.",
+      "scope": "Not intending an outcome in the abstract; here the work is producing drawings or working out plans for a thing.",
+      "examples": [
+        "She designs kitchens for a small firm in Leeds.",
+        "The bridge was designed by a famous engineer."
+      ],
+      "branchCoverage": [
+        "create designs -> Make drawings or plans for something that will be built, made or arranged"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "design%1:06:01:: -> a first sketch showing a plan; design%1:09:03:: -> the result you intend or plan for; design%2:36:07:: -> make drawings or plans for something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gold%1:07:01::",
+      "lemma": "gold",
+      "pos": "n",
+      "definition": "something likened to the metal in brightness or preciousness or superiority etc.",
+      "sourceBranches": [
+        "something likened to the metal in brightness or preciousness or superiority etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A thing that is compared to the metal because of its shine, its high worth, or its great superiority.",
+      "scope": "Not the metal itself or money made from it; here the word points to something else being compared to the metal.",
+      "examples": [
+        "The singer's voice was pure gold on that final note.",
+        "Her advice turned out to be gold when the crisis came."
+      ],
+      "branchCoverage": [
+        "something likened to the metal in brightness or preciousness or superiority etc -> A thing that is compared to the metal because of its shine, its high worth, or its great superiority"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gone%3:00:00::",
+      "lemma": "gone",
+      "pos": "a",
+      "definition": "stupefied or excited by a chemical substance (especially alcohol)",
+      "sourceBranches": [
+        "stupefied or excited by a chemical substance (especially alcohol)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "dazed or wildly excited as a result of a drug, especially alcohol",
+      "scope": "This is not having left a place or having used something up; it describes a mind that is dulled or stirred up by a substance.",
+      "examples": [
+        "After three beers he was too gone to drive home.",
+        "She was completely gone on the painkillers and could barely speak."
+      ],
+      "branchCoverage": [
+        "stupefied or excited by a chemical substance (especially alcohol) -> dazed or wildly excited as a result of a drug, especially alcohol"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "gone%3:00:00:: -> dazed or excited by a drug or alcohol; gone%5:00:00:tired:00 -> completely worn out and without energy",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gone%5:00:00:tired:00",
+      "lemma": "gone",
+      "pos": "a",
+      "definition": "drained of energy or effectiveness; extremely tired; completely exhausted",
+      "sourceBranches": [
+        "drained of energy or effectiveness",
+        "extremely tired",
+        "completely exhausted"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "completely worn out and extremely tired, with no energy or strength left to carry on",
+      "scope": "This is not being drunk or high, and not having left; it means every bit of energy has been used up.",
+      "examples": [
+        "By the end of the marathon his legs were gone.",
+        "Three hours of digging left us completely gone."
+      ],
+      "branchCoverage": [
+        "drained of energy or effectiveness -> with no energy or strength left to carry on",
+        "extremely tired -> extremely tired",
+        "completely exhausted -> completely worn out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "gone%3:00:00:: -> dazed or excited by a drug or alcohol; gone%5:00:00:tired:00 -> completely worn out and without energy",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "guess%2:31:02::",
+      "lemma": "guess",
+      "pos": "v",
+      "definition": "guess correctly; solve by guessing",
+      "sourceBranches": [
+        "guess correctly",
+        "solve by guessing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "answer correctly by forming an idea without being sure, or solve something the same way",
+      "scope": "This is not giving a rough estimate or stating an opinion; it is landing on the right answer without being sure.",
+      "examples": [
+        "You guessed right: the answer was forty-two.",
+        "The child solved the riddle by guessing until the right word came to her."
+      ],
+      "branchCoverage": [
+        "guess correctly -> answer correctly by forming an idea without being sure",
+        "solve by guessing -> solve something the same way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "First branch loses 'by guessing'; bare 'answer correctly' is too broad. Apply 'without certain knowledge' to both halves."
+    },
+    {
+      "senseId": "interest%1:04:01::",
+      "lemma": "interest",
+      "pos": "n",
+      "definition": "a diversion that occupies one's time and thoughts (usually pleasantly)",
+      "sourceBranches": [
+        "a diversion that occupies one's time and thoughts (usually pleasantly)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a pastime or activity that takes up your time and thoughts, usually in a pleasant way",
+      "scope": "This is not the fee charged for a loan or a share in a business; it is something you do that keeps you pleasantly occupied.",
+      "examples": [
+        "Photography has been his main interest since college.",
+        "Her interests include gardening and folk music."
+      ],
+      "branchCoverage": [
+        "a diversion that occupies one's time and thoughts (usually pleasantly) -> a pastime or activity that takes up your time and thoughts, usually in a pleasant way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "interest%1:04:01:: -> an activity that holds your attention and fills your time; interest%1:21:00:: -> a charge paid for borrowing money, usually a percentage",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "interest%1:21:00::",
+      "lemma": "interest",
+      "pos": "n",
+      "definition": "a fixed charge for borrowing money; usually a percentage of the amount borrowed",
+      "sourceBranches": [
+        "a fixed charge for borrowing money",
+        "usually a percentage of the amount borrowed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a set charge for borrowing money, usually a percentage of the amount borrowed",
+      "scope": "This is not an activity you enjoy or a share in a company; it is the fee a lender charges for the use of money.",
+      "examples": [
+        "The loan carries interest of five percent a year.",
+        "She paid the card off early to avoid mounting interest."
+      ],
+      "branchCoverage": [
+        "a fixed charge for borrowing money -> a set charge for borrowing money",
+        "usually a percentage of the amount borrowed -> usually a percentage of the amount borrowed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "interest%1:04:01:: -> an activity that holds your attention and fills your time; interest%1:21:00:: -> a charge paid for borrowing money, usually a percentage",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "king%1:18:06::",
+      "lemma": "king",
+      "pos": "n",
+      "definition": "a male competitor who holds a preeminent position",
+      "sourceBranches": [
+        "a male competitor who holds a preeminent position"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a man who competes and holds the top position, above all rivals",
+      "scope": "This is not a male royal ruler; it is a man who dominates a competitive field.",
+      "examples": [
+        "For a decade he was the king of the heavyweight division.",
+        "At twenty-five he was already the king of the local racing circuit."
+      ],
+      "branchCoverage": [
+        "a male competitor who holds a preeminent position -> a man who competes and holds the top position, above all rivals"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "learn%2:32:02::",
+      "lemma": "learn",
+      "pos": "v",
+      "definition": "find out, learn, or determine with certainty, usually by making an inquiry or other effort",
+      "sourceBranches": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "find out or establish something for certain, usually by asking questions or making some effort",
+      "scope": "This is not gaining a skill through practice; it is discovering a fact with confidence, often by checking.",
+      "examples": [
+        "We soon learned that the train had been cancelled.",
+        "She learned from the manager that the job was already filled."
+      ],
+      "branchCoverage": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort -> find out or establish something for certain, usually by asking questions or making some effort"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "alone%5:00:00:incomparable:00",
+      "lemma": "alone",
+      "pos": "a",
+      "definition": "radically distinctive and without equal",
+      "sourceBranches": [
+        "radically distinctive and without equal"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "so different and outstanding that nothing else comes close",
+      "scope": "This is not being by yourself with no other people; it means having no equal.",
+      "examples": [
+        "In raw speed, she stands alone among sprinters of her generation.",
+        "He stands alone among modern poets for the beauty of his lines."
+      ],
+      "branchCoverage": [
+        "radically distinctive and without equal -> so different and outstanding that nothing else comes close"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bank%1:04:00::",
+      "lemma": "bank",
+      "pos": "n",
+      "definition": "a flight maneuver; aircraft tips laterally about its longitudinal axis (especially in turning)",
+      "sourceBranches": [
+        "a flight maneuver",
+        "aircraft tips laterally about its longitudinal axis (especially in turning)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a flight move in which an aircraft tilts sideways around its front-to-back axis, especially while turning",
+      "scope": "This is not a row of objects or a place that keeps money; it is the sideways tilt of a plane in flight.",
+      "examples": [
+        "The pilot made a steep bank to the left to avoid the storm.",
+        "During the turn the plane's bank reached forty degrees."
+      ],
+      "branchCoverage": [
+        "a flight maneuver -> a flight move",
+        "aircraft tips laterally about its longitudinal axis (especially in turning) -> in which an aircraft tilts sideways around its front-to-back axis, especially while turning"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bank%1:04:00:: -> a turn in which an aircraft tips to one side; bank%1:14:01:: -> a row or tier of similar objects; bank%1:21:01:: -> the money a gambling house or dealer holds; bank%1:17:02:: -> a slope on a road or track that is higher on the outside",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bank%1:14:01::",
+      "lemma": "bank",
+      "pos": "n",
+      "definition": "an arrangement of similar objects in a row or in tiers",
+      "sourceBranches": [
+        "an arrangement of similar objects in a row or in tiers"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a row of similar things, or several such rows set one above another",
+      "scope": "This is not a financial institution, a river edge, or a tilt in flight; it is a line or stack of like objects.",
+      "examples": [
+        "A bank of monitors filled the control room wall.",
+        "The hall was fitted with banks of seating rising toward the back."
+      ],
+      "branchCoverage": [
+        "an arrangement of similar objects in a row or in tiers -> a row of similar things, or several such rows set one above another"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bank%1:04:00:: -> a turn in which an aircraft tips to one side; bank%1:14:01:: -> a row or tier of similar objects; bank%1:21:01:: -> the money a gambling house or dealer holds; bank%1:17:02:: -> a slope on a road or track that is higher on the outside",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bank%1:21:01::",
+      "lemma": "bank",
+      "pos": "n",
+      "definition": "the funds held by a gambling house or the dealer in some gambling games",
+      "sourceBranches": [
+        "the funds held by a gambling house or the dealer in some gambling games"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the supply of money that a casino or dealer holds to cover bets in some gambling games",
+      "scope": "This is not a row of machines or the raised edge of a road; it is the money set aside to pay winning gamblers.",
+      "examples": [
+        "The dealer drew on the bank to pay the winner.",
+        "He broke the bank at roulette with a single lucky bet."
+      ],
+      "branchCoverage": [
+        "the funds held by a gambling house or the dealer in some gambling games -> the supply of money that a casino or dealer holds to cover bets in some gambling games"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bank%1:04:00:: -> a turn in which an aircraft tips to one side; bank%1:14:01:: -> a row or tier of similar objects; bank%1:21:01:: -> the money a gambling house or dealer holds; bank%1:17:02:: -> a slope on a road or track that is higher on the outside",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Card dealer' narrows 'dealer'; the roulette example is not a card game. Drop 'card'."
+    },
+    {
+      "senseId": "bank%1:17:02::",
+      "lemma": "bank",
+      "pos": "n",
+      "definition": "a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force",
+      "sourceBranches": [
+        "a slope in the turn of a road or track",
+        "the outside is higher than the inside in order to reduce the effects of centrifugal force"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a slope across a curved road or track, with the outer edge raised to reduce the outward pull of turning",
+      "scope": "This is not the side of a river or a row of similar objects; it is the raised outer edge of a curve built for speed.",
+      "examples": [
+        "The bank on the bend helps cars hold the road at speed.",
+        "Cyclists use the steep bank of the velodrome to carry speed through the turn."
+      ],
+      "branchCoverage": [
+        "a slope in the turn of a road or track -> a slope across a curved road or track",
+        "the outside is higher than the inside in order to reduce the effects of centrifugal force -> with the outer edge raised to reduce the outward pull of turning"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bank%1:04:00:: -> a turn in which an aircraft tips to one side; bank%1:14:01:: -> a row or tier of similar objects; bank%1:21:01:: -> the money a gambling house or dealer holds; bank%1:17:02:: -> a slope on a road or track that is higher on the outside",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

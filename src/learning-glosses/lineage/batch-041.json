@@ -1,0 +1,1018 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 41,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 2000,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "transfer%2:41:00::",
+      "lemma": "transfer",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "transfer somebody to a different position or location of work",
+      "synsetId": "02398228-v",
+      "words": 10,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1811,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "transfer somebody to a different position or location of work"
+      ]
+    },
+    {
+      "senseId": "upper%1:06:01::",
+      "lemma": "upper",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression",
+      "synsetId": "02707012-n",
+      "words": 20,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1812,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a central nervous system stimulant that increases energy and decreases appetite",
+        "used to treat narcolepsy and some forms of depression"
+      ]
+    },
+    {
+      "senseId": "upper%1:06:00::",
+      "lemma": "upper",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot",
+      "synsetId": "04521654-n",
+      "words": 22,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1812,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot"
+      ]
+    },
+    {
+      "senseId": "upper%5:00:00:superior:01",
+      "lemma": "upper",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "superior in rank or accomplishment",
+      "synsetId": "02348166-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1812,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "superior in rank or accomplishment"
+      ]
+    },
+    {
+      "senseId": "upper%3:00:00::",
+      "lemma": "upper",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "the topmost one of two; upper",
+      "synsetId": "02449821-a",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1812,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the topmost one of two",
+        "upper"
+      ]
+    },
+    {
+      "senseId": "useful%5:00:00:functional:00",
+      "lemma": "useful",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having a useful function",
+      "synsetId": "01094513-s",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1813,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having a useful function"
+      ]
+    },
+    {
+      "senseId": "zone%1:15:02::",
+      "lemma": "zone",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "any of the regions of the surface of the Earth loosely divided according to latitude or longitude",
+      "synsetId": "08559404-n",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1817,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any of the regions of the surface of the Earth loosely divided according to latitude or longitude"
+      ]
+    },
+    {
+      "senseId": "zone%1:15:00::",
+      "lemma": "zone",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a locally circumscribed place characterized by some distinctive features",
+      "synsetId": "08705985-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1817,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a locally circumscribed place characterized by some distinctive features"
+      ]
+    },
+    {
+      "senseId": "zone%1:15:01::",
+      "lemma": "zone",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
+      "synsetId": "08526463-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1817,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an area or region distinguished from adjacent parts by a distinctive feature or characteristic"
+      ]
+    },
+    {
+      "senseId": "accident%1:11:01::",
+      "lemma": "accident",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an unfortunate mishap; especially one causing damage or injury",
+      "synsetId": "07315954-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1818,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an unfortunate mishap",
+        "especially one causing damage or injury"
+      ]
+    },
+    {
+      "senseId": "alternative%5:00:00:disjunctive:00",
+      "lemma": "alternative",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "necessitating a choice between mutually exclusive possibilities",
+      "synsetId": "00566932-s",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1820,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "necessitating a choice between mutually exclusive possibilities"
+      ]
+    },
+    {
+      "senseId": "alternative%5:00:00:unconventional:01",
+      "lemma": "alternative",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "pertaining to unconventional choices",
+      "synsetId": "00611045-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1820,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "pertaining to unconventional choices"
+      ]
+    },
+    {
+      "senseId": "bear%1:05:00::",
+      "lemma": "bear",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+      "synsetId": "02134305-n",
+      "words": 13,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1824,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws"
+      ]
+    },
+    {
+      "senseId": "bear%1:18:00::",
+      "lemma": "bear",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price",
+      "synsetId": "09864599-n",
+      "words": 27,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1824,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an investor with a pessimistic market outlook",
+        "an investor who expects prices to fall and so sells now in order to buy later at a lower price"
+      ]
+    },
+    {
+      "senseId": "boat%1:06:01::",
+      "lemma": "boat",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a dish (often boat-shaped) for serving gravy or sauce",
+      "synsetId": "03460968-n",
+      "words": 10,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1825,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a dish (often boat-shaped) for serving gravy or sauce"
+      ]
+    },
+    {
+      "senseId": "bringing%1:04:00::",
+      "lemma": "bringing",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of delivering or distributing something (as goods or mail)",
+      "synsetId": "00318033-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1826,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of delivering or distributing something (as goods or mail)"
+      ]
+    },
+    {
+      "senseId": "discussion%1:10:02::",
+      "lemma": "discussion",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an extended communication (often interactive) dealing with some particular topic",
+      "synsetId": "07152793-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1831,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an extended communication (often interactive) dealing with some particular topic"
+      ]
+    },
+    {
+      "senseId": "drinking%1:04:01::",
+      "lemma": "drinking",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of drinking alcoholic beverages to excess",
+      "synsetId": "00749813-n",
+      "words": 8,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1832,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of drinking alcoholic beverages to excess"
+      ]
+    },
+    {
+      "senseId": "duty%1:04:00::",
+      "lemma": "duty",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the social force that binds you to the courses of action demanded by that force",
+      "synsetId": "01132241-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1833,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the social force that binds you to the courses of action demanded by that force"
+      ]
+    },
+    {
+      "senseId": "fantastic%5:00:00:unrealistic:00",
+      "lemma": "fantastic",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "fanciful and unrealistic; foolish",
+      "synsetId": "01949349-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1834,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "fanciful and unrealistic",
+        "foolish"
+      ]
+    },
+    {
+      "senseId": "feelings%1:12:00::",
+      "lemma": "feelings",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "emotional or moral sensitivity (especially in relation to personal principles or dignity)",
+      "synsetId": "07528274-n",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1835,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "emotional or moral sensitivity (especially in relation to personal principles or dignity)"
+      ]
+    },
+    {
+      "senseId": "industrial%3:01:00::",
+      "lemma": "industrial",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of or relating to or resulting from industry",
+      "synsetId": "02759407-a",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1838,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to or resulting from industry"
+      ]
+    },
+    {
+      "senseId": "industrial%3:00:00::",
+      "lemma": "industrial",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having highly developed industries",
+      "synsetId": "01304559-a",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1838,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having highly developed industries"
+      ]
+    },
+    {
+      "senseId": "industrial%5:00:00:blue-collar:00",
+      "lemma": "industrial",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "employed in industry",
+      "synsetId": "02567671-s",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1838,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "employed in industry"
+      ]
+    },
+    {
+      "senseId": "joint%2:35:00::",
+      "lemma": "joint",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "fasten with a joint",
+      "synsetId": "01607617-v",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1839,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "fasten with a joint"
+      ]
+    },
+    {
+      "senseId": "joint%2:42:00::",
+      "lemma": "joint",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "fit as if by joints",
+      "synsetId": "02666225-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1839,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "fit as if by joints"
+      ]
+    },
+    {
+      "senseId": "mix%1:13:00::",
+      "lemma": "mix",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a commercially prepared mixture of dry ingredients",
+      "synsetId": "07898861-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1840,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a commercially prepared mixture of dry ingredients"
+      ]
+    },
+    {
+      "senseId": "mix%2:30:02::",
+      "lemma": "mix",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "combine (electronic signals)",
+      "synsetId": "00557270-v",
+      "words": 3,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1840,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "combine (electronic signals)"
+      ]
+    },
+    {
+      "senseId": "museum%1:06:00::",
+      "lemma": "museum",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a depository for collecting and displaying objects having scientific or historical or artistic value",
+      "synsetId": "03806085-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1841,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value"
+      ]
+    },
+    {
+      "senseId": "promise%1:10:00::",
+      "lemma": "promise",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a verbal commitment by one person to another agreeing to do (or not to do) something in the future",
+      "synsetId": "07241205-n",
+      "words": 19,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1846,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a verbal commitment by one person to another agreeing to do (or not to do) something in the future"
+      ]
+    },
+    {
+      "senseId": "promise%2:32:00::",
+      "lemma": "promise",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make a promise or commitment",
+      "synsetId": "00885532-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1846,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make a promise or commitment"
+      ]
+    },
+    {
+      "senseId": "promise%2:32:01::",
+      "lemma": "promise",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "promise to undertake or give",
+      "synsetId": "00885838-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1846,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "promise to undertake or give"
+      ]
+    },
+    {
+      "senseId": "purchase%1:21:00::",
+      "lemma": "purchase",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "something acquired by purchase",
+      "synsetId": "13274511-n",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1848,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something acquired by purchase"
+      ]
+    },
+    {
+      "senseId": "rain%1:19:00::",
+      "lemma": "rain",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "water falling in drops from vapor condensed in the atmosphere",
+      "synsetId": "11521799-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1849,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "water falling in drops from vapor condensed in the atmosphere"
+      ]
+    },
+    {
+      "senseId": "rain%1:27:00::",
+      "lemma": "rain",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "drops of fresh water that fall as precipitation from clouds",
+      "synsetId": "15033174-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1849,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "drops of fresh water that fall as precipitation from clouds"
+      ]
+    },
+    {
+      "senseId": "remove%2:30:00::",
+      "lemma": "remove",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+      "synsetId": "00173351-v",
+      "words": 14,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1850,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract"
+      ]
+    },
+    {
+      "senseId": "remove%2:41:00::",
+      "lemma": "remove",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "remove from a position or an office",
+      "synsetId": "02409366-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1850,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "remove from a position or an office"
+      ]
+    },
+    {
+      "senseId": "spending%1:04:00::",
+      "lemma": "spending",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of spending or disbursing money",
+      "synsetId": "01124470-n",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1852,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of spending or disbursing money"
+      ]
+    },
+    {
+      "senseId": "steel%1:27:00::",
+      "lemma": "steel",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range",
+      "synsetId": "14826620-n",
+      "words": 22,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1853,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an alloy of iron with small amounts of carbon",
+        "widely used in construction",
+        "mechanical properties can be varied over a wide range"
+      ]
+    },
+    {
+      "senseId": "steel%1:06:00::",
+      "lemma": "steel",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "knife sharpener consisting of a ridged steel rod",
+      "synsetId": "04318042-n",
+      "words": 8,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1853,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "knife sharpener consisting of a ridged steel rod"
+      ]
+    },
+    {
+      "senseId": "steel%1:06:01::",
+      "lemma": "steel",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
+      "synsetId": "04380981-n",
+      "words": 18,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1853,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard"
+      ]
+    },
+    {
+      "senseId": "steel%2:35:00::",
+      "lemma": "steel",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "cover, plate, or edge with steel",
+      "synsetId": "01617811-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1853,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cover, plate, or edge with steel"
+      ]
+    },
+    {
+      "senseId": "supporting%5:00:00:bearing:00",
+      "lemma": "supporting",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "capable of bearing a structural load",
+      "synsetId": "00219020-s",
+      "words": 6,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1854,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "capable of bearing a structural load"
+      ]
+    },
+    {
+      "senseId": "supporting%5:00:00:supportive:00",
+      "lemma": "supporting",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "furnishing support and encouragement",
+      "synsetId": "02364800-s",
+      "words": 4,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1854,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "furnishing support and encouragement"
+      ]
+    },
+    {
+      "senseId": "terrible%5:00:00:alarming:00",
+      "lemma": "terrible",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "causing fear or dread or terror",
+      "synsetId": "00195400-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1855,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "causing fear or dread or terror"
+      ]
+    },
+    {
+      "senseId": "tired%5:00:00:unoriginal:00",
+      "lemma": "tired",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "repeated too often; overfamiliar through overuse",
+      "synsetId": "01693210-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1856,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "repeated too often",
+        "overfamiliar through overuse"
+      ]
+    },
+    {
+      "senseId": "treated%3:00:00::",
+      "lemma": "treated",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "subjected to a physical (or chemical) treatment or action or agent",
+      "synsetId": "01960457-a",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1857,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "subjected to a physical (or chemical) treatment or action or agent"
+      ]
+    },
+    {
+      "senseId": "treated%3:00:04::",
+      "lemma": "treated",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "made hard or flexible or resilient especially by heat treatment",
+      "synsetId": "01525661-a",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1857,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "made hard or flexible or resilient especially by heat treatment"
+      ]
+    },
+    {
+      "senseId": "treated%3:00:02::",
+      "lemma": "treated",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "given medical care or treatment",
+      "synsetId": "01962094-a",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1857,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "given medical care or treatment"
+      ]
+    },
+    {
+      "senseId": "turning%1:17:00::",
+      "lemma": "turning",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a shaving created when something is produced by turning it on a lathe",
+      "synsetId": "09487228-n",
+      "words": 13,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1858,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a shaving created when something is produced by turning it on a lathe"
+      ]
+    }
+  ]
+}

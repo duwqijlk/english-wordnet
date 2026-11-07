@@ -1,0 +1,1134 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 31,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "prior%1:18:00::",
+      "religious%1:18:00::"
+    ],
+    "lineage": {
+      "draft": "ba42f1c6784a077c359c73de7aed6320921eaa55782ff120b4b7b9cdb1c6524b"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "prior%1:18:00::",
+      "lemma": "prior",
+      "pos": "n",
+      "definition": "the head of a religious order; in an abbey the prior is next below the abbot",
+      "decision": "gloss",
+      "simpleMeaning": "the head of a community of monks, ranking just below an abbot in an abbey.",
+      "scope": "This sense is not the adjective meaning 'earlier' or 'before', and not the abbot himself, but the office just below the abbot.",
+      "examples": [
+        "The prior welcomed the pilgrims at the abbey gate.",
+        "When the abbot was away, the prior led the daily prayers."
+      ],
+      "branchCoverage": [
+        "the head of a religious order -> the head of a community of monks",
+        "in an abbey the prior is next below the abbot -> ranking just below an abbot in an abbey"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the head of a religious order",
+        "in an abbey the prior is next below the abbot"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Prior is male; nuns are led by a prioress, not a prior."
+    },
+    {
+      "senseId": "protection%1:06:00::",
+      "lemma": "protection",
+      "pos": "n",
+      "definition": "a covering that is intend to protect from damage or injury",
+      "decision": "gloss",
+      "simpleMeaning": "A cover or shield that keeps something safe from damage or injury.",
+      "scope": "This sense is not the act of keeping someone or something safe, but the physical cover or shield itself.",
+      "examples": [
+        "Always wear eye protection when you use the drill.",
+        "The hikers applied sun protection before setting out."
+      ],
+      "branchCoverage": [
+        "a covering that is intend to protect from damage or injury -> a cover or shield that keeps something safe from damage or injury"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a covering that is intend to protect from damage or injury"
+      ],
+      "lemmaPartition": "protection%1:06:00:: -> a physical cover or shield that keeps something from damage or injury\nprotection%1:04:00:: -> the act of keeping someone or something safe",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "protection%1:04:00::",
+      "lemma": "protection",
+      "pos": "n",
+      "definition": "the activity of protecting someone or something",
+      "decision": "gloss",
+      "simpleMeaning": "The work of keeping someone or something safe from harm.",
+      "scope": "This sense is not the physical cover or shield used for safety, but the act of keeping someone or something safe.",
+      "examples": [
+        "The guards provided protection for the family during the journey.",
+        "The new law offers protection to people who report wrongdoing."
+      ],
+      "branchCoverage": [
+        "the activity of protecting someone or something -> the work of keeping someone or something safe from harm"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the activity of protecting someone or something"
+      ],
+      "lemmaPartition": "protection%1:06:00:: -> a physical cover or shield that keeps something from damage or injury\nprotection%1:04:00:: -> the act of keeping someone or something safe",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "receive%2:39:00::",
+      "lemma": "receive",
+      "pos": "v",
+      "definition": "register (perceptual input)",
+      "decision": "gloss",
+      "simpleMeaning": "To take in something that is seen, heard, felt, or detected by a device, such as light or a signal.",
+      "scope": "This sense is not about being given a particular treatment or response, but about taking in something that is seen, heard, felt, or detected by a device.",
+      "examples": [
+        "The antenna receives signals from distant stations.",
+        "Our eyes receive light and turn it into signals for the brain."
+      ],
+      "branchCoverage": [
+        "register (perceptual input) -> take in something that is seen, heard, felt, or detected by a device"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "register (perceptual input)"
+      ],
+      "lemmaPartition": "receive%2:39:00:: -> taking in something that is seen, heard, felt, or detected by a device\nreceive%2:30:01:: -> being given a particular treatment or response",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "receive%2:30:01::",
+      "lemma": "receive",
+      "pos": "v",
+      "definition": "receive a specified treatment (abstract)",
+      "decision": "gloss",
+      "simpleMeaning": "To be given a particular kind of treatment or response, such as praise, criticism, or attention.",
+      "scope": "This sense is not about taking in something through the senses or getting a physical object, but about being met with a particular response or handling.",
+      "examples": [
+        "The new plan received strong criticism from residents.",
+        "Her first novel received high praise from critics."
+      ],
+      "branchCoverage": [
+        "receive a specified treatment (abstract) -> be given a particular kind of treatment or response"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "receive a specified treatment (abstract)"
+      ],
+      "lemmaPartition": "receive%2:39:00:: -> taking in something that is seen, heard, felt, or detected by a device\nreceive%2:30:01:: -> being given a particular treatment or response",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "religious%1:18:00::",
+      "lemma": "religious",
+      "pos": "n",
+      "definition": "a member of a religious order who is bound by vows of poverty and chastity and obedience",
+      "decision": "gloss",
+      "simpleMeaning": "a member of a group of monks, friars, or nuns who has promised to live without personal wealth, to remain celibate, and to obey the group's leaders.",
+      "scope": "This sense is not the adjective describing belief in a god or things connected with worship, but a person who belongs to an order and has taken vows.",
+      "examples": [
+        "Several religious from the nearby convent teach at the school.",
+        "He lived as a religious for forty years before retiring."
+      ],
+      "branchCoverage": [
+        "a member of a religious order who is bound by vows of poverty and chastity and obedience -> a member of a group of monks, friars, or nuns who has promised to live without personal wealth, to remain celibate, and to obey the group's leaders"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a member of a religious order who is bound by vows of poverty and chastity and obedience"
+      ],
+      "lemmaPartition": "religious%1:18:00:: -> a person in a monastic order who has taken vows of poverty, chastity, and obedience\nreligious%3:00:01:: -> church leaders living under monastery vows\nreligious%3:00:00:: -> belief in and respect for a god\nreligious%5:00:00:sacred:00 -> connected with holy matters, worship, or the church",
+      "verdict": "self-approved",
+      "reviewerNote": "Narrows 'religious order' to monks/nuns; friars and brothers also belong."
+    },
+    {
+      "senseId": "religious%3:00:01::",
+      "lemma": "religious",
+      "pos": "a",
+      "definition": "of or relating to clergy bound by monastic vows",
+      "decision": "gloss",
+      "simpleMeaning": "Connected with priests or other church leaders who have taken vows and live under monastery rules.",
+      "scope": "This sense is not about a person's belief in a god or about holy things in general, but about church leaders who live under monastery vows.",
+      "examples": [
+        "He took religious vows before entering the monastery.",
+        "The community follows a religious rule that dates back centuries."
+      ],
+      "branchCoverage": [
+        "of or relating to clergy bound by monastic vows -> connected with priests or other church leaders who have taken vows and live under monastery rules"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to clergy bound by monastic vows"
+      ],
+      "lemmaPartition": "religious%1:18:00:: -> a person in a monastic order who has taken vows of poverty, chastity, and obedience\nreligious%3:00:01:: -> church leaders living under monastery vows\nreligious%3:00:00:: -> belief in and respect for a god\nreligious%5:00:00:sacred:00 -> connected with holy matters, worship, or the church",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "religious%3:00:00::",
+      "lemma": "religious",
+      "pos": "a",
+      "definition": "having or showing belief in and reverence for a deity",
+      "decision": "gloss",
+      "simpleMeaning": "Believing in a god and showing deep respect and devotion toward that god.",
+      "scope": "This sense is not about holy matters or the church in general, and not about monks under vows, but about a person's belief in and respect for a god.",
+      "examples": [
+        "She is a deeply religious person who prays every morning.",
+        "His religious faith helped him through the difficult year."
+      ],
+      "branchCoverage": [
+        "having or showing belief in and reverence for a deity -> believing in a god and showing deep respect and devotion toward that god"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having or showing belief in and reverence for a deity"
+      ],
+      "lemmaPartition": "religious%1:18:00:: -> a person in a monastic order who has taken vows of poverty, chastity, and obedience\nreligious%3:00:01:: -> church leaders living under monastery vows\nreligious%3:00:00:: -> belief in and respect for a god\nreligious%5:00:00:sacred:00 -> connected with holy matters, worship, or the church",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "religious%5:00:00:sacred:00",
+      "lemma": "religious",
+      "pos": "a",
+      "definition": "concerned with sacred matters or religion or the church",
+      "decision": "gloss",
+      "simpleMeaning": "Connected with holy matters, with worship, or with the church.",
+      "scope": "This sense is not about a person's belief in a god or about monks under vows, but about things connected with holy matters, worship, or the church.",
+      "examples": [
+        "The museum has a large collection of religious art.",
+        "Religious education is part of the school curriculum."
+      ],
+      "branchCoverage": [
+        "concerned with sacred matters or religion or the church -> connected with holy matters, with worship, or with the church"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "concerned with sacred matters or religion or the church"
+      ],
+      "lemmaPartition": "religious%1:18:00:: -> a person in a monastic order who has taken vows of poverty, chastity, and obedience\nreligious%3:00:01:: -> church leaders living under monastery vows\nreligious%3:00:00:: -> belief in and respect for a god\nreligious%5:00:00:sacred:00 -> connected with holy matters, worship, or the church",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ride%1:06:00::",
+      "lemma": "ride",
+      "pos": "n",
+      "definition": "a mechanical device that you ride for amusement or excitement",
+      "decision": "gloss",
+      "simpleMeaning": "A machine that carries people for fun or excitement.",
+      "scope": "This sense is not a journey on an animal or in a vehicle, but a machine that carries people for fun.",
+      "examples": [
+        "The children ran straight to the new ride at the fair.",
+        "We waited in line for the roller coaster and other rides."
+      ],
+      "branchCoverage": [
+        "a mechanical device that you ride for amusement or excitement -> a machine that carries people for fun or excitement"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a mechanical device that you ride for amusement or excitement"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "royal%1:05:00::",
+      "lemma": "royal",
+      "pos": "n",
+      "definition": "stag with antlers of 12 or more branches",
+      "decision": "gloss",
+      "simpleMeaning": "A male deer whose antlers have at least twelve points.",
+      "scope": "This sense is not the adjective meaning belonging to a king or queen, but a male deer with large antlers.",
+      "examples": [
+        "The hunter described the stag as a royal with twelve points.",
+        "A royal stood at the edge of the clearing, its antlers held high."
+      ],
+      "branchCoverage": [
+        "stag with antlers of 12 or more branches -> a male deer whose antlers have at least twelve points"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "stag with antlers of 12 or more branches"
+      ],
+      "lemmaPartition": "royal%1:05:00:: -> a male deer with twelve or more antler points\nroyal%1:06:00:: -> a sail above the topgallant on a royal mast\nroyal%3:01:00:: -> belonging to, showing, or done by a monarch\nroyal%3:01:01:: -> set up or officially approved by a monarch",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "royal%1:06:00::",
+      "lemma": "royal",
+      "pos": "n",
+      "definition": "a sail set next above the topgallant on a royal mast",
+      "decision": "defer",
+      "reason": "This is a specialized nautical rigging term: explaining it plainly requires the rare word 'topgallant' and the technical notion of a royal mast, so a learner-ready gloss cannot preserve its defining features.",
+      "sourceBranches": [
+        "a sail set next above the topgallant on a royal mast"
+      ],
+      "lemmaPartition": "royal%1:05:00:: -> a male deer with twelve or more antler points\nroyal%1:06:00:: -> a sail above the topgallant on a royal mast\nroyal%3:01:00:: -> belonging to, showing, or done by a monarch\nroyal%3:01:01:: -> set up or officially approved by a monarch",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "royal%3:01:00::",
+      "lemma": "royal",
+      "pos": "a",
+      "definition": "of or relating to or indicative of or issued or performed by a king or queen or other monarch",
+      "decision": "gloss",
+      "simpleMeaning": "Belonging to, showing, or done by a king, queen, or other ruler.",
+      "scope": "This sense is not about an organization set up or approved by a monarch, but about things that belong to, show, or are done by a king, queen, or other ruler.",
+      "examples": [
+        "The royal family attended the ceremony.",
+        "The letter carried the royal seal."
+      ],
+      "branchCoverage": [
+        "of or relating to or indicative of or issued or performed by a king or queen or other monarch -> belonging to, showing, or done by a king, queen, or other ruler"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to or indicative of or issued or performed by a king or queen or other monarch"
+      ],
+      "lemmaPartition": "royal%1:05:00:: -> a male deer with twelve or more antler points\nroyal%1:06:00:: -> a sail above the topgallant on a royal mast\nroyal%3:01:00:: -> belonging to, showing, or done by a monarch\nroyal%3:01:01:: -> set up or officially approved by a monarch",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "royal%3:01:01::",
+      "lemma": "royal",
+      "pos": "a",
+      "definition": "established or chartered or authorized by royalty",
+      "decision": "gloss",
+      "simpleMeaning": "Set up or officially approved by a king, queen, or other ruler.",
+      "scope": "This sense is not about things that merely belong to or represent a monarch, but about organizations or rights officially set up or approved by one.",
+      "examples": [
+        "The university was founded by royal charter in 1837.",
+        "The town's market still operates under a royal charter."
+      ],
+      "branchCoverage": [
+        "established or chartered or authorized by royalty -> set up or officially approved by a king, queen, or other ruler"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "established or chartered or authorized by royalty"
+      ],
+      "lemmaPartition": "royal%1:05:00:: -> a male deer with twelve or more antler points\nroyal%1:06:00:: -> a sail above the topgallant on a royal mast\nroyal%3:01:00:: -> belonging to, showing, or done by a monarch\nroyal%3:01:01:: -> set up or officially approved by a monarch",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "screen%1:06:05::",
+      "lemma": "screen",
+      "pos": "n",
+      "definition": "the display that is electronically created on the surface of the large end of a cathode-ray tube",
+      "decision": "gloss",
+      "simpleMeaning": "The picture that electricity makes on the wide front end of an old-style display tube, as in a television or monitor.",
+      "scope": "This sense is not a flat modern display, a cover that blocks sight, or a surface for projected pictures, but the glowing picture on the front of an old-style display tube.",
+      "examples": [
+        "The image on the cathode-ray screen was slightly curved at the edges.",
+        "He watched the green screen of the old terminal flicker."
+      ],
+      "branchCoverage": [
+        "the display that is electronically created on the surface of the large end of a cathode-ray tube -> the picture that electricity makes on the wide front end of an old-style display tube"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the display that is electronically created on the surface of the large end of a cathode-ray tube"
+      ],
+      "lemmaPartition": "screen%1:06:05:: -> the glowing picture on the front of an old-style tube\nscreen%1:06:04:: -> a cover that keeps things out or blocks sight\nscreen%1:06:06:: -> a surface for showing projected images",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "screen%1:06:04::",
+      "lemma": "screen",
+      "pos": "n",
+      "definition": "a protective covering that keeps things out or hinders sight",
+      "decision": "gloss",
+      "simpleMeaning": "A cover that keeps things out or blocks part of the view.",
+      "scope": "This sense is not an electronic display or a surface for projected pictures, but a cover that keeps things out or blocks the view.",
+      "examples": [
+        "A screen kept the mosquitoes out of the bedroom.",
+        "A folding screen hid the doorway from view."
+      ],
+      "branchCoverage": [
+        "a protective covering that keeps things out or hinders sight -> a cover that keeps things out or blocks part of the view"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a protective covering that keeps things out or hinders sight"
+      ],
+      "lemmaPartition": "screen%1:06:05:: -> the glowing picture on the front of an old-style tube\nscreen%1:06:04:: -> a cover that keeps things out or blocks sight\nscreen%1:06:06:: -> a surface for showing projected images",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "screen%1:06:06::",
+      "lemma": "screen",
+      "pos": "n",
+      "definition": "a white or silvered surface where pictures can be projected for viewing",
+      "decision": "gloss",
+      "simpleMeaning": "A white or shiny surface on which films or slides are shown.",
+      "scope": "This sense is not a cover that blocks sight or an electronic display, but a surface on which projected images are shown.",
+      "examples": [
+        "The teacher pulled down the screen and started the film.",
+        "They projected the wedding photos onto a large screen."
+      ],
+      "branchCoverage": [
+        "a white or silvered surface where pictures can be projected for viewing -> a white or shiny surface on which films or slides are shown"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a white or silvered surface where pictures can be projected for viewing"
+      ],
+      "lemmaPartition": "screen%1:06:05:: -> the glowing picture on the front of an old-style tube\nscreen%1:06:04:: -> a cover that keeps things out or blocks sight\nscreen%1:06:06:: -> a surface for showing projected images",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "serve%2:33:00::",
+      "lemma": "serve",
+      "pos": "v",
+      "definition": "do duty or hold offices; serve in a specific function",
+      "decision": "gloss",
+      "simpleMeaning": "To do the duties of a job or office and work in a particular role.",
+      "scope": "This sense is not about a thing being useful for a purpose, but about a person doing the duties of a job, office, or role.",
+      "examples": [
+        "She served as mayor for two terms.",
+        "He served in the army for ten years."
+      ],
+      "branchCoverage": [
+        "do duty or hold offices -> do the duties of a job or office",
+        "serve in a specific function -> work in a particular role"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "do duty or hold offices",
+        "serve in a specific function"
+      ],
+      "lemmaPartition": "serve%2:33:00:: -> a person doing the duties of a job, office, or role\nserve%2:42:03:: -> something being useful for a purpose or acting as something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "serve%2:42:03::",
+      "lemma": "serve",
+      "pos": "v",
+      "definition": "serve a purpose, role, or function",
+      "decision": "gloss",
+      "simpleMeaning": "To do the job of something or be useful for a particular purpose.",
+      "scope": "This sense is not about a person holding an office or doing duties, but about something being useful or acting as something else.",
+      "examples": [
+        "The shed serves as a workshop in winter.",
+        "An old box can serve as a small table."
+      ],
+      "branchCoverage": [
+        "serve a purpose, role, or function -> do the job of something or be useful for a particular purpose"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "serve a purpose, role, or function"
+      ],
+      "lemmaPartition": "serve%2:33:00:: -> a person doing the duties of a job, office, or role\nserve%2:42:03:: -> something being useful for a purpose or acting as something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "slow%5:00:00:stupid:00",
+      "lemma": "slow",
+      "pos": "a",
+      "definition": "slow to learn or understand; lacking intellectual acuity",
+      "decision": "gloss",
+      "simpleMeaning": "Taking a long time to learn or understand things and not quick at thinking.",
+      "scope": "This sense is not about moving at low speed, but about taking a long time to learn or understand.",
+      "examples": [
+        "The teacher thought the boy was slow, but he simply needed more time.",
+        "She was slow to understand the joke."
+      ],
+      "branchCoverage": [
+        "slow to learn or understand -> taking a long time to learn or understand things",
+        "lacking intellectual acuity -> not quick at thinking"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "slow to learn or understand",
+        "lacking intellectual acuity"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "species%1:09:00::",
+      "lemma": "species",
+      "pos": "n",
+      "definition": "a specific kind of something",
+      "decision": "gloss",
+      "simpleMeaning": "A particular type or kind of thing.",
+      "scope": "This sense is not a group of living things that can breed together, but any particular kind of thing.",
+      "examples": [
+        "The report describes a rare species of fraud.",
+        "This is a strange species of humor that few people enjoy."
+      ],
+      "branchCoverage": [
+        "a specific kind of something -> a particular type or kind of thing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a specific kind of something"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "speech%1:10:01::",
+      "lemma": "speech",
+      "pos": "n",
+      "definition": "the act of delivering a formal spoken communication to an audience",
+      "decision": "gloss",
+      "simpleMeaning": "The act of giving a formal talk to a group of people.",
+      "scope": "This sense is not the general ability to talk or a person's way of speaking, but a formal talk given to an audience.",
+      "examples": [
+        "Her speech at the ceremony moved everyone in the room.",
+        "He practiced his speech for hours before the conference."
+      ],
+      "branchCoverage": [
+        "the act of delivering a formal spoken communication to an audience -> the act of giving a formal talk to a group of people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of delivering a formal spoken communication to an audience"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "traffic%1:14:00::",
+      "lemma": "traffic",
+      "pos": "n",
+      "definition": "the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time",
+      "decision": "gloss",
+      "simpleMeaning": "The flow of people or vehicles through a particular area at a particular time.",
+      "scope": "This sense is not the illegal buying and selling of goods, but the movement of people or vehicles through an area.",
+      "examples": [
+        "Traffic was heavy during the morning rush hour.",
+        "Police directed traffic around the accident."
+      ],
+      "branchCoverage": [
+        "the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time -> the flow of people or vehicles through a particular area at a particular time"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "tree%1:20:00::",
+      "lemma": "tree",
+      "pos": "n",
+      "definition": "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms",
+      "decision": "gloss",
+      "simpleMeaning": "A tall plant that lives for many years, has a hard woody stem, and grows branches and leaves high above the ground, including both cone-bearing and flowering kinds.",
+      "scope": "This sense is not a bush or shrub, but a tall woody plant with a single main stem and a raised crown of branches.",
+      "examples": [
+        "The old oak tree in the garden is over two hundred years old.",
+        "We sat in the shade of a tall tree."
+      ],
+      "branchCoverage": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown -> a tall plant that lives for many years, has a hard woody stem, and grows branches and leaves high above the ground",
+        "includes both gymnosperms and angiosperms -> including both cone-bearing and flowering kinds"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown",
+        "includes both gymnosperms and angiosperms"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "airport%1:06:00::",
+      "lemma": "airport",
+      "pos": "n",
+      "definition": "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo",
+      "decision": "gloss",
+      "simpleMeaning": "A place where planes take off and land, with a control tower, buildings where planes are kept, and facilities for passengers and goods.",
+      "scope": "This sense is not just a simple landing strip, but a full facility with a control tower, plane storage buildings, and passenger and cargo services.",
+      "examples": [
+        "We arrived at the airport two hours before our flight.",
+        "The airport has a new terminal for international passengers."
+      ],
+      "branchCoverage": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo -> a place where planes take off and land, with a control tower, buildings where planes are kept, and facilities for passengers and goods"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "begin%2:42:00::",
+      "lemma": "begin",
+      "pos": "v",
+      "definition": "have a beginning, in a temporal, spatial, or evaluative sense",
+      "decision": "gloss",
+      "simpleMeaning": "to start to exist or to have a starting point, whether in time, in place, or in a range of values.",
+      "scope": "This is not about a person setting an activity going; it describes a thing or event that has its own starting point.",
+      "examples": [
+        "The concert begins at eight, so we should arrive early.",
+        "The hiking trail begins just past the old bridge."
+      ],
+      "branchCoverage": [
+        "have a beginning, in a temporal, spatial, or evaluative sense -> to start to exist or to have a starting point, whether in time, in place, or in a range of values"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have a beginning, in a temporal, spatial, or evaluative sense"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bottom%2:35:00::",
+      "lemma": "bottom",
+      "pos": "v",
+      "definition": "strike the ground, as with a ship's bottom",
+      "decision": "gloss",
+      "simpleMeaning": "for a ship to touch or hit the ground beneath the water, for example when it sails into water that is too shallow.",
+      "scope": "This is not about the lowest part of something, and not about the underside of a ship as a thing; it describes a hull making contact with the ground under the water.",
+      "examples": [
+        "The freighter bottomed on a sandbank and had to wait for the tide.",
+        "The ship bottomed on the reef, but the crew managed to refloat her at high tide."
+      ],
+      "branchCoverage": [
+        "strike the ground, as with a ship's bottom -> for a ship to touch or hit the ground beneath the water, for example when it sails into water that is too shallow"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "strike the ground, as with a ship's bottom"
+      ],
+      "lemmaPartition": "bottom%2:35:00:: -> a ship's hull touching the ground under water\nbottom%3:00:00:: -> placed in the lowest position",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bottom%3:00:00::",
+      "lemma": "bottom",
+      "pos": "a",
+      "definition": "situated at the bottom or lowest position",
+      "decision": "gloss",
+      "simpleMeaning": "placed in the lowest part or at the lowest level of something.",
+      "scope": "This is not about a ship striking the seabed, and not the noun for the lowest part; it describes where something is placed.",
+      "examples": [
+        "Put the heavy books on the bottom shelf.",
+        "The bottom drawer of the desk is stuck."
+      ],
+      "branchCoverage": [
+        "situated at the bottom or lowest position -> placed in the lowest part or at the lowest level of something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "situated at the bottom or lowest position"
+      ],
+      "lemmaPartition": "bottom%2:35:00:: -> a ship's hull touching the ground under water\nbottom%3:00:00:: -> placed in the lowest position",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "engine%1:06:01::",
+      "lemma": "engine",
+      "pos": "n",
+      "definition": "a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks",
+      "decision": "gloss",
+      "simpleMeaning": "a railway vehicle with its own power source that pulls the carriages or wagons of a train.",
+      "scope": "This is not the motor inside a machine; it is the whole rail vehicle that pulls a train.",
+      "examples": [
+        "The engine at the front of the train was covered in soot.",
+        "Two engines were needed to pull the heavy freight train up the mountain."
+      ],
+      "branchCoverage": [
+        "a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks -> a railway vehicle with its own power source that pulls the carriages or wagons of a train"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks"
+      ],
+      "lemmaPartition": "engine%1:06:01:: -> the whole railway vehicle that pulls a train\nengine%1:06:00:: -> the motor that turns heat into movement",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "engine%1:06:00::",
+      "lemma": "engine",
+      "pos": "n",
+      "definition": "motor that converts thermal energy to mechanical work",
+      "decision": "gloss",
+      "simpleMeaning": "a machine that turns heat energy into movement or physical work.",
+      "scope": "This is the motor itself, not the whole railway vehicle that pulls a train.",
+      "examples": [
+        "The car's engine overheated on the long climb.",
+        "The mechanic listened to the engine and said it needed new spark plugs."
+      ],
+      "branchCoverage": [
+        "motor that converts thermal energy to mechanical work -> a machine that turns heat energy into movement or physical work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "motor that converts thermal energy to mechanical work"
+      ],
+      "lemmaPartition": "engine%1:06:01:: -> the whole railway vehicle that pulls a train\nengine%1:06:00:: -> the motor that turns heat into movement",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "investment%1:04:00::",
+      "lemma": "investment",
+      "pos": "n",
+      "definition": "the act of investing; laying out money or capital in an enterprise with the expectation of profit",
+      "decision": "gloss",
+      "simpleMeaning": "the act of putting money or capital into a business or project in the hope of making a profit.",
+      "scope": "This is not the money that is put in, and not the time or effort given to a project; it is the act of putting money or capital in.",
+      "examples": [
+        "Foreign investment in the region has grown steadily over the past decade.",
+        "The book explains how investment works and why it carries risk."
+      ],
+      "branchCoverage": [
+        "the act of investing -> the act of putting money or capital into a business or project",
+        "laying out money or capital in an enterprise with the expectation of profit -> in the hope of making a profit"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of investing",
+        "laying out money or capital in an enterprise with the expectation of profit"
+      ],
+      "lemmaPartition": "investment%1:04:00:: -> the act of putting money or capital in\ninvestment%1:07:00:: -> time, energy, or effort given to a project\ninvestment%1:21:00:: -> the money itself that is put in",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "investment%1:07:00::",
+      "lemma": "investment",
+      "pos": "n",
+      "definition": "the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result",
+      "decision": "gloss",
+      "simpleMeaning": "the giving of time, energy, or effort to a project in the hope that it will produce a good result.",
+      "scope": "This is not money put into a business, and not the money itself; it is time, energy, or effort given to a project.",
+      "examples": [
+        "The success of the choir owed much to the personal investment of its volunteers.",
+        "He saw the long training as an investment in his own future."
+      ],
+      "branchCoverage": [
+        "the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result -> the giving of time, energy, or effort to a project in the hope that it will produce a good result"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the commitment of something other than money (time, energy, or effort) to a project with the expectation of some worthwhile result"
+      ],
+      "lemmaPartition": "investment%1:04:00:: -> the act of putting money or capital in\ninvestment%1:07:00:: -> time, energy, or effort given to a project\ninvestment%1:21:00:: -> the money itself that is put in",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "investment%1:21:00::",
+      "lemma": "investment",
+      "pos": "n",
+      "definition": "money that is invested with an expectation of profit",
+      "decision": "gloss",
+      "simpleMeaning": "money that has been put into something in the hope of earning a profit.",
+      "scope": "This is not the act of putting money in, and not time or effort given to a project; it is the money itself.",
+      "examples": [
+        "She sold her investments to pay for the house.",
+        "The fund holds investments in several technology companies."
+      ],
+      "branchCoverage": [
+        "money that is invested with an expectation of profit -> money that has been put into something in the hope of earning a profit"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "money that is invested with an expectation of profit"
+      ],
+      "lemmaPartition": "investment%1:04:00:: -> the act of putting money or capital in\ninvestment%1:07:00:: -> time, energy, or effort given to a project\ninvestment%1:21:00:: -> the money itself that is put in",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "partner%1:18:00::",
+      "lemma": "partner",
+      "pos": "n",
+      "definition": "an associate in an activity or endeavor or sphere of common interest",
+      "decision": "gloss",
+      "simpleMeaning": "a person who works or takes part with another person in an activity or area of shared interest.",
+      "scope": "This is not a husband, wife, or romantic companion, and not a co-owner of a business; it is someone who shares an activity or interest.",
+      "examples": [
+        "She trained with a partner for the doubles tournament.",
+        "The two scientists became partners in a long study of coral reefs."
+      ],
+      "branchCoverage": [
+        "an associate in an activity or endeavor or sphere of common interest -> a person who works or takes part with another person in an activity or area of shared interest"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an associate in an activity or endeavor or sphere of common interest"
+      ],
+      "lemmaPartition": "partner%1:18:00:: -> someone who shares an activity or interest\npartner%1:18:01:: -> the person someone is married to\npartner%1:18:02:: -> a co-owner of a business\npartner%2:40:00:: -> to arrange a partner for someone\npartner%2:41:00:: -> to be someone's partner yourself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "partner%1:18:01::",
+      "lemma": "partner",
+      "pos": "n",
+      "definition": "a person's partner in marriage",
+      "decision": "gloss",
+      "simpleMeaning": "the person someone is married to.",
+      "scope": "This is not a teammate, colleague, or business associate; it is the person someone is married to.",
+      "examples": [
+        "He and his partner celebrated their tenth wedding anniversary in June.",
+        "Her partner took her family name when they married."
+      ],
+      "branchCoverage": [
+        "a person's partner in marriage -> the person someone is married to"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person's partner in marriage"
+      ],
+      "lemmaPartition": "partner%1:18:00:: -> someone who shares an activity or interest\npartner%1:18:01:: -> the person someone is married to\npartner%1:18:02:: -> a co-owner of a business\npartner%2:40:00:: -> to arrange a partner for someone\npartner%2:41:00:: -> to be someone's partner yourself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "partner%1:18:02::",
+      "lemma": "partner",
+      "pos": "n",
+      "definition": "a person who is a member of a partnership",
+      "decision": "gloss",
+      "simpleMeaning": "a person who shares ownership of a business with one or more other people.",
+      "scope": "This is not a spouse, and not simply someone who shares an activity; it is a co-owner of a business.",
+      "examples": [
+        "Each partner is liable for the debts of the firm.",
+        "The junior partner was promoted after ten years with the law firm."
+      ],
+      "branchCoverage": [
+        "a person who is a member of a partnership -> a person who shares ownership of a business with one or more other people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who is a member of a partnership"
+      ],
+      "lemmaPartition": "partner%1:18:00:: -> someone who shares an activity or interest\npartner%1:18:01:: -> the person someone is married to\npartner%1:18:02:: -> a co-owner of a business\npartner%2:40:00:: -> to arrange a partner for someone\npartner%2:41:00:: -> to be someone's partner yourself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "partner%2:40:00::",
+      "lemma": "partner",
+      "pos": "v",
+      "definition": "provide with a partner",
+      "decision": "gloss",
+      "simpleMeaning": "to give someone a person to work or take part with.",
+      "scope": "This is not taking part as someone's partner yourself; it is arranging for someone to have a partner.",
+      "examples": [
+        "The instructor partnered each new student with an experienced player.",
+        "At the social, the organizers partnered shy guests with friendly hosts."
+      ],
+      "branchCoverage": [
+        "provide with a partner -> to give someone a person to work or take part with"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "provide with a partner"
+      ],
+      "lemmaPartition": "partner%1:18:00:: -> someone who shares an activity or interest\npartner%1:18:01:: -> the person someone is married to\npartner%1:18:02:: -> a co-owner of a business\npartner%2:40:00:: -> to arrange a partner for someone\npartner%2:41:00:: -> to be someone's partner yourself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "partner%2:41:00::",
+      "lemma": "partner",
+      "pos": "v",
+      "definition": "act as a partner",
+      "decision": "gloss",
+      "simpleMeaning": "to take part as the companion or associate of another person.",
+      "scope": "This is not arranging a partner for someone else; it is being the partner yourself.",
+      "examples": [
+        "She partnered him in the doubles final and they won in straight sets.",
+        "In the opening dance, he partnered the guest of honour."
+      ],
+      "branchCoverage": [
+        "act as a partner -> to take part as the companion or associate of another person"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "act as a partner"
+      ],
+      "lemmaPartition": "partner%1:18:00:: -> someone who shares an activity or interest\npartner%1:18:01:: -> the person someone is married to\npartner%1:18:02:: -> a co-owner of a business\npartner%2:40:00:: -> to arrange a partner for someone\npartner%2:41:00:: -> to be someone's partner yourself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "raised%5:00:01:adorned:00",
+      "lemma": "raised",
+      "pos": "a",
+      "definition": "embellished with a raised pattern created by pressure or embroidery",
+      "decision": "gloss",
+      "simpleMeaning": "decorated with a pattern that stands out above the surface, made by pressing or by sewing.",
+      "scope": "This is not about something being lifted up or increased; it describes a decorative pattern that stands out from a surface.",
+      "examples": [
+        "The invitations had raised gold lettering on the cover.",
+        "She wore a jacket with a raised floral pattern."
+      ],
+      "branchCoverage": [
+        "embellished with a raised pattern created by pressure or embroidery -> decorated with a pattern that stands out above the surface, made by pressing or by sewing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "embellished with a raised pattern created by pressure or embroidery"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sad%3:00:00::",
+      "lemma": "sad",
+      "pos": "a",
+      "definition": "experiencing or showing sorrow or unhappiness",
+      "decision": "gloss",
+      "simpleMeaning": "feeling unhappy, or showing that you feel unhappy.",
+      "scope": "This is not about a situation being unfortunate or in a bad state; it is about a person's unhappiness and how it shows.",
+      "examples": [
+        "She felt sad when her best friend moved away.",
+        "The film left him feeling sad for days."
+      ],
+      "branchCoverage": [
+        "experiencing or showing sorrow or unhappiness -> feeling unhappy, or showing that you feel unhappy"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "experiencing or showing sorrow or unhappiness"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "solution%1:27:00::",
+      "lemma": "solution",
+      "pos": "n",
+      "definition": "a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution",
+      "decision": "gloss",
+      "simpleMeaning": "a mixture in which two or more substances are spread evenly through each other so that you cannot see the separate parts, and which is usually, though not always, a liquid.",
+      "scope": "This is not an answer to a problem; it is a mixture of substances.",
+      "examples": [
+        "Stir the salt until it forms a clear solution.",
+        "The chemist added a few drops of the solution to the test tube."
+      ],
+      "branchCoverage": [
+        "a homogeneous mixture of two or more substances -> a mixture in which two or more substances are spread evenly through each other so that you cannot see the separate parts",
+        "frequently (but not necessarily) a liquid solution -> and which is usually, though not always, a liquid"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a homogeneous mixture of two or more substances",
+        "frequently (but not necessarily) a liquid solution"
+      ],
+      "lemmaPartition": "solution%1:27:00:: -> a mixture of substances spread evenly together\nsolution%1:10:00:: -> an answer or explanation for a problem",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "solution%1:10:00::",
+      "lemma": "solution",
+      "pos": "n",
+      "definition": "a statement that solves a problem or explains how to solve the problem",
+      "decision": "gloss",
+      "simpleMeaning": "an answer or explanation that shows how to deal with a problem.",
+      "scope": "This is not a liquid mixture of substances; it is an answer or explanation.",
+      "examples": [
+        "The committee spent weeks searching for a solution to the funding crisis.",
+        "There is no simple solution to traffic congestion."
+      ],
+      "branchCoverage": [
+        "a statement that solves a problem or explains how to solve the problem -> an answer or explanation that shows how to deal with a problem"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a statement that solves a problem or explains how to solve the problem"
+      ],
+      "lemmaPartition": "solution%1:27:00:: -> a mixture of substances spread evenly together\nsolution%1:10:00:: -> an answer or explanation for a problem",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "southern%3:00:02::",
+      "lemma": "southern",
+      "pos": "a",
+      "definition": "in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to or typical of the part of the United States that lies south of the old Mason-Dixon line.",
+      "scope": "This is not about the south of any region in general and not about facing south; it refers specifically to the southern United States.",
+      "examples": [
+        "He grew up in a small southern town near the Georgia border.",
+        "The menu featured classic southern dishes such as fried chicken and grits."
+      ],
+      "branchCoverage": [
+        "in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line -> belonging to or typical of the part of the United States that lies south of the old Mason-Dixon line"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line"
+      ],
+      "lemmaPartition": "southern%3:00:02:: -> belonging to the southern United States\nsouthern%3:00:01:: -> located in or coming from southern regions\nsouthern%5:00:02:south:00 -> placed on or pointing toward the south side",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "southern%3:00:01::",
+      "lemma": "southern",
+      "pos": "a",
+      "definition": "situated in or coming from regions of the south",
+      "decision": "gloss",
+      "simpleMeaning": "located in the south of a region, or coming from the south.",
+      "scope": "This is not about the side of something that faces south; it is about being located in the south of a region or coming from there.",
+      "examples": [
+        "The southern half of the country is much drier.",
+        "Southern Europe has milder winters than the north."
+      ],
+      "branchCoverage": [
+        "situated in or coming from regions of the south -> located in the south of a region, or coming from the south"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "situated in or coming from regions of the south"
+      ],
+      "lemmaPartition": "southern%3:00:02:: -> belonging to the southern United States\nsouthern%3:00:01:: -> located in or coming from southern regions\nsouthern%5:00:02:south:00 -> placed on or pointing toward the south side",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "southern%5:00:02:south:00",
+      "lemma": "southern",
+      "pos": "a",
+      "definition": "situated in or oriented toward the south",
+      "decision": "gloss",
+      "simpleMeaning": "placed on the south side of something or pointing toward the south.",
+      "scope": "This is not about coming from southern regions and not about the southern United States; it is about the side of something that faces or lies toward the south.",
+      "examples": [
+        "The southern side of the building stays cool in summer.",
+        "They planted trees along the southern edge of the field."
+      ],
+      "branchCoverage": [
+        "situated in or oriented toward the south -> placed on the south side of something or pointing toward the south"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "situated in or oriented toward the south"
+      ],
+      "lemmaPartition": "southern%3:00:02:: -> belonging to the southern United States\nsouthern%3:00:01:: -> located in or coming from southern regions\nsouthern%5:00:02:south:00 -> placed on or pointing toward the south side",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "square%3:00:00::",
+      "lemma": "square",
+      "pos": "a",
+      "definition": "having four equal sides and four right angles or forming a right angle",
+      "decision": "gloss",
+      "simpleMeaning": "having four sides of the same length and four corners of ninety degrees, or forming a ninety-degree corner.",
+      "scope": "This is not about being honest or fair; it describes a shape with four equal sides and right angles.",
+      "examples": [
+        "The table was square, with room for four people.",
+        "He drew a square box around the answer."
+      ],
+      "branchCoverage": [
+        "having four equal sides and four right angles or forming a right angle -> having four sides of the same length and four corners of ninety degrees, or forming a ninety-degree corner"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having four equal sides and four right angles or forming a right angle"
+      ],
+      "lemmaPartition": "square%3:00:00:: -> having four equal sides and right angles\nsquare%3:00:04:: -> honest and fair\nsquare%2:30:00:: -> to make something square in shape\nsquare%4:02:02:: -> in a square shape, of the way something is done",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "square%3:00:04::",
+      "lemma": "square",
+      "pos": "a",
+      "definition": "characterized by honesty and fairness",
+      "decision": "gloss",
+      "simpleMeaning": "honest and fair in the way you deal with people.",
+      "scope": "This is not about a geometric shape; it describes honest and fair treatment of people.",
+      "examples": [
+        "The shopkeeper gave us a square deal and threw in free delivery.",
+        "I want to be square with you about what happened."
+      ],
+      "branchCoverage": [
+        "characterized by honesty and fairness -> honest and fair in the way you deal with people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characterized by honesty and fairness"
+      ],
+      "lemmaPartition": "square%3:00:00:: -> having four equal sides and right angles\nsquare%3:00:04:: -> honest and fair\nsquare%2:30:00:: -> to make something square in shape\nsquare%4:02:02:: -> in a square shape, of the way something is done",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "square%2:30:00::",
+      "lemma": "square",
+      "pos": "v",
+      "definition": "make square",
+      "decision": "gloss",
+      "simpleMeaning": "to make something have four equal sides and right angles.",
+      "scope": "This is not about multiplying a number by itself or settling a debt; it means making something square in shape.",
+      "examples": [
+        "Use a ruler to square the corners of the card.",
+        "The carpenter squared the ends of the boards before joining them."
+      ],
+      "branchCoverage": [
+        "make square -> to make something have four equal sides and right angles"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make square"
+      ],
+      "lemmaPartition": "square%3:00:00:: -> having four equal sides and right angles\nsquare%3:00:04:: -> honest and fair\nsquare%2:30:00:: -> to make something square in shape\nsquare%4:02:02:: -> in a square shape, of the way something is done",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "square%4:02:02::",
+      "lemma": "square",
+      "pos": "r",
+      "definition": "in a square shape",
+      "decision": "gloss",
+      "simpleMeaning": "in the form of a shape with four equal sides and right angles.",
+      "scope": "This is not the adjective describing a thing's shape and not the verb of shaping something; it describes the way an action is done so that the result is square.",
+      "examples": [
+        "Cut the paper square and fold it in half.",
+        "The tiles were laid square along the edge of the floor."
+      ],
+      "branchCoverage": [
+        "in a square shape -> in the form of a shape with four equal sides and right angles"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in a square shape"
+      ],
+      "lemmaPartition": "square%3:00:00:: -> having four equal sides and right angles\nsquare%3:00:04:: -> honest and fair\nsquare%2:30:00:: -> to make something square in shape\nsquare%4:02:02:: -> in a square shape, of the way something is done",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "structure%1:06:00::",
+      "lemma": "structure",
+      "pos": "n",
+      "definition": "a thing constructed; a complex entity constructed of many parts",
+      "decision": "gloss",
+      "simpleMeaning": "a thing that has been built and that is made up of many connected parts.",
+      "scope": "This is not the way parts are arranged or organized; it is the built thing itself.",
+      "examples": [
+        "The bridge is a remarkable steel structure.",
+        "Workers inspected the structure for cracks after the earthquake."
+      ],
+      "branchCoverage": [
+        "a thing constructed -> a thing that has been built",
+        "a complex entity constructed of many parts -> made up of many connected parts"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a thing constructed",
+        "a complex entity constructed of many parts"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

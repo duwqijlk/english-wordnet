@@ -1,0 +1,976 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 13,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 43,
+      "of": 50,
+      "rate": 0.86
+    },
+    "selfApproved": [
+      "personal%1:10:00::",
+      "dead%3:00:02::",
+      "test%1:04:02::",
+      "break%2:30:06::",
+      "wish%1:10:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "14970f325f82ce2afac479223da88eaa01e0ab84e53bb6a4fee6c00c270a9a03"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "personal%1:10:00::",
+      "lemma": "personal",
+      "pos": "n",
+      "definition": "a short newspaper article about a particular person or group",
+      "decision": "gloss",
+      "simpleMeaning": "A short piece in a newspaper about one particular man, woman or group.",
+      "scope": "It is not a private letter or a long news report; it is only a short newspaper item about a particular man, woman or group.",
+      "examples": [
+        "The editor asked him to write a personal about the new coach.",
+        "The paper printed a short personal about the village's oldest resident."
+      ],
+      "branchCoverage": [
+        "a short newspaper article about a particular person or group -> a short piece in a newspaper about one particular man, woman or group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "A short piece in a newspaper about one particular person or group.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss narrows 'person' to men and women; children excluded."
+    },
+    {
+      "senseId": "share%1:21:01::",
+      "lemma": "share",
+      "pos": "n",
+      "definition": "any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate",
+      "decision": "gloss",
+      "simpleMeaning": "One of the equal parts of a company's capital that people can own, shown by a stock certificate.",
+      "scope": "It is not someone's fair part of money or goods, and not the act of dividing something with others.",
+      "examples": [
+        "She bought ten shares in the railway company.",
+        "The value of his shares doubled in a year."
+      ],
+      "branchCoverage": [
+        "any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate -> one of the equal parts of a company's capital that people can own, shown by a stock certificate"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "share (n, stock) = one equal unit of a company's capital that you can own; share (n, portion) = the money or property that is someone's fair part; share (v) = to have, give or receive part of something with others.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "share%1:21:00::",
+      "lemma": "share",
+      "pos": "n",
+      "definition": "assets belonging to or due to or contributed by an individual person or group",
+      "decision": "gloss",
+      "simpleMeaning": "The money or property that belongs to a person or group, is owed to them, or that they have put in.",
+      "scope": "It is not a unit of company ownership bought as an investment.",
+      "examples": [
+        "Each child received an equal share of the money.",
+        "He paid his share of the rent on time."
+      ],
+      "branchCoverage": [
+        "assets belonging to or due to or contributed by an individual person or group -> the money or property that belongs to a person or group, is owed to them, or that they have put in"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "share (n, stock) = one equal unit of a company's capital that you can own; share (n, portion) = the money or property that is someone's fair part; share (v) = to have, give or receive part of something with others.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "share%2:40:01::",
+      "lemma": "share",
+      "pos": "v",
+      "definition": "have, give, or receive a share of",
+      "decision": "gloss",
+      "simpleMeaning": "To have, give or receive part of something along with other people.",
+      "scope": "It is not about owning company stock, and it does not mean telling news or feelings to other people.",
+      "examples": [
+        "The two sisters share a small flat.",
+        "Will you share your sandwich with me?"
+      ],
+      "branchCoverage": [
+        "have, give, or receive a share of -> to have, give or receive part of something along with other people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "share (n, stock) = one equal unit of a company's capital that you can own; share (n, portion) = the money or property that is someone's fair part; share (v) = to have, give or receive part of something with others.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%3:00:00::",
+      "lemma": "center",
+      "pos": "a",
+      "definition": "of or belonging to neither the right nor the left politically or intellectually",
+      "decision": "gloss",
+      "simpleMeaning": "Having views that are neither on the right nor on the left, in politics or in ideas.",
+      "scope": "It describes political or intellectual views, not a physical position between two ends.",
+      "examples": [
+        "The party won support from center voters.",
+        "She holds center views on taxes and health care."
+      ],
+      "branchCoverage": [
+        "of or belonging to neither the right nor the left politically or intellectually -> views neither on the right nor on the left, in politics or in ideas"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center (adj, politics) = having views neither on the right nor on the left; center (adj, position) = at the same distance from both ends; center (v, move) = to put something in the middle; center (v, focus) = to have something as the main subject.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%5:00:00:central:01",
+      "lemma": "center",
+      "pos": "a",
+      "definition": "equally distant from the extremes",
+      "decision": "gloss",
+      "simpleMeaning": "At the same distance from both ends or sides.",
+      "scope": "It is about physical position or amount, not about political opinions.",
+      "examples": [
+        "He chose a seat in the center row.",
+        "The center point of the circle is marked with a cross."
+      ],
+      "branchCoverage": [
+        "equally distant from the extremes -> at the same distance from both ends or sides"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center (adj, politics) = having views neither on the right nor on the left; center (adj, position) = at the same distance from both ends; center (v, move) = to put something in the middle; center (v, focus) = to have something as the main subject.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%2:38:00::",
+      "lemma": "center",
+      "pos": "v",
+      "definition": "move into the center",
+      "decision": "gloss",
+      "simpleMeaning": "To move something so that it sits in the middle.",
+      "scope": "It is about moving an object to the middle, not about giving attention to a subject.",
+      "examples": [
+        "She centered the picture on the wall.",
+        "Center the text on the page before you print it."
+      ],
+      "branchCoverage": [
+        "move into the center -> to move something so that it sits in the middle"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center (adj, politics) = having views neither on the right nor on the left; center (adj, position) = at the same distance from both ends; center (v, move) = to put something in the middle; center (v, focus) = to have something as the main subject.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "center%2:42:00::",
+      "lemma": "center",
+      "pos": "v",
+      "definition": "center upon",
+      "decision": "gloss",
+      "simpleMeaning": "To have something as the main subject or point of attention.",
+      "scope": "It is about what holds someone's attention, not about moving a thing to the middle.",
+      "examples": [
+        "The film centers on a family living by the sea.",
+        "Her research centers upon how children learn to read."
+      ],
+      "branchCoverage": [
+        "center upon -> to have something as the main subject or point of attention"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "center (adj, politics) = having views neither on the right nor on the left; center (adj, position) = at the same distance from both ends; center (v, move) = to put something in the middle; center (v, focus) = to have something as the main subject.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dead%4:02:01::",
+      "lemma": "dead",
+      "pos": "r",
+      "definition": "quickly and without warning; happening unexpectedly; on impulse; without premeditation",
+      "decision": "gloss",
+      "simpleMeaning": "Suddenly and with no warning, often acting on a sudden urge and without thinking it through first.",
+      "scope": "It means all at once, not completely or exactly.",
+      "examples": [
+        "He stopped dead when he saw the snake.",
+        "The car stopped dead in the middle of the road."
+      ],
+      "branchCoverage": [
+        "quickly and without warning -> suddenly and with no warning",
+        "happening unexpectedly -> suddenly, so it comes as a surprise",
+        "on impulse -> acting on a sudden urge",
+        "without premeditation -> without thinking it through first"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dead (adv, sudden) = happening at once with no warning; dead (adj) = no longer alive or no longer able to work or give heat; dead (adv, emphasis) = completely or exactly, used to strengthen another word.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dead%3:00:02::",
+      "lemma": "dead",
+      "pos": "a",
+      "definition": "not showing characteristics of life especially the capacity to sustain life; no longer exerting force or having energy or heat",
+      "decision": "gloss",
+      "simpleMeaning": "No longer alive, and no longer able to give force, energy or heat.",
+      "scope": "It is about living things or used-up power sources, not about a complete or exact degree.",
+      "examples": [
+        "The plant was dead after weeks without water.",
+        "The battery is dead, so the torch will not work."
+      ],
+      "branchCoverage": [
+        "not showing characteristics of life especially the capacity to sustain life -> no longer alive",
+        "no longer exerting force or having energy or heat -> no longer able to give force, energy or heat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dead (adv, sudden) = happening at once with no warning; dead (adj) = no longer alive or no longer able to work or give heat; dead (adv, emphasis) = completely or exactly, used to strengthen another word.",
+      "meaning": "No longer alive, or no longer able to give force, energy, or heat.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss says both; branches are alternatives (a battery was never alive)."
+    },
+    {
+      "senseId": "dead%4:02:00::",
+      "lemma": "dead",
+      "pos": "r",
+      "definition": "completely and without qualification; used informally as intensifiers",
+      "decision": "gloss",
+      "simpleMeaning": "Used informally before another word to mean 'completely' or 'exactly'.",
+      "scope": "It only strengthens another word; it does not mean suddenly or without life.",
+      "examples": [
+        "You are dead right about that.",
+        "The train arrived dead on time."
+      ],
+      "branchCoverage": [
+        "completely and without qualification -> 'completely' or 'exactly'",
+        "used informally as intensifiers -> used informally before another word to strengthen it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dead (adv, sudden) = happening at once with no warning; dead (adj) = no longer alive or no longer able to work or give heat; dead (adv, emphasis) = completely or exactly, used to strengthen another word.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "happen%2:30:02::",
+      "lemma": "happen",
+      "pos": "v",
+      "definition": "happen, occur, or be the case in the course of events or by chance",
+      "decision": "gloss",
+      "simpleMeaning": "To take place, or to be the case, as events unfold or by chance.",
+      "scope": "It is about events taking place, not about meeting or finding something by chance.",
+      "examples": [
+        "The accident happened at the corner of our street.",
+        "What happened to your bike?"
+      ],
+      "branchCoverage": [
+        "happen, occur, or be the case in the course of events or by chance -> to take place, or to be the case, as events unfold or by chance"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "industry%1:07:00::",
+      "lemma": "industry",
+      "pos": "n",
+      "definition": "persevering determination to perform a task",
+      "decision": "gloss",
+      "simpleMeaning": "Steady, determined effort to get a job done.",
+      "scope": "It is about a person's effort at work, not about factories or businesses.",
+      "examples": [
+        "Her industry earned her a promotion.",
+        "He was praised for his industry and patience."
+      ],
+      "branchCoverage": [
+        "persevering determination to perform a task -> steady, determined effort to get a job done"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "inside%5:00:00:interior:00",
+      "lemma": "inside",
+      "pos": "a",
+      "definition": "being or applying to the inside of a building",
+      "decision": "gloss",
+      "simpleMeaning": "On or for the inner side of a building.",
+      "scope": "It is about the inner side of a building, not the inner part of a small object or a person's hidden feelings.",
+      "examples": [
+        "The inside walls need a new coat of paint.",
+        "They built an inside staircase to the attic."
+      ],
+      "branchCoverage": [
+        "being or applying to the inside of a building -> on or for the inner side of a building"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "inside (adj) = on or for the inner side of a building; inside (n) = the inner part or space of something; inside (adv) = in or into that inner part.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "inside%1:15:01::",
+      "lemma": "inside",
+      "pos": "n",
+      "definition": "the region that is inside of something",
+      "decision": "gloss",
+      "simpleMeaning": "The inner part or space of something.",
+      "scope": "It is about the inner space of a thing, not a person's secret thoughts.",
+      "examples": [
+        "The inside of the box was lined with soft paper.",
+        "He painted the inside of the house white."
+      ],
+      "branchCoverage": [
+        "the region that is inside of something -> the inner part or space of something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "inside (adj) = on or for the inner side of a building; inside (n) = the inner part or space of something; inside (adv) = in or into that inner part.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "inside%4:02:01::",
+      "lemma": "inside",
+      "pos": "r",
+      "definition": "on the inside",
+      "decision": "gloss",
+      "simpleMeaning": "In or into the inner part of something.",
+      "scope": "It tells you where someone or something is, not how someone really feels.",
+      "examples": [
+        "It was cold, so we went inside.",
+        "The children played inside all afternoon."
+      ],
+      "branchCoverage": [
+        "on the inside -> in or into the inner part of something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "inside (adj) = on or for the inner side of a building; inside (n) = the inner part or space of something; inside (adv) = in or into that inner part.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "private%1:18:00::",
+      "lemma": "private",
+      "pos": "n",
+      "definition": "an enlisted man of the lowest rank in the Army or Marines",
+      "decision": "gloss",
+      "simpleMeaning": "A soldier of the lowest rank in the army or marines.",
+      "scope": "It is a soldier's rank, not something secret or personal.",
+      "examples": [
+        "He joined the army as a private.",
+        "The private saluted the officer."
+      ],
+      "branchCoverage": [
+        "an enlisted man of the lowest rank in the Army or Marines -> a soldier of the lowest rank in the army or marines"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "private (n) = a soldier of the lowest rank; private (adj, access) = limited to certain people or hidden from public view; private (adj, intimate) = about deeply personal matters.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "private%3:00:00::",
+      "lemma": "private",
+      "pos": "a",
+      "definition": "confined to particular persons or groups or providing privacy",
+      "decision": "gloss",
+      "simpleMeaning": "Limited to certain people, or kept away from public view.",
+      "scope": "It is about who may enter or see something, not about deep feelings or intimate matters.",
+      "examples": [
+        "The garden is private, so visitors must not enter.",
+        "We held a private meeting in her office."
+      ],
+      "branchCoverage": [
+        "confined to particular persons or groups or providing privacy -> limited to certain people, or kept away from public view"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "private (n) = a soldier of the lowest rank; private (adj, access) = limited to certain people or hidden from public view; private (adj, intimate) = about deeply personal matters.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "private%5:00:02:personal:00",
+      "lemma": "private",
+      "pos": "a",
+      "definition": "concerning things deeply private and personal",
+      "decision": "gloss",
+      "simpleMeaning": "About very personal matters that someone feels deeply and keeps to themselves.",
+      "scope": "It is about intimate feelings and matters, not about a place or meeting open only to certain people.",
+      "examples": [
+        "She never talks about her private life at work.",
+        "This is a private matter between the two of them."
+      ],
+      "branchCoverage": [
+        "concerning things deeply private and personal -> about very personal matters that someone feels deeply and keeps to themselves"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "private (n) = a soldier of the lowest rank; private (adj, access) = limited to certain people or hidden from public view; private (adj, intimate) = about deeply personal matters.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "return%1:10:01::",
+      "lemma": "return",
+      "pos": "n",
+      "definition": "document giving the tax collector information about the taxpayer's tax liability",
+      "decision": "gloss",
+      "simpleMeaning": "A form that tells the tax office how much income you have and how much tax you owe.",
+      "scope": "It is a tax document, not the act of coming back to a place.",
+      "examples": [
+        "She sent her tax return before the deadline.",
+        "The accountant checked every figure on my return."
+      ],
+      "branchCoverage": [
+        "document giving the tax collector information about the taxpayer's tax liability -> a form that tells the tax office how much income you have and how much tax you owe"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "return (n, tax) = the form sent to the tax office about your income and tax; return (n, coming back) = the act of coming back to a place or home.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "return%1:04:01::",
+      "lemma": "return",
+      "pos": "n",
+      "definition": "a coming to or returning home",
+      "decision": "gloss",
+      "simpleMeaning": "The act of coming back to a place, especially home.",
+      "scope": "It is about coming back to a place, not a tax form.",
+      "examples": [
+        "The soldiers' return was celebrated with a parade.",
+        "We waited for his return from the trip."
+      ],
+      "branchCoverage": [
+        "a coming to or returning home -> the act of coming back to a place, especially home"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "return (n, tax) = the form sent to the tax office about your income and tax; return (n, coming back) = the act of coming back to a place or home.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sense%2:39:00::",
+      "lemma": "sense",
+      "pos": "v",
+      "definition": "perceive by a physical sensation, e.g., coming from the skin or muscles",
+      "decision": "gloss",
+      "simpleMeaning": "To feel something through the body, such as touch or pain from the skin or muscles.",
+      "scope": "It is about feeling through the body, not about understanding or noticing something in the mind.",
+      "examples": [
+        "I could sense the heat of the sun on my skin.",
+        "She sensed a sharp pain in her knee."
+      ],
+      "branchCoverage": [
+        "perceive by a physical sensation, e.g., coming from the skin or muscles -> feel something through the body, such as touch or pain from the skin or muscles"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sense (v, feel) = to feel something through the body; sense (v, machine) = to pick something up automatically, as a device does; sense (n, faculty) = a bodily power such as sight or hearing; sense (n, meaning) = the meaning of a word or of a situation.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sense%2:39:02::",
+      "lemma": "sense",
+      "pos": "v",
+      "definition": "detect some circumstance or entity automatically",
+      "decision": "gloss",
+      "simpleMeaning": "To pick up something by itself, without a person doing it, as a machine does.",
+      "scope": "It is about a device noticing something, not about a person's feelings.",
+      "examples": [
+        "The alarm senses smoke and starts ringing.",
+        "The door senses movement and opens by itself."
+      ],
+      "branchCoverage": [
+        "detect some circumstance or entity automatically -> pick up something by itself, without a person doing it, as a machine does"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sense (v, feel) = to feel something through the body; sense (v, machine) = to pick something up automatically, as a device does; sense (n, faculty) = a bodily power such as sight or hearing; sense (n, meaning) = the meaning of a word or of a situation.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sense%1:09:02::",
+      "lemma": "sense",
+      "pos": "n",
+      "definition": "the faculty through which the external world is apprehended",
+      "decision": "gloss",
+      "simpleMeaning": "One of the powers of the body, such as sight or hearing, by which you take in the world around you.",
+      "scope": "It is a bodily power such as sight or hearing, not the meaning of a word.",
+      "examples": [
+        "Dogs have a very keen sense of smell.",
+        "The illness affected his sense of touch."
+      ],
+      "branchCoverage": [
+        "the faculty through which the external world is apprehended -> powers of the body, such as sight or hearing, by which you take in the world around you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sense (v, feel) = to feel something through the body; sense (v, machine) = to pick something up automatically, as a device does; sense (n, faculty) = a bodily power such as sight or hearing; sense (n, meaning) = the meaning of a word or of a situation.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sense%1:10:00::",
+      "lemma": "sense",
+      "pos": "n",
+      "definition": "the meaning of a word or expression; the way in which a word or expression or situation can be interpreted",
+      "decision": "gloss",
+      "simpleMeaning": "The meaning of a word or phrase, or one way of understanding a word, phrase or situation.",
+      "scope": "It is about what words or situations mean, not about sight, hearing or other bodily powers.",
+      "examples": [
+        "This word has two different senses.",
+        "In what sense do you mean that?"
+      ],
+      "branchCoverage": [
+        "the meaning of a word or expression -> the meaning of a word or phrase",
+        "the way in which a word or expression or situation can be interpreted -> one way of understanding a word, phrase or situation"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sense (v, feel) = to feel something through the body; sense (v, machine) = to pick something up automatically, as a device does; sense (n, faculty) = a bodily power such as sight or hearing; sense (n, meaning) = the meaning of a word or of a situation.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sense%2:31:03::",
+      "lemma": "sense",
+      "pos": "v",
+      "definition": "become aware of not through the senses but instinctively",
+      "decision": "gloss",
+      "simpleMeaning": "to become aware of something from a feeling inside you, not through your eyes, ears or skin.",
+      "scope": "This is not physical feeling and not the meaning of a word; it is a quiet, instinctive awareness.",
+      "examples": [
+        "She sensed that someone was watching her, even though the street was empty.",
+        "He sensed trouble as soon as he entered the room."
+      ],
+      "branchCoverage": [
+        "become aware of not through the senses but instinctively -> become aware of something from a feeling inside you, not through your eyes, ears or skin"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sense (v) = to feel something through your body, such as heat or pain; sense (v) = to be found automatically by a machine or device; sense (n) = the ability to see, hear, smell, taste or touch; sense (n) = the meaning of a word or situation; sense (v) = to become aware of something by an inner feeling, not through the body.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "test%1:04:02::",
+      "lemma": "test",
+      "pos": "n",
+      "definition": "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc",
+      "decision": "gloss",
+      "simpleMeaning": "a fixed set of tasks or questions that measures a mental quality such as sensitivity, memory, intelligence, aptitude or personality.",
+      "scope": "It is not a school exam on a subject and not a trial of a product; it measures a mental or personal quality.",
+      "examples": [
+        "The doctor gave him a test to check his memory.",
+        "She took a personality test before joining the company."
+      ],
+      "branchCoverage": [
+        "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc -> a fixed set of tasks or questions that measures a mental quality such as sensitivity, memory, intelligence, aptitude or personality"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "test (n) = a fixed procedure that measures a mental quality such as memory or personality; test (n) = a set of questions or tasks that checks knowledge or skill.",
+      "meaning": "a fixed set of tasks or questions that measures qualities such as memory, intelligence, natural ability, how easily you notice things, or personality.",
+      "verdict": "self-approved",
+      "reviewerNote": "Hard 'aptitude'/'sensitivity'; sensitivity mislabelled mental. Better: 'measures qualities such as memory, intelligence, natural ability, how easily you notice things, or personality'."
+    },
+    {
+      "senseId": "test%1:10:00::",
+      "lemma": "test",
+      "pos": "n",
+      "definition": "a set of questions or exercises evaluating skill or knowledge",
+      "decision": "gloss",
+      "simpleMeaning": "a group of questions or tasks that shows how much you know or how well you can do something.",
+      "scope": "It is not a scientific measure of memory or personality; it checks knowledge or skill, often in school.",
+      "examples": [
+        "We have a history test on Friday morning.",
+        "She passed her driving test on the first try."
+      ],
+      "branchCoverage": [
+        "a set of questions or exercises evaluating skill or knowledge -> a group of questions or tasks that shows how much you know or how well you can do something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "test (n) = a fixed procedure that measures a mental quality such as memory or personality; test (n) = a set of questions or tasks that checks knowledge or skill.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "view%1:09:02::",
+      "lemma": "view",
+      "pos": "n",
+      "definition": "a way of regarding situations or topics etc.",
+      "decision": "gloss",
+      "simpleMeaning": "the way a person thinks about a subject or situation.",
+      "scope": "It is not what you can see from a place; it is an opinion or way of thinking.",
+      "examples": [
+        "In my view, the plan costs too much.",
+        "The two sides have very different views on climate change."
+      ],
+      "branchCoverage": [
+        "a way of regarding situations or topics etc -> the way a person thinks about a subject or situation"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:11:00::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "some abrupt occurrence that interrupts an ongoing activity",
+      "decision": "gloss",
+      "simpleMeaning": "a sudden stop in what people are doing, often caused by something unexpected.",
+      "scope": "It is not a planned rest and not a damaged part; it is an interruption that comes without warning.",
+      "examples": [
+        "A loud noise caused a break in the conversation.",
+        "There was a short break in the fighting while the doctors worked."
+      ],
+      "branchCoverage": [
+        "some abrupt occurrence that interrupts an ongoing activity -> a sudden stop in what people are doing, often caused by something unexpected"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break (n) = a sudden interruption of an activity; break (v) = to damage something so that it stops working.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%2:30:06::",
+      "lemma": "break",
+      "pos": "v",
+      "definition": "render inoperable or ineffective",
+      "decision": "gloss",
+      "simpleMeaning": "to damage something so that it no longer works.",
+      "scope": "It is not a pause or a gap in time; it means making a thing or system stop working.",
+      "examples": [
+        "He broke the washing machine by putting too much soap in it.",
+        "The storm broke the power lines across the town."
+      ],
+      "branchCoverage": [
+        "render inoperable or ineffective -> to damage something so that it no longer works"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "break (n) = a sudden interruption of an activity; break (v) = to damage something so that it stops working.",
+      "meaning": "to damage something or make it useless so it stops working.",
+      "verdict": "self-approved",
+      "reviewerNote": "Only covers 'inoperable'; 'ineffective' branch lost (e.g. break a strike). Better: 'to damage something or make it useless so it stops working'."
+    },
+    {
+      "senseId": "member%1:18:00::",
+      "lemma": "member",
+      "pos": "n",
+      "definition": "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)",
+      "decision": "gloss",
+      "simpleMeaning": "a person who has joined a group or organization and takes part in it.",
+      "scope": "It is not a part of a machine or a body; here it means a person in a social group.",
+      "examples": [
+        "She became a member of the tennis club last year.",
+        "All members of the team attended the meeting."
+      ],
+      "branchCoverage": [
+        "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization) -> a person who has joined a group or organization and takes part in it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "middle%5:00:01:central:01",
+      "lemma": "middle",
+      "pos": "a",
+      "definition": "equally distant from the extremes",
+      "decision": "gloss",
+      "simpleMeaning": "in the position that is the same distance from both ends or sides.",
+      "scope": "It is not a part of the body and not a period of time; it describes a position between two ends.",
+      "examples": [
+        "The middle drawer of the desk is locked.",
+        "Their house is the middle one of the three."
+      ],
+      "branchCoverage": [
+        "equally distant from the extremes -> in the position that is the same distance from both ends or sides"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "middle (adj) = in the position equally far from both ends; middle (n) = the soft front part of the body between the chest and the legs; middle (v) = to put something in a central position.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "middle%1:08:00::",
+      "lemma": "middle",
+      "pos": "n",
+      "definition": "the middle area of the human torso (usually in front)",
+      "decision": "gloss",
+      "simpleMeaning": "the soft front part of your body between your chest and your legs.",
+      "scope": "It is not the centre of a room and not a point in time; it is a part of the human body.",
+      "examples": [
+        "She felt a sharp pain in her middle.",
+        "The boy held the ball against his middle."
+      ],
+      "branchCoverage": [
+        "the middle area of the human torso (usually in front) -> the soft front part of your body between your chest and your legs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "middle (adj) = in the position equally far from both ends; middle (n) = the soft front part of the body between the chest and the legs; middle (v) = to put something in a central position.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "middle%2:35:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "The verb is very rare in modern English, so two natural B1 examples would have to be invented rather than idiomatic."
+    },
+    {
+      "senseId": "present%1:10:00::",
+      "lemma": "present",
+      "pos": "n",
+      "definition": "a verb tense that expresses actions or states at the time of speaking",
+      "decision": "gloss",
+      "simpleMeaning": "the verb form used for things happening now or for general facts.",
+      "scope": "It is not a gift and not the current time itself; it is a grammar form of a verb.",
+      "examples": [
+        "In 'I work here', the verb is in the present.",
+        "The present is often used for habits and general truths."
+      ],
+      "branchCoverage": [
+        "a verb tense that expresses actions or states at the time of speaking -> the verb form used for things happening now or for general facts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "present (n) = the verb form used for things happening now; present (adj) = existing or happening now, between past and future; present (n) = a thing given as a gift; present (v) = to show or offer an idea for people to think about.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "present%3:00:01::",
+      "lemma": "present",
+      "pos": "a",
+      "definition": "temporal sense; intermediate between past and future; now existing or happening or in consideration",
+      "decision": "gloss",
+      "simpleMeaning": "existing or happening now, between the past and the future, or being considered at this time.",
+      "scope": "It is not a gift and not a verb form; it describes something that belongs to the here and now.",
+      "examples": [
+        "The present situation is hard for many families.",
+        "At the present time, no decision has been made."
+      ],
+      "branchCoverage": [
+        "temporal sense -> existing or happening now",
+        "intermediate between past and future -> between the past and the future",
+        "now existing or happening or in consideration -> existing or happening now, or being considered at this time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "present (n) = the verb form used for things happening now; present (adj) = existing or happening now, between past and future; present (n) = a thing given as a gift; present (v) = to show or offer an idea for people to think about.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "present%1:21:00::",
+      "lemma": "present",
+      "pos": "n",
+      "definition": "something presented as a gift",
+      "decision": "gloss",
+      "simpleMeaning": "a thing that you give to someone as a gift.",
+      "scope": "It is not the current time and not a verb form; it is a thing given to another person.",
+      "examples": [
+        "She bought a birthday present for her sister.",
+        "The children opened their presents on Christmas morning."
+      ],
+      "branchCoverage": [
+        "something presented as a gift -> a thing that you give to someone as a gift"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "present (n) = the verb form used for things happening now; present (adj) = existing or happening now, between past and future; present (n) = a thing given as a gift; present (v) = to show or offer an idea for people to think about.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "present%2:32:00::",
+      "lemma": "present",
+      "pos": "v",
+      "definition": "bring forward and present to the mind",
+      "decision": "gloss",
+      "simpleMeaning": "to show or offer an idea or plan for people to think about.",
+      "scope": "It is not giving a gift and not happening now; it is placing an idea before other people.",
+      "examples": [
+        "She presented her plan to the committee.",
+        "The report presents a clear picture of the problem."
+      ],
+      "branchCoverage": [
+        "bring forward and present to the mind -> to show or offer an idea or plan for people to think about"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "present (n) = the verb form used for things happening now; present (adj) = existing or happening now, between past and future; present (n) = a thing given as a gift; present (v) = to show or offer an idea for people to think about.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "result%1:10:00::",
+      "lemma": "result",
+      "pos": "n",
+      "definition": "a statement that solves a problem or explains how to solve the problem",
+      "decision": "gloss",
+      "simpleMeaning": "a statement that gives the solution to a problem or explains how to reach it.",
+      "scope": "It is not the outcome of events and not a reply to a person; it is the solution to a problem.",
+      "examples": [
+        "Nobody could find the result of the equation until the teacher gave a hint.",
+        "The result of the sum is written at the bottom of the page."
+      ],
+      "branchCoverage": [
+        "a statement that solves a problem or explains how to solve the problem -> a statement that gives the solution to a problem or explains how to reach it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "result (n) = a statement that solves a problem; result (v) = to end in a certain state; result (v) = to produce something as an effect or what is left over; result (n) = something that happens because of something else.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "result%2:42:00::",
+      "lemma": "result",
+      "pos": "v",
+      "definition": "issue or terminate (in a specified way, state, etc.); end",
+      "decision": "gloss",
+      "simpleMeaning": "to end in a certain way or state.",
+      "scope": "It is not about producing something; it describes the situation that an action finally ends in.",
+      "examples": [
+        "The long dispute resulted in a new law.",
+        "His hard work resulted in success."
+      ],
+      "branchCoverage": [
+        "issue or terminate (in a specified way, state, etc.) -> to end in a certain way or state",
+        "end -> to end"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "result (n) = a statement that solves a problem; result (v) = to end in a certain state; result (v) = to produce something as an effect or what is left over; result (n) = something that happens because of something else.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "result%2:42:02::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "The transitive verb belongs to technical writing, so two natural B1 examples would not clearly show this sense."
+    },
+    {
+      "senseId": "result%1:11:00::",
+      "lemma": "result",
+      "pos": "n",
+      "definition": "something that results",
+      "decision": "gloss",
+      "simpleMeaning": "something that happens or exists because of something else.",
+      "scope": "It is not a written answer to a problem; it is the outcome of an action or event.",
+      "examples": [
+        "The flood was the result of three days of heavy rain.",
+        "As a result of the strike, all flights were cancelled."
+      ],
+      "branchCoverage": [
+        "something that results -> something that happens or exists because of something else"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "result (n) = a statement that solves a problem; result (v) = to end in a certain state; result (v) = to produce something as an effect or what is left over; result (n) = something that happens because of something else.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sorry%3:00:02::",
+      "lemma": "sorry",
+      "pos": "a",
+      "definition": "feeling or expressing regret or sorrow or a sense of loss over something done or undone",
+      "decision": "gloss",
+      "simpleMeaning": "feeling sad and regretful about something you did or did not do, or about something you have lost.",
+      "scope": "It is not the quick apology you say after bumping into someone, and not a word for a bad condition; it is real regret about the past.",
+      "examples": [
+        "She was sorry that she had lied to him.",
+        "He felt sorry about missing his daughter's concert."
+      ],
+      "branchCoverage": [
+        "feeling or expressing regret or sorrow or a sense of loss over something done or undone -> feeling sad and regretful about something you did or did not do, or about something you have lost"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wish%1:10:01::",
+      "lemma": "wish",
+      "pos": "n",
+      "definition": "(usually plural) a polite expression of desire for someone's welfare",
+      "decision": "gloss",
+      "simpleMeaning": "a kind message that you hope good things will happen to someone.",
+      "scope": "It is not a statement of what you want for yourself and not a magic request; it is a polite message for another person's happiness.",
+      "examples": [
+        "We sent our best wishes to the couple on their wedding day.",
+        "She ended the letter with warm wishes for the new year."
+      ],
+      "branchCoverage": [
+        "(usually plural) a polite expression of desire for someone's welfare -> a kind message that you hope good things will happen to someone; the plural form is used in the examples"
+      ],
+      "labelBranches": [
+        "(usually plural)"
+      ],
+      "lemmaPartition": "wish (n, usually plural) = a polite message hoping someone will be well or happy; wish (n) = a statement of what you want; wish (v) = to hope for good things for someone's future.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wish%1:10:00::",
+      "lemma": "wish",
+      "pos": "n",
+      "definition": "an expression of some desire or inclination",
+      "decision": "gloss",
+      "simpleMeaning": "something you say or write to show what you want.",
+      "scope": "It is not a kind message about another person's future and not a magic request; it states a desire.",
+      "examples": [
+        "Her only wish was to see her family again.",
+        "He told us his wish to become a doctor."
+      ],
+      "branchCoverage": [
+        "an expression of some desire or inclination -> something you say or write to show what you want"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wish (n, usually plural) = a polite message hoping someone will be well or happy; wish (n) = a statement of what you want; wish (v) = to hope for good things for someone's future.",
+      "meaning": "a feeling or statement of what you want.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss demands saying/writing, but example 1 is unspoken; 'inclination' dropped. Better: 'a feeling or statement of what you want'."
+    },
+    {
+      "senseId": "wish%2:37:01::",
+      "lemma": "wish",
+      "pos": "v",
+      "definition": "feel or express a desire or hope concerning the future or fortune of",
+      "decision": "gloss",
+      "simpleMeaning": "to hope that someone will have good luck or success.",
+      "scope": "It is not asking for something for yourself and not a silent magic request; it is hoping for another person's future good.",
+      "examples": [
+        "I wish you good luck in your new job.",
+        "We all wish her a quick recovery."
+      ],
+      "branchCoverage": [
+        "feel or express a desire or hope concerning the future or fortune of -> to hope that someone will have good luck or success"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wish (n, usually plural) = a polite message hoping someone will be well or happy; wish (n) = a statement of what you want; wish (v) = to hope for good things for someone's future.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "answer%1:10:01::",
+      "lemma": "answer",
+      "pos": "n",
+      "definition": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation",
+      "decision": "gloss",
+      "simpleMeaning": "something you say or write back when someone asks you a question or wants you to do something, or criticizes or blames you.",
+      "scope": "It is not the solution to a problem; it is a reply to a person's question, request or criticism.",
+      "examples": [
+        "I asked her a question, but she gave no answer.",
+        "His answer to the accusation was calm and clear."
+      ],
+      "branchCoverage": [
+        "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation -> something you say or write back when someone asks you a question or wants you to do something, or criticizes or blames you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "answer (n) = a reply to a question, request or criticism; answer (n) = the solution to a problem; answer (v) = to give the correct reply or solution.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "answer%1:10:02::",
+      "lemma": "answer",
+      "pos": "n",
+      "definition": "a statement that solves a problem or explains how to solve the problem",
+      "decision": "gloss",
+      "simpleMeaning": "what solves a problem or explains the way to solve it.",
+      "scope": "It is not a reply to a person's question; it is the solution to a difficulty.",
+      "examples": [
+        "The answer to the puzzle was hidden in the last line.",
+        "We finally found the answer to the problem."
+      ],
+      "branchCoverage": [
+        "a statement that solves a problem or explains how to solve the problem -> what solves a problem or explains the way to solve it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "answer (n) = a reply to a question, request or criticism; answer (n) = the solution to a problem; answer (v) = to give the correct reply or solution.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "answer%2:31:00::",
+      "lemma": "answer",
+      "pos": "v",
+      "definition": "give the correct answer or solution to",
+      "decision": "gloss",
+      "simpleMeaning": "to reply correctly to a question or to solve a problem.",
+      "scope": "It is not just replying to someone; it means giving the right response or solution.",
+      "examples": [
+        "She answered all the questions on the exam correctly.",
+        "Can you answer the riddle before the time runs out?"
+      ],
+      "branchCoverage": [
+        "give the correct answer or solution to -> to reply correctly to a question or to solve a problem"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "answer (n) = a reply to a question, request or criticism; answer (n) = the solution to a problem; answer (v) = to give the correct reply or solution.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

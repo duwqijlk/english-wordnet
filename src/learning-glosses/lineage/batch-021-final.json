@@ -1,0 +1,997 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 21,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 49,
+      "of": 50,
+      "rate": 0.98
+    },
+    "selfApproved": [
+      "limited%5:00:00:restricted:00"
+    ],
+    "lineage": {
+      "draft": "d1a222b9852f034f1926f1a8e64084e8e832b597820ca04916f19f2334d34d59"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "specific%3:00:00::",
+      "lemma": "specific",
+      "pos": "a",
+      "definition": "(sometimes followed by ‘to’) applying to or characterized by or distinguishing something particular or special or unique",
+      "decision": "gloss",
+      "simpleMeaning": "It means relating to one exact or special thing rather than things in general, and it is often used before 'to'.",
+      "scope": "Not the noun for a medicine, and not the sense of instructions being clearly and exactly stated.",
+      "examples": [
+        "The school can meet the specific needs of each child.",
+        "She had a specific reason for choosing that name."
+      ],
+      "branchCoverage": [
+        "(sometimes followed by ‘to’) applying to or characterized by or distinguishing something particular or special or unique -> 'relating to one exact or special thing rather than things in general' plus 'often used before to'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "specific (adjective) = one exact thing rather than things in general; specific (noun) = a medicine that makes one particular illness less severe.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "specific%1:06:00::",
+      "lemma": "specific",
+      "pos": "n",
+      "definition": "a medicine that has a mitigating effect on a specific disease",
+      "decision": "gloss",
+      "simpleMeaning": "It is a medicine that makes one particular illness less severe.",
+      "scope": "Not a general cure for many illnesses, and not the adjective meaning exact or particular.",
+      "examples": [
+        "Quinine was once a specific for malaria.",
+        "The doctor gave him a specific for the infection."
+      ],
+      "branchCoverage": [
+        "a medicine that has a mitigating effect on a specific disease -> 'medicine that makes one particular illness less severe'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "specific (adjective) = one exact thing rather than things in general; specific (noun) = a medicine that makes one particular illness less severe.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "standard%3:00:02::",
+      "lemma": "standard",
+      "pos": "a",
+      "definition": "conforming to or constituting a standard of measurement or value; or of the usual or regularized or accepted kind",
+      "decision": "gloss",
+      "simpleMeaning": "It means following the usual, accepted way, or setting or matching an official measure of size or value.",
+      "scope": "Not meaning respected as an excellent model, and not the noun for a rule or a flag.",
+      "examples": [
+        "This is the standard size for a hotel bed.",
+        "The recipe uses standard ingredients you can find anywhere."
+      ],
+      "branchCoverage": [
+        "conforming to or constituting a standard of measurement or value -> 'setting or matching an official measure of size or value'",
+        "or of the usual or regularized or accepted kind -> 'following the usual, accepted way'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "standard (adjective, usual kind) = following the usual or officially accepted measure; standard (adjective, model) = respected as a leading example of quality or authority.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "standard%3:00:01::",
+      "lemma": "standard",
+      "pos": "a",
+      "definition": "established or well-known or widely recognized as a model of authority or excellence",
+      "decision": "gloss",
+      "simpleMeaning": "It means being well known and respected as a leading example of quality or authority.",
+      "scope": "Not about the usual size or accepted rules, and not a flag or a rulebook.",
+      "examples": [
+        "His history of the city is still the standard work on the subject.",
+        "Her paper became the standard reference for later researchers."
+      ],
+      "branchCoverage": [
+        "established or well-known or widely recognized as a model of authority or excellence -> 'well known and respected as a leading example of quality or authority'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "standard (adjective, usual kind) = following the usual or officially accepted measure; standard (adjective, model) = respected as a leading example of quality or authority.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "album%1:06:00::",
+      "lemma": "album",
+      "pos": "n",
+      "definition": "a book of blank pages with pockets or envelopes; for organizing photographs or stamp collections etc",
+      "decision": "gloss",
+      "simpleMeaning": "It is a book with empty pages and pockets for holding photos or stamps.",
+      "scope": "Not a set of recorded songs, and not a plain notebook with lined pages.",
+      "examples": [
+        "She slid the old photos into the plastic pockets of the album.",
+        "He keeps his stamp collection in a large album."
+      ],
+      "branchCoverage": [
+        "a book of blank pages with pockets or envelopes -> 'book with empty pages and pockets'",
+        "for organizing photographs or stamp collections etc -> 'for holding photos or stamps'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "album (book) = a book with empty pages and pockets for photos or stamps; album (music) = a set of recorded songs released together.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "album%1:10:00::",
+      "lemma": "album",
+      "pos": "n",
+      "definition": "one or more recordings issued together; originally released on 12-inch phonograph records (usually with attractive record covers) and later on cassette audiotape and compact disc",
+      "decision": "gloss",
+      "simpleMeaning": "It is a set of songs or music released together, first on records and now on discs or online.",
+      "scope": "Not a book for holding photos or stamps, and not a single song.",
+      "examples": [
+        "The band's new album has twelve songs.",
+        "I bought the album on vinyl and later downloaded it."
+      ],
+      "branchCoverage": [
+        "one or more recordings issued together -> 'set of songs or music released together'",
+        "originally released on 12-inch phonograph records (usually with attractive record covers) and later on cassette audiotape and compact disc -> 'first on records and now on discs or online'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "album (book) = a book with empty pages and pockets for photos or stamps; album (music) = a set of recorded songs released together.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%2:32:02::",
+      "lemma": "charge",
+      "pos": "v",
+      "definition": "blame for, make a claim of wrongdoing or misbehavior against",
+      "decision": "gloss",
+      "simpleMeaning": "It means saying that someone has done something wrong or illegal.",
+      "scope": "Not asking for money, not putting power into a battery, and not the noun for a price.",
+      "examples": [
+        "The police charged him with stealing a car.",
+        "She was charged with cheating on the test."
+      ],
+      "branchCoverage": [
+        "blame for, make a claim of wrongdoing or misbehavior against -> 'saying that someone has done something wrong or illegal'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge (verb) = to say someone did something wrong; charge (noun) = the money you must pay for goods or a service.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%1:21:02::",
+      "lemma": "charge",
+      "pos": "n",
+      "definition": "the price charged for some article or service",
+      "decision": "gloss",
+      "simpleMeaning": "It is the amount of money you must pay for something.",
+      "scope": "Not an accusation of wrongdoing, not a battery's stored power, and not a duty to care for someone.",
+      "examples": [
+        "There is a small charge for delivery.",
+        "The hotel added a charge for breakfast."
+      ],
+      "branchCoverage": [
+        "the price charged for some article or service -> 'amount of money you must pay for something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "charge (verb) = to say someone did something wrong; charge (noun) = the money you must pay for goods or a service.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cold%1:26:00::",
+      "lemma": "cold",
+      "pos": "n",
+      "definition": "a mild viral infection involving the nose and respiratory passages (but not the lungs)",
+      "decision": "gloss",
+      "simpleMeaning": "It is a mild illness caused by a virus that affects your nose and throat.",
+      "scope": "Not a serious lung illness such as flu or pneumonia, and not the adjective for low temperature.",
+      "examples": [
+        "I caught a cold and stayed home for two days.",
+        "She has a bad cold and keeps sneezing."
+      ],
+      "branchCoverage": [
+        "a mild viral infection involving the nose and respiratory passages (but not the lungs) -> 'mild illness caused by a virus that affects the nose and throat', with 'not the lungs' in scope"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cold (noun) = a mild illness of the nose and throat; cold (adjective, temperature) = having or feeling a low temperature; cold (adjective, manner) = unfriendly and showing no warm feelings.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cold%3:00:01::",
+      "lemma": "cold",
+      "pos": "a",
+      "definition": "having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration",
+      "decision": "gloss",
+      "simpleMeaning": "It means having a low temperature, feeling not warm enough, or being made cool by ice or a fridge.",
+      "scope": "Not unfriendly or showing no emotion, and not the noun for an illness.",
+      "examples": [
+        "The soup is cold; please heat it up.",
+        "My hands are cold after walking in the snow."
+      ],
+      "branchCoverage": [
+        "having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration -> 'having a low temperature, feeling not warm enough, or being made cool by ice or a fridge'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cold (noun) = a mild illness of the nose and throat; cold (adjective, temperature) = having or feeling a low temperature; cold (adjective, manner) = unfriendly and showing no warm feelings.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cold%3:00:02::",
+      "lemma": "cold",
+      "pos": "a",
+      "definition": "extended meanings; especially of psychological coldness; without human warmth or emotion",
+      "decision": "gloss",
+      "simpleMeaning": "It means being unfriendly, with no warm or kind emotion toward other people.",
+      "scope": "This is the figurative use about a person's manner, not physical temperature, illness, or simply being quiet.",
+      "examples": [
+        "She gave him a cold look and walked away.",
+        "His cold manner made the new staff feel unwelcome."
+      ],
+      "branchCoverage": [
+        "extended meanings -> declared as a usage label",
+        "especially of psychological coldness -> 'unfriendly, with no warm or kind emotion toward other people'",
+        "without human warmth or emotion -> 'no warm or kind emotion'"
+      ],
+      "labelBranches": [
+        "extended meanings"
+      ],
+      "lemmaPartition": "cold (noun) = a mild illness of the nose and throat; cold (adjective, temperature) = having or feeling a low temperature; cold (adjective, manner) = unfriendly and showing no warm feelings.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "create%2:36:01::",
+      "lemma": "create",
+      "pos": "v",
+      "definition": "pursue a creative activity; be engaged in a creative activity",
+      "decision": "gloss",
+      "simpleMeaning": "It means spending time making or inventing things in an artistic way.",
+      "scope": "Not making something for the first time in a general way, and not starting a company or a rule.",
+      "examples": [
+        "She creates in her studio every morning.",
+        "He needs quiet time to create."
+      ],
+      "branchCoverage": [
+        "pursue a creative activity -> 'spending time making or inventing things'",
+        "be engaged in a creative activity -> 'in an artistic way'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "effect%1:09:00::",
+      "lemma": "effect",
+      "pos": "n",
+      "definition": "an impression (especially one that is artificial or contrived)",
+      "decision": "gloss",
+      "simpleMeaning": "It is a look or feeling that something is made to give, often false or forced rather than natural.",
+      "scope": "Not the result that something causes, and not a special visual trick in a film.",
+      "examples": [
+        "The lighting gave the room a warm effect.",
+        "He spoke slowly for effect, not because he was unsure."
+      ],
+      "branchCoverage": [
+        "an impression (especially one that is artificial or contrived) -> 'look or feeling that something is made to give, often false or forced rather than natural'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "eight%1:06:00::",
+      "lemma": "eight",
+      "pos": "n",
+      "definition": "one of four playing cards in a deck with eight pips on the face",
+      "decision": "gloss",
+      "simpleMeaning": "It is one of four playing cards marked with the number that comes after seven.",
+      "scope": "Not the number itself, and not a group of that many people or things.",
+      "examples": [
+        "He played an eight of hearts and won the trick.",
+        "She had two eights in her hand."
+      ],
+      "branchCoverage": [
+        "one of four playing cards in a deck with eight pips on the face -> 'one of four playing cards marked with the number that comes after seven'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "eye%1:09:00::",
+      "lemma": "eye",
+      "pos": "n",
+      "definition": "good discernment (either visually or as if visually)",
+      "decision": "gloss",
+      "simpleMeaning": "It is the ability to notice or judge things well, whether by looking or by understanding.",
+      "scope": "Not the body part you see with, and not a small hole in a needle.",
+      "examples": [
+        "She has a good eye for color.",
+        "The coach has an eye for young talent."
+      ],
+      "branchCoverage": [
+        "good discernment (either visually or as if visually) -> 'ability to notice or judge things well, whether by looking or by understanding'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "funny%1:10:00::",
+      "lemma": "funny",
+      "pos": "n",
+      "definition": "an account of an amusing incident (usually with a punch line)",
+      "decision": "gloss",
+      "simpleMeaning": "It is a short story about something amusing, often ending with a joke.",
+      "scope": "Not the adjective meaning making you laugh, and not something strange or odd.",
+      "examples": [
+        "He told a funny about his first day at work.",
+        "The comedian opened with a funny about his dog."
+      ],
+      "branchCoverage": [
+        "an account of an amusing incident (usually with a punch line) -> 'short story about something amusing, often ending with a joke'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "funny (noun) = a short amusing story; funny (adjective) = making you laugh.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "funny%5:00:00:humorous:00",
+      "lemma": "funny",
+      "pos": "a",
+      "definition": "arousing or provoking laughter",
+      "decision": "gloss",
+      "simpleMeaning": "It means making you laugh because it is amusing.",
+      "scope": "Not meaning strange or suspicious, and not the noun for a short amusing story.",
+      "examples": [
+        "The video was so funny that we watched it twice.",
+        "She told a funny joke about her cat."
+      ],
+      "branchCoverage": [
+        "arousing or provoking laughter -> 'making you laugh because it is amusing'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "funny (noun) = a short amusing story; funny (adjective) = making you laugh.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "limited%1:06:00::",
+      "lemma": "limited",
+      "pos": "n",
+      "definition": "public transport consisting of a fast train or bus that makes only a few scheduled stops",
+      "decision": "gloss",
+      "simpleMeaning": "It is a fast train or bus that stops at only a few places.",
+      "scope": "Not the adjective meaning kept within a fixed range, and not a small number of something.",
+      "examples": [
+        "We caught the limited and reached the city in under an hour.",
+        "The limited makes only two stops between here and the coast."
+      ],
+      "branchCoverage": [
+        "public transport consisting of a fast train or bus that makes only a few scheduled stops -> 'fast train or bus that stops at only a few places'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "limited (noun) = a fast train or bus with few stops; limited (adjective) = kept within a fixed range or amount.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "limited%5:00:00:restricted:00",
+      "lemma": "limited",
+      "pos": "a",
+      "definition": "subject to limits or subjected to limits",
+      "decision": "gloss",
+      "simpleMeaning": "It means being kept within a fixed range or amount, with no freedom to grow.",
+      "scope": "Not the noun for a fast train, and not simply meaning few in number.",
+      "examples": [
+        "The seats are limited, so book early.",
+        "Their view of the problem is limited by lack of information."
+      ],
+      "branchCoverage": [
+        "subject to limits or subjected to limits -> 'kept within a fixed range or amount, with no freedom to grow'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "limited (noun) = a fast train or bus with few stops; limited (adjective) = kept within a fixed range or amount.",
+      "meaning": "kept within a set limit or amount",
+      "verdict": "self-approved",
+      "reviewerNote": "Unsupported addition 'no freedom to grow' misfits both examples; say 'kept within a set limit or amount'."
+    },
+    {
+      "senseId": "moving%3:00:01::",
+      "lemma": "moving",
+      "pos": "a",
+      "definition": "arousing or capable of arousing deep emotion",
+      "decision": "gloss",
+      "simpleMeaning": "It means making you feel strong emotion, such as sadness or sympathy.",
+      "scope": "Not the sense about photos that seem to move, and not physically changing position.",
+      "examples": [
+        "The film's final scene was deeply moving.",
+        "She gave a moving speech about her grandmother."
+      ],
+      "branchCoverage": [
+        "arousing or capable of arousing deep emotion -> 'making you feel strong emotion, such as sadness or sympathy'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "moving (adjective, emotion) = causing strong feelings; moving (adjective, pictures) = a set of photos shown so the figures seem to change position.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "moving%3:00:03::",
+      "lemma": "moving",
+      "pos": "a",
+      "definition": "used of a series of photographs presented so as to create the illusion of motion",
+      "decision": "gloss",
+      "simpleMeaning": "It describes a set of photos shown in quick order so that the figures seem to change position.",
+      "scope": "Not the sense about causing strong feelings, and not something physically changing place.",
+      "examples": [
+        "The exhibit shows a moving sequence of photographs of the dancer.",
+        "The app creates a moving image from a set of still photos."
+      ],
+      "branchCoverage": [
+        "used of a series of photographs presented so as to create the illusion of motion -> 'set of photos shown in quick order so that the figures seem to change position'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "moving (adjective, emotion) = causing strong feelings; moving (adjective, pictures) = a set of photos shown so the figures seem to change position.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "network%1:06:00::",
+      "lemma": "network",
+      "pos": "n",
+      "definition": "an open fabric of string or rope or wire woven together at regular intervals",
+      "decision": "gloss",
+      "simpleMeaning": "It is a material made from strings, ropes, or wires crossed and tied with open spaces between them.",
+      "scope": "Not a group of connected people or computers, and not a television company.",
+      "examples": [
+        "She hung a network of rope over the window to keep birds out.",
+        "The chair seat was a network of woven string."
+      ],
+      "branchCoverage": [
+        "an open fabric of string or rope or wire woven together at regular intervals -> 'material made from strings, ropes, or wires crossed and tied with open spaces between them'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "recently%4:02:00::",
+      "lemma": "recently",
+      "pos": "r",
+      "definition": "in the recent past",
+      "decision": "gloss",
+      "simpleMeaning": "It means at a time close to now, not long ago.",
+      "scope": "Not at this exact moment, and not at a time far in the past.",
+      "examples": [
+        "We recently moved to a new apartment.",
+        "She has recently started learning Spanish."
+      ],
+      "branchCoverage": [
+        "in the recent past -> 'at a time close to now, not long ago'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "required%5:00:00:obligatory:00",
+      "lemma": "required",
+      "pos": "a",
+      "definition": "required by rule",
+      "decision": "gloss",
+      "simpleMeaning": "It means needed because a rule or law says you must have it or do it.",
+      "scope": "Not just needed for practical reasons, and not something you choose freely.",
+      "examples": [
+        "A passport is required for travel to that country.",
+        "All students must take the required course."
+      ],
+      "branchCoverage": [
+        "required by rule -> 'needed because a rule or law says you must have it or do it'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spent%5:00:00:tired:00",
+      "lemma": "spent",
+      "pos": "a",
+      "definition": "drained of energy or effectiveness; extremely tired; completely exhausted",
+      "decision": "gloss",
+      "simpleMeaning": "It means so tired that you have no energy or strength left.",
+      "scope": "Not the past form of the verb for using money or time, and not meaning used up or finished.",
+      "examples": [
+        "After the long race, she was completely spent.",
+        "He felt spent and went to bed early."
+      ],
+      "branchCoverage": [
+        "drained of energy or effectiveness -> 'no energy or strength left'",
+        "extremely tired -> 'so tired'",
+        "completely exhausted -> 'no energy or strength left'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "store%1:06:00::",
+      "lemma": "store",
+      "pos": "n",
+      "definition": "a mercantile establishment for the retail sale of goods or services",
+      "decision": "gloss",
+      "simpleMeaning": "a shop or business where people buy goods or services.",
+      "scope": "This is the shop itself, not a supply of something kept for later use.",
+      "examples": [
+        "She went to the store to buy milk and bread.",
+        "The store on the corner sells fresh vegetables."
+      ],
+      "branchCoverage": [
+        "a mercantile establishment for the retail sale of goods or services -> 'a shop or business where people buy goods or services'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "student%1:18:00::",
+      "lemma": "student",
+      "pos": "n",
+      "definition": "a learner who is enrolled in an educational institution",
+      "decision": "gloss",
+      "simpleMeaning": "a person who is signed up to learn at a school, college or university.",
+      "scope": "This means someone who is enrolled to learn, not just anyone who is curious about a subject.",
+      "examples": [
+        "She is a student at the local high school.",
+        "The students have an exam on Friday."
+      ],
+      "branchCoverage": [
+        "a learner who is enrolled in an educational institution -> 'signed up to learn at a school, college or university'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "track%1:06:02::",
+      "lemma": "track",
+      "pos": "n",
+      "definition": "a pair of parallel rails providing a runway for wheels",
+      "decision": "gloss",
+      "simpleMeaning": "two long metal rails on the ground that train wheels run along.",
+      "scope": "This is the railway line itself, not a mark left on the ground, a path through a field, or a song on an album.",
+      "examples": [
+        "The train slowed as it came round a bend in the track.",
+        "Workers were repairing the track after the storm."
+      ],
+      "branchCoverage": [
+        "a pair of parallel rails providing a runway for wheels -> 'two long metal rails on the ground that train wheels run along'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weight%1:06:01::",
+      "lemma": "weight",
+      "pos": "n",
+      "definition": "sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms",
+      "decision": "gloss",
+      "simpleMeaning": "a heavy piece of exercise equipment, not fixed to anything, that people lift with their hands and arms to build strength.",
+      "scope": "This is the object you lift in a gym, not how heavy something is or how important it is.",
+      "examples": [
+        "He lifted the weights above his head.",
+        "She uses light weights in her exercise class."
+      ],
+      "branchCoverage": [
+        "sports equipment used in calisthenic exercises and weightlifting -> 'a heavy piece of exercise equipment ... to build strength'",
+        "it is not attached to anything and is raised and lowered by use of the hands and arms -> 'not fixed to anything' + 'lift with their hands and arms'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "weight senses: noun 'sports equipment' = a heavy gym object you lift with your hands; noun 'vertical force' = the downward pull of gravity on an object; noun 'relative importance' = the importance or influence given to something; verb 'weight down with a load' = to hold something down with a heavy load.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weight%1:07:00::",
+      "lemma": "weight",
+      "pos": "n",
+      "definition": "the vertical force exerted by a mass as a result of gravity",
+      "decision": "gloss",
+      "simpleMeaning": "the downward pull of gravity on an object, which makes it feel heavy.",
+      "scope": "This is the force of gravity on an object, not a gym object you lift and not how important something is.",
+      "examples": [
+        "The weight of the box made it hard to carry.",
+        "On the Moon, your weight is much less than on Earth."
+      ],
+      "branchCoverage": [
+        "the vertical force exerted by a mass as a result of gravity -> 'the downward pull of gravity on an object'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "weight senses: noun 'sports equipment' = a heavy gym object you lift with your hands; noun 'vertical force' = the downward pull of gravity on an object; noun 'relative importance' = the importance or influence given to something; verb 'weight down with a load' = to hold something down with a heavy load.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weight%1:07:01::",
+      "lemma": "weight",
+      "pos": "n",
+      "definition": "the relative importance granted to something",
+      "decision": "gloss",
+      "simpleMeaning": "the importance or influence that people give to something.",
+      "scope": "This is how much something matters, not how heavy it is and not a gym object.",
+      "examples": [
+        "The report gives great weight to the views of local people.",
+        "Her words carried little weight in the meeting."
+      ],
+      "branchCoverage": [
+        "the relative importance granted to something -> 'the importance or influence that people give to something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "weight senses: noun 'sports equipment' = a heavy gym object you lift with your hands; noun 'vertical force' = the downward pull of gravity on an object; noun 'relative importance' = the importance or influence given to something; verb 'weight down with a load' = to hold something down with a heavy load.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weight%2:35:00::",
+      "lemma": "weight",
+      "pos": "v",
+      "definition": "weight down with a load",
+      "decision": "gloss",
+      "simpleMeaning": "to hold something down by putting a heavy load on it.",
+      "scope": "This means holding something down with a load, not measuring how heavy it is.",
+      "examples": [
+        "They weighted the net down so it would sink.",
+        "He weighted the papers down with a stone."
+      ],
+      "branchCoverage": [
+        "weight down with a load -> 'hold something down by putting a heavy load on it'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "weight senses: noun 'sports equipment' = a heavy gym object you lift with your hands; noun 'vertical force' = the downward pull of gravity on an object; noun 'relative importance' = the importance or influence given to something; verb 'weight down with a load' = to hold something down with a heavy load.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "allow%2:32:00::",
+      "lemma": "allow",
+      "pos": "v",
+      "definition": "consent to, give permission; permit",
+      "decision": "gloss",
+      "simpleMeaning": "to let someone do something, or let something happen, because you agree to it.",
+      "scope": "This means giving permission, not adding an amount or taking something into account.",
+      "examples": [
+        "My parents allow me to stay up late at weekends.",
+        "The museum does not allow food inside."
+      ],
+      "branchCoverage": [
+        "consent to, give permission -> 'let someone do something ... because you agree to it'",
+        "permit -> 'let something happen'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "anti%3:00:00::",
+      "lemma": "anti",
+      "pos": "a",
+      "definition": "not in favor of (an action or proposal etc.)",
+      "decision": "gloss",
+      "simpleMeaning": "opposed to a plan, idea or action.",
+      "scope": "This means being against an idea or plan, not a physical position in front of something.",
+      "examples": [
+        "Most people in the town were anti the new airport.",
+        "She joined an anti-war march in the city."
+      ],
+      "branchCoverage": [
+        "not in favor of (an action or proposal etc.) -> 'opposed to a plan, idea or action'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beat%1:11:00::",
+      "lemma": "beat",
+      "pos": "n",
+      "definition": "the rhythmic contraction and expansion of the arteries with each beat of the heart",
+      "decision": "gloss",
+      "simpleMeaning": "the regular, steady pulse of blood through your arteries as your heart pumps.",
+      "scope": "This is the pulse of blood in the body, not a hit, a musical rhythm, or a police officer's area.",
+      "examples": [
+        "The doctor listened to the beat of his heart.",
+        "She could feel the beat of her heart after running up the stairs."
+      ],
+      "branchCoverage": [
+        "the rhythmic contraction and expansion of the arteries with each beat of the heart -> 'the regular, steady pulse of blood through your arteries as your heart pumps'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beat senses: noun 'rhythmic contraction of the arteries' = the steady pulse of blood as the heart pumps; verb 'give a beating to' = to hit someone again and again.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beat%2:35:01::",
+      "lemma": "beat",
+      "pos": "v",
+      "definition": "give a beating to; subject to a beating, either as a punishment or as an act of aggression",
+      "decision": "gloss",
+      "simpleMeaning": "to hit someone again and again, especially as a punishment or in a violent attack.",
+      "scope": "This means hitting a person or animal again and again, not winning a game, making a sound, or stirring food quickly.",
+      "examples": [
+        "The guards beat the prisoner.",
+        "He was beaten by a group of men outside the bar."
+      ],
+      "branchCoverage": [
+        "give a beating to -> 'hit someone again and again'",
+        "subject to a beating, either as a punishment or as an act of aggression -> 'especially as a punishment or in a violent attack'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beat senses: noun 'rhythmic contraction of the arteries' = the steady pulse of blood as the heart pumps; verb 'give a beating to' = to hit someone again and again.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "brown%1:07:00::",
+      "lemma": "brown",
+      "pos": "n",
+      "definition": "an orange of low brightness and saturation",
+      "decision": "gloss",
+      "simpleMeaning": "a dark, soft orange colour, like the colour of wood or soil.",
+      "scope": "This is the colour itself, not the act of making something that colour.",
+      "examples": [
+        "She chose a deep brown for the curtains.",
+        "The artist mixed a warm brown for the wood."
+      ],
+      "branchCoverage": [
+        "an orange of low brightness and saturation -> 'a dark, soft orange colour'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "brown senses: noun 'orange of low brightness and saturation' = the dark, soft orange colour itself; verb 'make brown in color' = to make something turn that colour.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "brown%2:30:01::",
+      "lemma": "brown",
+      "pos": "v",
+      "definition": "make brown in color",
+      "decision": "gloss",
+      "simpleMeaning": "to make something turn a dark, soft orange colour, for example by cooking it or leaving it in the sun.",
+      "scope": "This means making something change to that colour, not describing the colour itself.",
+      "examples": [
+        "Fry the onions until they are browned.",
+        "The sun had browned his skin."
+      ],
+      "branchCoverage": [
+        "make brown in color -> 'make something turn a dark, soft orange colour'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "brown senses: noun 'orange of low brightness and saturation' = the dark, soft orange colour itself; verb 'make brown in color' = to make something turn that colour.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "conference%1:14:00::",
+      "lemma": "conference",
+      "pos": "n",
+      "definition": "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+      "decision": "gloss",
+      "simpleMeaning": "a planned meeting for discussion, often with a fixed list of topics, where people share information.",
+      "scope": "This is a formal planned meeting, not a short private talk between two people.",
+      "examples": [
+        "She is attending a conference on climate change in Berlin.",
+        "The company holds a conference for all its managers every year."
+      ],
+      "branchCoverage": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda) -> 'a planned meeting' + 'for discussion' + 'often with a fixed list of topics' + 'share information'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "difference%1:11:00::",
+      "lemma": "difference",
+      "pos": "n",
+      "definition": "a variation that deviates from the standard or norm",
+      "decision": "gloss",
+      "simpleMeaning": "a change or result that is not the same as what is usual or expected.",
+      "scope": "This is a departure from what is normal, not the general fact that two things are not the same.",
+      "examples": [
+        "The test results showed small differences from the expected values.",
+        "Any difference from the standard design must be approved by the manager."
+      ],
+      "branchCoverage": [
+        "a variation that deviates from the standard or norm -> 'a change or result that is not the same as what is usual or expected'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "double%5:00:02:multiple:00",
+      "lemma": "double",
+      "pos": "a",
+      "definition": "consisting of or involving two parts or components usually in pairs",
+      "decision": "gloss",
+      "simpleMeaning": "made of two parts, or two of the same thing used as a pair.",
+      "scope": "This describes something made of two parts, not something that is twice as large or has two different meanings.",
+      "examples": [
+        "The house has double doors at the front.",
+        "The kitchen has a double sink."
+      ],
+      "branchCoverage": [
+        "consisting of or involving two parts or components usually in pairs -> 'made of two parts' + 'two of the same thing used as a pair'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "double senses: adjective 'two parts' = made of two parts or a matched pair; adjective 'dissimilar aspects' = having two very different sides or meanings; noun 'base hit' = a baseball hit that reaches second base; noun 'lookalike' = a person who looks very much like a famous person; verb 'bend over' = to bend over with laughter or pain; adverb 'to double the degree' = twice as much.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "double%5:00:03:multiple:00",
+      "lemma": "double",
+      "pos": "a",
+      "definition": "having more than one decidedly dissimilar aspects or qualities",
+      "decision": "gloss",
+      "simpleMeaning": "having two very different sides, meanings or qualities at the same time.",
+      "scope": "This describes two very different sides or meanings, not something made of two identical parts or twice as much.",
+      "examples": [
+        "The word has a double meaning.",
+        "He was living a double life."
+      ],
+      "branchCoverage": [
+        "having more than one decidedly dissimilar aspects or qualities -> 'two very different sides, meanings or qualities at the same time'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "double senses: adjective 'two parts' = made of two parts or a matched pair; adjective 'dissimilar aspects' = having two very different sides or meanings; noun 'base hit' = a baseball hit that reaches second base; noun 'lookalike' = a person who looks very much like a famous person; verb 'bend over' = to bend over with laughter or pain; adverb 'to double the degree' = twice as much.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "double%1:04:00::",
+      "lemma": "double",
+      "pos": "n",
+      "definition": "a base hit on which the batter stops safely at second base",
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, a hit that lets the batter reach second base safely.",
+      "scope": "This is a kind of hit in baseball, not a person who looks like someone else or a room for two people.",
+      "examples": [
+        "She hit a double in the third inning.",
+        "His double brought in two runs."
+      ],
+      "branchCoverage": [
+        "a base hit on which the batter stops safely at second base -> 'in baseball, a hit that lets the batter reach second base safely'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "double senses: adjective 'two parts' = made of two parts or a matched pair; adjective 'dissimilar aspects' = having two very different sides or meanings; noun 'base hit' = a baseball hit that reaches second base; noun 'lookalike' = a person who looks very much like a famous person; verb 'bend over' = to bend over with laughter or pain; adverb 'to double the degree' = twice as much.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "double%1:18:00::",
+      "lemma": "double",
+      "pos": "n",
+      "definition": "someone who closely resembles a famous person (especially an actor)",
+      "decision": "gloss",
+      "simpleMeaning": "a person who looks very much like a famous person, especially a famous actor.",
+      "scope": "This is a person who looks like someone famous, not a baseball hit or a room with two beds.",
+      "examples": [
+        "The star used a double for the dangerous scenes.",
+        "She hired a double to appear at the event."
+      ],
+      "branchCoverage": [
+        "someone who closely resembles a famous person (especially an actor) -> 'a person who looks very much like a famous person, especially a famous actor'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "double senses: adjective 'two parts' = made of two parts or a matched pair; adjective 'dissimilar aspects' = having two very different sides or meanings; noun 'base hit' = a baseball hit that reaches second base; noun 'lookalike' = a person who looks very much like a famous person; verb 'bend over' = to bend over with laughter or pain; adverb 'to double the degree' = twice as much.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "double%2:38:00::",
+      "lemma": "double",
+      "pos": "v",
+      "definition": "bend over or curl up, usually with laughter or pain",
+      "decision": "gloss",
+      "simpleMeaning": "to bend over suddenly, usually because you are laughing or in pain.",
+      "scope": "This means bending over from laughter or pain, not making something twice as big.",
+      "examples": [
+        "He doubled over with laughter.",
+        "She doubled up in pain when she hit her knee."
+      ],
+      "branchCoverage": [
+        "bend over or curl up, usually with laughter or pain -> 'bend over suddenly, usually because you are laughing or in pain'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "double senses: adjective 'two parts' = made of two parts or a matched pair; adjective 'dissimilar aspects' = having two very different sides or meanings; noun 'base hit' = a baseball hit that reaches second base; noun 'lookalike' = a person who looks very much like a famous person; verb 'bend over' = to bend over with laughter or pain; adverb 'to double the degree' = twice as much.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "double%4:02:00::",
+      "lemma": "double",
+      "pos": "r",
+      "definition": "to double the degree",
+      "decision": "gloss",
+      "simpleMeaning": "twice as much, or at twice the level.",
+      "scope": "This tells you how much, meaning twice as much, not what something is made of.",
+      "examples": [
+        "Tickets cost double at the weekend.",
+        "I had to pay double for a last-minute flight."
+      ],
+      "branchCoverage": [
+        "to double the degree -> 'twice as much, or at twice the level'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "double senses: adjective 'two parts' = made of two parts or a matched pair; adjective 'dissimilar aspects' = having two very different sides or meanings; noun 'base hit' = a baseball hit that reaches second base; noun 'lookalike' = a person who looks very much like a famous person; verb 'bend over' = to bend over with laughter or pain; adverb 'to double the degree' = twice as much.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "expect%2:32:00::",
+      "lemma": "expect",
+      "pos": "v",
+      "definition": "consider obligatory; request and expect",
+      "decision": "gloss",
+      "simpleMeaning": "to ask for something and require it, because you think it is right or normal.",
+      "scope": "This means requiring something of someone, not thinking that something will probably happen.",
+      "examples": [
+        "The teacher expects all students to arrive on time.",
+        "We expect guests to follow the house rules."
+      ],
+      "branchCoverage": [
+        "consider obligatory -> 'require it, because you think it is right or normal'",
+        "request and expect -> 'ask for something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gas%1:26:00::",
+      "lemma": "gas",
+      "pos": "n",
+      "definition": "the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container",
+      "decision": "gloss",
+      "simpleMeaning": "a form of matter, unlike a solid or liquid, that is very light and thin, changes size easily with heat or pressure, and spreads out evenly to fill any container.",
+      "scope": "This is the general state of matter, not the fuel used in car engines and not one particular air-like substance.",
+      "examples": [
+        "Water can be a solid, a liquid or a gas.",
+        "At high temperatures, the metal turns into a gas."
+      ],
+      "branchCoverage": [
+        "the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity -> 'a form of matter, unlike a solid or liquid' + 'very light and thin'",
+        "relatively great expansion and contraction with changes in pressure and temperature -> 'changes size easily with heat or pressure'",
+        "the ability to diffuse readily -> 'spreads out evenly'",
+        "and the spontaneous tendency to become distributed uniformly throughout any container -> 'fill any container'",
+        "after colon: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container -> the same sentence restates the list: 'very light and thin' + 'changes size easily with heat or pressure' + 'spreads out evenly to fill any container'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "gas senses: noun 'state of matter' = the general air-like state of matter, neither solid nor liquid; noun 'fuel from petroleum' = the liquid fuel made from oil that powers car engines; noun 'fluid in the gaseous state' = any particular air-like substance that spreads out.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gas%1:27:02::",
+      "lemma": "gas",
+      "pos": "n",
+      "definition": "a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines",
+      "decision": "gloss",
+      "simpleMeaning": "a liquid fuel made from oil that evaporates quickly, burns easily and is used to power car engines.",
+      "scope": "This is the fuel for engines, not the air-like substance that spreads through a room.",
+      "examples": [
+        "We stopped at the gas station to fill up the car.",
+        "The price of gas has gone up again."
+      ],
+      "branchCoverage": [
+        "a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum -> 'a liquid fuel made from oil that evaporates quickly, burns easily'",
+        "used mainly as a fuel in internal-combustion engines -> 'used to power car engines'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "gas senses: noun 'state of matter' = the general air-like state of matter, neither solid nor liquid; noun 'fuel from petroleum' = the liquid fuel made from oil that powers car engines; noun 'fluid in the gaseous state' = any particular air-like substance that spreads out.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gas%1:27:00::",
+      "lemma": "gas",
+      "pos": "n",
+      "definition": "a fluid in the gaseous state having neither independent shape nor volume and being able to expand indefinitely",
+      "decision": "gloss",
+      "simpleMeaning": "any air-like substance that has no fixed shape or size and can spread out without limit.",
+      "scope": "This is any particular air-like substance, not the general state of matter and not petrol for cars.",
+      "examples": [
+        "Oxygen is a gas that we need to breathe.",
+        "The gas from the broken pipe filled the kitchen."
+      ],
+      "branchCoverage": [
+        "a fluid in the gaseous state having neither independent shape nor volume and being able to expand indefinitely -> 'any air-like substance that has no fixed shape or size and can spread out without limit'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "gas senses: noun 'state of matter' = the general air-like state of matter, neither solid nor liquid; noun 'fuel from petroleum' = the liquid fuel made from oil that powers car engines; noun 'fluid in the gaseous state' = any particular air-like substance that spreads out.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

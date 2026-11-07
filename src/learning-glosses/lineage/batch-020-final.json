@@ -1,0 +1,1001 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 20,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 44,
+      "of": 50,
+      "rate": 0.88
+    },
+    "selfApproved": [
+      "card%1:10:00::",
+      "minister%1:18:01::",
+      "note%1:10:04::",
+      "straight%1:06:00::",
+      "culture%1:09:00::",
+      "respect%2:41:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "5474a2c04701659d2b0d9cd06518ff6b3ad234c809e035f601e70a065b2267c3"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "sleep%2:42:00::",
+      "lemma": "sleep",
+      "pos": "v",
+      "definition": "be able to accommodate for sleeping",
+      "decision": "gloss",
+      "simpleMeaning": "to have enough beds for a certain number of people to stay.",
+      "scope": "It is about a place and how many people it can hold, not about a person resting.",
+      "examples": [
+        "The new hotel can sleep up to three hundred guests.",
+        "The small cabin sleeps four people comfortably."
+      ],
+      "branchCoverage": [
+        "be able to accommodate for sleeping -> have enough beds for a certain number of people to stay"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sleep (v): a place can hold people overnight = beds for guests; sleep (n): a stretch of time when you are not awake = a period of rest.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sleep%1:28:00::",
+      "lemma": "sleep",
+      "pos": "n",
+      "definition": "a period of time spent sleeping",
+      "decision": "gloss",
+      "simpleMeaning": "a stretch of time when you are not awake.",
+      "scope": "It is a length of time, not a place's ability to give people beds.",
+      "examples": [
+        "She got eight hours of sleep last night.",
+        "A short sleep after lunch helped him feel fresh."
+      ],
+      "branchCoverage": [
+        "a period of time spent sleeping -> a stretch of time when you are not awake"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sleep (n): a stretch of time when you are not awake = a period of rest; sleep (v): a place can hold people overnight = beds for guests.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "table%1:06:02::",
+      "lemma": "table",
+      "pos": "n",
+      "definition": "a piece of furniture with tableware for a meal laid out on it",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of furniture that is set out with plates and dishes for a meal.",
+      "scope": "It is furniture ready for eating, not a plain flat-topped piece used for other things or a chart of figures.",
+      "examples": [
+        "The table was laid with plates and glasses when the guests arrived.",
+        "They sat down at the table, which was covered with dishes of food."
+      ],
+      "branchCoverage": [
+        "a piece of furniture with tableware for a meal laid out on it -> a piece of furniture set out with plates and dishes for a meal"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "table (n): flat-topped furniture with legs = the bare object; furniture laid with plates and dishes = ready for a meal; facts or numbers in rows and columns = information.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "table%1:06:01::",
+      "lemma": "table",
+      "pos": "n",
+      "definition": "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of furniture with a flat top held up by legs, used for putting things on.",
+      "scope": "It is the bare object itself, not one already laid with plates for a meal and not a chart of data.",
+      "examples": [
+        "We put the books on the table by the window.",
+        "He wiped the kitchen table after dinner."
+      ],
+      "branchCoverage": [
+        "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs -> a piece of furniture with a flat top held up by legs, used for putting things on"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "table (n): flat-topped furniture with legs = the bare object; furniture laid with plates and dishes = ready for a meal; facts or numbers in rows and columns = information.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "table%1:14:00::",
+      "lemma": "table",
+      "pos": "n",
+      "definition": "a set of data arranged in rows and columns",
+      "decision": "gloss",
+      "simpleMeaning": "facts or numbers set out in rows and columns.",
+      "scope": "It is information on a page, not a piece of furniture.",
+      "examples": [
+        "The results are shown in the table on page twelve.",
+        "She drew a table with three columns."
+      ],
+      "branchCoverage": [
+        "a set of data arranged in rows and columns -> facts or numbers set out in rows and columns"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "table (n): facts or numbers in rows and columns = information; flat-topped furniture with legs = the bare object; furniture laid with plates and dishes = ready for a meal.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ten%1:23:00::",
+      "lemma": "ten",
+      "pos": "n",
+      "definition": "the cardinal number that is the sum of nine and one; the base of the decimal system",
+      "decision": "gloss",
+      "simpleMeaning": "the number that follows nine, and the number that the decimal counting system is built on.",
+      "scope": "It is the number itself, not a group of ten things or a written symbol on its own.",
+      "examples": [
+        "Five plus five makes ten.",
+        "My daughter can count to ten."
+      ],
+      "branchCoverage": [
+        "the cardinal number that is the sum of nine and one -> the number that follows nine",
+        "the base of the decimal system -> the number that the decimal counting system is built on"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ball%1:06:01::",
+      "lemma": "ball",
+      "pos": "n",
+      "definition": "round object that is hit or thrown or kicked in games",
+      "decision": "gloss",
+      "simpleMeaning": "a round thing that players throw, kick or hit in a game.",
+      "scope": "It is the object used in play, not a formal dance party.",
+      "examples": [
+        "The children kicked the ball across the field.",
+        "He threw the ball for his dog to catch."
+      ],
+      "branchCoverage": [
+        "round object that is hit or thrown or kicked in games -> a round thing that players throw, kick or hit in a game"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "box%1:06:00::",
+      "lemma": "box",
+      "pos": "n",
+      "definition": "a (usually rectangular) container; may have a lid",
+      "decision": "gloss",
+      "simpleMeaning": "a container with straight sides that often has a cover on top.",
+      "scope": "It is something you put things in, not the sport of fighting with bare hands or a square on a form.",
+      "examples": [
+        "She kept the old photos in a box under her bed.",
+        "The box had a lid that was hard to open."
+      ],
+      "branchCoverage": [
+        "a (usually rectangular) container -> a container with straight sides",
+        "may have a lid -> often has a cover on top"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "build%2:36:09::",
+      "lemma": "build",
+      "pos": "v",
+      "definition": "build or establish something abstract",
+      "decision": "gloss",
+      "simpleMeaning": "to make something such as trust or a good name grow over time.",
+      "scope": "It is about abstract things, not putting up a house or another structure.",
+      "examples": [
+        "The team worked hard to build trust with local people.",
+        "She built a reputation as a careful doctor."
+      ],
+      "branchCoverage": [
+        "build or establish something abstract -> make something such as trust or a good name grow over time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "card%1:10:00::",
+      "lemma": "card",
+      "pos": "n",
+      "definition": "a rectangular piece of stiff paper used to send messages (may have printed greetings or pictures)",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of stiff paper with a greeting or picture that you send to someone.",
+      "scope": "It is sent to someone with a message, not one used for playing games and not one that proves who you are.",
+      "examples": [
+        "I sent my grandmother a birthday card.",
+        "The card had a picture of flowers on the front."
+      ],
+      "branchCoverage": [
+        "a rectangular piece of stiff paper used to send messages (may have printed greetings or pictures) -> a piece of stiff paper with a greeting or picture that you send to someone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "card (n): small stiff paper from a set used in games or fortune-telling = a playing card; stiff paper sent with a greeting or message = a message card; paper or plastic that proves who you are = an identity document; card (v): ask to see proof of age for alcohol = checking age.",
+      "meaning": "stiff paper sent with a message, often with a greeting or a picture",
+      "verdict": "self-approved",
+      "reviewerNote": "Optional 'may have' made required; use 'stiff paper sent with a message, often with a greeting or a picture'."
+    },
+    {
+      "senseId": "card%2:31:00::",
+      "lemma": "card",
+      "pos": "v",
+      "definition": "ask someone for identification to determine whether he or she is old enough to consume liquor",
+      "decision": "gloss",
+      "simpleMeaning": "to ask someone to show proof of their age before selling them alcohol.",
+      "scope": "It is about checking age for drink, not about asking for a bank card or writing on paper.",
+      "examples": [
+        "The bar staff carded him before he could order a beer.",
+        "She was carded at the door of the club."
+      ],
+      "branchCoverage": [
+        "ask someone for identification to determine whether he or she is old enough to consume liquor -> ask someone to show proof of their age before selling them alcohol"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "card (v): ask to see proof of age for alcohol = checking age; card (n): small stiff paper from a set used in games = a playing card; stiff paper sent with a greeting = a message card; paper or plastic proving who you are = an identity document.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "card%1:06:00::",
+      "lemma": "card",
+      "pos": "n",
+      "definition": "one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes",
+      "decision": "gloss",
+      "simpleMeaning": "one of a set of small stiff papers with marks on them, used to play games or tell fortunes.",
+      "scope": "It belongs to a set used in play, not a message card and not a document that proves who you are.",
+      "examples": [
+        "He shuffled the cards and dealt five to each player.",
+        "She turned over a card and found the queen of hearts."
+      ],
+      "branchCoverage": [
+        "one of a set of small pieces of stiff paper marked in various ways and used for playing games or for telling fortunes -> one of a set of small stiff papers with marks on them, used to play games or tell fortunes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "card (n): one of a set used in games or fortune-telling = a playing card; stiff paper sent with a greeting or message = a message card; paper or plastic that proves who you are = an identity document; card (v): ask to see proof of age for alcohol = checking age.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "card%1:10:01::",
+      "lemma": "card",
+      "pos": "n",
+      "definition": "a card certifying the identity of the bearer",
+      "decision": "gloss",
+      "simpleMeaning": "a small piece of stiff paper or plastic that shows who you are.",
+      "scope": "It proves who someone is, not a card sent with a greeting and not one used in games.",
+      "examples": [
+        "You must show your card at the entrance.",
+        "He lost his library card and had to get a new one."
+      ],
+      "branchCoverage": [
+        "a card certifying the identity of the bearer -> a small piece of stiff paper or plastic that shows who you are"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "card (n): paper or plastic that proves who you are = an identity document; one of a set used in games = a playing card; stiff paper sent with a greeting = a message card; card (v): ask to see proof of age for alcohol = checking age.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dark%3:00:01::",
+      "lemma": "dark",
+      "pos": "a",
+      "definition": "devoid of or deficient in light or brightness; shadowed or black",
+      "decision": "gloss",
+      "simpleMeaning": "having little or no light.",
+      "scope": "It is about light, not about evil or sad things.",
+      "examples": [
+        "It gets dark early in winter.",
+        "The room was dark and we could not see the door."
+      ],
+      "branchCoverage": [
+        "devoid of or deficient in light or brightness -> having little or no light",
+        "shadowed or black -> (covered by) little light, so full of shadow"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dark (a): having little or no light = light; dark (n): evil or lack of good values = morals.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dark%1:26:01::",
+      "lemma": "dark",
+      "pos": "n",
+      "definition": "absence of moral or spiritual values",
+      "decision": "gloss",
+      "simpleMeaning": "a state of evil or of having no good or spiritual values.",
+      "scope": "It is about evil, not about the lack of light at night.",
+      "examples": [
+        "The story is about the dark in human nature.",
+        "She saw the dark in his eyes after the crime."
+      ],
+      "branchCoverage": [
+        "absence of moral or spiritual values -> a state of evil or of having no good or spiritual values"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "dark (n): evil or lack of good values = morals; dark (a): having little or no light = light.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "district%1:15:00::",
+      "lemma": "district",
+      "pos": "n",
+      "definition": "a region marked off for administrative or other purposes",
+      "decision": "gloss",
+      "simpleMeaning": "an area of a town or country with fixed borders, often used for local government or services.",
+      "scope": "It is a bounded area, not a single building or street.",
+      "examples": [
+        "She lives in the northern district of the city.",
+        "The school district has five primary schools."
+      ],
+      "branchCoverage": [
+        "a region marked off for administrative or other purposes -> an area of a town or country with fixed borders, often used for local government or services"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mine%1:06:00::",
+      "lemma": "mine",
+      "pos": "n",
+      "definition": "explosive device that explodes on contact; designed to destroy vehicles or ships or to kill or maim personnel",
+      "decision": "gloss",
+      "simpleMeaning": "a bomb hidden in the ground or water that goes off when something touches it.",
+      "scope": "It is a hidden weapon, not a hole dug to take metals out of the earth.",
+      "examples": [
+        "The soldiers cleared mines from the road.",
+        "The ship hit a mine near the coast."
+      ],
+      "branchCoverage": [
+        "explosive device that explodes on contact -> a bomb hidden in the ground or water that goes off when something touches it",
+        "designed to destroy vehicles or ships or to kill or maim personnel -> (carried by) a bomb, a weapon meant to harm people and vehicles"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mine (n): a hole or tunnel for taking out metals or coal = a place to dig minerals; a hidden bomb that goes off on contact = a weapon.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mine%1:06:01::",
+      "lemma": "mine",
+      "pos": "n",
+      "definition": "excavation in the earth from which ores and minerals are extracted",
+      "decision": "gloss",
+      "simpleMeaning": "a deep hole or tunnel dug to take metals or coal out of the ground.",
+      "scope": "It is a place where minerals are taken out, not a hidden bomb.",
+      "examples": [
+        "He worked in a coal mine for thirty years.",
+        "The old mine is now closed to visitors."
+      ],
+      "branchCoverage": [
+        "excavation in the earth from which ores and minerals are extracted -> a deep hole or tunnel dug to take metals or coal out of the ground"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mine (n): a hole or tunnel for taking out metals or coal = a place to dig minerals; a hidden bomb that goes off on contact = a weapon.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "minister%1:18:01::",
+      "lemma": "minister",
+      "pos": "n",
+      "definition": "a diplomat representing one government to another; ranks below ambassador",
+      "decision": "gloss",
+      "simpleMeaning": "a senior diplomat who speaks for their country in another country and ranks below an ambassador.",
+      "scope": "It is a diplomatic post, not a member of the government in charge of a department and not a church leader.",
+      "examples": [
+        "The minister at the embassy met the foreign secretary.",
+        "She was posted as minister to Sweden."
+      ],
+      "branchCoverage": [
+        "a diplomat representing one government to another -> a senior diplomat who speaks for their country in another country",
+        "ranks below ambassador -> ranks below an ambassador"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "minister (n): a church leader = religious role; a senior diplomat below an ambassador = government role; minister (v): do the work of a religious leader = the action.",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 reads as a government minister; use 'The minister at the embassy met the foreign secretary'."
+    },
+    {
+      "senseId": "minister%1:18:00::",
+      "lemma": "minister",
+      "pos": "n",
+      "definition": "a person authorized to conduct religious worship",
+      "decision": "gloss",
+      "simpleMeaning": "a church leader who leads worship and services.",
+      "scope": "It is a religious role, not a government post or a diplomatic job.",
+      "examples": [
+        "The minister gave a short sermon.",
+        "They asked the minister to lead the prayer."
+      ],
+      "branchCoverage": [
+        "a person authorized to conduct religious worship -> a church leader who leads worship and services"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "minister (n): a church leader = religious role; a senior diplomat below an ambassador = government role; minister (v): do the work of a religious leader = the action.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "minister%2:41:00::",
+      "lemma": "minister",
+      "pos": "v",
+      "definition": "work as a minister",
+      "decision": "gloss",
+      "simpleMeaning": "to carry out the duties of a religious leader.",
+      "scope": "It is about doing the job, not the person who holds it and not the work of a diplomat.",
+      "examples": [
+        "He ministered in a small country church for many years.",
+        "For ten years she ministered in the city's oldest church."
+      ],
+      "branchCoverage": [
+        "work as a minister -> carry out the duties of a religious leader"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "minister (v): do the work of a religious leader = the action; minister (n): a church leader = religious role; a senior diplomat below an ambassador = government role.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "note%1:10:04::",
+      "lemma": "note",
+      "pos": "n",
+      "definition": "a notation representing the pitch and duration of a musical sound",
+      "decision": "gloss",
+      "simpleMeaning": "a written sign that shows how high or low a musical sound is and how long it lasts.",
+      "scope": "It is a sign in music, not a short written message or a remark about something.",
+      "examples": [
+        "She played the notes on the page slowly.",
+        "Read the high notes on the page."
+      ],
+      "branchCoverage": [
+        "a notation representing the pitch and duration of a musical sound -> a written sign that shows how high or low a musical sound is and how long it lasts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Sing the high notes' shows sounds, not written signs; use 'read the high notes on the page'."
+    },
+    {
+      "senseId": "percent%1:24:00::",
+      "lemma": "percent",
+      "pos": "n",
+      "definition": "a proportion in relation to a whole (which is usually the amount per hundred); ten percent",
+      "decision": "gloss",
+      "simpleMeaning": "a part of a whole, counted as an amount out of every hundred.",
+      "scope": "It is a share out of a hundred, not a whole number or a unit of money.",
+      "examples": [
+        "About twenty percent of the students walk to school.",
+        "The price went up by five percent."
+      ],
+      "branchCoverage": [
+        "a proportion in relation to a whole (which is usually the amount per hundred) -> a part of a whole counted as an amount out of every hundred",
+        "ten percent -> a share such as ten out of every hundred"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "piece%2:35:02::",
+      "lemma": "piece",
+      "pos": "v",
+      "definition": "to join or unite the pieces of",
+      "decision": "gloss",
+      "simpleMeaning": "to put separate parts back together to make a whole.",
+      "scope": "It is about joining parts, not cutting something into smaller parts.",
+      "examples": [
+        "She pieced the broken bowl back together.",
+        "The police pieced the story together from what witnesses said."
+      ],
+      "branchCoverage": [
+        "to join or unite the pieces of -> put separate parts back together to make a whole"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "straight%1:18:00::",
+      "lemma": "straight",
+      "pos": "n",
+      "definition": "a person having a sexual orientation to persons of the opposite sex",
+      "decision": "gloss",
+      "simpleMeaning": "a person who is sexually attracted to people of the other sex.",
+      "scope": "It names a person, not the direction of a line or a stretch of road.",
+      "examples": [
+        "The club is open to straights and gay people alike.",
+        "The survey asked straights and gays about their views."
+      ],
+      "branchCoverage": [
+        "a person having a sexual orientation to persons of the opposite sex -> a person who is sexually attracted to people of the other sex"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "straight (n): a person attracted to the other sex = a sexual identity; five cards in a row in poker = a card hand; a straight stretch of road = part of a route; straight (r): speaking in a frank, honest way = manner; moving in a direct line = direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "straight%4:02:04::",
+      "lemma": "straight",
+      "pos": "r",
+      "definition": "in a forthright manner; candidly or frankly",
+      "decision": "gloss",
+      "simpleMeaning": "in an open, honest way, saying exactly what you think.",
+      "scope": "This is not about moving in a line, not about a road, and not about someone's sexual orientation; it describes how honestly something is said.",
+      "examples": [
+        "He told me straight that my work was not good enough.",
+        "I'll give it to you straight: the company is losing money."
+      ],
+      "branchCoverage": [
+        "in a forthright manner -> 'in an open, honest way'",
+        "candidly or frankly -> 'saying exactly what you think'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "straight senses: adverb 'in a forthright manner' = speaking in an open, honest way; noun 'a straight segment of a roadway or racecourse' = a flat part of a road or track with no bend; noun 'a poker hand' = five cards with values in order; adverb 'in a straight line' = moving forward without turning; noun 'a person having a sexual orientation to persons of the opposite sex' = a person attracted to the opposite sex.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "straight%1:06:00::",
+      "lemma": "straight",
+      "pos": "n",
+      "definition": "a straight segment of a roadway or racecourse",
+      "decision": "gloss",
+      "simpleMeaning": "a flat, level section of a road or track with no bends.",
+      "scope": "This is a physical part of a road or track, not a card hand, not a dependable person, and not the direction of travel.",
+      "examples": [
+        "The cars reached top speed on the long straight before the first corner.",
+        "He lost control on the straight and hit the barrier."
+      ],
+      "branchCoverage": [
+        "a straight segment of a roadway or racecourse -> 'a flat, level section of a road or track with no bends'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "straight senses: adverb 'in a forthright manner' = speaking in an open, honest way; noun 'a straight segment of a roadway or racecourse' = a flat part of a road or track with no bend; noun 'a poker hand' = five cards with values in order; adverb 'in a straight line' = moving forward without turning; noun 'a person having a sexual orientation to persons of the opposite sex' = a person attracted to the opposite sex.",
+      "meaning": "a part of a road or track with no bends.",
+      "verdict": "self-approved",
+      "reviewerNote": "\"Flat, level\" wrongly adds a no-slope requirement; use \"a part of a road or track with no bends.\""
+    },
+    {
+      "senseId": "straight%1:14:00::",
+      "lemma": "straight",
+      "pos": "n",
+      "definition": "a poker hand with 5 consecutive cards (regardless of suit)",
+      "decision": "gloss",
+      "simpleMeaning": "five playing cards with values in order, used in poker.",
+      "scope": "This is a set of five cards in a game, not a road, not a direction, and not a person.",
+      "examples": [
+        "She won the hand with a straight, five cards from eight to queen.",
+        "A straight beats two pairs in poker."
+      ],
+      "branchCoverage": [
+        "a poker hand with 5 consecutive cards (regardless of suit) -> 'five playing cards with values in order' + 'used in poker'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "straight senses: adverb 'in a forthright manner' = speaking in an open, honest way; noun 'a straight segment of a roadway or racecourse' = a flat part of a road or track with no bend; noun 'a poker hand' = five cards with values in order; adverb 'in a straight line' = moving forward without turning; noun 'a person having a sexual orientation to persons of the opposite sex' = a person attracted to the opposite sex.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "straight%4:02:00::",
+      "lemma": "straight",
+      "pos": "r",
+      "definition": "in a straight line; in a direct course",
+      "decision": "gloss",
+      "simpleMeaning": "moving or looking forward in a direct way, without turning aside.",
+      "scope": "This describes the direction of movement, not honest speech, not a road, and not a person's sexual orientation.",
+      "examples": [
+        "The arrow flew straight and hit the centre of the target.",
+        "Walk straight ahead until you reach the door."
+      ],
+      "branchCoverage": [
+        "in a straight line -> 'moving or looking forward'",
+        "in a direct course -> 'in a direct way, without turning aside'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "straight senses: adverb 'in a forthright manner' = speaking in an open, honest way; noun 'a straight segment of a roadway or racecourse' = a flat part of a road or track with no bend; noun 'a poker hand' = five cards with values in order; adverb 'in a straight line' = moving forward without turning; noun 'a person having a sexual orientation to persons of the opposite sex' = a person attracted to the opposite sex.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "visit%1:04:01::",
+      "lemma": "visit",
+      "pos": "n",
+      "definition": "the act of visiting in an official capacity (as for an inspection)",
+      "decision": "gloss",
+      "simpleMeaning": "an official trip to look at a place and check how things are done.",
+      "scope": "This is an official trip to check a place, not a friendly or family call and not a meeting with a doctor for advice.",
+      "examples": [
+        "The health minister made an official visit to the hospital.",
+        "Inspectors paid a visit to the factory after the accident."
+      ],
+      "branchCoverage": [
+        "the act of visiting in an official capacity (as for an inspection) -> 'an official trip' + 'to look at a place and check how things are done'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "visit senses: noun 'official capacity' = an official trip to check a place; noun 'meeting arranged by the visitor' = an appointment with a doctor or lawyer for help; verb 'pay a brief visit' = to go and see someone for a short time.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "visit%1:14:00::",
+      "lemma": "visit",
+      "pos": "n",
+      "definition": "a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice",
+      "decision": "gloss",
+      "simpleMeaning": "an appointment to see a doctor, lawyer, or other expert for help or advice.",
+      "scope": "This is a planned meeting for treatment or advice, not an official inspection and not a friendly call.",
+      "examples": [
+        "I have a visit with the doctor at four o'clock.",
+        "She made a visit to her lawyer to discuss the contract."
+      ],
+      "branchCoverage": [
+        "a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice -> 'an appointment' + 'doctor, lawyer, or other expert' + 'for help or advice'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "visit senses: noun 'official capacity' = an official trip to check a place; noun 'meeting arranged by the visitor' = an appointment with a doctor or lawyer for help; verb 'pay a brief visit' = to go and see someone for a short time.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "visit%2:41:00::",
+      "lemma": "visit",
+      "pos": "v",
+      "definition": "pay a brief visit",
+      "decision": "gloss",
+      "simpleMeaning": "to go and see someone or a place for a short time.",
+      "scope": "This means a short call on someone, not a long stay, not an official inspection, and not a doctor's appointment.",
+      "examples": [
+        "We visited my aunt for an hour on our way home.",
+        "He visits the museum whenever he is in town."
+      ],
+      "branchCoverage": [
+        "pay a brief visit -> 'to go and see someone or a place' + 'for a short time'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "visit senses: noun 'official capacity' = an official trip to check a place; noun 'meeting arranged by the visitor' = an appointment with a doctor or lawyer for help; verb 'pay a brief visit' = to go and see someone for a short time.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wall%1:06:00::",
+      "lemma": "wall",
+      "pos": "n",
+      "definition": "an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure",
+      "decision": "gloss",
+      "simpleMeaning": "a tall, flat structure that forms the side of a room or building and can hold up a roof or divide a space.",
+      "scope": "This is a solid side or barrier of a building, not the side of a container and not a feeling of being trapped.",
+      "examples": [
+        "They painted the walls of the bedroom light blue.",
+        "A high wall around the garden keeps the noise out."
+      ],
+      "branchCoverage": [
+        "an architectural partition with a height and length greater than its thickness -> 'a tall, flat structure'",
+        "used to divide or enclose an area or to support another structure -> 'forms the side of a room or building', 'hold up a roof or divide a space'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "culture%1:09:00::",
+      "lemma": "culture",
+      "pos": "n",
+      "definition": "the tastes in art and manners that are favored by a social group",
+      "decision": "gloss",
+      "simpleMeaning": "the art, music, and good manners that a group of people value and share.",
+      "scope": "This is shared taste in art and polite behavior, not the scientific growing of cells and not the whole way of life of a nation.",
+      "examples": [
+        "The city is proud of its culture, with its own music, food, and art.",
+        "He is a man of culture who enjoys opera and fine painting."
+      ],
+      "branchCoverage": [
+        "the tastes in art and manners that are favored by a social group -> 'art, music, and good manners' + 'that a group of people value and share'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "a group's shared taste in art and accepted behaviour.",
+      "verdict": "self-approved",
+      "reviewerNote": "\"The art, music\" broadens \"tastes in art\"; examples show general-arts sense. Use \"a group's shared taste in art and accepted behavior.\""
+    },
+    {
+      "senseId": "included%5:00:00:enclosed:00",
+      "lemma": "included",
+      "pos": "a",
+      "definition": "enclosed in the same envelope or package",
+      "decision": "gloss",
+      "simpleMeaning": "put inside the same envelope or parcel as something else.",
+      "scope": "This means packed in the same envelope or parcel, not simply counted as part of a group or a price.",
+      "examples": [
+        "Please return the form with a photo included in the same envelope.",
+        "The book arrived with a map included in the package."
+      ],
+      "branchCoverage": [
+        "enclosed in the same envelope or package -> 'put inside the same envelope or parcel as something else'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "married%3:01:00::",
+      "lemma": "married",
+      "pos": "a",
+      "definition": "of or relating to the state of marriage",
+      "decision": "gloss",
+      "simpleMeaning": "connected with being a husband or wife.",
+      "scope": "This describes things that belong to marriage, not a person who has a husband or wife.",
+      "examples": [
+        "They celebrated forty years of married life.",
+        "She wrote a book about the joys and problems of married life."
+      ],
+      "branchCoverage": [
+        "of or relating to the state of marriage -> 'connected with being a husband or wife'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "married senses: adjective 'of or relating to the state of marriage' = connected with being a husband or wife; noun = people who have a husband or wife.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "married%1:18:00::",
+      "lemma": "married",
+      "pos": "n",
+      "definition": "a person who is married",
+      "decision": "gloss",
+      "simpleMeaning": "a person who has a husband or wife.",
+      "scope": "This means people who have a husband or wife, not the state of marriage or things that belong to it.",
+      "examples": [
+        "The law gives extra help to the married.",
+        "The survey asked the married about their home life."
+      ],
+      "branchCoverage": [
+        "a person who is married -> 'a person who has a husband or wife'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "married senses: adjective 'of or relating to the state of marriage' = connected with being a husband or wife; noun = people who have a husband or wife.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "officer%1:18:02::",
+      "lemma": "officer",
+      "pos": "n",
+      "definition": "someone who is appointed or elected to an office and who holds a position of trust",
+      "decision": "gloss",
+      "simpleMeaning": "a person chosen for an important job in an organization and trusted to do it well.",
+      "scope": "This is a trusted role in a club, company, or government, not a police rank and not a soldier.",
+      "examples": [
+        "She was elected as the union officer in charge of safety.",
+        "The bank officer signed the papers for the loan."
+      ],
+      "branchCoverage": [
+        "someone who is appointed or elected to an office and who holds a position of trust -> 'a person chosen for an important job in an organization' + 'trusted to do it well'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "officer senses: noun 'appointed or elected to an office' = a person in a trusted position in an organization; verb = to lead and command a group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "officer%2:32:00::",
+      "lemma": "officer",
+      "pos": "v",
+      "definition": "direct or command as an officer",
+      "decision": "gloss",
+      "simpleMeaning": "to lead and give orders to a group, as a person in charge does.",
+      "scope": "This means to lead and command a group, not to work as a police officer and not to hold an office.",
+      "examples": [
+        "He officered the unit for two years before retiring.",
+        "She officered the parade with great skill."
+      ],
+      "branchCoverage": [
+        "direct or command as an officer -> 'to lead and give orders to a group' + 'as a person in charge does'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "officer senses: noun 'appointed or elected to an office' = a person in a trusted position in an organization; verb = to lead and command a group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pain%1:09:00::",
+      "lemma": "pain",
+      "pos": "n",
+      "definition": "a somatic sensation of acute discomfort",
+      "decision": "gloss",
+      "simpleMeaning": "a sharp, unpleasant feeling in your body.",
+      "scope": "This is a feeling in the body, not a person or thing that causes trouble and not emotional suffering.",
+      "examples": [
+        "A sharp pain shot through my knee as I ran.",
+        "She felt a sudden pain in her chest and called the doctor."
+      ],
+      "branchCoverage": [
+        "a somatic sensation of acute discomfort -> 'a sharp, unpleasant feeling in your body'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pain senses: noun = a sharp unpleasant feeling in the body; verb = to make someone's body hurt or feel ill.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pain%2:29:00::",
+      "lemma": "pain",
+      "pos": "v",
+      "definition": "cause bodily suffering to and make sick or indisposed",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone's body hurt and feel ill.",
+      "scope": "This means to cause physical hurt or illness, not to upset someone emotionally.",
+      "examples": [
+        "His leg pained him all night.",
+        "The old wound pained her when she walked."
+      ],
+      "branchCoverage": [
+        "cause bodily suffering to and make sick or indisposed -> 'make someone's body hurt' + 'feel ill'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pain senses: noun = a sharp unpleasant feeling in the body; verb = to make someone's body hurt or feel ill.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "respect%1:26:00::",
+      "lemma": "respect",
+      "pos": "n",
+      "definition": "the condition of being honored (esteemed or respected or well regarded)",
+      "decision": "gloss",
+      "simpleMeaning": "the good opinion that other people have of you.",
+      "scope": "This is the good name you have in other people's eyes, not the admiration you feel for someone and not a detail of a plan.",
+      "examples": [
+        "The scientist is held in great respect around the world.",
+        "He earned the respect of his colleagues through hard work."
+      ],
+      "branchCoverage": [
+        "the condition of being honored (esteemed or respected or well regarded) -> 'the good opinion that other people have of you'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "respect senses: noun 'condition of being honored' = the good opinion others have of you; noun 'attitude of admiration' = the admiration you feel for someone; verb = to treat someone politely and show you value them.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "respect%1:09:01::",
+      "lemma": "respect",
+      "pos": "n",
+      "definition": "an attitude of admiration or esteem",
+      "decision": "gloss",
+      "simpleMeaning": "a feeling of admiration for someone because of their qualities or achievements.",
+      "scope": "This is the admiration you feel for someone, not the good name you have with others and not a particular point or detail.",
+      "examples": [
+        "I have great respect for nurses and the work they do.",
+        "He spoke of his coach with deep respect."
+      ],
+      "branchCoverage": [
+        "an attitude of admiration or esteem -> 'a feeling of admiration for someone' + 'because of their qualities or achievements'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "respect senses: noun 'condition of being honored' = the good opinion others have of you; noun 'attitude of admiration' = the admiration you feel for someone; verb = to treat someone politely and show you value them.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "respect%2:41:00::",
+      "lemma": "respect",
+      "pos": "v",
+      "definition": "show respect towards",
+      "decision": "gloss",
+      "simpleMeaning": "to treat someone politely and show that you value them.",
+      "scope": "This means to treat someone with honor, not to accept a rule or law as something you must obey.",
+      "examples": [
+        "We must respect other people's beliefs.",
+        "He always respected his teachers and followed their advice."
+      ],
+      "branchCoverage": [
+        "show respect towards -> 'treat someone politely' + 'show that you value them'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "respect senses: noun 'condition of being honored' = the good opinion others have of you; noun 'attitude of admiration' = the admiration you feel for someone; verb = to treat someone politely and show you value them.",
+      "meaning": "to treat someone or something with honor and value.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss limited to treating people politely, but example is \"respect beliefs\". Use \"treat someone or something with honor and value.\""
+    },
+    {
+      "senseId": "response%1:04:01::",
+      "lemma": "response",
+      "pos": "n",
+      "definition": "a bodily process occurring due to the effect of some antecedent stimulus or agent",
+      "decision": "gloss",
+      "simpleMeaning": "a change in the body caused by something that happens to it.",
+      "scope": "This is a physical reaction of the body, not an answer in words and not a reaction in a discussion.",
+      "examples": [
+        "The patient's response to the drug was quick and strong.",
+        "Sweating is the body's natural response to heat."
+      ],
+      "branchCoverage": [
+        "a bodily process occurring due to the effect of some antecedent stimulus or agent -> 'a change in the body' + 'caused by something that happens to it'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "response senses: noun 'bodily process' = a physical reaction of the body; noun 'statement in reply' = a spoken or written answer to a question or criticism.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "response%1:10:01::",
+      "lemma": "response",
+      "pos": "n",
+      "definition": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation",
+      "decision": "gloss",
+      "simpleMeaning": "an answer you speak or write when someone asks you something or says you did wrong.",
+      "scope": "This is an answer in words to a question or criticism, not a physical reaction of the body.",
+      "examples": [
+        "I sent a written response to the complaint.",
+        "His response to the question surprised everyone."
+      ],
+      "branchCoverage": [
+        "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation -> 'an answer' + 'you speak or write' + 'to a question' + 'when someone says you did wrong'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "response senses: noun 'bodily process' = a physical reaction of the body; noun 'statement in reply' = a spoken or written answer to a question or criticism.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rock%1:27:00::",
+      "lemma": "rock",
+      "pos": "n",
+      "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust",
+      "decision": "gloss",
+      "simpleMeaning": "the hard natural material that forms the surface of the earth.",
+      "scope": "This is the material itself, not a single stone you can pick up and not a style of music.",
+      "examples": [
+        "The tunnel was cut through solid rock.",
+        "Soil forms slowly as rock breaks down over many years."
+      ],
+      "branchCoverage": [
+        "material consisting of the aggregate of minerals like those making up the Earth's crust -> 'the hard natural material' + 'forms the surface of the earth'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rock senses: noun 'aggregate of minerals' = the hard material of the earth's surface; noun 'lump or mass' = one piece of hard stone; noun 'figurative person' = a steady, dependable person.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rock%1:17:01::",
+      "lemma": "rock",
+      "pos": "n",
+      "definition": "a lump or mass of hard consolidated mineral matter",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of hard stone.",
+      "scope": "This is one piece of stone, not the material that makes up the earth's surface and not a dependable person.",
+      "examples": [
+        "The child threw a rock into the river.",
+        "We sat on a flat rock by the sea."
+      ],
+      "branchCoverage": [
+        "a lump or mass of hard consolidated mineral matter -> 'a piece of hard stone'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rock senses: noun 'aggregate of minerals' = the hard material of the earth's surface; noun 'lump or mass' = one piece of hard stone; noun 'figurative person' = a steady, dependable person.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rock%1:18:00::",
+      "lemma": "rock",
+      "pos": "n",
+      "definition": "(figurative) someone who is strong and stable and dependable",
+      "decision": "gloss",
+      "simpleMeaning": "a way of describing a person who is strong, steady, and reliable.",
+      "scope": "This is a word for a dependable person, used as a picture, not a stone and not a type of music.",
+      "examples": [
+        "My father was the rock of our family after my mother died.",
+        "In hard times, she was a rock for her friends."
+      ],
+      "branchCoverage": [
+        "(figurative) someone who is strong and stable and dependable -> 'a way of describing' (the figurative use) + 'strong, steady, and reliable'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rock senses: noun 'aggregate of minerals' = the hard material of the earth's surface; noun 'lump or mass' = one piece of hard stone; noun 'figurative person' = a steady, dependable person.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "specific%3:01:00::",
+      "lemma": "specific",
+      "pos": "a",
+      "definition": "relating to or distinguishing or constituting a taxonomic species",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to one exact kind of animal or plant in science.",
+      "scope": "This is a scientific word for one exact kind of living thing, not a general word for a particular detail and not a special quality.",
+      "examples": [
+        "The specific name of the plant is written in Latin.",
+        "Biologists give every kind of beetle its own specific name."
+      ],
+      "branchCoverage": [
+        "relating to or distinguishing or constituting a taxonomic species -> 'belonging to one exact kind of animal or plant' + 'in science'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,1013 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 37,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1800,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "dress%1:06:01::",
+      "lemma": "dress",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "clothing of a distinctive style or for a particular occasion",
+      "synsetId": "02759103-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1646,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "clothing of a distinctive style or for a particular occasion"
+      ]
+    },
+    {
+      "senseId": "dress%5:00:01:formal:01",
+      "lemma": "dress",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(of an occasion) requiring formal clothes",
+      "synsetId": "01046603-s",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1646,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(of an occasion) requiring formal clothes"
+      ]
+    },
+    {
+      "senseId": "dress%5:00:02:formal:01",
+      "lemma": "dress",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "suitable for formal occasions",
+      "synsetId": "01046908-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1646,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "suitable for formal occasions"
+      ]
+    },
+    {
+      "senseId": "horse%1:05:00::",
+      "lemma": "horse",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "solid-hoofed herbivorous quadruped domesticated since prehistoric times",
+      "synsetId": "02377103-n",
+      "words": 8,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1649,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "solid-hoofed herbivorous quadruped domesticated since prehistoric times"
+      ]
+    },
+    {
+      "senseId": "horse%1:06:03::",
+      "lemma": "horse",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a padded gymnastic apparatus on legs",
+      "synsetId": "03543217-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1649,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a padded gymnastic apparatus on legs"
+      ]
+    },
+    {
+      "senseId": "horse%2:34:00::",
+      "lemma": "horse",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "provide with a horse or horses",
+      "synsetId": "01186591-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1649,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "provide with a horse or horses"
+      ]
+    },
+    {
+      "senseId": "liked%3:00:00::",
+      "lemma": "liked",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "found pleasant or attractive; often used as a combining form",
+      "synsetId": "01464060-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1651,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "found pleasant or attractive",
+        "often used as a combining form"
+      ]
+    },
+    {
+      "senseId": "magic%1:04:01::",
+      "lemma": "magic",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an illusory feat; considered magical by naive observers",
+      "synsetId": "00100771-n",
+      "words": 8,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1652,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an illusory feat",
+        "considered magical by naive observers"
+      ]
+    },
+    {
+      "senseId": "magic%5:00:00:supernatural:00",
+      "lemma": "magic",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "possessing or using or characteristic of or appropriate to supernatural powers",
+      "synsetId": "01580464-s",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1652,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "possessing or using or characteristic of or appropriate to supernatural powers"
+      ]
+    },
+    {
+      "senseId": "map%2:42:00::",
+      "lemma": "map",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "locate within a specific region of a chromosome in relation to known DNA or gene sequences",
+      "synsetId": "02701551-v",
+      "words": 16,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1654,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "locate within a specific region of a chromosome in relation to known DNA or gene sequences"
+      ]
+    },
+    {
+      "senseId": "map%1:06:00::",
+      "lemma": "map",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a diagrammatic representation of the earth's surface (or part of it)",
+      "synsetId": "03725654-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1654,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a diagrammatic representation of the earth's surface (or part of it)"
+      ]
+    },
+    {
+      "senseId": "net%1:06:01::",
+      "lemma": "net",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange",
+      "synsetId": "03585784-n",
+      "words": 24,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1655,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange"
+      ]
+    },
+    {
+      "senseId": "net%1:21:00::",
+      "lemma": "net",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)",
+      "synsetId": "13279261-n",
+      "words": 19,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1655,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)"
+      ]
+    },
+    {
+      "senseId": "net%1:06:02::",
+      "lemma": "net",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a trap made of netting to catch fish or birds or insects",
+      "synsetId": "03825534-n",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1655,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a trap made of netting to catch fish or birds or insects"
+      ]
+    },
+    {
+      "senseId": "request%1:10:01::",
+      "lemma": "request",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a formal message requesting something that is submitted to an authority",
+      "synsetId": "06525357-n",
+      "words": 11,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1657,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a formal message requesting something that is submitted to an authority"
+      ]
+    },
+    {
+      "senseId": "request%1:10:00::",
+      "lemma": "request",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the verbal act of requesting",
+      "synsetId": "07199985-n",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1657,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the verbal act of requesting"
+      ]
+    },
+    {
+      "senseId": "stick%1:06:03::",
+      "lemma": "stick",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a lever used by a pilot to control the ailerons and elevators of an airplane",
+      "synsetId": "04325114-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1658,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a lever used by a pilot to control the ailerons and elevators of an airplane"
+      ]
+    },
+    {
+      "senseId": "stick%2:35:00::",
+      "lemma": "stick",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "stick to firmly",
+      "synsetId": "01359453-v",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1658,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "stick to firmly"
+      ]
+    },
+    {
+      "senseId": "vehicle%1:27:00::",
+      "lemma": "vehicle",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "any substance that facilitates the use of a drug or pigment or other material that is mixed with it",
+      "synsetId": "15136653-n",
+      "words": 19,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1660,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any substance that facilitates the use of a drug or pigment or other material that is mixed with it"
+      ]
+    },
+    {
+      "senseId": "vehicle%1:06:00::",
+      "lemma": "vehicle",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a conveyance that transports people or objects",
+      "synsetId": "04531608-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1660,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a conveyance that transports people or objects"
+      ]
+    },
+    {
+      "senseId": "vehicle%1:10:00::",
+      "lemma": "vehicle",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a medium for the expression or achievement of something",
+      "synsetId": "06265658-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1660,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a medium for the expression or achievement of something"
+      ]
+    },
+    {
+      "senseId": "volume%1:06:00::",
+      "lemma": "volume",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "physical objects consisting of a number of pages bound together",
+      "synsetId": "02873453-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1661,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "physical objects consisting of a number of pages bound together"
+      ]
+    },
+    {
+      "senseId": "volume%1:23:00::",
+      "lemma": "volume",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the amount of 3-dimensional space occupied by an object",
+      "synsetId": "13801244-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1661,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the amount of 3-dimensional space occupied by an object"
+      ]
+    },
+    {
+      "senseId": "wake%1:04:00::",
+      "lemma": "wake",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a vigil held over a corpse the night before burial",
+      "synsetId": "01031915-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1662,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a vigil held over a corpse the night before burial"
+      ]
+    },
+    {
+      "senseId": "wake%1:11:00::",
+      "lemma": "wake",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the wave that spreads behind a boat as it moves forward",
+      "synsetId": "07358968-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1662,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the wave that spreads behind a boat as it moves forward"
+      ]
+    },
+    {
+      "senseId": "wake%2:37:00::",
+      "lemma": "wake",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "arouse or excite feelings and passions",
+      "synsetId": "01764964-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1662,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "arouse or excite feelings and passions"
+      ]
+    },
+    {
+      "senseId": "aid%1:04:00::",
+      "lemma": "aid",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose",
+      "synsetId": "01210099-n",
+      "words": 17,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1663,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
+      ]
+    },
+    {
+      "senseId": "beauty%1:07:00::",
+      "lemma": "beauty",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the qualities that give pleasure to the senses",
+      "synsetId": "04691171-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1664,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the qualities that give pleasure to the senses"
+      ]
+    },
+    {
+      "senseId": "billion%1:23:01::",
+      "lemma": "billion",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen",
+      "synsetId": "13774312-n",
+      "words": 25,
+      "rare": 5,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1666,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the number that is represented as a one followed by 12 zeros",
+        "in the United Kingdom the usage followed in the United States is frequently seen"
+      ]
+    },
+    {
+      "senseId": "billion%5:00:00:cardinal:00",
+      "lemma": "billion",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "denoting a quantity consisting of one thousand million items or units in the United States",
+      "synsetId": "02207011-s",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1666,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "denoting a quantity consisting of one thousand million items or units in the United States"
+      ]
+    },
+    {
+      "senseId": "billion%5:00:01:cardinal:00",
+      "lemma": "billion",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "denoting a quantity consisting of one million million items or units in Great Britain",
+      "synsetId": "02207192-s",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1666,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "denoting a quantity consisting of one million million items or units in Great Britain"
+      ]
+    },
+    {
+      "senseId": "busy%5:00:00:intrusive:01",
+      "lemma": "busy",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "intrusive in a meddling or offensive manner",
+      "synsetId": "01355409-s",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1667,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "intrusive in a meddling or offensive manner"
+      ]
+    },
+    {
+      "senseId": "busy%3:00:00::",
+      "lemma": "busy",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "actively or fully engaged or occupied",
+      "synsetId": "00293803-a",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1667,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "actively or fully engaged or occupied"
+      ]
+    },
+    {
+      "senseId": "busy%5:00:00:fancy:00",
+      "lemma": "busy",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "overcrowded or cluttered with detail",
+      "synsetId": "01799712-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1667,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "overcrowded or cluttered with detail"
+      ]
+    },
+    {
+      "senseId": "buying%1:04:00::",
+      "lemma": "buying",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of buying",
+      "synsetId": "00082392-n",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1668,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of buying"
+      ]
+    },
+    {
+      "senseId": "corner%1:06:02::",
+      "lemma": "corner",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an interior angle formed by two meeting walls",
+      "synsetId": "03114532-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1672,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an interior angle formed by two meeting walls"
+      ]
+    },
+    {
+      "senseId": "corner%2:38:00::",
+      "lemma": "corner",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "turn a corner",
+      "synsetId": "01913268-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1672,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "turn a corner"
+      ]
+    },
+    {
+      "senseId": "criminal%5:00:00:wrong:01",
+      "lemma": "criminal",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "bringing or deserving severe rebuke or censure",
+      "synsetId": "02043172-s",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1673,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "bringing or deserving severe rebuke or censure"
+      ]
+    },
+    {
+      "senseId": "criminal%1:18:00::",
+      "lemma": "criminal",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "someone who has committed a crime or has been legally convicted of a crime",
+      "synsetId": "09997190-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1673,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "someone who has committed a crime or has been legally convicted of a crime"
+      ]
+    },
+    {
+      "senseId": "cultural%3:01:01::",
+      "lemma": "cultural",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of or relating to the arts and manners that a group favors",
+      "synsetId": "02910174-a",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1674,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to the arts and manners that a group favors"
+      ]
+    },
+    {
+      "senseId": "cultural%5:00:00:social:00",
+      "lemma": "cultural",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "denoting or deriving from or distinctive of the ways of living built up by a group of people",
+      "synsetId": "02256437-s",
+      "words": 18,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1674,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "denoting or deriving from or distinctive of the ways of living built up by a group of people"
+      ]
+    },
+    {
+      "senseId": "driver%1:18:01::",
+      "lemma": "driver",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a golfer who hits the golf ball with a driver",
+      "synsetId": "10055039-n",
+      "words": 10,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1676,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a golfer who hits the golf ball with a driver"
+      ]
+    },
+    {
+      "senseId": "driver%1:18:02::",
+      "lemma": "driver",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "someone who drives animals that pull a vehicle",
+      "synsetId": "10055155-n",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1676,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "someone who drives animals that pull a vehicle"
+      ]
+    },
+    {
+      "senseId": "existing%3:00:00::",
+      "lemma": "existing",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having existence or being or actuality",
+      "synsetId": "00930258-a",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1678,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having existence or being or actuality"
+      ]
+    },
+    {
+      "senseId": "existing%5:00:00:present:01",
+      "lemma": "existing",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "presently existing",
+      "synsetId": "01736035-s",
+      "words": 2,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1678,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "presently existing"
+      ]
+    },
+    {
+      "senseId": "existing%5:00:00:present:02",
+      "lemma": "existing",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "existing in something specified",
+      "synsetId": "01853029-s",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1678,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "existing in something specified"
+      ]
+    },
+    {
+      "senseId": "farm%1:06:00::",
+      "lemma": "farm",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "workplace consisting of farm buildings and cultivated land as a unit",
+      "synsetId": "03327044-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1679,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "workplace consisting of farm buildings and cultivated land as a unit"
+      ]
+    },
+    {
+      "senseId": "farm%2:40:00::",
+      "lemma": "farm",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "collect fees or profits",
+      "synsetId": "02223225-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1679,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "collect fees or profits"
+      ]
+    },
+    {
+      "senseId": "file%1:06:01::",
+      "lemma": "file",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "office furniture consisting of a container for keeping papers in order",
+      "synsetId": "03342085-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1680,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "office furniture consisting of a container for keeping papers in order"
+      ]
+    },
+    {
+      "senseId": "fix%1:04:03::",
+      "lemma": "fix",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "something craved, especially an intravenous injection of a narcotic drug",
+      "synsetId": "00324088-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1681,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something craved, especially an intravenous injection of a narcotic drug"
+      ]
+    }
+  ]
+}

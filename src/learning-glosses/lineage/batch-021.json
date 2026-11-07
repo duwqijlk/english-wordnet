@@ -1,0 +1,1027 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 21,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1000,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "specific%3:00:00::",
+      "lemma": "specific",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(sometimes followed by ‘to’) applying to or characterized by or distinguishing something particular or special or unique",
+      "synsetId": "01106714-a",
+      "words": 17,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 937,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(sometimes followed by ‘to’) applying to or characterized by or distinguishing something particular or special or unique"
+      ]
+    },
+    {
+      "senseId": "specific%1:06:00::",
+      "lemma": "specific",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a medicine that has a mitigating effect on a specific disease",
+      "synsetId": "04278750-n",
+      "words": 11,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 937,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a medicine that has a mitigating effect on a specific disease"
+      ]
+    },
+    {
+      "senseId": "standard%3:00:02::",
+      "lemma": "standard",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "conforming to or constituting a standard of measurement or value; or of the usual or regularized or accepted kind",
+      "synsetId": "02303673-a",
+      "words": 19,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 938,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "conforming to or constituting a standard of measurement or value",
+        "or of the usual or regularized or accepted kind"
+      ]
+    },
+    {
+      "senseId": "standard%3:00:01::",
+      "lemma": "standard",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "established or well-known or widely recognized as a model of authority or excellence",
+      "synsetId": "02302509-a",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 938,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "established or well-known or widely recognized as a model of authority or excellence"
+      ]
+    },
+    {
+      "senseId": "album%1:06:00::",
+      "lemma": "album",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a book of blank pages with pockets or envelopes; for organizing photographs or stamp collections etc",
+      "synsetId": "02697938-n",
+      "words": 16,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 941,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a book of blank pages with pockets or envelopes",
+        "for organizing photographs or stamp collections etc"
+      ]
+    },
+    {
+      "senseId": "album%1:10:00::",
+      "lemma": "album",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "one or more recordings issued together; originally released on 12-inch phonograph records (usually with attractive record covers) and later on cassette audiotape and compact disc",
+      "synsetId": "06604096-n",
+      "words": 25,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 941,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one or more recordings issued together",
+        "originally released on 12-inch phonograph records (usually with attractive record covers) and later on cassette audiotape and compact disc"
+      ]
+    },
+    {
+      "senseId": "charge%2:32:02::",
+      "lemma": "charge",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "blame for, make a claim of wrongdoing or misbehavior against",
+      "synsetId": "00845147-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 943,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "blame for, make a claim of wrongdoing or misbehavior against"
+      ]
+    },
+    {
+      "senseId": "charge%1:21:02::",
+      "lemma": "charge",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the price charged for some article or service",
+      "synsetId": "13327892-n",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 943,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the price charged for some article or service"
+      ]
+    },
+    {
+      "senseId": "cold%1:26:00::",
+      "lemma": "cold",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a mild viral infection involving the nose and respiratory passages (but not the lungs)",
+      "synsetId": "14168983-n",
+      "words": 14,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 944,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mild viral infection involving the nose and respiratory passages (but not the lungs)"
+      ]
+    },
+    {
+      "senseId": "cold%3:00:01::",
+      "lemma": "cold",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration",
+      "synsetId": "01254201-a",
+      "words": 23,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 944,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration"
+      ]
+    },
+    {
+      "senseId": "cold%3:00:02::",
+      "lemma": "cold",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "extended meanings; especially of psychological coldness; without human warmth or emotion",
+      "synsetId": "01260684-a",
+      "words": 11,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 944,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "extended meanings",
+        "especially of psychological coldness",
+        "without human warmth or emotion"
+      ]
+    },
+    {
+      "senseId": "create%2:36:01::",
+      "lemma": "create",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "pursue a creative activity; be engaged in a creative activity",
+      "synsetId": "01689208-v",
+      "words": 10,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 945,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "pursue a creative activity",
+        "be engaged in a creative activity"
+      ]
+    },
+    {
+      "senseId": "effect%1:09:00::",
+      "lemma": "effect",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an impression (especially one that is artificial or contrived)",
+      "synsetId": "05926071-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 946,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an impression (especially one that is artificial or contrived)"
+      ]
+    },
+    {
+      "senseId": "eight%1:06:00::",
+      "lemma": "eight",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "one of four playing cards in a deck with eight pips on the face",
+      "synsetId": "03272251-n",
+      "words": 14,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 947,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one of four playing cards in a deck with eight pips on the face"
+      ]
+    },
+    {
+      "senseId": "eye%1:09:00::",
+      "lemma": "eye",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "good discernment (either visually or as if visually)",
+      "synsetId": "05622259-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 949,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "good discernment (either visually or as if visually)"
+      ]
+    },
+    {
+      "senseId": "funny%1:10:00::",
+      "lemma": "funny",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an account of an amusing incident (usually with a punch line)",
+      "synsetId": "06792149-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 950,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an account of an amusing incident (usually with a punch line)"
+      ]
+    },
+    {
+      "senseId": "funny%5:00:00:humorous:00",
+      "lemma": "funny",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "arousing or provoking laughter",
+      "synsetId": "01268418-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 950,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "arousing or provoking laughter"
+      ]
+    },
+    {
+      "senseId": "limited%1:06:00::",
+      "lemma": "limited",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "public transport consisting of a fast train or bus that makes only a few scheduled stops",
+      "synsetId": "03311330-n",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 951,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "public transport consisting of a fast train or bus that makes only a few scheduled stops"
+      ]
+    },
+    {
+      "senseId": "limited%5:00:00:restricted:00",
+      "lemma": "limited",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "subject to limits or subjected to limits",
+      "synsetId": "02009566-s",
+      "words": 7,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 951,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "subject to limits or subjected to limits"
+      ]
+    },
+    {
+      "senseId": "moving%3:00:01::",
+      "lemma": "moving",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "arousing or capable of arousing deep emotion",
+      "synsetId": "01564906-a",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 952,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "arousing or capable of arousing deep emotion"
+      ]
+    },
+    {
+      "senseId": "moving%3:00:03::",
+      "lemma": "moving",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "used of a series of photographs presented so as to create the illusion of motion",
+      "synsetId": "01569789-a",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 952,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "used of a series of photographs presented so as to create the illusion of motion"
+      ]
+    },
+    {
+      "senseId": "network%1:06:00::",
+      "lemma": "network",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an open fabric of string or rope or wire woven together at regular intervals",
+      "synsetId": "03825135-n",
+      "words": 14,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 953,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an open fabric of string or rope or wire woven together at regular intervals"
+      ]
+    },
+    {
+      "senseId": "recently%4:02:00::",
+      "lemma": "recently",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "in the recent past",
+      "synsetId": "00108184-r",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 956,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in the recent past"
+      ]
+    },
+    {
+      "senseId": "required%5:00:00:obligatory:00",
+      "lemma": "required",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "required by rule",
+      "synsetId": "00851890-s",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 957,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "required by rule"
+      ]
+    },
+    {
+      "senseId": "spent%5:00:00:tired:00",
+      "lemma": "spent",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "drained of energy or effectiveness; extremely tired; completely exhausted",
+      "synsetId": "02442263-s",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 959,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "drained of energy or effectiveness",
+        "extremely tired",
+        "completely exhausted"
+      ]
+    },
+    {
+      "senseId": "store%1:06:00::",
+      "lemma": "store",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a mercantile establishment for the retail sale of goods or services",
+      "synsetId": "04209460-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 960,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mercantile establishment for the retail sale of goods or services"
+      ]
+    },
+    {
+      "senseId": "student%1:18:00::",
+      "lemma": "student",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a learner who is enrolled in an educational institution",
+      "synsetId": "10685137-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 961,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a learner who is enrolled in an educational institution"
+      ]
+    },
+    {
+      "senseId": "track%1:06:02::",
+      "lemma": "track",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a pair of parallel rails providing a runway for wheels",
+      "synsetId": "04471218-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 963,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a pair of parallel rails providing a runway for wheels"
+      ]
+    },
+    {
+      "senseId": "weight%1:06:01::",
+      "lemma": "weight",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms",
+      "synsetId": "04578578-n",
+      "words": 26,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 966,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "sports equipment used in calisthenic exercises and weightlifting",
+        "it is not attached to anything and is raised and lowered by use of the hands and arms"
+      ]
+    },
+    {
+      "senseId": "weight%1:07:00::",
+      "lemma": "weight",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the vertical force exerted by a mass as a result of gravity",
+      "synsetId": "05034009-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 966,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the vertical force exerted by a mass as a result of gravity"
+      ]
+    },
+    {
+      "senseId": "weight%1:07:01::",
+      "lemma": "weight",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the relative importance granted to something",
+      "synsetId": "05179849-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 966,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the relative importance granted to something"
+      ]
+    },
+    {
+      "senseId": "weight%2:35:00::",
+      "lemma": "weight",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "weight down with a load",
+      "synsetId": "01489937-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 966,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "weight down with a load"
+      ]
+    },
+    {
+      "senseId": "allow%2:32:00::",
+      "lemma": "allow",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "consent to, give permission; permit",
+      "synsetId": "00803980-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 969,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "consent to, give permission",
+        "permit"
+      ]
+    },
+    {
+      "senseId": "anti%3:00:00::",
+      "lemma": "anti",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "not in favor of (an action or proposal etc.)",
+      "synsetId": "01822909-a",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 970,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not in favor of (an action or proposal etc.)"
+      ]
+    },
+    {
+      "senseId": "beat%1:11:00::",
+      "lemma": "beat",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the rhythmic contraction and expansion of the arteries with each beat of the heart",
+      "synsetId": "07415506-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 972,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the rhythmic contraction and expansion of the arteries with each beat of the heart"
+      ]
+    },
+    {
+      "senseId": "beat%2:35:01::",
+      "lemma": "beat",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "give a beating to; subject to a beating, either as a punishment or as an act of aggression",
+      "synsetId": "01399864-v",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 972,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "give a beating to",
+        "subject to a beating, either as a punishment or as an act of aggression"
+      ]
+    },
+    {
+      "senseId": "brown%1:07:00::",
+      "lemma": "brown",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an orange of low brightness and saturation",
+      "synsetId": "04979195-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 973,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an orange of low brightness and saturation"
+      ]
+    },
+    {
+      "senseId": "brown%2:30:01::",
+      "lemma": "brown",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "make brown in color",
+      "synsetId": "00286465-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 973,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make brown in color"
+      ]
+    },
+    {
+      "senseId": "conference%1:14:00::",
+      "lemma": "conference",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)",
+      "synsetId": "08325427-n",
+      "words": 17,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 976,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a prearranged meeting for consultation or exchange of information or discussion (especially one with a formal agenda)"
+      ]
+    },
+    {
+      "senseId": "difference%1:11:00::",
+      "lemma": "difference",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a variation that deviates from the standard or norm",
+      "synsetId": "07380889-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 977,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a variation that deviates from the standard or norm"
+      ]
+    },
+    {
+      "senseId": "double%5:00:02:multiple:00",
+      "lemma": "double",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "consisting of or involving two parts or components usually in pairs",
+      "synsetId": "02225139-s",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 978,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "consisting of or involving two parts or components usually in pairs"
+      ]
+    },
+    {
+      "senseId": "double%5:00:03:multiple:00",
+      "lemma": "double",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "having more than one decidedly dissimilar aspects or qualities",
+      "synsetId": "02225486-s",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 978,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having more than one decidedly dissimilar aspects or qualities"
+      ]
+    },
+    {
+      "senseId": "double%1:04:00::",
+      "lemma": "double",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a base hit on which the batter stops safely at second base",
+      "synsetId": "00133576-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 978,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a base hit on which the batter stops safely at second base"
+      ]
+    },
+    {
+      "senseId": "double%1:18:00::",
+      "lemma": "double",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "someone who closely resembles a famous person (especially an actor)",
+      "synsetId": "10046971-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 978,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "someone who closely resembles a famous person (especially an actor)"
+      ]
+    },
+    {
+      "senseId": "double%2:38:00::",
+      "lemma": "double",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "bend over or curl up, usually with laughter or pain",
+      "synsetId": "02067237-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 978,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "bend over or curl up, usually with laughter or pain"
+      ]
+    },
+    {
+      "senseId": "double%4:02:00::",
+      "lemma": "double",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "to double the degree",
+      "synsetId": "00083743-r",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 978,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "to double the degree"
+      ]
+    },
+    {
+      "senseId": "expect%2:32:00::",
+      "lemma": "expect",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "consider obligatory; request and expect",
+      "synsetId": "00757790-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 979,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "consider obligatory",
+        "request and expect"
+      ]
+    },
+    {
+      "senseId": "gas%1:26:00::",
+      "lemma": "gas",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container",
+      "synsetId": "14504664-n",
+      "words": 44,
+      "rare": 16,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 980,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity",
+        "relatively great expansion and contraction with changes in pressure and temperature",
+        "the ability to diffuse readily",
+        "and the spontaneous tendency to become distributed uniformly throughout any container",
+        "after colon: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container"
+      ]
+    },
+    {
+      "senseId": "gas%1:27:02::",
+      "lemma": "gas",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines",
+      "synsetId": "14711074-n",
+      "words": 24,
+      "rare": 13,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 980,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum",
+        "used mainly as a fuel in internal-combustion engines"
+      ]
+    },
+    {
+      "senseId": "gas%1:27:00::",
+      "lemma": "gas",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a fluid in the gaseous state having neither independent shape nor volume and being able to expand indefinitely",
+      "synsetId": "14901736-n",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 980,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a fluid in the gaseous state having neither independent shape nor volume and being able to expand indefinitely"
+      ]
+    }
+  ]
+}

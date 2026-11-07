@@ -1,0 +1,1147 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 28,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 47,
+      "of": 50,
+      "rate": 0.94
+    },
+    "selfApproved": [
+      "drink%1:04:00::",
+      "fish%1:05:00::",
+      "holding%1:21:00::"
+    ],
+    "lineage": {
+      "draft": "82f423fe1c365dba9951d7dda33aa504249dafceeec2aac8b6d711bc80247264"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "doctor%2:30:01::",
+      "lemma": "doctor",
+      "pos": "v",
+      "definition": "restore by replacing a part or putting together what is torn or broken",
+      "decision": "gloss",
+      "simpleMeaning": "to make something work again by fitting a new part in place of a damaged one or by joining together pieces that have been torn or broken.",
+      "scope": "This is not the medical sense of treating a sick person, and not the sense of changing a document or record to deceive people; it is about mending a damaged object.",
+      "examples": [
+        "He managed to doctor the torn tent with a patch and strong thread.",
+        "The old clock was doctored so carefully that it ran like new."
+      ],
+      "branchCoverage": [
+        "restore by replacing a part or putting together what is torn or broken -> to make something work again by fitting a new part in place of a damaged one or by joining together pieces that have been torn or broken"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "restore by replacing a part or putting together what is torn or broken"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "doubt%1:07:00::",
+      "lemma": "doubt",
+      "pos": "n",
+      "definition": "uncertainty about the truth or factuality or existence of something",
+      "decision": "gloss",
+      "simpleMeaning": "a feeling of not being sure whether something is true, is a fact, or really exists.",
+      "scope": "This is not a question asked to get information, and not simple lack of knowledge about a subject; it is the state of being unsure whether something is true or real.",
+      "examples": [
+        "There is some doubt about whether the letter was ever sent.",
+        "She had no doubt that he was telling the truth."
+      ],
+      "branchCoverage": [
+        "uncertainty about the truth or factuality or existence of something -> a feeling of not being sure whether something is true, is a fact, or really exists"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "uncertainty about the truth or factuality or existence of something"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drink%1:04:00::",
+      "lemma": "drink",
+      "pos": "n",
+      "definition": "the act of drinking alcoholic beverages to excess",
+      "decision": "gloss",
+      "simpleMeaning": "the act of taking in alcohol in amounts that are far more than is healthy or sensible.",
+      "scope": "This is not any liquid that can be consumed, and not an ordinary act of taking a normal amount of liquid.",
+      "examples": [
+        "Years of heavy drinking had damaged his liver.",
+        "His drinking had become a serious problem."
+      ],
+      "branchCoverage": [
+        "the act of drinking alcoholic beverages to excess -> the act of taking in alcohol in amounts that are far more than is healthy or sensible"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of drinking alcoholic beverages to excess"
+      ],
+      "lemmaPartition": "drink%1:04:00:: -> the act of taking in too much alcohol\ndrink%1:13:00:: -> any liquid suitable to be taken as a beverage",
+      "verdict": "self-approved",
+      "reviewerNote": "First example 'heavy drink' is unidiomatic; use 'heavy drinking'."
+    },
+    {
+      "senseId": "drink%1:13:00::",
+      "lemma": "drink",
+      "pos": "n",
+      "definition": "any liquid suitable for drinking",
+      "decision": "gloss",
+      "simpleMeaning": "any liquid that is suitable for people to take as a beverage, such as water, milk, or juice.",
+      "scope": "This is not the act of taking too much alcohol, and not one particular serving of a product.",
+      "examples": [
+        "Milk is a good drink for growing children.",
+        "The cafe sells hot and cold drinks all day."
+      ],
+      "branchCoverage": [
+        "any liquid suitable for drinking -> any liquid that is suitable for people to take as a beverage, such as water, milk, or juice"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any liquid suitable for drinking"
+      ],
+      "lemmaPartition": "drink%1:04:00:: -> the act of taking in too much alcohol\ndrink%1:13:00:: -> any liquid suitable to be taken as a beverage",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "driving%1:04:03::",
+      "lemma": "driving",
+      "pos": "n",
+      "definition": "hitting a golf ball off of a tee with a driver",
+      "decision": "gloss",
+      "simpleMeaning": "in golf, the act of hitting the ball off a small stand at the start of a hole with the long club used for the longest shots.",
+      "scope": "This is not the act of operating a car, and not the adjective describing something with great force; it is only the golf stroke.",
+      "examples": [
+        "His first drive off the tee landed on the fairway.",
+        "A long drive can set up an easy second shot."
+      ],
+      "branchCoverage": [
+        "hitting a golf ball off of a tee with a driver -> in golf, the act of hitting the ball off a small stand at the start of a hole with the long club used for the longest shots"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "hitting a golf ball off of a tee with a driver"
+      ],
+      "lemmaPartition": "driving%1:04:03:: -> the golf stroke that starts a hole\ndriving%5:00:00:dynamic:00 -> the adjective meaning full of pushing force",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "driving%5:00:00:dynamic:00",
+      "lemma": "driving",
+      "pos": "a",
+      "definition": "having the power of driving or impelling",
+      "decision": "gloss",
+      "simpleMeaning": "having the force needed to push something forward or to make things happen.",
+      "scope": "This is not the golf stroke, and not the act of operating a vehicle; it describes a force or urge that pushes something on.",
+      "examples": [
+        "Curiosity was the driving force behind her research.",
+        "He has a driving need to be the best in his field."
+      ],
+      "branchCoverage": [
+        "having the power of driving or impelling -> having the force needed to push something forward or to make things happen"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having the power of driving or impelling"
+      ],
+      "lemmaPartition": "driving%1:04:03:: -> the golf stroke that starts a hole\ndriving%5:00:00:dynamic:00 -> the adjective meaning full of pushing force",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "established%5:00:00:settled:02",
+      "lemma": "established",
+      "pos": "a",
+      "definition": "settled securely and unconditionally",
+      "decision": "gloss",
+      "simpleMeaning": "fixed so firmly and completely that nothing can change it and no conditions are attached.",
+      "scope": "This is not the sense of having been set up or having existed for a long time; it is about being fixed beyond doubt and without conditions.",
+      "examples": [
+        "Their right to the land was now settled and unconditional.",
+        "It is a settled fact that water boils at 100 degrees Celsius."
+      ],
+      "branchCoverage": [
+        "settled securely and unconditionally -> fixed so firmly and completely that nothing can change it and no conditions are attached"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "settled securely and unconditionally"
+      ],
+      "lemmaPartition": "established%5:00:00:settled:02 -> firmly fixed with no conditions\nestablished%3:00:00:: -> brought about, set up or accepted, often for a long time",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "established%3:00:00::",
+      "lemma": "established",
+      "pos": "a",
+      "definition": "brought about or set up or accepted; especially long established",
+      "decision": "gloss",
+      "simpleMeaning": "having been created, set up, or accepted by people, and often having existed in that way for a long time.",
+      "scope": "This is not the sense of being fixed beyond doubt and without conditions; it is about something that has been set up, accepted, and often long in existence.",
+      "examples": [
+        "They sent their son to a well-established school in the city.",
+        "It is an established custom here to share the first harvest."
+      ],
+      "branchCoverage": [
+        "brought about or set up or accepted -> having been created, set up, or accepted by people",
+        "especially long established -> and often having existed in that way for a long time"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "brought about or set up or accepted",
+        "especially long established"
+      ],
+      "lemmaPartition": "established%5:00:00:settled:02 -> firmly fixed with no conditions\nestablished%3:00:00:: -> brought about, set up or accepted, often for a long time",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fish%1:05:00::",
+      "lemma": "fish",
+      "pos": "n",
+      "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+      "decision": "gloss",
+      "simpleMeaning": "any of many kinds of animals that live in water, have a backbone and scales, are mostly cold-blooded, and breathe through gills.",
+      "scope": "This is not the meat of such an animal eaten as food, and not the act of catching one; it is the living water animal itself.",
+      "examples": [
+        "Small silver fish darted between the rocks.",
+        "The pond is full of fish."
+      ],
+      "branchCoverage": [
+        "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills -> any of many kinds of animals that live in water, have a backbone and scales, are mostly cold-blooded, and breathe through gills"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Usually have a backbone' is wrong; vertebrates always have a backbone."
+    },
+    {
+      "senseId": "glad%1:20:00::",
+      "lemma": "glad",
+      "pos": "n",
+      "definition": "any of numerous plants of the genus Gladiolus native chiefly to tropical and South Africa having sword-shaped leaves and one-sided spikes of brightly colored funnel-shaped flowers; widely cultivated",
+      "decision": "defer",
+      "reason": "The lemma here is the rare noun use for a gladiolus, and the definition is botanical (genus Gladiolus, native range, sword-shaped leaves, one-sided spikes of funnel-shaped flowers, cultivation); a simple learner gloss would need technical plant terms or would lose the features that distinguish it.",
+      "sourceBranches": [
+        "any of numerous plants of the genus Gladiolus native chiefly to tropical and South Africa having sword-shaped leaves and one-sided spikes of brightly colored funnel-shaped flowers",
+        "widely cultivated"
+      ],
+      "lemmaPartition": "glad%1:20:00:: -> the plant also called a gladiolus\nglad%3:00:00:: -> the feeling or cause of happiness",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "glad%3:00:00::",
+      "lemma": "glad",
+      "pos": "a",
+      "definition": "showing or causing joy and pleasure; especially made happy",
+      "decision": "gloss",
+      "simpleMeaning": "feeling pleased and happy, or making other people feel that way, especially after something good has happened.",
+      "scope": "This is not the plant sense of the word, and not a quiet feeling of satisfaction; it describes open happiness or something that produces it.",
+      "examples": [
+        "She was glad to see her old friend at the door.",
+        "The glad news spread through the village within an hour."
+      ],
+      "branchCoverage": [
+        "showing or causing joy and pleasure -> feeling pleased and happy, or making other people feel that way",
+        "especially made happy -> especially after something good has happened"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "showing or causing joy and pleasure",
+        "especially made happy"
+      ],
+      "lemmaPartition": "glad%1:20:00:: -> the plant also called a gladiolus\nglad%3:00:00:: -> the feeling or cause of happiness",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "greater%3:00:00::",
+      "lemma": "greater",
+      "pos": "a",
+      "definition": "greater in size or importance or degree",
+      "decision": "gloss",
+      "simpleMeaning": "larger in size, more important, or higher in amount or level than something else.",
+      "scope": "This is not a word for something excellent or admirable, and not a comparison of quality; it compares size, importance, or degree.",
+      "examples": [
+        "The risk of injury is greater for people who work at heights.",
+        "Her influence in the company is greater than her job title suggests."
+      ],
+      "branchCoverage": [
+        "greater in size or importance or degree -> larger in size, more important, or higher in amount or level than something else"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "greater in size or importance or degree"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "machine%1:06:00::",
+      "lemma": "machine",
+      "pos": "n",
+      "definition": "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks",
+      "decision": "gloss",
+      "simpleMeaning": "any device, driven by moving parts or electricity, that carries or changes energy in order to do or help with tasks people need to do.",
+      "scope": "This is not an organized group of people, and not the verb meaning to make something with powered equipment; it is a physical device that does work.",
+      "examples": [
+        "The machine cuts the metal sheets into exact shapes.",
+        "Our washing machine stopped working last night."
+      ],
+      "branchCoverage": [
+        "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks -> any device, driven by moving parts or electricity, that carries or changes energy in order to do or help with tasks people need to do"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks"
+      ],
+      "lemmaPartition": "machine%1:06:00:: -> a physical device that does work\nmachine%1:14:01:: -> an organized group that gets things done\nmachine%2:36:01:: -> to cut, shape or finish material with powered tools\nmachine%2:36:00:: -> to make a whole product with powered equipment",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "machine%1:14:01::",
+      "lemma": "machine",
+      "pos": "n",
+      "definition": "an intricate organization that accomplishes its goals efficiently",
+      "decision": "gloss",
+      "simpleMeaning": "a complex organization with many parts that reaches its aims in a smooth and effective way.",
+      "scope": "This is not a physical device that does work, and not a vehicle; it is a group of people organized to get things done.",
+      "examples": [
+        "The party machine was already working on the next election.",
+        "The company runs like a well-oiled machine."
+      ],
+      "branchCoverage": [
+        "an intricate organization that accomplishes its goals efficiently -> a complex organization with many parts that reaches its aims in a smooth and effective way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an intricate organization that accomplishes its goals efficiently"
+      ],
+      "lemmaPartition": "machine%1:06:00:: -> a physical device that does work\nmachine%1:14:01:: -> an organized group that gets things done\nmachine%2:36:01:: -> to cut, shape or finish material with powered tools\nmachine%2:36:00:: -> to make a whole product with powered equipment",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "machine%2:36:01::",
+      "lemma": "machine",
+      "pos": "v",
+      "definition": "turn, shape, mold, or otherwise finish by machinery",
+      "decision": "gloss",
+      "simpleMeaning": "to cut, shape, form, or give a final finish to a piece of material using powered tools.",
+      "scope": "This is not the sense of making a whole product with powered equipment; it is about working an existing piece of material into shape or a finish.",
+      "examples": [
+        "The workers machined the metal parts to within a hair's width.",
+        "He machined a new handle from a block of wood."
+      ],
+      "branchCoverage": [
+        "turn, shape, mold, or otherwise finish by machinery -> to cut, shape, form, or give a final finish to a piece of material using powered tools"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "turn, shape, mold, or otherwise finish by machinery"
+      ],
+      "lemmaPartition": "machine%1:06:00:: -> a physical device that does work\nmachine%1:14:01:: -> an organized group that gets things done\nmachine%2:36:01:: -> to cut, shape or finish material with powered tools\nmachine%2:36:00:: -> to make a whole product with powered equipment",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "machine%2:36:00::",
+      "lemma": "machine",
+      "pos": "v",
+      "definition": "make by machinery",
+      "decision": "gloss",
+      "simpleMeaning": "to make a product using powered tools or equipment rather than by hand.",
+      "scope": "This is not the sense of cutting or finishing an existing piece; it is about making the whole product with powered equipment.",
+      "examples": [
+        "The factory machines thousands of these bolts every day.",
+        "The parts are machined in a workshop behind the shop."
+      ],
+      "branchCoverage": [
+        "make by machinery -> to make a product using powered tools or equipment rather than by hand"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make by machinery"
+      ],
+      "lemmaPartition": "machine%1:06:00:: -> a physical device that does work\nmachine%1:14:01:: -> an organized group that gets things done\nmachine%2:36:01:: -> to cut, shape or finish material with powered tools\nmachine%2:36:00:: -> to make a whole product with powered equipment",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "notice%2:39:04::",
+      "lemma": "notice",
+      "pos": "v",
+      "definition": "discover or determine the existence, presence, or fact of by perception with the eyes",
+      "decision": "gloss",
+      "simpleMeaning": "to become aware of something, or to find out that it exists, is present, or is true, by using your eyes.",
+      "scope": "This is not the act of paying attention, and not the more general verb sense of becoming aware of something; it is specifically about finding something out by seeing it.",
+      "examples": [
+        "I noticed a small crack in the window.",
+        "Did you notice that the door was open?"
+      ],
+      "branchCoverage": [
+        "discover or determine the existence, presence, or fact of by perception with the eyes -> to become aware of something, or to find out that it exists, is present, or is true, by using your eyes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "discover or determine the existence, presence, or fact of by perception with the eyes"
+      ],
+      "lemmaPartition": "notice%2:39:04:: -> to become aware of something by seeing it\nnotice%1:09:00:: -> the act of paying attention\nnotice%2:39:00:: -> to become aware of something more generally",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "notice%1:09:00::",
+      "lemma": "notice",
+      "pos": "n",
+      "definition": "the act of noticing or paying attention",
+      "decision": "gloss",
+      "simpleMeaning": "the act of paying attention to something or of becoming aware of it.",
+      "scope": "This is not a written or printed announcement, and not a warning given in advance; it is the act of paying attention or becoming aware.",
+      "examples": [
+        "The change in his mood did not escape her notice.",
+        "She took no notice of the warning sign."
+      ],
+      "branchCoverage": [
+        "the act of noticing or paying attention -> the act of paying attention to something or of becoming aware of it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of noticing or paying attention"
+      ],
+      "lemmaPartition": "notice%2:39:04:: -> to become aware of something by seeing it\nnotice%1:09:00:: -> the act of paying attention\nnotice%2:39:00:: -> to become aware of something more generally",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "notice%2:39:00::",
+      "lemma": "notice",
+      "pos": "v",
+      "definition": "notice or perceive",
+      "decision": "gloss",
+      "simpleMeaning": "to become aware of something through the senses or the mind.",
+      "scope": "This is not the narrower sense of discovering by sight that something exists; it is the more general act of becoming aware of something.",
+      "examples": [
+        "He noticed a change in her tone of voice.",
+        "She noticed that the room felt colder than before."
+      ],
+      "branchCoverage": [
+        "notice or perceive -> to become aware of something through the senses or the mind"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "notice or perceive"
+      ],
+      "lemmaPartition": "notice%2:39:04:: -> to become aware of something by seeing it\nnotice%1:09:00:: -> the act of paying attention\nnotice%2:39:00:: -> to become aware of something more generally",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "overall%1:06:00::",
+      "lemma": "overall",
+      "pos": "n",
+      "definition": "(usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)",
+      "decision": "gloss",
+      "simpleMeaning": "work clothes made of strong cotton cloth such as denim, usually trousers with a front piece covering the chest and straps over the shoulders.",
+      "scope": "This is not the loose protective garment worn over other clothes; it is the denim work trousers with a chest piece and shoulder straps.",
+      "examples": [
+        "The farmer wore denim overalls and a straw hat.",
+        "He kept a pencil in the pocket of his overalls."
+      ],
+      "branchCoverage": [
+        "(usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps) -> work clothes made of strong cotton cloth such as denim, usually trousers with a front piece covering the chest and straps over the shoulders (the leading 'usually plural' note is a usage label, not part of the meaning)"
+      ],
+      "labelBranches": [
+        "(usually plural) - a usage note about grammatical number, not part of the meaning."
+      ],
+      "sourceBranches": [
+        "(usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)"
+      ],
+      "lemmaPartition": "overall%1:06:00:: -> denim work trousers with a chest piece and straps\noverall%1:06:02:: -> a loose protective garment worn over other clothes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "overall%1:06:02::",
+      "lemma": "overall",
+      "pos": "n",
+      "definition": "a loose protective coverall or smock worn over ordinary clothing for dirty work",
+      "decision": "gloss",
+      "simpleMeaning": "a loose protective piece of clothing that covers the body and is worn over ordinary clothes while doing messy or dirty work.",
+      "scope": "This is not the denim work trousers with a chest piece and straps; it is a loose covering worn over other clothes to keep them clean.",
+      "examples": [
+        "She pulled on an overall before cleaning the oven.",
+        "The laboratory staff wear white overalls over their clothes."
+      ],
+      "branchCoverage": [
+        "a loose protective coverall or smock worn over ordinary clothing for dirty work -> a loose protective piece of clothing that covers the body and is worn over ordinary clothes while doing messy or dirty work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a loose protective coverall or smock worn over ordinary clothing for dirty work"
+      ],
+      "lemmaPartition": "overall%1:06:00:: -> denim work trousers with a chest piece and straps\noverall%1:06:02:: -> a loose protective garment worn over other clothes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "planning%1:04:02::",
+      "lemma": "planning",
+      "pos": "n",
+      "definition": "the act or process of drawing up plans or layouts for some project or enterprise",
+      "decision": "gloss",
+      "simpleMeaning": "the act or process of working out in advance the steps and the arrangement of a project or business venture.",
+      "scope": "This is not the carrying out of a project, and not a written document; it is the work of working out steps and arrangements beforehand.",
+      "examples": [
+        "Good planning kept the building work on schedule.",
+        "The planning of the new campus took two years."
+      ],
+      "branchCoverage": [
+        "the act or process of drawing up plans or layouts for some project or enterprise -> the act or process of working out in advance the steps and the arrangement of a project or business venture"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act or process of drawing up plans or layouts for some project or enterprise"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sit%2:35:00::",
+      "lemma": "sit",
+      "pos": "v",
+      "definition": "be in a position in which one's upper body is largely upright and supported by one's backside",
+      "decision": "gloss",
+      "simpleMeaning": "to be in a position where the upper body is mostly upright and the weight rests on the bottom.",
+      "scope": "This is not the sense of an object being placed in a spot, and not the sense of caring for a child; it describes a person's body position.",
+      "examples": [
+        "She sat by the window and watched the rain.",
+        "Please sit here while I make some tea."
+      ],
+      "branchCoverage": [
+        "be in a position in which one's upper body is largely upright and supported by one's backside -> to be in a position where the upper body is mostly upright and the weight rests on the bottom"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be in a position in which one's upper body is largely upright and supported by one's backside"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trip%1:11:00::",
+      "lemma": "trip",
+      "pos": "n",
+      "definition": "an accidental misstep threatening (or causing) a fall",
+      "decision": "gloss",
+      "simpleMeaning": "a wrong step made by accident that makes you almost fall or actually fall.",
+      "scope": "This is not a journey or a short outing; it is the accidental wrong step itself.",
+      "examples": [
+        "A trip on the loose stone left her with a bruised knee.",
+        "One trip over the cable brought the whole table down."
+      ],
+      "branchCoverage": [
+        "an accidental misstep threatening (or causing) a fall -> a wrong step made by accident that makes you almost fall or actually fall"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an accidental misstep threatening (or causing) a fall"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "basic%1:06:00::",
+      "lemma": "basic",
+      "pos": "n",
+      "definition": "(usually in the plural) a necessary commodity for which demand is constant",
+      "decision": "gloss",
+      "simpleMeaning": "a necessary product that people always need and so keep buying in steady amounts.",
+      "scope": "This is not the adjective meaning simple or reduced to essentials; it is a necessary product that people buy steadily.",
+      "examples": [
+        "Rice and cooking oil are among the household basics.",
+        "The shop sells everyday basics such as soap and sugar."
+      ],
+      "branchCoverage": [
+        "(usually in the plural) a necessary commodity for which demand is constant -> a necessary product that people always need and so keep buying in steady amounts (the leading 'usually in the plural' note is a usage label, not part of the meaning)"
+      ],
+      "labelBranches": [
+        "(usually in the plural) - a usage note about grammatical number, not part of the meaning."
+      ],
+      "sourceBranches": [
+        "(usually in the plural) a necessary commodity for which demand is constant"
+      ],
+      "lemmaPartition": "basic%1:06:00:: -> a necessary product in steady demand\nbasic%5:00:00:standard:01 -> reduced to the simplest useful form",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "basic%5:00:00:standard:01",
+      "lemma": "basic",
+      "pos": "a",
+      "definition": "reduced to the simplest and most significant form possible without loss of generality",
+      "decision": "gloss",
+      "simpleMeaning": "Cut down to the simplest form that still works for every important case, with nothing essential left out.",
+      "scope": "This is not the noun for an everyday product that people must always buy; it describes something cut down to its simplest useful form.",
+      "examples": [
+        "The manual gives a basic explanation of how the engine works.",
+        "We need a basic model of the process before we add any detail."
+      ],
+      "branchCoverage": [
+        "reduced to the simplest and most significant form possible without loss of generality -> Cut down to the simplest form that still works for every important case, with nothing essential left out"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "reduced to the simplest and most significant form possible without loss of generality"
+      ],
+      "lemmaPartition": "basic%1:06:00:: = an everyday product people must buy all the time; basic%5:00:00:standard:01 = cut down to the simplest form that still works for every important case",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "captain%2:41:00::",
+      "lemma": "captain",
+      "pos": "v",
+      "definition": "be the captain of a sports team",
+      "decision": "gloss",
+      "simpleMeaning": "To serve as the leader of a sports team.",
+      "scope": "This is not the noun for a ship's commander or a police rank; it is the verb for leading a sports team.",
+      "examples": [
+        "She captained the school team for two seasons.",
+        "He will captain the side in tomorrow's final."
+      ],
+      "branchCoverage": [
+        "be the captain of a sports team -> To serve as the leader of a sports team"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be the captain of a sports team"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "carry%2:38:03::",
+      "lemma": "carry",
+      "pos": "v",
+      "definition": "transmit or serve as the medium for transmission",
+      "decision": "gloss",
+      "simpleMeaning": "To pass something along, or to act as the means by which it travels from one place or person to another.",
+      "scope": "This is not the sense of holding an object while you move; it is about a thing or channel passing something such as sound or signals along.",
+      "examples": [
+        "The pipes carry water from the reservoir to the town.",
+        "Radio waves carry the signal to homes across the valley."
+      ],
+      "branchCoverage": [
+        "transmit or serve as the medium for transmission -> To pass something along, or to act as the means by which it travels from one place or person to another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "transmit or serve as the medium for transmission"
+      ],
+      "lemmaPartition": "carry%2:38:03:: = pass something along or act as the channel it travels through; carry%1:04:00:: = the act of holding something and moving it from one place to another",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "carry%1:04:00::",
+      "lemma": "carry",
+      "pos": "n",
+      "definition": "the act of carrying something",
+      "decision": "gloss",
+      "simpleMeaning": "The act of holding something and moving it from one place to another.",
+      "scope": "This is not the action of a channel or signal passing something along; it is the plain noun for moving an object by holding it.",
+      "examples": [
+        "The carrying of water from the well took most of the morning.",
+        "The carrying of the flag at the head of the parade is a great honour."
+      ],
+      "branchCoverage": [
+        "the act of carrying something -> The act of holding something and moving it from one place to another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of carrying something"
+      ],
+      "lemmaPartition": "carry%2:38:03:: = pass something along or act as the channel it travels through; carry%1:04:00:: = the act of holding something and moving it from one place to another",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "effective%3:00:00::",
+      "lemma": "effective",
+      "pos": "a",
+      "definition": "producing or capable of producing an intended result or having a striking effect",
+      "decision": "gloss",
+      "simpleMeaning": "Able to produce the result that was wanted, or able to make a strong impact.",
+      "scope": "This is not the sense of simply doing a job well; it is about producing the wanted result or making a strong impact.",
+      "examples": [
+        "The new law was effective in cutting road deaths.",
+        "Her short speech was simple but very effective."
+      ],
+      "branchCoverage": [
+        "producing or capable of producing an intended result or having a striking effect -> Able to produce the result that was wanted, or able to make a strong impact"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "producing or capable of producing an intended result or having a striking effect"
+      ],
+      "lemmaPartition": "effective%3:00:00:: = able to produce the wanted result or make a strong impact; effective%5:00:00:competent:00 = working well enough to get the purpose done",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "effective%5:00:00:competent:00",
+      "lemma": "effective",
+      "pos": "a",
+      "definition": "able to accomplish a purpose; functioning effectively",
+      "decision": "gloss",
+      "simpleMeaning": "Able to get a job done, and working well enough to serve its purpose.",
+      "scope": "This is not the sense of making a striking impression; it is about working well enough to get the purpose done.",
+      "examples": [
+        "She is an effective manager who gets things done.",
+        "The medicine is effective against most common infections."
+      ],
+      "branchCoverage": [
+        "able to accomplish a purpose -> Able to get a job done",
+        "functioning effectively -> working well enough to serve its purpose"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "able to accomplish a purpose",
+        "functioning effectively"
+      ],
+      "lemmaPartition": "effective%3:00:00:: = able to produce the wanted result or make a strong impact; effective%5:00:00:competent:00 = working well enough to get the purpose done",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "holding%1:21:00::",
+      "lemma": "holding",
+      "pos": "n",
+      "definition": "something owned; any tangible or intangible possession that is owned by someone",
+      "decision": "gloss",
+      "simpleMeaning": "Anything a person owns, whether an object you can touch or something you cannot touch, such as a right.",
+      "scope": "This is a broad word for what someone owns, including buildings, land and shares kept as investments; the act of holding something in your hands is a different word.",
+      "examples": [
+        "Her holdings include two houses and a small farm.",
+        "The company sold its overseas holdings last year."
+      ],
+      "branchCoverage": [
+        "something owned -> Anything a person owns",
+        "any tangible or intangible possession that is owned by someone -> whether an object you can touch or something you cannot touch, such as a right"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something owned",
+        "any tangible or intangible possession that is owned by someone"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope denies the investment-holdings use that both examples show; the sense covers such possessions."
+    },
+    {
+      "senseId": "male%1:05:00::",
+      "lemma": "male",
+      "pos": "n",
+      "definition": "an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)",
+      "decision": "gloss",
+      "simpleMeaning": "An animal of the sex that makes sperm cells, which can join with and fertilize a female's egg cell.",
+      "scope": "This is not the word for a human being of that sex; it is the general term for animals.",
+      "examples": [
+        "The male of the species has bright blue feathers.",
+        "In many birds, the male builds the nest."
+      ],
+      "branchCoverage": [
+        "an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova) -> An animal of the sex that makes sperm cells, which can join with and fertilize a female's egg cell"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)"
+      ],
+      "lemmaPartition": "male%1:05:00:: = an animal of the sex that makes sperm and can fertilize eggs; male%1:18:00:: = a person of the sex that does not give birth",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "male%1:18:00::",
+      "lemma": "male",
+      "pos": "n",
+      "definition": "a person who belongs to the sex that cannot have babies",
+      "decision": "gloss",
+      "simpleMeaning": "A person of the sex that does not give birth to babies.",
+      "scope": "This is not the term for an animal of that sex; it applies to people.",
+      "examples": [
+        "The survey asked males and females about their sleep.",
+        "Three males and five females joined the class."
+      ],
+      "branchCoverage": [
+        "a person who belongs to the sex that cannot have babies -> A person of the sex that does not give birth to babies"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who belongs to the sex that cannot have babies"
+      ],
+      "lemmaPartition": "male%1:05:00:: = an animal of the sex that makes sperm and can fertilize eggs; male%1:18:00:: = a person of the sex that does not give birth",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "plant%1:18:00::",
+      "lemma": "plant",
+      "pos": "n",
+      "definition": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+      "decision": "gloss",
+      "simpleMeaning": "A performer placed among the audience who has practised a role but appears to the crowd to be reacting naturally.",
+      "scope": "This is not the word for a living green thing or a factory; it means a hidden performer in a crowd.",
+      "examples": [
+        "The comedian's question was answered by a plant in the front row.",
+        "The debate looked spontaneous, but one speaker was a plant."
+      ],
+      "branchCoverage": [
+        "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience -> A performer placed among the audience who has practised a role but appears to the crowd to be reacting naturally"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience"
+      ],
+      "lemmaPartition": "plant%1:18:00:: = a performer hidden in the audience who seems spontaneous; plant%2:35:00:: = to put seeds or young growths into the ground",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "plant%2:35:00::",
+      "lemma": "plant",
+      "pos": "v",
+      "definition": "put or set (seeds, seedlings, or plants) into the ground",
+      "decision": "gloss",
+      "simpleMeaning": "To put seeds, young seedlings or other growing things into the ground.",
+      "scope": "This is not the noun for a hidden performer in a crowd; it is the action of putting seeds or young growths into soil.",
+      "examples": [
+        "They planted tomatoes along the back wall.",
+        "The children planted sunflower seeds in small pots."
+      ],
+      "branchCoverage": [
+        "put or set (seeds, seedlings, or plants) into the ground -> To put seeds, young seedlings or other growing things into the ground"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "put or set (seeds, seedlings, or plants) into the ground"
+      ],
+      "lemmaPartition": "plant%1:18:00:: = a performer hidden in the audience who seems spontaneous; plant%2:35:00:: = to put seeds or young growths into the ground",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spot%1:10:01::",
+      "lemma": "spot",
+      "pos": "n",
+      "definition": "a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising",
+      "decision": "gloss",
+      "simpleMeaning": "A short piece or picture in broadcasting or a magazine, often used to advertise something.",
+      "scope": "This is not the word for a small round mark or a place; it means a short broadcast or magazine item.",
+      "examples": [
+        "They ran a thirty-second spot during the football match.",
+        "The magazine sold advertising spots on its back page."
+      ],
+      "branchCoverage": [
+        "a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising -> A short piece or picture in broadcasting or a magazine, often used to advertise something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising"
+      ],
+      "lemmaPartition": "spot%1:10:01:: = a short piece or picture used for advertising; spot%2:35:01:: = to spoil something by leaving a mark or fault on it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spot%2:35:01::",
+      "lemma": "spot",
+      "pos": "v",
+      "definition": "mar or impair with a flaw",
+      "decision": "gloss",
+      "simpleMeaning": "To spoil something by leaving a mark or fault on it.",
+      "scope": "This is not the noun for an advertisement slot; it is the verb for spoiling something with a mark or fault.",
+      "examples": [
+        "The ink spotted the clean tablecloth.",
+        "Rain spotted the dusty windows."
+      ],
+      "branchCoverage": [
+        "mar or impair with a flaw -> To spoil something by leaving a mark or fault on it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "mar or impair with a flaw"
+      ],
+      "lemmaPartition": "spot%1:10:01:: = a short piece or picture used for advertising; spot%2:35:01:: = to spoil something by leaving a mark or fault on it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "winter%1:28:00::",
+      "lemma": "winter",
+      "pos": "n",
+      "definition": "the coldest season of the year; in the Northern Hemisphere it extends from the winter solstice to the vernal equinox",
+      "decision": "gloss",
+      "simpleMeaning": "The coldest season of the year, which in the northern half of the world runs from the shortest day to the start of spring.",
+      "scope": "This is not the verb for passing the cold season somewhere; it is the name of the season itself.",
+      "examples": [
+        "The lake freezes over every winter.",
+        "They spent the winter in a small cottage by the sea."
+      ],
+      "branchCoverage": [
+        "the coldest season of the year -> The coldest season of the year",
+        "in the Northern Hemisphere it extends from the winter solstice to the vernal equinox -> which in the northern half of the world runs from the shortest day to the start of spring"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the coldest season of the year",
+        "in the Northern Hemisphere it extends from the winter solstice to the vernal equinox"
+      ],
+      "lemmaPartition": "winter%1:28:00:: = the coldest season of the year; winter%2:42:00:: = to spend the coldest season in a place",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "winter%2:42:00::",
+      "lemma": "winter",
+      "pos": "v",
+      "definition": "spend the winter",
+      "decision": "gloss",
+      "simpleMeaning": "To spend the coldest season of the year in a particular place.",
+      "scope": "This is not the noun for the season itself; it is the action of staying somewhere through it.",
+      "examples": [
+        "Many birds winter in the south and return in spring.",
+        "The family winters in Florida every year."
+      ],
+      "branchCoverage": [
+        "spend the winter -> To spend the coldest season of the year in a particular place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "spend the winter"
+      ],
+      "lemmaPartition": "winter%1:28:00:: = the coldest season of the year; winter%2:42:00:: = to spend the coldest season in a place",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worse%3:00:00::",
+      "lemma": "worse",
+      "pos": "a",
+      "definition": "(comparative of ‘bad’) inferior to another in quality or condition or desirability",
+      "decision": "gloss",
+      "simpleMeaning": "Of poorer quality, condition or appeal than something else being compared.",
+      "scope": "This is not the adverb for doing something less well; it describes a thing being of poorer quality than another.",
+      "examples": [
+        "The second hotel was worse than the first.",
+        "Her cough is worse today than yesterday."
+      ],
+      "branchCoverage": [
+        "(comparative of ‘bad’) inferior to another in quality or condition or desirability -> Of poorer quality, condition or appeal than something else being compared"
+      ],
+      "labelBranches": [
+        {
+          "branch": "(comparative of ‘bad’)",
+          "explanation": "Grammar note identifying this as the comparative form of another adjective; the meaning content is the 'inferior in quality or condition or desirability' part, which the gloss carries."
+        }
+      ],
+      "sourceBranches": [
+        "(comparative of ‘bad’) inferior to another in quality or condition or desirability"
+      ],
+      "lemmaPartition": "worse%3:00:00:: = of poorer quality, condition or appeal than another; worse%4:02:00:: = doing something in a less successful or suitable way; worse%3:00:02:: = in a poorer state of health or fitness than before",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worse%4:02:00::",
+      "lemma": "worse",
+      "pos": "r",
+      "definition": "(comparative of ‘ill’) in a less effective or successful or desirable manner",
+      "decision": "gloss",
+      "simpleMeaning": "In a less successful, less suitable or less able way than before or than someone else.",
+      "scope": "This is not the adjective describing a poorer thing; it tells how an action is done.",
+      "examples": [
+        "He did worse in the second test than in the first.",
+        "The team played worse after the break."
+      ],
+      "branchCoverage": [
+        "(comparative of ‘ill’) in a less effective or successful or desirable manner -> In a less successful, less suitable or less able way than before or than someone else"
+      ],
+      "labelBranches": [
+        {
+          "branch": "(comparative of ‘ill’)",
+          "explanation": "Grammar note identifying this as the comparative form of another word; the meaning content is the 'less effective or successful or desirable manner' part, which the gloss carries."
+        }
+      ],
+      "sourceBranches": [
+        "(comparative of ‘ill’) in a less effective or successful or desirable manner"
+      ],
+      "lemmaPartition": "worse%3:00:00:: = of poorer quality, condition or appeal than another; worse%4:02:00:: = doing something in a less successful or suitable way; worse%3:00:02:: = in a poorer state of health or fitness than before",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worse%3:00:02::",
+      "lemma": "worse",
+      "pos": "a",
+      "definition": "changed for the worse in health or fitness",
+      "decision": "gloss",
+      "simpleMeaning": "In a poorer state of health or fitness than before.",
+      "scope": "This is not the general comparison of quality; it applies to a person's health or fitness becoming poorer.",
+      "examples": [
+        "The patient is worse this morning and needs a doctor.",
+        "She felt worse after the long walk home."
+      ],
+      "branchCoverage": [
+        "changed for the worse in health or fitness -> In a poorer state of health or fitness than before"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "changed for the worse in health or fitness"
+      ],
+      "lemmaPartition": "worse%3:00:00:: = of poorer quality, condition or appeal than another; worse%4:02:00:: = doing something in a less successful or suitable way; worse%3:00:02:: = in a poorer state of health or fitness than before",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "agreement%1:26:01::",
+      "lemma": "agreement",
+      "pos": "n",
+      "definition": "harmony of people's opinions or actions or characters",
+      "decision": "gloss",
+      "simpleMeaning": "A state in which people's views, behaviour or natures fit well together.",
+      "scope": "This is not a contract or arrangement between parties; it is the state of people getting on well together.",
+      "examples": [
+        "There was complete agreement among the members about the plan.",
+        "The two neighbours live in quiet agreement about the fence."
+      ],
+      "branchCoverage": [
+        "harmony of people's opinions or actions or characters -> A state in which people's views, behaviour or natures fit well together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "harmony of people's opinions or actions or characters"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "award%1:10:00::",
+      "lemma": "award",
+      "pos": "n",
+      "definition": "a tangible symbol signifying approval or distinction",
+      "decision": "gloss",
+      "simpleMeaning": "An object you can hold, given as a sign of approval or special honour.",
+      "scope": "This is not the money or prize given for winning; it is the object that stands as a sign of honour.",
+      "examples": [
+        "The trophy on the shelf is an award for twenty years of service.",
+        "She keeps her awards in a glass cabinet."
+      ],
+      "branchCoverage": [
+        "a tangible symbol signifying approval or distinction -> An object you can hold, given as a sign of approval or special honour"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a tangible symbol signifying approval or distinction"
+      ],
+      "lemmaPartition": "award%1:10:00:: = an object that stands as a sign of approval or honour; award%1:21:00:: = the money or prize given for winning a contest or lottery",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "award%1:21:00::",
+      "lemma": "award",
+      "pos": "n",
+      "definition": "something given for victory or superiority in a contest or competition or for winning a lottery",
+      "decision": "gloss",
+      "simpleMeaning": "Something given to the winner of a contest or competition, or to someone who wins a lottery.",
+      "scope": "This is not the object that serves as a sign of honour; it is the thing handed over for winning.",
+      "examples": [
+        "The award for first place was five hundred pounds.",
+        "She gave her award money to the school."
+      ],
+      "branchCoverage": [
+        "something given for victory or superiority in a contest or competition or for winning a lottery -> Something given to the winner of a contest or competition, or to someone who wins a lottery"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something given for victory or superiority in a contest or competition or for winning a lottery"
+      ],
+      "lemmaPartition": "award%1:10:00:: = an object that stands as a sign of approval or honour; award%1:21:00:: = the money or prize given for winning a contest or lottery",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "block%1:15:00::",
+      "lemma": "block",
+      "pos": "n",
+      "definition": "a rectangular area in a city surrounded by streets and usually containing several buildings",
+      "decision": "gloss",
+      "simpleMeaning": "A rectangular stretch of a city bounded by streets, usually with several buildings on it.",
+      "scope": "This is not the verb for stopping something from passing; it is a city area between streets.",
+      "examples": [
+        "They walked three blocks to the station.",
+        "The fire spread along the whole block."
+      ],
+      "branchCoverage": [
+        "a rectangular area in a city surrounded by streets and usually containing several buildings -> A rectangular stretch of a city bounded by streets, usually with several buildings on it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a rectangular area in a city surrounded by streets and usually containing several buildings"
+      ],
+      "lemmaPartition": "block%1:15:00:: = a city area between streets, usually with several buildings; block%2:35:00:: = to make a way or opening impossible to pass through",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "block%2:35:00::",
+      "lemma": "block",
+      "pos": "v",
+      "definition": "render unsuitable for passage",
+      "decision": "gloss",
+      "simpleMeaning": "To make a way or opening impossible to pass through.",
+      "scope": "This is not the noun for a city area; it is the action of stopping a route from being used.",
+      "examples": [
+        "A fallen tree blocked the road for hours.",
+        "Police blocked the entrance to the square."
+      ],
+      "branchCoverage": [
+        "render unsuitable for passage -> To make a way or opening impossible to pass through"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "render unsuitable for passage"
+      ],
+      "lemmaPartition": "block%1:15:00:: = a city area between streets, usually with several buildings; block%2:35:00:: = to make a way or opening impossible to pass through",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "broken%3:00:01::",
+      "lemma": "broken",
+      "pos": "a",
+      "definition": "physically and forcibly separated into pieces or cracked or split",
+      "decision": "gloss",
+      "simpleMeaning": "Forcibly parted into pieces, or cracked or split, as a solid object is.",
+      "scope": "This is not the sense of something interrupted or uneven in time or space; it is about a solid object in pieces or split.",
+      "examples": [
+        "The broken glass lay across the kitchen floor.",
+        "The handle is broken, so the door will not close."
+      ],
+      "branchCoverage": [
+        "physically and forcibly separated into pieces or cracked or split -> Forcibly parted into pieces, or cracked or split, as a solid object is"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "physically and forcibly separated into pieces or cracked or split"
+      ],
+      "lemmaPartition": "broken%3:00:01:: = a solid object split or in pieces; broken%3:00:02:: = not continuous or even in space, time or sequence",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "broken%3:00:02::",
+      "lemma": "broken",
+      "pos": "a",
+      "definition": "not continuous in space, time, or sequence or varying abruptly",
+      "decision": "gloss",
+      "simpleMeaning": "Not continuous in space, time or order, or changing suddenly rather than smoothly.",
+      "scope": "This is not the sense of a solid object in pieces; it describes something interrupted, uneven or unconnected.",
+      "examples": [
+        "The broken line of hills stretched toward the coast.",
+        "He spoke in a broken voice, stopping after every few words."
+      ],
+      "branchCoverage": [
+        "not continuous in space, time, or sequence or varying abruptly -> Not continuous in space, time or order, or changing suddenly rather than smoothly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "not continuous in space, time, or sequence or varying abruptly"
+      ],
+      "lemmaPartition": "broken%3:00:01:: = a solid object split or in pieces; broken%3:00:02:: = not continuous or even in space, time or sequence",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

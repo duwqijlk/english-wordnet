@@ -1,0 +1,1097 @@
+{
+  "schema": "oewn-review-lineage-v1",
+  "files": [
+    {
+      "file": "batch-001.json",
+      "sha256": "a0135b09b02f0e1e50268b1fcb0d2b6388aedbef82cb2286e07c3dc7009da1ac"
+    },
+    {
+      "file": "batch-001-final.json",
+      "sha256": "75fdf6b289f3e9f5c3ec2c2463bae0c343b5f57e8f1273d3e835c21718641f86"
+    },
+    {
+      "file": "batch-002.json",
+      "sha256": "e1a05467148f33d58d146e4cc5e28abc9678738bc31dcc89e6a53fb70ef71d2a"
+    },
+    {
+      "file": "batch-002-final.json",
+      "sha256": "1869b2abac751155a200c7d9549f8f6a841563c65be861df8abf9f4ee13f51aa"
+    },
+    {
+      "file": "batch-003.json",
+      "sha256": "4f12f6f2ddd0e1dc845a453c974771c83a6e4bd1353b9f80dbc1ec823cb1509c"
+    },
+    {
+      "file": "batch-003-final.json",
+      "sha256": "f6ff55804088228fea3f34a67c824bb554399d7d05bd2f44566f0dccbc1f2948"
+    },
+    {
+      "file": "batch-004.json",
+      "sha256": "24e710970b9d4f27d334d11e29ec76165f74189b1d811c52919098a3975c18b6"
+    },
+    {
+      "file": "batch-004-final.json",
+      "sha256": "db12edf8cbf78e28d366f13060c30264f8fddf92045ecd93813aecc26c788be2"
+    },
+    {
+      "file": "batch-005.json",
+      "sha256": "f27094f26a110db5fb6d94ebc35f7af88d053573886427d21ae8f4d0aa1f64b6"
+    },
+    {
+      "file": "batch-005-final.json",
+      "sha256": "d360ae40afa23b4d237f7f75fd59307ff27085ad00f08c6a38a3375f704ac118"
+    },
+    {
+      "file": "batch-006.json",
+      "sha256": "ce8a0dfca738a00ff1b082c6da06aea7ff3a539f3e0a5120141dd09e5e4106d5"
+    },
+    {
+      "file": "batch-006-final.json",
+      "sha256": "8d0ee0fc9b67a7cedaf34ecda8a62d2876e6ed447809b1f78142f9e5c1eabf0f"
+    },
+    {
+      "file": "batch-007.json",
+      "sha256": "ce2f8cb4cb2f5c9f27c4528046234a2aee1c147ed293fc2f0053f2156d846982"
+    },
+    {
+      "file": "batch-007-final.json",
+      "sha256": "eeea1bca52daf0d3dbdac824e8191b570bdf035d2615d34bcb5356be2c49cd98"
+    },
+    {
+      "file": "batch-008.json",
+      "sha256": "4c6dc15005f1d76bc6d6d52934572c810517a69838ac7ee9736e87739bafacb8"
+    },
+    {
+      "file": "batch-008-final.json",
+      "sha256": "dd0c8b698eebb9d80bfbad5d43ddd08e11eaed63886998eb115e0dc2352e0244"
+    },
+    {
+      "file": "batch-009.json",
+      "sha256": "96eab0c7e5be0e64e54a614051f1f26fb562d2d141e37b54027ac45f10277c46"
+    },
+    {
+      "file": "batch-009-final.json",
+      "sha256": "2188a42c9b5e1d6f4f8b0980c0433d539db3b9fe3c88c53722838dcfaba2be8a"
+    },
+    {
+      "file": "batch-010.json",
+      "sha256": "4c3eb0ef7a29c8241654089b28b72d9a6ffcaf964670fae7ae4c187107997fd4"
+    },
+    {
+      "file": "batch-010-final.json",
+      "sha256": "03a901ef4bd4db979b29e8c2a825f72847caa5f2e81a7780982d5cb24499a9d3"
+    },
+    {
+      "file": "batch-011.json",
+      "sha256": "2b1ef081ce6d25eefe5918c7e3c3d7868eea08f8e009d7e581798f75d136403c"
+    },
+    {
+      "file": "batch-011-final.json",
+      "sha256": "3f1413b25bd4875c066824488789e565601f6275fe711d3fdba758b05968f84d"
+    },
+    {
+      "file": "batch-012.json",
+      "sha256": "5f0c29a9eae5aad8c4c8e92a1e50af8c7ca8775df9dd5e37f52f2cf79f986829"
+    },
+    {
+      "file": "batch-012-final.json",
+      "sha256": "26d94fb7d237d84049c08c416ce018a96bc190f9a07a15bd6b0e33340bc82f8a"
+    },
+    {
+      "file": "batch-013.json",
+      "sha256": "c5fa093af82df73fc02012cbf216262dc7742dd534a4b5ba1cfc58667dc71862"
+    },
+    {
+      "file": "batch-013-final.json",
+      "sha256": "98f542dd535f7b222be5cc05fc92c11c7fc234cd998ee5738f6e94edeb410658"
+    },
+    {
+      "file": "batch-014.json",
+      "sha256": "3f96922409aa6322504f866e583a7eae1228660e5bf14a5293905ff3aaec9727"
+    },
+    {
+      "file": "batch-014-final.json",
+      "sha256": "18300adf6967d2ff2d569c02cea6cc9f7f5af0d153f62a738967961fe2295571"
+    },
+    {
+      "file": "batch-015.json",
+      "sha256": "d0e8a8434c9dcb57a1c355d4b453140bba13ba2954fea667117d4017af342601"
+    },
+    {
+      "file": "batch-015-final.json",
+      "sha256": "672c393f3d56d45ba1b880ad240be9724c9d3738c0f56d3bbbdfce5afffa3be7"
+    },
+    {
+      "file": "batch-016.json",
+      "sha256": "d10d31ddf985c8ef22501d0f3a69f805e60d671be4ae29882f3d2ed5cc1df23b"
+    },
+    {
+      "file": "batch-016-final.json",
+      "sha256": "b94794f05d859054440442a7e744d2c19cdd480d92f5daf1f1767edc3a07291c"
+    },
+    {
+      "file": "batch-017.json",
+      "sha256": "9671611849643c82d244128bb15e4e7669adfd2d0d96e10cc024ae4a53389009"
+    },
+    {
+      "file": "batch-017-final.json",
+      "sha256": "e5e7e2810296ad7cce5d604818d40f4d60adc6482b811fb89db75c7cff669d96"
+    },
+    {
+      "file": "batch-018.json",
+      "sha256": "bb90ef52f86cb0b59b9ab88a552989ceaec05277eefb79d2dada83418cc1c484"
+    },
+    {
+      "file": "batch-018-final.json",
+      "sha256": "1f9e46344cd2c919a91fcdbbc9440ce87979f49694ab50e4d12ce339997beb26"
+    },
+    {
+      "file": "batch-019.json",
+      "sha256": "a255ed9117c42578ac148422d1449a9d9e2d1f9e5e58568a016dbbcf2254f9f2"
+    },
+    {
+      "file": "batch-019-final.json",
+      "sha256": "b375a29c33b699d06dfd5ddfa9859c8448a5f809d5afc1b0f96d5802b031d2e4"
+    },
+    {
+      "file": "batch-020.json",
+      "sha256": "4288a48032bfa831e74202cac4f4fc54835063d90761302fe502f86bcc49d2e3"
+    },
+    {
+      "file": "batch-020-final.json",
+      "sha256": "097578c12c93184785a9d0c78545924597bc3cb6ca08f95785b54e059d5c87dc"
+    },
+    {
+      "file": "batch-021.json",
+      "sha256": "ad256474d4fa5e1aed7b042c8cf839c7b641eab529082d2ca7047a6688629727"
+    },
+    {
+      "file": "batch-021-final.json",
+      "sha256": "51bbc70d460a9c4c674e33072dafa6c8d859b0be15471350e8b626fbcaebc1f6"
+    },
+    {
+      "file": "batch-022.json",
+      "sha256": "ed54f15421e9bf4741ae4f4f0282762873a0f6acda6c2dc0869c15287253c92e"
+    },
+    {
+      "file": "batch-022-final.json",
+      "sha256": "0fdd2ecf820cfb915d59d0d778a8c4f9c22fbba1aee7aebb1a50d953aef710d5"
+    },
+    {
+      "file": "batch-023.json",
+      "sha256": "a6e976b39c2666e32a5537accf277ad053e47b011410b623105682a6371edb85"
+    },
+    {
+      "file": "batch-023-final.json",
+      "sha256": "de0eb6311ff829e4a925f9abb9e8810b6e6bb15d6c7730055cda82898ed3c581"
+    },
+    {
+      "file": "batch-024.json",
+      "sha256": "9479d5f19f1e81578c6d665520e6e158046319a96e1ed70ac634cc165f56b7eb"
+    },
+    {
+      "file": "batch-024-final.json",
+      "sha256": "28bac6a33506e2869d7aab99ac53c3409708117f44bc4304476efa065d045f69"
+    },
+    {
+      "file": "batch-025.json",
+      "sha256": "7dde1de028a4cd839fb02cee56fdbb9c3fd118775041011b58debccaf3f2bcf7"
+    },
+    {
+      "file": "batch-025-final.json",
+      "sha256": "86fff6dcb19715b56c84fd4267e8904afe9bd2bc70abc5109f1f16c6c0e695b3"
+    },
+    {
+      "file": "batch-026.json",
+      "sha256": "8869d7bae65fe192791fde97e94e0b15a76eb12582c1dfff7c58e4da0fd33508"
+    },
+    {
+      "file": "batch-026-final.json",
+      "sha256": "060a73e4dd2715315cfe0d78c12c6e26a6d88dec33ade34d9d1856fd08ae4c83"
+    },
+    {
+      "file": "batch-027.json",
+      "sha256": "fc12541765a6fb7150b9a450ad4b7f0aa01ceea93ea1eb2563fb966287c63569"
+    },
+    {
+      "file": "batch-027-final.json",
+      "sha256": "dbd2ff39953ab3169763f382dbd483a8d8b9a2915866b62769ff3c20e1a66452"
+    },
+    {
+      "file": "batch-028.json",
+      "sha256": "c707fb1f5859ba8f6d3633d5926b87f9067c0951e9304c15ed21795f99d99773"
+    },
+    {
+      "file": "batch-028-final.json",
+      "sha256": "fc8696aa6e575f78efaa9e05327619b1ae760113b86738e6d75025f2182115ee"
+    },
+    {
+      "file": "batch-029.json",
+      "sha256": "b756c4a5b82b67503480afeb58b77f337eb81fbe069a6531c4755e2da245ac0d"
+    },
+    {
+      "file": "batch-029-final.json",
+      "sha256": "af20bba22fe32af90854fca56847dcd027e3c222f966e91a9a4689438b31c108"
+    },
+    {
+      "file": "batch-030.json",
+      "sha256": "60b38d25d4a8e0c2eb048bd6f69b058ec912310063e215b5bfcda3d8d18522a0"
+    },
+    {
+      "file": "batch-030-final.json",
+      "sha256": "4d616413347f44db1832b60282f9e89654ac0819c65f59a977140ee616c5c192"
+    },
+    {
+      "file": "batch-031.json",
+      "sha256": "28a90db3fb76dabac0e51b431b9648131886b7cd154549736e2be5198b72d767"
+    },
+    {
+      "file": "batch-031-final.json",
+      "sha256": "bb3e7e718bbb3b76efd82ff8ac721b8c7653fea95d72eaa79385aeb52e6e0550"
+    },
+    {
+      "file": "batch-032.json",
+      "sha256": "52e608347c03cceda30caeadf2c9f33b027ff6115a836584a46bdc748a19c16b"
+    },
+    {
+      "file": "batch-032-final.json",
+      "sha256": "925cb3bf28c1c0f19f7c40d01054cbe4d3dc137457b5d83e395928706156c45c"
+    },
+    {
+      "file": "batch-033.json",
+      "sha256": "9f3da553098db196f635924f4b5373140c0e26a6620581914c67d2a5c6096c5d"
+    },
+    {
+      "file": "batch-033-final.json",
+      "sha256": "424dee8e89d9645ba6de778efa3b3afb04bb1a2d82edfda669b71d7fa2d13200"
+    },
+    {
+      "file": "batch-034.json",
+      "sha256": "90349ee89e995bb6974e5696fe6ef73663c2cad60e9d275741c2d5acece07aa5"
+    },
+    {
+      "file": "batch-034-final.json",
+      "sha256": "cc84f0144ba8158048d271582d8aeab7d26a2b89eea9cea891b7ca46cdb9e2f3"
+    },
+    {
+      "file": "batch-035.json",
+      "sha256": "6ab29495bbd3174bcc7fc2fb4c0d4b31cb18940ff5ac56c75bbee2f348deaab5"
+    },
+    {
+      "file": "batch-035-final.json",
+      "sha256": "05ba0251f0c8dbc1cb8b01cc1b66a13ca052b08a6f92618e9dfb733129e60978"
+    },
+    {
+      "file": "batch-036.json",
+      "sha256": "1dfb3a1b4388058296df36b7d61ce6cec06a5da97682c247a176525ca8a4c185"
+    },
+    {
+      "file": "batch-036-final.json",
+      "sha256": "539428fc75d0a369ac6d3b41751fa30951eeae57d0fda81709af939193379901"
+    },
+    {
+      "file": "batch-037.json",
+      "sha256": "e83f6384f55fc4c5c7fbb48af45b89becb51e940bc87d7f1ba4340f233cb6648"
+    },
+    {
+      "file": "batch-037-final.json",
+      "sha256": "c22235ab12d40b90de3fae8081b3bd7b1dc65f685595ea197d1a6b094a9b262b"
+    },
+    {
+      "file": "batch-038.json",
+      "sha256": "94d7609c8e348a90aa5a0e94d9c05e4c5017750fd6a62b21f989eabe53a6e1a0"
+    },
+    {
+      "file": "batch-038-final.json",
+      "sha256": "2ae28fd83ce51c7457d2508a4c05de55d00201a3ae9c83069a686d7be470200b"
+    },
+    {
+      "file": "batch-039.json",
+      "sha256": "f1bdb8a6ee5aec464bcf03aa57785eedf1262792377de00c48e4882495e50faf"
+    },
+    {
+      "file": "batch-039-final.json",
+      "sha256": "40c6d90d7ac4d44987f66717a9bf5d12b2a8c3e8f0075d30f7489636102de296"
+    },
+    {
+      "file": "batch-040.json",
+      "sha256": "9761cf8fd98a3c1491b6cfbdbbb44dfb01933397e3a9b61c211ee066d0feadcc"
+    },
+    {
+      "file": "batch-040-final.json",
+      "sha256": "b356673d78af3ca0b218a03d4eacc372ea789907d8cd60f56c434084257842dd"
+    },
+    {
+      "file": "batch-041.json",
+      "sha256": "4de313b0ac24660820dd7cc2d480c8c09ce194ff7e91fb5bcf31afed35dabe8d"
+    },
+    {
+      "file": "batch-041-final.json",
+      "sha256": "425302f94fdca3c5708b5ae11a48a169dfc51175359d891d50f40d366d33ad95"
+    },
+    {
+      "file": "batch-042.json",
+      "sha256": "a837aeab38e9d8a4fcec7b145cdc6b932fde0ec2ea16826a65931ea57071c386"
+    },
+    {
+      "file": "batch-042-final.json",
+      "sha256": "2d76023c788d69a7baa0ded271c35170b8aa3007c708454133df9b7a163e7f9a"
+    },
+    {
+      "file": "batch-043.json",
+      "sha256": "e38781437ade7a5fd7759c85b65a51cffecaee2351cb4c886fb65054ddfbd703"
+    },
+    {
+      "file": "batch-043-final.json",
+      "sha256": "41a1aa8fe7e6a8ff3bd3b9432b58df6423a39fd0acd3bba55eebe3272274b93d"
+    },
+    {
+      "file": "batch-044.json",
+      "sha256": "a3b6fb34dc17b486e658c2d613b4e96ce639daa332e1adf7cd732a9330738953"
+    },
+    {
+      "file": "batch-044-final.json",
+      "sha256": "1c5943db711d7af221a759a30fb9fbd975ae88afb244e4baa0263ea2974f4615"
+    },
+    {
+      "file": "batch-045.json",
+      "sha256": "a703c64a64cd25d68bb3a3b5e192640bcd2f46802ee3162c6d91b67138cfe6f5"
+    },
+    {
+      "file": "batch-045-final.json",
+      "sha256": "d172843c71d9803793a2174dda9e6b56cadb58bfb2da9fa11a4c9b6c20d4cbd0"
+    },
+    {
+      "file": "batch-046.json",
+      "sha256": "9a78fb3c55b04b9be90926f520d42e8ca56da0a2d2dc29428234d66ee9b11b01"
+    },
+    {
+      "file": "batch-046-final.json",
+      "sha256": "ca13209f6f8ec0cca4d98f991cebbb41f536d11e28ee0a70ee9edea523276b52"
+    },
+    {
+      "file": "batch-047.json",
+      "sha256": "ab268f18bb3fb0cacfdf0e2df287670c4740ec7389f219bf55f189ea3814444b"
+    },
+    {
+      "file": "batch-047-final.json",
+      "sha256": "7224165e04356c686d933f67a4a42ae04bc609d5011f84993ac8eb4dec7f5db5"
+    },
+    {
+      "file": "batch-048.json",
+      "sha256": "fb9536cc45862130a67a99ac5d1eb5c76b220a64b48f1772c0f7aecc86f986cb"
+    },
+    {
+      "file": "batch-048-final.json",
+      "sha256": "befe076f17e823edca2bdc958a2f8753f90bfdf8dcfe56dbad4379e41827c1dc"
+    },
+    {
+      "file": "batch-049.json",
+      "sha256": "4ecdee9b9bf9b2e676d614513b9c233a2888ec36ba5ea97d15c80129e9f273f2"
+    },
+    {
+      "file": "batch-049-final.json",
+      "sha256": "fb36c9a8d6e34b0eb5c06786edefde6d09a2582e407101cce169aa5801ed0df0"
+    },
+    {
+      "file": "batch-050.json",
+      "sha256": "376456d0b2b43d83ef23a46baa9c30636204f7710420e0a97332c7118082e2f5"
+    },
+    {
+      "file": "batch-050-final.json",
+      "sha256": "e199f6a95e53b8d3272c2e59c355a86de7a4cf2c71c9984f9e888b36755153fe"
+    },
+    {
+      "file": "batch-051.json",
+      "sha256": "82384fefb3bb3b933bd4e83164725f1033a5c67ee2340df50b5e282b06c6b2e0"
+    },
+    {
+      "file": "batch-051-final.json",
+      "sha256": "233fe5e8530a3a432e7d85ec19f52f2f926f09706607f54866ac53d59d56b994"
+    },
+    {
+      "file": "batch-052.json",
+      "sha256": "0aa8ba85de7b30e1d5d08eaf7e5c297c3ada46ad7e446d8d3fdb1291e70cda25"
+    },
+    {
+      "file": "batch-052-final.json",
+      "sha256": "3c27df2597cef8034cac9924a665282a1b7849edca0c4742ce2097dab6d61e0c"
+    },
+    {
+      "file": "batch-053.json",
+      "sha256": "6731e6c773112979c2751c0b1c9961b8519d13138bf93b093cc23f92c3f46db4"
+    },
+    {
+      "file": "batch-053-final.json",
+      "sha256": "b97329da4276ef182da672be33beeec05decdc7a20bffbee35a5e0dc8a9adfa0"
+    },
+    {
+      "file": "batch-054.json",
+      "sha256": "05cf7e1dc5820be1544b4f3d98b379a38b020f2fbe32804eb0191bc4d830e8f3"
+    },
+    {
+      "file": "batch-054-final.json",
+      "sha256": "51951ddc7b163bfe1764189bd3104cffc047cef636b8860dfcc635210beffc61"
+    },
+    {
+      "file": "batch-055.json",
+      "sha256": "bbdd4b4ae17ff30bba97ccc9b43d912c110747937c7921e7d7db4ba5cb743612"
+    },
+    {
+      "file": "batch-055-final.json",
+      "sha256": "291ca7825d29bc40705c49eed553ebdb3ff17ae26518213273f43b8bf189c17d"
+    },
+    {
+      "file": "batch-056.json",
+      "sha256": "f5f69f1a85c108aeb3731144966c29d1816700f1cddcf1b2c4e79bfd7c373a3e"
+    },
+    {
+      "file": "batch-056-final.json",
+      "sha256": "284a29e5bd902ee943892b3f3478850b31315065f1e045ef99dddb98a69105df"
+    },
+    {
+      "file": "batch-057.json",
+      "sha256": "e5d9179581d115460ba98d512613650a45577e1139044fb83000f719daa70696"
+    },
+    {
+      "file": "batch-057-final.json",
+      "sha256": "718e44b6b78a646beff812dc8ce7045690819ee89f73c630e3636d34c21c551d"
+    },
+    {
+      "file": "batch-058.json",
+      "sha256": "2164057e1b5a695596fc7cefdb1f4da8bc109489644c82c4aeb32fe5177de215"
+    },
+    {
+      "file": "batch-058-final.json",
+      "sha256": "e08a866a653cb151f2e0885b07e2b3f69d4b0c8652453cae3d8d86195180a3d6"
+    },
+    {
+      "file": "batch-059.json",
+      "sha256": "303316aa36f3c43839e63499e5d7a086aab4a954f14c0f55fcce2991bac6831f"
+    },
+    {
+      "file": "batch-059-final.json",
+      "sha256": "03a74301c1c939587957139ff17ffc823011403dd046208a87d3b074f5e068e8"
+    },
+    {
+      "file": "batch-060.json",
+      "sha256": "47735c965bddab81757ba0b7424941540fa5035494d99e203e666ac50da97770"
+    },
+    {
+      "file": "batch-060-final.json",
+      "sha256": "ebd819c802e692f286b7956eefd0c8e731dd7049a0fb0ea772db66025da594e6"
+    },
+    {
+      "file": "batch-061.json",
+      "sha256": "aea140992e4623222130e9be603cc5b4013289e7c0db01cddb858a44a43c4a5f"
+    },
+    {
+      "file": "batch-061-final.json",
+      "sha256": "490f3be4f7dd3d83754660477e6a0daab984e2e11e6947381d96357af85e4efa"
+    },
+    {
+      "file": "batch-062.json",
+      "sha256": "039ffdb2695b90f0347c13785d1df2056722394542714a0305ea0fe48b9fc20d"
+    },
+    {
+      "file": "batch-062-final.json",
+      "sha256": "294ea95cc879619ff720bac2742ca00e26c0289c2d0137744d305105df8414b8"
+    },
+    {
+      "file": "batch-063.json",
+      "sha256": "41a7ab5fd858a5db1d10e08137fd41fc6b8c976404e99e44bcc0d540baa00353"
+    },
+    {
+      "file": "batch-063-final.json",
+      "sha256": "819faaacdf851836e3e5298b306d3408cfd429b096faf4ce8820a54606cfbb24"
+    },
+    {
+      "file": "batch-064.json",
+      "sha256": "c0d3ccbd793891716563d09c7421a3fbafe7900e0f4a6e0ec391a1c27a887a9b"
+    },
+    {
+      "file": "batch-064-final.json",
+      "sha256": "84853b7be4b8585c510146126adcc6cdd39b62ca070545117e54ad738fcabfd5"
+    },
+    {
+      "file": "batch-065.json",
+      "sha256": "764c934c6ffc5f684560a852a60d2d7c5180513ec4cea865e1259f487f1f903e"
+    },
+    {
+      "file": "batch-065-final.json",
+      "sha256": "e76f82b000a641972d56f3a5ebd3b5ddd8c24c4d2d9cce96834628f50f172401"
+    },
+    {
+      "file": "batch-066.json",
+      "sha256": "0050418e3ec50f2b773d12cedfe2ec1779222fb38c571cb81575755836dd7987"
+    },
+    {
+      "file": "batch-066-final.json",
+      "sha256": "6336658472a29b330ab6dd3389433e643f24ec3b864e72f707309f4316f26126"
+    },
+    {
+      "file": "batch-067.json",
+      "sha256": "43f01c144b80c4bd4dc650900cab62a219217f780c54892d290604e8d2bc1d08"
+    },
+    {
+      "file": "batch-067-final.json",
+      "sha256": "fe525cbe62ad9e2cf1dfafab5c32da8d3a488da46a5a0cdeacb14f76cf8cfda6"
+    },
+    {
+      "file": "batch-068.json",
+      "sha256": "e3be552f899dcea47c7d5acde1a39cb7674d305451972694c11827343efabe08"
+    },
+    {
+      "file": "batch-068-final.json",
+      "sha256": "eb127fcac1fcd201b49d5cadbfcfc3325058b83ac7bd2867336c7b613395b9a8"
+    },
+    {
+      "file": "batch-069.json",
+      "sha256": "0be1e978c51b0e3375408abf213ad063b8574fc7b1a4daa92eacffb8592d37cc"
+    },
+    {
+      "file": "batch-069-final.json",
+      "sha256": "b3c3c455efa4b08c8ba093e6eea947a53b4326cb06bb285e6f5518ea99d7e2c6"
+    },
+    {
+      "file": "batch-070.json",
+      "sha256": "e02f6497a95ac86e8fb1bb8f40117eb4db00872a240d83eabd149d6327c4a03b"
+    },
+    {
+      "file": "batch-070-final.json",
+      "sha256": "bd7cb994743bb8cd43f86f47abd524aab3ed591846cd8eaad829a09ceb545f46"
+    }
+  ],
+  "deferrals": [
+    {
+      "senseId": "web%1:05:01::",
+      "batch": 1,
+      "reason": "Feather anatomy; technical and very unlikely in general reading.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "get%1:04:00::",
+      "batch": 1,
+      "reason": "Tennis return sense; sport-specific and very unlikely in general reading.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "people%2:30:00::",
+      "batch": 1,
+      "reason": "Rare literary verb \"fill with people\"; low reading value.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "people%2:42:00::",
+      "batch": 1,
+      "reason": "Rare verb \"furnish with people\"; low reading value.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "first%3:00:03::",
+      "batch": 1,
+      "reason": "Orchestra part sense; specialist music use, low reading value.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "see%1:15:00::",
+      "batch": 1,
+      "reason": "The bishop's seat sense; specialist church use, low reading value.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "well%1:06:03::",
+      "batch": 1,
+      "reason": "Rare \"container for liquid\" sense; low reading value.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "lot%2:40:00::",
+      "batch": 4,
+      "reason": "The verb is rare and its natural examples are uncertain; leaving the original rather than inventing usage.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "group%1:09:00::",
+      "batch": 4,
+      "reason": "Technical algebra (a set closed under an operation); not glossable for a learner without group theory.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "small%5:00:00:limited:00",
+      "batch": 6,
+      "reason": "Nearly indistinguishable from the general adjective sense in learner use; deferring avoids two glosses a reader cannot tell apart.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "white%5:00:00:pure:01",
+      "batch": 6,
+      "reason": "Archaic literary sense of moral purity; the everyday word is \"pure\" or \"blameless\".",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "single%1:23:00::",
+      "batch": 7,
+      "reason": "The noun use of 'single' for the number one is very rare in real English, so any example sentence would sound artificial.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "question%1:10:00::",
+      "batch": 9,
+      "reason": "This abstract count use for the act of asking cannot be kept distinct, because every natural sentence with the noun also fits the asking-sentence or doubt sense.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "account%2:40:00::",
+      "batch": 12,
+      "reason": "In this bookkeeping sense the verb survives only in fixed phrases such as 'keep account of', where it is hard to tell apart from 'account for' meaning explain, so two natural examples cannot be written that show this sense alone.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "similar%3:00:02::",
+      "batch": 12,
+      "reason": "This sense is used through 'like' or as a word ending such as 'doglike' and 'dreamlike', so the word 'similar' itself cannot appear naturally in two examples that show it.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "middle%2:35:00::",
+      "batch": 13,
+      "reason": "The verb is very rare in modern English, so two natural B1 examples would have to be invented rather than idiomatic.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "result%2:42:02::",
+      "batch": 13,
+      "reason": "The transitive verb belongs to technical writing, so two natural B1 examples would not clearly show this sense.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "medical%3:01:02::",
+      "batch": 14,
+      "reason": "Archaic relational sense tied to the proper name Aesculapius; any natural modern example would have to be invented or would mislead learners.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "character%2:35:00::",
+      "batch": 16,
+      "reason": "The verb is archaic and survives mainly in specialist craft writing, so two natural B1 examples would sound artificial.",
+      "verdict": "defer-accepted"
+    },
+    {
+      "senseId": "starting%1:04:00::",
+      "batch": 19,
+      "reason": "The noun survives only in fixed phrases such as \"a starting place\"; natural examples for the bare noun would be invented.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "letter%2:36:01::",
+      "batch": 25,
+      "reason": "The definition overlaps almost completely with the 'mark letters on' sense (letter%2:36:00), so any natural example would fit both senses and the two cannot be told apart.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "secretary%1:18:02::",
+      "batch": 25,
+      "reason": "The sense is archaic; in any natural modern sentence the word would be read as the office-job sense, so examples cannot show this meaning clearly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "active%1:27:00::",
+      "batch": 26,
+      "reason": "Specialist chemistry sense whose definition ('capable of activity') is circular and vague; it is technical and rare in general reading, so a learner gloss would be guesswork.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "none%1:04:00::",
+      "batch": 26,
+      "reason": "Obscure church term for a Roman Catholic service tied to a fixed hour of prayer; it is rare in general reading and needs religious background to explain.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "none%1:28:00::",
+      "batch": 26,
+      "reason": "Technical religious term for a fixed prayer hour ('canonical hour') counted from sunrise; it is obscure outside church history.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stock%2:40:07::",
+      "batch": 26,
+      "reason": "Circular definition ('equip with a stock') in a rare verb use; the meaning cannot be made clear without repeating the headword.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "marriage%1:14:00::",
+      "batch": 27,
+      "reason": "The couple sense (\"the marriage\" for two married people) has no natural modern example: a learner sentence either reads as the ceremony/institution or needs \"the couple\". Left with the original definition rather than a gloss no example can support.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "thus%1:27:00::",
+      "batch": 27,
+      "reason": "This noun sense is archaic and rare in general reading (the branch text itself carries rare specialist terms: gum resin, embalming, fumigation). A learner gloss would need a long technical explanation of an old religious and burial practice, so it is better left out than simplified misleadingly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "damage%1:04:00::",
+      "batch": 27,
+      "reason": "The act sense of the noun needs \"the damaging of ...\" in modern English; every natural sentence with \"damage\" expresses the result sense, so this gloss cannot be separated from the row it is supposed to differ from. Left with the original definition.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "glad%1:20:00::",
+      "batch": 28,
+      "reason": "The lemma here is the rare noun use for a gladiolus, and the definition is botanical (genus Gladiolus, native range, sword-shaped leaves, one-sided spikes of funnel-shaped flowers, cultivation); a simple learner gloss would need technical plant terms or would lose the features that distinguish it.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "comment%2:32:01::",
+      "batch": 29,
+      "reason": "This is a technical linguistic sense about writing explanations between the lines of a text; it is rare in general reading and has no natural modern examples a learner would meet.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sick%2:29:00::",
+      "batch": 29,
+      "reason": "This verb is rare and largely dialectal in modern English, where speakers normally say 'throw up' or 'vomit'; natural example sentences are hard to write and the word would mislead learners.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sick%5:00:00:insane:00",
+      "batch": 29,
+      "reason": "This dated, literary use of the word for insanity is rare in general modern reading and is easily confused with 'twisted' or 'morbid', so natural examples would not carry the intended meaning clearly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "coast%1:17:01::",
+      "batch": 29,
+      "reason": "The noun is rare outside regional English, and every natural example would be confused with the far more common 'land beside the sea' sense, so it cannot be glossed clearly for learners.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "flight%2:41:00::",
+      "batch": 30,
+      "reason": "Rare hunting term from sporting writing; the verb is not part of general modern English and two natural example sentences cannot be written without sounding contrived.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "heat%2:37:00::",
+      "batch": 30,
+      "reason": "Rare figurative use; modern English expresses this with 'heat up' or other verbs, and bare transitive examples in this sense sound unnatural.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fell%1:06:00::",
+      "batch": 30,
+      "reason": "A specialized tailoring term for a folded, stitched seam edge; it appears almost only in sewing manuals, and no two natural modern example sentences can be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fell%2:35:02::",
+      "batch": 30,
+      "reason": "A specialized sewing verb confined to tailoring instructions; natural modern example sentences outside a sewing manual cannot be produced.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fell%5:00:00:inhumane:00",
+      "batch": 30,
+      "reason": "Literary and now rare in general reading, surviving mainly in the fixed phrase 'one fell swoop'; two natural modern sentences cannot be written without sounding archaic.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "royal%1:06:00::",
+      "batch": 31,
+      "reason": "This is a specialized nautical rigging term: explaining it plainly requires the rare word 'topgallant' and the technical notion of a royal mast, so a learner-ready gloss cannot preserve its defining features.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "waste%2:38:00::",
+      "batch": 34,
+      "reason": "The intransitive sense 'run off as waste' is rare technical usage; every natural modern sentence with 'waste' reads as the ordinary careless-use sense, so two clear examples cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "chairman%2:41:00::",
+      "batch": 34,
+      "reason": "The verb is rare and awkward in modern English; the usual verb is 'chair', so natural examples cannot contain the headword 'chairman' or an inflected form of it.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spirit%2:30:00::",
+      "batch": 35,
+      "reason": "The definition is circular ('infuse with spirit'), and the sense survives in modern English only in the uncommon phrasal verb 'spirit up'; natural simplex sentences in this sense cannot be written without sounding contrived.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cat%2:29:00::",
+      "batch": 35,
+      "reason": "The verb 'cat' in the sense 'to vomit' is dialectal slang, not standard modern English; every natural sentence would be read as the animal noun or would sound contrived, so two unambiguous examples cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "marketing%1:04:01::",
+      "batch": 35,
+      "reason": "This sense of 'marketing' as the activity of shopping at a market is archaic; in modern English the word is almost always the business sense, and the surviving British phrase 'do the marketing' means grocery shopping anywhere rather than shopping at a market, so two examples that match the definition cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "van%1:14:01::",
+      "batch": 36,
+      "reason": "This 'avant-garde' use of 'van' is archaic and literary; natural modern sentences would use 'vanguard' or 'avant-garde' instead, so two idiomatic examples cannot be written without sounding stilted, and the word in this sense is not useful learner vocabulary.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wood%1:06:01::",
+      "batch": 36,
+      "reason": "Using bare 'wood' for a woodwind instrument is specialist orchestral usage; ordinary English uses the derived word 'woodwind', and 'the woods' would be read as a group of trees, so the sense cannot be shown in two clean, unambiguous examples.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "garden%1:14:00::",
+      "batch": 36,
+      "reason": "The use of 'garden' for the plants themselves, rather than the ground, is rare and marginal; every natural sentence also reads as the plot where they grow, so the sense cannot be shown without ambiguity with the sibling sense.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "horse%2:34:00::",
+      "batch": 37,
+      "reason": "This transitive verb is archaic and absent from modern general English; it survives only in historical writing such as 'the stable horsed the coach'. Two idiomatic modern sentences cannot be written without sounding stilted, so the sense offers nothing to a learner reading current English.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "surprise%1:04:00::",
+      "batch": 38,
+      "reason": "Modern English uses this noun for the unexpected event or for the feeling it causes, not for the bare act of catching someone off guard; natural sentences would show one of those other meanings, so the act sense cannot be illustrated without strain.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dry%3:00:05::",
+      "batch": 38,
+      "reason": "This is a technical materials sense: a substance that lacks both moisture and volatile (easily evaporating) components, and the source's only example is 'dry paint'. In ordinary English it cannot be told apart from the everyday 'not wet' sense, and every natural example is also readable as that sibling sense, so the rule against ambiguous examples cannot be met without laboratory jargon about solvents and volatiles.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bay%2:32:01::",
+      "batch": 39,
+      "reason": "This is a rare, literary use of the verb, and any natural modern example would also fit the sibling dog-bark sense (bay%2:32:00::), so the two senses could not be illustrated distinctly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "classic%1:18:00::",
+      "batch": 40,
+      "reason": "This noun is rare in general reading and its boundary is hard to show: in modern English 'a classic' almost always names an admired work, so any natural example would be read as the work rather than as the artist who made it.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "steel%1:06:01::",
+      "batch": 41,
+      "reason": "Literary metonym for a sword: it is rare in modern general reading and the only natural examples sound archaic or collide with the knife-sharpener sense.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "steel%2:35:00::",
+      "batch": 41,
+      "reason": "Rare technical manufacturing verb: natural examples are dominated by the separate idiom 'steel oneself', so the covering sense cannot be shown without ambiguity.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "supporting%5:00:00:supportive:00",
+      "batch": 41,
+      "reason": "The encouraging sense is normally carried by 'supportive' in modern English; examples with 'supporting' read as errors, and the adjective's common uses ('supporting role', 'supporting evidence') are different senses.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "originally%4:02:00::",
+      "batch": 43,
+      "reason": "This rare adverbial use means 'in an inventive or original way', but modern English readers almost always take 'originally' to mean 'at first'. Any natural example sentence would be ambiguous with the far more common beginning sense, and stilted wording would be needed to force this reading, so no safe learner gloss can be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "soft%4:02:00::",
+      "batch": 43,
+      "reason": "The adverb 'soft' in this sense is rare and dialectal in modern English; natural standard sentences would use 'easily', 'gently', or 'without strain', which belong to other senses, so two natural examples cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smoke%1:19:00::",
+      "batch": 44,
+      "reason": "This is the technical physics sense of any fine-particle cloud held in a gas. In ordinary English it is indistinguishable from the burning-product sense (smoke%1:22:00::), so any natural example can be read as the burning sense and the two cannot be kept apart in examples; the gloss would also largely repeat that sibling.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "laugh%1:10:01::",
+      "batch": 44,
+      "reason": "The noun in this sense means a joke or funny remark, but modern English almost never uses 'laugh' that way; natural sentences would instead show the sound of laughing or an amusing occasion, so the sense cannot be shown with two idiomatic examples.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "laugh%1:10:02::",
+      "batch": 44,
+      "reason": "Modern English does not naturally use 'laugh' as a noun for the look on someone's face; any natural example would be read as the sound or as an amusing event, so this sense cannot be shown with two idiomatic sentences.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "high%5:00:00:malodorous:00",
+      "batch": 47,
+      "reason": "This use of 'high' for meat that has begun to spoil is archaic outside older British writing and is not current in general reading; no pair of natural modern example sentences can be written, so a gloss would teach a learner nothing they could use.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "give%2:29:11::",
+      "batch": 47,
+      "reason": "Archaic, gender-specific use that modern English no longer employs in this way; two natural modern example sentences cannot be written, and the sense is not current enough in general reading to be worth teaching.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sure%5:00:00:trustworthy:00",
+      "batch": 47,
+      "reason": "This use of the adjective for a trustworthy person is rare in modern English; natural examples would be read as the far more common sense 'certain or confident', so the two senses cannot be kept apart.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "number%2:30:00::",
+      "batch": 48,
+      "reason": "This verb sense (setting a maximum on how many are allowed) is rare and archaic in modern English; any natural-looking example would be read as the common 'count' or 'assign a number' sense, so the sense cannot be illustrated clearly with two idiomatic sentences.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%1:09:01::",
+      "batch": 48,
+      "reason": "This noun is a technical psychology term for a settled mental attitude; in general English it survives mainly in the phrase 'a set against', which means a grudge, so any natural example would be read as that narrower idea rather than as a lasting tendency to react in a certain way.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%1:11:00::",
+      "batch": 48,
+      "reason": "The bare noun is rare outside compounds such as 'sunset' and 'moonset'; a natural modern sentence would use one of those words, so this headword cannot be shown in this sense without sounding archaic.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "set%2:30:06::",
+      "batch": 48,
+      "reason": "The nautical verb for fitting a vessel with masts and sails is not used in ordinary modern English; natural sentences use \"rig\" or \"fit out\", so two natural examples containing the headword in this sense cannot be written. Left with the original definition.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "system%1:07:00::",
+      "batch": 49,
+      "reason": "This uncountable use of 'system' for orderliness or methodical behavior is rare in modern general English. Idiomatic examples instead mean a particular method or arrangement, which would collide with the other senses in this batch; two natural, unambiguous examples are not available.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "case%1:08:00::",
+      "batch": 49,
+      "reason": "This use of 'case' for a natural covering of a plant or animal organ is rare in general reading. Modern usage normally names the particular covering (such as a seed coat or a membrane); examples with bare 'case' sound unnatural or suggest a carrying container, so two idiomatic unambiguous examples are not available.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "live%5:00:00:elastic:00",
+      "batch": 49,
+      "reason": "This adjective use (springy, springing back when pressed) survives mainly in technical descriptions of rubber and sports equipment; natural everyday examples would either sound forced or be read as the common 'alive' or 'in play' senses, so two idiomatic sentences cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:10:00::",
+      "batch": 49,
+      "reason": "The bare noun for a full stop is rare in modern English: “point” after a sentence sounds nonidiomatic, while “decimal point” means another sense. Two natural examples using the headword in this sense are not available.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:07:00::",
+      "batch": 49,
+      "reason": "This noun use for the quality of narrowing to a sharp tip is rare in general English: “the point of” a cone or leaf normally means its actual tip, not the separate quality, so unambiguous examples are unavailable.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:24:04::",
+      "batch": 49,
+      "reason": "The noun for an attention-grabbing, penetrating, persuasive style of writing or speech is rare in modern general English; natural uses such as “make a point” or “have a point” mean an argument or purpose instead, so two unambiguous examples cannot be supplied.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "small%5:00:00:fine:00",
+      "batch": 50,
+      "reason": "This use of the word for fine particles is archaic and survives mainly in old fixed phrases such as 'a small rain'; it is not current in modern general English, and any natural example would be read as the ordinary 'little in size' sense.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "post%2:32:01::",
+      "batch": 52,
+      "reason": "This verb sense (publicly naming someone as shameful or infamous) survives mainly in historical and official notices. In modern English any natural sentence with 'posted' before a person or a name is read as the common online-publishing sense, so two idiomatic sentences that clearly show this sense cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%2:31:11::",
+      "batch": 53,
+      "reason": "This bookkeeping sense, checking a record against a duplicate register, is obsolete and technical. Modern English uses 'check' or 'reconcile' for this, and any sentence with 'control' used this way reads as stilted jargon, so two idiomatic modern sentences cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nice%5:00:00:fastidious:00",
+      "batch": 53,
+      "reason": "The fastidious, easily disgusted sense of \"nice\" survives only in deliberately archaic prose. Every natural modern sentence that looks like this sense is read as the pleasant or courteous sense, so two idiomatic examples cannot be written. Left with the original definition.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "check%2:36:00::",
+      "batch": 55,
+      "reason": "The verb \"check\" meaning to mark cloth or paper into squares is not used in current English; the pattern survives as the adjective \"checked\". Every natural sentence either shows the noun pattern, which is a separate sense, or the tick-mark sense, so two idiomatic examples cannot be written.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "check%2:41:02::",
+      "batch": 55,
+      "reason": "The verb \"check\" in the sense of training a child or animal to behave is archaic. Modern sentences with \"checked the child\" or \"checked the dog\" are read as restraint, which is a different sense, so two idiomatic examples cannot be written.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "check%2:32:07::",
+      "batch": 55,
+      "reason": "The verb use of \"check\" for writing a bank payment order is not current English; speakers write a check or a cheque, using the noun. Any sentence with \"checked the amount to someone\" reads as verified, so two idiomatic examples cannot be written.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "process%2:35:00::",
+      "batch": 56,
+      "reason": "The verb \"process\" in the sense of delivering a warrant or summons is legal jargon. Modern English says \"serve a summons\" or \"serve a warrant on someone\"; every sentence with \"processed the defendant\" reads as police booking or as handling a case, so two idiomatic examples cannot be written.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "break%1:04:00::",
+      "batch": 59,
+      "reason": "In current English this act is expressed with \"breakage\" or \"the breaking of something\"; the noun \"break\" in a natural sentence means a crack, an injury, or an interruption, so two idiomatic examples of the act itself cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "boy%1:18:01::",
+      "batch": 59,
+      "reason": "Offensive ethnic slur; unsuitable for a learner-facing entry and no example can be written without reproducing abuse.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "round%1:06:00::",
+      "batch": 61,
+      "reason": "The noun use for a circular or rotating mechanism has no natural modern use; speakers name the part itself (wheel, pulley, disc), so any sentence showing this sense would be artificial.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%2:40:05::",
+      "batch": 65,
+      "reason": "The sense \"cause to be admitted, of persons to an institution\" is archaic legal usage: modern English says \"commit someone to a hospital\" or \"admit someone to an institution\". The only natural sentences need a court or parish context that reads stilted in a learner example, so two idiomatic examples cannot be written.",
+      "verdict": "self-deferred"
+    },
+    {
+      "senseId": "cold%5:00:00:unoriginal:00",
+      "batch": 66,
+      "reason": "The stale, no-longer-new sense of cold survives mainly in literary phrases such as 'cold news'; natural modern sentences read as temperature or unfriendliness, so idiomatic examples cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "engineering%1:06:00::",
+      "batch": 70,
+      "reason": "The sense is the room where a ship's engine sits, and OEWN lists \"engine room\" as its synonym. Natural English always calls it the engine room; a sentence using \"engineering\" for the room reads as an error, so two idiomatic examples cannot be written with the headword.",
+      "verdict": "self-deferred"
+    }
+  ],
+  "sourceArchiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "studentValidated": false
+}

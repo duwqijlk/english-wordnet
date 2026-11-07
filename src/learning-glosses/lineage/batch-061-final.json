@@ -1,0 +1,1208 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 61,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 42,
+      "of": 50,
+      "rate": 0.84
+    },
+    "selfApproved": [
+      "follow%2:41:10::",
+      "follow%2:41:02::",
+      "round%2:29:00::",
+      "stand%1:06:01::",
+      "fall%2:41:02::",
+      "fast%5:00:00:smooth:00",
+      "fast%5:00:00:impervious:00",
+      "green%1:13:00::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "53b67076303ebf7fd5cc769b05b50d09823cf0c270aa85b1b79cc0b8576a1d6b"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "follow%2:41:10::",
+      "lemma": "follow",
+      "pos": "v",
+      "definition": "accept and follow the leadership or command or guidance of",
+      "sourceBranches": [
+        "accept and follow the leadership or command or guidance of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "accept and obey the leadership, orders, or guidance of another person",
+      "scope": "Not simply walking behind someone or copying their example, and not watching or tracking something as it develops; it is accepting their authority or advice.",
+      "examples": [
+        "The new recruits agreed to follow Captain Reyes without question.",
+        "She was suspended after refusing to follow her manager's instructions."
+      ],
+      "branchCoverage": [
+        "accept and follow the leadership or command or guidance of -> accept and obey the leadership, orders, or guidance of another person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "follow%2:41:10:: -> accept and act on someone's leadership or guidance; follow%2:41:02:: -> keep watching or thinking about something as it develops",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope omits the partition sibling: add that it is not watching or tracking something as it develops."
+    },
+    {
+      "senseId": "follow%2:41:02::",
+      "lemma": "follow",
+      "pos": "v",
+      "definition": "follow with the eyes or the mind",
+      "sourceBranches": [
+        "follow with the eyes or the mind"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "keep watching something with your eyes, or keep track of it in your mind",
+      "scope": "Not obeying instructions and not physically going after someone; it is watching them or tracking them mentally.",
+      "examples": [
+        "The child's eyes followed the kite across the sky.",
+        "I tried to follow the argument, but the speaker kept changing topics."
+      ],
+      "branchCoverage": [
+        "follow with the eyes or the mind -> keep watching something with your eyes, or keep track of it in your mind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "follow%2:41:10:: -> accept and act on someone's leadership or guidance; follow%2:41:02:: -> keep watching or thinking about something as it develops",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'As it moves or develops' is an added restriction; following with the eyes or mind need not involve change. Drop it."
+    },
+    {
+      "senseId": "official%5:00:00:regular:00",
+      "lemma": "official",
+      "pos": "a",
+      "definition": "conforming to set usage, procedure, or discipline",
+      "sourceBranches": [
+        "conforming to set usage, procedure, or discipline"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "carried out in the accepted way, according to established customs, standard procedures, or required orderly conduct",
+      "scope": "Not meaning approved by a government or holding a post; it describes the correct, rule-bound way something is done.",
+      "examples": [
+        "The committee handled the complaint through the official procedure, exactly as the manual requires.",
+        "The lab ran every test in the official way, timing and recording each step."
+      ],
+      "branchCoverage": [
+        "conforming to set usage, procedure, or discipline -> carried out in the accepted way, according to established customs, standard procedures, or required orderly conduct"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "production%1:04:03::",
+      "lemma": "production",
+      "pos": "n",
+      "definition": "the creation of value or wealth by producing goods and services",
+      "sourceBranches": [
+        "the creation of value or wealth by producing goods and services"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the making of goods and services that creates value or wealth",
+      "scope": "Not one manufactured item, and not a stage show; it is the economic activity of creating value.",
+      "examples": [
+        "New factories raised the production of goods, creating jobs and wealth across the region.",
+        "The report measures the production of goods and services in farming, transport, and banking."
+      ],
+      "branchCoverage": [
+        "the creation of value or wealth by producing goods and services -> the making of goods and services that creates value or wealth"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "production%1:04:03:: -> the making of goods and services that create wealth; production%1:10:01:: -> a show or display made to look more elaborate than it is",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "production%1:10:01::",
+      "lemma": "production",
+      "pos": "n",
+      "definition": "a display that is exaggerated or unduly complicated",
+      "sourceBranches": [
+        "a display that is exaggerated or unduly complicated"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a show or display that is made to look far grander or more complex than necessary",
+      "scope": "Not the economic making of goods, and not an ordinary play; it is an overdone spectacle.",
+      "examples": [
+        "The awards ceremony was a production, with lasers, smoke, and a forty-piece orchestra.",
+        "Their small wedding turned into a production, complete with rehearsed speeches and a film crew."
+      ],
+      "branchCoverage": [
+        "a display that is exaggerated or unduly complicated -> a show or display that is made to look far grander or more complex than necessary"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "production%1:04:03:: -> the making of goods and services that create wealth; production%1:10:01:: -> a show or display made to look more elaborate than it is",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rate%1:24:00::",
+      "lemma": "rate",
+      "pos": "n",
+      "definition": "a quantity or amount or measure considered as a proportion of another quantity or amount or measure",
+      "sourceBranches": [
+        "a quantity or amount or measure considered as a proportion of another quantity or amount or measure"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a number, amount, or measure expressed as a share of another number, amount, or measure",
+      "scope": "Not a total sum by itself and not a charge for a service; it compares one quantity with another.",
+      "examples": [
+        "The unemployment rate compares jobless people with the whole workforce.",
+        "Doctors tracked the infection rate as a share of all patients in the ward."
+      ],
+      "branchCoverage": [
+        "a quantity or amount or measure considered as a proportion of another quantity or amount or measure -> a number, amount, or measure expressed as a share of another number, amount, or measure"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reading%1:10:02::",
+      "lemma": "reading",
+      "pos": "n",
+      "definition": "a public instance of reciting or repeating (from memory) something prepared in advance",
+      "sourceBranches": [
+        "a public instance of reciting or repeating (from memory) something prepared in advance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a public performance in which someone recites something learned by heart beforehand",
+      "scope": "Not the silent act of looking at written words, and not an instrument measurement; it is a spoken performance from memory.",
+      "examples": [
+        "Her reading of the famous speech was delivered entirely from memory.",
+        "At the festival, his reading of the epic poem was given without notes."
+      ],
+      "branchCoverage": [
+        "a public instance of reciting or repeating (from memory) something prepared in advance -> a public performance in which someone recites something learned by heart beforehand"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reading%1:10:02:: -> a public performance of something learned by heart; reading%1:04:02:: -> the act of measuring with meters or similar instruments",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reading%1:04:02::",
+      "lemma": "reading",
+      "pos": "n",
+      "definition": "the act of measuring with meters or similar instruments",
+      "sourceBranches": [
+        "the act of measuring with meters or similar instruments"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of measuring something with meters or similar instruments",
+      "scope": "Not a public recital and not the silent reading of a book; it is taking a measurement from an instrument.",
+      "examples": [
+        "The engineer took a reading from the pressure gauge every hour.",
+        "The thermometer reading showed that the tank had cooled to minus ten."
+      ],
+      "branchCoverage": [
+        "the act of measuring with meters or similar instruments -> the act of measuring something with meters or similar instruments"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reading%1:10:02:: -> a public performance of something learned by heart; reading%1:04:02:: -> the act of measuring with meters or similar instruments",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "round%1:06:00::",
+      "lemma": "round",
+      "pos": "n",
+      "definition": "any circular or rotating mechanism",
+      "sourceBranches": [
+        "any circular or rotating mechanism"
+      ],
+      "decision": "defer",
+      "simpleMeaning": "",
+      "scope": "",
+      "examples": [],
+      "branchCoverage": [
+        "any circular or rotating mechanism -> deferred: modern English names the part (wheel, pulley, disc) rather than using this noun"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "round%1:06:00:: -> any circular or turning mechanism; round%1:10:00:: -> a song in which voices enter one after another; round%2:29:00:: -> become round, plump, or shapely; round%2:30:03:: -> express a number as a round number",
+      "deferReason": "The noun use for a circular or rotating mechanism has no natural modern use; speakers name the part itself (wheel, pulley, disc), so any sentence showing this sense would be artificial.",
+      "reason": "The noun use for a circular or rotating mechanism has no natural modern use; speakers name the part itself (wheel, pulley, disc), so any sentence showing this sense would be artificial.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "round%1:10:00::",
+      "lemma": "round",
+      "pos": "n",
+      "definition": "a partsong in which voices follow each other; one voice starts and others join in one after another until all are singing different parts of the song at the same time",
+      "sourceBranches": [
+        "a partsong in which voices follow each other",
+        "one voice starts and others join in one after another until all are singing different parts of the song at the same time"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a song for several voices in which each singer starts the same tune a little later, so the parts overlap",
+      "scope": "Not a rotating machine part and not one stage of a game; it is a piece of music for overlapping voices.",
+      "examples": [
+        "The choir sang a round, each section entering two beats after the one before.",
+        "At camp we learned a round in which the second group comes in on the second line."
+      ],
+      "branchCoverage": [
+        "a partsong in which voices follow each other -> a song for several voices in which each singer starts the same tune a little later",
+        "one voice starts and others join in one after another until all are singing different parts of the song at the same time -> so the parts overlap"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "round%1:06:00:: -> any circular or turning mechanism; round%1:10:00:: -> a song in which voices enter one after another; round%2:29:00:: -> become round, plump, or shapely; round%2:30:03:: -> express a number as a round number",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "round%2:29:00::",
+      "lemma": "round",
+      "pos": "v",
+      "definition": "become round, plump, or shapely",
+      "sourceBranches": [
+        "become round, plump, or shapely"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to become fuller, softer, or more attractively curved in shape",
+      "scope": "Not making a number simpler and not turning physically; it describes a body or form filling out.",
+      "examples": [
+        "Her cheeks rounded as she regained the weight she had lost.",
+        "As the fruit ripened, it rounded and softened."
+      ],
+      "branchCoverage": [
+        "become round, plump, or shapely -> to become fuller, softer, or more attractively curved in shape"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "round%1:06:00:: -> any circular or turning mechanism; round%1:10:00:: -> a song in which voices enter one after another; round%2:29:00:: -> become round, plump, or shapely; round%2:30:03:: -> express a number as a round number",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Source allows any of round, plump, or shapely; 'fuller, softer, and' requires all three. Use 'or'."
+    },
+    {
+      "senseId": "round%2:30:03::",
+      "lemma": "round",
+      "pos": "v",
+      "definition": "express as a round number",
+      "sourceBranches": [
+        "express as a round number"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to give a number as a nearby simpler figure, often ending in zero",
+      "scope": "Not an exact calculation and not a shape becoming curved; it means stating a figure in a simpler approximate form.",
+      "examples": [
+        "The bill came to $47.80, so we rounded it to $48.",
+        "Officials rounded the population figure to the nearest thousand."
+      ],
+      "branchCoverage": [
+        "express as a round number -> to give a number as a nearby simpler figure, often ending in zero"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "round%1:06:00:: -> any circular or turning mechanism; round%1:10:00:: -> a song in which voices enter one after another; round%2:29:00:: -> become round, plump, or shapely; round%2:30:03:: -> express a number as a round number",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stand%1:06:01::",
+      "lemma": "stand",
+      "pos": "n",
+      "definition": "tiered seats consisting of a structure (often made of wood) where people can sit to watch an event (game or parade)",
+      "sourceBranches": [
+        "tiered seats consisting of a structure (often made of wood) where people can sit to watch an event (game or parade)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "rows of seats rising in steps, often made of wood in a built structure, where people sit to watch an event such as a game or parade",
+      "scope": "Not a small table or a position on an issue; it is the tiered seating at a sports ground or along a parade route.",
+      "examples": [
+        "We bought tickets for the stand behind the goal.",
+        "Crowds filled the stands along the parade route."
+      ],
+      "branchCoverage": [
+        "tiered seats consisting of a structure (often made of wood) where people can sit to watch an event (game or parade) -> rows of seats rising in steps, often made of wood in a built structure, where people sit to watch an event such as a game or parade"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stand%1:06:01:: -> tiered seats where people watch a game or show; stand%2:42:00:: -> hold your position and stay upright or steadfast; stand%1:04:01:: -> a stop on a tour where a group gives a performance; stand%2:42:01:: -> be a particular height; stand%2:31:01:: -> have or keep a position on an issue",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'A game or parade' narrows 'an event'; keep the general word, e.g. 'an event such as a game or parade'."
+    },
+    {
+      "senseId": "stand%2:42:00::",
+      "lemma": "stand",
+      "pos": "v",
+      "definition": "hold one's ground; maintain a position; be steadfast or upright",
+      "sourceBranches": [
+        "hold one's ground",
+        "maintain a position",
+        "be steadfast or upright"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Keep your ground and refuse to give way, remain firm in place, or stay upright rather than falling.",
+      "scope": "This is about holding firm on the spot or staying erect, not about measuring a certain height, taking a public side in a dispute, or the seating area at a stadium.",
+      "examples": [
+        "The defenders stood their ground for six hours under heavy fire.",
+        "The ancient pillars still stand upright, though the roof has gone."
+      ],
+      "branchCoverage": [
+        "hold one's ground -> Keep your ground and refuse to give way",
+        "maintain a position -> remain firm in place",
+        "be steadfast or upright -> remain firm ... stay upright rather than falling"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stand%1:06:01:: -> tiered seats where people watch a game or show; stand%2:42:00:: -> hold your position and stay upright or steadfast; stand%1:04:01:: -> a stop on a tour where a group gives a performance; stand%2:42:01:: -> be a particular height; stand%2:31:01:: -> have or keep a position on an issue",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stand%1:04:01::",
+      "lemma": "stand",
+      "pos": "n",
+      "definition": "a stop made by a touring musical or theatrical group to give a performance",
+      "sourceBranches": [
+        "a stop made by a touring musical or theatrical group to give a performance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "One of the places a traveling music or drama group visits to put on a show.",
+      "scope": "This is a tour date for performers, not the seating area at a stadium and not a firm refusal or position.",
+      "examples": [
+        "The band added a second stand in Chicago after the first show sold out.",
+        "The theater company's summer stand in Brighton lasted three weeks."
+      ],
+      "branchCoverage": [
+        "a stop made by a touring musical or theatrical group to give a performance -> One of the places a traveling music or drama group visits to put on a show"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stand%1:06:01:: -> tiered seats where people watch a game or show; stand%2:42:00:: -> hold your position and stay upright or steadfast; stand%1:04:01:: -> a stop on a tour where a group gives a performance; stand%2:42:01:: -> be a particular height; stand%2:31:01:: -> have or keep a position on an issue",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stand%2:42:01::",
+      "lemma": "stand",
+      "pos": "v",
+      "definition": "be tall; have a height of; copula",
+      "sourceBranches": [
+        "be tall",
+        "have a height of",
+        "copula"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Be of a certain height, measured from the ground, as when a person is said to be six feet tall.",
+      "scope": "This is only about measured height, not about staying upright, refusing to yield, or holding an opinion on a question.",
+      "examples": [
+        "The oak tree stands over thirty meters tall.",
+        "He stands just under six feet in his boots."
+      ],
+      "branchCoverage": [
+        "be tall -> as when a person is said to be six feet tall",
+        "have a height of -> Be of a certain height, measured from the ground",
+        "copula -> linking use: 'is said to be six feet tall'"
+      ],
+      "labelBranches": [
+        "copula -> grammar label: the verb links the subject to a height phrase (for example 'six feet tall') rather than naming an action"
+      ],
+      "lemmaPartition": "stand%1:06:01:: -> tiered seats where people watch a game or show; stand%2:42:00:: -> hold your position and stay upright or steadfast; stand%1:04:01:: -> a stop on a tour where a group gives a performance; stand%2:42:01:: -> be a particular height; stand%2:31:01:: -> have or keep a position on an issue",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stand%2:31:01::",
+      "lemma": "stand",
+      "pos": "v",
+      "definition": "have or maintain a position or stand on an issue",
+      "sourceBranches": [
+        "have or maintain a position or stand on an issue"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Hold a view or keep a firm opinion about a public question or disputed matter.",
+      "scope": "This is the opinion someone holds on a question or dispute, not physical posture, measured height, or holding firm under attack.",
+      "examples": [
+        "Where do you stand on the proposal to close the library?",
+        "The council has stood against the rezoning plan for years."
+      ],
+      "branchCoverage": [
+        "have or maintain a position or stand on an issue -> Hold a view or keep a firm opinion about a public question or disputed matter"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stand%1:06:01:: -> tiered seats where people watch a game or show; stand%2:42:00:: -> hold your position and stay upright or steadfast; stand%1:04:01:: -> a stop on a tour where a group gives a performance; stand%2:42:01:: -> be a particular height; stand%2:31:01:: -> have or keep a position on an issue",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stuff%2:30:12::",
+      "lemma": "stuff",
+      "pos": "v",
+      "definition": "treat with grease, fill, and prepare for mounting",
+      "sourceBranches": [
+        "treat with grease, fill, and prepare for mounting"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Coat a dead animal's skin with grease, fill it out, and get it ready to be fixed in a lifelike pose for display.",
+      "scope": "This is the taxidermy process for animal skins, not filling a container, eating too much, or the material inside something.",
+      "examples": [
+        "The museum's taxidermist stuffed the fox and mounted it on a driftwood base.",
+        "He learned to stuff birds on a course in preserving specimens."
+      ],
+      "branchCoverage": [
+        "treat with grease, fill, and prepare for mounting -> Coat a dead animal's skin with grease, fill it out, and get it ready to be fixed in a lifelike pose for display"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stuff%2:30:12:: -> treat an animal's skin with grease and fill it for mounting; stuff%2:34:00:: -> eat far too much; stuff%1:09:00:: -> the most important or characteristic part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stuff%2:34:00::",
+      "lemma": "stuff",
+      "pos": "v",
+      "definition": "overeat or eat immodestly; make a pig of oneself",
+      "sourceBranches": [
+        "overeat or eat immodestly",
+        "make a pig of oneself"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Eat far more than you need, greedily and with no restraint.",
+      "scope": "This is about eating too much, not about filling an object, preserving an animal's skin, or the material something is made of.",
+      "examples": [
+        "We stuffed ourselves on pizza and cake at the party.",
+        "Stop stuffing your face and leave some for the rest of us."
+      ],
+      "branchCoverage": [
+        "overeat or eat immodestly -> Eat far more than you need, greedily",
+        "make a pig of oneself -> greedily and with no restraint"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stuff%2:30:12:: -> treat an animal's skin with grease and fill it for mounting; stuff%2:34:00:: -> eat far too much; stuff%1:09:00:: -> the most important or characteristic part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stuff%1:09:00::",
+      "lemma": "stuff",
+      "pos": "n",
+      "definition": "a critically important or characteristic component",
+      "sourceBranches": [
+        "a critically important or characteristic component"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The most essential or typical part of something, the element that matters most or defines it.",
+      "scope": "This is the key part or defining quality of something, not physical material, personal belongings, or an activity in general.",
+      "examples": [
+        "The real stuff of good journalism is patient checking of facts.",
+        "Courage and patience are the stuff of lasting friendships."
+      ],
+      "branchCoverage": [
+        "a critically important or characteristic component -> The most essential or typical part of something, the element that matters most or defines it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stuff%2:30:12:: -> treat an animal's skin with grease and fill it for mounting; stuff%2:34:00:: -> eat far too much; stuff%1:09:00:: -> the most important or characteristic part of something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%1:06:00::",
+      "lemma": "blue",
+      "pos": "n",
+      "definition": "the sodium salt of amobarbital that is used as a barbiturate; used as a sedative and a hypnotic",
+      "sourceBranches": [
+        "the sodium salt of amobarbital that is used as a barbiturate",
+        "used as a sedative and a hypnotic"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A calming, sleep-inducing drug from the barbiturate group, specifically the sodium salt form of amobarbital.",
+      "scope": "This is the sedative drug, not the color, the laundry whitener, the butterfly, or high social rank.",
+      "examples": [
+        "Doctors once handed out blues for anxiety and sleeplessness.",
+        "In the 1960s, blues were sold on the street as downers."
+      ],
+      "branchCoverage": [
+        "the sodium salt of amobarbital that is used as a barbiturate -> the sodium salt form of amobarbital ... from the barbiturate group",
+        "used as a sedative and a hypnotic -> A calming, sleep-inducing drug"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue%1:06:00:: -> a barbiturate drug, the sodium salt of amobarbital; blue%1:27:00:: -> a substance used to whiten laundry or hair; blue%5:00:00:noble:02 -> noble or aristocratic in character; blue%1:05:00:: -> a small butterfly of the lycaenid family; blue%5:00:00:nonindulgent:00 -> morally strict and severe; blue%5:00:02:dirty:02 -> full of swearing or cursing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%1:27:00::",
+      "lemma": "blue",
+      "pos": "n",
+      "definition": "used to whiten laundry or hair or give it a bluish tinge",
+      "sourceBranches": [
+        "used to whiten laundry or hair or give it a bluish tinge"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A substance added to laundry or hair to make it whiter or lend it a faint sky-colored tint.",
+      "scope": "This is the whitening product, not the color itself, the drug, the butterfly, or noble rank.",
+      "examples": [
+        "She added a little blue to the rinse water to brighten the sheets.",
+        "Laundry blue was once a staple of every household wash day."
+      ],
+      "branchCoverage": [
+        "used to whiten laundry or hair or give it a bluish tinge -> A substance added to laundry or hair to make it whiter or lend it a faint sky-colored tint"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue%1:06:00:: -> a barbiturate drug, the sodium salt of amobarbital; blue%1:27:00:: -> a substance used to whiten laundry or hair; blue%5:00:00:noble:02 -> noble or aristocratic in character; blue%1:05:00:: -> a small butterfly of the lycaenid family; blue%5:00:00:nonindulgent:00 -> morally strict and severe; blue%5:00:02:dirty:02 -> full of swearing or cursing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%5:00:00:noble:02",
+      "lemma": "blue",
+      "pos": "a",
+      "definition": "belonging to or characteristic of the nobility or aristocracy",
+      "sourceBranches": [
+        "belonging to or characteristic of the nobility or aristocracy"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Belonging to, or typical of, families of noble or upper-class rank.",
+      "scope": "This describes noble birth or aristocratic style, not the color, the drug, the butterfly, or strict morals.",
+      "examples": [
+        "She married into a blue-blooded family with a country estate.",
+        "The club's blue-blooded members had little time for new money."
+      ],
+      "branchCoverage": [
+        "belonging to or characteristic of the nobility or aristocracy -> Belonging to, or typical of, families of noble or upper-class rank"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue%1:06:00:: -> a barbiturate drug, the sodium salt of amobarbital; blue%1:27:00:: -> a substance used to whiten laundry or hair; blue%5:00:00:noble:02 -> noble or aristocratic in character; blue%1:05:00:: -> a small butterfly of the lycaenid family; blue%5:00:00:nonindulgent:00 -> morally strict and severe; blue%5:00:02:dirty:02 -> full of swearing or cursing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%1:05:00::",
+      "lemma": "blue",
+      "pos": "n",
+      "definition": "any of numerous small butterflies of the family Lycaenidae",
+      "sourceBranches": [
+        "any of numerous small butterflies of the family Lycaenidae"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Any of many small butterflies that make up the family Lycaenidae.",
+      "scope": "This is the insect, not the color, the drug, the laundry whitener, or noble rank.",
+      "examples": [
+        "A holly blue fluttered along the garden hedge.",
+        "The meadow is home to several rare blues, including the silver-studded kind."
+      ],
+      "branchCoverage": [
+        "any of numerous small butterflies of the family Lycaenidae -> Any of many small butterflies that make up the family Lycaenidae"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue%1:06:00:: -> a barbiturate drug, the sodium salt of amobarbital; blue%1:27:00:: -> a substance used to whiten laundry or hair; blue%5:00:00:noble:02 -> noble or aristocratic in character; blue%1:05:00:: -> a small butterfly of the lycaenid family; blue%5:00:00:nonindulgent:00 -> morally strict and severe; blue%5:00:02:dirty:02 -> full of swearing or cursing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%5:00:00:nonindulgent:00",
+      "lemma": "blue",
+      "pos": "a",
+      "definition": "morally rigorous and strict",
+      "sourceBranches": [
+        "morally rigorous and strict"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Very strict and severe about moral rules, allowing no relaxation of standards.",
+      "scope": "This describes strict moral standards, not the color, the drug, high social rank, or coarse language.",
+      "examples": [
+        "The state's blue laws still keep most shops shut on Sunday mornings.",
+        "A blue-nosed headmaster banned dancing and cards at the school."
+      ],
+      "branchCoverage": [
+        "morally rigorous and strict -> Very strict and severe about moral rules, allowing no relaxation of standards"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue%1:06:00:: -> a barbiturate drug, the sodium salt of amobarbital; blue%1:27:00:: -> a substance used to whiten laundry or hair; blue%5:00:00:noble:02 -> noble or aristocratic in character; blue%1:05:00:: -> a small butterfly of the lycaenid family; blue%5:00:00:nonindulgent:00 -> morally strict and severe; blue%5:00:02:dirty:02 -> full of swearing or cursing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%5:00:02:dirty:02",
+      "lemma": "blue",
+      "pos": "a",
+      "definition": "characterized by profanity or cursing",
+      "sourceBranches": [
+        "characterized by profanity or cursing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Full of swearing, cursing, or rude language.",
+      "scope": "This describes language full of swearing, not the color, sadness, strict morals, or noble rank.",
+      "examples": [
+        "The comedian's blue routine drove half the audience out.",
+        "He told a blue joke that made his grandmother blush."
+      ],
+      "branchCoverage": [
+        "characterized by profanity or cursing -> Full of swearing, cursing, or rude language"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue%1:06:00:: -> a barbiturate drug, the sodium salt of amobarbital; blue%1:27:00:: -> a substance used to whiten laundry or hair; blue%5:00:00:noble:02 -> noble or aristocratic in character; blue%1:05:00:: -> a small butterfly of the lycaenid family; blue%5:00:00:nonindulgent:00 -> morally strict and severe; blue%5:00:02:dirty:02 -> full of swearing or cursing",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drive%2:41:02::",
+      "lemma": "drive",
+      "pos": "v",
+      "definition": "to compel or force or urge relentlessly or exert coercive pressure on, or motivate strongly",
+      "sourceBranches": [
+        "to compel or force or urge relentlessly or exert coercive pressure on, or motivate strongly"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make someone act through force, endless urging, pressure they cannot resist, or strong encouragement.",
+      "scope": "Not a mere suggestion or invitation; this sense involves unrelenting pressure or strong motivation.",
+      "examples": [
+        "Hunger drove the settlers to eat the last of their seed grain.",
+        "Her coach drove the team through six hours of drills without a single break."
+      ],
+      "branchCoverage": [
+        "to compel or force or urge relentlessly or exert coercive pressure on, or motivate strongly -> to make someone act through force, endless urging, pressure they cannot resist, or strong encouragement"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drive%2:41:02:: -> force or urge someone relentlessly toward something; drive%1:04:03:: -> a golf stroke that hits the ball off a tee; drive%1:26:00:: -> a strong bodily need or desire; drive%2:35:01:: -> make something move fast by hitting or throwing it; drive%2:42:00:: -> behave in a certain way when operated; drive%2:41:13:: -> work as the person who operates a vehicle",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drive%1:04:03::",
+      "lemma": "drive",
+      "pos": "n",
+      "definition": "hitting a golf ball off of a tee with a driver",
+      "sourceBranches": [
+        "hitting a golf ball off of a tee with a driver"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of striking a golf ball from a small peg, called a tee, with a long club used for long shots.",
+      "scope": "Not a putt or a short approach; this sense is only the long stroke from a tee with a long club.",
+      "examples": [
+        "She spent an hour at the practice range working on her drive.",
+        "His drive on the eighteenth hole landed just short of the green."
+      ],
+      "branchCoverage": [
+        "hitting a golf ball off of a tee with a driver -> the act of striking a golf ball from a small peg, called a tee, with a long club used for long shots"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drive%2:41:02:: -> force or urge someone relentlessly toward something; drive%1:04:03:: -> a golf stroke that hits the ball off a tee; drive%1:26:00:: -> a strong bodily need or desire; drive%2:35:01:: -> make something move fast by hitting or throwing it; drive%2:42:00:: -> behave in a certain way when operated; drive%2:41:13:: -> work as the person who operates a vehicle",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drive%1:26:00::",
+      "lemma": "drive",
+      "pos": "n",
+      "definition": "a physiological state corresponding to a strong need or desire",
+      "sourceBranches": [
+        "a physiological state corresponding to a strong need or desire"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a bodily condition that matches a powerful need or want.",
+      "scope": "Not a passing wish or a plan; this sense is a bodily condition tied to a strong need.",
+      "examples": [
+        "After three days without water, the hikers felt an overpowering drive to find a stream.",
+        "Psychologists study how the drive for food shapes animal behavior."
+      ],
+      "branchCoverage": [
+        "a physiological state corresponding to a strong need or desire -> a bodily condition that matches a powerful need or want"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drive%2:41:02:: -> force or urge someone relentlessly toward something; drive%1:04:03:: -> a golf stroke that hits the ball off a tee; drive%1:26:00:: -> a strong bodily need or desire; drive%2:35:01:: -> make something move fast by hitting or throwing it; drive%2:42:00:: -> behave in a certain way when operated; drive%2:41:13:: -> work as the person who operates a vehicle",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drive%2:35:01::",
+      "lemma": "drive",
+      "pos": "v",
+      "definition": "cause to move rapidly by striking or throwing with force",
+      "sourceBranches": [
+        "cause to move rapidly by striking or throwing with force"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to send something moving fast by hitting it hard or throwing it with great force.",
+      "scope": "Not carrying or pushing something along; this sense needs a hard hit or a forceful throw.",
+      "examples": [
+        "She drove the nail into the plank with two hard blows of the hammer.",
+        "He drove the ball over the fence with one swing."
+      ],
+      "branchCoverage": [
+        "cause to move rapidly by striking or throwing with force -> to send something moving fast by hitting it hard or throwing it with great force"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drive%2:41:02:: -> force or urge someone relentlessly toward something; drive%1:04:03:: -> a golf stroke that hits the ball off a tee; drive%1:26:00:: -> a strong bodily need or desire; drive%2:35:01:: -> make something move fast by hitting or throwing it; drive%2:42:00:: -> behave in a certain way when operated; drive%2:41:13:: -> work as the person who operates a vehicle",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drive%2:42:00::",
+      "lemma": "drive",
+      "pos": "v",
+      "definition": "have certain properties when driven",
+      "sourceBranches": [
+        "have certain properties when driven"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to show a particular quality of movement or handling when someone operates it.",
+      "scope": "Not the act of operating a vehicle; this sense describes how the vehicle itself behaves.",
+      "examples": [
+        "This old sedan drives smoothly even on rough gravel roads.",
+        "The rental van drives like a much smaller vehicle."
+      ],
+      "branchCoverage": [
+        "have certain properties when driven -> to show a particular quality of movement or handling when someone operates it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drive%2:41:02:: -> force or urge someone relentlessly toward something; drive%1:04:03:: -> a golf stroke that hits the ball off a tee; drive%1:26:00:: -> a strong bodily need or desire; drive%2:35:01:: -> make something move fast by hitting or throwing it; drive%2:42:00:: -> behave in a certain way when operated; drive%2:41:13:: -> work as the person who operates a vehicle",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drive%2:41:13::",
+      "lemma": "drive",
+      "pos": "v",
+      "definition": "work as a driver",
+      "sourceBranches": [
+        "work as a driver"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to have a job operating a vehicle.",
+      "scope": "Not operating a vehicle for personal travel; this sense means doing it as a paid job.",
+      "examples": [
+        "He drove a taxi for twelve years before opening his own shop.",
+        "She drives a school bus in the mornings and takes classes at night."
+      ],
+      "branchCoverage": [
+        "work as a driver -> to have a job operating a vehicle"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drive%2:41:02:: -> force or urge someone relentlessly toward something; drive%1:04:03:: -> a golf stroke that hits the ball off a tee; drive%1:26:00:: -> a strong bodily need or desire; drive%2:35:01:: -> make something move fast by hitting or throwing it; drive%2:42:00:: -> behave in a certain way when operated; drive%2:41:13:: -> work as the person who operates a vehicle",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%1:04:03::",
+      "lemma": "fall",
+      "pos": "n",
+      "definition": "a lapse into sin; a loss of innocence or of chastity",
+      "sourceBranches": [
+        "a lapse into sin",
+        "a loss of innocence or of chastity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a slip into sin, or the loss of innocence or of sexual purity.",
+      "scope": "Not a physical tumble or a drop in amount; this sense is moral or sexual.",
+      "examples": [
+        "The preacher warned the congregation about the fall of a once-devout man.",
+        "Her novel explores a young woman's fall from innocence."
+      ],
+      "branchCoverage": [
+        "a lapse into sin -> a slip into sin",
+        "a loss of innocence or of chastity -> the loss of innocence or of sexual purity"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%1:07:00::",
+      "lemma": "fall",
+      "pos": "n",
+      "definition": "a sudden sharp decrease in some quantity",
+      "sourceBranches": [
+        "a sudden sharp decrease in some quantity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a quick and steep drop in an amount.",
+      "scope": "Not a decline in strength or importance; this sense concerns an amount or quantity.",
+      "examples": [
+        "The company reported a sharp fall in quarterly profits.",
+        "A sudden fall in temperature killed the young plants."
+      ],
+      "branchCoverage": [
+        "a sudden sharp decrease in some quantity -> a quick and steep drop in an amount"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%1:11:00::",
+      "lemma": "fall",
+      "pos": "n",
+      "definition": "a free and rapid descent by the force of gravity",
+      "sourceBranches": [
+        "a free and rapid descent by the force of gravity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a fast, unhindered drop downward caused by gravity.",
+      "scope": "Not a controlled landing or a jump; this sense is an uncontrolled drop under gravity.",
+      "examples": [
+        "The apple's fall from the branch took less than a second.",
+        "He survived a fall of thirty feet from the scaffolding."
+      ],
+      "branchCoverage": [
+        "a free and rapid descent by the force of gravity -> a fast, unhindered drop downward caused by gravity"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%1:11:01::",
+      "lemma": "fall",
+      "pos": "n",
+      "definition": "a sudden decline in strength or number or importance",
+      "sourceBranches": [
+        "a sudden decline in strength or number or importance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a quick loss of power, size, or standing.",
+      "scope": "Not a drop in a measured amount; this sense covers strength, numbers, or standing.",
+      "examples": [
+        "The fall of the dictator came after weeks of protests.",
+        "The team's fall from first place disappointed its fans."
+      ],
+      "branchCoverage": [
+        "a sudden decline in strength or number or importance -> a quick loss of power, size, or standing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%1:11:02::",
+      "lemma": "fall",
+      "pos": "n",
+      "definition": "when a wrestler's shoulders are forced to the mat",
+      "sourceBranches": [
+        "when a wrestler's shoulders are forced to the mat"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the moment a wrestler is pinned with both shoulders held against the mat.",
+      "scope": "Not a throw or a takedown; this sense is the pinning of both shoulders to the mat.",
+      "examples": [
+        "He scored a fall in the second period and won the match.",
+        "The referee slapped the mat to signal the fall."
+      ],
+      "branchCoverage": [
+        "when a wrestler's shoulders are forced to the mat -> the moment a wrestler is pinned with both shoulders held against the mat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%2:30:11::",
+      "lemma": "fall",
+      "pos": "v",
+      "definition": "assume a disappointed or sad expression",
+      "sourceBranches": [
+        "assume a disappointed or sad expression"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to let the face take on a look of sadness or disappointment.",
+      "scope": "Not becoming sad in mood; this sense is only the change in facial expression.",
+      "examples": [
+        "Her face fell when she heard the test results.",
+        "The children's faces fell when the trip was canceled."
+      ],
+      "branchCoverage": [
+        "assume a disappointed or sad expression -> to let the face take on a look of sadness or disappointment"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%2:41:01::",
+      "lemma": "fall",
+      "pos": "v",
+      "definition": "yield to temptation or sin",
+      "sourceBranches": [
+        "yield to temptation or sin"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To give in to a strong urge to do something wrong, or to commit an act that breaks moral or religious law.",
+      "scope": "This is about moral or religious wrongdoing; it is not a physical drop, a decrease in amount, or a defeat.",
+      "examples": [
+        "The preacher warned that even good people can fall into sin.",
+        "He had sworn off gambling, yet by Friday he had fallen back into his old sin."
+      ],
+      "branchCoverage": [
+        "yield to temptation or sin -> give in to a strong urge to do something wrong, or to commit an act that breaks moral or religious law"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%2:41:02::",
+      "lemma": "fall",
+      "pos": "v",
+      "definition": "suffer defeat, failure, or ruin",
+      "sourceBranches": [
+        "suffer defeat, failure, or ruin"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to be defeated, to fail, or to have everything ruined",
+      "scope": "This is about losing a struggle or being destroyed; it is not a physical drop, a drop in amount, or a moral lapse.",
+      "examples": [
+        "The empire fell after decades of weak rulers and endless wars.",
+        "Their team fell to the champions in the last minute of the final."
+      ],
+      "branchCoverage": [
+        "suffer defeat, failure, or ruin -> to be defeated, to fail, or to have everything ruined"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'in battle or competition': an added setting; 'defeated' alone covers the branch."
+    },
+    {
+      "senseId": "fall%2:42:04::",
+      "lemma": "fall",
+      "pos": "v",
+      "definition": "touch or seem as if touching visually or audibly",
+      "sourceBranches": [
+        "touch or seem as if touching visually or audibly"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Of light or sound: to reach something and appear to touch it when seen or heard.",
+      "scope": "This describes light or sound seeming to touch something; it is not a physical drop, a drop in amount, or a defeat.",
+      "examples": [
+        "A narrow band of sunlight fell across the kitchen table and seemed to touch the cups.",
+        "The first notes of the song fell on the silent crowd and hushed them."
+      ],
+      "branchCoverage": [
+        "touch or seem as if touching visually or audibly -> reach something and appear to touch it when seen or heard"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fall%1:04:03:: -> a lapse into sin or loss of innocence; fall%1:07:00:: -> a sudden sharp decrease in amount; fall%1:11:00:: -> a free and rapid drop under gravity; fall%1:11:01:: -> a sudden decline in strength, number, or importance; fall%1:11:02:: -> a wrestler being forced onto the mat; fall%2:30:11:: -> take on a sad or disappointed expression; fall%2:41:01:: -> give in to temptation or sin; fall%2:41:02:: -> suffer defeat, failure, or ruin; fall%2:42:04:: -> seem to touch something visually or audibly",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fast%5:00:00:causative:00",
+      "lemma": "fast",
+      "pos": "a",
+      "definition": "(of a photographic lens or emulsion) causing a shortening of exposure time",
+      "sourceBranches": [
+        "(of a photographic lens or emulsion) causing a shortening of exposure time"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Of a camera lens or light-sensitive film: allowing a picture to be taken in less time.",
+      "scope": "This describes camera equipment that shortens exposure time; it is not about speed of movement, a smooth surface, or loyalty.",
+      "examples": [
+        "The photographer chose a fast lens so she could shoot indoors without a flash.",
+        "For the night game, he loaded fast film to catch the action."
+      ],
+      "branchCoverage": [
+        "(of a photographic lens or emulsion) causing a shortening of exposure time -> Of a camera lens or light-sensitive film: allowing a picture to be taken in less time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fast%5:00:00:causative:00 -> of a lens or film, making exposure time shorter; fast%5:00:00:smooth:00 -> of a surface, allowing things to move quickly over it; fast%5:00:00:faithful:00 -> loyal and unwavering to a friend or promise; fast%5:00:00:immoral:00 -> not held back by moral rules; fast%5:00:00:impervious:00 -> able to resist damage or fading",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fast%5:00:00:smooth:00",
+      "lemma": "fast",
+      "pos": "a",
+      "definition": "(of surfaces) conducive to rapid speeds",
+      "sourceBranches": [
+        "(of surfaces) conducive to rapid speeds"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Of a surface such as a road or track: letting things move at high speed.",
+      "scope": "This is about surfaces that allow quick movement; it is not about camera lenses, loyalty, or weak morals.",
+      "examples": [
+        "The new running track is fast, and several runners set personal bests.",
+        "Cyclists love this fast downhill road."
+      ],
+      "branchCoverage": [
+        "(of surfaces) conducive to rapid speeds -> Of a surface such as a road or track: letting things move at high speed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fast%5:00:00:causative:00 -> of a lens or film, making exposure time shorter; fast%5:00:00:smooth:00 -> of a surface, allowing things to move quickly over it; fast%5:00:00:faithful:00 -> loyal and unwavering to a friend or promise; fast%5:00:00:immoral:00 -> not held back by moral rules; fast%5:00:00:impervious:00 -> able to resist damage or fading",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'smooth': the source only says 'conducive to rapid speeds', not why the surface is fast."
+    },
+    {
+      "senseId": "fast%5:00:00:faithful:00",
+      "lemma": "fast",
+      "pos": "a",
+      "definition": "unwavering in devotion to friend or vow or cause",
+      "sourceBranches": [
+        "unwavering in devotion to friend or vow or cause"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Always loyal and never changing in support of a friend, a promise, or a cause.",
+      "scope": "This is about steady loyalty; it is not about speed, a smooth surface, or a loose way of living.",
+      "examples": [
+        "They became fast friends in their first year of college and are still close today.",
+        "She held fast to her promise to care for her sister's children."
+      ],
+      "branchCoverage": [
+        "unwavering in devotion to friend or vow or cause -> Always loyal and never changing in support of a friend, a promise, or a cause"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fast%5:00:00:causative:00 -> of a lens or film, making exposure time shorter; fast%5:00:00:smooth:00 -> of a surface, allowing things to move quickly over it; fast%5:00:00:faithful:00 -> loyal and unwavering to a friend or promise; fast%5:00:00:immoral:00 -> not held back by moral rules; fast%5:00:00:impervious:00 -> able to resist damage or fading",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fast%5:00:00:immoral:00",
+      "lemma": "fast",
+      "pos": "a",
+      "definition": "unrestrained by convention or morality",
+      "sourceBranches": [
+        "unrestrained by convention or morality"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Not held back by accepted social customs or by ideas of right and wrong.",
+      "scope": "This is about a wild, morally loose way of living; it is not about speed, loyalty, or camera lenses.",
+      "examples": [
+        "He ran with a fast crowd in his twenties and rarely came home before dawn.",
+        "In those days, a woman who smoked in public was thought fast."
+      ],
+      "branchCoverage": [
+        "unrestrained by convention or morality -> Not held back by accepted social customs or by ideas of right and wrong"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fast%5:00:00:causative:00 -> of a lens or film, making exposure time shorter; fast%5:00:00:smooth:00 -> of a surface, allowing things to move quickly over it; fast%5:00:00:faithful:00 -> loyal and unwavering to a friend or promise; fast%5:00:00:immoral:00 -> not held back by moral rules; fast%5:00:00:impervious:00 -> able to resist damage or fading",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fast%5:00:00:impervious:00",
+      "lemma": "fast",
+      "pos": "a",
+      "definition": "resistant to destruction or fading",
+      "sourceBranches": [
+        "resistant to destruction or fading"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Able to resist being destroyed, or unlikely to fade or lose color.",
+      "scope": "This describes colors and materials that hold up; it is not about speed, loyalty, or morality.",
+      "examples": [
+        "The weavers used a fast dye so the cloth would keep its deep red for years.",
+        "These inks are colour-fast and will not fade even after decades on the wall."
+      ],
+      "branchCoverage": [
+        "resistant to destruction or fading -> Able to resist being destroyed, or unlikely to fade or lose color"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fast%5:00:00:causative:00 -> of a lens or film, making exposure time shorter; fast%5:00:00:smooth:00 -> of a surface, allowing things to move quickly over it; fast%5:00:00:faithful:00 -> loyal and unwavering to a friend or promise; fast%5:00:00:immoral:00 -> not held back by moral rules; fast%5:00:00:impervious:00 -> able to resist damage or fading",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Source says 'or': a fast dye resists fading without necessarily resisting destruction; restore 'or'."
+    },
+    {
+      "senseId": "green%1:13:00::",
+      "lemma": "green",
+      "pos": "n",
+      "definition": "any of various leafy plants or their leaves and stems eaten as vegetables",
+      "sourceBranches": [
+        "any of various leafy plants or their leaves and stems eaten as vegetables"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Leafy plants, or their leaves and stems, that people eat as vegetables.",
+      "scope": "This means vegetables such as spinach or cabbage; it is not the color, a grassy lawn, or a political party member.",
+      "examples": [
+        "Serve the roasted meat with steamed greens and new potatoes.",
+        "She grows winter greens in the raised beds behind the kitchen."
+      ],
+      "branchCoverage": [
+        "any of various leafy plants or their leaves and stems eaten as vegetables -> Leafy plants, or their leaves and stems, that people eat as vegetables"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "green%1:13:00:: -> leafy plants or their leaves eaten as vegetables; green%5:00:00:naive:00 -> trusting and easily tricked; green%1:18:03:: -> a member of an environmental political party",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop 'cook': OEWN's 'salad green' is eaten uncooked; say 'that people eat as vegetables'."
+    },
+    {
+      "senseId": "green%5:00:00:naive:00",
+      "lemma": "green",
+      "pos": "a",
+      "definition": "naive and easily deceived or tricked",
+      "sourceBranches": [
+        "naive and easily deceived or tricked"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Trusting and without experience, so that others can easily fool or cheat you.",
+      "scope": "This describes an inexperienced, trusting person; it is not the color, leafy vegetables, or a party member.",
+      "examples": [
+        "He was too green to notice that the offer was a scam.",
+        "The new interns are green, but they learn quickly."
+      ],
+      "branchCoverage": [
+        "naive and easily deceived or tricked -> Trusting and without experience, so that others can easily fool or cheat you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "green%1:13:00:: -> leafy plants or their leaves eaten as vegetables; green%5:00:00:naive:00 -> trusting and easily tricked; green%1:18:03:: -> a member of an environmental political party",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "green%1:18:03::",
+      "lemma": "green",
+      "pos": "n",
+      "definition": "an environmentalist who belongs to the Green Party",
+      "sourceBranches": [
+        "an environmentalist who belongs to the Green Party"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Someone who works to protect the environment and belongs to an environmental political party.",
+      "scope": "This means a member of an environmental political party; it is not the color, a vegetable, or a naive person.",
+      "examples": [
+        "The town council now includes two greens who campaigned on clean water.",
+        "As a green, she pushed the city to ban single-use plastics."
+      ],
+      "branchCoverage": [
+        "an environmentalist who belongs to the Green Party -> Someone who works to protect the environment and belongs to an environmental political party"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "green%1:13:00:: -> leafy plants or their leaves eaten as vegetables; green%5:00:00:naive:00 -> trusting and easily tricked; green%1:18:03:: -> a member of an environmental political party",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "match%2:30:07::",
+      "lemma": "match",
+      "pos": "v",
+      "definition": "make equal, uniform, corresponding, or matching",
+      "sourceBranches": [
+        "make equal, uniform, corresponding, or matching"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To make two or more things equal, alike, or suited to each other.",
+      "scope": "This means bringing things into agreement or equality; it is not noticing that two things are already alike, nor a small stick that makes fire.",
+      "examples": [
+        "The designer matched the curtains to the color of the sofa.",
+        "The company matches every dollar its employees give to charity."
+      ],
+      "branchCoverage": [
+        "make equal, uniform, corresponding, or matching -> To make two or more things equal, alike, or suited to each other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,995 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 24,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 47,
+      "of": 50,
+      "rate": 0.94
+    },
+    "selfApproved": [
+      "photo%1:06:00::",
+      "spend%2:40:01::",
+      "centre%3:00:01::"
+    ],
+    "lineage": {
+      "draft": "75b91b8a063e72490d0576de84f1090a68c3b06058807d02df40d14e945c4ef3"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "clean%3:00:01::",
+      "lemma": "clean",
+      "pos": "a",
+      "definition": "free from dirt or impurities; or having clean habits",
+      "decision": "gloss",
+      "simpleMeaning": "Not dirty, with no dirt or unwanted marks on it; also used for a person who keeps things neat.",
+      "scope": "This is about physical dirt or personal tidiness, not about playing fairly or obeying rules.",
+      "examples": [
+        "Put the plates in the dishwasher so they are clean for dinner.",
+        "She keeps her desk clean and never leaves old cups on it."
+      ],
+      "branchCoverage": [
+        "free from dirt or impurities -> Not dirty, with no dirt or unwanted marks",
+        "or having clean habits -> used for a person who keeps things neat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean (adj): not dirty or personally tidy; clean (adv): done fairly and by the rules; clean (verb): tidy a house by removing dirt.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%4:02:00::",
+      "lemma": "clean",
+      "pos": "r",
+      "definition": "in conformity with the rules or laws and without fraud or cheating",
+      "decision": "gloss",
+      "simpleMeaning": "Done in a fair way that follows the rules and does not cheat.",
+      "scope": "This describes how an action is done, not how free something is from dirt.",
+      "examples": [
+        "The team played clean and won without breaking any rules.",
+        "He fought clean and never tried to trick his opponent."
+      ],
+      "branchCoverage": [
+        "in conformity with the rules or laws and without fraud or cheating -> Done in a fair way that follows the rules and does not cheat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean (adj): not dirty or personally tidy; clean (adv): done fairly and by the rules; clean (verb): tidy a house by removing dirt.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%2:35:01::",
+      "lemma": "clean",
+      "pos": "v",
+      "definition": "clean and tidy up the house",
+      "decision": "gloss",
+      "simpleMeaning": "To make a house neat by removing dirt and putting things in order.",
+      "scope": "This is about tidying a whole home, not washing one small object or removing a spot from clothes.",
+      "examples": [
+        "On Saturdays we clean the house together before lunch.",
+        "She spent the morning cleaning the house for her guests."
+      ],
+      "branchCoverage": [
+        "clean and tidy up the house -> make a house neat by removing dirt and putting things in order"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean (adj): not dirty or personally tidy; clean (adv): done fairly and by the rules; clean (verb): tidy a house by removing dirt.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "computer%1:18:00::",
+      "lemma": "computer",
+      "pos": "n",
+      "definition": "an expert at calculation (or at operating calculating machines)",
+      "decision": "gloss",
+      "simpleMeaning": "A person who is very good at maths or at working with calculating machines.",
+      "scope": "This means a person, not the electronic machine on your desk.",
+      "examples": [
+        "In the 1940s, a computer was a person paid to do long calculations.",
+        "The team hired a computer to check all the numbers by hand."
+      ],
+      "branchCoverage": [
+        "an expert at calculation (or at operating calculating machines) -> A person who is very good at maths or at working with calculating machines"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "construction%1:09:00::",
+      "lemma": "construction",
+      "pos": "n",
+      "definition": "the creation of a construct; the process of combining ideas into a congruous object of thought",
+      "decision": "gloss",
+      "simpleMeaning": "The act of putting ideas together to form a clear whole.",
+      "scope": "This is about building ideas in the mind, not building physical things.",
+      "examples": [
+        "Her theory is a careful construction built from many small observations.",
+        "The book explains the construction of a legal argument step by step."
+      ],
+      "branchCoverage": [
+        "the creation of a construct -> The act of putting ideas together to form a whole",
+        "the process of combining ideas into a congruous object of thought -> putting ideas together to form a clear whole"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "construction (ideas): putting ideas together into a clear whole; construction (grammar): a group of words acting as one sentence part; construction (building): the activity of building something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "construction%1:10:01::",
+      "lemma": "construction",
+      "pos": "n",
+      "definition": "a group of words that form a constituent of a sentence and are considered as a single unit",
+      "decision": "gloss",
+      "simpleMeaning": "A small group of words that works together as one part of a sentence.",
+      "scope": "This is a grammar term for word groups, not the act of building something.",
+      "examples": [
+        "The teacher asked us to underline each construction in the sentence.",
+        "Linguists study how a construction like 'the more, the better' carries meaning."
+      ],
+      "branchCoverage": [
+        "a group of words that form a constituent of a sentence and are considered as a single unit -> A small group of words that works together as one part of a sentence"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "construction (ideas): putting ideas together into a clear whole; construction (grammar): a group of words acting as one sentence part; construction (building): the activity of building something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "construction%1:04:00::",
+      "lemma": "construction",
+      "pos": "n",
+      "definition": "the act of constructing something",
+      "decision": "gloss",
+      "simpleMeaning": "The work of building something, such as a house or a road.",
+      "scope": "This is the activity of building, not the finished building or a group of words.",
+      "examples": [
+        "The construction of the new bridge took three years.",
+        "Noise from the construction kept us awake all morning."
+      ],
+      "branchCoverage": [
+        "the act of constructing something -> The work of building something, such as a house or a road"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "construction (ideas): putting ideas together into a clear whole; construction (grammar): a group of words acting as one sentence part; construction (building): the activity of building something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "episode%1:10:01::",
+      "lemma": "episode",
+      "pos": "n",
+      "definition": "a brief section of a literary or dramatic work that forms part of a connected series",
+      "decision": "gloss",
+      "simpleMeaning": "One short part of a story, play or TV series that comes in a series.",
+      "scope": "This is one part of a series, not a single separate event in someone's life.",
+      "examples": [
+        "We watched the final episode of the drama last night.",
+        "Each episode ends with a small clue about the mystery."
+      ],
+      "branchCoverage": [
+        "a brief section of a literary or dramatic work that forms part of a connected series -> One short part of a story, play or TV series that comes in a series"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "favorite%1:09:00::",
+      "lemma": "favorite",
+      "pos": "n",
+      "definition": "something regarded with special favor or liking",
+      "decision": "gloss",
+      "simpleMeaning": "The one you like best among a group of things.",
+      "scope": "This is the one you like best among a group, not a person who is loved in a special way or a competitor expected to win.",
+      "examples": [
+        "This song is my favorite; I play it every morning.",
+        "Of all her paintings, the small blue one is her favorite."
+      ],
+      "branchCoverage": [
+        "something regarded with special favor or liking -> The one you like best among a group of things"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "income%1:21:00::",
+      "lemma": "income",
+      "pos": "n",
+      "definition": "the financial gain (earned or unearned) accruing over a given period of time",
+      "decision": "gloss",
+      "simpleMeaning": "The money a person or business receives over a period of time, whether from work or from investments.",
+      "scope": "This is money coming in, not money that is saved or owed.",
+      "examples": [
+        "Her monthly income is enough to cover rent and food.",
+        "The family's income dropped after the factory closed."
+      ],
+      "branchCoverage": [
+        "the financial gain (earned or unearned) accruing over a given period of time -> The money a person or business receives over a period of time, whether from work or from investments"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "justice%1:04:00::",
+      "lemma": "justice",
+      "pos": "n",
+      "definition": "judgment involved in the determination of rights and the assignment of rewards and punishments",
+      "decision": "gloss",
+      "simpleMeaning": "The fair handling of people's rights, including giving each person the rewards or punishments they deserve.",
+      "scope": "This is about fair decisions and treatment, not the judge who makes them.",
+      "examples": [
+        "The victims' families are still waiting for justice.",
+        "She believed in justice and spoke up for the workers."
+      ],
+      "branchCoverage": [
+        "judgment involved in the determination of rights and the assignment of rewards and punishments -> The fair handling of people's rights, including giving each person the rewards or punishments they deserve"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "justice (fair decisions): fair handling of rights and deserved rewards or punishments; justice (official): a judge who decides court cases.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "justice%1:18:00::",
+      "lemma": "justice",
+      "pos": "n",
+      "definition": "a public official authorized to decide questions brought before a court of justice",
+      "decision": "gloss",
+      "simpleMeaning": "A judge in a court, especially one with a high rank.",
+      "scope": "This means the official who decides cases, not the idea of fair treatment.",
+      "examples": [
+        "The justice listened carefully to both lawyers.",
+        "She was appointed a justice of the Supreme Court."
+      ],
+      "branchCoverage": [
+        "a public official authorized to decide questions brought before a court of justice -> A judge in a court, especially one with a high rank"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "justice (fair decisions): fair handling of rights and deserved rewards or punishments; justice (official): a judge who decides court cases.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "photo%1:06:00::",
+      "lemma": "photo",
+      "pos": "n",
+      "definition": "a representation of a person or scene in the form of a print or transparent slide or in digital format",
+      "decision": "gloss",
+      "simpleMeaning": "A picture of a person or place made with a camera and kept on paper, film or a screen.",
+      "scope": "This is a camera image, not a drawing or a painting.",
+      "examples": [
+        "He showed me a photo of his new puppy.",
+        "I took a photo of the sunset with my phone."
+      ],
+      "branchCoverage": [
+        "a representation of a person or scene in the form of a print or transparent slide or in digital format -> A picture of a person or place made with a camera and kept on paper, film or a screen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "a picture of a person, thing, or scene made with a camera and kept on paper, film, or a screen.",
+      "verdict": "self-approved",
+      "reviewerNote": "Narrows 'scene' to 'place'; puppy/sunset examples misfit. Use 'picture of a person, thing or scene'."
+    },
+    {
+      "senseId": "spend%2:40:01::",
+      "lemma": "spend",
+      "pos": "v",
+      "definition": "spend completely",
+      "decision": "gloss",
+      "simpleMeaning": "To use all of an amount of money or time, leaving none.",
+      "scope": "This means using up the whole amount, not paying for one item or passing time in an activity.",
+      "examples": [
+        "They spent the whole budget on new computers.",
+        "By Friday he had spent all his wages."
+      ],
+      "branchCoverage": [
+        "spend completely -> use all of an amount of money or time, leaving none"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "to use up all of an amount of money.",
+      "verdict": "self-approved",
+      "reviewerNote": "Adds 'time' but scope excludes it. Use 'To use up all of an amount of money.'"
+    },
+    {
+      "senseId": "statement%1:10:00::",
+      "lemma": "statement",
+      "pos": "n",
+      "definition": "a message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc",
+      "decision": "gloss",
+      "simpleMeaning": "Something a person says aloud or writes down to give facts or information.",
+      "scope": "This is the information itself, not a bank record or a formal list of accounts.",
+      "examples": [
+        "The police released a short statement about the accident.",
+        "Her statement to the court described what she saw."
+      ],
+      "branchCoverage": [
+        "a message that is stated or declared -> Something a person says aloud or writes down",
+        "a communication (oral or written) setting forth particulars or facts etc -> says aloud or writes down to give facts or information"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sun%2:39:00::",
+      "lemma": "sun",
+      "pos": "v",
+      "definition": "expose to the rays of the sun or affect by exposure to the sun",
+      "decision": "gloss",
+      "simpleMeaning": "To leave something out in daylight so its light and warmth reach it.",
+      "scope": "This means letting light and heat fall on something, not the bright star in the sky.",
+      "examples": [
+        "She sunned the wet blankets on the balcony.",
+        "The lizards sun themselves on the warm rocks."
+      ],
+      "branchCoverage": [
+        "expose to the rays of the sun or affect by exposure to the sun -> leave something out in daylight so its light and warmth reach it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sun (verb): letting daylight and warmth fall on something; sun (noun): a person who brings warmth, energy or glory.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sun%1:18:00::",
+      "lemma": "sun",
+      "pos": "n",
+      "definition": "a person considered as a source of warmth or energy or glory etc",
+      "decision": "gloss",
+      "simpleMeaning": "A person who brings warmth, energy or glory to others.",
+      "scope": "This describes a person, not the bright star in the sky.",
+      "examples": [
+        "Their grandmother was the sun of the family, always cheering everyone up.",
+        "He was the sun of her life, bringing light to every day."
+      ],
+      "branchCoverage": [
+        "a person considered as a source of warmth or energy or glory etc -> A person who brings warmth, energy or glory to others"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sun (verb): letting daylight and warmth fall on something; sun (noun): a person who brings warmth, energy or glory.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ability%1:07:00::",
+      "lemma": "ability",
+      "pos": "n",
+      "definition": "the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment",
+      "decision": "gloss",
+      "simpleMeaning": "The power or skill that lets a person do something and succeed at it.",
+      "scope": "This is about being able to do something, not about being allowed to do it.",
+      "examples": [
+        "Regular practice improved his ability to run long distances.",
+        "The job requires the ability to work under pressure."
+      ],
+      "branchCoverage": [
+        "the quality of being able to perform -> The power or skill that lets a person do something",
+        "a quality that permits or facilitates achievement or accomplishment -> lets a person do something and succeed at it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ability (general power): the power or skill to do something and succeed; ability (talents): the mental skills and talents a person has for a task.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ability%1:09:00::",
+      "lemma": "ability",
+      "pos": "n",
+      "definition": "possession of the qualities (especially mental qualities) required to do something or get something done",
+      "decision": "gloss",
+      "simpleMeaning": "The talents and mental skills a person has for doing a particular task.",
+      "scope": "This is about the skills a person possesses, not the general fact of being able to do something.",
+      "examples": [
+        "He has a remarkable ability to remember names.",
+        "Her musical abilities were clear from a young age."
+      ],
+      "branchCoverage": [
+        "possession of the qualities (especially mental qualities) required to do something or get something done -> The talents and mental skills a person has for doing a particular task"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ability (general power): the power or skill to do something and succeed; ability (talents): the mental skills and talents a person has for a task.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "announced%5:00:00:declared:00",
+      "lemma": "announced",
+      "pos": "a",
+      "definition": "declared publicly; made widely known",
+      "decision": "gloss",
+      "simpleMeaning": "Made known to everyone in a public way.",
+      "scope": "This describes something that has been made public, not something only planned or kept secret.",
+      "examples": [
+        "The announced changes will start next month.",
+        "The newly announced winner thanked her supporters."
+      ],
+      "branchCoverage": [
+        "declared publicly -> Made known in a public way",
+        "made widely known -> Made known to everyone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "coach%2:32:00::",
+      "lemma": "coach",
+      "pos": "v",
+      "definition": "teach and supervise (someone); act as a trainer or coach (to), as in sports",
+      "decision": "gloss",
+      "simpleMeaning": "To teach, watch over and train a person or team, especially in a sport.",
+      "scope": "This is about training people, not the bus or the railway carriage.",
+      "examples": [
+        "She coaches the school basketball team every Tuesday.",
+        "He was coached by a former champion."
+      ],
+      "branchCoverage": [
+        "teach and supervise (someone) -> teach, watch over and train a person",
+        "act as a trainer or coach (to), as in sports -> train a person or team, especially in a sport"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "costs%1:21:00::",
+      "lemma": "costs",
+      "pos": "n",
+      "definition": "pecuniary reimbursement to the winning party for the expenses of litigation",
+      "decision": "gloss",
+      "simpleMeaning": "Money that the losing side in a court case pays to cover the winner's legal expenses.",
+      "scope": "This is money paid after a court case, not the general price of goods or services.",
+      "examples": [
+        "The judge ordered the company to pay costs.",
+        "If you lose, you may have to cover the other side's costs."
+      ],
+      "branchCoverage": [
+        "pecuniary reimbursement to the winning party for the expenses of litigation -> Money that the losing side in a court case pays to cover the winner's legal expenses"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gun%1:06:00::",
+      "lemma": "gun",
+      "pos": "n",
+      "definition": "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)",
+      "decision": "gloss",
+      "simpleMeaning": "A weapon that fires bullets or shells very fast from a metal tube.",
+      "scope": "This is a weapon that fires projectiles, not a tool that sprays paint or a person who lifts weights.",
+      "examples": [
+        "The police found a gun hidden under the bed.",
+        "He cleaned the gun carefully after the hunt."
+      ],
+      "branchCoverage": [
+        "a weapon that discharges a missile at high velocity (especially from a metal tube or barrel) -> A weapon that fires bullets or shells very fast from a metal tube"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "heavy%1:18:00::",
+      "lemma": "heavy",
+      "pos": "n",
+      "definition": "an actor who plays villainous roles",
+      "decision": "gloss",
+      "simpleMeaning": "An actor who usually plays the bad character.",
+      "scope": "This means a type of actor, not something that weighs a lot.",
+      "examples": [
+        "The film's heavy had a deep voice and a black hat.",
+        "He spent years as the heavy in low-budget westerns."
+      ],
+      "branchCoverage": [
+        "an actor who plays villainous roles -> An actor who usually plays the bad character"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "knowledge%1:03:00::",
+      "lemma": "knowledge",
+      "pos": "n",
+      "definition": "the psychological result of perception and learning and reasoning",
+      "decision": "gloss",
+      "simpleMeaning": "The facts and understanding a person has in their mind from learning, noticing and thinking.",
+      "scope": "This is what a person has learned and understood, not the act of finding out or being familiar with a place.",
+      "examples": [
+        "Her knowledge of local history surprised us.",
+        "He used his knowledge of computers to fix the machine."
+      ],
+      "branchCoverage": [
+        "the psychological result of perception and learning and reasoning -> facts and understanding a person has in their mind from learning, noticing and thinking"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "search%2:35:00::",
+      "lemma": "search",
+      "pos": "v",
+      "definition": "try to locate or discover, or try to establish the existence of",
+      "decision": "gloss",
+      "simpleMeaning": "To try hard to find a person or thing, or to find out whether something is real.",
+      "scope": "This is not about looking through a place or container; it is about trying to find a person or thing, or to learn whether something exists.",
+      "examples": [
+        "Police are still searching for the stolen car.",
+        "Scientists are searching for a cure for the disease."
+      ],
+      "branchCoverage": [
+        "try to locate or discover, or try to establish the existence of -> try hard to find a person or thing, or to find out whether something is real"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "search (v): sense 1 is trying to find someone or something, or to learn whether it exists; sense 2 is going through a place or container carefully to look for something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "search%2:39:00::",
+      "lemma": "search",
+      "pos": "v",
+      "definition": "search or seek",
+      "decision": "gloss",
+      "simpleMeaning": "To look carefully through a place, container or person, trying to find someone or something.",
+      "scope": "This is not just wanting to find one lost thing; it means going through a place or container carefully, part by part.",
+      "examples": [
+        "We searched the whole house for the keys.",
+        "Volunteers searched the woods for the missing child."
+      ],
+      "branchCoverage": [
+        "search or seek -> look carefully through a place, container or person, trying to find someone or something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "search (v): sense 1 is trying to find someone or something, or to learn whether it exists; sense 2 is going through a place or container carefully to look for something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "subject%1:06:00::",
+      "lemma": "subject",
+      "pos": "n",
+      "definition": "something (a person or object or scene) selected by an artist or photographer for graphic representation",
+      "decision": "gloss",
+      "simpleMeaning": "The person, thing or scene that an artist or photographer chooses to show in a picture.",
+      "scope": "This is not the topic of a talk or text, and not a person forced to obey; it is only what a picture shows.",
+      "examples": [
+        "The artist chose a sleeping cat as the subject of her painting.",
+        "Tourists were the main subject of his photographs."
+      ],
+      "branchCoverage": [
+        "something (a person or object or scene) selected by an artist or photographer for graphic representation -> the person, thing or scene that an artist or photographer chooses to show in a picture"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "subject (n): the topic of a talk or text vs. the person, thing or scene shown in a picture. subject (v): make someone go through something bad vs. force people to obey.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "subject%2:39:03::",
+      "lemma": "subject",
+      "pos": "v",
+      "definition": "cause to experience or suffer or make liable or vulnerable to",
+      "decision": "gloss",
+      "simpleMeaning": "To make a person or thing go through something hard, painful or harmful, or put them in danger of it.",
+      "scope": "This is not about forcing people to obey; it is about making them live through an experience or a risk.",
+      "examples": [
+        "The tests subjected the metal to extreme heat.",
+        "Nobody should be subjected to such rude treatment."
+      ],
+      "branchCoverage": [
+        "cause to experience or suffer or make liable or vulnerable to -> make a person or thing go through something hard or painful, or put them in danger of it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "subject (n): the topic of a talk or text vs. the person, thing or scene shown in a picture. subject (v): make someone go through something bad vs. force people to obey.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "subject%2:41:00::",
+      "lemma": "subject",
+      "pos": "v",
+      "definition": "make subservient; force to submit or subdue",
+      "decision": "gloss",
+      "simpleMeaning": "To take control of people and force them to obey.",
+      "scope": "This is not about making someone experience something; it is about using power to keep people under control.",
+      "examples": [
+        "It took the king ten years to subject the mountain tribes.",
+        "The empire used its army to subject smaller kingdoms."
+      ],
+      "branchCoverage": [
+        "make subservient -> take control of people",
+        "force to submit or subdue -> force them to obey"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "subject (n): the topic of a talk or text vs. the person, thing or scene shown in a picture. subject (v): make someone go through something bad vs. force people to obey.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "subject%1:10:00::",
+      "lemma": "subject",
+      "pos": "n",
+      "definition": "the subject matter of a conversation or discussion",
+      "decision": "gloss",
+      "simpleMeaning": "The thing that a talk, meeting or piece of writing is about.",
+      "scope": "This is not what a picture shows, and not a person ruled by someone else; it is only the topic being discussed.",
+      "examples": [
+        "We changed the subject and talked about the weather.",
+        "The subject of the meeting was next year's budget."
+      ],
+      "branchCoverage": [
+        "the subject matter of a conversation or discussion -> the thing that a talk, meeting or piece of writing is about"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "subject (n): the topic of a talk or text vs. the person, thing or scene shown in a picture. subject (v): make someone go through something bad vs. force people to obey.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "train%1:14:00::",
+      "lemma": "train",
+      "pos": "n",
+      "definition": "a procession (of wagons or mules or camels) traveling together in single file",
+      "decision": "gloss",
+      "simpleMeaning": "A line of wagons or animals that travel one behind the other.",
+      "scope": "This is not the railway vehicle, and not a series of events or ideas; it is a line of carts or animals moving one after another.",
+      "examples": [
+        "A long train of camels crossed the desert.",
+        "A train of mules carried supplies up the mountain."
+      ],
+      "branchCoverage": [
+        "a procession (of wagons or mules or camels) traveling together in single file -> a line of wagons or animals that travel one behind the other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "train (n): the railway vehicle vs. a line of wagons or animals moving one behind the other vs. an ordered series of events or ideas. train (v): learn job skills yourself vs. teach a person job skills vs. teach a child or animal how to behave.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "train%1:06:00::",
+      "lemma": "train",
+      "pos": "n",
+      "definition": "public transport provided by a line of railway cars coupled together and drawn by a locomotive",
+      "decision": "gloss",
+      "simpleMeaning": "A set of connected carriages pulled by an engine along metal tracks, used to carry passengers or goods.",
+      "scope": "This is not a line of animals or carts, and not a series of events; it is the railway vehicle itself.",
+      "examples": [
+        "We took the train from London to Edinburgh.",
+        "The train was late because of the snow."
+      ],
+      "branchCoverage": [
+        "public transport provided by a line of railway cars coupled together and drawn by a locomotive -> a set of connected carriages pulled by an engine along metal tracks, used to carry passengers or goods"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "train (n): the railway vehicle vs. a line of wagons or animals moving one behind the other vs. an ordered series of events or ideas. train (v): learn job skills yourself vs. teach a person job skills vs. teach a child or animal how to behave.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "train%2:31:00::",
+      "lemma": "train",
+      "pos": "v",
+      "definition": "undergo training or instruction in preparation for a particular role, function, or profession",
+      "decision": "gloss",
+      "simpleMeaning": "To learn the skills you need for a job or role by studying and practising.",
+      "scope": "This is not about teaching someone else; it is about you going through lessons and practice yourself.",
+      "examples": [
+        "She trained as a nurse for three years.",
+        "He is training to become a pilot."
+      ],
+      "branchCoverage": [
+        "undergo training or instruction in preparation for a particular role, function, or profession -> learn the skills you need for a job or role by studying and practising"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "train (n): the railway vehicle vs. a line of wagons or animals moving one behind the other vs. an ordered series of events or ideas. train (v): learn job skills yourself vs. teach a person job skills vs. teach a child or animal how to behave.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "train%1:14:02::",
+      "lemma": "train",
+      "pos": "n",
+      "definition": "a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding",
+      "decision": "gloss",
+      "simpleMeaning": "A series of events, ideas or things in which each one follows on from the one before.",
+      "scope": "This is not a line of carts or animals, and not a railway vehicle; it is an ordered series of events or thoughts.",
+      "examples": [
+        "The decision started a train of events that nobody could stop.",
+        "Her speech followed a clear train of thought."
+      ],
+      "branchCoverage": [
+        "a sequentially ordered set of things or events or ideas in which each successive member is related to the preceding -> a series of events, ideas or things in which each one follows on from the one before"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "train (n): the railway vehicle vs. a line of wagons or animals moving one behind the other vs. an ordered series of events or ideas. train (v): learn job skills yourself vs. teach a person job skills vs. teach a child or animal how to behave.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "train%2:41:02::",
+      "lemma": "train",
+      "pos": "v",
+      "definition": "develop (a child's or animal's) behavior by instruction and practice; especially to teach self-control",
+      "decision": "gloss",
+      "simpleMeaning": "To teach a child or an animal how to behave, especially to control itself, by instruction and practice.",
+      "scope": "This is not about learning job skills; it is about teaching good behaviour and self-control.",
+      "examples": [
+        "It takes patience to train a young horse.",
+        "She trained the dog to wait by the door."
+      ],
+      "branchCoverage": [
+        "develop (a child's or animal's) behavior by instruction and practice -> teach a child or an animal how to behave by instruction and practice",
+        "especially to teach self-control -> especially to control itself"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "train (n): the railway vehicle vs. a line of wagons or animals moving one behind the other vs. an ordered series of events or ideas. train (v): learn job skills yourself vs. teach a person job skills vs. teach a child or animal how to behave.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "train%2:31:01::",
+      "lemma": "train",
+      "pos": "v",
+      "definition": "create by training and teaching",
+      "decision": "gloss",
+      "simpleMeaning": "To teach someone the skills for a job so that they become able to do it.",
+      "scope": "This is not about you learning a skill yourself, and not about teaching an animal to behave; it means teaching a person the skills for a job.",
+      "examples": [
+        "The company trains new staff for six weeks.",
+        "He was trained as an electrician by his uncle."
+      ],
+      "branchCoverage": [
+        "create by training and teaching -> teach someone the skills for a job so that they become able to do it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "train (n): the railway vehicle vs. a line of wagons or animals moving one behind the other vs. an ordered series of events or ideas. train (v): learn job skills yourself vs. teach a person job skills vs. teach a child or animal how to behave.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "author%1:18:01::",
+      "lemma": "author",
+      "pos": "n",
+      "definition": "someone who originates or causes or initiates something",
+      "decision": "gloss",
+      "simpleMeaning": "A person who starts something or makes it happen.",
+      "scope": "This is not a writer of books; it is anyone who starts or causes something to happen.",
+      "examples": [
+        "She was the author of the new plan.",
+        "He is the author of his own problems."
+      ],
+      "branchCoverage": [
+        "someone who originates or causes or initiates something -> a person who starts something or makes it happen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "centre%3:00:01::",
+      "lemma": "centre",
+      "pos": "a",
+      "definition": "of or belonging to neither the right nor the left politically or intellectually",
+      "decision": "gloss",
+      "simpleMeaning": "Holding political views that are neither strongly left-wing nor strongly right-wing.",
+      "scope": "This is not about the middle of a place or object; it is only about moderate political or intellectual views.",
+      "examples": [
+        "They formed a new centre party before the election.",
+        "The senator holds centre views on most social questions."
+      ],
+      "branchCoverage": [
+        "of or belonging to neither the right nor the left politically or intellectually -> holding political views that are neither strongly left-wing nor strongly right-wing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "centre: holding moderate political views vs. being at an equal distance from both ends vs. the middle area of a larger place.",
+      "meaning": "having political or intellectual views that are neither strongly left-wing nor strongly right-wing.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss drops 'intellectually' though scope claims it; say 'political or intellectual views'."
+    },
+    {
+      "senseId": "centre%5:00:01:central:01",
+      "lemma": "centre",
+      "pos": "s",
+      "definition": "equally distant from the extremes",
+      "decision": "gloss",
+      "simpleMeaning": "In the middle, at the same distance from both ends or sides.",
+      "scope": "This is not about political opinions; it is about a physical position in the middle.",
+      "examples": [
+        "The centre lane of the road was closed.",
+        "He sat in the centre seat of the back row."
+      ],
+      "branchCoverage": [
+        "equally distant from the extremes -> in the middle, at the same distance from both ends or sides"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "centre: holding moderate political views vs. being at an equal distance from both ends vs. the middle area of a larger place.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "centre%1:15:01::",
+      "lemma": "centre",
+      "pos": "n",
+      "definition": "an area that is approximately central within some larger region",
+      "decision": "gloss",
+      "simpleMeaning": "The middle part of a town, area or region.",
+      "scope": "This is not the exact middle point of an object, and not a political position; it is the middle area of a larger place.",
+      "examples": [
+        "There are many shops in the centre of the city.",
+        "The hotel is in the town centre, near the station."
+      ],
+      "branchCoverage": [
+        "an area that is approximately central within some larger region -> the middle part of a town, area or region"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "centre: holding moderate political views vs. being at an equal distance from both ends vs. the middle area of a larger place.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "claim%2:32:00::",
+      "lemma": "claim",
+      "pos": "v",
+      "definition": "assert or affirm strongly; state to be true or existing",
+      "decision": "gloss",
+      "simpleMeaning": "To say strongly that something is true, even if other people may not believe it.",
+      "scope": "This is not asking for something you have a right to; it is only saying that something is true.",
+      "examples": [
+        "He claims that he saw a ghost.",
+        "The company claims its new phone is the fastest on the market."
+      ],
+      "branchCoverage": [
+        "assert or affirm strongly -> say strongly",
+        "state to be true or existing -> that something is true"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "claim (v): say strongly that something is true vs. ask for something because you believe it is yours by right vs. ask officially or legally for money or property.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "claim%2:40:00::",
+      "lemma": "claim",
+      "pos": "v",
+      "definition": "demand as being one's due or property; assert one's right or title to",
+      "decision": "gloss",
+      "simpleMeaning": "To say that something belongs to you and ask for it because you believe it is yours by right.",
+      "scope": "This is not saying that something is true; it is asking for something because you believe it is yours by right.",
+      "examples": [
+        "After the war, many families claimed their land back.",
+        "He claimed his prize at the front desk."
+      ],
+      "branchCoverage": [
+        "demand as being one's due or property -> say that something belongs to you and ask for it",
+        "assert one's right or title to -> because you believe it is yours by right"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "claim (v): say strongly that something is true vs. ask for something because you believe it is yours by right vs. ask officially or legally for money or property.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "claim%2:32:02::",
+      "lemma": "claim",
+      "pos": "v",
+      "definition": "ask for legally or make a legal claim to, as of debts, for example",
+      "decision": "gloss",
+      "simpleMeaning": "To ask for money or property officially, because the law says you have a right to it.",
+      "scope": "This is not simply saying something is true, and not taking something that is yours; it is the official or legal request for money or property.",
+      "examples": [
+        "You can claim the cost of the trip on your taxes.",
+        "The workers claimed unpaid wages from the company."
+      ],
+      "branchCoverage": [
+        "ask for legally or make a legal claim to, as of debts, for example -> ask for money or property officially, because the law says you have a right to it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "claim (v): say strongly that something is true vs. ask for something because you believe it is yours by right vs. ask officially or legally for money or property.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "developed%3:00:00::",
+      "lemma": "developed",
+      "pos": "a",
+      "definition": "being changed over time so as to be e.g. stronger or more complete or more useful",
+      "decision": "gloss",
+      "simpleMeaning": "Improved over time so that something is stronger, fuller or more useful.",
+      "scope": "This is not about a country with modern industry, and not about land prepared for building; it is about something that has grown better or stronger over time.",
+      "examples": [
+        "She has a highly developed sense of smell.",
+        "The child shows well developed language skills."
+      ],
+      "branchCoverage": [
+        "being changed over time so as to be e.g. stronger or more complete or more useful -> improved over time so that something is stronger, fuller or more useful"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "developed (adj): improved or stronger over time vs. land prepared for building or business vs. a country with strong modern industry.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "developed%5:00:00:improved:00",
+      "lemma": "developed",
+      "pos": "a",
+      "definition": "(of real estate) made more useful and profitable as by building or laying out roads",
+      "decision": "gloss",
+      "simpleMeaning": "Of land: prepared for building or business, for example by adding roads and services, so it can earn money.",
+      "scope": "This is not about a country or a skill; it is only about land that has been prepared for building or profit.",
+      "examples": [
+        "They bought a developed plot with water and electricity already in place.",
+        "The company sells developed land to housing builders."
+      ],
+      "branchCoverage": [
+        "(of real estate) made more useful and profitable as by building or laying out roads -> of land: prepared for building or business, for example by adding roads and services, so it can earn money"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "developed (adj): improved or stronger over time vs. land prepared for building or business vs. a country with strong modern industry.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "developed%5:00:00:industrial:00",
+      "lemma": "developed",
+      "pos": "a",
+      "definition": "(used of societies) having high industrial development",
+      "decision": "gloss",
+      "simpleMeaning": "Of a country or society: having a lot of industry and modern technology.",
+      "scope": "This is not about land prepared for building, and not about a skill that has grown; it is about countries with strong modern industry.",
+      "examples": [
+        "Developed countries produce most of the world's cars.",
+        "The report looks at how developed nations use energy."
+      ],
+      "branchCoverage": [
+        "(used of societies) having high industrial development -> of a country or society: having a lot of industry and modern technology"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "developed (adj): improved or stronger over time vs. land prepared for building or business vs. a country with strong modern industry.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fear%1:12:00::",
+      "lemma": "fear",
+      "pos": "n",
+      "definition": "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)",
+      "decision": "gloss",
+      "simpleMeaning": "The bad feeling you get when you think something dangerous or painful might happen, which often makes you want to run away or fight.",
+      "scope": "This is not a mild worry about something uncertain; it is the strong feeling caused by a clear danger or pain.",
+      "examples": [
+        "She felt a sudden fear when she heard footsteps behind her.",
+        "His fear of heights stopped him from climbing."
+      ],
+      "branchCoverage": [
+        "an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight) -> the bad feeling you get when you think something dangerous or painful might happen, which often makes you want to run away or fight"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fear (n): the bad feeling caused by danger vs. fear (v): being worried that something bad may happen.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fear%2:37:03::",
+      "lemma": "fear",
+      "pos": "v",
+      "definition": "be afraid or feel anxious or apprehensive about a possible or probable situation or event",
+      "decision": "gloss",
+      "simpleMeaning": "To feel worried or frightened that something bad may happen.",
+      "scope": "This is not the feeling itself as a thing; it is the act of being worried that something bad might happen.",
+      "examples": [
+        "I fear that we may be too late.",
+        "Many people fear losing their jobs."
+      ],
+      "branchCoverage": [
+        "be afraid or feel anxious or apprehensive about a possible or probable situation or event -> feel worried or frightened that something bad may happen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fear (n): the bad feeling caused by danger vs. fear (v): being worried that something bad may happen.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "global%5:00:00:international:00",
+      "lemma": "global",
+      "pos": "a",
+      "definition": "involving the entire earth; not limited or provincial in scope",
+      "decision": "gloss",
+      "simpleMeaning": "Involving or affecting the whole world, not just one country or small area.",
+      "scope": "This is not about a round shape, and not about the whole of a single file or set of data; it is only about things that cover the whole world.",
+      "examples": [
+        "Climate change is a global problem.",
+        "The company has a global network of offices."
+      ],
+      "branchCoverage": [
+        "involving the entire earth -> involving or affecting the whole world",
+        "not limited or provincial in scope -> not just one country or small area"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

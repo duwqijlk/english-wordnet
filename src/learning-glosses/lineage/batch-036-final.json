@@ -1,0 +1,1124 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 36,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 47,
+    "defers": 3,
+    "firstPass": {
+      "approved": 50,
+      "of": 50,
+      "rate": 1.0
+    },
+    "selfApproved": [],
+    "lineage": {
+      "draft": "5663cb537a34425b8ecb07f39ec3e11f67fb529f9bbb2fa06a9027db4a0cae28"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "proud%3:00:00::",
+      "lemma": "proud",
+      "pos": "a",
+      "definition": "feeling self-respect or pleasure in something by which you measure your self-worth; or being a reason for pride",
+      "decision": "gloss",
+      "simpleMeaning": "feeling respect for yourself or pleasure in something you value, or being something that gives a good reason for that feeling.",
+      "scope": "This is a feeling of personal worth or satisfaction in something valued, not an outward show of dignity or noble manner.",
+      "examples": [
+        "It was a proud day for the whole family.",
+        "She was proud of her son for finishing the race."
+      ],
+      "branchCoverage": [
+        "feeling self-respect or pleasure in something by which you measure your self-worth -> feeling respect for yourself or pleasure in something you value",
+        "or being a reason for pride -> or being something that gives a good reason for that feeling"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "feeling self-respect or pleasure in something by which you measure your self-worth",
+        "or being a reason for pride"
+      ],
+      "lemmaPartition": "proud%3:00:00:: -> inner feeling of self-respect or satisfaction in something valued, or a source of such feeling | proud%5:00:00:impressive:00 -> outward dignity or noble bearing in appearance or manner",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "proud%5:00:00:impressive:00",
+      "lemma": "proud",
+      "pos": "a",
+      "definition": "having or displaying great dignity or nobility",
+      "decision": "gloss",
+      "simpleMeaning": "showing great dignity and a noble quality in the way someone or something looks or carries itself.",
+      "scope": "This describes a dignified, noble appearance or manner, not the inner feeling of satisfaction about an achievement.",
+      "examples": [
+        "The duchess made a proud entrance, her head held high.",
+        "The old king remained proud and dignified to the end."
+      ],
+      "branchCoverage": [
+        "having or displaying great dignity or nobility -> showing great dignity and a noble quality in the way someone or something looks or carries itself"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having or displaying great dignity or nobility"
+      ],
+      "lemmaPartition": "proud%3:00:00:: -> inner feeling of self-respect or satisfaction in something valued, or a source of such feeling | proud%5:00:00:impressive:00 -> outward dignity or noble bearing in appearance or manner",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "require%2:42:00::",
+      "lemma": "require",
+      "pos": "v",
+      "definition": "require as useful, just, or proper",
+      "decision": "gloss",
+      "simpleMeaning": "to make something necessary because it is needed, fair, or right.",
+      "scope": "This is about something being needed or called for by what is right or proper, not about asking for a favour or begging for something.",
+      "examples": [
+        "The job requires patience and a good eye for detail.",
+        "The law requires all drivers to carry a licence."
+      ],
+      "branchCoverage": [
+        "require as useful, just, or proper -> to make something necessary because it is needed, fair, or right"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "require as useful, just, or proper"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "van%1:06:02::",
+      "lemma": "van",
+      "pos": "n",
+      "definition": "(Great Britain) a closed railroad car that carries baggage or freight",
+      "decision": "gloss",
+      "simpleMeaning": "a closed railway carriage used for carrying luggage or goods.",
+      "scope": "This is a railway carriage for luggage or goods, not a road vehicle and not a creative group of artists.",
+      "examples": [
+        "The guard put our suitcases in the van at the back of the train.",
+        "A long goods van stood alone on a side track."
+      ],
+      "branchCoverage": [
+        "(Great Britain) a closed railroad car that carries baggage or freight -> a closed railway carriage used for carrying luggage or goods"
+      ],
+      "labelBranches": [
+        "(Great Britain) a closed railroad car that carries baggage or freight -> the opening '(Great Britain)' is a regional usage label, not meaning content"
+      ],
+      "sourceBranches": [
+        "(Great Britain) a closed railroad car that carries baggage or freight"
+      ],
+      "lemmaPartition": "van%1:06:02:: -> British railway carriage for luggage or goods | van%1:14:01:: -> creative group leading with new ideas (archaic; deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "van%1:14:01::",
+      "lemma": "van",
+      "pos": "n",
+      "definition": "any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)",
+      "decision": "defer",
+      "reason": "This 'avant-garde' use of 'van' is archaic and literary; natural modern sentences would use 'vanguard' or 'avant-garde' instead, so two idiomatic examples cannot be written without sounding stilted, and the word in this sense is not useful learner vocabulary.",
+      "sourceBranches": [
+        "any creative group active in the innovation and application of new concepts and techniques in a given field (especially in the arts)"
+      ],
+      "lemmaPartition": "van%1:06:02:: -> British railway carriage for luggage or goods | van%1:14:01:: -> creative group leading with new ideas (archaic; deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wood%1:27:00::",
+      "lemma": "wood",
+      "pos": "n",
+      "definition": "the hard fibrous lignified substance under the bark of trees",
+      "decision": "gloss",
+      "simpleMeaning": "the hard material that forms the trunk and branches of a tree, found under the outer covering.",
+      "scope": "This is the material a tree is made of, not a group of trees or a musical instrument.",
+      "examples": [
+        "The table is made of solid oak wood.",
+        "He cut wood for the fire all afternoon."
+      ],
+      "branchCoverage": [
+        "the hard fibrous lignified substance under the bark of trees -> the hard material that forms the trunk and branches of a tree, found under the outer covering"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the hard fibrous lignified substance under the bark of trees"
+      ],
+      "lemmaPartition": "wood%1:27:00:: -> the material a tree is made of | wood%1:06:01:: -> a woodwind musical instrument (specialist use; deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wood%1:06:01::",
+      "lemma": "wood",
+      "pos": "n",
+      "definition": "any wind instrument other than the brass instruments",
+      "decision": "defer",
+      "reason": "Using bare 'wood' for a woodwind instrument is specialist orchestral usage; ordinary English uses the derived word 'woodwind', and 'the woods' would be read as a group of trees, so the sense cannot be shown in two clean, unambiguous examples.",
+      "sourceBranches": [
+        "any wind instrument other than the brass instruments"
+      ],
+      "lemmaPartition": "wood%1:27:00:: -> the material a tree is made of | wood%1:06:01:: -> a woodwind musical instrument (specialist use; deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "birth%1:22:00::",
+      "lemma": "birth",
+      "pos": "n",
+      "definition": "the process of giving birth",
+      "decision": "gloss",
+      "simpleMeaning": "the process in which a baby comes out of its mother's body.",
+      "scope": "This is the physical process of a baby being born, not the date someone was born or the beginning of an idea.",
+      "examples": [
+        "She was present at the birth of both her grandchildren.",
+        "The birth was long and difficult, but mother and baby were soon well."
+      ],
+      "branchCoverage": [
+        "the process of giving birth -> the process in which a baby comes out of its mother's body"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the process of giving birth"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bridge%1:06:05::",
+      "lemma": "bridge",
+      "pos": "n",
+      "definition": "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected",
+      "decision": "gloss",
+      "simpleMeaning": "an electric circuit made of two branches with four arms in a diamond shape and a measuring meter connected across it.",
+      "scope": "This is an electrical measuring circuit, not a structure that carries people over water.",
+      "examples": [
+        "The technician used a bridge to measure the resistance of the wire.",
+        "The bridge gave a steady reading once the four arms were adjusted."
+      ],
+      "branchCoverage": [
+        "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected -> an electric circuit made of two branches with four arms in a diamond shape and a measuring meter connected across it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a circuit consisting of two branches (4 arms arranged in a diamond configuration) across which a meter is connected"
+      ],
+      "lemmaPartition": "bridge%1:06:05:: -> a measuring circuit with four arms in a diamond | bridge%1:06:00:: -> a built structure for crossing an obstacle | bridge%1:24:00:: -> anything resembling such a structure in form or function | bridge%2:35:00:: -> build such a structure across something | bridge%2:38:00:: -> travel across by means of such a structure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bridge%1:06:00::",
+      "lemma": "bridge",
+      "pos": "n",
+      "definition": "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.",
+      "decision": "gloss",
+      "simpleMeaning": "a structure built over a river, road, or railway so that people or vehicles can reach the other side.",
+      "scope": "This is a built structure for crossing an obstacle, not a card game or a link between ideas.",
+      "examples": [
+        "We walked across the bridge to the other bank.",
+        "The old stone bridge has been closed for repairs."
+      ],
+      "branchCoverage": [
+        "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc -> a structure built over a river, road, or railway so that people or vehicles can reach the other side"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc"
+      ],
+      "lemmaPartition": "bridge%1:06:05:: -> a measuring circuit with four arms in a diamond | bridge%1:06:00:: -> a built structure for crossing an obstacle | bridge%1:24:00:: -> anything resembling such a structure in form or function | bridge%2:35:00:: -> build such a structure across something | bridge%2:38:00:: -> travel across by means of such a structure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bridge%1:24:00::",
+      "lemma": "bridge",
+      "pos": "n",
+      "definition": "something resembling a bridge in form or function",
+      "decision": "gloss",
+      "simpleMeaning": "a part or thing that looks like a crossing structure or joins two sides the way one does.",
+      "scope": "This is anything that resembles a crossing structure in shape or job, not a real built crossing for traffic.",
+      "examples": [
+        "The bridge of her glasses had snapped.",
+        "A narrow bridge of land once joined the island to the mainland."
+      ],
+      "branchCoverage": [
+        "something resembling a bridge in form or function -> a part or thing that looks like a crossing structure or joins two sides the way one does"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something resembling a bridge in form or function"
+      ],
+      "lemmaPartition": "bridge%1:06:05:: -> a measuring circuit with four arms in a diamond | bridge%1:06:00:: -> a built structure for crossing an obstacle | bridge%1:24:00:: -> anything resembling such a structure in form or function | bridge%2:35:00:: -> build such a structure across something | bridge%2:38:00:: -> travel across by means of such a structure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bridge%2:35:00::",
+      "lemma": "bridge",
+      "pos": "v",
+      "definition": "make a bridge across",
+      "decision": "gloss",
+      "simpleMeaning": "to build a structure that lets people or vehicles get over a river, road, or railway.",
+      "scope": "This means putting a crossing in place, not travelling across one that is already there.",
+      "examples": [
+        "Engineers bridged the river in less than a year.",
+        "The council bridged the railway to link the two halves of the town."
+      ],
+      "branchCoverage": [
+        "make a bridge across -> to build a structure that lets people or vehicles get over a river, road, or railway"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make a bridge across"
+      ],
+      "lemmaPartition": "bridge%1:06:05:: -> a measuring circuit with four arms in a diamond | bridge%1:06:00:: -> a built structure for crossing an obstacle | bridge%1:24:00:: -> anything resembling such a structure in form or function | bridge%2:35:00:: -> build such a structure across something | bridge%2:38:00:: -> travel across by means of such a structure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bridge%2:38:00::",
+      "lemma": "bridge",
+      "pos": "v",
+      "definition": "cross over on a bridge",
+      "decision": "gloss",
+      "simpleMeaning": "to go across something by way of a crossing structure.",
+      "scope": "This means travelling across by means of a crossing, not building one.",
+      "examples": [
+        "The railway bridges the river just north of the station.",
+        "The old road bridges the stream at the mill."
+      ],
+      "branchCoverage": [
+        "cross over on a bridge -> to go across something by way of a crossing structure"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cross over on a bridge"
+      ],
+      "lemmaPartition": "bridge%1:06:05:: -> a measuring circuit with four arms in a diamond | bridge%1:06:00:: -> a built structure for crossing an obstacle | bridge%1:24:00:: -> anything resembling such a structure in form or function | bridge%2:35:00:: -> build such a structure across something | bridge%2:38:00:: -> travel across by means of such a structure",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "completed%5:00:00:consummated:00",
+      "lemma": "completed",
+      "pos": "a",
+      "definition": "(of a marriage) completed by the first act of sexual intercourse after the ceremony",
+      "decision": "gloss",
+      "simpleMeaning": "used of a marriage that has been sealed by the couple having sex for the first time after the wedding.",
+      "scope": "This describes a marriage sealed in a physical way, not a task or piece of work that has been finished.",
+      "examples": [
+        "In those days a marriage was not completed until the wedding night.",
+        "The old law treated the marriage as completed only after the couple had slept together."
+      ],
+      "branchCoverage": [
+        "(of a marriage) completed by the first act of sexual intercourse after the ceremony -> used of a marriage that has been sealed by the couple having sex for the first time after the wedding"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of a marriage) completed by the first act of sexual intercourse after the ceremony"
+      ],
+      "lemmaPartition": "completed%5:00:00:consummated:00 -> a marriage sealed by first sex after the wedding | completed%5:00:00:complete:00 -> a task or process finished successfully",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "completed%5:00:00:complete:00",
+      "lemma": "completed",
+      "pos": "a",
+      "definition": "successfully completed or brought to an end",
+      "decision": "gloss",
+      "simpleMeaning": "finished and brought to a successful end.",
+      "scope": "This describes a task or process that has been finished, not a marriage sealed in a physical way.",
+      "examples": [
+        "The completed report was sent to the board.",
+        "Once the repairs are completed, the road will reopen."
+      ],
+      "branchCoverage": [
+        "successfully completed or brought to an end -> finished and brought to a successful end"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "successfully completed or brought to an end"
+      ],
+      "lemmaPartition": "completed%5:00:00:consummated:00 -> a marriage sealed by first sex after the wedding | completed%5:00:00:complete:00 -> a task or process finished successfully",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "concept%1:09:00::",
+      "lemma": "concept",
+      "pos": "n",
+      "definition": "an abstract or general idea inferred or derived from specific instances",
+      "decision": "gloss",
+      "simpleMeaning": "a general idea formed from particular examples or experiences.",
+      "scope": "This is an abstract idea built from examples, not a plan for a particular product or a first rough design.",
+      "examples": [
+        "Young children learn the concept of number through play.",
+        "The concept of fairness is difficult to explain to a toddler."
+      ],
+      "branchCoverage": [
+        "an abstract or general idea inferred or derived from specific instances -> a general idea formed from particular examples or experiences"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an abstract or general idea inferred or derived from specific instances"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "copy%1:10:01::",
+      "lemma": "copy",
+      "pos": "n",
+      "definition": "matter to be printed; exclusive of graphical materials",
+      "decision": "gloss",
+      "simpleMeaning": "the written words that are going to be printed, not including pictures or other images.",
+      "scope": "This is written text prepared for printing, not a reproduction of a document or one example of a book.",
+      "examples": [
+        "She writes copy for a travel website.",
+        "The headline was too long, so the copy editor cut it."
+      ],
+      "branchCoverage": [
+        "matter to be printed -> the written words that are going to be printed",
+        "exclusive of graphical materials -> not including pictures or other images"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "matter to be printed",
+        "exclusive of graphical materials"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dear%1:18:01::",
+      "lemma": "dear",
+      "pos": "n",
+      "definition": "a sweet innocent mild-mannered person (especially a child)",
+      "decision": "gloss",
+      "simpleMeaning": "a kind, gentle person who seems free of any badness, especially a child.",
+      "scope": "This is a warm word for a gentle, likeable person, not a word for someone you love romantically or for something expensive.",
+      "examples": [
+        "He is such a dear, always helping his neighbours.",
+        "The little girl was a dear and shared her toys with everyone."
+      ],
+      "branchCoverage": [
+        "a sweet innocent mild-mannered person (especially a child) -> a kind, gentle person who seems free of any badness, especially a child"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a sweet innocent mild-mannered person (especially a child)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "garden%1:14:00::",
+      "lemma": "garden",
+      "pos": "n",
+      "definition": "the flowers or vegetables or fruits or herbs that are cultivated in a garden",
+      "decision": "defer",
+      "reason": "The use of 'garden' for the plants themselves, rather than the ground, is rare and marginal; every natural sentence also reads as the plot where they grow, so the sense cannot be shown without ambiguity with the sibling sense.",
+      "sourceBranches": [
+        "the flowers or vegetables or fruits or herbs that are cultivated in a garden"
+      ],
+      "lemmaPartition": "garden%1:14:00:: -> the cultivated plants themselves (marginal use; deferred) | garden%1:06:01:: -> the ground or lawn beside a house",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "garden%1:06:01::",
+      "lemma": "garden",
+      "pos": "n",
+      "definition": "a yard or lawn adjoining a house",
+      "decision": "gloss",
+      "simpleMeaning": "an area of grass or ground beside a house.",
+      "scope": "This is the ground beside a house, not the plants growing in it and not a public park.",
+      "examples": [
+        "The children were playing in the garden.",
+        "We had tea in the garden behind the house."
+      ],
+      "branchCoverage": [
+        "a yard or lawn adjoining a house -> an area of grass or ground beside a house"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a yard or lawn adjoining a house"
+      ],
+      "lemmaPartition": "garden%1:14:00:: -> the cultivated plants themselves (marginal use; deferred) | garden%1:06:01:: -> the ground or lawn beside a house",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "host%1:05:00::",
+      "lemma": "host",
+      "pos": "n",
+      "definition": "an animal or plant that nourishes and supports a parasite; it does not benefit and is often harmed by the association",
+      "decision": "gloss",
+      "simpleMeaning": "an animal or plant that feeds and shelters a parasite, gaining nothing and often being harmed by it.",
+      "scope": "This is a living creature that supports a parasite, not a person who invites guests.",
+      "examples": [
+        "The tick's host was a deer.",
+        "Some worms need two hosts to complete their life cycle."
+      ],
+      "branchCoverage": [
+        "an animal or plant that nourishes and supports a parasite -> an animal or plant that feeds and shelters a parasite",
+        "it does not benefit and is often harmed by the association -> gaining nothing and often being harmed by it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an animal or plant that nourishes and supports a parasite",
+        "it does not benefit and is often harmed by the association"
+      ],
+      "lemmaPartition": "host%1:05:00:: -> a living creature that supports a parasite | host%1:18:02:: -> a person who invites and looks after guests",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "host%1:18:02::",
+      "lemma": "host",
+      "pos": "n",
+      "definition": "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there",
+      "decision": "gloss",
+      "simpleMeaning": "a person who invites guests to a party or other social event and looks after them while they are there.",
+      "scope": "This is a person who receives and looks after guests, not an animal or plant that carries a parasite.",
+      "examples": [
+        "Our host met us at the door with a drink.",
+        "She was a generous host and made sure everyone had enough to eat."
+      ],
+      "branchCoverage": [
+        "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there -> a person who invites guests to a party or other social event and looks after them while they are there"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who invites guests to a social event (such as a party in his or her own home) and who is responsible for them while they are there"
+      ],
+      "lemmaPartition": "host%1:05:00:: -> a living creature that supports a parasite | host%1:18:02:: -> a person who invites and looks after guests",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "housing%1:06:02::",
+      "lemma": "housing",
+      "pos": "n",
+      "definition": "stable gear consisting of a decorated covering for a horse, especially (formerly) for a warhorse",
+      "decision": "gloss",
+      "simpleMeaning": "a decorated cloth covering that a horse wears, especially one worn by a warhorse in the past.",
+      "scope": "This is decorative cloth for a horse, not a cover for a machine part or a building where people live.",
+      "examples": [
+        "The knights' horses wore red and gold housings at the tournament.",
+        "The tapestry shows a warhorse in embroidered housing."
+      ],
+      "branchCoverage": [
+        "stable gear consisting of a decorated covering for a horse, especially (formerly) for a warhorse -> a decorated cloth covering that a horse wears, especially one worn by a warhorse in the past"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "stable gear consisting of a decorated covering for a horse, especially (formerly) for a warhorse"
+      ],
+      "lemmaPartition": "housing%1:06:02:: -> decorated cloth covering for a horse | housing%1:06:01:: -> protective case for a machine part | housing%1:06:00:: -> buildings people live in, taken together",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "housing%1:06:01::",
+      "lemma": "housing",
+      "pos": "n",
+      "definition": "a protective cover designed to contain or support a mechanical component",
+      "decision": "gloss",
+      "simpleMeaning": "a case that holds and protects a part of a machine.",
+      "scope": "This is a protective case for a machine part, not a building where people live or a cloth for a horse.",
+      "examples": [
+        "The gears are sealed inside a metal housing.",
+        "Remove the plastic housing to reach the battery."
+      ],
+      "branchCoverage": [
+        "a protective cover designed to contain or support a mechanical component -> a case that holds and protects a part of a machine"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a protective cover designed to contain or support a mechanical component"
+      ],
+      "lemmaPartition": "housing%1:06:02:: -> decorated cloth covering for a horse | housing%1:06:01:: -> protective case for a machine part | housing%1:06:00:: -> buildings people live in, taken together",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "housing%1:06:00::",
+      "lemma": "housing",
+      "pos": "n",
+      "definition": "structures collectively in which people are housed",
+      "decision": "gloss",
+      "simpleMeaning": "the buildings in which people live, considered together as a group.",
+      "scope": "This means buildings where people live, not a machine cover or a horse's cloth.",
+      "examples": [
+        "The city needs more affordable housing.",
+        "Poor housing is linked to bad health."
+      ],
+      "branchCoverage": [
+        "structures collectively in which people are housed -> the buildings in which people live, considered together as a group"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "structures collectively in which people are housed"
+      ],
+      "lemmaPartition": "housing%1:06:02:: -> decorated cloth covering for a horse | housing%1:06:01:: -> protective case for a machine part | housing%1:06:00:: -> buildings people live in, taken together",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "journal%1:21:00::",
+      "lemma": "journal",
+      "pos": "n",
+      "definition": "a ledger in which transactions have been recorded as they occurred",
+      "decision": "gloss",
+      "simpleMeaning": "a record book in which money dealings are written down in the order they take place",
+      "scope": "This is not a magazine or newspaper, and not a personal diary of thoughts; it is a book for recording money dealings in order.",
+      "examples": [
+        "She records every sale in the journal as soon as it happens.",
+        "The auditor compared the journal with the bank statements."
+      ],
+      "branchCoverage": [
+        "a ledger in which transactions have been recorded as they occurred -> a record book in which money dealings are written down in the order they take place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a ledger in which transactions have been recorded as they occurred"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "labor%1:26:00::",
+      "lemma": "labor",
+      "pos": "n",
+      "definition": "concluding state of pregnancy; from the onset of contractions to the birth of a child",
+      "decision": "gloss",
+      "simpleMeaning": "the last stage of pregnancy, from the first tightening of the womb until the baby is born",
+      "scope": "This is not pregnancy as a whole and not the birth itself, and it has nothing to do with work or a social class.",
+      "examples": [
+        "She was in labor for twelve hours before the baby was born.",
+        "The midwife told her to go to the hospital as soon as labor started."
+      ],
+      "branchCoverage": [
+        "concluding state of pregnancy -> the last stage of pregnancy",
+        "from the onset of contractions to the birth of a child -> from the first tightening of the womb until the baby is born"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "concluding state of pregnancy",
+        "from the onset of contractions to the birth of a child"
+      ],
+      "lemmaPartition": "labor%1:26:00:: = the last stage of pregnancy before birth; labor%1:14:00:: = the social group of people who do physical or paid work",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "labor%1:14:00::",
+      "lemma": "labor",
+      "pos": "n",
+      "definition": "a social class comprising those who do manual labor or work for wages",
+      "decision": "gloss",
+      "simpleMeaning": "the social group made up of people who do physical work or work for pay",
+      "scope": "This is not the stage of childbirth and not work as an activity; it is a social group of workers, often set against owners or managers.",
+      "examples": [
+        "The union says it speaks for labor in these negotiations.",
+        "In the old mill towns, labor and management lived in separate neighborhoods."
+      ],
+      "branchCoverage": [
+        "a social class comprising those who do manual labor or work for wages -> the social group made up of people who do physical work or work for pay"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a social class comprising those who do manual labor or work for wages"
+      ],
+      "lemmaPartition": "labor%1:26:00:: = the last stage of pregnancy before birth; labor%1:14:00:: = the social group of people who do physical or paid work",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leadership%1:26:00::",
+      "lemma": "leadership",
+      "pos": "n",
+      "definition": "the status of a leader",
+      "decision": "gloss",
+      "simpleMeaning": "the position of being the person in charge of a group",
+      "scope": "This is not the ability to lead and not the group of people who lead, but the rank or position itself.",
+      "examples": [
+        "She took over the leadership of the department last year.",
+        "After the election, the leadership of the party passed to a younger politician."
+      ],
+      "branchCoverage": [
+        "the status of a leader -> the position of being the person in charge of a group"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the status of a leader"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "length%1:07:00::",
+      "lemma": "length",
+      "pos": "n",
+      "definition": "the linear extent in space from one end to the other; the longest dimension of something that is fixed in place",
+      "decision": "gloss",
+      "simpleMeaning": "the distance from one end of a fixed object to the other, measured along its greatest extent",
+      "scope": "This is not the amount of time something lasts, and not the distance covered by something that moves.",
+      "examples": [
+        "The table has a length of two meters.",
+        "Measure the length of the wall before you buy the shelf."
+      ],
+      "branchCoverage": [
+        "the linear extent in space from one end to the other -> the distance from one end of a fixed object to the other",
+        "the longest dimension of something that is fixed in place -> measured along its greatest extent"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the linear extent in space from one end to the other",
+        "the longest dimension of something that is fixed in place"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "neither%5:00:00:incomplete:00",
+      "lemma": "neither",
+      "pos": "a",
+      "definition": "not either; not one or the other; entity, dual, negative pronoun; quantifier, dual, negative",
+      "decision": "gloss",
+      "simpleMeaning": "not one and not the other of two things or people",
+      "scope": "This does not mean both of the two and does not cover three or more things; it applies only to a pair.",
+      "examples": [
+        "Neither answer is correct.",
+        "Neither of the two candidates impressed the panel."
+      ],
+      "branchCoverage": [
+        "not either -> not one and not the other",
+        "not one or the other -> not one and not the other of two things or people",
+        "entity, dual, negative pronoun -> grammar label only; adds no meaning beyond the two meaning branches",
+        "quantifier, dual, negative -> grammar label only; adds no meaning beyond the two meaning branches"
+      ],
+      "labelBranches": [
+        "entity, dual, negative pronoun -> grammatical class label, not meaning content",
+        "quantifier, dual, negative -> grammatical class label, not meaning content"
+      ],
+      "sourceBranches": [
+        "not either",
+        "not one or the other",
+        "entity, dual, negative pronoun",
+        "quantifier, dual, negative"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "patient%1:10:00::",
+      "lemma": "patient",
+      "pos": "n",
+      "definition": "the semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause",
+      "decision": "gloss",
+      "simpleMeaning": "the person or thing that is acted on or affected by a verb's action, rather than the one doing it",
+      "scope": "This is not a sick person under medical care and not the doer of the action, but the grammatical role of what is acted on.",
+      "examples": [
+        "In the sentence 'The ball was kicked,' the ball is the patient.",
+        "Grammarians call the thing affected by the action the patient."
+      ],
+      "branchCoverage": [
+        "the semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause -> the person or thing that is acted on or affected by a verb's action, rather than the one doing it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the semantic role of an entity that is not the agent but is directly involved in or affected by the happening denoted by the verb in the clause"
+      ],
+      "lemmaPartition": "patient%1:10:00:: = the grammatical role of what is acted on; patient%3:00:00:: = able to stay calm through difficulty",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "patient%3:00:00::",
+      "lemma": "patient",
+      "pos": "a",
+      "definition": "enduring trying circumstances with even temper or characterized by such endurance",
+      "decision": "gloss",
+      "simpleMeaning": "able to stay calm and keep going through difficulty or delay without getting upset",
+      "scope": "This is not about waiting a short while and not about medical care; it is about staying calm through real difficulty.",
+      "examples": [
+        "She was patient with the slower students in her class.",
+        "You have to be patient; the test results will take a week."
+      ],
+      "branchCoverage": [
+        "enduring trying circumstances with even temper or characterized by such endurance -> able to stay calm and keep going through difficulty or delay without getting upset"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "enduring trying circumstances with even temper or characterized by such endurance"
+      ],
+      "lemmaPartition": "patient%1:10:00:: = the grammatical role of what is acted on; patient%3:00:00:: = able to stay calm through difficulty",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "possibly%4:02:01::",
+      "lemma": "possibly",
+      "pos": "r",
+      "definition": "to a degree possible of achievement or by possible means",
+      "decision": "gloss",
+      "simpleMeaning": "to the greatest degree that can actually be achieved or done",
+      "scope": "This does not mean perhaps or maybe; it is about what can actually be achieved.",
+      "examples": [
+        "Please answer as soon as you possibly can.",
+        "She helped in every way she possibly could."
+      ],
+      "branchCoverage": [
+        "to a degree possible of achievement or by possible means -> to the greatest degree that can actually be achieved or done"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "to a degree possible of achievement or by possible means"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "prove%2:31:00::",
+      "lemma": "prove",
+      "pos": "v",
+      "definition": "establish the validity of something, as by an example, explanation or experiment",
+      "decision": "gloss",
+      "simpleMeaning": "to show that something is true or correct with facts, reasons, or test results",
+      "scope": "This is not about testing something to see how it works and not about turning out to be true; it is about establishing the truth.",
+      "examples": [
+        "Scientists have proved that the new drug works.",
+        "Can you prove where you were on the night of the fire?"
+      ],
+      "branchCoverage": [
+        "establish the validity of something, as by an example, explanation or experiment -> to show that something is true or correct with facts, reasons, or test results"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "establish the validity of something, as by an example, explanation or experiment"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rare%5:00:00:uncommon:00",
+      "lemma": "rare",
+      "pos": "a",
+      "definition": "not widely known; especially valued for its uncommonness",
+      "decision": "gloss",
+      "simpleMeaning": "not known or seen by many people, and valued because it is unusual",
+      "scope": "This is not about something that only happens now and then, but about something little known and prized for being unusual.",
+      "examples": [
+        "This is a rare edition of the novel.",
+        "Collectors pay high prices for rare stamps."
+      ],
+      "branchCoverage": [
+        "not widely known -> not known or seen by many people",
+        "especially valued for its uncommonness -> valued because it is unusual"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "not widely known",
+        "especially valued for its uncommonness"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "setting%1:06:01::",
+      "lemma": "setting",
+      "pos": "n",
+      "definition": "arrangement of scenery and properties to represent the place where a play or movie is enacted",
+      "decision": "gloss",
+      "simpleMeaning": "the furniture, scenery, and objects arranged on a stage to show where the action of a play or film takes place",
+      "scope": "This is not the general time and place of a story and not the act of putting something in place; it is the arranged scenery and objects for a performance.",
+      "examples": [
+        "The stage setting for the final scene was a shabby hotel room.",
+        "The designer created an elaborate setting with fake trees and a painted sky."
+      ],
+      "branchCoverage": [
+        "arrangement of scenery and properties to represent the place where a play or movie is enacted -> the furniture, scenery, and objects arranged on a stage to show where the action of a play or film takes place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "arrangement of scenery and properties to represent the place where a play or movie is enacted"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "tough%1:18:02::",
+      "lemma": "tough",
+      "pos": "n",
+      "definition": "someone who learned to fight in the streets rather than being formally trained in the sport of boxing",
+      "decision": "gloss",
+      "simpleMeaning": "a person who learned to fight in the streets instead of training in a boxing gym",
+      "scope": "This is not a trained boxer and not merely a strong person; it is someone whose fighting skill came from street experience.",
+      "examples": [
+        "He grew up as a street tough, never trained in any boxing gym.",
+        "The bouncer kept an eye on the toughs hanging around the entrance."
+      ],
+      "branchCoverage": [
+        "someone who learned to fight in the streets rather than being formally trained in the sport of boxing -> a person who learned to fight in the streets instead of training in a boxing gym"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "someone who learned to fight in the streets rather than being formally trained in the sport of boxing"
+      ],
+      "lemmaPartition": "tough%1:18:02:: = a street-trained fighter (noun); tough%5:00:01:difficult:00 = demanding and very hard (adjective); tough%3:00:02:: = made hard and strong by rough use (adjective)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "tough%5:00:01:difficult:00",
+      "lemma": "tough",
+      "pos": "a",
+      "definition": "very difficult; severely testing stamina or resolution",
+      "decision": "gloss",
+      "simpleMeaning": "very hard to deal with and demanding great strength or determination",
+      "scope": "This is not about the hardness of a material or the strength of a person; it describes a task or period that is demanding.",
+      "examples": [
+        "It was a tough year for the whole family.",
+        "The final exam was tough but fair."
+      ],
+      "branchCoverage": [
+        "very difficult -> very hard to deal with",
+        "severely testing stamina or resolution -> demanding great strength or determination"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "very difficult",
+        "severely testing stamina or resolution"
+      ],
+      "lemmaPartition": "tough%1:18:02:: = a street-trained fighter (noun); tough%5:00:01:difficult:00 = demanding and very hard (adjective); tough%3:00:02:: = made hard and strong by rough use (adjective)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "tough%3:00:02::",
+      "lemma": "tough",
+      "pos": "a",
+      "definition": "physically toughened",
+      "decision": "gloss",
+      "simpleMeaning": "made hard and strong by rough use or hard conditions",
+      "scope": "This is not about a difficult task and not about a street fighter; it describes a body or material made hard and strong.",
+      "examples": [
+        "His feet were tough after years of walking barefoot.",
+        "Decades of heavy work had made her hands tough."
+      ],
+      "branchCoverage": [
+        "physically toughened -> made hard and strong by rough use or hard conditions"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "physically toughened"
+      ],
+      "lemmaPartition": "tough%1:18:02:: = a street-trained fighter (noun); tough%5:00:01:difficult:00 = demanding and very hard (adjective); tough%3:00:02:: = made hard and strong by rough use (adjective)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "balance%1:07:00::",
+      "lemma": "balance",
+      "pos": "n",
+      "definition": "harmonious arrangement or relation of parts or elements within a whole (as in a design)",
+      "decision": "gloss",
+      "simpleMeaning": "a pleasing arrangement in which the parts of a whole fit well together, as in a design",
+      "scope": "This is not the equality of money in an account and not physical steadiness; it is the pleasing arrangement of parts in a whole.",
+      "examples": [
+        "The painting has a fine balance between light and dark areas.",
+        "The designer achieved a balance of colors and shapes."
+      ],
+      "branchCoverage": [
+        "harmonious arrangement or relation of parts or elements within a whole (as in a design) -> a pleasing arrangement in which the parts of a whole fit well together, as in a design"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "harmonious arrangement or relation of parts or elements within a whole (as in a design)"
+      ],
+      "lemmaPartition": "balance%1:07:00:: = pleasing arrangement of parts in a design; balance%1:21:00:: = equality of the two sides of an account; balance%2:40:00:: = add up an account's money received and paid; balance%2:42:00:: = make things equal or steady",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "balance%1:21:00::",
+      "lemma": "balance",
+      "pos": "n",
+      "definition": "equality between the totals of the credit and debit sides of an account",
+      "decision": "gloss",
+      "simpleMeaning": "a state in which the two sides of an account, money received and money paid, are equal",
+      "scope": "This is not the pleasing arrangement of a design and not physical steadiness; it concerns the two sides of a financial account.",
+      "examples": [
+        "After the audit, the account was in balance.",
+        "The books were out of balance until the missing invoice was found."
+      ],
+      "branchCoverage": [
+        "equality between the totals of the credit and debit sides of an account -> a state in which the two sides of an account, money received and money paid, are equal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "equality between the totals of the credit and debit sides of an account"
+      ],
+      "lemmaPartition": "balance%1:07:00:: = pleasing arrangement of parts in a design; balance%1:21:00:: = equality of the two sides of an account; balance%2:40:00:: = add up an account's money received and paid; balance%2:42:00:: = make things equal or steady",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "balance%2:40:00::",
+      "lemma": "balance",
+      "pos": "v",
+      "definition": "compute credits and debits of an account",
+      "decision": "gloss",
+      "simpleMeaning": "to add up the money received and the money paid in an account",
+      "scope": "This is not the act of making things equal in weight and not the state of an account; it is the work of adding up its entries.",
+      "examples": [
+        "She balances the accounts every Friday afternoon.",
+        "He spent the evening balancing the company's books."
+      ],
+      "branchCoverage": [
+        "compute credits and debits of an account -> to add up the money received and the money paid in an account"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "compute credits and debits of an account"
+      ],
+      "lemmaPartition": "balance%1:07:00:: = pleasing arrangement of parts in a design; balance%1:21:00:: = equality of the two sides of an account; balance%2:40:00:: = add up an account's money received and paid; balance%2:42:00:: = make things equal or steady",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "balance%2:42:00::",
+      "lemma": "balance",
+      "pos": "v",
+      "definition": "bring into balance or equilibrium",
+      "decision": "gloss",
+      "simpleMeaning": "to make two or more things equal or steady so that no side is heavier or stronger",
+      "scope": "This is not about adding up an account and not about the parts of a design; it is making things equal or steady.",
+      "examples": [
+        "She balanced the tray on one hand.",
+        "You need to balance work and rest."
+      ],
+      "branchCoverage": [
+        "bring into balance or equilibrium -> to make two or more things equal or steady so that no side is heavier or stronger"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "bring into balance or equilibrium"
+      ],
+      "lemmaPartition": "balance%1:07:00:: = pleasing arrangement of parts in a design; balance%1:21:00:: = equality of the two sides of an account; balance%2:40:00:: = add up an account's money received and paid; balance%2:42:00:: = make things equal or steady",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cards%1:04:00::",
+      "lemma": "cards",
+      "pos": "n",
+      "definition": "a game played with playing cards",
+      "decision": "gloss",
+      "simpleMeaning": "a game in which players use a set of small printed pieces with numbers and pictures",
+      "scope": "This is not the printed pieces themselves, but the game played with them.",
+      "examples": [
+        "The children were playing cards on the floor.",
+        "He learned to play cards from his grandfather."
+      ],
+      "branchCoverage": [
+        "a game played with playing cards -> a game in which players use a set of small printed pieces with numbers and pictures"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a game played with playing cards"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "changing%5:00:00:dynamic:00",
+      "lemma": "changing",
+      "pos": "a",
+      "definition": "marked by continuous change or effective action",
+      "decision": "gloss",
+      "simpleMeaning": "never staying the same, but always moving, developing, or producing effects",
+      "scope": "This is not about a single change that has already happened, but about something that keeps moving or developing.",
+      "examples": [
+        "We live in a changing world.",
+        "The city has a changing population, with new groups arriving every year."
+      ],
+      "branchCoverage": [
+        "marked by continuous change or effective action -> never staying the same, but always moving, developing, or producing effects"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by continuous change or effective action"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "connection%1:24:00::",
+      "lemma": "connection",
+      "pos": "n",
+      "definition": "a relation between things or events (as in the case of one causing the other or sharing features with it)",
+      "decision": "gloss",
+      "simpleMeaning": "a link between two things or events, such as one causing the other or sharing features with it",
+      "scope": "This is not a wire or joint and not the state of being joined; it is an abstract link between things or events.",
+      "examples": [
+        "There is a clear connection between smoking and lung disease.",
+        "Police found no connection between the two crimes."
+      ],
+      "branchCoverage": [
+        "a relation between things or events (as in the case of one causing the other or sharing features with it) -> a link between two things or events, such as one causing the other or sharing features with it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a relation between things or events (as in the case of one causing the other or sharing features with it)"
+      ],
+      "lemmaPartition": "connection%1:24:00:: = abstract link between things or events; connection%1:06:00:: = the physical part that joins things; connection%1:26:00:: = the state of being linked",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "connection%1:06:00::",
+      "lemma": "connection",
+      "pos": "n",
+      "definition": "an instrumentality that connects",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of equipment, such as a wire or pipe, that joins two things together",
+      "scope": "This is not an abstract link between ideas or events and not the state of being joined; it is the physical piece that joins things.",
+      "examples": [
+        "The plumber replaced the rusty connection under the sink.",
+        "The electrician tightened every connection in the fuse box."
+      ],
+      "branchCoverage": [
+        "an instrumentality that connects -> a piece of equipment, such as a wire or pipe, that joins two things together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an instrumentality that connects"
+      ],
+      "lemmaPartition": "connection%1:24:00:: = abstract link between things or events; connection%1:06:00:: = the physical part that joins things; connection%1:26:00:: = the state of being linked",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "connection%1:26:00::",
+      "lemma": "connection",
+      "pos": "n",
+      "definition": "the state of being connected",
+      "decision": "gloss",
+      "simpleMeaning": "the condition of being joined or linked to something",
+      "scope": "This is not the wire or plug itself and not a link of cause or shared features between things or events; it is the condition of being joined to a system or line.",
+      "examples": [
+        "My phone keeps losing its connection to the network.",
+        "The video call failed because the connection was poor."
+      ],
+      "branchCoverage": [
+        "the state of being connected -> the condition of being joined or linked to something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the state of being connected"
+      ],
+      "lemmaPartition": "connection%1:24:00:: = abstract link between things or events; connection%1:06:00:: = the physical part that joins things; connection%1:26:00:: = the state of being linked",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dress%1:06:00::",
+      "lemma": "dress",
+      "pos": "n",
+      "definition": "a one-piece garment for a woman; has skirt and bodice",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of clothing for a woman, made in one piece, with a top joined to a skirt",
+      "scope": "This is not a skirt on its own, not a two-piece outfit, and not the act of putting clothes on.",
+      "examples": [
+        "She wore a long blue dress to the wedding.",
+        "The dress has a lace top and a full skirt."
+      ],
+      "branchCoverage": [
+        "a one-piece garment for a woman -> a piece of clothing for a woman, made in one piece",
+        "has skirt and bodice -> with a top joined to a skirt"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a one-piece garment for a woman",
+        "has skirt and bodice"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

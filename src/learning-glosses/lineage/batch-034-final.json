@@ -1,0 +1,1181 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 34,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 47,
+      "of": 50,
+      "rate": 0.94
+    },
+    "selfApproved": [
+      "silver%2:30:00::",
+      "weird%5:00:00:supernatural:00",
+      "apparently%4:02:01::"
+    ],
+    "lineage": {
+      "draft": "59479c7b38f8dc4e44be53784cec01f663e12ff82c774dee24c2e5e0a2e0ae70"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "ring%2:39:01::",
+      "lemma": "ring",
+      "pos": "v",
+      "definition": "make (bells) ring, often for the purposes of musical edification",
+      "decision": "gloss",
+      "simpleMeaning": "to make bells sound, often to make music or to give musical instruction.",
+      "scope": "This is not the sound a telephone makes, and not a circular object or the act of circling something.",
+      "examples": [
+        "The monks rang the bells for the evening service.",
+        "She rang the church bells to welcome the new year."
+      ],
+      "branchCoverage": [
+        "make (bells) ring, often for the purposes of musical edification -> to make bells sound, often to make music or to give musical instruction"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make (bells) ring, often for the purposes of musical edification"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "silver%2:35:00::",
+      "lemma": "silver",
+      "pos": "v",
+      "definition": "coat with a layer of silver or a silver amalgam",
+      "decision": "gloss",
+      "simpleMeaning": "to cover something with a thin coating of a shiny white metal or of a blend of that metal with mercury.",
+      "scope": "This is not about making something change colour, and not about an object made of the metal; it is about putting a coating on a surface.",
+      "examples": [
+        "The jeweler silvered the pendant to give it a bright finish.",
+        "Workers silvered the back of the mirror so that it would reflect clearly."
+      ],
+      "branchCoverage": [
+        "coat with a layer of silver or a silver amalgam -> to cover something with a thin coating of a shiny white metal or of a blend of that metal with mercury"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "coat with a layer of silver or a silver amalgam"
+      ],
+      "lemmaPartition": "silver%2:35:00:: -> putting a thin coating of the metal, or of a metal-mercury blend, onto a surface\nsilver%5:00:00:achromatic:00 -> a shiny grey colour, or something covered with or tinted by that grey\nsilver%5:00:00:bright:00 -> a bright white shine or sheen on a surface\nsilver%5:00:00:metallic:00 -> an object made of the metal or mostly of it\nsilver%1:21:00:: -> coins made of the metal and used as money\nsilver%2:30:00:: -> an outside cause making something become pale shiny grey\nsilver%2:30:01:: -> something becoming pale shiny grey by itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "silver%5:00:00:achromatic:00",
+      "lemma": "silver",
+      "pos": "a",
+      "definition": "of lustrous grey; covered with or tinged with the color of silver",
+      "decision": "gloss",
+      "simpleMeaning": "shiny grey in colour, or covered with or slightly tinted by that pale metallic grey.",
+      "scope": "This describes a grey colour or tint, not the bright white shine of a polished surface and not being made of the metal.",
+      "examples": [
+        "The sky turned a soft silver grey before the storm.",
+        "He bought a silver car with grey seats."
+      ],
+      "branchCoverage": [
+        "of lustrous grey -> shiny grey in colour",
+        "covered with or tinged with the color of silver -> covered with or slightly tinted by that pale metallic grey"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of lustrous grey",
+        "covered with or tinged with the color of silver"
+      ],
+      "lemmaPartition": "silver%2:35:00:: -> putting a thin coating of the metal, or of a metal-mercury blend, onto a surface\nsilver%5:00:00:achromatic:00 -> a shiny grey colour, or something covered with or tinted by that grey\nsilver%5:00:00:bright:00 -> a bright white shine or sheen on a surface\nsilver%5:00:00:metallic:00 -> an object made of the metal or mostly of it\nsilver%1:21:00:: -> coins made of the metal and used as money\nsilver%2:30:00:: -> an outside cause making something become pale shiny grey\nsilver%2:30:01:: -> something becoming pale shiny grey by itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "silver%5:00:00:bright:00",
+      "lemma": "silver",
+      "pos": "a",
+      "definition": "having the white lustrous sheen of silver",
+      "decision": "gloss",
+      "simpleMeaning": "having a bright white shine like that of polished metal.",
+      "scope": "This describes a bright white shine on a surface, not a grey tint and not being made of the metal.",
+      "examples": [
+        "The satin fabric had a silver sheen in the candlelight.",
+        "The fish's scales flashed with a silver gleam as it jumped."
+      ],
+      "branchCoverage": [
+        "having the white lustrous sheen of silver -> having a bright white shine like that of polished metal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having the white lustrous sheen of silver"
+      ],
+      "lemmaPartition": "silver%2:35:00:: -> putting a thin coating of the metal, or of a metal-mercury blend, onto a surface\nsilver%5:00:00:achromatic:00 -> a shiny grey colour, or something covered with or tinted by that grey\nsilver%5:00:00:bright:00 -> a bright white shine or sheen on a surface\nsilver%5:00:00:metallic:00 -> an object made of the metal or mostly of it\nsilver%1:21:00:: -> coins made of the metal and used as money\nsilver%2:30:00:: -> an outside cause making something become pale shiny grey\nsilver%2:30:01:: -> something becoming pale shiny grey by itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "silver%5:00:00:metallic:00",
+      "lemma": "silver",
+      "pos": "a",
+      "definition": "made from or largely consisting of silver",
+      "decision": "gloss",
+      "simpleMeaning": "made of a shiny white metal, or consisting mostly of it.",
+      "scope": "This is about what an object is made of, not about its colour or its shine.",
+      "examples": [
+        "He polished the silver candlesticks until they shone.",
+        "The museum displays a silver cup from the sixteenth century."
+      ],
+      "branchCoverage": [
+        "made from or largely consisting of silver -> made of a shiny white metal, or consisting mostly of it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "made from or largely consisting of silver"
+      ],
+      "lemmaPartition": "silver%2:35:00:: -> putting a thin coating of the metal, or of a metal-mercury blend, onto a surface\nsilver%5:00:00:achromatic:00 -> a shiny grey colour, or something covered with or tinted by that grey\nsilver%5:00:00:bright:00 -> a bright white shine or sheen on a surface\nsilver%5:00:00:metallic:00 -> an object made of the metal or mostly of it\nsilver%1:21:00:: -> coins made of the metal and used as money\nsilver%2:30:00:: -> an outside cause making something become pale shiny grey\nsilver%2:30:01:: -> something becoming pale shiny grey by itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "silver%1:21:00::",
+      "lemma": "silver",
+      "pos": "n",
+      "definition": "coins made of silver",
+      "decision": "gloss",
+      "simpleMeaning": "coins made from a shiny white metal.",
+      "scope": "This means coins used as money, not the metal in general and not objects such as cutlery.",
+      "examples": [
+        "He paid the farmer in silver.",
+        "The merchant counted the silver coins before locking them away."
+      ],
+      "branchCoverage": [
+        "coins made of silver -> coins made from a shiny white metal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "coins made of silver"
+      ],
+      "lemmaPartition": "silver%2:35:00:: -> putting a thin coating of the metal, or of a metal-mercury blend, onto a surface\nsilver%5:00:00:achromatic:00 -> a shiny grey colour, or something covered with or tinted by that grey\nsilver%5:00:00:bright:00 -> a bright white shine or sheen on a surface\nsilver%5:00:00:metallic:00 -> an object made of the metal or mostly of it\nsilver%1:21:00:: -> coins made of the metal and used as money\nsilver%2:30:00:: -> an outside cause making something become pale shiny grey\nsilver%2:30:01:: -> something becoming pale shiny grey by itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "silver%2:30:00::",
+      "lemma": "silver",
+      "pos": "v",
+      "definition": "make silver in color",
+      "decision": "gloss",
+      "simpleMeaning": "to make something turn a pale shiny grey.",
+      "scope": "This is about an outside cause making something change colour, not about something changing by itself and not about coating a surface with metal.",
+      "examples": [
+        "The moon silvered the surface of the lake.",
+        "Frost had silvered the grass by morning."
+      ],
+      "branchCoverage": [
+        "make silver in color -> to make something turn a pale shiny grey."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make silver in color"
+      ],
+      "lemmaPartition": "silver%2:35:00:: -> putting a thin coating of the metal, or of a metal-mercury blend, onto a surface\nsilver%5:00:00:achromatic:00 -> a shiny grey colour, or something covered with or tinted by that grey\nsilver%5:00:00:bright:00 -> a bright white shine or sheen on a surface\nsilver%5:00:00:metallic:00 -> an object made of the metal or mostly of it\nsilver%1:21:00:: -> coins made of the metal and used as money\nsilver%2:30:00:: -> an outside cause making something become pale shiny grey\nsilver%2:30:01:: -> something becoming pale shiny grey by itself",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 ('with a thin coating') is the metal-coating sibling sense that the scope explicitly excludes."
+    },
+    {
+      "senseId": "silver%2:30:01::",
+      "lemma": "silver",
+      "pos": "v",
+      "definition": "turn silver",
+      "decision": "gloss",
+      "simpleMeaning": "to turn pale shiny grey by itself, without anything else acting on it.",
+      "scope": "This is about something becoming pale grey by itself, not about an outside force making it change and not about a metal coating.",
+      "examples": [
+        "Her hair had silvered over the years.",
+        "The old mirror had silvered with age."
+      ],
+      "branchCoverage": [
+        "turn silver -> to turn pale shiny grey by itself, without anything else acting on it."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "turn silver"
+      ],
+      "lemmaPartition": "silver%2:35:00:: -> putting a thin coating of the metal, or of a metal-mercury blend, onto a surface\nsilver%5:00:00:achromatic:00 -> a shiny grey colour, or something covered with or tinted by that grey\nsilver%5:00:00:bright:00 -> a bright white shine or sheen on a surface\nsilver%5:00:00:metallic:00 -> an object made of the metal or mostly of it\nsilver%1:21:00:: -> coins made of the metal and used as money\nsilver%2:30:00:: -> an outside cause making something become pale shiny grey\nsilver%2:30:01:: -> something becoming pale shiny grey by itself",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "soul%1:03:00::",
+      "lemma": "soul",
+      "pos": "n",
+      "definition": "a human being; person, singular, assertive existential pronoun; pronoun, person, singular; quantifier: assertive existential",
+      "decision": "gloss",
+      "simpleMeaning": "a person, especially one thought of as a single individual.",
+      "scope": "This is not the spiritual part of a person that is believed to survive death; it means a whole person, often in statements about no one being present.",
+      "examples": [
+        "Not a soul was stirring in the village that night.",
+        "The poor soul had walked for miles in the rain."
+      ],
+      "branchCoverage": [
+        "a human being -> a person",
+        "person, singular, assertive existential pronoun -> grammar label only (see labelBranches)",
+        "pronoun, person, singular -> grammar label only (see labelBranches)",
+        "quantifier: assertive existential -> grammar label only (see labelBranches)",
+        "after colon: assertive existential -> grammar label only (see labelBranches)"
+      ],
+      "labelBranches": [
+        {
+          "branch": "person, singular, assertive existential pronoun",
+          "explanation": "Grammar tag describing the pronoun use; it adds no separate meaning beyond 'a person'."
+        },
+        {
+          "branch": "pronoun, person, singular",
+          "explanation": "Grammar tag naming the word class and number, not meaning content."
+        },
+        {
+          "branch": "quantifier: assertive existential",
+          "explanation": "Grammar tag about the quantifying use (as in 'not a soul'), not meaning content."
+        },
+        {
+          "branch": "after colon: assertive existential",
+          "explanation": "Grammar note about the wording after the colon in the source entry, not meaning content."
+        }
+      ],
+      "sourceBranches": [
+        "a human being",
+        "person, singular, assertive existential pronoun",
+        "pronoun, person, singular",
+        "quantifier: assertive existential",
+        "after colon: assertive existential"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spread%1:06:01::",
+      "lemma": "spread",
+      "pos": "n",
+      "definition": "farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle)",
+      "decision": "gloss",
+      "simpleMeaning": "a large farm with a wide area of land and the buildings and equipment needed to raise cattle or other animals.",
+      "scope": "This is a farm or ranch, not the act of extending something over an area and not a cloth cover for a bed.",
+      "examples": [
+        "He grew up on a cattle spread in Texas.",
+        "The family sold their spread and moved to town."
+      ],
+      "branchCoverage": [
+        "farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle) -> a large farm with a wide area of land and the buildings and equipment needed to raise cattle or other animals"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "farm consisting of a large tract of land along with facilities needed to raise livestock (especially cattle)"
+      ],
+      "lemmaPartition": "spread%1:06:01:: -> a large farm or ranch with land and facilities for livestock\nspread%1:11:00:: -> the act or result of distributing or extending something over a wide area of space\nspread%2:35:00:: -> scattering or sending separate things out over a wide area\nspread%5:00:00:distributed:00 -> something already covering or found over a large area\nspread%2:42:00:: -> something extending across or over a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spread%1:11:00::",
+      "lemma": "spread",
+      "pos": "n",
+      "definition": "process or result of distributing or extending over a wide expanse of space",
+      "decision": "gloss",
+      "simpleMeaning": "the act or result of distributing or extending something over a wide area of space.",
+      "scope": "This is the act or result of extending over space, not a farm and not the action of scattering separate things.",
+      "examples": [
+        "The spread of the city into the countryside worried local farmers.",
+        "Satellite images showed the spread of the wildfire across the valley."
+      ],
+      "branchCoverage": [
+        "process or result of distributing or extending over a wide expanse of space -> the act or result of distributing or extending something over a wide area of space"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "process or result of distributing or extending over a wide expanse of space"
+      ],
+      "lemmaPartition": "spread%1:06:01:: -> a large farm or ranch with land and facilities for livestock\nspread%1:11:00:: -> the act or result of distributing or extending something over a wide area of space\nspread%2:35:00:: -> scattering or sending separate things out over a wide area\nspread%5:00:00:distributed:00 -> something already covering or found over a large area\nspread%2:42:00:: -> something extending across or over a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spread%2:35:00::",
+      "lemma": "spread",
+      "pos": "v",
+      "definition": "distribute or disperse widely",
+      "decision": "gloss",
+      "simpleMeaning": "to scatter or send things out over a wide area or among many places.",
+      "scope": "This is about sending things out widely, not about something lying across a surface and not about a farm.",
+      "examples": [
+        "The wind spread the seeds across the field.",
+        "They spread the news across the whole town."
+      ],
+      "branchCoverage": [
+        "distribute or disperse widely -> to scatter or send things out over a wide area or among many places"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "distribute or disperse widely"
+      ],
+      "lemmaPartition": "spread%1:06:01:: -> a large farm or ranch with land and facilities for livestock\nspread%1:11:00:: -> the act or result of distributing or extending something over a wide area of space\nspread%2:35:00:: -> scattering or sending separate things out over a wide area\nspread%5:00:00:distributed:00 -> something already covering or found over a large area\nspread%2:42:00:: -> something extending across or over a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spread%5:00:00:distributed:00",
+      "lemma": "spread",
+      "pos": "a",
+      "definition": "distributed or spread over a considerable extent",
+      "decision": "gloss",
+      "simpleMeaning": "covering or found over a large area.",
+      "scope": "This describes something already covering a wide area, not the act of scattering it and not a farm.",
+      "examples": [
+        "The town's population is widely spread along the coast.",
+        "His family is spread across three continents."
+      ],
+      "branchCoverage": [
+        "distributed or spread over a considerable extent -> covering or found over a large area"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "distributed or spread over a considerable extent"
+      ],
+      "lemmaPartition": "spread%1:06:01:: -> a large farm or ranch with land and facilities for livestock\nspread%1:11:00:: -> the act or result of distributing or extending something over a wide area of space\nspread%2:35:00:: -> scattering or sending separate things out over a wide area\nspread%5:00:00:distributed:00 -> something already covering or found over a large area\nspread%2:42:00:: -> something extending across or over a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spread%2:42:00::",
+      "lemma": "spread",
+      "pos": "v",
+      "definition": "spread across or over",
+      "decision": "gloss",
+      "simpleMeaning": "to lie or stretch across or over an area.",
+      "scope": "This is about something extending over a surface, not about scattering separate things widely and not about a farm.",
+      "examples": [
+        "A blush spread across her cheeks.",
+        "A smile spread across his face."
+      ],
+      "branchCoverage": [
+        "spread across or over -> to lie or stretch across or over an area"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "spread across or over"
+      ],
+      "lemmaPartition": "spread%1:06:01:: -> a large farm or ranch with land and facilities for livestock\nspread%1:11:00:: -> the act or result of distributing or extending something over a wide area of space\nspread%2:35:00:: -> scattering or sending separate things out over a wide area\nspread%5:00:00:distributed:00 -> something already covering or found over a large area\nspread%2:42:00:: -> something extending across or over a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "supply%2:41:00::",
+      "lemma": "supply",
+      "pos": "v",
+      "definition": "circulate or distribute or equip with",
+      "decision": "gloss",
+      "simpleMeaning": "to provide people or places with something they need, especially by giving it out.",
+      "scope": "This is the act of giving or making something available, not the amount kept in stock and not the activity viewed as a whole.",
+      "examples": [
+        "The company supplies fresh bread to local shops.",
+        "Volunteers supplied blankets to the shelter."
+      ],
+      "branchCoverage": [
+        "circulate or distribute or equip with -> to provide people or places with something they need, especially by giving it out"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "circulate or distribute or equip with"
+      ],
+      "lemmaPartition": "supply%2:41:00:: -> providing people or places with something they need, especially by giving it out\nsupply%1:04:00:: -> the activity or process of providing needed things, viewed as a whole",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "supply%1:04:00::",
+      "lemma": "supply",
+      "pos": "n",
+      "definition": "the activity of supplying or providing something",
+      "decision": "gloss",
+      "simpleMeaning": "the work or process of providing things that are needed.",
+      "scope": "This is the activity of providing, not the things provided and not the amount available.",
+      "examples": [
+        "The supply of meals to the camp continued all winter.",
+        "They are responsible for the supply of equipment to the whole team."
+      ],
+      "branchCoverage": [
+        "the activity of supplying or providing something -> the work or process of providing things that are needed"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the activity of supplying or providing something"
+      ],
+      "lemmaPartition": "supply%2:41:00:: -> providing people or places with something they need, especially by giving it out\nsupply%1:04:00:: -> the activity or process of providing needed things, viewed as a whole",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "waste%1:04:00::",
+      "lemma": "waste",
+      "pos": "n",
+      "definition": "useless or profitless activity; using or expending or consuming thoughtlessly or carelessly",
+      "decision": "gloss",
+      "simpleMeaning": "an activity that achieves nothing useful, or the thoughtless use or consumption of time, money or other resources.",
+      "scope": "This is pointless activity or careless use, not unwanted materials and not empty land.",
+      "examples": [
+        "The whole exercise was a waste of time and effort.",
+        "Buying that broken machine was a waste of money."
+      ],
+      "branchCoverage": [
+        "useless or profitless activity -> an activity that achieves nothing useful",
+        "using or expending or consuming thoughtlessly or carelessly -> the thoughtless use or consumption of time, money or other resources"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "useless or profitless activity",
+        "using or expending or consuming thoughtlessly or carelessly"
+      ],
+      "lemmaPartition": "waste%1:04:00:: -> pointless activity or the thoughtless use or consumption of time, money or other resources\nwaste%1:27:00:: -> unwanted leftover materials or rubbish\nwaste%5:00:00:inhospitable:00 -> empty, bleak land, often far from other places\nwaste%2:38:00:: -> liquid or material flowing away as unwanted matter",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "waste%1:27:00::",
+      "lemma": "waste",
+      "pos": "n",
+      "definition": "any materials unused and rejected as worthless or unwanted",
+      "decision": "gloss",
+      "simpleMeaning": "materials that are left over and thrown away because they are no longer wanted or useful.",
+      "scope": "This means unwanted materials or rubbish, not pointless activity and not empty land.",
+      "examples": [
+        "The factory must dispose of its chemical waste safely.",
+        "Household waste is collected every Tuesday."
+      ],
+      "branchCoverage": [
+        "any materials unused and rejected as worthless or unwanted -> materials that are left over and thrown away because they are no longer wanted or useful"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any materials unused and rejected as worthless or unwanted"
+      ],
+      "lemmaPartition": "waste%1:04:00:: -> pointless activity or the thoughtless use or consumption of time, money or other resources\nwaste%1:27:00:: -> unwanted leftover materials or rubbish\nwaste%5:00:00:inhospitable:00 -> empty, bleak land, often far from other places\nwaste%2:38:00:: -> liquid or material flowing away as unwanted matter",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "waste%5:00:00:inhospitable:00",
+      "lemma": "waste",
+      "pos": "a",
+      "definition": "located in a dismal or remote area; desolate",
+      "decision": "gloss",
+      "simpleMeaning": "empty and bleak, often far from other places or people.",
+      "scope": "This describes empty, bleak land, not unwanted materials and not pointless activity.",
+      "examples": [
+        "The children were told to stay off the waste ground near the railway.",
+        "The waste ground behind the station was littered with rubble and weeds."
+      ],
+      "branchCoverage": [
+        "located in a dismal or remote area -> empty and bleak, often far from other places or people",
+        "desolate -> empty and bleak"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "located in a dismal or remote area",
+        "desolate"
+      ],
+      "lemmaPartition": "waste%1:04:00:: -> pointless activity or the thoughtless use or consumption of time, money or other resources\nwaste%1:27:00:: -> unwanted leftover materials or rubbish\nwaste%5:00:00:inhospitable:00 -> empty, bleak land, often far from other places\nwaste%2:38:00:: -> liquid or material flowing away as unwanted matter",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "waste%2:38:00::",
+      "lemma": "waste",
+      "pos": "v",
+      "definition": "run off as waste",
+      "decision": "defer",
+      "reason": "The intransitive sense 'run off as waste' is rare technical usage; every natural modern sentence with 'waste' reads as the ordinary careless-use sense, so two clear examples cannot be written.",
+      "sourceBranches": [
+        "run off as waste"
+      ],
+      "lemmaPartition": "waste%1:04:00:: -> pointless activity or the thoughtless use or consumption of time, money or other resources\nwaste%1:27:00:: -> unwanted leftover materials or rubbish\nwaste%5:00:00:inhospitable:00 -> empty, bleak land, often far from other places\nwaste%2:38:00:: -> liquid or material flowing away as unwanted matter",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weird%5:00:00:strange:00",
+      "lemma": "weird",
+      "pos": "a",
+      "definition": "strikingly odd or unusual",
+      "decision": "gloss",
+      "simpleMeaning": "very strange or unusual in a way that surprises people.",
+      "scope": "This is about something odd or unexpected, not about something that seems magical or ghostly.",
+      "examples": [
+        "A weird smell came from the kitchen.",
+        "It felt weird to be back in my old school."
+      ],
+      "branchCoverage": [
+        "strikingly odd or unusual -> very strange or unusual in a way that surprises people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "strikingly odd or unusual"
+      ],
+      "lemmaPartition": "weird%5:00:00:strange:00 -> striking oddness or unusualness\nweird%5:00:00:supernatural:00 -> a quality suggesting magic, spirits or forces beyond nature",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weird%5:00:00:supernatural:00",
+      "lemma": "weird",
+      "pos": "a",
+      "definition": "suggesting the operation of supernatural influences",
+      "decision": "gloss",
+      "simpleMeaning": "seeming to involve magic, spirits or other forces beyond nature.",
+      "scope": "This is about a magical or ghostly quality, not about something that is merely odd or surprising.",
+      "examples": [
+        "A weird light hovered above the grave and could not be explained.",
+        "The house was said to be haunted by weird shapes that glided through its walls."
+      ],
+      "branchCoverage": [
+        "suggesting the operation of supernatural influences -> seeming to involve magic, spirits or other forces beyond nature"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "suggesting the operation of supernatural influences"
+      ],
+      "lemmaPartition": "weird%5:00:00:strange:00 -> striking oddness or unusualness\nweird%5:00:00:supernatural:00 -> a quality suggesting magic, spirits or forces beyond nature",
+      "verdict": "self-approved",
+      "reviewerNote": "Both examples read as the 'strange' sense, not the supernatural one the scope claims."
+    },
+    {
+      "senseId": "apparently%4:02:01::",
+      "lemma": "apparently",
+      "pos": "r",
+      "definition": "unmistakably (‘plain’ is often used informally for ‘plainly’)",
+      "decision": "gloss",
+      "simpleMeaning": "in a way that is clear and easy to see, leaving no doubt.",
+      "scope": "This means clearly and beyond doubt, not 'as it seems' when the truth is uncertain.",
+      "examples": [
+        "The bridge was apparently unsafe, and engineers closed it that same day.",
+        "The fire was apparently started on purpose: three separate seats of flame were found."
+      ],
+      "branchCoverage": [
+        "unmistakably (‘plain’ is often used informally for ‘plainly’) -> in a way that is clear and easy to see, leaving no doubt; the note about 'plain' is a usage label"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "unmistakably (‘plain’ is often used informally for ‘plainly’)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Both examples read as 'seemingly', the sense the scope excludes; no 'unmistakably' use is shown."
+    },
+    {
+      "senseId": "artist%1:18:00::",
+      "lemma": "artist",
+      "pos": "n",
+      "definition": "a person whose creative work shows sensitivity and imagination",
+      "decision": "gloss",
+      "simpleMeaning": "a person who makes creative work showing fine feeling and imagination.",
+      "scope": "This refers to someone who makes creative work, not to a skilled worker making ordinary practical objects and not to someone who merely copies others' work.",
+      "examples": [
+        "The gallery shows work by local artists.",
+        "She is a true artist who paints with great feeling."
+      ],
+      "branchCoverage": [
+        "a person whose creative work shows sensitivity and imagination -> a person who makes creative work showing fine feeling and imagination"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person whose creative work shows sensitivity and imagination"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "chairman%2:41:00::",
+      "lemma": "chairman",
+      "pos": "v",
+      "definition": "act or preside as chair, as of an academic department in a university",
+      "decision": "defer",
+      "reason": "The verb is rare and awkward in modern English; the usual verb is 'chair', so natural examples cannot contain the headword 'chairman' or an inflected form of it.",
+      "sourceBranches": [
+        "act or preside as chair, as of an academic department in a university"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "engineering%1:09:00::",
+      "lemma": "engineering",
+      "pos": "n",
+      "definition": "the discipline dealing with the art or science of applying scientific knowledge to practical problems",
+      "decision": "gloss",
+      "simpleMeaning": "the study and practice of using scientific knowledge to solve practical problems, such as designing machines, buildings, or systems",
+      "scope": "This is the field of study and its methods, not a single machine or structure and not the hands-on work of building one.",
+      "examples": [
+        "She studied engineering at university and later designed bridges.",
+        "Modern engineering has made air travel much safer."
+      ],
+      "branchCoverage": [
+        "the discipline dealing with the art or science of applying scientific knowledge to practical problems -> the study and practice of using scientific knowledge to solve practical problems"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the discipline dealing with the art or science of applying scientific knowledge to practical problems"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "grade%2:31:05::",
+      "lemma": "grade",
+      "pos": "v",
+      "definition": "assign a grade or rank to, according to one's evaluation",
+      "decision": "gloss",
+      "simpleMeaning": "to give a mark or score to a piece of work or a performance after judging how good it is",
+      "scope": "This means marking a piece of work or a performance, not placing people or things in an order against each other.",
+      "examples": [
+        "The teacher spent the evening grading exam papers.",
+        "He graded the students' homework over the weekend."
+      ],
+      "branchCoverage": [
+        "assign a grade or rank to, according to one's evaluation -> to give a mark or score to a piece of work or a performance after judging how good it is"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "assign a grade or rank to, according to one's evaluation"
+      ],
+      "lemmaPartition": "grade%2:31:05:: -> giving a mark or score to a piece of work or a performance after judging it\ngrade%2:31:03:: -> putting people or things in an order or giving them a rating on a scale\ngrade%1:26:00:: -> a level or position of quality or value within a group",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "grade%2:31:03::",
+      "lemma": "grade",
+      "pos": "v",
+      "definition": "assign a rank or rating to",
+      "decision": "gloss",
+      "simpleMeaning": "to put people or things in an order, or give them a rating, based on how good or important they are",
+      "scope": "This is about placing someone or something on a scale or in an order, not about giving a mark to a piece of work.",
+      "examples": [
+        "The judges graded the entries from best to worst.",
+        "The hotels were graded by comfort and location."
+      ],
+      "branchCoverage": [
+        "assign a rank or rating to -> to put people or things in an order, or give them a rating, based on how good or important they are"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "assign a rank or rating to"
+      ],
+      "lemmaPartition": "grade%2:31:05:: -> giving a mark or score to a piece of work or a performance after judging it\ngrade%2:31:03:: -> putting people or things in an order or giving them a rating on a scale\ngrade%1:26:00:: -> a level or position of quality or value within a group",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "grade%1:26:00::",
+      "lemma": "grade",
+      "pos": "n",
+      "definition": "a relative position or degree of value in a graded group",
+      "decision": "gloss",
+      "simpleMeaning": "a level or position showing how good or valuable something is compared with others in the same group",
+      "scope": "It is a position on a scale of quality or value, not the act of judging or marking something.",
+      "examples": [
+        "The tomatoes are sorted into three grades.",
+        "Only the highest grade of leather is used for these bags."
+      ],
+      "branchCoverage": [
+        "a relative position or degree of value in a graded group -> a level or position showing how good or valuable something is compared with others in the same group"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a relative position or degree of value in a graded group"
+      ],
+      "lemmaPartition": "grade%2:31:05:: -> giving a mark or score to a piece of work or a performance after judging it\ngrade%2:31:03:: -> putting people or things in an order or giving them a rating on a scale\ngrade%1:26:00:: -> a level or position of quality or value within a group",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "happening%1:11:00::",
+      "lemma": "happening",
+      "pos": "n",
+      "definition": "an event that happens",
+      "decision": "gloss",
+      "simpleMeaning": "something that takes place, especially an occurrence that people notice or talk about",
+      "scope": "This means an occurrence, not a thing that exists or a state that lasts.",
+      "examples": [
+        "The strange happening in the old house was never explained.",
+        "News of the happening spread quickly through the village."
+      ],
+      "branchCoverage": [
+        "an event that happens -> something that takes place, especially an occurrence that people notice or talk about"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an event that happens"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "healthy%5:00:00:sound:00",
+      "lemma": "healthy",
+      "pos": "a",
+      "definition": "financially secure and functioning well",
+      "decision": "gloss",
+      "simpleMeaning": "financially safe and strong, and doing well",
+      "scope": "This describes money and business strength, not the physical or mental condition of a person.",
+      "examples": [
+        "Despite the bad year, the company's finances remained healthy.",
+        "The bank reported a healthy profit."
+      ],
+      "branchCoverage": [
+        "financially secure and functioning well -> financially safe and strong, and doing well"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "financially secure and functioning well"
+      ],
+      "lemmaPartition": "healthy%5:00:00:sound:00 -> money or a business being strong and safe\nhealthy%3:00:00:: -> a person or animal being in good bodily or mental condition\nhealthy%5:00:00:wholesome:00 -> food, habits, or conditions that help keep you well",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "healthy%3:00:00::",
+      "lemma": "healthy",
+      "pos": "a",
+      "definition": "having or indicating good health in body or mind; free from infirmity or disease",
+      "decision": "gloss",
+      "simpleMeaning": "in good physical or mental condition, showing no illness or weakness",
+      "scope": "This describes a person's or animal's condition, not something that keeps you well or a business that is doing well.",
+      "examples": [
+        "She stayed healthy by walking every morning.",
+        "The doctor said the baby was healthy and growing well."
+      ],
+      "branchCoverage": [
+        "having or indicating good health in body or mind -> in good physical or mental condition",
+        "free from infirmity or disease -> showing no illness or weakness"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having or indicating good health in body or mind",
+        "free from infirmity or disease"
+      ],
+      "lemmaPartition": "healthy%5:00:00:sound:00 -> money or a business being strong and safe\nhealthy%3:00:00:: -> a person or animal being in good bodily or mental condition\nhealthy%5:00:00:wholesome:00 -> food, habits, or conditions that help keep you well",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "healthy%5:00:00:wholesome:00",
+      "lemma": "healthy",
+      "pos": "a",
+      "definition": "promoting health; healthful",
+      "decision": "gloss",
+      "simpleMeaning": "good for your body and likely to keep you well",
+      "scope": "This describes things that help your body stay well, not a person who is currently free from illness.",
+      "examples": [
+        "A healthy diet includes plenty of vegetables.",
+        "The school encourages healthy habits such as regular exercise."
+      ],
+      "branchCoverage": [
+        "promoting health -> good for your body and likely to keep you well",
+        "healthful -> likely to keep you well"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "promoting health",
+        "healthful"
+      ],
+      "lemmaPartition": "healthy%5:00:00:sound:00 -> money or a business being strong and safe\nhealthy%3:00:00:: -> a person or animal being in good bodily or mental condition\nhealthy%5:00:00:wholesome:00 -> food, habits, or conditions that help keep you well",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "method%1:04:00::",
+      "lemma": "method",
+      "pos": "n",
+      "definition": "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed",
+      "decision": "gloss",
+      "simpleMeaning": "a style of acting, developed by the teacher Stanislavsky, in which performers recall feelings and reactions from their own lives and use them to understand the character they are playing",
+      "scope": "This is a particular approach to acting, not a general way of doing something.",
+      "examples": [
+        "She trained in the method with a famous acting coach.",
+        "He used the method to prepare for his role in the play."
+      ],
+      "branchCoverage": [
+        "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed -> a style of acting, developed by the teacher Stanislavsky, in which performers recall feelings and reactions from their own lives and use them to understand the character they are playing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+      ],
+      "lemmaPartition": "method%1:04:00:: -> the special acting approach that uses the performer's own feelings\nmethod%1:09:00:: -> a general organized way of doing something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "method%1:09:00::",
+      "lemma": "method",
+      "pos": "n",
+      "definition": "a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)",
+      "decision": "gloss",
+      "simpleMeaning": "an organized way of doing something, usually following a clear and sensible order of steps",
+      "scope": "This is a general way of working, not the special acting approach.",
+      "examples": [
+        "The team followed a strict method for testing each sample.",
+        "There must be a better method for solving this problem."
+      ],
+      "branchCoverage": [
+        "a way of doing something, especially a systematic way -> an organized way of doing something",
+        "implies an orderly logical arrangement (usually in steps) -> usually following a clear and sensible order of steps"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a way of doing something, especially a systematic way",
+        "implies an orderly logical arrangement (usually in steps)"
+      ],
+      "lemmaPartition": "method%1:04:00:: -> the special acting approach that uses the performer's own feelings\nmethod%1:09:00:: -> a general organized way of doing something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "obviously%4:02:00::",
+      "lemma": "obviously",
+      "pos": "r",
+      "definition": "unmistakably (‘plain’ is often used informally for ‘plainly’)",
+      "decision": "gloss",
+      "simpleMeaning": "in a way that is easy to see or understand and leaves no doubt",
+      "scope": "This says something is clearly true, not that it only appears to be true.",
+      "examples": [
+        "She was obviously tired after the long flight.",
+        "The plan obviously needs more work."
+      ],
+      "branchCoverage": [
+        "unmistakably (‘plain’ is often used informally for ‘plainly’) -> in a way that is easy to see or understand and leaves no doubt"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "unmistakably (‘plain’ is often used informally for ‘plainly’)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "option%1:21:00::",
+      "lemma": "option",
+      "pos": "n",
+      "definition": "the right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited",
+      "decision": "gloss",
+      "simpleMeaning": "a right that you pay for, allowing you to buy or sell property at a fixed price before a set date; if you do not use it in time, you lose the money you paid",
+      "scope": "This is a paid right in a business deal, not a simple choice between possibilities.",
+      "examples": [
+        "The developer bought an option on the land and decided later whether to build.",
+        "If the price falls, he may let the option expire."
+      ],
+      "branchCoverage": [
+        "the right to buy or sell property at an agreed price -> a right that you pay for, allowing you to buy or sell property at a fixed price",
+        "the right is purchased and if it is not exercised by a stated date the money is forfeited -> before a set date; if you do not use it in time, you lose the money you paid"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the right to buy or sell property at an agreed price",
+        "the right is purchased and if it is not exercised by a stated date the money is forfeited"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "prison%1:06:00::",
+      "lemma": "prison",
+      "pos": "n",
+      "definition": "a correctional institution where persons are confined while on trial or for punishment",
+      "decision": "gloss",
+      "simpleMeaning": "a building where people are kept locked up while waiting for trial or as punishment for a crime",
+      "scope": "This is a real place of confinement, not a situation that only feels like one.",
+      "examples": [
+        "He spent two years in prison for theft.",
+        "The old prison is now a museum."
+      ],
+      "branchCoverage": [
+        "a correctional institution where persons are confined while on trial or for punishment -> a building where people are kept locked up while waiting for trial or as punishment for a crime"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a correctional institution where persons are confined while on trial or for punishment"
+      ],
+      "lemmaPartition": "prison%1:06:00:: -> the actual building where people are held\nprison%1:26:00:: -> a situation or place that only feels like being locked up",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "prison%1:26:00::",
+      "lemma": "prison",
+      "pos": "n",
+      "definition": "a prisonlike situation; a place of seeming confinement",
+      "decision": "gloss",
+      "simpleMeaning": "a situation or place that feels like being locked up, with very little freedom",
+      "scope": "This is a feeling of being trapped, not an actual building where people are held.",
+      "examples": [
+        "For the shy boy, the crowded school felt like a prison.",
+        "His jealousy turned the marriage into a prison."
+      ],
+      "branchCoverage": [
+        "a prisonlike situation -> a situation that feels like being locked up",
+        "a place of seeming confinement -> a place that feels like being locked up, with very little freedom"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a prisonlike situation",
+        "a place of seeming confinement"
+      ],
+      "lemmaPartition": "prison%1:06:00:: -> the actual building where people are held\nprison%1:26:00:: -> a situation or place that only feels like being locked up",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "remains%1:17:00::",
+      "lemma": "remains",
+      "pos": "n",
+      "definition": "any object that is left unused or still extant",
+      "decision": "gloss",
+      "simpleMeaning": "the objects that are left over or not used up after something has gone or ended",
+      "scope": "This means leftover objects in general, not old things dug out of the ground by archaeologists.",
+      "examples": [
+        "The remains of the meal were cleared away.",
+        "They kept the remains of the broken fence for firewood."
+      ],
+      "branchCoverage": [
+        "any object that is left unused or still extant -> the objects that are left over or not used up after something has gone or ended"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any object that is left unused or still extant"
+      ],
+      "lemmaPartition": "remains%1:17:00:: -> leftover objects in general\nremains%1:17:02:: -> old objects dug from the ground by archaeologists",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "remains%1:17:02::",
+      "lemma": "remains",
+      "pos": "n",
+      "definition": "a relic that has been excavated from the soil",
+      "decision": "gloss",
+      "simpleMeaning": "an old object or part of a building that has been dug out of the ground by archaeologists",
+      "scope": "This refers specifically to old things found by digging, not to everyday leftovers.",
+      "examples": [
+        "The museum displays remains from a Roman settlement.",
+        "The remains were found buried beneath the field."
+      ],
+      "branchCoverage": [
+        "a relic that has been excavated from the soil -> an old object or part of a building that has been dug out of the ground by archaeologists"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a relic that has been excavated from the soil"
+      ],
+      "lemmaPartition": "remains%1:17:00:: -> leftover objects in general\nremains%1:17:02:: -> old objects dug from the ground by archaeologists",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smaller%5:00:00:small:00",
+      "lemma": "smaller",
+      "pos": "a",
+      "definition": "small or little relative to something else",
+      "decision": "gloss",
+      "simpleMeaning": "having less size than the thing it is compared with",
+      "scope": "This is a comparison, not a description of something that is tiny in itself.",
+      "examples": [
+        "The second room is smaller than the first.",
+        "We moved into a smaller house last year."
+      ],
+      "branchCoverage": [
+        "small or little relative to something else -> having less size than the thing it is compared with"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "small or little relative to something else"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "somebody%1:03:00::",
+      "lemma": "somebody",
+      "pos": "n",
+      "definition": "a human being; person, singular, assertive existential pronoun; pronoun, person, singular; quantifier: assertive existential",
+      "decision": "gloss",
+      "simpleMeaning": "a person, used when you do not name or identify who it is",
+      "scope": "This means an unnamed person, not an object and not a particular named individual.",
+      "examples": [
+        "Somebody left a coat on the chair.",
+        "Somebody should call the police."
+      ],
+      "branchCoverage": [
+        "a human being -> a person",
+        "person, singular, assertive existential pronoun -> used when you do not name or identify who it is (a singular, unnamed person)",
+        "pronoun, person, singular -> used when you do not name or identify who it is",
+        "quantifier: assertive existential -> used when you do not name or identify who it is",
+        "after colon: assertive existential -> used when you do not name or identify who it is"
+      ],
+      "labelBranches": [
+        {
+          "branch": "person, singular, assertive existential pronoun",
+          "explanation": "Grammar label describing the pronoun's form and type of reference, not meaning content."
+        },
+        {
+          "branch": "pronoun, person, singular",
+          "explanation": "Grammar label describing the word's part of speech and number, not meaning content."
+        },
+        {
+          "branch": "quantifier: assertive existential",
+          "explanation": "Grammar label about the type of quantifier, not meaning content."
+        },
+        {
+          "branch": "after colon: assertive existential",
+          "explanation": "Grammar label about the type of quantifier, not meaning content."
+        }
+      ],
+      "sourceBranches": [
+        "a human being",
+        "person, singular, assertive existential pronoun",
+        "pronoun, person, singular",
+        "quantifier: assertive existential",
+        "after colon: assertive existential"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stone%1:27:00::",
+      "lemma": "stone",
+      "pos": "n",
+      "definition": "material consisting of the aggregate of minerals like those making up the Earth's crust",
+      "decision": "gloss",
+      "simpleMeaning": "the hard material that rocks are made of, formed from minerals in the earth's crust",
+      "scope": "This is the substance itself, not a single piece of it and not a shaped block used in building.",
+      "examples": [
+        "The quarry supplies stone for roads and buildings.",
+        "The floor was made of polished stone."
+      ],
+      "branchCoverage": [
+        "material consisting of the aggregate of minerals like those making up the Earth's crust -> the hard material that rocks are made of, formed from minerals in the earth's crust"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "material consisting of the aggregate of minerals like those making up the Earth's crust"
+      ],
+      "lemmaPartition": "stone%1:27:00:: -> the hard substance or material itself\nstone%5:00:00:chromatic:00 -> a dull brownish or greyish colour\nstone%1:06:00:: -> a cut block used for building\nstone%1:17:00:: -> a single natural lump of rock\nstone%2:35:00:: -> to kill someone by throwing rocks",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stone%5:00:00:chromatic:00",
+      "lemma": "stone",
+      "pos": "a",
+      "definition": "of any of various dull tannish or grey colors",
+      "decision": "gloss",
+      "simpleMeaning": "having a dull brownish or greyish colour",
+      "scope": "This describes a colour, not the hard material or a piece of it.",
+      "examples": [
+        "She chose a stone-coloured coat for the winter.",
+        "The curtains were a soft stone colour."
+      ],
+      "branchCoverage": [
+        "of any of various dull tannish or grey colors -> having a dull brownish or greyish colour"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of any of various dull tannish or grey colors"
+      ],
+      "lemmaPartition": "stone%1:27:00:: -> the hard substance or material itself\nstone%5:00:00:chromatic:00 -> a dull brownish or greyish colour\nstone%1:06:00:: -> a cut block used for building\nstone%1:17:00:: -> a single natural lump of rock\nstone%2:35:00:: -> to kill someone by throwing rocks",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stone%1:06:00::",
+      "lemma": "stone",
+      "pos": "n",
+      "definition": "building material consisting of a piece of rock hewn in a definite shape for a special purpose",
+      "decision": "gloss",
+      "simpleMeaning": "a piece of rock cut into a particular shape for use in building",
+      "scope": "This is a shaped block for building, not the raw material in general and not a loose lump found in nature.",
+      "examples": [
+        "The mason cut each stone to fit the arch.",
+        "Workers laid the stones in a neat row."
+      ],
+      "branchCoverage": [
+        "building material consisting of a piece of rock hewn in a definite shape for a special purpose -> a piece of rock cut into a particular shape for use in building"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "building material consisting of a piece of rock hewn in a definite shape for a special purpose"
+      ],
+      "lemmaPartition": "stone%1:27:00:: -> the hard substance or material itself\nstone%5:00:00:chromatic:00 -> a dull brownish or greyish colour\nstone%1:06:00:: -> a cut block used for building\nstone%1:17:00:: -> a single natural lump of rock\nstone%2:35:00:: -> to kill someone by throwing rocks",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stone%1:17:00::",
+      "lemma": "stone",
+      "pos": "n",
+      "definition": "a lump or mass of hard consolidated mineral matter",
+      "decision": "gloss",
+      "simpleMeaning": "a hard solid lump of rock",
+      "scope": "This is a single lump of rock as found in nature, not the material in general and not a block cut for building.",
+      "examples": [
+        "He threw a stone into the lake.",
+        "A large stone blocked the path."
+      ],
+      "branchCoverage": [
+        "a lump or mass of hard consolidated mineral matter -> a hard solid lump of rock"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a lump or mass of hard consolidated mineral matter"
+      ],
+      "lemmaPartition": "stone%1:27:00:: -> the hard substance or material itself\nstone%5:00:00:chromatic:00 -> a dull brownish or greyish colour\nstone%1:06:00:: -> a cut block used for building\nstone%1:17:00:: -> a single natural lump of rock\nstone%2:35:00:: -> to kill someone by throwing rocks",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stone%2:35:00::",
+      "lemma": "stone",
+      "pos": "v",
+      "definition": "kill by throwing stones at",
+      "decision": "gloss",
+      "simpleMeaning": "to put someone to death by throwing rocks at them",
+      "scope": "This means killing a person in that way, not simply throwing a rock at something.",
+      "examples": [
+        "The crowd threatened to stone the prisoner.",
+        "In some ancient societies, people were stoned for certain crimes."
+      ],
+      "branchCoverage": [
+        "kill by throwing stones at -> to put someone to death by throwing rocks at them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "kill by throwing stones at"
+      ],
+      "lemmaPartition": "stone%1:27:00:: -> the hard substance or material itself\nstone%5:00:00:chromatic:00 -> a dull brownish or greyish colour\nstone%1:06:00:: -> a cut block used for building\nstone%1:17:00:: -> a single natural lump of rock\nstone%2:35:00:: -> to kill someone by throwing rocks",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wild%1:26:00::",
+      "lemma": "wild",
+      "pos": "n",
+      "definition": "a wild primitive state untouched by civilization",
+      "decision": "gloss",
+      "simpleMeaning": "a natural, undeveloped condition that human society has never changed",
+      "scope": "This is the noun for an untouched natural state, not the adjective describing animals or plants that live free.",
+      "examples": [
+        "The story follows a boy who lives alone in the wild.",
+        "The injured bird was released back into the wild."
+      ],
+      "branchCoverage": [
+        "a wild primitive state untouched by civilization -> a natural, undeveloped condition that human society has never changed"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a wild primitive state untouched by civilization"
+      ],
+      "lemmaPartition": "wild%1:26:00:: -> the untouched natural state, used as a noun\nwild%3:00:01:: -> plants or animals living free rather than kept by people",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wild%3:00:01::",
+      "lemma": "wild",
+      "pos": "a",
+      "definition": "in a natural state; not tamed or domesticated or cultivated",
+      "decision": "gloss",
+      "simpleMeaning": "living or growing naturally, not kept, trained, or farmed by people",
+      "scope": "This describes plants and animals living free, not an untamed landscape or a person's uncontrolled behavior.",
+      "examples": [
+        "Wild flowers grew along the roadside.",
+        "The wild horses roamed across the hills."
+      ],
+      "branchCoverage": [
+        "in a natural state -> living or growing naturally",
+        "not tamed or domesticated or cultivated -> not kept, trained, or farmed by people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in a natural state",
+        "not tamed or domesticated or cultivated"
+      ],
+      "lemmaPartition": "wild%1:26:00:: -> the untouched natural state, used as a noun\nwild%3:00:01:: -> plants or animals living free rather than kept by people",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

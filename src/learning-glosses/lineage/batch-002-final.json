@@ -1,0 +1,1101 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 2,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 35,
+      "of": 50,
+      "rate": 0.7
+    },
+    "secondPass": {
+      "approved": 15,
+      "of": 15
+    },
+    "lineage": {
+      "draft": "af4c98016537116b388688ced07e8279a1516b426af4d09cf486c860c58d013a",
+      "corrections": "21eea5ead9d68cee56ab4429a984a1e0dbd7ddfe008a21c2e40e0defff46aa47"
+    },
+    "studentValidated": false,
+    "semanticAcceptance": false
+  },
+  "accepted": [
+    {
+      "senseId": "most%3:00:01::",
+      "lemma": "most",
+      "pos": "a",
+      "definition": "the superlative of ‘much’ that can be used with mass nouns and is usually preceded by ‘the’; a quantifier meaning the greatest in amount or extent or degree",
+      "decision": "gloss",
+      "simpleMeaning": "the largest amount or degree of something that cannot be counted",
+      "scope": "Covers both the mass-noun use and the degree use; not \"most\" before count nouns, which is a separate entry.",
+      "examples": [
+        "She spent most of her money on books.",
+        "Most water in the lake is clean."
+      ],
+      "branchCoverage": [
+        "superlative of much with mass nouns -> \"of something that cannot be counted\"",
+        "greatest in amount or extent or degree -> \"the largest amount or degree\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "in%5:00:00:incoming:00",
+      "lemma": "in",
+      "pos": "a",
+      "definition": "directed or bound inward",
+      "decision": "gloss",
+      "simpleMeaning": "going or pointing towards the inside",
+      "scope": "Adjective use only, as in an in train or the in tray; not the preposition.",
+      "examples": [
+        "The in train was crowded.",
+        "Put the forms in the in tray."
+      ],
+      "branchCoverage": [
+        "directed or bound inward -> \"going or pointing towards the inside\"; examples replaced because the door reading is ambiguous with indoor"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "on%4:02:01::",
+      "lemma": "on",
+      "pos": "r",
+      "definition": "indicates continuity or persistence or concentration",
+      "decision": "gloss",
+      "simpleMeaning": "continuing without stopping, especially with steady effort or attention",
+      "scope": "Adverb use after a verb, as in talk on or work on; not the preposition.",
+      "examples": [
+        "She talked on for an hour.",
+        "He worked on at the problem all night."
+      ],
+      "branchCoverage": [
+        "continuity or persistence -> \"continuing without stopping\"",
+        "concentration -> \"with steady effort or attention\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "be%2:42:03::",
+      "lemma": "be",
+      "pos": "v",
+      "definition": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+      "decision": "gloss",
+      "simpleMeaning": "to have a quality; used to join a subject to a word that describes it",
+      "scope": "The linking use only, with an adjective or a noun after it; not existing or happening.",
+      "examples": [
+        "The soup is hot.",
+        "He is a doctor."
+      ],
+      "branchCoverage": [
+        "have the quality of being -> \"to have a quality\"",
+        "copula with an adjective or a predicate noun -> both example types, adjective and noun"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "have%2:40:00::",
+      "lemma": "have",
+      "pos": "v",
+      "definition": "have or possess, either in a concrete or an abstract sense",
+      "decision": "gloss",
+      "simpleMeaning": "to own or hold something, real or not physical",
+      "scope": "Both concrete possession and abstract possession; not eating, and not causing something to happen.",
+      "examples": [
+        "She has a bike.",
+        "He has a good idea."
+      ],
+      "branchCoverage": [
+        "have or possess -> \"own or hold\"",
+        "concrete or abstract sense -> \"real or not physical\", with one example of each"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "so%4:02:05::",
+      "lemma": "so",
+      "pos": "r",
+      "definition": "in such a condition or manner, especially as expressed or implied",
+      "decision": "gloss",
+      "simpleMeaning": "in the way or state that has already been shown or said",
+      "scope": "Refers back to something already expressed; not the degree use as in so big.",
+      "examples": [
+        "He said so.",
+        "Do it so."
+      ],
+      "branchCoverage": [
+        "in such a condition or manner -> \"in the way or state\"",
+        "as expressed or implied -> \"already been shown or said\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "can%1:06:00::",
+      "lemma": "can",
+      "pos": "n",
+      "definition": "airtight sealed metal container for food or drink or paint etc.",
+      "decision": "gloss",
+      "simpleMeaning": "a metal container for food, drink, or paint that is sealed tight so air cannot get in",
+      "scope": "The sealed metal container only; not a jar and not the verb.",
+      "examples": [
+        "She opened a can of soup.",
+        "There is paint in the can."
+      ],
+      "branchCoverage": [
+        "airtight sealed metal container -> \"sealed tight so air cannot get in\"",
+        "food or drink or paint etc -> all three are named"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "can%2:41:00::",
+      "lemma": "can",
+      "pos": "v",
+      "definition": "terminate the employment of; discharge from an office or position",
+      "decision": "gloss",
+      "simpleMeaning": "to end someone's job; to make a person leave their position",
+      "scope": "Dismissing a person from work; not putting something in a can, and not the modal verb.",
+      "examples": [
+        "The club canned its manager.",
+        "He was canned for being late."
+      ],
+      "branchCoverage": [
+        "terminate the employment of -> \"end someone's job\"",
+        "discharge from an office or position -> \"make a person leave their position\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "will%1:10:00::",
+      "lemma": "will",
+      "pos": "n",
+      "definition": "a legal document declaring a person's wishes regarding the disposal of their property when they die",
+      "decision": "gloss",
+      "simpleMeaning": "a legal paper that says who will get your things after you die",
+      "scope": "The document only; not the power to decide and not the future helper verb.",
+      "examples": [
+        "She wrote her will last year.",
+        "In his will he left the house to his son."
+      ],
+      "branchCoverage": [
+        "legal document -> \"a legal paper\"",
+        "wishes about property after death -> \"who will get your things after you die\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "will%1:09:00::",
+      "lemma": "will",
+      "pos": "n",
+      "definition": "the capability of conscious choice and decision and intention",
+      "decision": "gloss",
+      "simpleMeaning": "the power to choose and decide, and the intention to do something",
+      "scope": "The inner power of choice and intention; not the legal paper.",
+      "examples": [
+        "She has a strong will.",
+        "He lost the will to try."
+      ],
+      "branchCoverage": [
+        "capability of conscious choice and decision -> \"the power to choose and decide\"",
+        "intention -> \"the intention to do something\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "no%3:00:00::",
+      "lemma": "no",
+      "pos": "a",
+      "definition": "(quantifier) used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of",
+      "decision": "gloss",
+      "simpleMeaning": "not any; not even a small amount",
+      "scope": "Before a noun, with things you can count or cannot count; not the answer word.",
+      "examples": [
+        "There is no milk.",
+        "No students came."
+      ],
+      "branchCoverage": [
+        "quantifier with mass or plural count nouns -> one example of each",
+        "complete or almost complete lack or zero quantity -> \"not any; not even a small amount\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "no%4:02:00::",
+      "lemma": "no",
+      "pos": "r",
+      "definition": "used to express refusal or denial or disagreement etc. or especially to emphasize a negative statement",
+      "decision": "gloss",
+      "simpleMeaning": "used to refuse, disagree, or deny, or to make a negative statement stronger",
+      "scope": "The spoken answer word; not before a noun.",
+      "examples": [
+        "No, I will not go.",
+        "No, I really cannot."
+      ],
+      "branchCoverage": [
+        "refusal or denial or disagreement -> \"refuse, disagree, or deny\"",
+        "emphasise a negative statement -> \"make a negative statement stronger\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "there%1:15:00::",
+      "lemma": "there",
+      "pos": "n",
+      "definition": "a location other than here; that place; location, medial pronoun; demonstrative pronoun, location; quantifier: demonstrative determiner, distal; demonstrative pronoun, location; quantifier: demonstrative determiner, singular, distal",
+      "decision": "gloss",
+      "simpleMeaning": "that place, away from the speaker; not here",
+      "scope": "The place word used as a noun or after a preposition. The pronoun and determiner labels in the source are grammar notes about the same place meaning, not extra meanings.",
+      "examples": [
+        "We walked from here to there.",
+        "From there to the coast is ten miles."
+      ],
+      "branchCoverage": [
+        "a location other than here -> \"that place, away from the speaker\"",
+        "that place -> same wording",
+        "pronoun and determiner labels -> grammar notes, declared as labels rather than meanings"
+      ],
+      "labelBranches": [
+        "location, medial pronoun",
+        "demonstrative pronoun, location",
+        "quantifier: demonstrative determiner, distal",
+        "quantifier: demonstrative determiner, singular, distal",
+        "after colon: demonstrative determiner, singular, distal"
+      ],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "good%4:02:00::",
+      "lemma": "good",
+      "pos": "r",
+      "definition": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (‘good’ is a nonstandard dialectal variant for ‘well’)",
+      "decision": "gloss",
+      "simpleMeaning": "in a proper or satisfactory way; to a high standard (not standard English; the standard form is well)",
+      "scope": "Dialect and combining-form use. In standard writing the adverb is well; this entry is marked so a learner does not copy it.",
+      "examples": [
+        "The team played good today.",
+        "He did good in the test."
+      ],
+      "branchCoverage": [
+        "in a good or proper or satisfactory manner -> \"in a proper or satisfactory way\", without the headword",
+        "to a high standard -> \"or to a high standard\"",
+        "nonstandard variant for well -> stated in the meaning and the scope"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "over%1:28:00::",
+      "lemma": "over",
+      "pos": "n",
+      "definition": "(cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch",
+      "decision": "gloss",
+      "simpleMeaning": "in cricket, a set of six balls bowled from one end of the pitch",
+      "scope": "Cricket only; not the preposition and not finished.",
+      "examples": [
+        "He bowled a maiden over.",
+        "The next over starts in a minute."
+      ],
+      "branchCoverage": [
+        "cricket -> named in the meaning",
+        "division of play with six balls from one end -> \"a set of six balls bowled from one end of the pitch\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "then%4:02:00::",
+      "lemma": "then",
+      "pos": "r",
+      "definition": "subsequently or soon afterward (often used as sentence connectors)",
+      "decision": "gloss",
+      "simpleMeaning": "after that; soon after",
+      "scope": "Order in time, often as a sentence connector; not the adjective meaning at that time.",
+      "examples": [
+        "We ate, then we walked home.",
+        "Then the rain stopped."
+      ],
+      "branchCoverage": [
+        "subsequently or soon afterward -> \"after that; soon after\"",
+        "sentence connector -> shown by both examples"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "well%4:02:00::",
+      "lemma": "well",
+      "pos": "r",
+      "definition": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (‘good’ is a nonstandard dialectal variant for ‘well’)",
+      "decision": "gloss",
+      "simpleMeaning": "in a good way or to a high standard",
+      "scope": "The standard adverb; also used in combinations such as well-known.",
+      "examples": [
+        "She sings well.",
+        "The plan worked well."
+      ],
+      "branchCoverage": [
+        "in a good or proper or satisfactory manner -> \"in a good way\"",
+        "to a high standard -> \"or to a high standard\"",
+        "combining form -> noted in the scope"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "well%4:02:03::",
+      "lemma": "well",
+      "pos": "r",
+      "definition": "indicating high probability; in all likelihood",
+      "decision": "gloss",
+      "simpleMeaning": "probably; very likely",
+      "scope": "With may, might, or could; not the manner adverb.",
+      "examples": [
+        "He may well be right.",
+        "She could well win the race."
+      ],
+      "branchCoverage": [
+        "indicating high probability -> \"probably\"",
+        "in all likelihood -> \"very likely\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "much%4:02:01::",
+      "lemma": "much",
+      "pos": "r",
+      "definition": "(degree adverb used before a noun phrase) for all practical purposes but not completely",
+      "decision": "gloss",
+      "simpleMeaning": "almost, but not completely",
+      "scope": "Before a noun phrase, as in much the same size; not the question word and not a large amount.",
+      "examples": [
+        "It is much the same as before.",
+        "The two rooms are much the same size."
+      ],
+      "branchCoverage": [
+        "degree adverb before a noun phrase -> \"almost\"",
+        "for all practical purposes but not completely -> \"but not completely\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "much%3:00:00::",
+      "lemma": "much",
+      "pos": "a",
+      "definition": "(quantifier used with mass nouns) great in quantity or degree or extent",
+      "decision": "gloss",
+      "simpleMeaning": "great in amount or degree",
+      "scope": "With things you cannot count; not many with things you can count.",
+      "examples": [
+        "He has much work to do.",
+        "There is not much time."
+      ],
+      "branchCoverage": [
+        "quantifier with mass nouns -> \"things you cannot count\" in the scope",
+        "great in quantity or degree or extent -> \"great in amount or degree\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "even%3:00:01::",
+      "lemma": "even",
+      "pos": "a",
+      "definition": "being level or straight or regular and without variation as e.g. in shape or texture; or being in the same plane or at the same height as something else (i.e. even with)",
+      "decision": "gloss",
+      "simpleMeaning": "flat or level, and the same all over; at the same height as something else",
+      "scope": "Surface and height, not equal amounts.",
+      "examples": [
+        "The table is even.",
+        "The top of the wall is even with the roof."
+      ],
+      "branchCoverage": [
+        "level or straight or regular without variation -> \"flat or level, and the same all over\"",
+        "in the same plane or at the same height -> \"at the same height as something else\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "even%5:00:01:equal:00",
+      "lemma": "even",
+      "pos": "a",
+      "definition": "equal in degree or extent or amount; or equally matched or balanced",
+      "decision": "gloss",
+      "simpleMeaning": "equal in amount or level; fairly matched",
+      "scope": "Amounts and contests, not a flat surface.",
+      "examples": [
+        "The two teams were even.",
+        "The score was even at half time."
+      ],
+      "branchCoverage": [
+        "equal in degree or extent or amount -> \"equal in amount or level\"",
+        "equally matched or balanced -> \"fairly matched\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "even%1:28:00::",
+      "lemma": "even",
+      "pos": "n",
+      "definition": "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)",
+      "decision": "gloss",
+      "simpleMeaning": "the last part of the day, between late afternoon and night",
+      "scope": "An old word for evening; not the adjective or the adverb.",
+      "examples": [
+        "The stars came out at even.",
+        "In the even the wind fell."
+      ],
+      "branchCoverage": [
+        "latter part of the day -> \"the last part of the day, between late afternoon and night\"",
+        "decreasing daylight until nightfall -> \"between late afternoon and night\"; evening is a usage note, not the defining word"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "even%4:02:00::",
+      "lemma": "even",
+      "pos": "r",
+      "definition": "used as an intensive especially to indicate something unexpected",
+      "decision": "gloss",
+      "simpleMeaning": "used to show that something is surprising",
+      "scope": "The intensifying adverb, as in even the baby laughed; not the adjective.",
+      "examples": [
+        "Even the baby laughed.",
+        "He did not even say goodbye."
+      ],
+      "branchCoverage": [
+        "used as an intensive -> \"used to show that something is surprising\"",
+        "something unexpected -> \"surprising\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "may%1:20:00::",
+      "lemma": "may",
+      "pos": "n",
+      "definition": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America",
+      "decision": "gloss",
+      "simpleMeaning": "a thorny bush or small tree with white or red flowers and red berries; hawthorn",
+      "scope": "The plant only; not the modal verb. The North American escape note is left out as a detail about where it grows.",
+      "examples": [
+        "The may was in flower.",
+        "A may hedge grew along the road."
+      ],
+      "branchCoverage": [
+        "thorny Eurasian shrub or small tree -> \"a thorny bush or small tree\"",
+        "white or scarlet flowers and deep red berries -> \"white or red flowers and red berries\"",
+        "established as an escape in North America -> out of learner scope, declared here"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "here%1:15:00::",
+      "lemma": "here",
+      "pos": "n",
+      "definition": "the present location; this place; location, proximal pronoun; demonstrative pronoun, location; quantifier: demonstrative determiner, singular, proximal",
+      "decision": "gloss",
+      "simpleMeaning": "this place, where the speaker is; not somewhere else",
+      "scope": "The place word used as a noun or after a preposition. The pronoun and determiner labels in the source are grammar notes about the same place meaning.",
+      "examples": [
+        "We stayed here for two days.",
+        "From here to the sea is ten miles."
+      ],
+      "branchCoverage": [
+        "the present location -> \"this place, where the speaker is\"",
+        "this place -> same wording",
+        "pronoun and determiner labels -> grammar notes, declared as labels rather than meanings"
+      ],
+      "labelBranches": [
+        "location, proximal pronoun",
+        "demonstrative pronoun, location",
+        "quantifier: demonstrative determiner, singular, proximal",
+        "after colon: demonstrative determiner, singular, proximal"
+      ],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "need%1:03:00::",
+      "lemma": "need",
+      "pos": "n",
+      "definition": "the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior",
+      "decision": "gloss",
+      "simpleMeaning": "a strong feeling or reason that makes a person act",
+      "scope": "The inner force behind action; not the verb and not a lack of something.",
+      "examples": [
+        "He felt a need to help.",
+        "Her need to win was strong."
+      ],
+      "branchCoverage": [
+        "psychological feature that arouses an organism to action -> \"a strong feeling ... that makes a person act\"",
+        "the reason for the action -> \"or reason\"",
+        "gives purpose and direction to behaviour -> \"makes a person act\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "really%4:02:02::",
+      "lemma": "really",
+      "pos": "r",
+      "definition": "in fact (used as intensifiers or sentence modifiers)",
+      "decision": "gloss",
+      "simpleMeaning": "in fact; used to make a statement stronger or to add a comment",
+      "scope": "Truth and emphasis; not a question about whether something is true.",
+      "examples": [
+        "It is really cold today.",
+        "Really, you should not have."
+      ],
+      "branchCoverage": [
+        "in fact -> \"in fact\"",
+        "intensifier or sentence modifier -> \"make a statement stronger or add a comment\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "right%1:07:00::",
+      "lemma": "right",
+      "pos": "n",
+      "definition": "an abstract idea of that which is due to a person or governmental body by law or tradition or nature",
+      "decision": "gloss",
+      "simpleMeaning": "something that is fair and belongs to a person by law, custom, or nature",
+      "scope": "What a person is owed; not the direction and not correct.",
+      "examples": [
+        "Everyone has the right to vote.",
+        "She fought for her rights."
+      ],
+      "branchCoverage": [
+        "abstract idea of what is due -> \"something that is fair and belongs to a person\"",
+        "by law or tradition or nature -> all three named in the meaning"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%1:15:00::",
+      "lemma": "right",
+      "pos": "n",
+      "definition": "location near or direction toward the right side; i.e. the side to the south when a person or object faces east",
+      "decision": "gloss",
+      "simpleMeaning": "the side or direction opposite your left",
+      "scope": "Direction only; not what is fair and not correct.",
+      "examples": [
+        "Turn to the right at the church.",
+        "The school is on the right."
+      ],
+      "branchCoverage": [
+        "location near or direction toward the right side -> \"the side or direction opposite your left\", without the headword",
+        "the side to the south when facing east -> left out as a compass detail, declared here"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "right%1:06:00::",
+      "lemma": "right",
+      "pos": "n",
+      "definition": "the piece of ground in the outfield on the catcher's right",
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, the part of the outfield on the catcher's right",
+      "scope": "Baseball field only; not the direction word in general.",
+      "examples": [
+        "The ball landed in right.",
+        "He plays in right field."
+      ],
+      "branchCoverage": [
+        "piece of ground in the outfield -> \"the part of the outfield\"",
+        "on the catcher's right -> \"on the catcher's right\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "right%5:00:01:proper:00",
+      "lemma": "right",
+      "pos": "a",
+      "definition": "socially right or correct",
+      "decision": "gloss",
+      "simpleMeaning": "correct and acceptable in social situations",
+      "scope": "Behaviour and manners; not the direction and not a legal right.",
+      "examples": [
+        "It is not right to shout at people.",
+        "She said the right thing."
+      ],
+      "branchCoverage": [
+        "socially right or correct -> \"correct and acceptable in social situations\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "work%2:41:02::",
+      "lemma": "work",
+      "pos": "v",
+      "definition": "exert oneself by doing mental or physical work for a purpose or out of necessity; work",
+      "decision": "gloss",
+      "simpleMeaning": "to put effort into doing something, with your mind or your body",
+      "scope": "Effort towards a purpose or out of need; not simply being employed.",
+      "examples": [
+        "She worked hard to improve her grades.",
+        "They worked all night to finish the job."
+      ],
+      "branchCoverage": [
+        "exert oneself by doing mental or physical work -> \"put effort into doing something\"",
+        "for a purpose or out of necessity -> \"a purpose or out of need\" in the scope"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "year%1:28:00::",
+      "lemma": "year",
+      "pos": "n",
+      "definition": "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun",
+      "decision": "gloss",
+      "simpleMeaning": "the time a planet takes to go around the sun once",
+      "scope": "The astronomical period; the calendar year is a different everyday use.",
+      "examples": [
+        "A year on Earth is about 365 days.",
+        "A year on Mars is much longer."
+      ],
+      "branchCoverage": [
+        "period of time for a complete revolution around the sun -> \"the time a planet takes to go around the sun once\"",
+        "a planet such as Earth or Mars -> one example each"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "why%1:16:00::",
+      "lemma": "why",
+      "pos": "n",
+      "definition": "the cause or intention underlying an action or situation, especially in the phrase ‘the whys and wherefores’",
+      "decision": "gloss",
+      "simpleMeaning": "the reason or purpose for something",
+      "scope": "The noun, as in the whys and wherefores; not the question word.",
+      "examples": [
+        "He never explained the why of it.",
+        "We talked about the whys and wherefores."
+      ],
+      "branchCoverage": [
+        "cause or intention underlying an action -> \"the reason or purpose\"",
+        "the phrase the whys and wherefores -> used in the second example"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "still%1:06:00::",
+      "lemma": "still",
+      "pos": "n",
+      "definition": "an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed",
+      "decision": "gloss",
+      "simpleMeaning": "a device that heats a liquid into gas and cools the gas back into liquid",
+      "scope": "The apparatus; not the adverb and not a photo.",
+      "examples": [
+        "They used a still to make strong drink.",
+        "The old still stood in the yard."
+      ],
+      "branchCoverage": [
+        "apparatus for distillation -> \"a device that heats a liquid into gas\"",
+        "vessel heated and condenser -> \"cools the gas back into liquid\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "still%1:06:01::",
+      "lemma": "still",
+      "pos": "n",
+      "definition": "a static photograph (especially one taken from a movie and used for advertising purposes)",
+      "decision": "gloss",
+      "simpleMeaning": "a photograph that does not move, especially one taken from a film or used in advertising",
+      "scope": "Any single photograph; the film and advertising uses are typical, not exclusive.",
+      "examples": [
+        "The still showed the two actors.",
+        "They used a still from the movie in the advert."
+      ],
+      "branchCoverage": [
+        "static photograph -> \"a photograph that does not move\"",
+        "especially from a movie or for advertising -> kept as typical uses, not a narrowing"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "still%1:07:00::",
+      "lemma": "still",
+      "pos": "n",
+      "definition": "(poetic) tranquil silence",
+      "decision": "gloss",
+      "simpleMeaning": "a deep quiet; silence",
+      "scope": "Literary use; not the adverb.",
+      "examples": [
+        "A deep still covered the lake.",
+        "The still of the night made him whisper."
+      ],
+      "branchCoverage": [
+        "poetic -> stated in the scope",
+        "tranquil silence -> \"a deep quiet; silence\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "still%2:37:01::",
+      "lemma": "still",
+      "pos": "v",
+      "definition": "lessen the intensity of or calm",
+      "decision": "gloss",
+      "simpleMeaning": "to become or make less strong or calm",
+      "scope": "Strength of sound or feeling, or calming; not the quiet noun.",
+      "examples": [
+        "The music stilled to a whisper.",
+        "Her fear stilled."
+      ],
+      "branchCoverage": [
+        "lessen the intensity of -> \"become or make less strong\"",
+        "or calm -> \"or calm\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "still%4:02:04::",
+      "lemma": "still",
+      "pos": "r",
+      "definition": "despite anything to the contrary (usually preceding a concession)",
+      "decision": "gloss",
+      "simpleMeaning": "despite what has been said; all the same",
+      "scope": "A concession, as in still, it was worth it; not continuing up to now.",
+      "examples": [
+        "Still, it was worth the trip.",
+        "He was tired; still, he kept going."
+      ],
+      "branchCoverage": [
+        "despite anything to the contrary -> \"despite what has been said\"",
+        "usually preceding a concession -> \"all the same\", shown by both examples"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "still%2:37:00::",
+      "lemma": "still",
+      "pos": "v",
+      "definition": "make calm or still",
+      "decision": "gloss",
+      "simpleMeaning": "to make someone or something calm and quiet",
+      "scope": "Calming a person, animal, or sound; not becoming weaker.",
+      "examples": [
+        "She stilled the crying child.",
+        "He stilled the horse with a soft voice."
+      ],
+      "branchCoverage": [
+        "make calm -> \"make ... calm and quiet\"",
+        "or still -> \"quiet\", both parts named"
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "many%3:00:00::",
+      "lemma": "many",
+      "pos": "a",
+      "definition": "a quantifier that can be used with count nouns and is often preceded by ‘as’ or ‘too’ or ‘so’ or ‘that’; amounting to a large but indefinite number; quantifier, plural pronoun; quantifier, plural",
+      "decision": "gloss",
+      "simpleMeaning": "a large number of; more than a few",
+      "scope": "With things you can count; not much with things you cannot count.",
+      "examples": [
+        "Many people came to the show.",
+        "She has many friends."
+      ],
+      "branchCoverage": [
+        "quantifier with count nouns -> \"things you can count\" in the scope",
+        "large but indefinite number -> \"a large number of; more than a few\"",
+        "used after as, too, so, that -> grammar pattern, not a separate meaning; declared here"
+      ],
+      "labelBranches": [
+        "quantifier, plural pronoun",
+        "quantifier, plural"
+      ],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "world%5:00:00:international:00",
+      "lemma": "world",
+      "pos": "a",
+      "definition": "involving the entire earth; not limited or provincial in scope",
+      "decision": "gloss",
+      "simpleMeaning": "covering the whole earth; not limited to one area",
+      "scope": "Before a noun, as in world peace; not the noun world.",
+      "examples": [
+        "They want world peace.",
+        "The band went on a world tour."
+      ],
+      "branchCoverage": [
+        "involving the entire earth -> \"covering the whole earth\"",
+        "not limited or provincial in scope -> \"not limited to one area\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "down%1:17:00::",
+      "lemma": "down",
+      "pos": "n",
+      "definition": "(usually plural) a rolling treeless highland with little soil",
+      "decision": "gloss",
+      "simpleMeaning": "rolling grassy hills with few trees and thin soil; usually plural, downs",
+      "scope": "The hills, mainly in southern England; not the direction word.",
+      "examples": [
+        "The sheep grazed on the downs.",
+        "We walked across the down."
+      ],
+      "branchCoverage": [
+        "usually plural -> noted in the meaning and the first example",
+        "rolling treeless highland with little soil -> \"rolling grassy hills with few trees and thin soil\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "great%5:00:01:extraordinary:00",
+      "lemma": "great",
+      "pos": "a",
+      "definition": "remarkable or out of the ordinary in degree or magnitude or effect",
+      "decision": "gloss",
+      "simpleMeaning": "much more than usual; remarkable in size, amount, or effect",
+      "scope": "Unusual degree; not the sense of very good.",
+      "examples": [
+        "The show was a great success.",
+        "He felt great pain in his back."
+      ],
+      "branchCoverage": [
+        "remarkable or out of the ordinary -> \"much more than usual; remarkable\"",
+        "in degree or magnitude or effect -> \"size, amount, or effect\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "through%5:00:00:direct:00",
+      "lemma": "through",
+      "pos": "a",
+      "definition": "(of a route or journey etc.) continuing without requiring stops or changes",
+      "decision": "gloss",
+      "simpleMeaning": "going all the way without stopping or changing",
+      "scope": "Routes and journeys, as in a through train; not the preposition.",
+      "examples": [
+        "We took a through train to the coast.",
+        "This is a through road, with no stops."
+      ],
+      "branchCoverage": [
+        "of a route or journey -> \"routes and journeys\" in the scope",
+        "continuing without stops or changes -> \"going all the way without stopping or changing\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "last%5:00:00:closing:00",
+      "lemma": "last",
+      "pos": "a",
+      "definition": "occurring at or forming an end or termination",
+      "decision": "gloss",
+      "simpleMeaning": "coming at the end; final",
+      "scope": "The end of a series; not the verb meaning to continue.",
+      "examples": [
+        "This is the last day of term.",
+        "She had one last chance."
+      ],
+      "branchCoverage": [
+        "occurring at or forming an end -> \"coming at the end\"",
+        "or termination -> \"final\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "best%5:00:00:advisable:00",
+      "lemma": "best",
+      "pos": "a",
+      "definition": "(comparative and superlative of ‘well’) wiser or more advantageous and hence advisable",
+      "decision": "gloss",
+      "simpleMeaning": "wisest or most useful; the most sensible thing to do",
+      "scope": "Advice, as in it is best to wait; not the best of a group.",
+      "examples": [
+        "It is best to leave early.",
+        "The best plan is to wait."
+      ],
+      "branchCoverage": [
+        "comparative and superlative of well -> grammar note, declared here",
+        "wiser or more advantageous -> \"wisest or most useful\"",
+        "hence advisable -> \"the most sensible thing to do\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "such%5:00:00:much:00",
+      "lemma": "such",
+      "pos": "a",
+      "definition": "of so extreme a degree or extent; demonstrative, other pronoun; demonstrative determiner, kind",
+      "decision": "gloss",
+      "simpleMeaning": "of this kind, or of so great a degree",
+      "scope": "Before a noun, pointing to something known or shown; not the pronoun such as.",
+      "examples": [
+        "Such weather is rare here.",
+        "I have never seen such a sight."
+      ],
+      "branchCoverage": [
+        "of so extreme a degree or extent -> \"of so great a degree\"",
+        "demonstrative determiner, kind -> \"of this kind\"",
+        "other pronoun and determiner labels -> grammar notes about the same two meanings"
+      ],
+      "labelBranches": [
+        "demonstrative, other pronoun"
+      ],
+      "branchCoverageDeclared": true,
+      "reason": "First draft under the branch-coverage rule.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "love%1:09:00::",
+      "lemma": "love",
+      "pos": "n",
+      "definition": "any object of warm affection or devotion",
+      "decision": "gloss",
+      "simpleMeaning": "a person or thing that you feel strong affection or devotion for",
+      "scope": "The loved person or thing; not the feeling itself.",
+      "examples": [
+        "Music was her great love.",
+        "The old garden was his love."
+      ],
+      "branchCoverage": [
+        "any object of warm affection or devotion -> \"a person or thing that you feel strong affection or devotion for\""
+      ],
+      "labelBranches": [],
+      "branchCoverageDeclared": true,
+      "reason": "Second pass correcting a named reviewer defect.",
+      "verdict": "second-pass"
+    }
+  ],
+  "rejected": []
+}

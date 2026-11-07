@@ -1,0 +1,1188 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 52,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 49,
+      "of": 50,
+      "rate": 0.98
+    },
+    "selfApproved": [
+      "black%5:00:00:sarcastic:00"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "b337cb749e3bf6bff3a35d1e3637062d2adaa8e39bf64aad881ef6f60c0c001b"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "service%1:14:05::",
+      "lemma": "service",
+      "pos": "n",
+      "definition": "a company or agency that performs a public service; subject to government regulation",
+      "sourceBranches": [
+        "a company or agency that performs a public service",
+        "subject to government regulation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a company or body that does work for the public, such as supplying water, power, or transport, and must follow government rules.",
+      "scope": "This is not an act of helping someone or a way of being useful to them; it is an organization that supplies something the public needs and answers to government rules.",
+      "examples": [
+        "The postal service is required by law to deliver mail to every address in the country.",
+        "State regulators fined the gas service for failing to repair leaks quickly."
+      ],
+      "branchCoverage": [
+        "a company or agency that performs a public service -> a company or body that does work for the public, such as supplying water, power, or transport",
+        "subject to government regulation -> must follow government rules"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "service%1:14:05:: -> a regulated company or agency that supplies a public need; service%1:07:00:: -> anything that is a way of being helpful to someone else",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "service%1:07:00::",
+      "lemma": "service",
+      "pos": "n",
+      "definition": "a means of serving",
+      "sourceBranches": [
+        "a means of serving"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "anything that is a way of being useful or helpful to someone else.",
+      "scope": "This is not a regulated company or agency that supplies the public; it is anything that lets someone be of help to others.",
+      "examples": [
+        "The village well was a service to every family on the hill.",
+        "Her knowledge of the law was a service to neighbors in trouble."
+      ],
+      "branchCoverage": [
+        "a means of serving -> anything that is a way of being useful or helpful to someone else"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "service%1:14:05:: -> a regulated company or agency that supplies a public need; service%1:07:00:: -> anything that is a way of being helpful to someone else",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "country%1:15:02::",
+      "lemma": "country",
+      "pos": "n",
+      "definition": "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
+      "sourceBranches": [
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an area of land whose exact edges are not fixed, usually set apart for a special purpose or known by its people, way of life, or natural features.",
+      "scope": "This is not a nation with a government and fixed borders; it is a stretch of land defined loosely by its use or by the people and features in it.",
+      "examples": [
+        "We drove through miles of cattle country before reaching the town.",
+        "The vineyard lies in wine country, where the hills catch the afternoon sun."
+      ],
+      "branchCoverage": [
+        "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography) -> an area of land whose exact edges are not fixed, usually set apart for a special purpose or known by its people, way of life, or natural features"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "open%5:00:00:unconstricted:00",
+      "lemma": "open",
+      "pos": "a",
+      "definition": "without undue constriction as from e.g. tenseness or inhibition",
+      "sourceBranches": [
+        "without undue constriction as from e.g. tenseness or inhibition"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "not held tight by tension or shyness, so that the body or manner is free and loose.",
+      "scope": "This is not about being honest or hiding nothing, and not about something being unclosed; it describes a body or manner that is loose and not held in by tension or shyness.",
+      "examples": [
+        "Her open laugh soon put the whole room at ease.",
+        "He stood with an open posture, shoulders loose and hands unclenched."
+      ],
+      "branchCoverage": [
+        "without undue constriction as from e.g. tenseness or inhibition -> not held tight by tension or shyness, so that the body or manner is free and loose"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "open%5:00:00:unconstricted:00 -> free of tightness or shyness, not held back; open%2:41:01:: -> verb, start a meeting, speech or performance; open%5:00:00:ingenuous:00 -> honest and direct, hiding nothing; open%5:00:00:coarse:00 -> a material full of small holes or gaps; open%5:00:00:vulnerable:00 -> left without defense, easy to attack",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "open%2:41:01::",
+      "lemma": "open",
+      "pos": "v",
+      "definition": "begin or set in action, of meetings, speeches, recitals, etc.",
+      "sourceBranches": [
+        "begin or set in action, of meetings, speeches, recitals, etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to start an event such as a meeting, speech, or musical performance, or to set it going.",
+      "scope": "This is not about a door, box, or lid becoming unclosed; it is about starting a planned event.",
+      "examples": [
+        "The chair opened the meeting with a short welcome.",
+        "She opened the concert with a piece by Bach."
+      ],
+      "branchCoverage": [
+        "begin or set in action, of meetings, speeches, recitals, etc -> to start an event such as a meeting, speech, or musical performance, or to set it going"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "open%5:00:00:unconstricted:00 -> free of tightness or shyness, not held back; open%2:41:01:: -> verb, start a meeting, speech or performance; open%5:00:00:ingenuous:00 -> honest and direct, hiding nothing; open%5:00:00:coarse:00 -> a material full of small holes or gaps; open%5:00:00:vulnerable:00 -> left without defense, easy to attack",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "open%5:00:00:ingenuous:00",
+      "lemma": "open",
+      "pos": "a",
+      "definition": "openly straightforward and direct without reserve or secretiveness",
+      "sourceBranches": [
+        "openly straightforward and direct without reserve or secretiveness"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "honest and direct, saying what you think without holding back or keeping secrets.",
+      "scope": "This is not about a relaxed body or a lack of tension; it describes a person or manner that hides nothing.",
+      "examples": [
+        "She was open about her doubts from the start.",
+        "The mayor gave an open account of what had gone wrong."
+      ],
+      "branchCoverage": [
+        "openly straightforward and direct without reserve or secretiveness -> honest and direct, saying what you think without holding back or keeping secrets"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "open%5:00:00:unconstricted:00 -> free of tightness or shyness, not held back; open%2:41:01:: -> verb, start a meeting, speech or performance; open%5:00:00:ingenuous:00 -> honest and direct, hiding nothing; open%5:00:00:coarse:00 -> a material full of small holes or gaps; open%5:00:00:vulnerable:00 -> left without defense, easy to attack",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "open%5:00:00:coarse:00",
+      "lemma": "open",
+      "pos": "a",
+      "definition": "(of textures) full of small openings or gaps",
+      "sourceBranches": [
+        "(of textures) full of small openings or gaps"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "having many small holes or spaces through it, said of a material's surface or weave.",
+      "scope": "This is not about something being unlocked or uncovered, and not about a person being frank; it describes a material full of small holes or gaps.",
+      "examples": [
+        "The open weave of the linen lets the breeze through.",
+        "The sponge has an open texture full of tiny holes."
+      ],
+      "branchCoverage": [
+        "(of textures) full of small openings or gaps -> having many small holes or spaces through it, said of a material's surface or weave"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "open%5:00:00:unconstricted:00 -> free of tightness or shyness, not held back; open%2:41:01:: -> verb, start a meeting, speech or performance; open%5:00:00:ingenuous:00 -> honest and direct, hiding nothing; open%5:00:00:coarse:00 -> a material full of small holes or gaps; open%5:00:00:vulnerable:00 -> left without defense, easy to attack",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "open%5:00:00:vulnerable:00",
+      "lemma": "open",
+      "pos": "a",
+      "definition": "not defended or capable of being defended",
+      "sourceBranches": [
+        "not defended or capable of being defended"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "not protected and not able to be protected from attack.",
+      "scope": "This is not about being honest or relaxed, and not about something unclosed; it means left without defense and easy to attack.",
+      "examples": [
+        "The camp lay open to attack from the hills.",
+        "With its walls broken, the old fort was open to raiders from the sea."
+      ],
+      "branchCoverage": [
+        "not defended or capable of being defended -> not protected and not able to be protected from attack"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "open%5:00:00:unconstricted:00 -> free of tightness or shyness, not held back; open%2:41:01:: -> verb, start a meeting, speech or performance; open%5:00:00:ingenuous:00 -> honest and direct, hiding nothing; open%5:00:00:coarse:00 -> a material full of small holes or gaps; open%5:00:00:vulnerable:00 -> left without defense, easy to attack",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "general%5:00:00:comprehensive:00",
+      "lemma": "general",
+      "pos": "a",
+      "definition": "of worldwide scope or applicability",
+      "sourceBranches": [
+        "of worldwide scope or applicability"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "reaching across the whole world or able to be used everywhere.",
+      "scope": "This is not about a broad but imprecise description; it means reaching or applying across the whole world.",
+      "examples": [
+        "The new safety standard has general application in every country that signed the treaty.",
+        "The theory won general acceptance among researchers worldwide."
+      ],
+      "branchCoverage": [
+        "of worldwide scope or applicability -> reaching across the whole world or able to be used everywhere"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "area%1:07:00::",
+      "lemma": "area",
+      "pos": "n",
+      "definition": "the extent of a 2-dimensional surface enclosed within a boundary",
+      "sourceBranches": [
+        "the extent of a 2-dimensional surface enclosed within a boundary"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the amount of flat surface inside the edges of a shape or place.",
+      "scope": "This is not a region or a subject of study; it is the measured amount of flat surface inside a boundary.",
+      "examples": [
+        "The area of the rectangle is twelve square metres.",
+        "They measured the area of the field before planting."
+      ],
+      "branchCoverage": [
+        "the extent of a 2-dimensional surface enclosed within a boundary -> the amount of flat surface inside the edges of a shape or place"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%5:00:00:dishonorable:00",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "(used of conduct or character) deserving or bringing disgrace or shame",
+      "sourceBranches": [
+        "(used of conduct or character) deserving or bringing disgrace or shame"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "so shameful that it deserves or causes loss of respect, said of a person's actions or nature.",
+      "scope": "This is not about wicked forces behind something and not about an event that brings ruin; it judges conduct or character as shameful.",
+      "examples": [
+        "It was a black deed that the village remembered for years.",
+        "He earned a black reputation for cheating his partners."
+      ],
+      "branchCoverage": [
+        "(used of conduct or character) deserving or bringing disgrace or shame -> so shameful that it deserves or causes loss of respect, said of a person's actions or nature"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "black%5:00:00:dishonorable:00 -> shameful conduct or character that costs respect; black%5:00:00:evil:00 -> wicked forces or a cruel nature behind something; black%5:00:00:unfortunate:00 -> events leading to terrible results and ruin; black%1:06:00:: -> dark clothes worn as a sign of mourning; black%5:00:00:dirty:01 -> covered with dirt or soot; black%5:00:00:sarcastic:00 -> harshly ironic or sinister; black%5:00:00:colored:00 -> a face made dark, especially by blood",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%5:00:00:evil:00",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "stemming from evil characteristics or forces; wicked or dishonorable",
+      "sourceBranches": [
+        "stemming from evil characteristics or forces",
+        "wicked or dishonorable"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "coming from wicked forces or a cruel nature; deeply bad and shameful.",
+      "scope": "This is not a shameful act that costs respect and not an event that brings ruin; it points to a wicked source or nature behind something.",
+      "examples": [
+        "The villagers feared the old woman's black arts.",
+        "In the legend, a black spirit guarded the cave."
+      ],
+      "branchCoverage": [
+        "stemming from evil characteristics or forces -> coming from wicked forces or a cruel nature",
+        "wicked or dishonorable -> deeply bad and shameful"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "black%5:00:00:dishonorable:00 -> shameful conduct or character that costs respect; black%5:00:00:evil:00 -> wicked forces or a cruel nature behind something; black%5:00:00:unfortunate:00 -> events leading to terrible results and ruin; black%1:06:00:: -> dark clothes worn as a sign of mourning; black%5:00:00:dirty:01 -> covered with dirt or soot; black%5:00:00:sarcastic:00 -> harshly ironic or sinister; black%5:00:00:colored:00 -> a face made dark, especially by blood",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%5:00:00:unfortunate:00",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "(of events) having extremely unfortunate or dire consequences; bringing ruin",
+      "sourceBranches": [
+        "(of events) having extremely unfortunate or dire consequences",
+        "bringing ruin"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "said of events that lead to terrible results and bring ruin.",
+      "scope": "This is not about a wicked source or a shameful act; it describes events whose results are disastrous.",
+      "examples": [
+        "It was a black day for the town when the mine closed.",
+        "That was a black year for farmers, with drought followed by flood."
+      ],
+      "branchCoverage": [
+        "(of events) having extremely unfortunate or dire consequences -> said of events that lead to terrible results",
+        "bringing ruin -> bring ruin"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "black%5:00:00:dishonorable:00 -> shameful conduct or character that costs respect; black%5:00:00:evil:00 -> wicked forces or a cruel nature behind something; black%5:00:00:unfortunate:00 -> events leading to terrible results and ruin; black%1:06:00:: -> dark clothes worn as a sign of mourning; black%5:00:00:dirty:01 -> covered with dirt or soot; black%5:00:00:sarcastic:00 -> harshly ironic or sinister; black%5:00:00:colored:00 -> a face made dark, especially by blood",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%1:06:00::",
+      "lemma": "black",
+      "pos": "n",
+      "definition": "black clothing (worn as a sign of mourning)",
+      "sourceBranches": [
+        "black clothing (worn as a sign of mourning)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "clothing of the darkest colour, worn as a public sign of grief.",
+      "scope": "This is the clothing itself, not the colour, and not any dark object.",
+      "examples": [
+        "She wore black to the funeral.",
+        "In some countries, widows wear black for a year."
+      ],
+      "branchCoverage": [
+        "black clothing (worn as a sign of mourning) -> clothing of the darkest colour, worn as a public sign of grief"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "black%5:00:00:dishonorable:00 -> shameful conduct or character that costs respect; black%5:00:00:evil:00 -> wicked forces or a cruel nature behind something; black%5:00:00:unfortunate:00 -> events leading to terrible results and ruin; black%1:06:00:: -> dark clothes worn as a sign of mourning; black%5:00:00:dirty:01 -> covered with dirt or soot; black%5:00:00:sarcastic:00 -> harshly ironic or sinister; black%5:00:00:colored:00 -> a face made dark, especially by blood",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%5:00:00:dirty:01",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "soiled with dirt or soot",
+      "sourceBranches": [
+        "soiled with dirt or soot"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "made dirty with dirt or with the fine dark powder that burning leaves behind.",
+      "scope": "This is about being made dirty, not about the colour itself or about cruel humour.",
+      "examples": [
+        "His hands were black with coal dust after the shift.",
+        "The kettle was black with soot from the open fire."
+      ],
+      "branchCoverage": [
+        "soiled with dirt or soot -> made dirty with dirt or with the fine dark powder that burning leaves behind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "black%5:00:00:dishonorable:00 -> shameful conduct or character that costs respect; black%5:00:00:evil:00 -> wicked forces or a cruel nature behind something; black%5:00:00:unfortunate:00 -> events leading to terrible results and ruin; black%1:06:00:: -> dark clothes worn as a sign of mourning; black%5:00:00:dirty:01 -> covered with dirt or soot; black%5:00:00:sarcastic:00 -> harshly ironic or sinister; black%5:00:00:colored:00 -> a face made dark, especially by blood",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "black%5:00:00:sarcastic:00",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "harshly ironic or sinister",
+      "sourceBranches": [
+        "harshly ironic or sinister"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "bitterly mocking, saying the opposite of what is meant, or suggesting something cruel and harmful.",
+      "scope": "It describes words or jokes full of cruel mockery, not the colour or a dirty surface.",
+      "examples": [
+        "The novel is a black comedy about death and disaster.",
+        "His black humour made even the war seem absurd."
+      ],
+      "branchCoverage": [
+        "harshly ironic or sinister -> bitterly mocking, saying the opposite of what is meant, or suggesting something cruel and harmful"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "black%5:00:00:dishonorable:00 -> shameful conduct or character that costs respect; black%5:00:00:evil:00 -> wicked forces or a cruel nature behind something; black%5:00:00:unfortunate:00 -> events leading to terrible results and ruin; black%1:06:00:: -> dark clothes worn as a sign of mourning; black%5:00:00:dirty:01 -> covered with dirt or soot; black%5:00:00:sarcastic:00 -> harshly ironic or sinister; black%5:00:00:colored:00 -> a face made dark, especially by blood",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Black look' is the angry sense (OEWN lists 'black looks' there), not ironic/sinister; use a black-humour example and drop 'looks' from scope."
+    },
+    {
+      "senseId": "black%5:00:00:colored:00",
+      "lemma": "black",
+      "pos": "a",
+      "definition": "(of the face) made black especially as with suffused blood",
+      "sourceBranches": [
+        "(of the face) made black especially as with suffused blood"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "(of a face) turned dark, especially because blood has rushed into it.",
+      "scope": "This is about a face flushed dark with blood, not clothing, dirt or cruel humour.",
+      "examples": [
+        "His face went black with rage.",
+        "She held her breath until her face went black."
+      ],
+      "branchCoverage": [
+        "(of the face) made black especially as with suffused blood -> (of a face) turned dark, especially because blood has rushed into it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "black%5:00:00:dishonorable:00 -> shameful conduct or character that costs respect; black%5:00:00:evil:00 -> wicked forces or a cruel nature behind something; black%5:00:00:unfortunate:00 -> events leading to terrible results and ruin; black%1:06:00:: -> dark clothes worn as a sign of mourning; black%5:00:00:dirty:01 -> covered with dirt or soot; black%5:00:00:sarcastic:00 -> harshly ironic or sinister; black%5:00:00:colored:00 -> a face made dark, especially by blood",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "law%1:09:02::",
+      "lemma": "law",
+      "pos": "n",
+      "definition": "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do",
+      "sourceBranches": [
+        "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the area of philosophy that studies the rules a society enforces and the principles behind the decisions that courts make.",
+      "scope": "This is the philosophical study of rules and court decisions, not a rule made by a government and not a pattern found in nature.",
+      "examples": [
+        "She studied the philosophy of law before becoming a judge.",
+        "The course covers law, ethics and the principles behind court rulings."
+      ],
+      "branchCoverage": [
+        "the branch of philosophy concerned with the law and the principles that lead courts to make the decisions they do -> the area of philosophy that studies the rules a society enforces and the principles behind the decisions that courts make"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "law%1:09:02:: -> the philosophy of law and court principles; law%1:09:01:: -> a generalization about recurring natural events",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "law%1:09:01::",
+      "lemma": "law",
+      "pos": "n",
+      "definition": "a generalization that describes recurring facts or events in nature",
+      "sourceBranches": [
+        "a generalization that describes recurring facts or events in nature"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a general statement that describes facts or events that keep happening in the natural world.",
+      "scope": "This is a pattern observed in the natural world, not a rule made by a government and not the study of court decisions.",
+      "examples": [
+        "Newton's law of gravity explains why apples fall.",
+        "Scientists framed a law to describe how a gas expands when heated."
+      ],
+      "branchCoverage": [
+        "a generalization that describes recurring facts or events in nature -> a general statement that describes facts or events that keep happening in the natural world"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "law%1:09:02:: -> the philosophy of law and court principles; law%1:09:01:: -> a generalization about recurring natural events",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "whole%5:00:00:healthy:00",
+      "lemma": "whole",
+      "pos": "a",
+      "definition": "exhibiting or restored to vigorous good health",
+      "sourceBranches": [
+        "exhibiting or restored to vigorous good health"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "showing strong good health, or having been brought back to it.",
+      "scope": "This describes a person or body in strong health, not something complete or undivided.",
+      "examples": [
+        "After months of illness, she finally felt whole again.",
+        "Rest and good food made him whole once more."
+      ],
+      "branchCoverage": [
+        "exhibiting or restored to vigorous good health -> showing strong good health, or having been brought back to it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "whole%5:00:00:healthy:00 -> in vigorous good health; whole%5:00:00:undiversified:00 -> acting as one undivided unit",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "whole%5:00:00:undiversified:00",
+      "lemma": "whole",
+      "pos": "a",
+      "definition": "acting together as a single undiversified whole",
+      "sourceBranches": [
+        "acting together as a single undiversified whole"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "acting together as one single unit that is not divided into separate parts.",
+      "scope": "This is about a group or thing acting as one undivided unit, not about good health or about how much of something there is.",
+      "examples": [
+        "The team moved as a whole, every player in step.",
+        "The company acted as a whole rather than as separate departments."
+      ],
+      "branchCoverage": [
+        "acting together as a single undiversified whole -> acting together as one single unit that is not divided into separate parts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "whole%5:00:00:healthy:00 -> in vigorous good health; whole%5:00:00:undiversified:00 -> acting as one undivided unit",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "car%1:06:04::",
+      "lemma": "car",
+      "pos": "n",
+      "definition": "a conveyance for passengers or freight on a cable railway",
+      "sourceBranches": [
+        "a conveyance for passengers or freight on a cable railway"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a vehicle that takes people or goods along a railway pulled by a long steel rope.",
+      "scope": "This is a vehicle on a cable-hauled railway, not a road vehicle and not a railway carriage pulled by an engine.",
+      "examples": [
+        "A small car carried us up the mountain on its steel rope.",
+        "Workers loaded the car with coal at the top of the line."
+      ],
+      "branchCoverage": [
+        "a conveyance for passengers or freight on a cable railway -> a vehicle that takes people or goods along a railway pulled by a long steel rope"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "face%1:06:01::",
+      "lemma": "face",
+      "pos": "n",
+      "definition": "the side upon which the use of a thing depends (usually the most prominent surface of an object)",
+      "sourceBranches": [
+        "the side upon which the use of a thing depends (usually the most prominent surface of an object)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the side of a thing that you actually use, usually its most important and most visible surface.",
+      "scope": "This is the working surface of an object, not a person's body part and not a twisted expression.",
+      "examples": [
+        "Clean the face of the watch with a soft cloth.",
+        "The face of the hammer was worn smooth."
+      ],
+      "branchCoverage": [
+        "the side upon which the use of a thing depends (usually the most prominent surface of an object) -> the side of a thing that you actually use, usually its most important and most visible surface"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "face%1:06:01:: -> the working surface of an object; face%1:10:01:: -> a contorted expression",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "face%1:10:01::",
+      "lemma": "face",
+      "pos": "n",
+      "definition": "a contorted facial expression",
+      "sourceBranches": [
+        "a contorted facial expression"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a twisted expression of the muscles around the eyes, nose and mouth, pulled out of their usual shape.",
+      "scope": "This is a twisted expression, not the front of a person's head and not the working surface of an object.",
+      "examples": [
+        "He made a face when he tasted the medicine.",
+        "She pulled a face at the camera."
+      ],
+      "branchCoverage": [
+        "a contorted facial expression -> a twisted expression of the muscles around the eyes, nose and mouth, pulled out of their usual shape"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "face%1:06:01:: -> the working surface of an object; face%1:10:01:: -> a contorted expression",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "working%5:00:00:functioning:00",
+      "lemma": "working",
+      "pos": "a",
+      "definition": "(of e.g. a machine) performing or capable of performing",
+      "sourceBranches": [
+        "(of e.g. a machine) performing or capable of performing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "(of a machine or similar thing) doing what it is meant to do, or able to do it.",
+      "scope": "This describes a machine that runs correctly, not something that makes further activity possible.",
+      "examples": [
+        "The old radio is still working after fifty years.",
+        "We need a working phone before we set off."
+      ],
+      "branchCoverage": [
+        "(of e.g. a machine) performing or capable of performing -> (of a machine or similar thing) doing what it is meant to do, or able to do it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "working%5:00:00:functioning:00 -> a machine that runs; working%5:00:02:operative:00 -> enabling further activity",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "working%5:00:02:operative:00",
+      "lemma": "working",
+      "pos": "a",
+      "definition": "serving to permit or facilitate further work or activity",
+      "sourceBranches": [
+        "serving to permit or facilitate further work or activity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "allowing or making easier further effort or activity.",
+      "scope": "This describes conditions or arrangements that let activity go on, not a machine that runs.",
+      "examples": [
+        "The team used a working hypothesis to guide the next stage of research.",
+        "The shop needed working capital to buy stock for the next season."
+      ],
+      "branchCoverage": [
+        "serving to permit or facilitate further work or activity -> allowing or making easier further effort or activity"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "working%5:00:00:functioning:00 -> a machine that runs; working%5:00:02:operative:00 -> enabling further activity",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "course%1:06:00::",
+      "lemma": "course",
+      "pos": "n",
+      "definition": "facility consisting of a circumscribed area of land or water laid out for a sport",
+      "sourceBranches": [
+        "facility consisting of a circumscribed area of land or water laid out for a sport"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A marked area of land or water, with a fixed boundary, that is prepared for a sport.",
+      "scope": "This is a prepared sports ground, not a set of lessons, the direction something moves in, or one part of a meal.",
+      "examples": [
+        "The race course was flooded after the storm.",
+        "They walked the course before the tournament began."
+      ],
+      "branchCoverage": [
+        "facility consisting of a circumscribed area of land or water laid out for a sport -> A marked area of land or water, with a fixed boundary, that is prepared for a sport"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "book%1:06:02::",
+      "lemma": "book",
+      "pos": "n",
+      "definition": "a number of sheets (ticket or stamps etc.) bound together on one edge",
+      "sourceBranches": [
+        "a number of sheets (ticket or stamps etc.) bound together on one edge"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A set of sheets, such as tickets or stamps, joined together along one edge.",
+      "scope": "This is a joined set of tickets, stamps or similar sheets, not a written work you read or the script of a play.",
+      "examples": [
+        "She tore a stamp from the book.",
+        "The raffle book still had half its tickets."
+      ],
+      "branchCoverage": [
+        "a number of sheets (ticket or stamps etc.) bound together on one edge -> A set of sheets, such as tickets or stamps, joined together along one edge"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "book%1:06:02:: -> a set of sheets such as tickets or stamps joined on one edge; book%1:10:01:: -> the written text of a play used to prepare a performance",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "book%1:10:01::",
+      "lemma": "book",
+      "pos": "n",
+      "definition": "a written version of a play or other dramatic composition; used in preparing for a performance",
+      "sourceBranches": [
+        "a written version of a play or other dramatic composition",
+        "used in preparing for a performance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The written text of a play or other work for the stage, used in getting a performance ready.",
+      "scope": "This is the script of a play or show, not a printed work for reading or a joined set of tickets.",
+      "examples": [
+        "The director went back to the book during rehearsals.",
+        "The musical's book was rewritten before it opened."
+      ],
+      "branchCoverage": [
+        "a written version of a play or other dramatic composition -> The written text of a play or other work for the stage",
+        "used in preparing for a performance -> used in getting a performance ready"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "book%1:06:02:: -> a set of sheets such as tickets or stamps joined on one edge; book%1:10:01:: -> the written text of a play used to prepare a performance",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "post%1:06:00::",
+      "lemma": "post",
+      "pos": "n",
+      "definition": "an upright consisting of a piece of timber or metal fixed firmly in an upright position",
+      "sourceBranches": [
+        "an upright consisting of a piece of timber or metal fixed firmly in an upright position"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A piece of wood or metal fixed firmly so that it stands straight up.",
+      "scope": "This is a solid upright of wood or metal, not a job, the mail service, or a marker at a race.",
+      "examples": [
+        "He nailed the sign to a post by the gate.",
+        "The fence posts had rotted in the wet ground."
+      ],
+      "branchCoverage": [
+        "an upright consisting of a piece of timber or metal fixed firmly in an upright position -> A piece of wood or metal fixed firmly so that it stands straight up"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "post%1:06:00:: -> a wooden or metal upright fixed in the ground; post%1:10:00:: -> the system that carries messages through post offices; post%1:10:02:: -> a pole set up to mark a point such as a race finish; post%2:32:01:: -> name someone publicly as shameful",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "post%1:10:00::",
+      "lemma": "post",
+      "pos": "n",
+      "definition": "the system whereby messages are transmitted via the post office",
+      "sourceBranches": [
+        "the system whereby messages are transmitted via the post office"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The system that carries messages through the offices that handle mail.",
+      "scope": "This is the mail service as a whole, not a wooden upright, a job, or a marker on a track.",
+      "examples": [
+        "The letter arrived by post two days later.",
+        "The country's post is slow in rural areas."
+      ],
+      "branchCoverage": [
+        "the system whereby messages are transmitted via the post office -> The system that carries messages through the offices that handle mail"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "post%1:06:00:: -> a wooden or metal upright fixed in the ground; post%1:10:00:: -> the system that carries messages through post offices; post%1:10:02:: -> a pole set up to mark a point such as a race finish; post%2:32:01:: -> name someone publicly as shameful",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "post%1:10:02::",
+      "lemma": "post",
+      "pos": "n",
+      "definition": "a pole or stake set up to mark something (as the start or end of a race track)",
+      "sourceBranches": [
+        "a pole or stake set up to mark something (as the start or end of a race track)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A pole or stake set up to show a point, such as the start or end of a race.",
+      "scope": "This is a marker set up to show a point, not a structural upright, a job, or the mail service.",
+      "examples": [
+        "The horses thundered past the winning post.",
+        "A post marks the halfway point of the trail."
+      ],
+      "branchCoverage": [
+        "a pole or stake set up to mark something (as the start or end of a race track) -> A pole or stake set up to show a point, such as the start or end of a race"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "post%1:06:00:: -> a wooden or metal upright fixed in the ground; post%1:10:00:: -> the system that carries messages through post offices; post%1:10:02:: -> a pole set up to mark a point such as a race finish; post%2:32:01:: -> name someone publicly as shameful",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "post%2:32:01::",
+      "lemma": "post",
+      "pos": "v",
+      "definition": "mark or expose as infamous",
+      "sourceBranches": [
+        "mark or expose as infamous"
+      ],
+      "decision": "defer",
+      "simpleMeaning": "",
+      "scope": "",
+      "examples": [],
+      "branchCoverage": [
+        "mark or expose as infamous -> deferred; no learner wording written"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "post%1:06:00:: -> a wooden or metal upright fixed in the ground; post%1:10:00:: -> the system that carries messages through post offices; post%1:10:02:: -> a pole set up to mark a point such as a race finish; post%2:32:01:: -> name someone publicly as shameful",
+      "deferReason": "This verb sense (publicly naming someone as shameful or infamous) survives mainly in historical and official notices. In modern English any natural sentence with 'posted' before a person or a name is read as the common online-publishing sense, so two idiomatic sentences that clearly show this sense cannot be written.",
+      "reason": "This verb sense (publicly naming someone as shameful or infamous) survives mainly in historical and official notices. In modern English any natural sentence with 'posted' before a person or a name is read as the common online-publishing sense, so two idiomatic sentences that clearly show this sense cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "video%1:10:01::",
+      "lemma": "video",
+      "pos": "n",
+      "definition": "broadcasting visual images of stationary or moving objects",
+      "sourceBranches": [
+        "broadcasting visual images of stationary or moving objects"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The sending out of pictures of still or moving things, for people to watch.",
+      "scope": "This is the broadcast of pictures as a medium, not one recording you keep, a tape, or a short film clip.",
+      "examples": [
+        "The school uses live video to teach students in other towns.",
+        "Video of the launch was sent by satellite to viewers around the world."
+      ],
+      "branchCoverage": [
+        "broadcasting visual images of stationary or moving objects -> The sending out of pictures of still or moving things, for people to watch"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "social%5:00:00:friendly:01",
+      "lemma": "social",
+      "pos": "a",
+      "definition": "marked by friendly companionship with others",
+      "sourceBranches": [
+        "marked by friendly companionship with others"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Full of friendly company, with people enjoying being together.",
+      "scope": "This describes an occasion or atmosphere of friendly company, not anything about society or public welfare, and not a club's membership.",
+      "examples": [
+        "They had a social evening with their neighbours.",
+        "The team dinner was a social occasion, with no talk of work."
+      ],
+      "branchCoverage": [
+        "marked by friendly companionship with others -> Full of friendly company, with people enjoying being together"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "social%5:00:00:friendly:01 -> a friendly occasion or atmosphere of company; social%5:00:00:sociable:00 -> a group or club of people who enjoy company",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "social%5:00:00:sociable:00",
+      "lemma": "social",
+      "pos": "a",
+      "definition": "composed of sociable people or formed for the purpose of sociability",
+      "sourceBranches": [
+        "composed of sociable people or formed for the purpose of sociability"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Made up of people who enjoy each other's company, or set up so that members can spend time together.",
+      "scope": "This describes a group or organization, not a friendly mood or a single pleasant occasion.",
+      "examples": [
+        "She belongs to a social club that meets on Thursdays.",
+        "The firm's social committee arranges outings and parties."
+      ],
+      "branchCoverage": [
+        "composed of sociable people or formed for the purpose of sociability -> Made up of people who enjoy each other's company, or set up so that members can spend time together"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "social%5:00:00:friendly:01 -> a friendly occasion or atmosphere of company; social%5:00:00:sociable:00 -> a group or club of people who enjoy company",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "talk%1:10:01::",
+      "lemma": "talk",
+      "pos": "n",
+      "definition": "idle gossip or rumor",
+      "sourceBranches": [
+        "idle gossip or rumor"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "What people are saying about others or about events, with no firm facts behind it.",
+      "scope": "This is unverified gossip, not a speech, a formal discussion, or a private conversation.",
+      "examples": [
+        "There is talk that the school may close.",
+        "Her sudden departure started talk around the office."
+      ],
+      "branchCoverage": [
+        "idle gossip or rumor -> What people are saying about others or about events, with no firm facts behind it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "talk%1:10:01:: -> unverified gossip going around; talk%2:32:06:: -> reveal a secret",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "talk%2:32:06::",
+      "lemma": "talk",
+      "pos": "v",
+      "definition": "divulge confidential information or secrets",
+      "sourceBranches": [
+        "divulge confidential information or secrets"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To give away something that was supposed to stay secret.",
+      "scope": "This means revealing a secret, not chatting or making ordinary conversation.",
+      "examples": [
+        "The guard finally talked after two days of questioning.",
+        "Someone talked, and the raid was called off."
+      ],
+      "branchCoverage": [
+        "divulge confidential information or secrets -> To give away something that was supposed to stay secret"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "talk%1:10:01:: -> unverified gossip going around; talk%2:32:06:: -> reveal a secret",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "court%1:06:00::",
+      "lemma": "court",
+      "pos": "n",
+      "definition": "an area wholly or partly surrounded by walls or buildings",
+      "sourceBranches": [
+        "an area wholly or partly surrounded by walls or buildings"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an area that has walls or buildings wholly or partly around it",
+      "scope": "This is an area enclosed by walls or buildings, not a marked playing surface, a roadside hotel, or the home of a king or noble.",
+      "examples": [
+        "The children were playing in the courtyard behind the apartment building.",
+        "A small court at the back of the house was full of flowers."
+      ],
+      "branchCoverage": [
+        "an area wholly or partly surrounded by walls or buildings -> an area that has walls or buildings wholly or partly around it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "court%1:06:00:: -> an area enclosed by walls or buildings; court%1:06:01:: -> a marked area for playing a game; court%1:06:03:: -> a hotel for motorists with rooms opening onto parking; court%1:06:04:: -> the home of a sovereign or noble",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "court%1:06:01::",
+      "lemma": "court",
+      "pos": "n",
+      "definition": "a specially marked horizontal area within which a game is played",
+      "sourceBranches": [
+        "a specially marked horizontal area within which a game is played"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a flat area marked out on the ground where a game is played",
+      "scope": "This is a marked surface for playing a game, not an enclosed yard, a roadside hotel, or the home of a king or noble.",
+      "examples": [
+        "The players walked onto the court for the second set.",
+        "They painted fresh white lines on the basketball court."
+      ],
+      "branchCoverage": [
+        "a specially marked horizontal area within which a game is played -> a flat area marked out on the ground where a game is played"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "court%1:06:00:: -> an area enclosed by walls or buildings; court%1:06:01:: -> a marked area for playing a game; court%1:06:03:: -> a hotel for motorists with rooms opening onto parking; court%1:06:04:: -> the home of a sovereign or noble",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "court%1:06:03::",
+      "lemma": "court",
+      "pos": "n",
+      "definition": "a hotel for motorists; provides direct access from rooms to parking area",
+      "sourceBranches": [
+        "a hotel for motorists",
+        "provides direct access from rooms to parking area"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a hotel for people traveling by car, where the rooms open directly onto the parking area",
+      "scope": "This is a place to stay overnight with parking beside the rooms, not an enclosed yard, a playing surface, or a royal home.",
+      "examples": [
+        "We spent the night at a motor court beside the highway, with the car parked right outside our room.",
+        "A neon sign for the old motor court still glows above the empty parking lot."
+      ],
+      "branchCoverage": [
+        "a hotel for motorists -> a hotel for people traveling by car",
+        "provides direct access from rooms to parking area -> the rooms open directly onto the parking area"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "court%1:06:00:: -> an area enclosed by walls or buildings; court%1:06:01:: -> a marked area for playing a game; court%1:06:03:: -> a hotel for motorists with rooms opening onto parking; court%1:06:04:: -> the home of a sovereign or noble",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "court%1:06:04::",
+      "lemma": "court",
+      "pos": "n",
+      "definition": "the residence of a sovereign or nobleman",
+      "sourceBranches": [
+        "the residence of a sovereign or nobleman"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the home of a king, queen, or other noble person",
+      "scope": "This is a royal or noble home, not an enclosed yard, a playing surface, or a roadside hotel.",
+      "examples": [
+        "The duke's court was a grand building with gardens that ran down to the river.",
+        "Visitors came from distant lands to see the court where the queen lived."
+      ],
+      "branchCoverage": [
+        "the residence of a sovereign or nobleman -> the home of a king, queen, or other noble person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "court%1:06:00:: -> an area enclosed by walls or buildings; court%1:06:01:: -> a marked area for playing a game; court%1:06:03:: -> a hotel for motorists with rooms opening onto parking; court%1:06:04:: -> the home of a sovereign or noble",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hand%1:05:01::",
+      "lemma": "hand",
+      "pos": "n",
+      "definition": "terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos)",
+      "sourceBranches": [
+        "terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the end part of a front leg or arm in some animals with a backbone, such as apes or kangaroos",
+      "scope": "This is the end of an animal's front limb, not a clock pointer, a unit for measuring horses, or a round of applause.",
+      "examples": [
+        "The chimpanzee picked up the nut with its hand and cracked it against a stone.",
+        "A kangaroo's hand looks tiny next to its powerful hind legs."
+      ],
+      "branchCoverage": [
+        "terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos) -> the end part of a front leg or arm in some animals with a backbone, such as apes or kangaroos"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hand%1:05:01:: -> the end of a front limb in some animals; hand%1:23:00:: -> a unit of 4 inches for measuring horses; hand%1:06:00:: -> a moving pointer on a clock; hand%1:10:01:: -> a round of applause",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hand%1:23:00::",
+      "lemma": "hand",
+      "pos": "n",
+      "definition": "a unit of length equal to 4 inches; used in measuring horses",
+      "sourceBranches": [
+        "a unit of length equal to 4 inches",
+        "used in measuring horses"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a unit of length equal to four inches, used for measuring horses",
+      "scope": "This is a measurement of length, not a body part, a clock pointer, or a round of applause.",
+      "examples": [
+        "The pony is only eleven hands high, so it is a good size for children.",
+        "The vet noted that the mare had grown two hands since last year."
+      ],
+      "branchCoverage": [
+        "a unit of length equal to 4 inches -> a unit of length equal to four inches",
+        "used in measuring horses -> used for measuring horses"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hand%1:05:01:: -> the end of a front limb in some animals; hand%1:23:00:: -> a unit of 4 inches for measuring horses; hand%1:06:00:: -> a moving pointer on a clock; hand%1:10:01:: -> a round of applause",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hand%1:06:00::",
+      "lemma": "hand",
+      "pos": "n",
+      "definition": "a rotating pointer on the face of a timepiece",
+      "sourceBranches": [
+        "a rotating pointer on the face of a timepiece"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one of the moving pointers on the front of a clock or watch",
+      "scope": "This is a moving pointer on a clock, not a body part, a unit of length, or a round of applause.",
+      "examples": [
+        "The minute hand crept slowly toward twelve as the exam drew to a close.",
+        "The clock on the wall had lost a hand, so it showed the wrong time."
+      ],
+      "branchCoverage": [
+        "a rotating pointer on the face of a timepiece -> one of the moving pointers on the front of a clock or watch"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hand%1:05:01:: -> the end of a front limb in some animals; hand%1:23:00:: -> a unit of 4 inches for measuring horses; hand%1:06:00:: -> a moving pointer on a clock; hand%1:10:01:: -> a round of applause",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hand%1:10:01::",
+      "lemma": "hand",
+      "pos": "n",
+      "definition": "a round of applause to signify approval",
+      "sourceBranches": [
+        "a round of applause to signify approval"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a period of clapping to show approval",
+      "scope": "This is clapping that shows approval, not a body part, a clock pointer, or a unit of length.",
+      "examples": [
+        "The audience gave the singer a big hand.",
+        "She got a warm hand from the crowd when she stepped up to speak."
+      ],
+      "branchCoverage": [
+        "a round of applause to signify approval -> a period of clapping to show approval"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hand%1:05:01:: -> the end of a front limb in some animals; hand%1:23:00:: -> a unit of 4 inches for measuring horses; hand%1:06:00:: -> a moving pointer on a clock; hand%1:10:01:: -> a round of applause",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "level%1:06:00::",
+      "lemma": "level",
+      "pos": "n",
+      "definition": "indicator that establishes the horizontal when a bubble is centered in a tube of liquid",
+      "sourceBranches": [
+        "indicator that establishes the horizontal when a bubble is centered in a tube of liquid"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a tool used to show whether a surface is horizontal, with a bubble that sits centered in a tube of liquid",
+      "scope": "This is a tool for checking flat surfaces, not a floor of a building, a non-physical layer, or a word for flat.",
+      "examples": [
+        "The builder used a level to check that the shelf was flat.",
+        "Hold the level against the wall and adjust the frame until the bubble sits in the middle."
+      ],
+      "branchCoverage": [
+        "indicator that establishes the horizontal when a bubble is centered in a tube of liquid -> a tool used to show whether a surface is horizontal, with a bubble that sits centered in a tube of liquid"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "level%1:06:00:: -> a bubble tool that finds the horizontal; level%1:06:01:: -> one floor of a building; level%1:09:00:: -> a non-physical position thought of as having depth; level%5:00:02:even:01 -> flat, at right angles to vertical",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "level%1:06:01::",
+      "lemma": "level",
+      "pos": "n",
+      "definition": "a structure consisting of a room or set of rooms at a single position along a vertical scale",
+      "sourceBranches": [
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one floor of a building, made up of a room or set of rooms standing at the same height as each other",
+      "scope": "This is a floor of a building, not a tool for checking flat surfaces, a non-physical layer, or a word for flat.",
+      "examples": [
+        "The restaurant is on the top level of the shopping center.",
+        "Parking is available on the lower level of the building."
+      ],
+      "branchCoverage": [
+        "a structure consisting of a room or set of rooms at a single position along a vertical scale -> one floor of a building, made up of a room or set of rooms standing at the same height as each other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "level%1:06:00:: -> a bubble tool that finds the horizontal; level%1:06:01:: -> one floor of a building; level%1:09:00:: -> a non-physical position thought of as having depth; level%5:00:02:even:01 -> flat, at right angles to vertical",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "level%1:09:00::",
+      "lemma": "level",
+      "pos": "n",
+      "definition": "an abstract place usually conceived as having depth",
+      "sourceBranches": [
+        "an abstract place usually conceived as having depth"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a place in something that cannot be touched, usually imagined as having depth, such as a deeper layer of meaning",
+      "scope": "This is a non-physical position or layer, not a floor of a building, a tool for checking flat surfaces, or a word for flat.",
+      "examples": [
+        "The novel works on several levels, so different readers find different meanings in it.",
+        "There was a deeper level to his question that I only understood later."
+      ],
+      "branchCoverage": [
+        "an abstract place usually conceived as having depth -> a place in something that cannot be touched, usually imagined as having depth, such as a deeper layer of meaning"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "level%1:06:00:: -> a bubble tool that finds the horizontal; level%1:06:01:: -> one floor of a building; level%1:09:00:: -> a non-physical position thought of as having depth; level%5:00:02:even:01 -> flat, at right angles to vertical",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "level%5:00:02:even:01",
+      "lemma": "level",
+      "pos": "a",
+      "definition": "oriented at right angles to the plumb",
+      "sourceBranches": [
+        "oriented at right angles to the plumb"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "flat and even, sitting at right angles to a line that hangs straight down",
+      "scope": "This describes a flat surface, not a tool, a floor of a building, or a non-physical layer.",
+      "examples": [
+        "Make sure the table is level before you set the glasses on it.",
+        "The ground here is not level, so the tent leans to one side."
+      ],
+      "branchCoverage": [
+        "oriented at right angles to the plumb -> flat and even, sitting at right angles to a line that hangs straight down"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "level%1:06:00:: -> a bubble tool that finds the horizontal; level%1:06:01:: -> one floor of a building; level%1:09:00:: -> a non-physical position thought of as having depth; level%5:00:02:even:01 -> flat, at right angles to vertical",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,1190 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 69,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 46,
+      "of": 50,
+      "rate": 0.92
+    },
+    "selfApproved": [
+      "evidence%2:32:01::",
+      "safe%1:06:01::",
+      "statement%1:10:04::",
+      "coach%2:38:00::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "54f41b9a51ec9fb4a1a3fe3e2c15300bdb0bab1e6d0302d5cad184e672bec03f"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "average%1:24:00::",
+      "lemma": "average",
+      "pos": "n",
+      "definition": "(sports) the ratio of successful performances to opportunities",
+      "sourceBranches": [
+        "(sports) the ratio of successful performances to opportunities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in sports, the share of attempts that succeed, expressed as a ratio or percentage",
+      "scope": "This is a sports success rate, not the mathematical mean of a set of numbers or the usual level on a scale.",
+      "examples": [
+        "His batting average fell to .240 this season.",
+        "The team's shooting average improved once the new coach arrived."
+      ],
+      "branchCoverage": [
+        "(sports) the ratio of successful performances to opportunities -> in sports, the share of attempts that succeed, expressed as a ratio or percentage"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "average%1:24:00:: -> a sports success rate as a ratio; average%5:00:02:normal:01 -> close to the typical or expected amount; average%2:31:00:: -> calculate the mean of a set",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "average%5:00:02:normal:01",
+      "lemma": "average",
+      "pos": "a",
+      "definition": "approximating the statistical norm or average or expected value",
+      "sourceBranches": [
+        "approximating the statistical norm or average or expected value"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "close to what is typical or expected for a set of measurements",
+      "scope": "This describes a value near the norm, not something ordinary or undistinguished, not a middle rating on a scale, and not a distribution's most frequent or median value.",
+      "examples": [
+        "The average price of a home rose slightly last month.",
+        "Average rainfall in April is about 40 millimeters."
+      ],
+      "branchCoverage": [
+        "approximating the statistical norm or average or expected value -> close to what is typical or expected for a set of measurements"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "average%1:24:00:: -> a sports success rate as a ratio; average%5:00:02:normal:01 -> close to the typical or expected amount; average%2:31:00:: -> calculate the mean of a set",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "average%2:31:00::",
+      "lemma": "average",
+      "pos": "v",
+      "definition": "compute the average of",
+      "sourceBranches": [
+        "compute the average of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "work out the mean value of a set of numbers or amounts",
+      "scope": "This means calculating a mean, not amounting to a figure without gain or loss, or reaching something on average.",
+      "examples": [
+        "The program averages the scores from all five judges.",
+        "She averaged the monthly totals to estimate the yearly figure."
+      ],
+      "branchCoverage": [
+        "compute the average of -> work out the mean value of a set of numbers or amounts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "average%1:24:00:: -> a sports success rate as a ratio; average%5:00:02:normal:01 -> close to the typical or expected amount; average%2:31:00:: -> calculate the mean of a set",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "received%3:00:04::",
+      "lemma": "received",
+      "pos": "a",
+      "definition": "conforming to the established language usage of educated native speakers",
+      "sourceBranches": [
+        "conforming to the established language usage of educated native speakers"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "matching the forms accepted as correct by well-educated people who speak the language from birth",
+      "scope": "This describes language forms accepted by educated speakers, not ideas or claims that are widely accepted as true or worthy.",
+      "examples": [
+        "The grammar book marks that construction as received usage.",
+        "That pronunciation is still received among educated speakers here."
+      ],
+      "branchCoverage": [
+        "conforming to the established language usage of educated native speakers -> matching the forms accepted as correct by well-educated people who speak the language from birth"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "evidence%1:10:00::",
+      "lemma": "evidence",
+      "pos": "n",
+      "definition": "(law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved",
+      "sourceBranches": [
+        "(law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in a court case, everything used to prove or disprove a disputed fact under examination",
+      "scope": "This is the material used in a court trial, not the general basis for a person's belief or a sign that makes something obvious.",
+      "examples": [
+        "The prosecution presented new evidence at the trial.",
+        "The jury weighed the evidence before reaching a verdict."
+      ],
+      "branchCoverage": [
+        "(law) all the means by which any alleged matter of fact whose truth is investigated at judicial trial is established or disproved -> in a court case, everything used to prove or disprove a disputed fact under examination"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "evidence%1:10:00:: -> material used to prove facts in court; evidence%2:32:01:: -> show or support something with proof",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "evidence%2:32:01::",
+      "lemma": "evidence",
+      "pos": "v",
+      "definition": "provide evidence for",
+      "sourceBranches": [
+        "provide evidence for"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to serve as proof of something; to supply evidence for it",
+      "scope": "This is serving as proof of something, not giving testimony in court, and not the noun for the facts that prove a claim.",
+      "examples": [
+        "The photographs evidence the damage caused by the storm.",
+        "Her diary evidences the strain she was under."
+      ],
+      "branchCoverage": [
+        "provide evidence for -> to serve as proof of something; to supply evidence for it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "evidence%1:10:00:: -> material used to prove facts in court; evidence%2:32:01:: -> show or support something with proof",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "The scope wrongly excludes proof shown through outward behaviour: this synset's own example ('Her behavior testified to her incompetence') and its hyponym evidence%2:32:00:: both cover that. Present this as the general 'serve as proof of' sense, contrasting it with giving testimony (evidence%2:32:02::), and soften 'give proof' to 'supply evidence for'."
+    },
+    {
+      "senseId": "round%5:00:00:inexact:00",
+      "lemma": "round",
+      "pos": "a",
+      "definition": "(mathematics) expressed to the nearest integer, ten, hundred, or thousand",
+      "sourceBranches": [
+        "(mathematics) expressed to the nearest integer, ten, hundred, or thousand"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "stated as the nearest whole number or nearest multiple of ten, a hundred, or a thousand",
+      "scope": "This describes a figure stated to the nearest unit, not something shaped like a circle and not a full, rich sound.",
+      "examples": [
+        "Give me a round figure for the total cost.",
+        "The population was reported in round numbers, around 50,000."
+      ],
+      "branchCoverage": [
+        "(mathematics) expressed to the nearest integer, ten, hundred, or thousand -> stated as the nearest whole number or nearest multiple of ten, a hundred, or a thousand"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "save%1:04:00::",
+      "lemma": "save",
+      "pos": "n",
+      "definition": "(sports) the act of preventing the opposition from scoring",
+      "sourceBranches": [
+        "(sports) the act of preventing the opposition from scoring"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in sports, an action that stops the other team from scoring",
+      "scope": "This is a sports stop that keeps the other side from scoring, not rescuing someone from danger, keeping money for later, or storing a computer file.",
+      "examples": [
+        "The goalkeeper made a brilliant save in the final minute.",
+        "The relief pitcher earned a save by protecting the lead."
+      ],
+      "branchCoverage": [
+        "(sports) the act of preventing the opposition from scoring -> in sports, an action that stops the other team from scoring"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "model%2:39:01::",
+      "lemma": "model",
+      "pos": "v",
+      "definition": "assume a posture as for artistic purposes",
+      "sourceBranches": [
+        "assume a posture as for artistic purposes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "hold a position so that an artist can paint, draw, or photograph you",
+      "scope": "This is holding a pose for an artist, not shaping clay or wax, wearing clothes to show them, or planning something from an existing pattern.",
+      "examples": [
+        "She modelled for a portrait class every Tuesday.",
+        "He agreed to model for the magazine's cover photo."
+      ],
+      "branchCoverage": [
+        "assume a posture as for artistic purposes -> hold a position so that an artist can paint, draw, or photograph you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "model%2:39:01:: -> hold a pose for an artist; model%2:36:00:: -> shape material such as clay or wax",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "model%2:36:00::",
+      "lemma": "model",
+      "pos": "v",
+      "definition": "form in clay, wax, etc",
+      "sourceBranches": [
+        "form in clay, wax, etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "shape something from clay, wax, or similar material",
+      "scope": "This is shaping material such as clay or wax, not posing for an artist, wearing clothes to display them, or planning something from an existing pattern.",
+      "examples": [
+        "The children modelled animals from clay.",
+        "She modelled a small figure in wax."
+      ],
+      "branchCoverage": [
+        "form in clay, wax, etc -> shape something from clay, wax, or similar material"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "model%2:39:01:: -> hold a pose for an artist; model%2:36:00:: -> shape material such as clay or wax",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "picture%2:36:00::",
+      "lemma": "picture",
+      "pos": "v",
+      "definition": "show in, or as in, a picture",
+      "sourceBranches": [
+        "show in, or as in, a picture"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "depict something in an image or in a way that resembles an image",
+      "scope": "This is showing something in an image, not forming an image of it in your mind.",
+      "examples": [
+        "The mural pictures a busy harbor at sunrise.",
+        "The novel pictures a society on the edge of collapse."
+      ],
+      "branchCoverage": [
+        "show in, or as in, a picture -> depict something in an image or in a way that resembles an image"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trade%2:40:01::",
+      "lemma": "trade",
+      "pos": "v",
+      "definition": "engage in the trade of",
+      "sourceBranches": [
+        "engage in the trade of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "buy and sell a particular kind of thing commercially",
+      "scope": "This is buying and selling a kind of thing commercially, not handing in an old item as part payment, swapping one thing for another, or merely offering goods for sale as a livelihood.",
+      "examples": [
+        "The company trades electrical goods across Europe.",
+        "They have traded coffee and spices for generations."
+      ],
+      "branchCoverage": [
+        "engage in the trade of -> buy and sell a particular kind of thing commercially"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "trade%2:40:01:: -> buy and sell a thing commercially; trade%2:42:00:: -> change hands at a stated price",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trade%2:42:00::",
+      "lemma": "trade",
+      "pos": "v",
+      "definition": "be traded at a certain price or under certain conditions",
+      "sourceBranches": [
+        "be traded at a certain price or under certain conditions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "change hands at a stated price or in stated circumstances",
+      "scope": "This describes the price or conditions at which something is bought and sold, not the act of buying and selling goods as a business or swapping one item for another.",
+      "examples": [
+        "The shares traded at $45 by midday.",
+        "The bonds traded at a premium after the announcement."
+      ],
+      "branchCoverage": [
+        "be traded at a certain price or under certain conditions -> change hands at a stated price or in stated circumstances"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "trade%2:40:01:: -> buy and sell a thing commercially; trade%2:42:00:: -> change hands at a stated price",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cup%2:29:00::",
+      "lemma": "cup",
+      "pos": "v",
+      "definition": "treat by applying evacuated cups to the patient's skin",
+      "sourceBranches": [
+        "treat by applying evacuated cups to the patient's skin"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to treat a patient by placing containers with the air removed against the skin",
+      "scope": "This is the therapy that applies airless containers to the skin, not forming a hand or other thing into a hollow shape, not putting a liquid into a drinking vessel, and not the vessel, trophy, or golf-hole senses.",
+      "examples": [
+        "The therapist cupped the patient's back.",
+        "Cupping left round marks on his back for a few days."
+      ],
+      "branchCoverage": [
+        "treat by applying evacuated cups to the patient's skin -> to treat a patient by placing containers with the air removed against the skin"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "style%1:10:00::",
+      "lemma": "style",
+      "pos": "n",
+      "definition": "a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period",
+      "sourceBranches": [
+        "a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the typical way a particular person, group, or period puts things across in language, art, music, or similar fields",
+      "scope": "This is the expressive manner of a person, group, or period, not the general way something is done, not a popular fashion, not elegance of manner, and not the botanical part of a flower.",
+      "examples": [
+        "Her writing style is easy to recognize after a few pages.",
+        "The novel is written in the style of the 1920s."
+      ],
+      "branchCoverage": [
+        "a way of expressing something (in language or art or music etc.) that is characteristic of a particular person or group of people or period -> the typical way a particular person, group, or period puts things across in language, art, music, or similar fields"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "style%1:10:00:: -> the expressive manner of a person or period; style%2:36:00:: -> giving something a fashionable form",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "style%2:36:00::",
+      "lemma": "style",
+      "pos": "v",
+      "definition": "make consistent with a certain fashion or style",
+      "sourceBranches": [
+        "make consistent with a certain fashion or style"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to give something a form that follows a particular fashion or trend",
+      "scope": "This is making a thing conform to a trend, not calling someone or something by a name, and not correcting a text to follow spelling and punctuation rules.",
+      "examples": [
+        "She styled her hair for the party.",
+        "The designer styled the set to look like a 1970s lounge."
+      ],
+      "branchCoverage": [
+        "make consistent with a certain fashion or style -> to give something a form that follows a particular fashion or trend"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "style%1:10:00:: -> the expressive manner of a person or period; style%2:36:00:: -> giving something a fashionable form",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "vote%1:07:00::",
+      "lemma": "vote",
+      "pos": "n",
+      "definition": "a legal right guaranteed by the 15th amendment to the US Constitution; guaranteed to women by the 19th amendment",
+      "sourceBranches": [
+        "a legal right guaranteed by the 15th amendment to the US Constitution",
+        "guaranteed to women by the 19th amendment"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the lawful right to cast a ballot in elections, ensured by the 15th Amendment to the US Constitution and ensured for women by the 19th",
+      "scope": "This is the right itself, not the act of choosing by counting ballots, not the group decision that results, not a bloc of voters with shared interests, and not the number of people who turned out.",
+      "examples": [
+        "Women won the vote in 1920.",
+        "The 15th Amendment gave Black men the vote after the Civil War."
+      ],
+      "branchCoverage": [
+        "a legal right guaranteed by the 15th amendment to the US Constitution -> the lawful right to cast a ballot in elections, ensured by the 15th Amendment to the US Constitution",
+        "guaranteed to women by the 19th amendment -> ensured for women by the 19th"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blood%1:08:00::",
+      "lemma": "blood",
+      "pos": "n",
+      "definition": "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets",
+      "sourceBranches": [
+        "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the red liquid in animals with a backbone that the heart pumps around the body and that contains plasma, cells, and platelets",
+      "scope": "This is the bodily fluid, not family descent, not temperament, not a fashionable rake, not new members brought into a group, and not the verb for smearing someone with it.",
+      "examples": [
+        "Blood carries oxygen to every part of the body.",
+        "The nurse took a sample of blood from his arm."
+      ],
+      "branchCoverage": [
+        "the fluid (red in vertebrates) that is pumped through the body by the heart and contains plasma, blood cells, and platelets -> the red liquid in animals with a backbone that the heart pumps around the body and that contains plasma, cells, and platelets"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "language%1:10:01::",
+      "lemma": "language",
+      "pos": "n",
+      "definition": "(language) communication by word of mouth",
+      "sourceBranches": [
+        "(language) communication by word of mouth"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "communication that takes place through spoken words",
+      "scope": "This is spoken communication, not a whole system of words and grammar, not the words of a song, not the mental ability to use words, and not the special terms of a subject.",
+      "examples": [
+        "The coach was fined for the language he used toward the referee.",
+        "She recorded the everyday language of market traders for her study."
+      ],
+      "branchCoverage": [
+        "(language) communication by word of mouth -> communication that takes place through spoken words"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stage%2:36:00::",
+      "lemma": "stage",
+      "pos": "v",
+      "definition": "perform (a play), especially on a stage",
+      "sourceBranches": [
+        "perform (a play), especially on a stage"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to put on a play before an audience, usually in a theatre",
+      "scope": "This is putting a play before an audience, not planning and carrying out an event such as a protest or ceremony.",
+      "examples": [
+        "The school staged a musical in the old town hall.",
+        "They staged the play with a cast of only four actors."
+      ],
+      "branchCoverage": [
+        "perform (a play), especially on a stage -> to put on a play before an audience, usually in a theatre"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "decision%1:11:02::",
+      "lemma": "decision",
+      "pos": "n",
+      "definition": "(boxing) a victory won on points when no knockout has occurred",
+      "sourceBranches": [
+        "(boxing) a victory won on points when no knockout has occurred"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in boxing, a win awarded on points because neither fighter was knocked out",
+      "scope": "This is the boxing result, not the act of making up your mind, not an opinion reached after thinking, not the outcome of a game in general, and not firmness of character.",
+      "examples": [
+        "He won the fight by decision after twelve rounds.",
+        "The judges awarded her a unanimous decision."
+      ],
+      "branchCoverage": [
+        "(boxing) a victory won on points when no knockout has occurred -> in boxing, a win awarded on points because neither fighter was knocked out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "code%1:10:02::",
+      "lemma": "code",
+      "pos": "n",
+      "definition": "(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions",
+      "sourceBranches": [
+        "(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in computing, the way symbols are arranged as data or commands in a program, or a whole set of such commands",
+      "scope": "This is the symbolic content of a computer program, not a set of laws, not a system for sending secret messages, and not an identifying string of letters and numbers.",
+      "examples": [
+        "The app crashed because of a single line of code.",
+        "She spent the weekend writing code for her game."
+      ],
+      "branchCoverage": [
+        "(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions -> in computing, the way symbols are arranged as data or commands in a program, or a whole set of such commands"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "council%1:14:02::",
+      "lemma": "council",
+      "pos": "n",
+      "definition": "(Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine",
+      "sourceBranches": [
+        "(Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in Christianity, a gathering of theologians, bishops, and other delegates from different churches or church districts, called to settle matters of church order or belief",
+      "scope": "This is the church gathering that settles doctrine, not an administrative body such as a student or city one, and not a general meeting called to consult.",
+      "examples": [
+        "The council met in the fourth century to settle the wording of the creed.",
+        "Bishops from across the region attended the council."
+      ],
+      "branchCoverage": [
+        "(Christianity) an assembly of theologians and bishops and other representatives of different churches or dioceses that is convened to regulate matters of discipline or doctrine -> in Christianity, a gathering of theologians, bishops, and other delegates from different churches or church districts, called to settle matters of church order or belief"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "union%1:04:02::",
+      "lemma": "union",
+      "pos": "n",
+      "definition": "the act of pairing a male and female for reproductive purposes",
+      "sourceBranches": [
+        "the act of pairing a male and female for reproductive purposes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of bringing a male and female together to produce offspring",
+      "scope": "This is the mating of a male and female, not a labor organization, not a marriage, not a political state, not a mathematical set, and not the joining of parts into one.",
+      "examples": [
+        "The film shows the union of a male and female during the breeding season.",
+        "Their union produced a single healthy calf."
+      ],
+      "branchCoverage": [
+        "the act of pairing a male and female for reproductive purposes -> the act of bringing a male and female together to produce offspring"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "walk%1:04:01::",
+      "lemma": "walk",
+      "pos": "n",
+      "definition": "(baseball) an advance to first base by a batter who receives four balls",
+      "sourceBranches": [
+        "(baseball) an advance to first base by a batter who receives four balls"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, a batter's move to first base after four balls",
+      "scope": "This is the baseball award of first base, not the activity of going somewhere on foot, not the way someone steps, not a path, not the horse's pace, and not a field of work.",
+      "examples": [
+        "The pitcher gave up a walk with the bases loaded.",
+        "He drew a walk in the ninth inning."
+      ],
+      "branchCoverage": [
+        "(baseball) an advance to first base by a batter who receives four balls -> in baseball, a batter's move to first base after four balls"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "safe%1:06:01::",
+      "lemma": "safe",
+      "pos": "n",
+      "definition": "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse",
+      "sourceBranches": [
+        "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a birth-control cover made of thin rubber or latex that is worn on the penis during sex",
+      "scope": "This is the contraceptive sheath, not a strongbox for valuables and not a ventilated cupboard for keeping food fresh.",
+      "examples": [
+        "He bought a safe at the pharmacy before his holiday.",
+        "The clinic gives out free safes to students."
+      ],
+      "branchCoverage": [
+        "contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse -> a birth-control cover made of thin rubber or latex that is worn on the penis during sex"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 ('He always kept a safe in his wallet') is not idiomatic for this dated slang sense and reads at first as the strongbox sense the scope excludes. Replace it with a clear health-context sentence so both examples unambiguously show the condom sense."
+    },
+    {
+      "senseId": "access%2:40:00::",
+      "lemma": "access",
+      "pos": "v",
+      "definition": "obtain or retrieve from a storage device; as of information on a computer",
+      "sourceBranches": [
+        "obtain or retrieve from a storage device",
+        "as of information on a computer"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to get or pull up information held in a computer's storage",
+      "scope": "Getting stored computer data, not reaching or getting into a place.",
+      "examples": [
+        "The app accesses saved passwords on your phone.",
+        "He accessed the old files on the backup drive."
+      ],
+      "branchCoverage": [
+        "obtain or retrieve from a storage device -> to get or pull up information held in a computer's storage",
+        "as of information on a computer -> information held in a computer's storage"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pass%1:04:04::",
+      "lemma": "pass",
+      "pos": "n",
+      "definition": "(baseball) an advance to first base by a batter who receives four balls",
+      "sourceBranches": [
+        "(baseball) an advance to first base by a batter who receives four balls"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, a batter's move to first base that follows four balls",
+      "scope": "A baseball move to first base after four balls, not a thrown ball in American football, a permit to travel, or a low route through mountains.",
+      "examples": [
+        "The batter was awarded a pass after four balls.",
+        "A pass sent him to first base in the fifth inning."
+      ],
+      "branchCoverage": [
+        "(baseball) an advance to first base by a batter who receives four balls -> in baseball, a batter's move to first base that follows four balls"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pass%1:04:04:: -> baseball free move to first base; pass%1:04:02:: -> American football throw to a teammate",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pass%1:04:02::",
+      "lemma": "pass",
+      "pos": "n",
+      "definition": "(American football) a play that involves one player throwing the ball to a teammate",
+      "sourceBranches": [
+        "(American football) a play that involves one player throwing the ball to a teammate"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in American football, a move in which one player sends the ball through the air to a teammate",
+      "scope": "An American football play in which the ball is thrown to a teammate, not a baseball move to first base, a permit to travel, or a mountain route.",
+      "examples": [
+        "The quarterback threw a long pass to the tight end.",
+        "A short pass moved the team to the thirty-yard line."
+      ],
+      "branchCoverage": [
+        "(American football) a play that involves one player throwing the ball to a teammate -> in American football, a move in which one player sends the ball through the air to a teammate"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pass%1:04:04:: -> baseball free move to first base; pass%1:04:02:: -> American football throw to a teammate",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wall%1:08:00::",
+      "lemma": "wall",
+      "pos": "n",
+      "definition": "(anatomy) a layer (a lining or membrane) that encloses a structure",
+      "sourceBranches": [
+        "(anatomy) a layer (a lining or membrane) that encloses a structure"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in the body, a sheet or lining that surrounds a structure",
+      "scope": "A membrane inside the body, not a building's side or partition, a defensive barrier, or a man-made enclosure.",
+      "examples": [
+        "The surgeon cut through the wall of the artery.",
+        "Bacteria can damage the wall of the intestine."
+      ],
+      "branchCoverage": [
+        "(anatomy) a layer (a lining or membrane) that encloses a structure -> in the body, a sheet or lining that surrounds a structure"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "growth%1:22:00::",
+      "lemma": "growth",
+      "pos": "n",
+      "definition": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level",
+      "sourceBranches": [
+        "(biology) the process of an individual organism growing organically",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in biology, the process by which a living thing develops step by step from a simple form into a more complex one",
+      "scope": "The development of a single living thing, not an increase in size or number, a tumour, or the plants in an area.",
+      "examples": [
+        "The growth of a seedling depends on light and water.",
+        "The rapid growth of a tadpole into a frog takes several weeks."
+      ],
+      "branchCoverage": [
+        "(biology) the process of an individual organism growing organically -> in biology, the process by which a living thing develops",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level -> step by step from a simple form into a more complex one"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "charge%1:10:00::",
+      "lemma": "charge",
+      "pos": "n",
+      "definition": "(criminal law) a pleading describing some wrong or offense",
+      "sourceBranches": [
+        "(criminal law) a pleading describing some wrong or offense"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in criminal law, a formal written statement accusing someone of a wrong or crime",
+      "scope": "A formal accusation in a criminal case, not the price asked for something, an electric charge, or an explosive.",
+      "examples": [
+        "He was arrested on a charge of theft.",
+        "The lawyer asked the court to drop the charge."
+      ],
+      "branchCoverage": [
+        "(criminal law) a pleading describing some wrong or offense -> in criminal law, a formal written statement accusing someone of a wrong or crime"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "network%1:06:01::",
+      "lemma": "network",
+      "pos": "n",
+      "definition": "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs",
+      "sourceBranches": [
+        "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a group of television or radio stations that air the same shows as one system",
+      "scope": "A group of stations airing the same shows, not a web of connected people or things, a woven fabric, or a set of electronic circuits.",
+      "examples": [
+        "The show airs on a major television network.",
+        "She works for a radio network based in London."
+      ],
+      "branchCoverage": [
+        "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs -> a group of television or radio stations that air the same shows as one system"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "normal%3:00:03::",
+      "lemma": "normal",
+      "pos": "a",
+      "definition": "being approximately average or within certain limits in e.g. intelligence and development",
+      "sourceBranches": [
+        "being approximately average or within certain limits in e.g. intelligence and development"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "close to average, or inside expected limits, for example in intelligence or development",
+      "scope": "Around average in intelligence or development, not conforming to a usual standard, not agreeing with scientific laws, and not forming a right angle.",
+      "examples": [
+        "The child's test scores were normal for her age.",
+        "Doctors found the boy's development to be normal."
+      ],
+      "branchCoverage": [
+        "being approximately average or within certain limits in e.g. intelligence and development -> close to average, or inside expected limits, for example in intelligence or development"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "population%1:09:00::",
+      "lemma": "population",
+      "pos": "n",
+      "definition": "(statistics) the entire aggregation of items from which samples can be drawn",
+      "sourceBranches": [
+        "(statistics) the entire aggregation of items from which samples can be drawn"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in statistics, the whole collection of items that a sample comes from",
+      "scope": "The full set of items a sample comes from, not the people living in a place, a group of animals of one species, or the number of inhabitants.",
+      "examples": [
+        "Researchers drew a sample from a population of 10,000 patients.",
+        "The study's population included every school in the district."
+      ],
+      "branchCoverage": [
+        "(statistics) the entire aggregation of items from which samples can be drawn -> in statistics, the whole collection of items that a sample comes from"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "station%1:15:01::",
+      "lemma": "station",
+      "pos": "n",
+      "definition": "(nautical) the location to which a ship or fleet is assigned for duty",
+      "sourceBranches": [
+        "(nautical) the location to which a ship or fleet is assigned for duty"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the place where a ship or group of ships is sent to serve",
+      "scope": "A ship's assigned post, not a building for a particular purpose, a guard's post, or a broadcast frequency.",
+      "examples": [
+        "The fleet returned to its station in the Mediterranean.",
+        "The captain was ordered to take the ship to a new station."
+      ],
+      "branchCoverage": [
+        "(nautical) the location to which a ship or fleet is assigned for duty -> the place where a ship or group of ships is sent to serve"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "campaign%1:04:00::",
+      "lemma": "campaign",
+      "pos": "n",
+      "definition": "several related operations aimed at achieving a particular goal (usually within geographical and temporal constraints)",
+      "sourceBranches": [
+        "several related operations aimed at achieving a particular goal (usually within geographical and temporal constraints)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a set of related actions, usually limited to a certain area and period, done to reach a particular aim",
+      "scope": "A planned set of operations over an area and time, not an election race, a push for a cause, or a hunting trip.",
+      "examples": [
+        "The army's campaign in the mountains lasted through the winter.",
+        "The bombing campaign failed to break the enemy's defences."
+      ],
+      "branchCoverage": [
+        "several related operations aimed at achieving a particular goal (usually within geographical and temporal constraints) -> a set of related actions, usually limited to a certain area and period, done to reach a particular aim"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "female%3:00:00::",
+      "lemma": "female",
+      "pos": "a",
+      "definition": "being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop",
+      "sourceBranches": [
+        "being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in plants and animals, of the sex that makes eggs which can be fertilized and grow into young",
+      "scope": "The biological sex that produces eggs, not the sense meaning typical of women or the sense meaning consisting of women and girls.",
+      "examples": [
+        "The female flowers are small and green.",
+        "A female frog lays hundreds of eggs at once."
+      ],
+      "branchCoverage": [
+        "being the sex (of plant or animal) that produces fertilizable gametes (ova) from which offspring develop -> in plants and animals, of the sex that makes eggs which can be fertilized and grow into young"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kept%3:00:00::",
+      "lemma": "kept",
+      "pos": "a",
+      "definition": "(especially of promises or contracts) not violated or disregarded",
+      "sourceBranches": [
+        "(especially of promises or contracts) not violated or disregarded"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "used especially about a promise or contract that is honored and not broken or ignored",
+      "scope": "A promise or contract that is honored, not the past form of the verb meaning to hold or retain something.",
+      "examples": [
+        "Promises kept are better than promises made.",
+        "A kept promise can mean more than a grand apology."
+      ],
+      "branchCoverage": [
+        "(especially of promises or contracts) not violated or disregarded -> used especially about a promise or contract that is honored and not broken or ignored"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "particular%1:10:00::",
+      "lemma": "particular",
+      "pos": "n",
+      "definition": "(logic) a proposition that asserts something about some (but not all) members of a class",
+      "sourceBranches": [
+        "(logic) a proposition that asserts something about some (but not all) members of a class"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in logic, a claim that something is true of some members of a group but not all of them",
+      "scope": "A logical claim about some but not all members of a class, not a fact about one part of a subject, nor a small part of a whole.",
+      "examples": [
+        "The logician treated 'some cats are black' as a particular.",
+        "A particular makes a claim about some members of a class, not all of them."
+      ],
+      "branchCoverage": [
+        "(logic) a proposition that asserts something about some (but not all) members of a class -> in logic, a claim that something is true of some members of a group but not all of them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "section%1:10:00::",
+      "lemma": "section",
+      "pos": "n",
+      "definition": "a self-contained part of a larger composition (written or musical)",
+      "sourceBranches": [
+        "a self-contained part of a larger composition (written or musical)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a complete unit that forms part of a longer written work or piece of music",
+      "scope": "A self-contained portion of a written or musical work, not a thin slice for a microscope, a region of a country, a piece that fits into a whole object, a division of an organization, or a surgical cut.",
+      "examples": [
+        "The business section of the newspaper comes after the front page.",
+        "The opening section of the symphony is slow and quiet."
+      ],
+      "branchCoverage": [
+        "a self-contained part of a larger composition (written or musical) -> a complete unit that forms part of a longer written work or piece of music"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "conditions%1:19:00::",
+      "lemma": "conditions",
+      "pos": "n",
+      "definition": "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+      "sourceBranches": [
+        "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "how hot, windy, cloudy, and rainy or snowy the air around us is",
+      "scope": "The state of the atmosphere, not the circumstances that affect someone's welfare or the setting that influences how a process turns out.",
+      "examples": [
+        "The conditions were too icy for the flight to leave.",
+        "Weather conditions improved by the afternoon."
+      ],
+      "branchCoverage": [
+        "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation -> how hot, windy, cloudy, and rainy or snowy the air around us is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "significant%3:00:01::",
+      "lemma": "significant",
+      "pos": "a",
+      "definition": "too closely correlated to be attributed to chance and therefore indicating a systematic relation",
+      "sourceBranches": [
+        "too closely correlated to be attributed to chance and therefore indicating a systematic relation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "so strongly linked that chance is unlikely to explain it, which points to a consistent relationship",
+      "scope": "A statistical result unlikely to be due to chance, not something important or meaningful, nor something large in amount or worth.",
+      "examples": [
+        "The difference between the two groups was statistically significant.",
+        "The effect remained significant after the researchers adjusted for age."
+      ],
+      "branchCoverage": [
+        "too closely correlated to be attributed to chance and therefore indicating a systematic relation -> so strongly linked that chance is unlikely to explain it, which points to a consistent relationship"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "computer%1:06:00::",
+      "lemma": "computer",
+      "pos": "n",
+      "definition": "a machine for performing calculations automatically",
+      "sourceBranches": [
+        "a machine for performing calculations automatically"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a machine that works out numerical answers by itself",
+      "scope": "A machine that performs calculations, not a person who is an expert at calculation.",
+      "examples": [
+        "She saves all her photos on the computer.",
+        "The computer solved the equation in less than a second."
+      ],
+      "branchCoverage": [
+        "a machine for performing calculations automatically -> a machine that works out numerical answers by itself"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "favorite%2:35:01::",
+      "lemma": "favorite",
+      "pos": "v",
+      "definition": "To mark an item as a personal favorite on social media",
+      "sourceBranches": [
+        "To mark an item as a personal favorite on social media"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "on social media, to mark a post or other item as one you especially like",
+      "scope": "To mark an item you like on social media, not the adjective for a preferred or beloved thing, nor the noun for a person or thing liked best.",
+      "examples": [
+        "She favorited the post so she could find it later.",
+        "He favorited a few recipes from the cooking site."
+      ],
+      "branchCoverage": [
+        "To mark an item as a personal favorite on social media -> on social media, to mark a post or other item as one you especially like"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "statement%1:10:04::",
+      "lemma": "statement",
+      "pos": "n",
+      "definition": "(music) the presentation of a musical theme",
+      "sourceBranches": [
+        "(music) the presentation of a musical theme"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in music, the way a theme is first played or introduced",
+      "scope": "This is a theme being introduced in music, not something said or written, a claim offered as evidence, a nonverbal message, a line of computer code, or a financial record.",
+      "examples": [
+        "The symphony opens with a quiet statement of the main theme.",
+        "The statement of the theme returns in the final movement."
+      ],
+      "branchCoverage": [
+        "(music) the presentation of a musical theme -> in music, the way a theme is first played or introduced"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "The gloss only swaps 'presentation' for 'presenting' ('in music, the presenting of a theme'), so it is near-verbatim and awkward. Rewrite it as, e.g., 'in music, the way a theme is first played or introduced', and update the scope wording to match."
+    },
+    {
+      "senseId": "coach%1:18:00::",
+      "lemma": "coach",
+      "pos": "n",
+      "definition": "a person who gives private instruction (as in singing, acting, etc.)",
+      "sourceBranches": [
+        "a person who gives private instruction (as in singing, acting, etc.)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "someone who gives lessons to one person at a time, as in singing or acting",
+      "scope": "A private teacher in fields such as singing or acting, not someone who trains a sports team, a railway carriage, a horse-drawn carriage, or a bus.",
+      "examples": [
+        "Her singing coach helped her prepare for the audition.",
+        "He hired an acting coach to work on his monologue."
+      ],
+      "branchCoverage": [
+        "a person who gives private instruction (as in singing, acting, etc.) -> someone who gives lessons to one person at a time, as in singing or acting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "coach%1:18:00:: -> private teacher in singing or acting; coach%2:38:00:: -> drive a horse-drawn carriage",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "coach%2:38:00::",
+      "lemma": "coach",
+      "pos": "v",
+      "definition": "drive or operate a coach or carriage",
+      "sourceBranches": [
+        "drive or operate a coach or carriage"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to drive or handle a carriage",
+      "scope": "To drive a carriage, not to train an athlete or a team, nor the noun for a private teacher or a bus.",
+      "examples": [
+        "He coached the mail between London and Bath in the 1830s.",
+        "She coached the night mail for years before the railway came."
+      ],
+      "branchCoverage": [
+        "drive or operate a coach or carriage -> to drive or handle a carriage"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "coach%1:18:00:: -> private teacher in singing or acting; coach%2:38:00:: -> drive a horse-drawn carriage",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Both examples use 'coached' with 'carriage' as its object ('coached a carriage', 'coached the carriage along the road'), which reads as training the carriage and is not idiomatic. Replace them with a historical agentive sentence such as 'In the 1800s, he coached the night mail between London and Bath.'"
+    },
+    {
+      "senseId": "author%2:36:00::",
+      "lemma": "author",
+      "pos": "v",
+      "definition": "be the author of",
+      "sourceBranches": [
+        "be the author of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to be the person who wrote a particular work",
+      "scope": "To create a written work as its writer, not the noun for a writer of a book or article, nor the noun for someone who originates something.",
+      "examples": [
+        "She authored three books on medieval history.",
+        "He authored the report that changed company policy."
+      ],
+      "branchCoverage": [
+        "be the author of -> to be the person who wrote a particular work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "annual%1:20:00::",
+      "lemma": "annual",
+      "pos": "n",
+      "definition": "(botany) a plant that completes its entire life cycle within the space of a year",
+      "sourceBranches": [
+        "(botany) a plant that completes its entire life cycle within the space of a year"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in botany, a plant that finishes its whole life within one year",
+      "scope": "A plant that lives out its whole life in one year, not a book published once a year, nor the adjective for something happening each year.",
+      "examples": [
+        "Marigolds are annuals that must be replanted every year.",
+        "The garden is full of annuals that die when the cold arrives."
+      ],
+      "branchCoverage": [
+        "(botany) a plant that completes its entire life cycle within the space of a year -> in botany, a plant that finishes its whole life within one year"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

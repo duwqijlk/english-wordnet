@@ -1,0 +1,1118 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 41,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 47,
+    "defers": 3,
+    "firstPass": {
+      "approved": 49,
+      "of": 50,
+      "rate": 0.98
+    },
+    "selfApproved": [
+      "industrial%5:00:00:blue-collar:00"
+    ],
+    "lineage": {
+      "draft": "dc1d24a76b05cc981b482977de0a77b049928e2fcfe381d9b6469ef165b42029"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "transfer%2:41:00::",
+      "lemma": "transfer",
+      "pos": "v",
+      "definition": "transfer somebody to a different position or location of work",
+      "decision": "gloss",
+      "simpleMeaning": "to move a worker to a different job, department, or place of work",
+      "scope": "This is not moving an object from one place to another, and not sending money to someone.",
+      "examples": [
+        "They transferred him to the night shift at the other plant.",
+        "After two years in accounting, she was moved to the marketing team."
+      ],
+      "branchCoverage": [
+        "transfer somebody to a different position or location of work -> to move a worker to a different job, department, or place of work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "transfer somebody to a different position or location of work"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "upper%1:06:01::",
+      "lemma": "upper",
+      "pos": "n",
+      "definition": "a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression",
+      "decision": "gloss",
+      "simpleMeaning": "a drug that speeds up the nervous system, gives more energy and less hunger, and is used to treat sudden sleep attacks and some kinds of depression",
+      "scope": "This is not the part of a shoe above the sole, not a higher rank, and not the top one of two things.",
+      "examples": [
+        "He took uppers to stay awake through the night shift.",
+        "Doctors once gave out uppers to help patients lose weight."
+      ],
+      "branchCoverage": [
+        "a central nervous system stimulant that increases energy and decreases appetite -> a drug that speeds up the nervous system, gives more energy and less hunger",
+        "used to treat narcolepsy and some forms of depression -> is used to treat sudden sleep attacks and some kinds of depression"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a central nervous system stimulant that increases energy and decreases appetite",
+        "used to treat narcolepsy and some forms of depression"
+      ],
+      "lemmaPartition": "upper%1:06:01:: -> a stimulant drug that raises energy and cuts appetite\nupper%1:06:00:: -> the leather or man-made part of a shoe or boot above the sole\nupper%5:00:00:superior:01 -> higher in rank or achievement\nupper%3:00:00:: -> the higher of exactly two matching items",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "upper%1:06:00::",
+      "lemma": "upper",
+      "pos": "n",
+      "definition": "piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot",
+      "decision": "gloss",
+      "simpleMeaning": "the part of a shoe or boot that sits above the sole and covers the foot, made of leather or a man-made material",
+      "scope": "This is a part of footwear, not a stimulant drug, not a higher rank, and not the top one of two things.",
+      "examples": [
+        "The uppers are soft leather, so the shoes need little breaking in.",
+        "Mud had dried on the uppers of his boots."
+      ],
+      "branchCoverage": [
+        "piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot -> the part of a shoe or boot that sits above the sole and covers the foot, made of leather or a man-made material"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "piece of leather or synthetic material that forms the part of a shoe or boot above the sole that encases the foot"
+      ],
+      "lemmaPartition": "upper%1:06:01:: -> a stimulant drug that raises energy and cuts appetite\nupper%1:06:00:: -> the leather or man-made part of a shoe or boot above the sole\nupper%5:00:00:superior:01 -> higher in rank or achievement\nupper%3:00:00:: -> the higher of exactly two matching items",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "upper%5:00:00:superior:01",
+      "lemma": "upper",
+      "pos": "a",
+      "definition": "superior in rank or accomplishment",
+      "decision": "gloss",
+      "simpleMeaning": "higher in rank or achievement than others",
+      "scope": "This describes rank or achievement, not physical height or position, and not the higher of two things.",
+      "examples": [
+        "Only the upper levels of the company were told about the takeover.",
+        "Her results put her in the upper group of students."
+      ],
+      "branchCoverage": [
+        "superior in rank or accomplishment -> higher in rank or achievement than others"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "superior in rank or accomplishment"
+      ],
+      "lemmaPartition": "upper%1:06:01:: -> a stimulant drug that raises energy and cuts appetite\nupper%1:06:00:: -> the leather or man-made part of a shoe or boot above the sole\nupper%5:00:00:superior:01 -> higher in rank or achievement\nupper%3:00:00:: -> the higher of exactly two matching items",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "upper%3:00:00::",
+      "lemma": "upper",
+      "pos": "a",
+      "definition": "the topmost one of two; upper",
+      "decision": "gloss",
+      "simpleMeaning": "being the higher of exactly two things of the same kind",
+      "scope": "This is the higher of just two matching things, not a rank or achievement, not a part of a shoe, and not simply anything that is high.",
+      "examples": [
+        "He bit his upper lip.",
+        "The upper bunk is mine."
+      ],
+      "branchCoverage": [
+        "the topmost one of two -> being the higher of exactly two things of the same kind",
+        "upper -> headword repeated; no separate meaning content (see labelBranches)"
+      ],
+      "labelBranches": [
+        "upper -> bare headword restated; it adds no meaning beyond the sense itself"
+      ],
+      "sourceBranches": [
+        "the topmost one of two",
+        "upper"
+      ],
+      "lemmaPartition": "upper%1:06:01:: -> a stimulant drug that raises energy and cuts appetite\nupper%1:06:00:: -> the leather or man-made part of a shoe or boot above the sole\nupper%5:00:00:superior:01 -> higher in rank or achievement\nupper%3:00:00:: -> the higher of exactly two matching items",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "useful%5:00:00:functional:00",
+      "lemma": "useful",
+      "pos": "a",
+      "definition": "having a useful function",
+      "decision": "gloss",
+      "simpleMeaning": "able to serve its intended practical purpose",
+      "scope": "This describes a thing that works and has a practical job; it is not about a person being helpful, and not about something that is only pleasant to look at.",
+      "examples": [
+        "The shed is old, but it is still useful as a workshop.",
+        "The design is plain but useful, with nothing added just for show."
+      ],
+      "branchCoverage": [
+        "having a useful function -> able to serve its intended practical purpose"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having a useful function"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "zone%1:15:02::",
+      "lemma": "zone",
+      "pos": "n",
+      "definition": "any of the regions of the surface of the Earth loosely divided according to latitude or longitude",
+      "decision": "gloss",
+      "simpleMeaning": "one of the broad bands of the earth's surface, divided roughly by latitude or longitude",
+      "scope": "This is a wide band of the globe, not a small local patch, and not a region marked off only by a feature it shares.",
+      "examples": [
+        "The country lies mostly in the temperate zone.",
+        "Sailors crossed into the tropical zone."
+      ],
+      "branchCoverage": [
+        "any of the regions of the surface of the Earth loosely divided according to latitude or longitude -> one of the broad bands of the earth's surface, divided roughly by latitude or longitude"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any of the regions of the surface of the Earth loosely divided according to latitude or longitude"
+      ],
+      "lemmaPartition": "zone%1:15:02:: -> a broad belt of the earth's surface defined by latitude or longitude\nzone%1:15:00:: -> a small bounded local patch with features of its own\nzone%1:15:01:: -> a region set apart from neighbouring areas by one shared feature",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "zone%1:15:00::",
+      "lemma": "zone",
+      "pos": "n",
+      "definition": "a locally circumscribed place characterized by some distinctive features",
+      "decision": "gloss",
+      "simpleMeaning": "a small area of ground that is set apart because of the features found there",
+      "scope": "This is a small bounded patch with its own character, not a wide band of the globe, and not a whole region defined only by how it differs from the areas around it.",
+      "examples": [
+        "A small zone of dead grass marks where the old path ran.",
+        "The wet zone around the pond is full of frogs."
+      ],
+      "branchCoverage": [
+        "a locally circumscribed place characterized by some distinctive features -> a small area of ground that is set apart because of the features found there"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a locally circumscribed place characterized by some distinctive features"
+      ],
+      "lemmaPartition": "zone%1:15:02:: -> a broad belt of the earth's surface defined by latitude or longitude\nzone%1:15:00:: -> a small bounded local patch with features of its own\nzone%1:15:01:: -> a region set apart from neighbouring areas by one shared feature",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "zone%1:15:01::",
+      "lemma": "zone",
+      "pos": "n",
+      "definition": "an area or region distinguished from adjacent parts by a distinctive feature or characteristic",
+      "decision": "gloss",
+      "simpleMeaning": "a region that is set apart from the areas beside it by one shared feature",
+      "scope": "This is a region defined by contrast with its neighbours, not a small bounded patch, and not a broad latitude band of the earth.",
+      "examples": [
+        "The coastal zone stays mild even in winter.",
+        "A wide zone of damaged trees showed where the storm had passed."
+      ],
+      "branchCoverage": [
+        "an area or region distinguished from adjacent parts by a distinctive feature or characteristic -> a region that is set apart from the areas beside it by one shared feature"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an area or region distinguished from adjacent parts by a distinctive feature or characteristic"
+      ],
+      "lemmaPartition": "zone%1:15:02:: -> a broad belt of the earth's surface defined by latitude or longitude\nzone%1:15:00:: -> a small bounded local patch with features of its own\nzone%1:15:01:: -> a region set apart from neighbouring areas by one shared feature",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "accident%1:11:01::",
+      "lemma": "accident",
+      "pos": "n",
+      "definition": "an unfortunate mishap; especially one causing damage or injury",
+      "decision": "gloss",
+      "simpleMeaning": "an unlucky event that goes wrong, often causing injury or damage",
+      "scope": "This is a harmful or unlucky event, not the idea of something happening by chance with no cause.",
+      "examples": [
+        "He broke his arm in a cycling accident.",
+        "The accident damaged two cars, but no one was hurt."
+      ],
+      "branchCoverage": [
+        "an unfortunate mishap -> an unlucky event that goes wrong",
+        "especially one causing damage or injury -> often causing injury or damage"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an unfortunate mishap",
+        "especially one causing damage or injury"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "alternative%5:00:00:disjunctive:00",
+      "lemma": "alternative",
+      "pos": "a",
+      "definition": "necessitating a choice between mutually exclusive possibilities",
+      "decision": "gloss",
+      "simpleMeaning": "forcing a choice between two or more possibilities that cannot all be taken",
+      "scope": "This means the options exclude one another, not that they are unusual or outside the mainstream.",
+      "examples": [
+        "Members were given alternative dates for the meeting, but could attend only one.",
+        "The council weighed alternative sites for the new school, since only one could be built."
+      ],
+      "branchCoverage": [
+        "necessitating a choice between mutually exclusive possibilities -> forcing a choice between two or more possibilities that cannot all be taken"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "necessitating a choice between mutually exclusive possibilities"
+      ],
+      "lemmaPartition": "alternative%5:00:00:disjunctive:00 -> forcing a choice between options that exclude each other\nalternative%5:00:00:unconventional:01 -> outside the mainstream in taste or lifestyle",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "alternative%5:00:00:unconventional:01",
+      "lemma": "alternative",
+      "pos": "a",
+      "definition": "pertaining to unconventional choices",
+      "decision": "gloss",
+      "simpleMeaning": "outside the mainstream in taste, lifestyle, or choice",
+      "scope": "This describes choices that depart from what most people accept, not a choice between options that exclude one another.",
+      "examples": [
+        "She listens to alternative rock and goes to small clubs.",
+        "The clinic offers alternative treatments such as acupuncture."
+      ],
+      "branchCoverage": [
+        "pertaining to unconventional choices -> outside the mainstream in taste, lifestyle, or choice"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pertaining to unconventional choices"
+      ],
+      "lemmaPartition": "alternative%5:00:00:disjunctive:00 -> forcing a choice between options that exclude each other\nalternative%5:00:00:unconventional:01 -> outside the mainstream in taste or lifestyle",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bear%1:05:00::",
+      "lemma": "bear",
+      "pos": "n",
+      "definition": "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws",
+      "decision": "gloss",
+      "simpleMeaning": "a very large heavy mammal that walks flat on the soles of its feet, eats meat or plants, and has thick shaggy fur and strong claws",
+      "scope": "This is the animal, not an investor who expects share prices to fall.",
+      "examples": [
+        "A brown bear was seen near the campsite.",
+        "Bears sleep through much of the winter."
+      ],
+      "branchCoverage": [
+        "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws -> a very large heavy mammal that walks flat on the soles of its feet, eats meat or plants, and has thick shaggy fur and strong claws"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws"
+      ],
+      "lemmaPartition": "bear%1:05:00:: -> the large shaggy mammal\nbear%1:18:00:: -> an investor who expects prices to fall",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bear%1:18:00::",
+      "lemma": "bear",
+      "pos": "n",
+      "definition": "an investor with a pessimistic market outlook; an investor who expects prices to fall and so sells now in order to buy later at a lower price",
+      "decision": "gloss",
+      "simpleMeaning": "an investor who believes prices will fall, so sells now and plans to buy again when they are lower",
+      "scope": "This is a pessimistic investor, not the large shaggy animal.",
+      "examples": [
+        "Bears ruled the stock market for most of the week.",
+        "He has been a bear on technology shares all year."
+      ],
+      "branchCoverage": [
+        "an investor with a pessimistic market outlook -> an investor who believes prices will fall",
+        "an investor who expects prices to fall and so sells now in order to buy later at a lower price -> sells now and plans to buy again when they are lower"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an investor with a pessimistic market outlook",
+        "an investor who expects prices to fall and so sells now in order to buy later at a lower price"
+      ],
+      "lemmaPartition": "bear%1:05:00:: -> the large shaggy mammal\nbear%1:18:00:: -> an investor who expects prices to fall",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "boat%1:06:01::",
+      "lemma": "boat",
+      "pos": "n",
+      "definition": "a dish (often boat-shaped) for serving gravy or sauce",
+      "decision": "gloss",
+      "simpleMeaning": "a shallow dish, often long and curved, used for serving gravy or sauce at the table",
+      "scope": "This is a serving dish, not a vessel that carries people across water.",
+      "examples": [
+        "She passed the gravy boat around the table.",
+        "The sauce boat matched the rest of the china."
+      ],
+      "branchCoverage": [
+        "a dish (often boat-shaped) for serving gravy or sauce -> a shallow dish, often long and curved, used for serving gravy or sauce at the table"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a dish (often boat-shaped) for serving gravy or sauce"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bringing%1:04:00::",
+      "lemma": "bringing",
+      "pos": "n",
+      "definition": "the act of delivering or distributing something (as goods or mail)",
+      "decision": "gloss",
+      "simpleMeaning": "the work of carrying goods or letters to the people or places they are meant for",
+      "scope": "This is the act of carrying goods or post to their destination, not the act of giving a gift, and not the act of raising a subject for talk.",
+      "examples": [
+        "The bringing of mail to remote villages can take days.",
+        "The bringing of supplies to the camp took two days by mule."
+      ],
+      "branchCoverage": [
+        "the act of delivering or distributing something (as goods or mail) -> the work of carrying goods or letters to the people or places they are meant for"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of delivering or distributing something (as goods or mail)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "discussion%1:10:02::",
+      "lemma": "discussion",
+      "pos": "n",
+      "definition": "an extended communication (often interactive) dealing with some particular topic",
+      "decision": "gloss",
+      "simpleMeaning": "a long exchange of views about a particular subject, often with more than one person taking part",
+      "scope": "This is a talk about a subject, not a formal written treatment of a topic.",
+      "examples": [
+        "The class had a long discussion about climate change.",
+        "After hours of discussion, they reached a deal."
+      ],
+      "branchCoverage": [
+        "an extended communication (often interactive) dealing with some particular topic -> a long exchange of views about a particular subject, often with more than one person taking part"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an extended communication (often interactive) dealing with some particular topic"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drinking%1:04:01::",
+      "lemma": "drinking",
+      "pos": "n",
+      "definition": "the act of drinking alcoholic beverages to excess",
+      "decision": "gloss",
+      "simpleMeaning": "the habit of taking in far too much alcohol",
+      "scope": "This means taking too much alcohol, not the ordinary act of taking in any liquid.",
+      "examples": [
+        "His drinking cost him his job and his family.",
+        "She went to the doctor about her drinking."
+      ],
+      "branchCoverage": [
+        "the act of drinking alcoholic beverages to excess -> the habit of taking in far too much alcohol"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of drinking alcoholic beverages to excess"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "duty%1:04:00::",
+      "lemma": "duty",
+      "pos": "n",
+      "definition": "the social force that binds you to the courses of action demanded by that force",
+      "decision": "gloss",
+      "simpleMeaning": "what a person is morally or socially required to do",
+      "scope": "This is a moral or social obligation, not a tax paid on imported goods.",
+      "examples": [
+        "It is your duty to report the accident.",
+        "She felt a duty to care for her elderly parents."
+      ],
+      "branchCoverage": [
+        "the social force that binds you to the courses of action demanded by that force -> what a person is morally or socially required to do"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the social force that binds you to the courses of action demanded by that force"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fantastic%5:00:00:unrealistic:00",
+      "lemma": "fantastic",
+      "pos": "a",
+      "definition": "fanciful and unrealistic; foolish",
+      "decision": "gloss",
+      "simpleMeaning": "imaginary and wildly impractical in a way that seems silly",
+      "scope": "This means unrealistic to the point of foolishness, not extremely good or wonderful.",
+      "examples": [
+        "He had fantastic hopes of becoming a millionaire overnight.",
+        "Her fantastic scheme for a floating city would never win funding."
+      ],
+      "branchCoverage": [
+        "fanciful and unrealistic -> imaginary and wildly impractical",
+        "foolish -> in a way that seems silly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fanciful and unrealistic",
+        "foolish"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "feelings%1:12:00::",
+      "lemma": "feelings",
+      "pos": "n",
+      "definition": "emotional or moral sensitivity (especially in relation to personal principles or dignity)",
+      "decision": "gloss",
+      "simpleMeaning": "a person's sensitivity about their own dignity or principles, which others can hurt",
+      "scope": "This is sensitivity about dignity or principles, not physical sensation, and not a passing mood.",
+      "examples": [
+        "Her feelings were hurt by the unfair criticism.",
+        "He appealed to their feelings of justice."
+      ],
+      "branchCoverage": [
+        "emotional or moral sensitivity (especially in relation to personal principles or dignity) -> a person's sensitivity about their own dignity or principles, which others can hurt"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "emotional or moral sensitivity (especially in relation to personal principles or dignity)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "industrial%3:01:00::",
+      "lemma": "industrial",
+      "pos": "a",
+      "definition": "of or relating to or resulting from industry",
+      "decision": "gloss",
+      "simpleMeaning": "connected with factories and large-scale manufacturing, or produced by them",
+      "scope": "This means related to factories and manufacturing, not a place that has many industries, and not a worker employed in one.",
+      "examples": [
+        "Industrial waste was dumped into the river.",
+        "The town has a long industrial history."
+      ],
+      "branchCoverage": [
+        "of or relating to or resulting from industry -> connected with factories and large-scale manufacturing, or produced by them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to or resulting from industry"
+      ],
+      "lemmaPartition": "industrial%3:01:00:: -> relating to factories and manufacturing\nindustrial%3:00:00:: -> (of a place) having many developed industries\nindustrial%5:00:00:blue-collar:00 -> (of a worker) employed in manufacturing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "industrial%3:00:00::",
+      "lemma": "industrial",
+      "pos": "a",
+      "definition": "having highly developed industries",
+      "decision": "gloss",
+      "simpleMeaning": "having a large and well-developed manufacturing base",
+      "scope": "This describes a place with many developed industries, not something merely related to factories, and not a worker employed in one.",
+      "examples": [
+        "Britain was the first industrial nation.",
+        "The country moved from farming to an industrial economy."
+      ],
+      "branchCoverage": [
+        "having highly developed industries -> having a large and well-developed manufacturing base"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having highly developed industries"
+      ],
+      "lemmaPartition": "industrial%3:01:00:: -> relating to factories and manufacturing\nindustrial%3:00:00:: -> (of a place) having many developed industries\nindustrial%5:00:00:blue-collar:00 -> (of a worker) employed in manufacturing",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "industrial%5:00:00:blue-collar:00",
+      "lemma": "industrial",
+      "pos": "a",
+      "definition": "employed in industry",
+      "decision": "gloss",
+      "simpleMeaning": "working in a factory or other manufacturing job",
+      "scope": "This describes a worker employed in manufacturing, not something related to factories in general, and not a place with many industries.",
+      "examples": [
+        "The union represents industrial workers across the region.",
+        "Industrial workers in the steel mills faced long shifts."
+      ],
+      "branchCoverage": [
+        "employed in industry -> working in a factory or other manufacturing job"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "employed in industry"
+      ],
+      "lemmaPartition": "industrial%3:01:00:: -> relating to factories and manufacturing\nindustrial%3:00:00:: -> (of a place) having many developed industries\nindustrial%5:00:00:blue-collar:00 -> (of a worker) employed in manufacturing",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 uses 'industrial jobs', the relating-to-industry sense, not a worker employed in industry."
+    },
+    {
+      "senseId": "joint%2:35:00::",
+      "lemma": "joint",
+      "pos": "v",
+      "definition": "fasten with a joint",
+      "decision": "gloss",
+      "simpleMeaning": "to fasten two pieces together at the point where they meet",
+      "scope": "This means fixing two pieces together at a connection, not cutting meat into pieces for cooking.",
+      "examples": [
+        "The carpenter jointed the boards along the edge.",
+        "The plumber jointed the pipes before testing for leaks."
+      ],
+      "branchCoverage": [
+        "fasten with a joint -> to fasten two pieces together at the point where they meet"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fasten with a joint"
+      ],
+      "lemmaPartition": "joint%2:35:00:: -> fasten two pieces together at a connection\njoint%2:42:00:: -> fit together smoothly as if joined by joints",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "joint%2:42:00::",
+      "lemma": "joint",
+      "pos": "v",
+      "definition": "fit as if by joints",
+      "decision": "gloss",
+      "simpleMeaning": "to fit together at the line where two parts meet, as if they were linked there",
+      "scope": "This is not about fastening pieces with a separate connector; it is about two parts meeting and fitting together at their edges.",
+      "examples": [
+        "The boards joint neatly along the edge.",
+        "The panels joint so tightly that the seam almost disappears."
+      ],
+      "branchCoverage": [
+        "fit as if by joints -> to fit together at the line where two parts meet, as if they were linked there"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fit as if by joints"
+      ],
+      "lemmaPartition": "joint%2:35:00:: -> to fasten two pieces together using a joint\njoint%2:42:00:: -> to fit together at the line where two parts meet, as if linked there",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mix%1:13:00::",
+      "lemma": "mix",
+      "pos": "n",
+      "definition": "a commercially prepared mixture of dry ingredients",
+      "decision": "gloss",
+      "simpleMeaning": "a blend of dry ingredients put together by a company and sold ready to use",
+      "scope": "This is not the act of combining things, and not a blend of fresh or liquid foods; it is a packaged dry blend sold for cooking.",
+      "examples": [
+        "She bought a cake mix and only had to add eggs and milk.",
+        "The soup mix makes a quick lunch on cold days."
+      ],
+      "branchCoverage": [
+        "a commercially prepared mixture of dry ingredients -> a blend of dry ingredients put together by a company and sold ready to use"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a commercially prepared mixture of dry ingredients"
+      ],
+      "lemmaPartition": "mix%1:13:00:: -> a packaged dry blend of ingredients sold for cooking\nmix%2:30:02:: -> to combine electronic signals into one signal",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mix%2:30:02::",
+      "lemma": "mix",
+      "pos": "v",
+      "definition": "combine (electronic signals)",
+      "decision": "gloss",
+      "simpleMeaning": "to combine two or more electronic signals into one signal",
+      "scope": "This is not about combining ingredients or joining a group of people; it is about blending electronic signals.",
+      "examples": [
+        "The engineer mixed the two audio channels into one track.",
+        "The console mixes all the microphone inputs into a single feed."
+      ],
+      "branchCoverage": [
+        "combine (electronic signals) -> to combine two or more electronic signals into one signal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "combine (electronic signals)"
+      ],
+      "lemmaPartition": "mix%1:13:00:: -> a packaged dry blend of ingredients sold for cooking\nmix%2:30:02:: -> to combine electronic signals into one signal",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "museum%1:06:00::",
+      "lemma": "museum",
+      "pos": "n",
+      "definition": "a depository for collecting and displaying objects having scientific or historical or artistic value",
+      "decision": "gloss",
+      "simpleMeaning": "a place where objects of scientific, historical or artistic value are collected, kept and shown to the public",
+      "scope": "This is not a shop that sells art, and not a library of books; it is a place that keeps and displays valuable objects.",
+      "examples": [
+        "The city museum has a new exhibit on ancient coins.",
+        "We spent the afternoon at the art museum."
+      ],
+      "branchCoverage": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value -> a place where objects of scientific, historical or artistic value are collected, kept and shown to the public"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a depository for collecting and displaying objects having scientific or historical or artistic value"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "promise%1:10:00::",
+      "lemma": "promise",
+      "pos": "n",
+      "definition": "a verbal commitment by one person to another agreeing to do (or not to do) something in the future",
+      "decision": "gloss",
+      "simpleMeaning": "a firm spoken statement to another person that you will do something, or will not do something, in the future",
+      "scope": "This is not a formal legal contract, and not a guess about what will happen; it is a commitment one person gives to another.",
+      "examples": [
+        "He made a promise to call her every day.",
+        "She kept her promise to help with the move."
+      ],
+      "branchCoverage": [
+        "a verbal commitment by one person to another agreeing to do (or not to do) something in the future -> a firm spoken statement to another person that you will do something, or will not do something, in the future"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a verbal commitment by one person to another agreeing to do (or not to do) something in the future"
+      ],
+      "lemmaPartition": "promise%1:10:00:: -> the spoken commitment itself, as a noun\npromise%2:32:00:: -> the general act of giving your word that you will do something\npromise%2:32:01:: -> a pledge to give something or take on a task for someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "promise%2:32:00::",
+      "lemma": "promise",
+      "pos": "v",
+      "definition": "make a promise or commitment",
+      "decision": "gloss",
+      "simpleMeaning": "to say firmly that you will do something or that something will happen",
+      "scope": "This is the general act of giving your word, not a pledge to give a particular thing to someone.",
+      "examples": [
+        "I promise I'll be home by six.",
+        "He promised that he would never tell anyone."
+      ],
+      "branchCoverage": [
+        "make a promise or commitment -> to say firmly that you will do something or that something will happen"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make a promise or commitment"
+      ],
+      "lemmaPartition": "promise%1:10:00:: -> the spoken commitment itself, as a noun\npromise%2:32:00:: -> the general act of giving your word that you will do something\npromise%2:32:01:: -> a pledge to give something or take on a task for someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "promise%2:32:01::",
+      "lemma": "promise",
+      "pos": "v",
+      "definition": "promise to undertake or give",
+      "decision": "gloss",
+      "simpleMeaning": "to say that you will give something to someone or take on a job for them",
+      "scope": "This is not the bare vow 'I will do it'; it is a pledge made to someone that they will receive something or that you will take on a task for them.",
+      "examples": [
+        "The company promised a bonus to every worker who finished early.",
+        "He promised his daughter a trip to the zoo."
+      ],
+      "branchCoverage": [
+        "promise to undertake or give -> to say that you will give something to someone or take on a job for them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "promise to undertake or give"
+      ],
+      "lemmaPartition": "promise%1:10:00:: -> the spoken commitment itself, as a noun\npromise%2:32:00:: -> the general act of giving your word that you will do something\npromise%2:32:01:: -> a pledge to give something or take on a task for someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "purchase%1:21:00::",
+      "lemma": "purchase",
+      "pos": "n",
+      "definition": "something acquired by purchase",
+      "decision": "gloss",
+      "simpleMeaning": "something that you have bought",
+      "scope": "This is the thing bought, not the act of buying it and not the money paid.",
+      "examples": [
+        "The car was her biggest purchase of the year.",
+        "He carried his purchases home in two bags."
+      ],
+      "branchCoverage": [
+        "something acquired by purchase -> something that you have bought"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something acquired by purchase"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rain%1:19:00::",
+      "lemma": "rain",
+      "pos": "n",
+      "definition": "water falling in drops from vapor condensed in the atmosphere",
+      "decision": "gloss",
+      "simpleMeaning": "the falling of water from the sky in drops, after water vapor in the air cools and turns to liquid",
+      "scope": "This is the weather event of water falling, not the water itself.",
+      "examples": [
+        "Heavy rain is expected across the region tonight.",
+        "The rain lasted all morning."
+      ],
+      "branchCoverage": [
+        "water falling in drops from vapor condensed in the atmosphere -> the falling of water from the sky in drops, after water vapor in the air cools and turns to liquid"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "water falling in drops from vapor condensed in the atmosphere"
+      ],
+      "lemmaPartition": "rain%1:19:00:: -> the weather event of water falling from the sky\nrain%1:27:00:: -> the water itself, in drops, that falls from clouds",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rain%1:27:00::",
+      "lemma": "rain",
+      "pos": "n",
+      "definition": "drops of fresh water that fall as precipitation from clouds",
+      "decision": "gloss",
+      "simpleMeaning": "the drops of fresh water themselves that fall from clouds",
+      "scope": "This is the water itself, not the weather event of it falling.",
+      "examples": [
+        "Rain dripped from the leaves after the storm.",
+        "He wiped the rain from his face."
+      ],
+      "branchCoverage": [
+        "drops of fresh water that fall as precipitation from clouds -> the drops of fresh water themselves that fall from clouds"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "drops of fresh water that fall as precipitation from clouds"
+      ],
+      "lemmaPartition": "rain%1:19:00:: -> the weather event of water falling from the sky\nrain%1:27:00:: -> the water itself, in drops, that falls from clouds",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "remove%2:30:00::",
+      "lemma": "remove",
+      "pos": "v",
+      "definition": "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+      "decision": "gloss",
+      "simpleMeaning": "to take something away from where it is, by lifting, pushing or taking it off, whether the thing is physical or abstract",
+      "scope": "This is not about forcing someone out of a job; it is about taking a thing away.",
+      "examples": [
+        "She removed the lid from the jar.",
+        "The new evidence removed any doubt about his guilt."
+      ],
+      "branchCoverage": [
+        "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract -> to take something away from where it is, by lifting, pushing or taking it off, whether the thing is physical or abstract"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract"
+      ],
+      "lemmaPartition": "remove%2:30:00:: -> to take a thing, physical or abstract, away from a place\nremove%2:41:00:: -> to force someone out of a job or official position",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "remove%2:41:00::",
+      "lemma": "remove",
+      "pos": "v",
+      "definition": "remove from a position or an office",
+      "decision": "gloss",
+      "simpleMeaning": "to force someone out of a job or official position",
+      "scope": "This is not about taking away an object; it is about ending someone's hold on a job or office.",
+      "examples": [
+        "The board removed the chief executive after the scandal.",
+        "The governor was removed from office by a vote."
+      ],
+      "branchCoverage": [
+        "remove from a position or an office -> to force someone out of a job or official position"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "remove from a position or an office"
+      ],
+      "lemmaPartition": "remove%2:30:00:: -> to take a thing, physical or abstract, away from a place\nremove%2:41:00:: -> to force someone out of a job or official position",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spending%1:04:00::",
+      "lemma": "spending",
+      "pos": "n",
+      "definition": "the act of spending or disbursing money",
+      "decision": "gloss",
+      "simpleMeaning": "the act of using money to pay for things",
+      "scope": "This is the activity of paying out money, not the money itself.",
+      "examples": [
+        "Government spending on health rose again this year.",
+        "Their spending on groceries has doubled."
+      ],
+      "branchCoverage": [
+        "the act of spending or disbursing money -> the act of using money to pay for things"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of spending or disbursing money"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "steel%1:27:00::",
+      "lemma": "steel",
+      "pos": "n",
+      "definition": "an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range",
+      "decision": "gloss",
+      "simpleMeaning": "a strong metal made from iron and a small amount of carbon, widely used in building, whose strength and other physical qualities can be changed over a wide range",
+      "scope": "This is the metal itself, not a tool made from it and not pure iron.",
+      "examples": [
+        "The bridge is built of steel.",
+        "The blade is made of hardened steel."
+      ],
+      "branchCoverage": [
+        "an alloy of iron with small amounts of carbon -> a strong metal made from iron and a small amount of carbon",
+        "widely used in construction -> widely used in building",
+        "mechanical properties can be varied over a wide range -> whose strength and other physical qualities can be changed over a wide range"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an alloy of iron with small amounts of carbon",
+        "widely used in construction",
+        "mechanical properties can be varied over a wide range"
+      ],
+      "lemmaPartition": "steel%1:27:00:: -> the iron-and-carbon metal itself\nsteel%1:06:00:: -> a ridged rod used to sharpen knives\nsteel%1:06:01:: -> a sword or similar long-bladed weapon\nsteel%2:35:00:: -> to cover or edge something with steel",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "steel%1:06:00::",
+      "lemma": "steel",
+      "pos": "n",
+      "definition": "knife sharpener consisting of a ridged steel rod",
+      "decision": "gloss",
+      "simpleMeaning": "a ridged rod made of hard metal that you draw a knife along to sharpen it",
+      "scope": "This is a tool for sharpening knives, not the metal it is made from and not a sword.",
+      "examples": [
+        "He ran the blade along the steel before carving the roast.",
+        "The butcher kept a steel hanging beside the block."
+      ],
+      "branchCoverage": [
+        "knife sharpener consisting of a ridged steel rod -> a ridged rod made of hard metal that you draw a knife along to sharpen it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "knife sharpener consisting of a ridged steel rod"
+      ],
+      "lemmaPartition": "steel%1:27:00:: -> the iron-and-carbon metal itself\nsteel%1:06:00:: -> a ridged rod used to sharpen knives\nsteel%1:06:01:: -> a sword or similar long-bladed weapon\nsteel%2:35:00:: -> to cover or edge something with steel",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "steel%1:06:01::",
+      "lemma": "steel",
+      "pos": "n",
+      "definition": "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard",
+      "decision": "defer",
+      "reason": "Literary metonym for a sword: it is rare in modern general reading and the only natural examples sound archaic or collide with the knife-sharpener sense.",
+      "sourceBranches": [
+        "a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard"
+      ],
+      "lemmaPartition": "steel%1:27:00:: -> the iron-and-carbon metal itself\nsteel%1:06:00:: -> a ridged rod used to sharpen knives\nsteel%1:06:01:: -> a sword or similar long-bladed weapon\nsteel%2:35:00:: -> to cover or edge something with steel",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "steel%2:35:00::",
+      "lemma": "steel",
+      "pos": "v",
+      "definition": "cover, plate, or edge with steel",
+      "decision": "defer",
+      "reason": "Rare technical manufacturing verb: natural examples are dominated by the separate idiom 'steel oneself', so the covering sense cannot be shown without ambiguity.",
+      "sourceBranches": [
+        "cover, plate, or edge with steel"
+      ],
+      "lemmaPartition": "steel%1:27:00:: -> the iron-and-carbon metal itself\nsteel%1:06:00:: -> a ridged rod used to sharpen knives\nsteel%1:06:01:: -> a sword or similar long-bladed weapon\nsteel%2:35:00:: -> to cover or edge something with steel",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "supporting%5:00:00:bearing:00",
+      "lemma": "supporting",
+      "pos": "a",
+      "definition": "capable of bearing a structural load",
+      "decision": "gloss",
+      "simpleMeaning": "able to hold up the weight of a building or other structure",
+      "scope": "This is not about giving help or encouragement; it is about holding up weight.",
+      "examples": [
+        "The supporting beams were checked before the roof went on.",
+        "The supporting columns are made of reinforced concrete."
+      ],
+      "branchCoverage": [
+        "capable of bearing a structural load -> able to hold up the weight of a building or other structure"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "capable of bearing a structural load"
+      ],
+      "lemmaPartition": "supporting%5:00:00:bearing:00 -> able to hold up the weight of a structure\nsupporting%5:00:00:supportive:00 -> giving help and encouragement",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "supporting%5:00:00:supportive:00",
+      "lemma": "supporting",
+      "pos": "a",
+      "definition": "furnishing support and encouragement",
+      "decision": "defer",
+      "reason": "The encouraging sense is normally carried by 'supportive' in modern English; examples with 'supporting' read as errors, and the adjective's common uses ('supporting role', 'supporting evidence') are different senses.",
+      "sourceBranches": [
+        "furnishing support and encouragement"
+      ],
+      "lemmaPartition": "supporting%5:00:00:bearing:00 -> able to hold up the weight of a structure\nsupporting%5:00:00:supportive:00 -> giving help and encouragement",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "terrible%5:00:00:alarming:00",
+      "lemma": "terrible",
+      "pos": "a",
+      "definition": "causing fear or dread or terror",
+      "decision": "gloss",
+      "simpleMeaning": "causing very strong fear",
+      "scope": "This is not the everyday sense of 'very bad' or 'of poor quality'; it describes something that causes fear.",
+      "examples": [
+        "A terrible scream came from the dark hallway.",
+        "The survivors described the terrible sight of the burning ship."
+      ],
+      "branchCoverage": [
+        "causing fear or dread or terror -> causing very strong fear"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "causing fear or dread or terror"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "tired%5:00:00:unoriginal:00",
+      "lemma": "tired",
+      "pos": "a",
+      "definition": "repeated too often; overfamiliar through overuse",
+      "decision": "gloss",
+      "simpleMeaning": "said or used so often that it has become too familiar to feel fresh",
+      "scope": "This is not about needing rest or sleep; it describes words, jokes or ideas worn out by overuse.",
+      "examples": [
+        "The speech was full of tired jokes about the weather.",
+        "The film relies on tired old plot twists."
+      ],
+      "branchCoverage": [
+        "repeated too often -> said or used so often",
+        "overfamiliar through overuse -> that it has become too familiar to feel fresh"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "repeated too often",
+        "overfamiliar through overuse"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treated%3:00:00::",
+      "lemma": "treated",
+      "pos": "a",
+      "definition": "subjected to a physical (or chemical) treatment or action or agent",
+      "decision": "gloss",
+      "simpleMeaning": "having gone through a physical or chemical process, or been acted on by a chemical substance",
+      "scope": "This is not about medical care, and not specifically about hardening by heat; it covers any object that has gone through a physical or chemical process.",
+      "examples": [
+        "Treated wood lasts much longer outdoors.",
+        "The treated water is safe to drink."
+      ],
+      "branchCoverage": [
+        "subjected to a physical (or chemical) treatment or action or agent -> having gone through a physical or chemical process, or been acted on by a chemical substance"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "subjected to a physical (or chemical) treatment or action or agent"
+      ],
+      "lemmaPartition": "treated%3:00:00:: -> having gone through a general physical or chemical process\ntreated%3:00:04:: -> made hard, flexible or springy by heat\ntreated%3:00:02:: -> having received medical care",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treated%3:00:04::",
+      "lemma": "treated",
+      "pos": "a",
+      "definition": "made hard or flexible or resilient especially by heat treatment",
+      "decision": "gloss",
+      "simpleMeaning": "made harder, more flexible or more springy, usually by heating and cooling",
+      "scope": "This is not about medical care or a general chemical wash; it is specifically about material made harder, more flexible or more springy by heat.",
+      "examples": [
+        "The heat-treated blade flexed without breaking.",
+        "The treated springs were heated and cooled to make them springy."
+      ],
+      "branchCoverage": [
+        "made hard or flexible or resilient especially by heat treatment -> made harder, more flexible or more springy, usually by heating and cooling"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "made hard or flexible or resilient especially by heat treatment"
+      ],
+      "lemmaPartition": "treated%3:00:00:: -> having gone through a general physical or chemical process\ntreated%3:00:04:: -> made hard, flexible or springy by heat\ntreated%3:00:02:: -> having received medical care",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treated%3:00:02::",
+      "lemma": "treated",
+      "pos": "a",
+      "definition": "given medical care or treatment",
+      "decision": "gloss",
+      "simpleMeaning": "having received care from a doctor or other health worker",
+      "scope": "This is not about materials or chemicals; it is about people who have received medical care.",
+      "examples": [
+        "The treated patients were sent home the next day.",
+        "All treated wounds were checked for infection."
+      ],
+      "branchCoverage": [
+        "given medical care or treatment -> having received care from a doctor or other health worker"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "given medical care or treatment"
+      ],
+      "lemmaPartition": "treated%3:00:00:: -> having gone through a general physical or chemical process\ntreated%3:00:04:: -> made hard, flexible or springy by heat\ntreated%3:00:02:: -> having received medical care",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "turning%1:17:00::",
+      "lemma": "turning",
+      "pos": "n",
+      "definition": "a shaving created when something is produced by turning it on a lathe",
+      "decision": "gloss",
+      "simpleMeaning": "a thin curl or strip cut off while a piece is shaped on a spinning machine",
+      "scope": "This is not the act of rotating or changing direction; it is the waste material left when a piece is shaped on a spinning machine.",
+      "examples": [
+        "The floor was covered with wood turnings.",
+        "He swept the metal turnings into a pile."
+      ],
+      "branchCoverage": [
+        "a shaving created when something is produced by turning it on a lathe -> a thin curl or strip cut off while a piece is shaped on a spinning machine"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a shaving created when something is produced by turning it on a lathe"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

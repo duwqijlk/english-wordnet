@@ -1,0 +1,1023 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 29,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1400,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "challenge%1:10:01::",
+      "lemma": "challenge",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "questioning a statement and demanding an explanation",
+      "synsetId": "07208065-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1288,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "questioning a statement and demanding an explanation"
+      ]
+    },
+    {
+      "senseId": "challenge%2:32:00::",
+      "lemma": "challenge",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "issue a challenge to",
+      "synsetId": "00870255-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1288,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "issue a challenge to"
+      ]
+    },
+    {
+      "senseId": "comment%1:10:01::",
+      "lemma": "comment",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a written explanation or criticism or illustration that is added to a book or other textual material",
+      "synsetId": "06775422-n",
+      "words": 17,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1290,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a written explanation or criticism or illustration that is added to a book or other textual material"
+      ]
+    },
+    {
+      "senseId": "comment%1:10:00::",
+      "lemma": "comment",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a statement that expresses a personal opinion or belief or adds information",
+      "synsetId": "06777755-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1290,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a statement that expresses a personal opinion or belief or adds information"
+      ]
+    },
+    {
+      "senseId": "comment%2:32:01::",
+      "lemma": "comment",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "provide interlinear explanations for words or phrases",
+      "synsetId": "00963361-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1290,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "provide interlinear explanations for words or phrases"
+      ]
+    },
+    {
+      "senseId": "comment%2:32:00::",
+      "lemma": "comment",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make or write a comment on",
+      "synsetId": "01060446-v",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1290,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make or write a comment on"
+      ]
+    },
+    {
+      "senseId": "holy%3:00:00::",
+      "lemma": "holy",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "belonging to or derived from or associated with a divine power",
+      "synsetId": "02061222-a",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1294,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "belonging to or derived from or associated with a divine power"
+      ]
+    },
+    {
+      "senseId": "nation%1:14:02::",
+      "lemma": "nation",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a federation of tribes (especially Native American tribes)",
+      "synsetId": "08320622-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1298,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a federation of tribes (especially Native American tribes)"
+      ]
+    },
+    {
+      "senseId": "nation%1:14:01::",
+      "lemma": "nation",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the people who live in a nation or country",
+      "synsetId": "08183451-n",
+      "words": 9,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1298,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the people who live in a nation or country"
+      ]
+    },
+    {
+      "senseId": "otherwise%4:02:01::",
+      "lemma": "otherwise",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "in other respects or ways",
+      "synsetId": "00046442-r",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1299,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in other respects or ways"
+      ]
+    },
+    {
+      "senseId": "otherwise%5:00:00:other:00",
+      "lemma": "otherwise",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "other than as supposed or expected",
+      "synsetId": "02078705-s",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1299,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "other than as supposed or expected"
+      ]
+    },
+    {
+      "senseId": "primary%1:04:00::",
+      "lemma": "primary",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a preliminary election where delegates or nominees are chosen",
+      "synsetId": "00183420-n",
+      "words": 9,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1301,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a preliminary election where delegates or nominees are chosen"
+      ]
+    },
+    {
+      "senseId": "primary%1:05:00::",
+      "lemma": "primary",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "one of the main flight feathers projecting along the outer edge of a bird's wing",
+      "synsetId": "02471711-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1301,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one of the main flight feathers projecting along the outer edge of a bird's wing"
+      ]
+    },
+    {
+      "senseId": "primary%3:00:00::",
+      "lemma": "primary",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of first rank or importance or value; direct and immediate rather than secondary",
+      "synsetId": "01858102-a",
+      "words": 13,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1301,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of first rank or importance or value",
+        "direct and immediate rather than secondary"
+      ]
+    },
+    {
+      "senseId": "purpose%1:07:01::",
+      "lemma": "purpose",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the quality of being determined to do or achieve something; firmness of purpose",
+      "synsetId": "04871431-n",
+      "words": 13,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1302,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the quality of being determined to do or achieve something",
+        "firmness of purpose"
+      ]
+    },
+    {
+      "senseId": "purpose%1:09:00::",
+      "lemma": "purpose",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an anticipated outcome that is intended or that guides your planned actions",
+      "synsetId": "05991037-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1302,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an anticipated outcome that is intended or that guides your planned actions"
+      ]
+    },
+    {
+      "senseId": "responsible%3:00:00::",
+      "lemma": "responsible",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "worthy of or requiring responsibility or trust; or held accountable",
+      "synsetId": "02003477-a",
+      "words": 10,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1304,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "worthy of or requiring responsibility or trust",
+        "or held accountable"
+      ]
+    },
+    {
+      "senseId": "shop%1:06:00::",
+      "lemma": "shop",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a mercantile establishment for the retail sale of goods or services",
+      "synsetId": "04209460-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1305,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a mercantile establishment for the retail sale of goods or services"
+      ]
+    },
+    {
+      "senseId": "shop%1:04:00::",
+      "lemma": "shop",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a course of instruction in a trade (as carpentry or electricity)",
+      "synsetId": "00893934-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1305,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a course of instruction in a trade (as carpentry or electricity)"
+      ]
+    },
+    {
+      "senseId": "shop%1:06:01::",
+      "lemma": "shop",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "small workplace where handcrafts or manufacturing are done",
+      "synsetId": "04610439-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1305,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "small workplace where handcrafts or manufacturing are done"
+      ]
+    },
+    {
+      "senseId": "shop%2:41:00::",
+      "lemma": "shop",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "do one's shopping at; do business with; be a customer or client of",
+      "synsetId": "02471557-v",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1305,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "do one's shopping at",
+        "do business with",
+        "be a customer or client of"
+      ]
+    },
+    {
+      "senseId": "sick%2:29:00::",
+      "lemma": "sick",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "eject the contents of the stomach through the mouth",
+      "synsetId": "00076153-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1307,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "eject the contents of the stomach through the mouth"
+      ]
+    },
+    {
+      "senseId": "sick%5:00:00:insane:00",
+      "lemma": "sick",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "affected with madness or insanity",
+      "synsetId": "02082451-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1307,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "affected with madness or insanity"
+      ]
+    },
+    {
+      "senseId": "teacher%1:09:00::",
+      "lemma": "teacher",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a personified abstraction that teaches",
+      "synsetId": "05863377-n",
+      "words": 5,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1308,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a personified abstraction that teaches"
+      ]
+    },
+    {
+      "senseId": "teacher%1:18:00::",
+      "lemma": "teacher",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a person whose occupation is teaching",
+      "synsetId": "10713754-n",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1308,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person whose occupation is teaching"
+      ]
+    },
+    {
+      "senseId": "theory%1:09:00::",
+      "lemma": "theory",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a well-substantiated explanation of some aspect of the natural world; an organized system of accepted knowledge that applies in a variety of circumstances to explain a specific set of phenomena",
+      "synsetId": "05998364-n",
+      "words": 31,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1309,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a well-substantiated explanation of some aspect of the natural world",
+        "an organized system of accepted knowledge that applies in a variety of circumstances to explain a specific set of phenomena"
+      ]
+    },
+    {
+      "senseId": "theory%1:09:01::",
+      "lemma": "theory",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a tentative insight into the natural world; a concept that is not yet verified but that if true would explain certain facts or phenomena",
+      "synsetId": "05897536-n",
+      "words": 24,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1309,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a tentative insight into the natural world",
+        "a concept that is not yet verified but that if true would explain certain facts or phenomena"
+      ]
+    },
+    {
+      "senseId": "avoid%2:41:01::",
+      "lemma": "avoid",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "prevent the occurrence of; prevent from happening; to protect from or to keep away anything undesirable; to ward off",
+      "synsetId": "02458770-v",
+      "words": 19,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1312,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "prevent the occurrence of",
+        "prevent from happening",
+        "to protect from or to keep away anything undesirable",
+        "to ward off"
+      ]
+    },
+    {
+      "senseId": "camera%1:06:01::",
+      "lemma": "camera",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam",
+      "synsetId": "04412132-n",
+      "words": 22,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1313,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "television equipment consisting of a lens system that focuses an image on a photosensitive mosaic that is scanned by an electron beam"
+      ]
+    },
+    {
+      "senseId": "camera%1:06:00::",
+      "lemma": "camera",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)",
+      "synsetId": "02946154-n",
+      "words": 23,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1313,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "equipment for taking photographs (usually consisting of a lightproof box with a lens at one end and light-sensitive film at the other)"
+      ]
+    },
+    {
+      "senseId": "catch%1:07:00::",
+      "lemma": "catch",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a drawback or difficulty that is not readily evident",
+      "synsetId": "05172200-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1314,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a drawback or difficulty that is not readily evident"
+      ]
+    },
+    {
+      "senseId": "catch%1:18:00::",
+      "lemma": "catch",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a person regarded as a good matrimonial prospect",
+      "synsetId": "09920434-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1314,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person regarded as a good matrimonial prospect"
+      ]
+    },
+    {
+      "senseId": "catch%2:31:01::",
+      "lemma": "catch",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state",
+      "synsetId": "00727710-v",
+      "words": 17,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1314,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "discover or come upon accidentally, suddenly, or unexpectedly",
+        "catch somebody doing something or in a certain state"
+      ]
+    },
+    {
+      "senseId": "catch%2:39:01::",
+      "lemma": "catch",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "perceive with the senses quickly, suddenly, or momentarily",
+      "synsetId": "02122438-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1314,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "perceive with the senses quickly, suddenly, or momentarily"
+      ]
+    },
+    {
+      "senseId": "coast%1:17:01::",
+      "lemma": "coast",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a slope down which sleds may coast",
+      "synsetId": "09271059-n",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1316,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a slope down which sleds may coast"
+      ]
+    },
+    {
+      "senseId": "foot%1:23:00::",
+      "lemma": "foot",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a linear unit of length equal to 12 inches or a third of a yard",
+      "synsetId": "13671663-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1322,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a linear unit of length equal to 12 inches or a third of a yard"
+      ]
+    },
+    {
+      "senseId": "hall%1:06:02::",
+      "lemma": "hall",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a large room for gatherings, receiving guests, or entertainment",
+      "synsetId": "03483990-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1323,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a large room for gatherings, receiving guests, or entertainment"
+      ]
+    },
+    {
+      "senseId": "hall%1:06:03::",
+      "lemma": "hall",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an interior passage or corridor onto which rooms open",
+      "synsetId": "03485035-n",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1323,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an interior passage or corridor onto which rooms open"
+      ]
+    },
+    {
+      "senseId": "mission%1:14:01::",
+      "lemma": "mission",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an organization of missionaries in a foreign land sent to carry on religious work",
+      "synsetId": "08420182-n",
+      "words": 14,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1326,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an organization of missionaries in a foreign land sent to carry on religious work"
+      ]
+    },
+    {
+      "senseId": "operations%1:04:00::",
+      "lemma": "operations",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "financial transactions at a brokerage; having to do with the execution of trades and keeping customer records",
+      "synsetId": "01109631-n",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1329,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "financial transactions at a brokerage",
+        "having to do with the execution of trades and keeping customer records"
+      ]
+    },
+    {
+      "senseId": "pop%1:11:00::",
+      "lemma": "pop",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a sharp explosive sound as from a gunshot or drawing a cork",
+      "synsetId": "07405000-n",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1331,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sharp explosive sound as from a gunshot or drawing a cork"
+      ]
+    },
+    {
+      "senseId": "pop%1:13:00::",
+      "lemma": "pop",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a sweet drink containing carbonated water and flavoring",
+      "synsetId": "07943752-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1331,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sweet drink containing carbonated water and flavoring"
+      ]
+    },
+    {
+      "senseId": "pop%2:39:00::",
+      "lemma": "pop",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "make a sharp explosive noise",
+      "synsetId": "02190434-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1331,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make a sharp explosive noise"
+      ]
+    },
+    {
+      "senseId": "therefore%4:02:00::",
+      "lemma": "therefore",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+      "synsetId": "00043413-r",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1336,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result"
+      ]
+    },
+    {
+      "senseId": "activity%1:26:00::",
+      "lemma": "activity",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the state of being active",
+      "synsetId": "14030430-n",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1340,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the state of being active"
+      ]
+    },
+    {
+      "senseId": "application%1:10:00::",
+      "lemma": "application",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a verbal or written request for assistance or employment or admission to a school",
+      "synsetId": "06524571-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1341,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a verbal or written request for assistance or employment or admission to a school"
+      ]
+    },
+    {
+      "senseId": "coffee%1:13:00::",
+      "lemma": "coffee",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a beverage consisting of an infusion of ground coffee beans",
+      "synsetId": "07945759-n",
+      "words": 10,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1343,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a beverage consisting of an infusion of ground coffee beans"
+      ]
+    },
+    {
+      "senseId": "coffee%1:20:00::",
+      "lemma": "coffee",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "any of several small trees and shrubs native to the tropical Old World yielding coffee beans",
+      "synsetId": "12683533-n",
+      "words": 16,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1343,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+      ]
+    },
+    {
+      "senseId": "coffee%1:13:01::",
+      "lemma": "coffee",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a seed of the coffee tree; ground to make coffee",
+      "synsetId": "07945591-n",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1343,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a seed of the coffee tree",
+        "ground to make coffee"
+      ]
+    },
+    {
+      "senseId": "complex%1:27:00::",
+      "lemma": "complex",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a compound described in terms of the central atom to which other atoms are bound or coordinated",
+      "synsetId": "14841762-n",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1344,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a compound described in terms of the central atom to which other atoms are bound or coordinated"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,988 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 9,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 42,
+      "of": 50,
+      "rate": 0.84
+    },
+    "selfApproved": [
+      "human%3:00:00::",
+      "move%2:38:01::",
+      "question%2:32:00::",
+      "saw%1:06:00::",
+      "future%5:00:00:prospective:00",
+      "short%2:36:00::",
+      "deal%2:31:10::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "f1338b50e059a752a59aee3286edcd118572363a84236141f15bce29c0d6c834"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "human%3:00:00::",
+      "lemma": "human",
+      "pos": "a",
+      "definition": "having human form or attributes as opposed to those of animals or divine beings",
+      "decision": "gloss",
+      "simpleMeaning": "Having a person's body or qualities, not an animal's or a god's.",
+      "scope": "It is about the shape or make-up of something, not about habits or feelings shared by people in general.",
+      "examples": [
+        "In the story, the fox takes on a human form and walks into the village.",
+        "The robot was given a human voice so that people would trust it."
+      ],
+      "branchCoverage": [
+        "having human form or attributes as opposed to those of animals or divine beings -> a person's body or qualities; not an animal's or a god's"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "human: adjective = like a person in body or qualities, not an animal or god / typical of people and their nature.",
+      "meaning": "Having a person's body or features, not an animal's or a god's.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss 'qualities' overlaps sense 2 (typical of people and their nature); use 'Having a person's body or features, not an animal's or god's.'"
+    },
+    {
+      "senseId": "human%3:01:00::",
+      "lemma": "human",
+      "pos": "a",
+      "definition": "characteristic of humanity",
+      "decision": "gloss",
+      "simpleMeaning": "Typical of people and their nature.",
+      "scope": "It describes qualities shared by people in general, not a shape that looks like a person.",
+      "examples": [
+        "Her fear of failure was a very human reaction.",
+        "The novel shows human weakness as well as human strength."
+      ],
+      "branchCoverage": [
+        "characteristic of humanity -> typical of people; their nature"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "human: adjective = like a person in body or qualities, not an animal or god / typical of people and their nature.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "move%2:38:01::",
+      "lemma": "move",
+      "pos": "v",
+      "definition": "cause to move or shift into a new position or place, both in a concrete and in an abstract sense",
+      "decision": "gloss",
+      "simpleMeaning": "To make something go to a different place or position, or to change the subject.",
+      "scope": "It means making something else change place, not going somewhere yourself.",
+      "examples": [
+        "Can you move the chair closer to the window?",
+        "The meeting was moved to Friday."
+      ],
+      "branchCoverage": [
+        "cause to move or shift into a new position or place, both in a concrete and in an abstract sense -> make something go to a different place or position; change the subject"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "To make something go to a different place, position, or time.",
+      "verdict": "self-approved",
+      "reviewerNote": "Abstract branch narrowed to subject change; example 2 is a time shift. Use 'To make something go to a different place, position, or time.'"
+    },
+    {
+      "senseId": "question%1:10:03::",
+      "lemma": "question",
+      "pos": "n",
+      "definition": "a sentence of inquiry that asks for a reply",
+      "decision": "gloss",
+      "simpleMeaning": "A sentence that asks something and expects an answer.",
+      "scope": "It is the asking sentence itself, not the act of asking or a feeling of doubt.",
+      "examples": [
+        "She read the question aloud and waited for an answer.",
+        "Write your answer under each question on the page."
+      ],
+      "branchCoverage": [
+        "a sentence of inquiry that asks for a reply -> sentence that asks something; expects an answer"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "question: noun = the asking sentence / the act of asking; verb = to doubt that something is true or right / to ask one thing / to ask a series of things.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "question%2:32:01::",
+      "lemma": "question",
+      "pos": "v",
+      "definition": "challenge the accuracy, probity, or propriety of",
+      "decision": "gloss",
+      "simpleMeaning": "To say you doubt that something is true or right.",
+      "scope": "It means doubting a claim or decision, not asking for information.",
+      "examples": [
+        "Several people questioned the accuracy of the report.",
+        "She questioned whether it was right to keep the money."
+      ],
+      "branchCoverage": [
+        "challenge the accuracy, probity, or propriety of -> say you doubt; true or right"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "question: noun = the asking sentence / the act of asking; verb = to doubt that something is true or right / to ask one thing / to ask a series of things.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "question%1:10:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "This abstract count use for the act of asking cannot be kept distinct, because every natural sentence with the noun also fits the asking-sentence or doubt sense."
+    },
+    {
+      "senseId": "question%2:32:00::",
+      "lemma": "question",
+      "pos": "v",
+      "definition": "pose a question",
+      "decision": "gloss",
+      "simpleMeaning": "To ask something.",
+      "scope": "It means asking one thing, not doubting a claim or asking someone a long series of things.",
+      "examples": [
+        "'Is this seat free?' she questioned.",
+        "The officer questioned him once about the time."
+      ],
+      "branchCoverage": [
+        "pose a question -> ask something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "question: noun = the asking sentence / the act of asking; verb = to doubt that something is true or right / to ask one thing / to ask a series of things.",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 ('questioned the mayor about') is the series sense (2:32:03). Use a single question, e.g. 'Is this seat free? she questioned.'"
+    },
+    {
+      "senseId": "question%2:32:03::",
+      "lemma": "question",
+      "pos": "v",
+      "definition": "pose a series of questions to",
+      "decision": "gloss",
+      "simpleMeaning": "To ask someone many things, often for a long time.",
+      "scope": "It means asking many things over time, not doubting a claim or asking a single thing.",
+      "examples": [
+        "The police questioned him for three hours.",
+        "Reporters questioned the coach about the team's poor season."
+      ],
+      "branchCoverage": [
+        "pose a series of questions to -> ask someone many things; for a long time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "question: noun = the asking sentence / the act of asking; verb = to doubt that something is true or right / to ask one thing / to ask a series of things.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wait%1:04:00::",
+      "lemma": "wait",
+      "pos": "n",
+      "definition": "the act of waiting (remaining inactive in one place while expecting something)",
+      "decision": "gloss",
+      "simpleMeaning": "A period of staying in one place and not doing much until something happens.",
+      "scope": "It is the time spent staying put, not the thing you are hoping for.",
+      "examples": [
+        "After a long wait, the bus finally came.",
+        "The wait for the test results was hard."
+      ],
+      "branchCoverage": [
+        "the act of waiting (remaining inactive in one place while expecting something) -> period of staying in one place; not doing much; until something happens"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "community%1:14:03::",
+      "lemma": "community",
+      "pos": "n",
+      "definition": "a group of people having a religion, ethnic, profession, or other particular characteristic in common",
+      "decision": "gloss",
+      "simpleMeaning": "A group of people who share a religion, background, job, or way of life.",
+      "scope": "It means the people in the group, not the area or town where they live.",
+      "examples": [
+        "The town has a large community of fishermen.",
+        "She belongs to a small religious community in the north."
+      ],
+      "branchCoverage": [
+        "a group of people having a religion, ethnic, profession, or other particular characteristic in common -> group of people; share a religion, background, job, or way of life"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leave%2:31:05::",
+      "lemma": "leave",
+      "pos": "v",
+      "definition": "go and leave behind, either intentionally or by neglect or forgetfulness",
+      "decision": "gloss",
+      "simpleMeaning": "To go away and not take something with you, either on purpose or by mistake.",
+      "scope": "It is about not taking something when you go, not about ending a job or a relationship.",
+      "examples": [
+        "I left my keys on the table.",
+        "She left the children with their grandmother."
+      ],
+      "branchCoverage": [
+        "go and leave behind, either intentionally or by neglect or forgetfulness -> go away; not take something with you; on purpose or by mistake"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "north%1:24:02::",
+      "lemma": "north",
+      "pos": "n",
+      "definition": "the direction corresponding to the northward cardinal compass point",
+      "decision": "gloss",
+      "simpleMeaning": "The way you look or travel when you head toward the top of a map.",
+      "scope": "It is the way itself, not the fixed mark on a compass or a region of a country.",
+      "examples": [
+        "Which way is north?",
+        "The river flows toward the north."
+      ],
+      "branchCoverage": [
+        "the direction corresponding to the northward cardinal compass point -> the way you look or travel; toward the top of a map"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "north: noun = the direction / the compass point at zero degrees / a northern region; adjective = located in, facing, or coming from that direction; adverb = toward that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "north%1:24:00::",
+      "lemma": "north",
+      "pos": "n",
+      "definition": "the cardinal compass point that is at 0 or 360 degrees",
+      "decision": "gloss",
+      "simpleMeaning": "The compass point that marks zero degrees, opposite south.",
+      "scope": "It is the fixed mark on a compass, not the general direction or a region.",
+      "examples": [
+        "On the compass, north is marked at the top.",
+        "The four main points are north, south, east, and west."
+      ],
+      "branchCoverage": [
+        "the cardinal compass point that is at 0 or 360 degrees -> compass point; marks zero degrees; opposite south"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "north: noun = the direction / the compass point at zero degrees / a northern region; adjective = located in, facing, or coming from that direction; adverb = toward that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "north%3:00:00::",
+      "lemma": "north",
+      "pos": "a",
+      "definition": "situated in or facing or moving toward or coming from the north",
+      "decision": "gloss",
+      "simpleMeaning": "Located in, facing, moving toward, or coming from the direction at the top of a map.",
+      "scope": "It describes where something is or which way it faces, not the direction itself or a region.",
+      "examples": [
+        "The north side of the house is always cold.",
+        "A cold north wind blew all night."
+      ],
+      "branchCoverage": [
+        "situated in or facing or moving toward or coming from the north -> located in; facing; moving toward; coming from; top of a map"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "north: noun = the direction / the compass point at zero degrees / a northern region; adjective = located in, facing, or coming from that direction; adverb = toward that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "north%1:15:00::",
+      "lemma": "north",
+      "pos": "n",
+      "definition": "a location in the northern part of a country, region, or city",
+      "decision": "gloss",
+      "simpleMeaning": "The part of a country, region, or city that is furthest toward the top of a map.",
+      "scope": "It is a place or area, not the direction you travel or the mark on a compass.",
+      "examples": [
+        "He grew up in the north of England.",
+        "The north of the city is quieter than the center."
+      ],
+      "branchCoverage": [
+        "a location in the northern part of a country, region, or city -> part of a country, region, or city; furthest toward the top of a map"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "north: noun = the direction / the compass point at zero degrees / a northern region; adjective = located in, facing, or coming from that direction; adverb = toward that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "north%4:02:00::",
+      "lemma": "north",
+      "pos": "r",
+      "definition": "in a northern direction",
+      "decision": "gloss",
+      "simpleMeaning": "Toward the top of a map.",
+      "scope": "It tells you the direction of movement, not where something is located.",
+      "examples": [
+        "We drove north for three hours.",
+        "The road turns north after the bridge."
+      ],
+      "branchCoverage": [
+        "in a northern direction -> toward the top of a map"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "north: noun = the direction / the compass point at zero degrees / a northern region; adjective = located in, facing, or coming from that direction; adverb = toward that direction.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "saw%1:06:00::",
+      "lemma": "saw",
+      "pos": "n",
+      "definition": "hand tool having a toothed blade for cutting",
+      "decision": "gloss",
+      "simpleMeaning": "A tool with a metal blade and sharp teeth for cutting wood.",
+      "scope": "It is the cutting tool, not the old saying.",
+      "examples": [
+        "He cut the branch with a saw.",
+        "This saw is too blunt to cut the wood."
+      ],
+      "branchCoverage": [
+        "hand tool having a toothed blade for cutting -> tool; metal blade; sharp teeth; cutting wood"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "saw: noun = a cutting tool with a toothed blade / a short wise saying.",
+      "meaning": "A tool with a blade and sharp teeth for cutting things.",
+      "verdict": "self-approved",
+      "reviewerNote": "Narrows cutting to wood; saws also cut metal and stone. Use 'A tool with a blade and sharp teeth for cutting things.'"
+    },
+    {
+      "senseId": "saw%1:10:00::",
+      "lemma": "saw",
+      "pos": "n",
+      "definition": "a condensed but memorable saying embodying some important fact of experience that is taken as true by many people",
+      "decision": "gloss",
+      "simpleMeaning": "A short, well-known saying about life that many people believe is true.",
+      "scope": "It is a wise old saying, not the cutting tool.",
+      "examples": [
+        "'Too many cooks spoil the broth' is an old saw.",
+        "My grandfather often repeated the saw that hard work pays off."
+      ],
+      "branchCoverage": [
+        "a condensed but memorable saying embodying some important fact of experience that is taken as true by many people -> short, well-known saying; about life; many people believe is true"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "saw: noun = a cutting tool with a toothed blade / a short wise saying.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "special%1:10:00::",
+      "lemma": "special",
+      "pos": "n",
+      "definition": "a special offering (usually temporary and at a reduced price) that is featured in advertising",
+      "decision": "gloss",
+      "simpleMeaning": "A product or deal advertised for a short time at a lower price.",
+      "scope": "It is a sale offer in a shop, not a dish on a restaurant menu.",
+      "examples": [
+        "The supermarket has a special on coffee this week.",
+        "The shoes were a special at half price."
+      ],
+      "branchCoverage": [
+        "a special offering (usually temporary and at a reduced price) that is featured in advertising -> product or deal; advertised; short time; lower price"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "special: noun = a sale offer in a shop / a dish a restaurant recommends; adjective = made for a particular event / belonging only to one person or thing.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "special%1:13:00::",
+      "lemma": "special",
+      "pos": "n",
+      "definition": "a dish or meal given prominence in e.g. a restaurant",
+      "decision": "gloss",
+      "simpleMeaning": "A dish or meal that a restaurant picks out and recommends.",
+      "scope": "It is a food dish, not a sale price in a shop.",
+      "examples": [
+        "Today's special is fish with rice.",
+        "The waiter told us about the specials."
+      ],
+      "branchCoverage": [
+        "a dish or meal given prominence in e.g. a restaurant -> dish or meal; restaurant; picks out and recommends"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "special: noun = a sale offer in a shop / a dish a restaurant recommends; adjective = made for a particular event / belonging only to one person or thing.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "special%5:00:00:extraordinary:00",
+      "lemma": "special",
+      "pos": "a",
+      "definition": "for a special service or occasion",
+      "decision": "gloss",
+      "simpleMeaning": "Arranged for a particular event or purpose rather than normal use.",
+      "scope": "It is about something made for an event, not something that belongs only to one person or thing.",
+      "examples": [
+        "They ran a special train to take fans to the match.",
+        "The magazine published a special edition for its anniversary."
+      ],
+      "branchCoverage": [
+        "for a special service or occasion -> arranged for a particular event or purpose; rather than normal use"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "special: noun = a sale offer in a shop / a dish a restaurant recommends; adjective = made for a particular event / belonging only to one person or thing.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "special%5:00:01:specific:00",
+      "lemma": "special",
+      "pos": "a",
+      "definition": "unique or specific to a person or thing or category",
+      "decision": "gloss",
+      "simpleMeaning": "Belonging only to one person, thing, or group.",
+      "scope": "It is about something that belongs to one person or thing, not something made for an event.",
+      "examples": [
+        "She has a special talent for drawing.",
+        "Every plant has its own special needs."
+      ],
+      "branchCoverage": [
+        "unique or specific to a person or thing or category -> belonging only to one person, thing, or group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "special: noun = a sale offer in a shop / a dish a restaurant recommends; adjective = made for a particular event / belonging only to one person or thing.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "watch%1:04:00::",
+      "lemma": "watch",
+      "pos": "n",
+      "definition": "a purposeful surveillance to guard or observe",
+      "decision": "gloss",
+      "simpleMeaning": "A period of staying near someone or something to keep it safe or see what happens.",
+      "scope": "It is the act of guarding or observing, not the small clock you wear.",
+      "examples": [
+        "The soldiers kept watch over the camp all night.",
+        "Neighbors take turns keeping watch on the street."
+      ],
+      "branchCoverage": [
+        "a purposeful surveillance to guard or observe -> period of staying near; keep it safe; see what happens"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "watch: noun = the act of guarding or observing; verb = to look at something for a time.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "watch%2:39:05::",
+      "lemma": "watch",
+      "pos": "v",
+      "definition": "see or watch",
+      "decision": "gloss",
+      "simpleMeaning": "To look at something for a period of time.",
+      "scope": "It means looking at something for a time, not guarding a place or staying on duty.",
+      "examples": [
+        "We watched a film after dinner.",
+        "She watched the children playing in the garden."
+      ],
+      "branchCoverage": [
+        "see or watch -> look at something; for a period of time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "watch: noun = the act of guarding or observing; verb = to look at something for a time.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "future%1:06:00::",
+      "lemma": "future",
+      "pos": "n",
+      "definition": "bulk commodities bought or sold at an agreed price for delivery at a specified future date",
+      "decision": "gloss",
+      "simpleMeaning": "A deal to buy or sell goods now at a fixed price, with delivery at a later date.",
+      "scope": "It is a business deal for goods, not the time that has not come yet.",
+      "examples": [
+        "Farmers use futures to fix the price of their grain.",
+        "He made money trading futures in wheat."
+      ],
+      "branchCoverage": [
+        "bulk commodities bought or sold at an agreed price for delivery at a specified future date -> deal to buy or sell goods; fixed price; delivery at a later date"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "future: noun = a deal to buy goods for later delivery / the verb tense for later events; adjective = elected but not yet in office / aimed at what is still to come.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "future%1:10:00::",
+      "lemma": "future",
+      "pos": "n",
+      "definition": "a verb tense that expresses actions or states in the future",
+      "decision": "gloss",
+      "simpleMeaning": "The verb form used to talk about actions or states that will happen later.",
+      "scope": "This is the grammar term for a tense, not the time ahead or goods traded for later delivery.",
+      "examples": [
+        "Students often find the future tense easier than the past.",
+        "In English, the future tense is often formed with 'will'."
+      ],
+      "branchCoverage": [
+        "a verb tense that expresses actions or states in the future -> 'verb form used to talk about actions or states that will happen later'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "future in this batch: noun, goods bought or sold now for delivery on a later date; noun, the verb tense for events still to come; adjective, someone elected but not yet in office; adjective, aimed at or working toward times ahead.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "future%5:00:00:incoming:00",
+      "lemma": "future",
+      "pos": "a",
+      "definition": "(of elected officers) elected but not yet serving",
+      "decision": "gloss",
+      "simpleMeaning": "Used about someone who has won an election but has not started the job yet.",
+      "scope": "This describes a person who is chosen for a post but not yet working, not a time period or a type of goods.",
+      "examples": [
+        "The future mayor promised to improve the schools.",
+        "The future president will take office in January."
+      ],
+      "branchCoverage": [
+        "(of elected officers) elected but not yet serving -> 'someone who has won an election but has not started the job yet'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "future in this batch: noun, goods bought or sold now for delivery on a later date; noun, the verb tense for events still to come; adjective, someone elected but not yet in office; adjective, aimed at or working toward times ahead.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "future%5:00:00:prospective:00",
+      "lemma": "future",
+      "pos": "a",
+      "definition": "effective in or looking toward the future",
+      "decision": "gloss",
+      "simpleMeaning": "Aimed at or meant to work in times still to come.",
+      "scope": "This describes plans or actions aimed at later times, not the tense or a person waiting to take office.",
+      "examples": [
+        "We need to think about our future needs before we buy the house.",
+        "The new law is meant to protect future generations."
+      ],
+      "branchCoverage": [
+        "effective in or looking toward the future -> 'aimed at or meant to work in times still to come'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "future in this batch: noun, goods bought or sold now for delivery on a later date; noun, the verb tense for events still to come; adjective, someone elected but not yet in office; adjective, aimed at or working toward times ahead.",
+      "meaning": "Meant for or happening in times still to come.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss 'aimed at/meant to work' excludes 'future needs/generations'; use 'Meant for or happening in times still to come.'"
+    },
+    {
+      "senseId": "light%2:30:00::",
+      "lemma": "light",
+      "pos": "v",
+      "definition": "introduce light into",
+      "decision": "gloss",
+      "simpleMeaning": "To make a place bright, for example by turning on a lamp or opening a curtain.",
+      "scope": "This is about filling a place with brightness, not about starting a fire, a lamp itself, or a pale colour.",
+      "examples": [
+        "He lit the dark kitchen with a torch.",
+        "Tall windows lit the whole hall."
+      ],
+      "branchCoverage": [
+        "introduce light into -> 'make a place bright' (by turning on a lamp or opening a curtain)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light in this batch: verb, to fill a place with brightness; adjective, describing military units or industries with small, light equipment.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "light%3:00:04::",
+      "lemma": "light",
+      "pos": "a",
+      "definition": "of the military or industry; using (or being) relatively small or light arms or equipment",
+      "decision": "gloss",
+      "simpleMeaning": "Used about military units or industries that use small equipment and need less heavy support.",
+      "scope": "It describes small, lightly equipped military units or industries, not how bright something is or how much one object weighs.",
+      "examples": [
+        "The army sent in light infantry to move quickly through the hills.",
+        "Light industry in the region makes clothes and furniture."
+      ],
+      "branchCoverage": [
+        "of the military or industry -> 'military units or industries'",
+        "using (or being) relatively small or light arms or equipment -> 'use small equipment and need less heavy support'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "light in this batch: verb, to fill a place with brightness; adjective, describing military units or industries with small, light equipment.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "low%1:06:00::",
+      "lemma": "low",
+      "pos": "n",
+      "definition": "the lowest forward gear ratio in the gear box of a motor vehicle; used to start a car moving",
+      "decision": "gloss",
+      "simpleMeaning": "The bottom forward gear of a car, which gives the most power for starting off.",
+      "scope": "This is the name of a gear, not a small height or a quiet sound.",
+      "examples": [
+        "Put the car in low before you drive up the steep hill.",
+        "The truck moved slowly up the hill in low."
+      ],
+      "branchCoverage": [
+        "the lowest forward gear ratio in the gear box of a motor vehicle -> 'the bottom forward gear of a car'",
+        "used to start a car moving -> 'gives the most power for starting off'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "low in this batch: noun, the bottom forward gear of a car; adjective, sitting close to the ground or not tall; verb, to make the deep sound of a cow.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "low%3:00:01::",
+      "lemma": "low",
+      "pos": "a",
+      "definition": "being at or having a relatively small elevation or upward extension",
+      "decision": "gloss",
+      "simpleMeaning": "Sitting close to the ground or not tall.",
+      "scope": "It describes where something sits or how tall it is, not how loud a sound is or how small an amount is.",
+      "examples": [
+        "The shelf is too low for the children to walk under.",
+        "We sat on a low wall by the river."
+      ],
+      "branchCoverage": [
+        "being at or having a relatively small elevation or upward extension -> 'sitting close to the ground or not tall'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "low in this batch: noun, the bottom forward gear of a car; adjective, sitting close to the ground or not tall; verb, to make the deep sound of a cow.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "low%2:32:00::",
+      "lemma": "low",
+      "pos": "v",
+      "definition": "make a low noise, characteristic of bovines",
+      "decision": "gloss",
+      "simpleMeaning": "To make the deep sound that a cow makes.",
+      "scope": "This is the sound a cow makes, not a gear or a small height.",
+      "examples": [
+        "The cows were lowing in the field behind the barn.",
+        "We heard a cow low softly in the dark."
+      ],
+      "branchCoverage": [
+        "make a low noise, characteristic of bovines -> 'make the deep sound that a cow makes'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "low in this batch: noun, the bottom forward gear of a car; adjective, sitting close to the ground or not tall; verb, to make the deep sound of a cow.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "million%5:00:00:cardinal:00",
+      "lemma": "million",
+      "pos": "a",
+      "definition": "(in Roman numerals, M written with a macron over it) denoting a quantity consisting of 1,000,000 items or units",
+      "decision": "gloss",
+      "simpleMeaning": "Used for an amount of 1,000,000, shown in old Roman numerals as M with a line over it.",
+      "scope": "It marks an exact count of 1,000,000, not a vague way of saying 'very many'.",
+      "examples": [
+        "More than two million people live in the city.",
+        "The company spent a million dollars on the new factory."
+      ],
+      "branchCoverage": [
+        "(in Roman numerals, M written with a macron over it) denoting a quantity consisting of 1,000,000 items or units -> 'an amount of 1,000,000, shown in old Roman numerals as M with a line over it'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "morning%1:10:00::",
+      "lemma": "morning",
+      "pos": "n",
+      "definition": "a conventional expression of greeting or farewell, used to wish someone a good morning",
+      "decision": "gloss",
+      "simpleMeaning": "A short friendly word used to greet someone, or say goodbye, early in the day.",
+      "scope": "This is the spoken greeting, not the early part of the day itself.",
+      "examples": [
+        "'Morning!' she called as she passed me on the stairs.",
+        "He nodded and said 'morning' to the guard at the gate."
+      ],
+      "branchCoverage": [
+        "a conventional expression of greeting or farewell, used to wish someone a good morning -> 'a short friendly word used to greet someone, or say goodbye, early in the day'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "police%2:41:00::",
+      "lemma": "police",
+      "pos": "v",
+      "definition": "maintain the security of by carrying out a patrol",
+      "decision": "gloss",
+      "simpleMeaning": "To keep an area safe by walking or driving around it to watch for trouble.",
+      "scope": "This is about guarding a place, not about the police as an organization.",
+      "examples": [
+        "Officers police the streets around the stadium on match days.",
+        "The area is policed by local volunteers at night."
+      ],
+      "branchCoverage": [
+        "maintain the security of by carrying out a patrol -> 'keep an area safe by walking or driving around it to watch for trouble'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "police in this batch: noun, the official force that catches criminals; verb, to guard an area by patrolling it.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "police%1:14:00::",
+      "lemma": "police",
+      "pos": "n",
+      "definition": "the force of policemen and officers",
+      "decision": "gloss",
+      "simpleMeaning": "The official group of people who catch criminals and keep order.",
+      "scope": "This is the organization, not the act of guarding an area.",
+      "examples": [
+        "The police arrived within ten minutes of the call.",
+        "She joined the police after finishing school."
+      ],
+      "branchCoverage": [
+        "the force of policemen and officers -> 'the official group of people who catch criminals and keep order'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "police in this batch: noun, the official force that catches criminals; verb, to guard an area by patrolling it.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%3:00:02::",
+      "lemma": "short",
+      "pos": "a",
+      "definition": "primarily temporal sense; indicating or being or seeming to be limited in duration",
+      "decision": "gloss",
+      "simpleMeaning": "Lasting only a little time.",
+      "scope": "This is about time, not about height or distance.",
+      "examples": [
+        "We took a short break after lunch.",
+        "The meeting was short but useful."
+      ],
+      "branchCoverage": [
+        "primarily temporal sense -> 'lasting' refers to time",
+        "indicating or being or seeming to be limited in duration -> 'only a little time'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short in this batch: adjective, lasting only a little time; adjective, not tall; noun, the baseball fielding job between second and third base; noun, the spot on the field where that fielder stands; verb, to cause an electrical fault.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%3:00:03::",
+      "lemma": "short",
+      "pos": "a",
+      "definition": "low in stature; not tall; describing something or someone with a stature less than normal",
+      "decision": "gloss",
+      "simpleMeaning": "Not tall; having less height than most people or things of the same kind.",
+      "scope": "This is about height, not about time or a baseball position.",
+      "examples": [
+        "He is too short to reach the top shelf.",
+        "They planted short trees along the fence."
+      ],
+      "branchCoverage": [
+        "low in stature -> 'having less height'",
+        "not tall -> 'not tall'",
+        "describing something or someone with a stature less than normal -> 'less height than most people or things of the same kind'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short in this batch: adjective, lasting only a little time; adjective, not tall; noun, the baseball fielding job between second and third base; noun, the spot on the field where that fielder stands; verb, to cause an electrical fault.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%1:04:00::",
+      "lemma": "short",
+      "pos": "n",
+      "definition": "the fielding position of the player on a baseball team who is stationed between second and third base",
+      "decision": "gloss",
+      "simpleMeaning": "The baseball job of guarding the area between second and third base.",
+      "scope": "This is the player's fielding job, not the piece of ground itself or a small height.",
+      "examples": [
+        "He plays short for the school team.",
+        "She moved from short to second base this season."
+      ],
+      "branchCoverage": [
+        "the fielding position of the player on a baseball team who is stationed between second and third base -> 'the baseball job of guarding the area between second and third base'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short in this batch: adjective, lasting only a little time; adjective, not tall; noun, the baseball fielding job between second and third base; noun, the spot on the field where that fielder stands; verb, to cause an electrical fault.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%1:06:00::",
+      "lemma": "short",
+      "pos": "n",
+      "definition": "the location on a baseball field where the shortstop is stationed",
+      "decision": "gloss",
+      "simpleMeaning": "The spot on a baseball field between second and third base where a fielder stands.",
+      "scope": "This is the piece of ground, not the player's job.",
+      "examples": [
+        "The ball rolled through short and into the outfield.",
+        "He threw the ball to short from left field."
+      ],
+      "branchCoverage": [
+        "the location on a baseball field where the shortstop is stationed -> 'the spot on a baseball field between second and third base where a fielder stands'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short in this batch: adjective, lasting only a little time; adjective, not tall; noun, the baseball fielding job between second and third base; noun, the spot on the field where that fielder stands; verb, to cause an electrical fault.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%2:36:00::",
+      "lemma": "short",
+      "pos": "v",
+      "definition": "create a short circuit in",
+      "decision": "gloss",
+      "simpleMeaning": "To make electricity flow the wrong way through a device, so that it stops working or a fuse blows.",
+      "scope": "This is about an electrical fault, not about time or height.",
+      "examples": [
+        "Water got into the wires and shorted the machine.",
+        "The old lamp shorted and blew a fuse."
+      ],
+      "branchCoverage": [
+        "create a short circuit in -> 'make electricity flow the wrong way through a device'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "short in this batch: adjective, lasting only a little time; adjective, not tall; noun, the baseball fielding job between second and third base; noun, the spot on the field where that fielder stands; verb, to cause an electrical fault.",
+      "meaning": "To make electricity take an unintended shortcut, often blowing a fuse.",
+      "verdict": "self-approved",
+      "reviewerNote": "Misstates short circuit as reversed current 'through a device'; use 'To make electricity take an unintended shortcut, often blowing a fuse.'"
+    },
+    {
+      "senseId": "age%1:28:00::",
+      "lemma": "age",
+      "pos": "n",
+      "definition": "a time of life (usually defined in years) at which some particular qualification or power arises",
+      "decision": "gloss",
+      "simpleMeaning": "The number of years someone must reach before they can do or get something.",
+      "scope": "This is a required number of years, not how old someone is in general or a long period of history.",
+      "examples": [
+        "In this country, the voting age is eighteen.",
+        "You must be of retirement age to receive the full pension."
+      ],
+      "branchCoverage": [
+        "a time of life (usually defined in years) at which some particular qualification or power arises -> 'the number of years someone must reach before they can do or get something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "deal%2:31:10::",
+      "lemma": "deal",
+      "pos": "v",
+      "definition": "take into consideration for exemplifying purposes",
+      "decision": "gloss",
+      "simpleMeaning": "To think about a case or subject as an example of something.",
+      "scope": "This is about using one case as an example, not about presenting a subject in a book or film or about sharing out cards.",
+      "examples": [
+        "Let us deal with the simplest case first.",
+        "She dealt with the village as an example of the whole region."
+      ],
+      "branchCoverage": [
+        "take into consideration for exemplifying purposes -> 'think about a case or subject as an example of something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deal in this batch: verb, to think about a case as an example; verb, to present a subject in speech, writing, or art.",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 1 'chapter deals with' is the presentation sense and contradicts scope; use 'Take the case of one small village as an example.'"
+    },
+    {
+      "senseId": "deal%2:32:08::",
+      "lemma": "deal",
+      "pos": "v",
+      "definition": "act on verbally or in some form of artistic expression",
+      "decision": "gloss",
+      "simpleMeaning": "To talk about or show a subject in speech, writing, film, or another art form.",
+      "scope": "This is about presenting a subject in words or art, not about using a case as an example or making a business agreement.",
+      "examples": [
+        "The film deals with life in a small fishing town.",
+        "Her poems deal with love and loss."
+      ],
+      "branchCoverage": [
+        "act on verbally or in some form of artistic expression -> 'talk about or show a subject in speech, writing, film, or another art form'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "deal in this batch: verb, to think about a case as an example; verb, to present a subject in speech, writing, or art.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reason%1:09:00::",
+      "lemma": "reason",
+      "pos": "n",
+      "definition": "the capacity for rational thought or inference or discrimination",
+      "decision": "gloss",
+      "simpleMeaning": "The ability to think clearly and make sensible judgments.",
+      "scope": "This is the mental ability, not the explanation for why something happened.",
+      "examples": [
+        "Humans are believed to be the only animals with reason.",
+        "He lost the power of reason after the accident."
+      ],
+      "branchCoverage": [
+        "the capacity for rational thought or inference or discrimination -> 'the ability to think clearly and make sensible judgments'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reason in this batch: noun, the ability to think clearly; noun, a fact that explains a belief or action; verb, to reach a conclusion by thinking; verb, to present arguments in order to persuade.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reason%1:16:00::",
+      "lemma": "reason",
+      "pos": "n",
+      "definition": "a rational motive for a belief or action",
+      "decision": "gloss",
+      "simpleMeaning": "A fact or idea that explains why someone believes or does something.",
+      "scope": "This is the explanation for something, not the ability to think.",
+      "examples": [
+        "What is the reason for your decision?",
+        "She gave no reason for being late."
+      ],
+      "branchCoverage": [
+        "a rational motive for a belief or action -> 'a fact or idea that explains why someone believes or does something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reason in this batch: noun, the ability to think clearly; noun, a fact that explains a belief or action; verb, to reach a conclusion by thinking; verb, to present arguments in order to persuade.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reason%2:31:01::",
+      "lemma": "reason",
+      "pos": "v",
+      "definition": "decide by reasoning; draw or come to a conclusion",
+      "decision": "gloss",
+      "simpleMeaning": "To work out an answer or judgment by thinking carefully step by step.",
+      "scope": "This is about reaching a conclusion in your mind, not about giving spoken arguments for it.",
+      "examples": [
+        "He reasoned that the train must have been delayed by snow.",
+        "She reasoned carefully before choosing the cheaper plan."
+      ],
+      "branchCoverage": [
+        "decide by reasoning -> 'work out an answer or judgment by thinking carefully step by step'",
+        "draw or come to a conclusion -> 'work out an answer or judgment'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reason in this batch: noun, the ability to think clearly; noun, a fact that explains a belief or action; verb, to reach a conclusion by thinking; verb, to present arguments in order to persuade.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reason%2:32:00::",
+      "lemma": "reason",
+      "pos": "v",
+      "definition": "present reasons and arguments",
+      "decision": "gloss",
+      "simpleMeaning": "To give spoken or written points in order to persuade someone.",
+      "scope": "This is about arguing your case to others, not about working out a conclusion alone.",
+      "examples": [
+        "He reasoned with the manager, hoping to change her mind.",
+        "She reasoned calmly with the angry customer."
+      ],
+      "branchCoverage": [
+        "present reasons and arguments -> 'give spoken or written points in order to persuade someone'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "reason in this batch: noun, the ability to think clearly; noun, a fact that explains a belief or action; verb, to reach a conclusion by thinking; verb, to present arguments in order to persuade.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "red%1:18:00::",
+      "lemma": "red",
+      "pos": "n",
+      "definition": "emotionally charged terms used to refer to extreme radicals or revolutionaries",
+      "decision": "gloss",
+      "simpleMeaning": "A strongly emotional label for someone with extreme political views, especially a communist or revolutionary.",
+      "scope": "This is a political label for a person, not the colour or a type of wine.",
+      "examples": [
+        "In the 1950s, some politicians called their opponents reds.",
+        "The newspaper described the protesters as reds."
+      ],
+      "branchCoverage": [
+        "emotionally charged terms used to refer to extreme radicals or revolutionaries -> 'strongly emotional label for someone with extreme political views, especially a communist or revolutionary'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

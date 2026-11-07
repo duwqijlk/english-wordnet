@@ -1,0 +1,976 @@
+{
+  "schema": "oewn-gloss-batch-v2",
+  "batch": 3,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 100,
+  "senses": [
+    {
+      "senseId": "love%1:12:00::",
+      "lemma": "love",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a strong positive emotion of regard and affection",
+      "synsetId": "07558676-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 170,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a strong positive emotion of regard and affection"
+      ]
+    },
+    {
+      "senseId": "man%1:05:01::",
+      "lemma": "man",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage",
+      "synsetId": "02474924-n",
+      "words": 18,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 171,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+      ]
+    },
+    {
+      "senseId": "home%3:01:00::",
+      "lemma": "home",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "relating to or being where one lives or where one's roots are",
+      "synsetId": "02753598-a",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 172,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "relating to or being where one lives or where one's roots are"
+      ]
+    },
+    {
+      "senseId": "long%3:00:02::",
+      "lemma": "long",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified",
+      "synsetId": "01440837-a",
+      "words": 23,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 173,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "primarily temporal sense",
+        "being or indicating a relatively great or greater than average duration or passage of time or a duration as specified"
+      ]
+    },
+    {
+      "senseId": "long%3:00:01::",
+      "lemma": "long",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified",
+      "synsetId": "01436368-a",
+      "words": 16,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 173,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "primarily spatial sense",
+        "of relatively great or greater than average spatial extension or extension as specified"
+      ]
+    },
+    {
+      "senseId": "long%2:37:02::",
+      "lemma": "long",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "desire strongly or persistently",
+      "synsetId": "01832347-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 173,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "desire strongly or persistently"
+      ]
+    },
+    {
+      "senseId": "look%1:04:00::",
+      "lemma": "look",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of directing the eyes toward something and perceiving it visually; look",
+      "synsetId": "00878805-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 174,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the act of directing the eyes toward something and perceiving it visually",
+        "look"
+      ]
+    },
+    {
+      "senseId": "look%2:39:00::",
+      "lemma": "look",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "perceive with attention; direct one's gaze towards; look",
+      "synsetId": "02134989-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 174,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "perceive with attention",
+        "direct one's gaze towards",
+        "look"
+      ]
+    },
+    {
+      "senseId": "use%2:34:02::",
+      "lemma": "use",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "take or consume (regularly or habitually)",
+      "synsetId": "01167359-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 176,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "take or consume (regularly or habitually)"
+      ]
+    },
+    {
+      "senseId": "use%2:41:14::",
+      "lemma": "use",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "seek or achieve an end by using to one's advantage",
+      "synsetId": "02606487-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 176,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "seek or achieve an end by using to one's advantage"
+      ]
+    },
+    {
+      "senseId": "same%3:00:00::",
+      "lemma": "same",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "closely similar or comparable in kind or quality or quantity or degree",
+      "synsetId": "02070074-a",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 177,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "closely similar or comparable in kind or quality or quantity or degree"
+      ]
+    },
+    {
+      "senseId": "every%5:00:00:all:00",
+      "lemma": "every",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(used of count nouns) each and all of the members of a group considered singly and without exception",
+      "synsetId": "02277553-s",
+      "words": 18,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 180,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(used of count nouns) each and all of the members of a group considered singly and without exception"
+      ]
+    },
+    {
+      "senseId": "every%5:00:02:all:00",
+      "lemma": "every",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "each and all of a series of entities or intervals as specified",
+      "synsetId": "02277945-s",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 180,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "each and all of a series of entities or intervals as specified"
+      ]
+    },
+    {
+      "senseId": "come%1:08:00::",
+      "lemma": "come",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the thick white fluid containing spermatozoa that is ejaculated by the male genital tract",
+      "synsetId": "05411679-n",
+      "words": 14,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 182,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the thick white fluid containing spermatozoa that is ejaculated by the male genital tract"
+      ]
+    },
+    {
+      "senseId": "state%1:15:01::",
+      "lemma": "state",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the territory occupied by one of the constituent administrative districts of a nation",
+      "synsetId": "08671935-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 184,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the territory occupied by one of the constituent administrative districts of a nation"
+      ]
+    },
+    {
+      "senseId": "state%2:32:02::",
+      "lemma": "state",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "indicate through a symbol, formula, etc.",
+      "synsetId": "01063503-v",
+      "words": 6,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 184,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "indicate through a symbol, formula, etc"
+      ]
+    },
+    {
+      "senseId": "state%1:14:01::",
+      "lemma": "state",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the group of people comprising the government of a sovereign state",
+      "synsetId": "08195465-n",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 184,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the group of people comprising the government of a sovereign state"
+      ]
+    },
+    {
+      "senseId": "three%1:06:00::",
+      "lemma": "three",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "one of four playing cards in a deck having three pips",
+      "synsetId": "04487671-n",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 185,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "one of four playing cards in a deck having three pips"
+      ]
+    },
+    {
+      "senseId": "between%4:02:00::",
+      "lemma": "between",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "in between",
+      "synsetId": "00252367-r",
+      "words": 2,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 187,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "in between"
+      ]
+    },
+    {
+      "senseId": "better%3:00:00::",
+      "lemma": "better",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(comparative of ‘good’) superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability; more highly skilled than another",
+      "synsetId": "00231927-a",
+      "words": 27,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 189,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(comparative of ‘good’) superior to another (of the same class or set or kind) in excellence or quality or desirability or suitability",
+        "more highly skilled than another"
+      ]
+    },
+    {
+      "senseId": "better%5:00:00:advisable:00",
+      "lemma": "better",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(comparative and superlative of ‘well’) wiser or more advantageous and hence advisable",
+      "synsetId": "00067988-s",
+      "words": 12,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 189,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(comparative and superlative of ‘well’) wiser or more advantageous and hence advisable"
+      ]
+    },
+    {
+      "senseId": "better%4:02:00::",
+      "lemma": "better",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "comparative of ‘well’; in a better or more excellent manner or more advantageously or attractively or to a greater degree etc.",
+      "synsetId": "00060145-r",
+      "words": 21,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 189,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "comparative of ‘well’",
+        "in a better or more excellent manner or more advantageously or attractively or to a greater degree etc"
+      ]
+    },
+    {
+      "senseId": "better%3:00:02::",
+      "lemma": "better",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(comparative of ‘good’) changed for the better in health or fitness",
+      "synsetId": "00233353-a",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 189,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(comparative of ‘good’) changed for the better in health or fitness"
+      ]
+    },
+    {
+      "senseId": "better%2:30:00::",
+      "lemma": "better",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "get better",
+      "synsetId": "00205454-v",
+      "words": 2,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 189,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "get better"
+      ]
+    },
+    {
+      "senseId": "better%2:30:01::",
+      "lemma": "better",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "to make better",
+      "synsetId": "00206293-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 189,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "to make better"
+      ]
+    },
+    {
+      "senseId": "find%2:39:02::",
+      "lemma": "find",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "discover or determine the existence, presence, or fact of by perception with the eyes",
+      "synsetId": "02158938-v",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 190,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "discover or determine the existence, presence, or fact of by perception with the eyes"
+      ]
+    },
+    {
+      "senseId": "help%1:04:00::",
+      "lemma": "help",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose",
+      "synsetId": "01210099-n",
+      "words": 17,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 191,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the activity of contributing to the fulfillment of a need or furtherance of an effort or purpose"
+      ]
+    },
+    {
+      "senseId": "help%1:18:00::",
+      "lemma": "help",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose",
+      "synsetId": "09835195-n",
+      "words": 17,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 191,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a person who contributes to the fulfillment of a need or furtherance of an effort or purpose"
+      ]
+    },
+    {
+      "senseId": "high%3:00:01::",
+      "lemma": "high",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(literal meaning) being at or having a relatively great or specific elevation or upward extension (sometimes used in combinations like ‘knee-high’)",
+      "synsetId": "01207229-a",
+      "words": 22,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 192,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(literal meaning) being at or having a relatively great or specific elevation or upward extension (sometimes used in combinations like ‘knee-high’)"
+      ]
+    },
+    {
+      "senseId": "little%3:00:01::",
+      "lemma": "little",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "limited or below average in number or quantity or magnitude or extent",
+      "synsetId": "01394303-a",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 193,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "limited or below average in number or quantity or magnitude or extent"
+      ]
+    },
+    {
+      "senseId": "little%3:00:03::",
+      "lemma": "little",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with ‘a’) at least some",
+      "synsetId": "01558903-a",
+      "words": 21,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 193,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(quantifier used with mass nouns) small in quantity or degree",
+        "not much or almost none or (with ‘a’) at least some"
+      ]
+    },
+    {
+      "senseId": "old%3:00:02::",
+      "lemma": "old",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(used especially of persons) having lived for a relatively long time or attained a specific age",
+      "synsetId": "01648062-a",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 194,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(used especially of persons) having lived for a relatively long time or attained a specific age"
+      ]
+    },
+    {
+      "senseId": "another%5:00:00:other:00",
+      "lemma": "another",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "any of various alternatives; some other; entity, singular, other pronoun; quantifier, singular, another",
+      "synsetId": "02077592-s",
+      "words": 13,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 196,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "any of various alternatives",
+        "some other",
+        "entity, singular, other pronoun",
+        "quantifier, singular, another"
+      ]
+    },
+    {
+      "senseId": "own%5:00:00:personal:00",
+      "lemma": "own",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "belonging to or on behalf of a specified person (especially yourself); preceded by a possessive",
+      "synsetId": "01773236-s",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 198,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "belonging to or on behalf of a specified person (especially yourself)",
+        "preceded by a possessive"
+      ]
+    },
+    {
+      "senseId": "things%1:21:00::",
+      "lemma": "things",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any movable possession (especially articles of clothing)",
+      "synsetId": "13267231-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 199,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "any movable possession (especially articles of clothing)"
+      ]
+    },
+    {
+      "senseId": "give%1:07:00::",
+      "lemma": "give",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the elasticity of something that can be stretched and returns to its original length",
+      "synsetId": "05028317-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 204,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the elasticity of something that can be stretched and returns to its original length"
+      ]
+    },
+    {
+      "senseId": "give%2:40:00::",
+      "lemma": "give",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "transfer possession of something concrete or abstract to somebody",
+      "synsetId": "02204104-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 204,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "transfer possession of something concrete or abstract to somebody"
+      ]
+    },
+    {
+      "senseId": "house%1:06:00::",
+      "lemma": "house",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a dwelling that serves as living quarters for one or more families",
+      "synsetId": "03549540-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 205,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a dwelling that serves as living quarters for one or more families"
+      ]
+    },
+    {
+      "senseId": "house%1:14:01::",
+      "lemma": "house",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the members of a business organization that owns or operates one or more establishments",
+      "synsetId": "08076706-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 205,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the members of a business organization that owns or operates one or more establishments"
+      ]
+    },
+    {
+      "senseId": "place%2:31:01::",
+      "lemma": "place",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "assign a rank or rating to",
+      "synsetId": "00659723-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 206,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "assign a rank or rating to"
+      ]
+    },
+    {
+      "senseId": "place%2:35:00::",
+      "lemma": "place",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "put into a certain place or abstract location",
+      "synsetId": "01496967-v",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 206,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "put into a certain place or abstract location"
+      ]
+    },
+    {
+      "senseId": "place%2:41:01::",
+      "lemma": "place",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "place somebody in a particular situation or location",
+      "synsetId": "02397904-v",
+      "words": 8,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 206,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "place somebody in a particular situation or location"
+      ]
+    },
+    {
+      "senseId": "school%2:41:02::",
+      "lemma": "school",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "teach or refine to be discriminative in taste or judgment",
+      "synsetId": "02393545-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 207,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "teach or refine to be discriminative in taste or judgment"
+      ]
+    },
+    {
+      "senseId": "school%1:09:00::",
+      "lemma": "school",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the process of being formally educated at a school",
+      "synsetId": "05765533-n",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 207,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the process of being formally educated at a school"
+      ]
+    },
+    {
+      "senseId": "school%2:41:01::",
+      "lemma": "school",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "educate in or as if in a school",
+      "synsetId": "02393052-v",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 207,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "educate in or as if in a school"
+      ]
+    },
+    {
+      "senseId": "next%5:00:00:close:01",
+      "lemma": "next",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "nearest in space or position; immediately adjoining without intervening space",
+      "synsetId": "00449506-s",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 209,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "nearest in space or position",
+        "immediately adjoining without intervening space"
+      ]
+    },
+    {
+      "senseId": "next%5:00:00:incoming:00",
+      "lemma": "next",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(of elected officers) elected but not yet serving",
+      "synsetId": "01298098-s",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 209,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(of elected officers) elected but not yet serving"
+      ]
+    },
+    {
+      "senseId": "each%5:00:00:all:00",
+      "lemma": "each",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(used of count nouns) every one considered individually; quantifier, singular, universal pronoun; quantifier, singular, universal",
+      "synsetId": "02277394-s",
+      "words": 15,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 210,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(used of count nouns) every one considered individually",
+        "quantifier, singular, universal pronoun",
+        "quantifier, singular, universal"
+      ]
+    },
+    {
+      "senseId": "end%2:42:00::",
+      "lemma": "end",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",
+      "synsetId": "02615799-v",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 214,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "have an end, in a temporal, spatial, or quantitative sense",
+        "either spatial or metaphorical"
+      ]
+    },
+    {
+      "senseId": "found%2:31:00::",
+      "lemma": "found",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "use as a basis for; found on",
+      "synsetId": "00638550-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 215,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "use as a basis for",
+        "found on"
+      ]
+    }
+  ]
+}

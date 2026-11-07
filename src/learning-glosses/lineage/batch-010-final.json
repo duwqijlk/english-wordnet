@@ -1,0 +1,998 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 10,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 47,
+      "of": 50,
+      "rate": 0.94
+    },
+    "selfApproved": [
+      "development%1:04:01::",
+      "child%1:18:06::",
+      "quite%4:02:03::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "0201e39148b57f71a090d4bc6c3096d1fa40ecb1b7cacc2c4de5ee71ede512e6"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "red%5:00:01:chromatic:00",
+      "lemma": "red",
+      "pos": "a",
+      "definition": "of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies",
+      "decision": "gloss",
+      "simpleMeaning": "having the warm color at one end of the rainbow, next to orange, like blood or a ripe tomato.",
+      "scope": "It does not name the color as a thing, describe a face flushed with feeling, or mean a political label.",
+      "examples": [
+        "She wore a red coat to the party.",
+        "The red light means you must stop."
+      ],
+      "branchCoverage": [
+        "of a color at the end of the color spectrum (next to orange) -> the warm color at one end of the rainbow, next to orange",
+        "resembling the color of blood or cherries or tomatoes or rubies -> like blood or a ripe tomato"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "red (adj, color): having the color itself; red (n): the color as a thing or coloring substance; red (adj, face): only a face made pink by feeling or effort.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "red%1:07:00::",
+      "lemma": "red",
+      "pos": "n",
+      "definition": "red color or pigment; the chromatic color resembling the hue of blood",
+      "decision": "gloss",
+      "simpleMeaning": "a bright color like blood or fire, also used as a coloring substance.",
+      "scope": "It is not the adjective that describes an object's color, and it is not a face turned pink by strong feeling.",
+      "examples": [
+        "Red is my favorite color.",
+        "The walls were painted a deep red."
+      ],
+      "branchCoverage": [
+        "red color or pigment -> a bright color used as a coloring substance",
+        "the chromatic color resembling the hue of blood -> like blood or fire"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "red (adj, color): having the color itself; red (n): the color as a thing or coloring substance; red (adj, face): only a face made pink by feeling or effort.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "red%5:00:00:colored:00",
+      "lemma": "red",
+      "pos": "a",
+      "definition": "(especially of the face) reddened or suffused with or as if with blood from emotion or exertion",
+      "decision": "gloss",
+      "simpleMeaning": "having a hot, pink face because of strong feeling, hard work, or shyness.",
+      "scope": "It does not describe the color of an object or name the color itself; it describes only a person's face.",
+      "examples": [
+        "His face was red with anger after the argument.",
+        "She turned red when the teacher praised her."
+      ],
+      "branchCoverage": [
+        "(especially of the face) reddened or suffused with or as if with blood from emotion or exertion -> a hot, pink face caused by strong feeling, hard work, or shyness"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "red (adj, color): having the color itself; red (n): the color as a thing or coloring substance; red (adj, face): only a face made pink by feeling or effort.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "report%1:10:03::",
+      "lemma": "report",
+      "pos": "n",
+      "definition": "a written document describing the findings of some individual or group",
+      "decision": "gloss",
+      "simpleMeaning": "a written text that describes what someone has found out or studied.",
+      "scope": "It is not the spoken act of telling people information, and it is not a loud noise.",
+      "examples": [
+        "The scientists published a report on the water quality.",
+        "I have to finish my report for history class by Friday."
+      ],
+      "branchCoverage": [
+        "a written document describing the findings of some individual or group -> a written text describing what someone has found out or studied"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "report (n, written): a written text of findings; report (n, spoken act): the act of telling information aloud.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "report%1:10:01::",
+      "lemma": "report",
+      "pos": "n",
+      "definition": "the act of informing by verbal report",
+      "decision": "gloss",
+      "simpleMeaning": "the act of telling people information by speaking.",
+      "scope": "It is not a written document with findings, and it is not a sudden loud noise.",
+      "examples": [
+        "The witness gave a verbal report in court.",
+        "We listened to his report of the meeting."
+      ],
+      "branchCoverage": [
+        "the act of informing by verbal report -> the act of telling people information by speaking"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "report (n, written): a written text of findings; report (n, spoken act): the act of telling information aloud.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "third%1:04:00::",
+      "lemma": "third",
+      "pos": "n",
+      "definition": "the fielding position of the player on a baseball team who is stationed near the third of the bases in the infield (counting counterclockwise from home plate)",
+      "decision": "gloss",
+      "simpleMeaning": "the job of the baseball player who guards the base on the far side of the infield, three bases around from home plate.",
+      "scope": "It is not the adverb for coming after the first two, and it is not a share of something divided into three.",
+      "examples": [
+        "He plays third for the school baseball team.",
+        "Third is a hard position for a beginner to learn."
+      ],
+      "branchCoverage": [
+        "the fielding position of the player on a baseball team who is stationed near the third of the bases in the infield (counting counterclockwise from home plate) -> the job of the baseball player who guards the base on the far side of the infield, three bases around from home plate"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "third (n, baseball): the fielding position near the far base; third (adv): coming after the first two in order or rank.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "third%4:02:00::",
+      "lemma": "third",
+      "pos": "r",
+      "definition": "in the third place",
+      "decision": "gloss",
+      "simpleMeaning": "in the position that comes after the first two.",
+      "scope": "It is not the baseball fielding position, and it is not a share of something divided into three.",
+      "examples": [
+        "She finished third in the race.",
+        "Our team came third in the competition."
+      ],
+      "branchCoverage": [
+        "in the third place -> in the position that comes after the first two"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "third (n, baseball): the fielding position near the far base; third (adv): coming after the first two in order or rank.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "turn%1:25:00::",
+      "lemma": "turn",
+      "pos": "n",
+      "definition": "a circular segment of a curve",
+      "decision": "gloss",
+      "simpleMeaning": "a bend or curve in a road, path, or line.",
+      "scope": "It is not the act of rotating something, and it is not a person's chance to do something.",
+      "examples": [
+        "The road makes a sharp turn near the river.",
+        "We lost sight of the car after the turn in the path."
+      ],
+      "branchCoverage": [
+        "a circular segment of a curve -> a bend or curve in a road, path, or line"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%2:31:00::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "examine so as to determine accuracy, quality, or condition",
+      "decision": "gloss",
+      "simpleMeaning": "to look at something carefully to see if it is correct, of good quality, or in good condition.",
+      "scope": "It is not to stop something from happening, and it is not to leave your bags at a desk.",
+      "examples": [
+        "Please check the figures before you send the bill.",
+        "The nurse checked his blood pressure."
+      ],
+      "branchCoverage": [
+        "examine so as to determine accuracy, quality, or condition -> look carefully to see if something is correct, of good quality, or in good condition"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "development%1:04:01::",
+      "lemma": "development",
+      "pos": "n",
+      "definition": "act of improving by expanding or enlarging or refining",
+      "decision": "gloss",
+      "simpleMeaning": "the work of making something better by making it bigger or more detailed.",
+      "scope": "It is not the slow natural process of growing or changing, and it is not a group of new buildings.",
+      "examples": [
+        "The development of the new software required a large team.",
+        "The company spends a lot on the development of its products."
+      ],
+      "branchCoverage": [
+        "act of improving by expanding or enlarging or refining -> the work of making something better by making it bigger or more detailed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "development (n, effort): deliberate work of improving by adding or refining; development (n, process): gradual change to a later stage.",
+      "meaning": "the work of making something better by making it bigger or improving it little by little.",
+      "verdict": "self-approved",
+      "reviewerNote": "'More detailed' narrows 'refining'; use 'the work of making something better by making it bigger or improving it little by little.'"
+    },
+    {
+      "senseId": "development%1:22:02::",
+      "lemma": "development",
+      "pos": "n",
+      "definition": "a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)",
+      "decision": "gloss",
+      "simpleMeaning": "the slow process by which something changes and grows into a later or more advanced state.",
+      "scope": "It is not the deliberate work of improving a product, and it is not a group of new buildings.",
+      "examples": [
+        "The development of a child's language skills takes years.",
+        "We watched the development of the storm from the shore."
+      ],
+      "branchCoverage": [
+        "a process in which something passes by degrees to a different stage (especially a more advanced or mature stage) -> the slow process by which something changes and grows into a later or more advanced state"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "development (n, effort): deliberate work of improving by adding or refining; development (n, process): gradual change to a later stage.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "form%1:09:01::",
+      "lemma": "form",
+      "pos": "n",
+      "definition": "a category of things distinguished by some common characteristic or quality",
+      "decision": "gloss",
+      "simpleMeaning": "a type or kind of thing that shares a certain feature.",
+      "scope": "It is not the shape or outline of something, and it is not a paper with spaces to fill in.",
+      "examples": [
+        "Music is a form of art that many people enjoy.",
+        "The disease appears in several different forms."
+      ],
+      "branchCoverage": [
+        "a category of things distinguished by some common characteristic or quality -> a type or kind of thing that shares a certain feature"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "further%4:02:02::",
+      "lemma": "further",
+      "pos": "r",
+      "definition": "to or at a greater extent or degree or a more advanced stage (‘further’ is used more often than ‘farther’ in this abstract sense)",
+      "decision": "gloss",
+      "simpleMeaning": "to a larger degree or a more advanced point.",
+      "scope": "It is not a greater physical distance, and it is not used to add a separate point.",
+      "examples": [
+        "We need to discuss this further before we decide.",
+        "Her career went further than anyone expected."
+      ],
+      "branchCoverage": [
+        "to or at a greater extent or degree or a more advanced stage (‘further’ is used more often than ‘farther’ in this abstract sense) -> to a larger degree or a more advanced point; the comparison with ‘farther’ is declared as a usage label"
+      ],
+      "labelBranches": [
+        "‘further’ is used more often than ‘farther’ in this abstract sense"
+      ],
+      "lemmaPartition": "further (adv, degree): to a greater degree or point; further (adv, distance): at a greater distance in space or time; further (adv, addition): adding another point.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "further%4:02:00::",
+      "lemma": "further",
+      "pos": "r",
+      "definition": "to or at a greater distance in time or space (‘farther’ is used more frequently than ‘further’ in this physical sense)",
+      "decision": "gloss",
+      "simpleMeaning": "at or to a greater distance in space or time.",
+      "scope": "It is not a greater degree of something, and it is not used to add another point.",
+      "examples": [
+        "We walked further down the road than we meant to.",
+        "The village is further from the city than I thought."
+      ],
+      "branchCoverage": [
+        "to or at a greater distance in time or space (‘farther’ is used more frequently than ‘further’ in this physical sense) -> at or to a greater distance in space or time; the comparison with ‘farther’ is declared as a usage label"
+      ],
+      "labelBranches": [
+        "‘farther’ is used more frequently than ‘further’ in this physical sense"
+      ],
+      "lemmaPartition": "further (adv, degree): to a greater degree or point; further (adv, distance): at a greater distance in space or time; further (adv, addition): adding another point.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "further%4:02:03::",
+      "lemma": "further",
+      "pos": "r",
+      "definition": "in addition or furthermore",
+      "decision": "gloss",
+      "simpleMeaning": "used to add another point or fact to what has been said.",
+      "scope": "It is not a greater distance, and it is not a greater degree of something.",
+      "examples": [
+        "The rent is high; further, the flat is very small.",
+        "Further, we must consider the cost of repairs."
+      ],
+      "branchCoverage": [
+        "in addition or furthermore -> used to add another point or fact to what has been said"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "further (adv, degree): to a greater degree or point; further (adv, distance): at a greater distance in space or time; further (adv, addition): adding another point.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "heart%1:08:00::",
+      "lemma": "heart",
+      "pos": "n",
+      "definition": "the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body",
+      "decision": "gloss",
+      "simpleMeaning": "the hollow muscle in the chest, behind the breastbone and between the lungs, that beats and pumps blood around the body.",
+      "scope": "It is not the center of a person's feelings, and it is not the middle part of something.",
+      "examples": [
+        "His heart was beating fast after the run.",
+        "The doctor listened to her heart."
+      ],
+      "branchCoverage": [
+        "the hollow muscular organ located behind the sternum and between the lungs -> the hollow muscle in the chest, behind the breastbone and between the lungs",
+        "its rhythmic contractions move the blood through the body -> it beats and pumps blood around the body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "services%1:04:00::",
+      "lemma": "services",
+      "pos": "n",
+      "definition": "performance of duties or provision of space and equipment helpful to others",
+      "decision": "gloss",
+      "simpleMeaning": "work done to help other people, or the supplying of space and equipment for their benefit.",
+      "scope": "It is not a religious ceremony, and it is not the armed forces.",
+      "examples": [
+        "The hotel offers good services to its guests.",
+        "The company provides cleaning services to local offices."
+      ],
+      "branchCoverage": [
+        "performance of duties or provision of space and equipment helpful to others -> work done to help other people, or the supplying of space and equipment for their benefit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "act%2:29:00::",
+      "lemma": "act",
+      "pos": "v",
+      "definition": "behave in a certain manner; show a certain behavior; conduct or comport oneself",
+      "decision": "gloss",
+      "simpleMeaning": "to do things in a particular way and show that behavior to others.",
+      "scope": "It is not to perform a role in a play, and it is not just to take action.",
+      "examples": [
+        "He acted as if nothing had happened.",
+        "The children acted very politely at the party."
+      ],
+      "branchCoverage": [
+        "behave in a certain manner -> do things in a particular way",
+        "show a certain behavior -> show that behavior to others",
+        "conduct or comport oneself -> do things in a particular way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "act (v): to do things in a certain way; act (n): one main part of a play, opera, or ballet.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "act%1:10:00::",
+      "lemma": "act",
+      "pos": "n",
+      "definition": "a subdivision of a play or opera or ballet",
+      "decision": "gloss",
+      "simpleMeaning": "one of the main parts of a play, opera, or ballet.",
+      "scope": "It is not a single thing that someone does, and it is not a law passed by a government.",
+      "examples": [
+        "The play has three acts.",
+        "The famous scene comes at the end of the second act."
+      ],
+      "branchCoverage": [
+        "a subdivision of a play or opera or ballet -> one of the main parts of a play, opera, or ballet"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "act (v): to do things in a certain way; act (n): one main part of a play, opera, or ballet.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "child%1:18:06::",
+      "lemma": "child",
+      "pos": "n",
+      "definition": "an immature childish person",
+      "decision": "gloss",
+      "simpleMeaning": "a person who behaves in a silly way, like a young person who has not grown up.",
+      "scope": "It is not a young person by age, and it is not someone's son or daughter.",
+      "examples": [
+        "Stop being such a child and take responsibility.",
+        "He called his brother a child for crying over a game."
+      ],
+      "branchCoverage": [
+        "an immature childish person -> a person who behaves in a silly way, like a young person who has not grown up"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "a person who acts foolishly, as if much younger than they are.",
+      "verdict": "self-approved",
+      "reviewerNote": "'Silly way' narrows immaturity and the tail restates the literal child. Use: 'a person who acts foolishly, as if much younger than they are.'"
+    },
+    {
+      "senseId": "fire%1:22:00::",
+      "lemma": "fire",
+      "pos": "n",
+      "definition": "the process of combustion of inflammable materials producing heat and light and (often) smoke",
+      "decision": "gloss",
+      "simpleMeaning": "the process in which material burns, giving heat, light, and often smoke.",
+      "scope": "It is not a shooting event, a dismissal from a job, or a burst of strong feeling.",
+      "examples": [
+        "We sat around the fire and told stories.",
+        "The fire destroyed the old barn."
+      ],
+      "branchCoverage": [
+        "the process of combustion of inflammable materials producing heat and light and (often) smoke -> the process in which material burns, giving heat, light, and often smoke"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fun%1:10:00::",
+      "lemma": "fun",
+      "pos": "n",
+      "definition": "verbal wit or mockery (often at another's expense but not to be taken seriously)",
+      "decision": "gloss",
+      "simpleMeaning": "jokes or playful teasing, often about another person, that are not meant to hurt anyone.",
+      "scope": "It is not enjoyment or pleasure in general, and it is not an activity that people enjoy.",
+      "examples": [
+        "He made fun of my new hat, but he was only joking.",
+        "Their fun at his expense upset him more than they knew."
+      ],
+      "branchCoverage": [
+        "verbal wit or mockery (often at another's expense but not to be taken seriously) -> jokes or playful teasing, often about another person, not meant to hurt anyone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "living%3:01:00::",
+      "lemma": "living",
+      "pos": "a",
+      "definition": "pertaining to living persons",
+      "decision": "gloss",
+      "simpleMeaning": "relating to people who are not dead.",
+      "scope": "It is not about the state of being alive, and it does not mean 'still in use' or 'true to life'.",
+      "examples": [
+        "The living members of the family gathered for a photo.",
+        "We must protect the rights of living artists."
+      ],
+      "branchCoverage": [
+        "pertaining to living persons -> relating to people who are not dead"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "living (adj): relating to people who are not dead; living (n, people): the people who are not dead; living (n, state): the state of not being dead.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "living%1:14:00::",
+      "lemma": "living",
+      "pos": "n",
+      "definition": "people who are still living",
+      "decision": "gloss",
+      "simpleMeaning": "the people who are not dead at a particular time.",
+      "scope": "It is not the state of being alive, and it is not the money someone earns to support themselves.",
+      "examples": [
+        "The living were moved to safer ground after the flood.",
+        "He is one of the greatest writers among the living."
+      ],
+      "branchCoverage": [
+        "people who are still living -> the people who are not dead at a particular time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "living (adj): relating to people who are not dead; living (n, people): the people who are not dead; living (n, state): the state of not being dead.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "living%1:26:00::",
+      "lemma": "living",
+      "pos": "n",
+      "definition": "the condition of living or the state of being alive",
+      "decision": "gloss",
+      "simpleMeaning": "the state of not being dead.",
+      "scope": "It is not the people who are alive, and it is not the money someone earns to support themselves.",
+      "examples": [
+        "Water and air are necessary for living.",
+        "She found real joy in living."
+      ],
+      "branchCoverage": [
+        "the condition of living or the state of being alive -> the state of not being dead"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "living (adj): relating to people who are not dead; living (n, people): the people who are not dead; living (n, state): the state of not being dead.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "major%3:00:06::",
+      "lemma": "major",
+      "pos": "a",
+      "definition": "of greater importance or stature or rank",
+      "decision": "gloss",
+      "simpleMeaning": "more important, more serious, or higher in rank than others.",
+      "scope": "It does not mean large in size, and it is not the musical term for a type of key; it describes importance, seriousness or rank.",
+      "examples": [
+        "The storm caused major damage across the coast.",
+        "She played a major role in the team's success."
+      ],
+      "branchCoverage": [
+        "of greater importance or stature or rank -> 'more important, more serious, or higher in rank than others'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "phone%1:06:00::",
+      "lemma": "phone",
+      "pos": "n",
+      "definition": "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds",
+      "decision": "gloss",
+      "simpleMeaning": "a device you use to talk to someone far away by sending sound through wires or radio signals.",
+      "scope": "It is not the small earpiece worn on or in the ear; it is the whole device used for making calls.",
+      "examples": [
+        "She picked up the phone and called her mother.",
+        "My phone battery died during the meeting."
+      ],
+      "branchCoverage": [
+        "electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds -> 'a device ... by sending sound through wires or radio signals'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "phone (n) has two senses in this batch: the whole device used to make calls (phone%1:06:00::) and the small earpiece worn over or in the ear (phone%1:06:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "phone%1:06:01::",
+      "lemma": "phone",
+      "pos": "n",
+      "definition": "electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear",
+      "decision": "gloss",
+      "simpleMeaning": "a small piece of equipment that turns electric signals into sound and is worn over or inside the ear.",
+      "scope": "It is not the whole calling device and not a loudspeaker for a room; it is only the small part that goes on or in the ear.",
+      "examples": [
+        "She wore a phone in one ear during the tour.",
+        "He pulled the phone from his ear when the music stopped."
+      ],
+      "branchCoverage": [
+        "electro-acoustic transducer for converting electric signals into sounds -> 'turns electric signals into sound'",
+        "it is held over or inserted into the ear -> 'worn over or inside the ear'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "phone (n) has two senses in this batch: the whole device used to make calls (phone%1:06:00::) and the small earpiece worn over or in the ear (phone%1:06:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "art%1:09:00::",
+      "lemma": "art",
+      "pos": "n",
+      "definition": "a superior skill that you can learn by study and practice and observation",
+      "decision": "gloss",
+      "simpleMeaning": "a high level of skill in doing something, gained through study, practice and careful watching.",
+      "scope": "It is not painting, drawing or other creative works, and not a school subject; it means a high level of skill in doing something.",
+      "examples": [
+        "Cooking well is an art that takes years to learn.",
+        "She has turned conversation into an art."
+      ],
+      "branchCoverage": [
+        "a superior skill that you can learn by study and practice and observation -> 'a high level of skill ... gained through study, practice and careful watching'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "building%1:06:00::",
+      "lemma": "building",
+      "pos": "n",
+      "definition": "a structure that has a roof and walls and stands more or less permanently in one place",
+      "decision": "gloss",
+      "simpleMeaning": "a structure with a roof and walls that stays in one place, such as a house, school or office.",
+      "scope": "It is not the work or business of constructing; it is the finished structure itself.",
+      "examples": [
+        "The building on the corner has been empty for years.",
+        "They walked into a tall building and took the lift to the top floor."
+      ],
+      "branchCoverage": [
+        "a structure that has a roof and walls and stands more or less permanently in one place -> 'a structure with a roof and walls that stays in one place'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "building (n) has two senses in this batch: the finished structure with roof and walls (building%1:06:00::) and the work or business of constructing and repairing structures (building%1:04:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "building%1:04:01::",
+      "lemma": "building",
+      "pos": "n",
+      "definition": "the commercial activity involved in repairing old structures or constructing new ones",
+      "decision": "gloss",
+      "simpleMeaning": "the business of putting up new structures and repairing old ones.",
+      "scope": "It is not a structure you can enter; it is the work and business of making or repairing structures.",
+      "examples": [
+        "He works in building, repairing old houses and putting up new ones.",
+        "The building of the new school will start in spring."
+      ],
+      "branchCoverage": [
+        "the commercial activity involved in repairing old structures or constructing new ones -> 'the business of putting up new structures and repairing old ones'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "building (n) has two senses in this batch: the finished structure with roof and walls (building%1:06:00::) and the work or business of constructing and repairing structures (building%1:04:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "easy%3:00:01::",
+      "lemma": "easy",
+      "pos": "a",
+      "definition": "posing no difficulty; requiring little effort",
+      "decision": "gloss",
+      "simpleMeaning": "not hard to do or understand and needing little work.",
+      "scope": "It is not about feeling calm or comfortable, and not the command to slow down; it describes work or a problem that is not hard.",
+      "examples": [
+        "The test was easy, so I finished in ten minutes.",
+        "This recipe is easy enough for a child to follow."
+      ],
+      "branchCoverage": [
+        "posing no difficulty -> 'not hard to do or understand'",
+        "requiring little effort -> 'needing little work'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "easy has two senses in this batch: the adjective for a task that is not hard (easy%3:00:01::) and the adverb for doing something calmly or without trouble (easy%4:02:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "easy%4:02:00::",
+      "lemma": "easy",
+      "pos": "r",
+      "definition": "in a relaxed manner; or without hardship",
+      "decision": "gloss",
+      "simpleMeaning": "in a calm, relaxed way, or without trouble or hardship.",
+      "scope": "It is not the adjective meaning 'not difficult'; it describes how something is done, calmly or without trouble.",
+      "examples": [
+        "Take it easy and don't work too hard this week.",
+        "You can rest easy now that the deadline has passed."
+      ],
+      "branchCoverage": [
+        "in a relaxed manner -> 'in a calm, relaxed way'",
+        "or without hardship -> 'or without trouble or hardship'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "easy has two senses in this batch: the adjective for a task that is not hard (easy%3:00:01::) and the adverb for doing something calmly or without trouble (easy%4:02:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "market%1:06:00::",
+      "lemma": "market",
+      "pos": "n",
+      "definition": "a marketplace where groceries are sold",
+      "decision": "gloss",
+      "simpleMeaning": "a place, often outdoors or in a hall, where people sell food and other goods from stalls.",
+      "scope": "It is not the idea of buying and selling in general, not the demand for a product, and not a shop; it is a place with stalls where food and goods are sold.",
+      "examples": [
+        "We bought fresh fish and vegetables at the market.",
+        "The market opens early on Saturday mornings."
+      ],
+      "branchCoverage": [
+        "a marketplace where groceries are sold -> 'a place ... where people sell food and other goods from stalls'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "near%5:00:00:artificial:00",
+      "lemma": "near",
+      "pos": "a",
+      "definition": "closely resembling the genuine article",
+      "decision": "gloss",
+      "simpleMeaning": "looking or seeming almost the same as the real thing.",
+      "scope": "It is not about distance in space or time, and not 'almost' before an adjective; it describes an imitation that looks very like the real thing.",
+      "examples": [
+        "The shop sells near copies of famous handbags.",
+        "Her voice is a near match for the singer on the record."
+      ],
+      "branchCoverage": [
+        "closely resembling the genuine article -> 'looking or seeming almost the same as the real thing'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "political%3:00:00::",
+      "lemma": "political",
+      "pos": "a",
+      "definition": "involving or characteristic of politics or parties or politicians",
+      "decision": "gloss",
+      "simpleMeaning": "about government and public affairs, especially the competition between parties and the people who lead them.",
+      "scope": "It is not about the profession or career of governing; it is about public life, party competition and the people involved.",
+      "examples": [
+        "The debate turned into a political argument between the two parties.",
+        "She has strong political views about taxes and health care."
+      ],
+      "branchCoverage": [
+        "involving or characteristic of politics or parties or politicians -> 'about government and public affairs, especially the competition between parties and the people who lead them'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "political (a) has two senses in this batch: broad public and party life (political%3:00:00::) and the profession or career of governing (political%3:01:02::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "political%3:01:02::",
+      "lemma": "political",
+      "pos": "a",
+      "definition": "of or relating to the profession of governing",
+      "decision": "gloss",
+      "simpleMeaning": "connected with the work of governing a country or region.",
+      "scope": "It is not about public debate or party competition; it is about the job and career of governing.",
+      "examples": [
+        "He spent thirty years in political office.",
+        "She is building a political career in local government."
+      ],
+      "branchCoverage": [
+        "of or relating to the profession of governing -> 'connected with the work of governing a country or region'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "political (a) has two senses in this batch: broad public and party life (political%3:00:00::) and the profession or career of governing (political%3:01:02::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "quite%4:02:03::",
+      "lemma": "quite",
+      "pos": "r",
+      "definition": "of an unusually noticeable or exceptional or remarkable kind (not used with a negative)",
+      "decision": "gloss",
+      "simpleMeaning": "used before 'a' and a noun to say someone or something is special, surprising or very noticeable, and it is never used in a negative sentence.",
+      "scope": "It is not the ordinary 'fairly' or 'completely' use of the word; it marks something as special or surprising.",
+      "examples": [
+        "Their new house is quite something.",
+        "That was quite a storm we had last night."
+      ],
+      "branchCoverage": [
+        "of an unusually noticeable or exceptional or remarkable kind (not used with a negative) -> 'special, surprising or very noticeable ... never used in a negative sentence'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "meaning": "used to say something is special, surprising, or very noticeable; not used negatively.",
+      "verdict": "self-approved",
+      "reviewerNote": "Drop false 'before a and a noun' rule ('quite something'). Say: 'used to say something is special, surprising or very noticeable; not used negatively.'"
+    },
+    {
+      "senseId": "six%1:06:00::",
+      "lemma": "six",
+      "pos": "n",
+      "definition": "a playing card or domino or die whose upward face shows six pips",
+      "decision": "gloss",
+      "simpleMeaning": "a playing card, domino or die with half a dozen dots on its top face.",
+      "scope": "It is not the number itself and not a group of that many things; it is a game piece that shows that many dots.",
+      "examples": [
+        "He played the six of hearts and won the trick.",
+        "She rolled a six and moved her counter forward."
+      ],
+      "branchCoverage": [
+        "a playing card or domino or die whose upward face shows six pips -> 'a playing card, domino or die with half a dozen dots on its top face'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "west%1:24:02::",
+      "lemma": "west",
+      "pos": "n",
+      "definition": "the direction corresponding to the westward cardinal compass point",
+      "decision": "gloss",
+      "simpleMeaning": "the direction you face when the sun goes down, or the way toward that side.",
+      "scope": "It is not the exact compass mark at 270 degrees and not the western part of a country; it is the general direction of sunset.",
+      "examples": [
+        "The sun sets in the west.",
+        "He looked to the west and saw dark clouds."
+      ],
+      "branchCoverage": [
+        "the direction corresponding to the westward cardinal compass point -> 'the direction you face when the sun goes down, or the way toward that side'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "west (n) has two senses in this batch: the general direction of sunset (west%1:24:02::) and the fixed compass mark at 270 degrees (west%1:24:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "west%1:24:00::",
+      "lemma": "west",
+      "pos": "n",
+      "definition": "the cardinal compass point that is at 270 degrees",
+      "decision": "gloss",
+      "simpleMeaning": "the mark on a compass that is exactly 270 degrees, one of the four main points.",
+      "scope": "It is not the general direction of sunset and not the western region of a country; it is the fixed 270-degree mark on a compass.",
+      "examples": [
+        "The pilot checked that west was exactly 270 degrees on the dial.",
+        "The four main points on the compass are north, east, south and west."
+      ],
+      "branchCoverage": [
+        "the cardinal compass point that is at 270 degrees -> 'the mark on a compass that is exactly 270 degrees, one of the four main points'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "west (n) has two senses in this batch: the general direction of sunset (west%1:24:02::) and the fixed compass mark at 270 degrees (west%1:24:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "according%5:00:00:accordant:00",
+      "lemma": "according",
+      "pos": "a",
+      "definition": "(followed by ‘to’) in agreement with or accordant with",
+      "decision": "gloss",
+      "simpleMeaning": "in agreement with something or matching it; it is always followed by 'to'.",
+      "scope": "It is not the phrase used to name the person who said something; it means matching a plan, rule or agreement.",
+      "examples": [
+        "Everything went according to plan.",
+        "She acted according to the rules."
+      ],
+      "branchCoverage": [
+        "(followed by ‘to’) in agreement with or accordant with -> 'in agreement with something or matching it; it is always followed by to'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "education%1:04:00::",
+      "lemma": "education",
+      "pos": "n",
+      "definition": "the activities of educating or instructing; activities that impart knowledge or skill",
+      "decision": "gloss",
+      "simpleMeaning": "the work of teaching people and giving them knowledge or skills.",
+      "scope": "It is not a single lesson and not a school or university as a place; it is the activity of teaching and learning.",
+      "examples": [
+        "She works in education, teaching science at a secondary school.",
+        "The government spends more on education than on defence."
+      ],
+      "branchCoverage": [
+        "the activities of educating or instructing -> 'the work of teaching people'",
+        "activities that impart knowledge or skill -> 'giving them knowledge or skills'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "final%1:11:00::",
+      "lemma": "final",
+      "pos": "n",
+      "definition": "the final match between the winners of all previous matches in an elimination tournament",
+      "decision": "gloss",
+      "simpleMeaning": "the last match in a competition, played by the two players or teams that won every earlier round.",
+      "scope": "It is not an examination and not the last part of a story; it is the deciding match of a competition.",
+      "examples": [
+        "Our team reached the final but lost on penalties.",
+        "Tickets for the final sold out within an hour."
+      ],
+      "branchCoverage": [
+        "the final match between the winners of all previous matches in an elimination tournament -> 'the last match in a competition, played by the two players or teams that won every earlier round'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "final has three senses in this batch: the deciding match of a tournament (final%1:11:00::), the end-of-term exam (final%1:10:00::), and the adjective meaning last or closing (final%5:00:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "final%1:10:00::",
+      "lemma": "final",
+      "pos": "n",
+      "definition": "an examination administered at the end of an academic term",
+      "decision": "gloss",
+      "simpleMeaning": "an exam taken at the end of a school or university term.",
+      "scope": "It is not a sports match and not the end of something; it is a test at the end of a course.",
+      "examples": [
+        "I have three finals next week.",
+        "She studied all night for her history final."
+      ],
+      "branchCoverage": [
+        "an examination administered at the end of an academic term -> 'an exam taken at the end of a school or university term'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "final has three senses in this batch: the deciding match of a tournament (final%1:11:00::), the end-of-term exam (final%1:10:00::), and the adjective meaning last or closing (final%5:00:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "final%5:00:00:closing:00",
+      "lemma": "final",
+      "pos": "a",
+      "definition": "occurring at or forming an end or termination",
+      "decision": "gloss",
+      "simpleMeaning": "coming at the end, or being the last part of something.",
+      "scope": "It is not a match and not an exam; it describes the last stage or closing part of something.",
+      "examples": [
+        "The final chapter explains how the story ends.",
+        "We made our final decision yesterday."
+      ],
+      "branchCoverage": [
+        "occurring at or forming an end or termination -> 'coming at the end, or being the last part of something'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "final has three senses in this batch: the deciding match of a tournament (final%1:11:00::), the end-of-term exam (final%1:10:00::), and the adjective meaning last or closing (final%5:00:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "front%3:00:00::",
+      "lemma": "front",
+      "pos": "a",
+      "definition": "relating to or located in the front",
+      "decision": "gloss",
+      "simpleMeaning": "at or near the part that faces forward.",
+      "scope": "It is not a weather system and not an organization used to hide illegal activity; it describes the forward part of something.",
+      "examples": [
+        "We sat in the front row of the cinema.",
+        "The front door was locked."
+      ],
+      "branchCoverage": [
+        "relating to or located in the front -> 'at or near the part that faces forward'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "list%1:10:00::",
+      "lemma": "list",
+      "pos": "n",
+      "definition": "a database containing an ordered array of items (names or topics)",
+      "decision": "gloss",
+      "simpleMeaning": "a set of names or things written or stored one after another in a fixed order.",
+      "scope": "It is not a sideways lean of a ship or wall; it is a set of names or items in order.",
+      "examples": [
+        "I wrote a list of things to buy at the shop.",
+        "Her name is at the top of the list."
+      ],
+      "branchCoverage": [
+        "a database containing an ordered array of items (names or topics) -> 'a set of names or things written or stored one after another in a fixed order'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "list (n) has two senses in this batch: an ordered set of names or items (list%1:10:00::) and a sideways lean of a ship or wall (list%1:07:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "list%1:07:00::",
+      "lemma": "list",
+      "pos": "n",
+      "definition": "the property possessed by a line or surface that departs from the vertical",
+      "decision": "gloss",
+      "simpleMeaning": "a slight lean to one side.",
+      "scope": "It is not a set of names or items; it is a sideways lean of a ship, wall or other object.",
+      "examples": [
+        "The boat developed a list to the left.",
+        "The old tower has a slight list after years of settling."
+      ],
+      "branchCoverage": [
+        "the property possessed by a line or surface that departs from the vertical -> 'a slight lean to one side'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "list (n) has two senses in this batch: an ordered set of names or items (list%1:10:00::) and a sideways lean of a ship or wall (list%1:07:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ready%2:30:00::",
+      "lemma": "ready",
+      "pos": "v",
+      "definition": "make ready or suitable or equip in advance for a particular purpose or for some use, event, etc",
+      "decision": "gloss",
+      "simpleMeaning": "to get something or someone set up in advance for a use or event.",
+      "scope": "It is not the adjective describing someone who is prepared; it is the action of getting things set up in advance.",
+      "examples": [
+        "The crew readied the boat for the storm.",
+        "She readied herself for the interview."
+      ],
+      "branchCoverage": [
+        "make ready or suitable or equip in advance for a particular purpose or for some use, event, etc -> 'get something or someone set up in advance for a use or event'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

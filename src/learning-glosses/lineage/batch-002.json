@@ -1,0 +1,988 @@
+{
+  "schema": "oewn-gloss-batch-v2",
+  "batch": 2,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 50,
+  "senses": [
+    {
+      "senseId": "most%3:00:01::",
+      "lemma": "most",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "the superlative of ‘much’ that can be used with mass nouns and is usually preceded by ‘the’; a quantifier meaning the greatest in amount or extent or degree",
+      "synsetId": "01560125-a",
+      "words": 28,
+      "rare": 5,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 16,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the superlative of ‘much’ that can be used with mass nouns and is usually preceded by ‘the’",
+        "a quantifier meaning the greatest in amount or extent or degree"
+      ]
+    },
+    {
+      "senseId": "in%5:00:00:incoming:00",
+      "lemma": "in",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "directed or bound inward",
+      "synsetId": "01298266-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 38,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "directed or bound inward"
+      ]
+    },
+    {
+      "senseId": "on%4:02:01::",
+      "lemma": "on",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "indicates continuity or persistence or concentration",
+      "synsetId": "00069746-r",
+      "words": 6,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 45,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "indicates continuity or persistence or concentration"
+      ]
+    },
+    {
+      "senseId": "be%2:42:03::",
+      "lemma": "be",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "have the quality of being; (copula, used with an adjective or a predicate noun)",
+      "synsetId": "02610777-v",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 49,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "have the quality of being",
+        "(copula, used with an adjective or a predicate noun)"
+      ]
+    },
+    {
+      "senseId": "have%2:40:00::",
+      "lemma": "have",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "have or possess, either in a concrete or an abstract sense",
+      "synsetId": "02208144-v",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 52,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "have or possess, either in a concrete or an abstract sense"
+      ]
+    },
+    {
+      "senseId": "so%4:02:05::",
+      "lemma": "so",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "in such a condition or manner, especially as expressed or implied",
+      "synsetId": "00147962-r",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 65,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "in such a condition or manner, especially as expressed or implied"
+      ]
+    },
+    {
+      "senseId": "can%1:06:00::",
+      "lemma": "can",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "airtight sealed metal container for food or drink or paint etc.",
+      "synsetId": "02950393-n",
+      "words": 11,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 71,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "airtight sealed metal container for food or drink or paint etc"
+      ]
+    },
+    {
+      "senseId": "can%2:41:00::",
+      "lemma": "can",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "terminate the employment of; discharge from an office or position",
+      "synsetId": "02407967-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 71,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "terminate the employment of",
+        "discharge from an office or position"
+      ]
+    },
+    {
+      "senseId": "will%1:10:00::",
+      "lemma": "will",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a legal document declaring a person's wishes regarding the disposal of their property when they die",
+      "synsetId": "06556133-n",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 72,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a legal document declaring a person's wishes regarding the disposal of their property when they die"
+      ]
+    },
+    {
+      "senseId": "will%1:09:00::",
+      "lemma": "will",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the capability of conscious choice and decision and intention",
+      "synsetId": "05660438-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 72,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the capability of conscious choice and decision and intention"
+      ]
+    },
+    {
+      "senseId": "no%3:00:00::",
+      "lemma": "no",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(quantifier) used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of",
+      "synsetId": "02276242-a",
+      "words": 22,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 83,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(quantifier) used with either mass nouns or plural count nouns for indicating a complete or almost complete lack or zero quantity of"
+      ]
+    },
+    {
+      "senseId": "no%4:02:00::",
+      "lemma": "no",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "used to express refusal or denial or disagreement etc. or especially to emphasize a negative statement",
+      "synsetId": "00024715-r",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 83,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "used to express refusal or denial or disagreement etc. or especially to emphasize a negative statement"
+      ]
+    },
+    {
+      "senseId": "there%1:15:00::",
+      "lemma": "there",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a location other than here; that place; location, medial pronoun; demonstrative pronoun, location; quantifier: demonstrative determiner, distal; demonstrative pronoun, location; quantifier: demonstrative determiner, singular, distal",
+      "synsetId": "08506637-n",
+      "words": 25,
+      "rare": 15,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 88,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a location other than here",
+        "that place",
+        "location, medial pronoun",
+        "demonstrative pronoun, location",
+        "quantifier: demonstrative determiner, distal",
+        "quantifier: demonstrative determiner, singular, distal",
+        "after colon: demonstrative determiner, singular, distal"
+      ]
+    },
+    {
+      "senseId": "good%4:02:00::",
+      "lemma": "good",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (‘good’ is a nonstandard dialectal variant for ‘well’)",
+      "synsetId": "00011555-r",
+      "words": 27,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 107,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (‘good’ is a nonstandard dialectal variant for ‘well’)"
+      ]
+    },
+    {
+      "senseId": "over%1:28:00::",
+      "lemma": "over",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch",
+      "synsetId": "15283505-n",
+      "words": 28,
+      "rare": 5,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 117,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch"
+      ]
+    },
+    {
+      "senseId": "then%4:02:00::",
+      "lemma": "then",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "subsequently or soon afterward (often used as sentence connectors)",
+      "synsetId": "00118527-r",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 120,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "subsequently or soon afterward (often used as sentence connectors)"
+      ]
+    },
+    {
+      "senseId": "well%4:02:00::",
+      "lemma": "well",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (‘good’ is a nonstandard dialectal variant for ‘well’)",
+      "synsetId": "00011555-r",
+      "words": 27,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 128,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (‘good’ is a nonstandard dialectal variant for ‘well’)"
+      ]
+    },
+    {
+      "senseId": "well%4:02:03::",
+      "lemma": "well",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "indicating high probability; in all likelihood",
+      "synsetId": "00012993-r",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 128,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "indicating high probability",
+        "in all likelihood"
+      ]
+    },
+    {
+      "senseId": "much%4:02:01::",
+      "lemma": "much",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "(degree adverb used before a noun phrase) for all practical purposes but not completely",
+      "synsetId": "00023283-r",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 132,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(degree adverb used before a noun phrase) for all practical purposes but not completely"
+      ]
+    },
+    {
+      "senseId": "much%3:00:00::",
+      "lemma": "much",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(quantifier used with mass nouns) great in quantity or degree or extent",
+      "synsetId": "01557986-a",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 132,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(quantifier used with mass nouns) great in quantity or degree or extent"
+      ]
+    },
+    {
+      "senseId": "even%3:00:01::",
+      "lemma": "even",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "being level or straight or regular and without variation as e.g. in shape or texture; or being in the same plane or at the same height as something else (i.e. even with)",
+      "synsetId": "00912628-a",
+      "words": 34,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 135,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "being level or straight or regular and without variation as e.g. in shape or texture",
+        "or being in the same plane or at the same height as something else (i.e. even with)"
+      ]
+    },
+    {
+      "senseId": "even%5:00:01:equal:00",
+      "lemma": "even",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "equal in degree or extent or amount; or equally matched or balanced",
+      "synsetId": "00894463-s",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 135,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "equal in degree or extent or amount",
+        "or equally matched or balanced"
+      ]
+    },
+    {
+      "senseId": "even%1:28:00::",
+      "lemma": "even",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)",
+      "synsetId": "15191509-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 135,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)"
+      ]
+    },
+    {
+      "senseId": "even%4:02:00::",
+      "lemma": "even",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "used as an intensive especially to indicate something unexpected",
+      "synsetId": "00017907-r",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 135,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "used as an intensive especially to indicate something unexpected"
+      ]
+    },
+    {
+      "senseId": "may%1:20:00::",
+      "lemma": "may",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries; established as an escape in eastern North America",
+      "synsetId": "12648511-n",
+      "words": 27,
+      "rare": 10,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 137,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "thorny Eurasian shrub of small tree having dense clusters of white to scarlet flowers followed by deep red berries",
+        "established as an escape in eastern North America"
+      ]
+    },
+    {
+      "senseId": "here%1:15:00::",
+      "lemma": "here",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the present location; this place; location, proximal pronoun; demonstrative pronoun, location; quantifier: demonstrative determiner, singular, proximal",
+      "synsetId": "08506507-n",
+      "words": 16,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 138,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the present location",
+        "this place",
+        "location, proximal pronoun",
+        "demonstrative pronoun, location",
+        "quantifier: demonstrative determiner, singular, proximal",
+        "after colon: demonstrative determiner, singular, proximal"
+      ]
+    },
+    {
+      "senseId": "need%1:03:00::",
+      "lemma": "need",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior",
+      "synsetId": "00023953-n",
+      "words": 26,
+      "rare": 4,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 139,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the psychological feature that arouses an organism to action toward a desired goal",
+        "the reason for the action",
+        "that which gives purpose and direction to behavior"
+      ]
+    },
+    {
+      "senseId": "really%4:02:02::",
+      "lemma": "really",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "in fact (used as intensifiers or sentence modifiers)",
+      "synsetId": "00038407-r",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 140,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "in fact (used as intensifiers or sentence modifiers)"
+      ]
+    },
+    {
+      "senseId": "right%1:07:00::",
+      "lemma": "right",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an abstract idea of that which is due to a person or governmental body by law or tradition or nature",
+      "synsetId": "05182180-n",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 142,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "an abstract idea of that which is due to a person or governmental body by law or tradition or nature"
+      ]
+    },
+    {
+      "senseId": "right%1:15:00::",
+      "lemma": "right",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "location near or direction toward the right side; i.e. the side to the south when a person or object faces east",
+      "synsetId": "08642648-n",
+      "words": 22,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 142,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "location near or direction toward the right side",
+        "i.e. the side to the south when a person or object faces east"
+      ]
+    },
+    {
+      "senseId": "right%1:06:00::",
+      "lemma": "right",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the piece of ground in the outfield on the catcher's right",
+      "synsetId": "04098951-n",
+      "words": 11,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 142,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the piece of ground in the outfield on the catcher's right"
+      ]
+    },
+    {
+      "senseId": "right%5:00:01:proper:00",
+      "lemma": "right",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "socially right or correct",
+      "synsetId": "01885314-s",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 142,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "socially right or correct"
+      ]
+    },
+    {
+      "senseId": "work%2:41:02::",
+      "lemma": "work",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "exert oneself by doing mental or physical work for a purpose or out of necessity; work",
+      "synsetId": "02418610-v",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 143,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "exert oneself by doing mental or physical work for a purpose or out of necessity",
+        "work"
+      ]
+    },
+    {
+      "senseId": "year%1:28:00::",
+      "lemma": "year",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun",
+      "synsetId": "15226340-n",
+      "words": 24,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 144,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun"
+      ]
+    },
+    {
+      "senseId": "why%1:16:00::",
+      "lemma": "why",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the cause or intention underlying an action or situation, especially in the phrase ‘the whys and wherefores’",
+      "synsetId": "09202503-n",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 152,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the cause or intention underlying an action or situation, especially in the phrase ‘the whys and wherefores’"
+      ]
+    },
+    {
+      "senseId": "still%1:06:00::",
+      "lemma": "still",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed",
+      "synsetId": "04326120-n",
+      "words": 28,
+      "rare": 10,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 154,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "an apparatus used for the distillation of liquids",
+        "consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed"
+      ]
+    },
+    {
+      "senseId": "still%1:06:01::",
+      "lemma": "still",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a static photograph (especially one taken from a movie and used for advertising purposes)",
+      "synsetId": "04326386-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 154,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a static photograph (especially one taken from a movie and used for advertising purposes)"
+      ]
+    },
+    {
+      "senseId": "still%1:07:00::",
+      "lemma": "still",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(poetic) tranquil silence",
+      "synsetId": "04989727-n",
+      "words": 3,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 154,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(poetic) tranquil silence"
+      ]
+    },
+    {
+      "senseId": "still%2:37:01::",
+      "lemma": "still",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "lessen the intensity of or calm",
+      "synsetId": "01819152-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 154,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "lessen the intensity of or calm"
+      ]
+    },
+    {
+      "senseId": "still%4:02:04::",
+      "lemma": "still",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "despite anything to the contrary (usually preceding a concession)",
+      "synsetId": "00027761-r",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 154,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "despite anything to the contrary (usually preceding a concession)"
+      ]
+    },
+    {
+      "senseId": "still%2:37:00::",
+      "lemma": "still",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make calm or still",
+      "synsetId": "01768652-v",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 154,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "make calm or still"
+      ]
+    },
+    {
+      "senseId": "many%3:00:00::",
+      "lemma": "many",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "a quantifier that can be used with count nouns and is often preceded by ‘as’ or ‘too’ or ‘so’ or ‘that’; amounting to a large but indefinite number; quantifier, plural pronoun; quantifier, plural",
+      "synsetId": "01555990-a",
+      "words": 33,
+      "rare": 10,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 157,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a quantifier that can be used with count nouns and is often preceded by ‘as’ or ‘too’ or ‘so’ or ‘that’",
+        "amounting to a large but indefinite number",
+        "quantifier, plural pronoun",
+        "quantifier, plural"
+      ]
+    },
+    {
+      "senseId": "world%5:00:00:international:00",
+      "lemma": "world",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "involving the entire earth; not limited or provincial in scope",
+      "synsetId": "01573077-s",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 162,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "involving the entire earth",
+        "not limited or provincial in scope"
+      ]
+    },
+    {
+      "senseId": "down%1:17:00::",
+      "lemma": "down",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(usually plural) a rolling treeless highland with little soil",
+      "synsetId": "09292247-n",
+      "words": 9,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 163,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(usually plural) a rolling treeless highland with little soil"
+      ]
+    },
+    {
+      "senseId": "great%5:00:01:extraordinary:00",
+      "lemma": "great",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "remarkable or out of the ordinary in degree or magnitude or effect",
+      "synsetId": "01682025-s",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 164,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "remarkable or out of the ordinary in degree or magnitude or effect"
+      ]
+    },
+    {
+      "senseId": "through%5:00:00:direct:00",
+      "lemma": "through",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(of a route or journey etc.) continuing without requiring stops or changes",
+      "synsetId": "00765711-s",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 165,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(of a route or journey etc.) continuing without requiring stops or changes"
+      ]
+    },
+    {
+      "senseId": "last%5:00:00:closing:00",
+      "lemma": "last",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "occurring at or forming an end or termination",
+      "synsetId": "01013868-s",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 166,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "occurring at or forming an end or termination"
+      ]
+    },
+    {
+      "senseId": "best%5:00:00:advisable:00",
+      "lemma": "best",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(comparative and superlative of ‘well’) wiser or more advantageous and hence advisable",
+      "synsetId": "00067988-s",
+      "words": 12,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 168,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(comparative and superlative of ‘well’) wiser or more advantageous and hence advisable"
+      ]
+    },
+    {
+      "senseId": "such%5:00:00:much:00",
+      "lemma": "such",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of so extreme a degree or extent; demonstrative, other pronoun; demonstrative determiner, kind",
+      "synsetId": "01558587-s",
+      "words": 13,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 169,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "of so extreme a degree or extent",
+        "demonstrative, other pronoun",
+        "demonstrative determiner, kind"
+      ]
+    },
+    {
+      "senseId": "love%1:09:00::",
+      "lemma": "love",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "any object of warm affection or devotion",
+      "synsetId": "05821331-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 170,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "any object of warm affection or devotion"
+      ]
+    }
+  ]
+}

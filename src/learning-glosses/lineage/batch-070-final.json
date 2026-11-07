@@ -1,0 +1,1205 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 70,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 46,
+      "of": 50,
+      "rate": 0.92
+    },
+    "selfApproved": [
+      "sweet%4:02:00::",
+      "wearing%1:22:00::",
+      "injury%1:11:01::"
+    ],
+    "selfDeferred": [
+      "engineering%1:06:00::"
+    ],
+    "lineage": {
+      "draft": "e4984e2853f6c6acd0505e585b749319a2d1a95f8fd44c3dd12a506dbff8be1e"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "contract%1:10:01::",
+      "lemma": "contract",
+      "pos": "n",
+      "definition": "(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make",
+      "sourceBranches": [
+        "(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in the card game of bridge, the highest offer sets how many tricks the bidder must win",
+      "scope": "This means the winning bid in bridge, not a legally binding agreement, the bridge variety where points count only for the tricks bid, or the verbs meaning to shrink, catch an illness, or make an agreement.",
+      "examples": [
+        "She played the hand carefully and made her contract.",
+        "A bid of four hearts became the final contract."
+      ],
+      "branchCoverage": [
+        "(contract bridge) the highest bid becomes the contract setting the number of tricks that the bidder must make -> in the card game of bridge, the highest offer sets how many tricks the bidder must win"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "growing%1:22:00::",
+      "lemma": "growing",
+      "pos": "n",
+      "definition": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level",
+      "sourceBranches": [
+        "(biology) the process of an individual organism growing organically",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the purely biological sequence through which a living thing naturally develops, changing step by step from a simple form to a more complex one",
+      "scope": "This is the biological development of a living thing, not the adjective sense meaning relating to or suitable for growth, and not the electronics sense about making semiconductor crystals.",
+      "examples": [
+        "The growing of a child follows a predictable series of stages.",
+        "Researchers measured the growing of the cells over several days."
+      ],
+      "branchCoverage": [
+        "(biology) the process of an individual organism growing organically -> the purely biological sequence through which a living thing naturally develops",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level -> changing step by step from a simple form to a more complex one"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "growing%1:22:00:: -> biological development of a living organism; growing%1:22:01:: -> slow production of semiconductor crystals",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "growing%1:22:01::",
+      "lemma": "growing",
+      "pos": "n",
+      "definition": "(electronics) the production of (semiconductor) crystals by slow crystallization from the molten state",
+      "sourceBranches": [
+        "(electronics) the production of (semiconductor) crystals by slow crystallization from the molten state"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in electronics, the making of semiconductor crystals by letting melted material cool slowly into crystal form",
+      "scope": "This is the making of semiconductor crystals, not the biological development of a living thing, and not the adjective sense meaning relating to or suitable for growth.",
+      "examples": [
+        "The growing of silicon crystals takes place in a carefully controlled furnace.",
+        "Engineers studied the growing of the semiconductor crystal under low pressure."
+      ],
+      "branchCoverage": [
+        "(electronics) the production of (semiconductor) crystals by slow crystallization from the molten state -> in electronics, the making of semiconductor crystals by letting melted material cool slowly into crystal form"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "growing%1:22:00:: -> biological development of a living organism; growing%1:22:01:: -> slow production of semiconductor crystals",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "image%1:07:00::",
+      "lemma": "image",
+      "pos": "n",
+      "definition": "(Jungian psychology) a personal facade that one presents to the world",
+      "sourceBranches": [
+        "(Jungian psychology) a personal facade that one presents to the world"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in Jungian psychology, the outward face that a person shows to others",
+      "scope": "This is the persona a person shows others, not a picture or other visual representation, not a mental picture, and not the general impression a person or company gives the public.",
+      "examples": [
+        "Behind his confident image, he felt constantly anxious.",
+        "She built an image of calm competence that few people saw through."
+      ],
+      "branchCoverage": [
+        "(Jungian psychology) a personal facade that one presents to the world -> in Jungian psychology, the outward face that a person shows to others"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "active%3:00:02::",
+      "lemma": "active",
+      "pos": "a",
+      "definition": "tending to become more severe or wider in scope",
+      "sourceBranches": [
+        "tending to become more severe or wider in scope"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "likely to get worse or spread more widely",
+      "scope": "This describes a condition that is worsening or spreading, not something busy or energetic, not someone taking part in an activity, not something in operation, and not the grammar or volcano senses.",
+      "examples": [
+        "The infection is still active and spreading to new tissue.",
+        "Doctors are monitoring the active disease in the region."
+      ],
+      "branchCoverage": [
+        "tending to become more severe or wider in scope -> likely to get worse or spread more widely"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dance%2:36:00::",
+      "lemma": "dance",
+      "pos": "v",
+      "definition": "move in a pattern; usually to musical accompaniment; do or perform a dance",
+      "sourceBranches": [
+        "move in a pattern",
+        "usually to musical accompaniment",
+        "do or perform a dance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to move the body in a set pattern, usually while music plays",
+      "scope": "This is the action of performing a dance, not the noun senses such as the art form or the party, not moving gracefully, and not skipping or jumping about.",
+      "examples": [
+        "They danced together at the wedding reception.",
+        "She danced a waltz with her grandfather."
+      ],
+      "branchCoverage": [
+        "move in a pattern -> to move the body in a set pattern",
+        "usually to musical accompaniment -> usually while music plays",
+        "do or perform a dance -> to move the body in a set pattern, usually while music plays"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "independent%3:00:02::",
+      "lemma": "independent",
+      "pos": "a",
+      "definition": "(of a clause) capable of standing syntactically alone as a complete sentence",
+      "sourceBranches": [
+        "(of a clause) capable of standing syntactically alone as a complete sentence"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of a clause, able to stand grammatically on its own as a full sentence",
+      "scope": "This describes a clause, not someone free from outside control, not a politically nonpartisan body, and not the noun for a freelance artist or uncommitted voter.",
+      "examples": [
+        "In 'she left early', the clause is independent.",
+        "Underline each independent clause in the paragraph."
+      ],
+      "branchCoverage": [
+        "(of a clause) capable of standing syntactically alone as a complete sentence -> of a clause, able to stand grammatically on its own as a full sentence"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fan%2:35:01::",
+      "lemma": "fan",
+      "pos": "v",
+      "definition": "strike out (a batter), (of a pitcher)",
+      "sourceBranches": [
+        "strike out (a batter), (of a pitcher)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, for a pitcher to get a batter out on strikes",
+      "scope": "This is a baseball pitching action, not the cooling device, not an admirer or supporter, and not the senses meaning to stir up emotion or move air.",
+      "examples": [
+        "The pitcher fanned the slugger with a high fastball.",
+        "She fanned three batters in the final inning."
+      ],
+      "branchCoverage": [
+        "strike out (a batter), (of a pitcher) -> in baseball, for a pitcher to get a batter out on strikes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "color%3:00:00::",
+      "lemma": "color",
+      "pos": "a",
+      "definition": "having or capable of producing colors",
+      "sourceBranches": [
+        "having or capable of producing colors"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "capable of showing or producing hues",
+      "scope": "This describes something that can show or produce hues, not the noun for the visual attribute, a pigment, or musical timbre, and not the verbs meaning to add color or distort something.",
+      "examples": [
+        "This is a color photograph, not a black-and-white one.",
+        "The printer produces color pages as well as monochrome ones."
+      ],
+      "branchCoverage": [
+        "having or capable of producing colors -> capable of showing or producing hues"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "marriage%1:26:00::",
+      "lemma": "marriage",
+      "pos": "n",
+      "definition": "the state of being a married couple voluntarily joined for life (or until divorce)",
+      "sourceBranches": [
+        "the state of being a married couple voluntarily joined for life (or until divorce)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the relationship of two people who have chosen to stay together for life, or until they divorce",
+      "scope": "This is the state of being a couple, not the wedding ceremony, not the couple themselves, and not a close union of another kind.",
+      "examples": [
+        "Their marriage has lasted more than forty years.",
+        "She talked warmly about her marriage of twenty years."
+      ],
+      "branchCoverage": [
+        "the state of being a married couple voluntarily joined for life (or until divorce) -> the relationship of two people who have chosen to stay together for life, or until they divorce"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sweet%4:02:00::",
+      "lemma": "sweet",
+      "pos": "r",
+      "definition": "in an affectionate or loving manner (‘sweet’ is sometimes a poetic or informal variant of ‘sweetly’)",
+      "sourceBranches": [
+        "in an affectionate or loving manner (‘sweet’ is sometimes a poetic or informal variant of ‘sweetly’)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in a fond and caring way, sometimes in poetry or casual speech",
+      "scope": "This is an affectionate manner of acting, not the adjective senses about taste or pleasing qualities, and not the noun for a sugary food or dessert.",
+      "examples": [
+        "She talked sweet to the frightened child.",
+        "He talked sweet to his mother until she agreed."
+      ],
+      "branchCoverage": [
+        "in an affectionate or loving manner (‘sweet’ is sometimes a poetic or informal variant of ‘sweetly’) -> in a fond and caring way, sometimes in poetry or casual speech"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "The second example is unidiomatic: 'smiled sweet' is not a standard collocation (the natural form is 'smiled sweetly'), so it reads as an error rather than the poetic or informal use. Replace it with an attested collocation such as 'He talked sweet to his mother until she agreed.'"
+    },
+    {
+      "senseId": "male%3:00:00::",
+      "lemma": "male",
+      "pos": "a",
+      "definition": "being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation",
+      "sourceBranches": [
+        "being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of a plant or animal, being the sex that produces sperm cells which do the fertilizing in reproduction",
+      "scope": "This describes a biological sex, not characteristic of men or boys, not composed of men, and not the nouns for a person or animal of this sex.",
+      "examples": [
+        "The male flower produces pollen but no seeds.",
+        "Only male frogs make this mating call."
+      ],
+      "branchCoverage": [
+        "being the sex (of plant or animal) that produces gametes (spermatozoa) that perform the fertilizing function in generation -> of a plant or animal, being the sex that produces sperm cells which do the fertilizing in reproduction"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "plant%1:03:00::",
+      "lemma": "plant",
+      "pos": "n",
+      "definition": "(botany) a living organism lacking the power of locomotion",
+      "sourceBranches": [
+        "(botany) a living organism lacking the power of locomotion"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in botany, a living thing that cannot move from place to place by itself",
+      "scope": "This is a living organism, not a factory, not someone placed in an audience as a spy, not something hidden to be found later, and not the verb meaning to put something in the ground.",
+      "examples": [
+        "The plant on the windowsill needs more water.",
+        "Some plants trap insects to get nutrients."
+      ],
+      "branchCoverage": [
+        "(botany) a living organism lacking the power of locomotion -> in botany, a living thing that cannot move from place to place by itself"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "primary%1:17:00::",
+      "lemma": "primary",
+      "pos": "n",
+      "definition": "(astronomy) a celestial body (especially a star) relative to other objects in orbit around it",
+      "sourceBranches": [
+        "(astronomy) a celestial body (especially a star) relative to other objects in orbit around it"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in astronomy, a body in space, usually a star, that other objects travel around",
+      "scope": "This is the body that others orbit, not a preliminary election, not one of a bird's flight feathers, and not a coil in an electrical circuit.",
+      "examples": [
+        "In that binary system, the primary is the brighter of the two stars.",
+        "The smaller body orbits the primary once every eighty years."
+      ],
+      "branchCoverage": [
+        "(astronomy) a celestial body (especially a star) relative to other objects in orbit around it -> in astronomy, a body in space, usually a star, that other objects travel around"
+      ],
+      "labelBranches": [
+        "(astronomy) -> field label naming the branch of astronomy; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cell%1:03:00::",
+      "lemma": "cell",
+      "pos": "n",
+      "definition": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "sourceBranches": [
+        "(biology) the basic structural and functional unit of all organisms",
+        "they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in biology, the basic unit that makes up a living thing and performs its essential functions, either living alone or forming colonies or tissues in higher plants and animals",
+      "scope": "This is the biological unit of living things, not a small room for a prisoner, monk, or nun, not a compartment in a honeycomb, not a device that makes electricity by chemical reaction, not a small group inside a political movement, and not a mobile phone.",
+      "examples": [
+        "Every living thing is made of at least one cell.",
+        "The biologist studied how cells divide and form tissues."
+      ],
+      "branchCoverage": [
+        "(biology) the basic structural and functional unit of all organisms -> in biology, the basic unit that makes up a living thing and performs its essential functions",
+        "they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals -> either living alone or forming colonies or tissues in higher plants and animals"
+      ],
+      "labelBranches": [
+        "(biology) -> field label naming the branch of biology; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "politics%1:04:00::",
+      "lemma": "politics",
+      "pos": "n",
+      "definition": "the profession devoted to governing and to political affairs",
+      "sourceBranches": [
+        "the profession devoted to governing and to political affairs"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the occupation of running a government and dealing with public affairs",
+      "scope": "This is the career of governing and public affairs, not the academic study of government, not a person's opinions on public questions, not the activities of running a state, and not intrigue used to gain power.",
+      "examples": [
+        "He entered politics after a career in law.",
+        "She left politics to run a charity."
+      ],
+      "branchCoverage": [
+        "the profession devoted to governing and to political affairs -> the occupation of running a government and dealing with public affairs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "politics%1:04:00:: -> the career of governing and public affairs; politics%1:09:00:: -> the academic study of government",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "politics%1:09:00::",
+      "lemma": "politics",
+      "pos": "n",
+      "definition": "the study of government of states and other political units",
+      "sourceBranches": [
+        "the study of government of states and other political units"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the academic study of how states and other organized communities are governed",
+      "scope": "This is the academic subject, not the career of governing, not the activities of running a state, not a person's opinions on public questions, and not intrigue used to gain power.",
+      "examples": [
+        "She studied politics at university.",
+        "His degree in politics led to a job in the civil service."
+      ],
+      "branchCoverage": [
+        "the study of government of states and other political units -> the academic study of how states and other organized communities are governed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "politics%1:04:00:: -> the career of governing and public affairs; politics%1:09:00:: -> the academic study of government",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weather%1:19:00::",
+      "lemma": "weather",
+      "pos": "n",
+      "definition": "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation",
+      "sourceBranches": [
+        "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the conditions in the air, described by temperature, wind, clouds, and moisture falling from the sky",
+      "scope": "This is the state of the air, not the side facing the wind, not the verb for surviving a storm, not causing a surface to slope, not sailing to the windward side, and not changing under exposure to the elements.",
+      "examples": [
+        "The weather turned cold and wet by the afternoon.",
+        "Bad weather delayed all flights out of the city."
+      ],
+      "branchCoverage": [
+        "the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation -> the conditions in the air, described by temperature, wind, clouds, and moisture falling from the sky"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "complex%1:12:00::",
+      "lemma": "complex",
+      "pos": "n",
+      "definition": "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior",
+      "sourceBranches": [
+        "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in psychoanalysis, a group of feelings and urges that were pushed out of awareness but still affect how someone acts",
+      "scope": "This is the psychoanalytic mix of hidden feelings and urges, not a group of connected buildings, not a chemical compound, not a whole made of related parts, and not the adjective for something complicated.",
+      "examples": [
+        "Freud described how an unresolved complex could shape adult behavior.",
+        "The patient's complex was traced back to childhood experiences."
+      ],
+      "branchCoverage": [
+        "(psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior -> in psychoanalysis, a group of feelings and urges that were pushed out of awareness but still affect how someone acts"
+      ],
+      "labelBranches": [
+        "(psychoanalysis) -> field label naming the branch of psychology; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "queen%2:38:00::",
+      "lemma": "queen",
+      "pos": "v",
+      "definition": "become a queen",
+      "sourceBranches": [
+        "become a queen"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to become the most powerful chess piece, as a pawn does at the far end of the board",
+      "scope": "This is a pawn becoming that piece by itself, not the act of promoting a pawn to that rank, and not the female ruler, the playing card, or the insect.",
+      "examples": [
+        "Her pawn queened when it reached the far rank.",
+        "The pawn queened and the game was soon over."
+      ],
+      "branchCoverage": [
+        "become a queen -> to become the most powerful chess piece, as a pawn does at the far end of the board"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sitting%1:04:01::",
+      "lemma": "sitting",
+      "pos": "n",
+      "definition": "(photography) the act of assuming a certain position (as for a photograph or portrait)",
+      "sourceBranches": [
+        "(photography) the act of assuming a certain position (as for a photograph or portrait)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in photography, the act of taking up a pose for a photograph or portrait",
+      "scope": "This is the act of posing for a photograph or portrait, not the act of taking or keeping a seated position, not a session of a legislature or court, and not a meeting of spiritualists.",
+      "examples": [
+        "The portrait took three sittings to complete.",
+        "She arrived early for her first sitting with the photographer."
+      ],
+      "branchCoverage": [
+        "(photography) the act of assuming a certain position (as for a photograph or portrait) -> in photography, the act of taking up a pose for a photograph or portrait"
+      ],
+      "labelBranches": [
+        "(photography) -> field label naming the field of photography; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "learned%3:00:02::",
+      "lemma": "learned",
+      "pos": "a",
+      "definition": "established by conditioning or learning",
+      "sourceBranches": [
+        "established by conditioning or learning"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "acquired through training or experience",
+      "scope": "This describes a response or habit acquired through training or experience, not a person who is deeply knowledgeable, and not someone who is highly educated.",
+      "examples": [
+        "A learned response can fade if it is no longer reinforced.",
+        "Fear of the dentist is often a learned reaction."
+      ],
+      "branchCoverage": [
+        "established by conditioning or learning -> acquired through training or experience"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "species%1:14:00::",
+      "lemma": "species",
+      "pos": "n",
+      "definition": "(biology) taxonomic group whose members can interbreed",
+      "sourceBranches": [
+        "(biology) taxonomic group whose members can interbreed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in biology, a group of living things whose members can breed with one another",
+      "scope": "This is the biological grouping of organisms that can breed together, not a particular kind or type of thing in general.",
+      "examples": [
+        "The two populations belong to the same species.",
+        "This species of bird nests only on the island."
+      ],
+      "branchCoverage": [
+        "(biology) taxonomic group whose members can interbreed -> in biology, a group of living things whose members can breed with one another"
+      ],
+      "labelBranches": [
+        "(biology) -> field label naming the branch of biology; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wearing%1:22:00::",
+      "lemma": "wearing",
+      "pos": "n",
+      "definition": "(geology) the mechanical process of wearing or grinding something down (as by particles washing over it), also figuratively",
+      "sourceBranches": [
+        "(geology) the mechanical process of wearing or grinding something down (as by particles washing over it), also figuratively"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in geology, the physical action by which something is gradually ground away, for example by particles washing over it, and also used figuratively",
+      "scope": "This is the geological grinding away of material, not the act of having clothes on, and not the adjective meaning exhausting.",
+      "examples": [
+        "The smooth rocks show the wearing of the cliffs by the sea.",
+        "Wind and water cause slow wearing of the soft sandstone."
+      ],
+      "branchCoverage": [
+        "(geology) the mechanical process of wearing or grinding something down (as by particles washing over it), also figuratively -> in geology, the physical action by which something is gradually ground away, for example by particles washing over it, and also used figuratively"
+      ],
+      "labelBranches": [
+        "(geology) -> field label naming the branch of geology; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 ('Centuries of foot traffic caused slow wearing of the stone steps') is human mechanical wear of an artifact, not the geological process this synset denotes (its hypernym is a natural geological process), so it does not show this sense. Replace it with a geological example such as wind or water wearing rock, and phrase example 1 so the visible result of the wearing, not the process itself, is what is seen."
+    },
+    {
+      "senseId": "bottom%2:40:00::",
+      "lemma": "bottom",
+      "pos": "v",
+      "definition": "provide with a bottom or a seat",
+      "sourceBranches": [
+        "provide with a bottom or a seat"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to fit something with a base or with a part for sitting",
+      "scope": "This is fitting an object with a base or sitting part, not the lowest part or underside of something, not the body part you sit on, not a half of an inning, not reaching the ground, and not coming to understand something.",
+      "examples": [
+        "They bottomed the chairs with woven cane.",
+        "The craftsman bottomed each chair with a solid wooden seat."
+      ],
+      "branchCoverage": [
+        "provide with a bottom or a seat -> to fit something with a base or with a part for sitting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "square%1:25:00::",
+      "lemma": "square",
+      "pos": "n",
+      "definition": "(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon",
+      "sourceBranches": [
+        "(geometry) a plane rectangle with four equal sides and four right angles",
+        "a four-sided regular polygon"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in geometry, a flat rectangle with four sides of equal length and four right angles, that is, a regular four-sided polygon",
+      "scope": "This is the geometric figure with four equal sides and four right angles, not the result of multiplying a number by itself, not an open public area, not a tool for checking right angles, and not a person with old-fashioned views.",
+      "examples": [
+        "Each side of the square is ten centimetres long.",
+        "The children cut a square from the paper."
+      ],
+      "branchCoverage": [
+        "(geometry) a plane rectangle with four equal sides and four right angles -> in geometry, a flat rectangle with four sides of equal length and four right angles",
+        "a four-sided regular polygon -> a regular four-sided polygon"
+      ],
+      "labelBranches": [
+        "(geometry) -> field label naming the branch of geometry; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "critical%3:00:04::",
+      "lemma": "critical",
+      "pos": "a",
+      "definition": "at or of a point at which a property or phenomenon suffers an abrupt change especially having enough mass to sustain a chain reaction",
+      "sourceBranches": [
+        "at or of a point at which a property or phenomenon suffers an abrupt change especially having enough mass to sustain a chain reaction"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Describing the threshold where a property or event changes suddenly, especially the amount of material needed to keep a chain reaction going.",
+      "scope": "This is the physical threshold sense, not 'finding fault,' not 'careful evaluation,' not 'urgently needed,' not 'a turning point in events,' not 'close to crisis,' and not 'relating to critics or criticism.'",
+      "examples": [
+        "The reactor needs a critical mass of fuel before the chain reaction can sustain itself.",
+        "At a critical temperature, the substance suddenly changes from one state to another."
+      ],
+      "branchCoverage": [
+        "at or of a point at which a property or phenomenon suffers an abrupt change especially having enough mass to sustain a chain reaction -> Describing the threshold where a property or event changes suddenly, especially the amount of material needed to keep a chain reaction going."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "digital%3:00:00::",
+      "lemma": "digital",
+      "pos": "a",
+      "definition": "of a circuit or device that represents magnitudes in digits",
+      "sourceBranches": [
+        "of a circuit or device that represents magnitudes in digits"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Describing a circuit or piece of equipment that expresses measured amounts as numbers.",
+      "scope": "This describes how a circuit or device handles values, not 'showing figures on a display instead of a dial or scale,' and not 'relating to the fingers.'",
+      "examples": [
+        "The old machine was replaced by a digital controller that works with numbers.",
+        "A digital computer works with numbers rather than continuously varying voltages."
+      ],
+      "branchCoverage": [
+        "of a circuit or device that represents magnitudes in digits -> Describing a circuit or piece of equipment that expresses measured amounts as numbers."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mental%3:01:03::",
+      "lemma": "mental",
+      "pos": "a",
+      "definition": "of or relating to the chin- or liplike structure in insects and certain mollusks",
+      "sourceBranches": [
+        "of or relating to the chin- or liplike structure in insects and certain mollusks"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Relating to the chin-like or lip-like part that insects and some mollusks have.",
+      "scope": "Not 'of or relating to the mind,' not 'involving thought or intellect,' not 'affected by a disorder of the mind,' and not 'relating to a person's chin or lower jaw.'",
+      "examples": [
+        "The biologist sketched the mental plate beneath the beetle's mouthparts.",
+        "In some mollusks the mental structure forms a small lip."
+      ],
+      "branchCoverage": [
+        "of or relating to the chin- or liplike structure in insects and certain mollusks -> Relating to the chin-like or lip-like part that insects and some mollusks have."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hearing%1:04:01::",
+      "lemma": "hearing",
+      "pos": "n",
+      "definition": "(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence",
+      "sourceBranches": [
+        "(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A legal session, usually in a court, in which evidence is presented so that a question of fact can be settled and a ruling made on that evidence.",
+      "scope": "This is a legal proceeding where evidence settles a question of fact, not 'the ability to hear,' not 'the act of listening attentively,' not 'the distance over which a voice carries,' not 'a chance to state your case,' not 'a committee or jury session that takes testimony,' and not the adjective 'able to perceive sound.'",
+      "examples": [
+        "The judge scheduled a hearing to decide whether the search was lawful.",
+        "At the hearing, the defense called two witnesses before the court ruled."
+      ],
+      "branchCoverage": [
+        "(law) a proceeding (usually by a court) where evidence is taken for the purpose of determining an issue of fact and reaching a decision based on that evidence -> A legal session, usually in a court, in which evidence is presented so that a question of fact can be settled and a ruling made on that evidence."
+      ],
+      "labelBranches": [
+        "(law) -> field label marking legal use; the gloss renders it as 'legal'"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hill%1:06:00::",
+      "lemma": "hill",
+      "pos": "n",
+      "definition": "(baseball) the slight elevation on which the pitcher stands",
+      "sourceBranches": [
+        "(baseball) the slight elevation on which the pitcher stands"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The slightly raised area of a baseball field from which the pitcher throws.",
+      "scope": "This is the spot on a baseball diamond, not 'a natural rise in the landscape,' not 'an artificial pile or bank of earth,' and not the verb 'to form into a pile.'",
+      "examples": [
+        "He walked out to the hill to talk to the pitcher.",
+        "The pitcher stepped off the hill and threw to first base."
+      ],
+      "branchCoverage": [
+        "(baseball) the slight elevation on which the pitcher stands -> The slightly raised area of a baseball field from which the pitcher throws."
+      ],
+      "labelBranches": [
+        "(baseball) -> field label naming the sport; the gloss renders it as 'baseball field'"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "seat%1:15:01::",
+      "lemma": "seat",
+      "pos": "n",
+      "definition": "a space reserved for sitting (as in a theater or on a train or airplane)",
+      "sourceBranches": [
+        "a space reserved for sitting (as in a theater or on a train or airplane)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A place kept for someone to sit, for example in a theater, on a plane, or on a train.",
+      "scope": "Not 'a chair or other piece of furniture,' not 'the part of a chair you sit on,' not 'the buttocks or the cloth covering them,' not 'a center of authority or the place where something is based,' not 'a right to be a member of a body,' not 'a part of a machine,' and not the verb senses such as 'to show someone to a chair.'",
+      "examples": [
+        "Our seats for the concert were in the third row.",
+        "He booked a seat by the window on the morning train."
+      ],
+      "branchCoverage": [
+        "a space reserved for sitting (as in a theater or on a train or airplane) -> A place kept for someone to sit, for example in a theater, on a plane, or on a train."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "engineering%1:06:00::",
+      "lemma": "engineering",
+      "pos": "n",
+      "definition": "a room (as on a ship) in which the engine is located",
+      "decision": "defer",
+      "reason": "The sense is the room where a ship's engine sits, and OEWN lists \"engine room\" as its synonym. Natural English always calls it the engine room; a sentence using \"engineering\" for the room reads as an error, so two idiomatic examples cannot be written with the headword.",
+      "sourceBranches": [
+        "a room (as on a ship) in which the engine is located"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-deferred",
+      "reviewerNote": "The gloss turns the source's illustrative '(as on a ship)' into a place restriction ('aboard a ship') and replaces the engine with 'machinery that powers the vessel'; keep the room general, e.g. 'A room where an engine is housed, for example on a ship.' The examples 'engineering space' and 'engineering compartment' are non-standard for this rare sense and should be rewritten in natural engine-room context."
+    },
+    {
+      "senseId": "strength%1:07:05::",
+      "lemma": "strength",
+      "pos": "n",
+      "definition": "capability in terms of personnel and materiel that affect the capacity to fight a war",
+      "sourceBranches": [
+        "capability in terms of personnel and materiel that affect the capacity to fight a war"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "How well a military force can wage war, judged by the troops and equipment it has.",
+      "scope": "Not 'physical or mental power,' not 'the intensity of a force or signal,' not 'a special talent,' not 'the persuasiveness of an argument,' not 'the potency of a drink or drug,' not 'financial success,' and not 'durability.'",
+      "examples": [
+        "The general reported the strength of his division before the attack.",
+        "Planners compared the strength of the two armies."
+      ],
+      "branchCoverage": [
+        "capability in terms of personnel and materiel that affect the capacity to fight a war -> How well a military force can wage war, judged by the troops and equipment it has."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "camp%1:06:00::",
+      "lemma": "camp",
+      "pos": "n",
+      "definition": "temporary living quarters specially built by the army for soldiers",
+      "sourceBranches": [
+        "temporary living quarters specially built by the army for soldiers"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A place where soldiers live for a time in shelters put up by the military.",
+      "scope": "Not 'a holiday site for travelers or children,' not 'a prison or a shelter for displaced people,' not 'a group of people who share a purpose,' not the adjective meaning 'deliberately vulgar or sentimental,' and not the verb senses such as 'to live in a tent.'",
+      "examples": [
+        "The soldiers marched back to camp before nightfall.",
+        "Rows of tents stood in the army camp outside the town."
+      ],
+      "branchCoverage": [
+        "temporary living quarters specially built by the army for soldiers -> A place where soldiers live for a time in shelters put up by the military."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cast%2:36:01::",
+      "lemma": "cast",
+      "pos": "v",
+      "definition": "select to play,sing, or dance a part in a play, movie, musical, opera, or ballet",
+      "sourceBranches": [
+        "select to play,sing, or dance a part in a play, movie, musical, opera, or ballet"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To pick someone to act, sing, or dance a role in a play, film, musical, opera, or ballet.",
+      "scope": "Not 'to throw something with force,' not 'to form an object by pouring hot metal into a mold,' not 'to vote,' not 'to assign the roles of a whole production,' and not 'to choose at random.'",
+      "examples": [
+        "The director cast her as the queen in the school play.",
+        "They cast an unknown actor in the leading role."
+      ],
+      "branchCoverage": [
+        "select to play,sing, or dance a part in a play, movie, musical, opera, or ballet -> To pick someone to act, sing, or dance a role in a play, film, musical, opera, or ballet."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "television%1:06:00::",
+      "lemma": "television",
+      "pos": "n",
+      "definition": "a telecommunication system that transmits images of objects (stationary or moving) between distant points",
+      "sourceBranches": [
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A communications system that sends pictures of things, still or moving, from one distant place to another.",
+      "scope": "This is the technology that carries the pictures, not 'the broadcasting of shows as a medium,' and not 'the set that receives the signals in your home.'",
+      "examples": [
+        "Television allows pictures to be sent between distant cities almost instantly.",
+        "The new television system carried images from the studio to the station."
+      ],
+      "branchCoverage": [
+        "a telecommunication system that transmits images of objects (stationary or moving) between distant points -> A communications system that sends pictures of things, still or moving, from one distant place to another."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "television%1:06:00:: -> system that sends pictures between distant places; television%1:06:01:: -> unit that receives signals and shows pictures",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "television%1:06:01::",
+      "lemma": "television",
+      "pos": "n",
+      "definition": "an electronic device that receives television signals and displays them on a screen",
+      "sourceBranches": [
+        "an electronic device that receives television signals and displays them on a screen"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "An electronic unit that picks up picture signals and shows the images on a screen.",
+      "scope": "This is the set in your home, not 'the broadcasting of shows as a medium,' and not 'the system that sends pictures between distant places.'",
+      "examples": [
+        "We bought a new television for the living room.",
+        "Please turn the television off before you go to bed."
+      ],
+      "branchCoverage": [
+        "an electronic device that receives television signals and displays them on a screen -> An electronic unit that picks up picture signals and shows the images on a screen."
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "television%1:06:00:: -> system that sends pictures between distant places; television%1:06:01:: -> unit that receives signals and shows pictures",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "till%2:36:00::",
+      "lemma": "till",
+      "pos": "v",
+      "definition": "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation",
+      "sourceBranches": [
+        "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to prepare fields for growing crops, for example by turning the soil, breaking up clods, or adding manure",
+      "scope": "This is the verb for preparing soil, not the noun meaning a strongbox for holding cash, the government treasury, or soil left by a glacier.",
+      "examples": [
+        "Farmers till the soil before planting in spring.",
+        "He tilled the field for hours, turning over the heavy clay."
+      ],
+      "branchCoverage": [
+        "work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation -> to prepare fields for growing crops, for example by turning the soil, breaking up clods, or adding manure"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "function%1:24:00::",
+      "lemma": "function",
+      "pos": "n",
+      "definition": "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)",
+      "sourceBranches": [
+        "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in mathematics, a rule that pairs every member of one set with a member of another set",
+      "scope": "This is the mathematical link between two sets, not a purpose or use, a duty or role, a relation in which one thing depends on another, a social gathering, or a computer routine.",
+      "examples": [
+        "Students learn to graph a function in algebra class.",
+        "For each input, the function gives exactly one output."
+      ],
+      "branchCoverage": [
+        "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function) -> in mathematics, a rule that pairs every member of one set with a member of another set"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "influence%2:32:00::",
+      "lemma": "influence",
+      "pos": "v",
+      "definition": "induce into action by using one's charm",
+      "sourceBranches": [
+        "induce into action by using one's charm"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to get someone to act by being charming and winning them over",
+      "scope": "This is charming someone into doing something, not the general sense of having an effect on events or people, nor shaping or directing how something develops.",
+      "examples": [
+        "She influenced him into lending her the money.",
+        "The agent influenced the young actor into signing the contract."
+      ],
+      "branchCoverage": [
+        "induce into action by using one's charm -> to get someone to act by being charming and winning them over"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "copy%1:10:00::",
+      "lemma": "copy",
+      "pos": "n",
+      "definition": "a reproduction of a written record (e.g. of a legal or school record)",
+      "sourceBranches": [
+        "a reproduction of a written record (e.g. of a legal or school record)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a written document produced again from an original, such as one kept by a court or a school",
+      "scope": "This is a written record reproduced from an original, not a thing made to look like another object, printed material for publication, or writing suitable for a news story.",
+      "examples": [
+        "The clerk filed a copy of the deed with the court.",
+        "Please bring a copy of your school record to the interview."
+      ],
+      "branchCoverage": [
+        "a reproduction of a written record (e.g. of a legal or school record) -> a written document produced again from an original, such as one kept by a court or a school"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "garden%2:36:00::",
+      "lemma": "garden",
+      "pos": "v",
+      "definition": "work in the garden",
+      "sourceBranches": [
+        "work in the garden"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to do work such as planting and weeding in a plot where plants are grown",
+      "scope": "This is the activity of tending plants in a plot, not the plot itself, the plants grown there, a lawn beside a house, or the adjective meaning ordinary or familiar.",
+      "examples": [
+        "She gardens on weekends, planting tomatoes and pulling weeds.",
+        "My grandfather gardened every morning until he was eighty."
+      ],
+      "branchCoverage": [
+        "work in the garden -> to do work such as planting and weeding in a plot where plants are grown"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "horse%1:14:00::",
+      "lemma": "horse",
+      "pos": "n",
+      "definition": "troops trained to fight on horseback",
+      "sourceBranches": [
+        "troops trained to fight on horseback"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "soldiers trained to do battle while riding animals",
+      "scope": "This is the collective term for mounted troops, not the animal itself, a padded gymnastic apparatus, a chess piece, a frame for holding wood, or the verb meaning to supply someone with animals.",
+      "examples": [
+        "Five hundred horse led the attack.",
+        "A thousand horse advanced across the plain at dawn."
+      ],
+      "branchCoverage": [
+        "troops trained to fight on horseback -> soldiers trained to do battle while riding animals"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "map%1:24:00::",
+      "lemma": "map",
+      "pos": "n",
+      "definition": "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)",
+      "sourceBranches": [
+        "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in mathematics, a rule that links every item in one set to an item in another set",
+      "scope": "This is the mathematical link between two sets, not a drawing of the earth's surface, nor any of the verb senses such as making a diagram or planning something in detail.",
+      "examples": [
+        "The course introduces the idea of a map from one set to another.",
+        "In topology, a map can be continuous without being a simple line."
+      ],
+      "branchCoverage": [
+        "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function) -> in mathematics, a rule that links every item in one set to an item in another set"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "farm%2:36:00::",
+      "lemma": "farm",
+      "pos": "v",
+      "definition": "cultivate by growing, often involving improvements by means of agricultural techniques",
+      "sourceBranches": [
+        "cultivate by growing, often involving improvements by means of agricultural techniques"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to grow crops or raise animals on land, often improving it with better growing methods",
+      "scope": "This is the act of growing crops or raising animals, not the occupation of working as a farmer, collecting fees or profits, or the noun for a workplace of buildings and land.",
+      "examples": [
+        "They farm wheat and barley on the valley floor.",
+        "The family farms a hundred acres near the river."
+      ],
+      "branchCoverage": [
+        "cultivate by growing, often involving improvements by means of agricultural techniques -> to grow crops or raise animals on land, often improving it with better growing methods"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "technical%1:04:00::",
+      "lemma": "technical",
+      "pos": "n",
+      "definition": "(basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct; does not usually involve physical contact during play",
+      "sourceBranches": [
+        "(basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct",
+        "does not usually involve physical contact during play"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in basketball, a penalty for unsporting behavior that a player, coach, or whole team may receive, mostly without bodily contact during the game",
+      "scope": "This is the basketball penalty, not the pickup truck with a mounted gun, nor the adjective senses about skill, machinery, or strict legal interpretation.",
+      "examples": [
+        "The referee called a technical after the coach argued with him.",
+        "He received a technical for shouting at the referee."
+      ],
+      "branchCoverage": [
+        "(basketball) a foul that can be assessed on a player or a coach or a team for unsportsmanlike conduct -> in basketball, a penalty for unsporting behavior that a player, coach, or whole team may receive",
+        "does not usually involve physical contact during play -> mostly without bodily contact during the game"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "variety%1:14:00::",
+      "lemma": "variety",
+      "pos": "n",
+      "definition": "(biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics",
+      "sourceBranches": [
+        "(biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in biology, a group within a species whose members differ from the rest in small inherited ways",
+      "scope": "This is the biological grouping below a species, not a collection of different things, a show of unrelated performances, a kind or category of things, or the quality of being pleasantly different.",
+      "examples": [
+        "Botanists classified the red-flowered plants as a separate variety.",
+        "Each island has its own variety of finch."
+      ],
+      "branchCoverage": [
+        "(biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics -> in biology, a group within a species whose members differ from the rest in small inherited ways"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "injury%1:11:01::",
+      "lemma": "injury",
+      "pos": "n",
+      "definition": "a casualty to military personnel resulting from combat",
+      "sourceBranches": [
+        "a casualty to military personnel resulting from combat"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a wound suffered by military personnel in combat",
+      "scope": "This is a military casualty from combat, not physical damage to the body, an accident that causes such damage, an act that causes harm, or wrongdoing against someone's rights.",
+      "examples": [
+        "He still limped from an injury received at the front.",
+        "The report listed the injuries suffered in the attack."
+      ],
+      "branchCoverage": [
+        "a casualty to military personnel resulting from combat -> a wound suffered by military personnel in combat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "The gloss describes a casualty (a person), but this synset's members are 'wound', 'injury' and 'combat injury', so it denotes the injury itself; both examples also use 'injuries' for people, which is unnatural and reads as physical wounds. Rewrite it as a wound suffered by military personnel in combat and replace the examples with sentences showing an injury, not casualties."
+    },
+    {
+      "senseId": "reference%2:36:00::",
+      "lemma": "reference",
+      "pos": "v",
+      "definition": "refer to",
+      "sourceBranches": [
+        "refer to"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to mention something or direct attention to it",
+      "scope": "This is the verb meaning to mention or point to something, not the noun for a citation, a recommendation letter, a book of facts, or the act of consulting something.",
+      "examples": [
+        "The author references several earlier studies in the introduction.",
+        "She referenced the treaty in her speech."
+      ],
+      "branchCoverage": [
+        "refer to -> to mention something or direct attention to it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,1154 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 51,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 45,
+      "of": 50,
+      "rate": 0.9
+    },
+    "selfApproved": [
+      "white%1:06:03::",
+      "white%5:00:00:segregated:00",
+      "order%2:31:00::",
+      "run%1:11:00::",
+      "service%1:04:06::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "467c743fabda75e90e4294e75dc4734a753c66e8f440beb7bd32661b672d5acc"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "small%5:00:00:decreased:00",
+      "lemma": "small",
+      "pos": "a",
+      "definition": "made to seem smaller or less (especially in worth)",
+      "decision": "gloss",
+      "simpleMeaning": "made to appear less big or less valuable than it really is.",
+      "scope": "This sense is not about actual size, age, or a modest amount; it describes something that has been made to look less important by comparison or by someone's words.",
+      "examples": [
+        "Her kind words made his fear seem small.",
+        "The report made the team's gains look small by comparison."
+      ],
+      "branchCoverage": [
+        "made to seem smaller or less (especially in worth) -> made to appear less big or less valuable than it really is"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "made to seem smaller or less (especially in worth)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%1:06:03::",
+      "lemma": "white",
+      "pos": "n",
+      "definition": "(usually in the plural) trousers made of flannel or gabardine or tweed or white cloth",
+      "decision": "gloss",
+      "simpleMeaning": "trousers made of flannel, gabardine, or tweed, or of white cloth, usually used in the plural.",
+      "scope": "This is not the color itself and not any light-colored garment; it is a plural noun for a kind of trousers.",
+      "examples": [
+        "He folded his cricket whites neatly into the bag.",
+        "She bought a new pair of whites for the tennis season."
+      ],
+      "branchCoverage": [
+        "(usually in the plural) trousers made of flannel or gabardine or tweed or white cloth -> trousers made of flannel, gabardine, or tweed, or of white cloth, usually used in the plural"
+      ],
+      "labelBranches": [
+        "(usually in the plural) -> grammar note saying the noun is usually plural; the rest of the branch carries the meaning"
+      ],
+      "sourceBranches": [
+        "(usually in the plural) trousers made of flannel or gabardine or tweed or white cloth"
+      ],
+      "lemmaPartition": "white%1:06:03:: = noun, usually plural, for trousers of flannel, gabardine, tweed or light-colored cloth; white%5:00:00:colorless:02 = a face or skin drained of color by illness or emotion; white%5:00:00:good:02 = kind intentions with no wish to harm; white%5:00:00:light:06 = far-northern summer nights when the sun barely sets; white%5:00:00:segregated:00 = open only to light-skinned people; white%5:00:00:hot:01 = heated until it glows with a bright pale light",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss broadens 'white cloth' to 'cloth of a plain light color', dropping the specific white shade."
+    },
+    {
+      "senseId": "white%5:00:00:colorless:02",
+      "lemma": "white",
+      "pos": "a",
+      "definition": "anemic looking from illness or emotion",
+      "decision": "gloss",
+      "simpleMeaning": "looking pale and weak because of illness or strong feeling.",
+      "scope": "This is not a pale object, surface, or piece of clothing; it describes a face or skin drained of color.",
+      "examples": [
+        "Her face went white when she heard the news.",
+        "He was white with pain after the fall."
+      ],
+      "branchCoverage": [
+        "anemic looking from illness or emotion -> looking pale and weak because of illness or strong feeling"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "anemic looking from illness or emotion"
+      ],
+      "lemmaPartition": "white%1:06:03:: = noun, usually plural, for trousers of flannel, gabardine, tweed or light-colored cloth; white%5:00:00:colorless:02 = a face or skin drained of color by illness or emotion; white%5:00:00:good:02 = kind intentions with no wish to harm; white%5:00:00:light:06 = far-northern summer nights when the sun barely sets; white%5:00:00:segregated:00 = open only to light-skinned people; white%5:00:00:hot:01 = heated until it glows with a bright pale light",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%5:00:00:good:02",
+      "lemma": "white",
+      "pos": "a",
+      "definition": "benevolent; without malicious intent",
+      "decision": "gloss",
+      "simpleMeaning": "kind and well-meaning, with no wish to harm anyone.",
+      "scope": "This is not a color or a racial group; it describes intentions that are gentle and harmless.",
+      "examples": [
+        "It was a white lie, told to spare her feelings.",
+        "In the tale, white magic is used only to heal."
+      ],
+      "branchCoverage": [
+        "benevolent -> kind and well-meaning",
+        "without malicious intent -> with no wish to harm anyone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "benevolent",
+        "without malicious intent"
+      ],
+      "lemmaPartition": "white%1:06:03:: = noun, usually plural, for trousers of flannel, gabardine, tweed or light-colored cloth; white%5:00:00:colorless:02 = a face or skin drained of color by illness or emotion; white%5:00:00:good:02 = kind intentions with no wish to harm; white%5:00:00:light:06 = far-northern summer nights when the sun barely sets; white%5:00:00:segregated:00 = open only to light-skinned people; white%5:00:00:hot:01 = heated until it glows with a bright pale light",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%5:00:00:light:06",
+      "lemma": "white",
+      "pos": "a",
+      "definition": "of summer nights in northern latitudes where the sun barely sets",
+      "decision": "gloss",
+      "simpleMeaning": "describing summer nights in far northern places where the sun hardly goes down.",
+      "scope": "This is not about the color of the sky or of anything on the ground; it names a kind of summer night near the top of the world.",
+      "examples": [
+        "We walked at midnight through the white nights of the far north.",
+        "In June the city holds a festival during its white nights."
+      ],
+      "branchCoverage": [
+        "of summer nights in northern latitudes where the sun barely sets -> describing summer nights in far northern places where the sun hardly goes down"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of summer nights in northern latitudes where the sun barely sets"
+      ],
+      "lemmaPartition": "white%1:06:03:: = noun, usually plural, for trousers of flannel, gabardine, tweed or light-colored cloth; white%5:00:00:colorless:02 = a face or skin drained of color by illness or emotion; white%5:00:00:good:02 = kind intentions with no wish to harm; white%5:00:00:light:06 = far-northern summer nights when the sun barely sets; white%5:00:00:segregated:00 = open only to light-skinned people; white%5:00:00:hot:01 = heated until it glows with a bright pale light",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "white%5:00:00:segregated:00",
+      "lemma": "white",
+      "pos": "a",
+      "definition": "restricted to whites only",
+      "decision": "gloss",
+      "simpleMeaning": "restricted to people of European descent only.",
+      "scope": "This is not about color, kindness, or summer light; it describes a place or rule that keeps others out by race.",
+      "examples": [
+        "The old sign said the beach was for whites only.",
+        "He grew up under white-only laws in the South."
+      ],
+      "branchCoverage": [
+        "restricted to whites only -> restricted to people of European descent only"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "restricted to whites only"
+      ],
+      "lemmaPartition": "white%1:06:03:: = noun, usually plural, for trousers of flannel, gabardine, tweed or light-colored cloth; white%5:00:00:colorless:02 = a face or skin drained of color by illness or emotion; white%5:00:00:good:02 = kind intentions with no wish to harm; white%5:00:00:light:06 = far-northern summer nights when the sun barely sets; white%5:00:00:segregated:00 = open only to light-skinned people; white%5:00:00:hot:01 = heated until it glows with a bright pale light",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss replaces 'whites' (a racial group) with 'light-skinned people', a different and inaccurate restriction."
+    },
+    {
+      "senseId": "white%5:00:00:hot:01",
+      "lemma": "white",
+      "pos": "a",
+      "definition": "glowing white with heat",
+      "decision": "gloss",
+      "simpleMeaning": "so hot that it shines with a bright, pale light.",
+      "scope": "This is not a surface that merely has a pale color; it describes something heated until it glows.",
+      "examples": [
+        "The blade was still white-hot when he plunged it into the water.",
+        "The metal in the forge glowed white with heat."
+      ],
+      "branchCoverage": [
+        "glowing white with heat -> so hot that it shines with a bright, pale light"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "glowing white with heat"
+      ],
+      "lemmaPartition": "white%1:06:03:: = noun, usually plural, for trousers of flannel, gabardine, tweed or light-colored cloth; white%5:00:00:colorless:02 = a face or skin drained of color by illness or emotion; white%5:00:00:good:02 = kind intentions with no wish to harm; white%5:00:00:light:06 = far-northern summer nights when the sun barely sets; white%5:00:00:segregated:00 = open only to light-skinned people; white%5:00:00:hot:01 = heated until it glows with a bright pale light",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "side%1:09:00::",
+      "lemma": "side",
+      "pos": "n",
+      "definition": "an aspect of something (as contrasted with some other implied aspect)",
+      "decision": "gloss",
+      "simpleMeaning": "one feature or part of a matter, understood by contrast with another part that is left unsaid.",
+      "scope": "This is not a physical edge, face, or cut of meat; it is a feature of a situation or idea.",
+      "examples": [
+        "There is a darker side to the story that nobody mentions.",
+        "You have to look at the practical side of the plan."
+      ],
+      "branchCoverage": [
+        "an aspect of something (as contrasted with some other implied aspect) -> one feature or part of a matter, understood by contrast with another part that is left unsaid"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an aspect of something (as contrasted with some other implied aspect)"
+      ],
+      "lemmaPartition": "side%1:09:00:: = a feature of a matter seen against another unstated feature; side%1:13:00:: = half of a butchered animal kept for food; side%1:06:00:: = a long outer face of an object; side%1:10:00:: = a view held against another in a dispute; side%1:15:01:: = a straight edge of a flat shape; side%1:17:01:: = a raised natural formation of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "side%1:13:00::",
+      "lemma": "side",
+      "pos": "n",
+      "definition": "a lengthwise dressed half of an animal's carcass used for food",
+      "decision": "gloss",
+      "simpleMeaning": "one half of a butchered animal, cut along its length, used for food.",
+      "scope": "This is not a feature of a situation and not an outer face; it is a large cut of meat from one half of an animal.",
+      "examples": [
+        "The butcher hung a whole side of beef in the cold room.",
+        "They ordered a side of pork for the feast."
+      ],
+      "branchCoverage": [
+        "a lengthwise dressed half of an animal's carcass used for food -> one half of a butchered animal, cut along its length, used for food"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a lengthwise dressed half of an animal's carcass used for food"
+      ],
+      "lemmaPartition": "side%1:09:00:: = a feature of a matter seen against another unstated feature; side%1:13:00:: = half of a butchered animal kept for food; side%1:06:00:: = a long outer face of an object; side%1:10:00:: = a view held against another in a dispute; side%1:15:01:: = a straight edge of a flat shape; side%1:17:01:: = a raised natural formation of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "side%1:06:00::",
+      "lemma": "side",
+      "pos": "n",
+      "definition": "an extended outer surface of an object",
+      "decision": "gloss",
+      "simpleMeaning": "a long outer face of an object.",
+      "scope": "This is not an inner part, a feature of an idea, or a line on a field; it is an outer surface of a solid thing.",
+      "examples": [
+        "The side of the box was torn in the move.",
+        "He painted the side of the house that faces the road."
+      ],
+      "branchCoverage": [
+        "an extended outer surface of an object -> a long outer face of an object"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an extended outer surface of an object"
+      ],
+      "lemmaPartition": "side%1:09:00:: = a feature of a matter seen against another unstated feature; side%1:13:00:: = half of a butchered animal kept for food; side%1:06:00:: = a long outer face of an object; side%1:10:00:: = a view held against another in a dispute; side%1:15:01:: = a straight edge of a flat shape; side%1:17:01:: = a raised natural formation of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "side%1:10:00::",
+      "lemma": "side",
+      "pos": "n",
+      "definition": "an opinion that is held in opposition to another in an argument or dispute",
+      "decision": "gloss",
+      "simpleMeaning": "a view held against another view in a disagreement.",
+      "scope": "This is not a physical face or a feature of an object; it is a position taken by one person or group in a dispute.",
+      "examples": [
+        "Each side in the debate was given ten minutes.",
+        "She took his side in the quarrel."
+      ],
+      "branchCoverage": [
+        "an opinion that is held in opposition to another in an argument or dispute -> a view held against another view in a disagreement"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an opinion that is held in opposition to another in an argument or dispute"
+      ],
+      "lemmaPartition": "side%1:09:00:: = a feature of a matter seen against another unstated feature; side%1:13:00:: = half of a butchered animal kept for food; side%1:06:00:: = a long outer face of an object; side%1:10:00:: = a view held against another in a dispute; side%1:15:01:: = a straight edge of a flat shape; side%1:17:01:: = a raised natural formation of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "side%1:15:01::",
+      "lemma": "side",
+      "pos": "n",
+      "definition": "a line segment forming part of the perimeter of a plane figure",
+      "decision": "gloss",
+      "simpleMeaning": "one of the straight edges that form the boundary of a flat shape.",
+      "scope": "This is not a surface of a solid object or a position in an argument; it is an edge of a flat figure.",
+      "examples": [
+        "A square has four equal sides.",
+        "The longest side of the triangle is opposite the largest angle."
+      ],
+      "branchCoverage": [
+        "a line segment forming part of the perimeter of a plane figure -> one of the straight edges that form the boundary of a flat shape"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a line segment forming part of the perimeter of a plane figure"
+      ],
+      "lemmaPartition": "side%1:09:00:: = a feature of a matter seen against another unstated feature; side%1:13:00:: = half of a butchered animal kept for food; side%1:06:00:: = a long outer face of an object; side%1:10:00:: = a view held against another in a dispute; side%1:15:01:: = a straight edge of a flat shape; side%1:17:01:: = a raised natural formation of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "side%1:17:01::",
+      "lemma": "side",
+      "pos": "n",
+      "definition": "an elevated geological formation",
+      "decision": "gloss",
+      "simpleMeaning": "a raised natural formation of land, such as a hill or ridge.",
+      "scope": "This is not a flat surface or a feature of an idea; it is a raised part of the land.",
+      "examples": [
+        "The village sits on the side of the mountain.",
+        "They climbed the steep side of the hill."
+      ],
+      "branchCoverage": [
+        "an elevated geological formation -> a raised natural formation of land, such as a hill or ridge"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an elevated geological formation"
+      ],
+      "lemmaPartition": "side%1:09:00:: = a feature of a matter seen against another unstated feature; side%1:13:00:: = half of a butchered animal kept for food; side%1:06:00:: = a long outer face of an object; side%1:10:00:: = a view held against another in a dispute; side%1:15:01:: = a straight edge of a flat shape; side%1:17:01:: = a raised natural formation of land",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "actually%4:02:02::",
+      "lemma": "actually",
+      "pos": "r",
+      "definition": "as a sentence modifier to add slight emphasis; as a modifier to add slight emphasis",
+      "decision": "gloss",
+      "simpleMeaning": "used to give a statement, or a single word in it, a little extra emphasis.",
+      "scope": "This is not about stating a fact or correcting someone who is wrong; it only adds a little force to what is said.",
+      "examples": [
+        "I actually enjoyed the film.",
+        "She actually finished the whole race."
+      ],
+      "branchCoverage": [
+        "as a sentence modifier to add slight emphasis -> used to give a statement a little extra emphasis",
+        "as a modifier to add slight emphasis -> used to give a single word in it a little extra emphasis"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "as a sentence modifier to add slight emphasis",
+        "as a modifier to add slight emphasis"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:09:01::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a course of reasoning aimed at demonstrating a truth or falsehood; the methodical process of logical reasoning",
+      "decision": "gloss",
+      "simpleMeaning": "a careful, orderly process of reasoning that aims to show something is true or false.",
+      "scope": "This is not a drawn mark, a row of things, or a pipe; it is a chain of reasoning.",
+      "examples": [
+        "His line of reasoning was clear from start to finish.",
+        "The lawyer's line of argument convinced the jury."
+      ],
+      "branchCoverage": [
+        "a course of reasoning aimed at demonstrating a truth or falsehood -> a process of reasoning that aims to show something is true or false",
+        "the methodical process of logical reasoning -> a careful, orderly process of reasoning"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a course of reasoning aimed at demonstrating a truth or falsehood",
+        "the methodical process of logical reasoning"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:06:01::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a conductor for transmitting electrical or optical signals or electric power",
+      "decision": "gloss",
+      "simpleMeaning": "a wire or cable that carries electric power or signals, whether electrical or carried by light.",
+      "scope": "This is not a mark on paper or a row of people; it is a physical conductor for power or signals.",
+      "examples": [
+        "The power line was knocked down by the storm.",
+        "A fibre-optic line carries the internet signal across the city."
+      ],
+      "branchCoverage": [
+        "a conductor for transmitting electrical or optical signals or electric power -> a wire or cable that carries electric power or signals, whether electrical or carried by light"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a conductor for transmitting electrical or optical signals or electric power"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:06:09::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it",
+      "decision": "gloss",
+      "simpleMeaning": "a factory system in which a product moves past a series of stations, each doing the next step.",
+      "scope": "This is not a queue of people or a row of writing; it is a mechanical system for making goods step by step.",
+      "examples": [
+        "The new assembly line doubled the factory's output.",
+        "She works on the production line making car doors."
+      ],
+      "branchCoverage": [
+        "mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it -> a factory system in which a product moves past a series of stations, each doing the next step"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "mechanical system in a factory whereby an article is conveyed through sites at which successive operations are performed on it"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:15:00::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a spatial location defined by a real or imaginary unidimensional extent",
+      "decision": "gloss",
+      "simpleMeaning": "a position in space that runs in one direction only, whether real or imagined.",
+      "scope": "This is not an edge of a flat shape or a unit of advertising space; it is a position in space with length in one direction only.",
+      "examples": [
+        "The road follows the line of the valley.",
+        "The state line runs along the river."
+      ],
+      "branchCoverage": [
+        "a spatial location defined by a real or imaginary unidimensional extent -> a position in space that runs in one direction only, whether real or imagined"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a spatial location defined by a real or imaginary unidimensional extent"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:23:00::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "space for one line of print (one column wide and 1/14 inch deep) used to measure advertising",
+      "decision": "gloss",
+      "simpleMeaning": "a unit of advertising space one column wide and one fourteenth of an inch deep.",
+      "scope": "This is not a printed sentence or a drawn mark; it is a measured unit used to price advertising.",
+      "examples": [
+        "The magazine charges by the line for small ads.",
+        "The ad was priced at two dollars per line."
+      ],
+      "branchCoverage": [
+        "space for one line of print (one column wide and 1/14 inch deep) used to measure advertising -> a unit of advertising space one column wide and one fourteenth of an inch deep"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "space for one line of print (one column wide and 1/14 inch deep) used to measure advertising"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:06:00::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "something (as a cord or rope) that is long and thin and flexible",
+      "decision": "gloss",
+      "simpleMeaning": "a long, thin, bendable thing such as a cord or rope.",
+      "scope": "This is not a mark, a pipe, or a row; it is a flexible rope-like object.",
+      "examples": [
+        "He tied the boat to the dock with a strong line.",
+        "The climber checked every line before the ascent."
+      ],
+      "branchCoverage": [
+        "something (as a cord or rope) that is long and thin and flexible -> a long, thin, bendable thing such as a cord or rope"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something (as a cord or rope) that is long and thin and flexible"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:10:03::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a succession of notes forming a distinctive sequence",
+      "decision": "gloss",
+      "simpleMeaning": "a series of musical notes that forms a distinctive melody.",
+      "scope": "This is not a written row, a spoken remark, or a length in space; it is a sequence of notes in music.",
+      "examples": [
+        "The melody line is carried by the violins.",
+        "She hummed the bass line while she worked."
+      ],
+      "branchCoverage": [
+        "a succession of notes forming a distinctive sequence -> a series of musical notes that forms a distinctive melody"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a succession of notes forming a distinctive sequence"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:10:06::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "persuasive but insincere talk that is usually intended to deceive or impress",
+      "decision": "gloss",
+      "simpleMeaning": "talk that sounds convincing but is not sincere and is meant to fool or impress someone.",
+      "scope": "This is not a musical sequence or a row of print; it is smooth talk meant to persuade or impress.",
+      "examples": [
+        "Don't believe his line about being a movie star.",
+        "She saw through the salesman's line at once."
+      ],
+      "branchCoverage": [
+        "persuasive but insincere talk that is usually intended to deceive or impress -> talk that sounds convincing but is not sincere and is meant to fool or impress someone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "persuasive but insincere talk that is usually intended to deceive or impress"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:15:01::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "in games or sports; a mark indicating positions or bounds of the playing area",
+      "decision": "gloss",
+      "simpleMeaning": "in a game or sport, a mark on the playing area that shows positions or boundaries.",
+      "scope": "This is not a mark on paper, a border between countries, or a rope; it is a mark on a playing area.",
+      "examples": [
+        "The ball landed just inside the line.",
+        "Players must stay behind the line when serving."
+      ],
+      "branchCoverage": [
+        "in games or sports -> in a game or sport",
+        "a mark indicating positions or bounds of the playing area -> a mark on the playing area that shows positions or boundaries"
+      ],
+      "labelBranches": [
+        "in games or sports -> domain label marking that this sense is used of games and sports"
+      ],
+      "sourceBranches": [
+        "in games or sports",
+        "a mark indicating positions or bounds of the playing area"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:19:00::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a single frequency (or very narrow band) of radiation in a spectrum",
+      "decision": "gloss",
+      "simpleMeaning": "one particular frequency, or a very narrow range of frequencies, of radiation in a spectrum.",
+      "scope": "This is not a visible mark or a boundary in a game; it is a narrow band of radiation.",
+      "examples": [
+        "The astronomer measured a bright line in the star's spectrum.",
+        "Each element leaves its own set of lines in the spectrum."
+      ],
+      "branchCoverage": [
+        "a single frequency (or very narrow band) of radiation in a spectrum -> one particular frequency, or a very narrow range of frequencies, of radiation in a spectrum"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a single frequency (or very narrow band) of radiation in a spectrum"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:25:00::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a length (straight or curved) without breadth or thickness; the trace of a moving point",
+      "decision": "gloss",
+      "simpleMeaning": "a continuous length, straight or curved, with no width or thickness, like the path of a moving point.",
+      "scope": "This is not a location in space or an edge of an object; it is a purely geometric length with no width.",
+      "examples": [
+        "He drew a line from the corner to the center.",
+        "The line curves gently to the left."
+      ],
+      "branchCoverage": [
+        "a length (straight or curved) without breadth or thickness -> a continuous length, straight or curved, with no width or thickness",
+        "the trace of a moving point -> like the path of a moving point"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a length (straight or curved) without breadth or thickness",
+        "the trace of a moving point"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a step-by-step course of reasoning; line%1:06:01:: = a conductor carrying power or signals; line%1:06:09:: = a factory system of successive operations; line%1:15:00:: = a one-directional position in space; line%1:23:00:: = a measured unit of advertising space; line%1:06:00:: = a long thin flexible cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive but insincere talk; line%1:15:01:: = a mark on a playing area; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width; line%1:25:01:: = a slight fold or depression in a surface; line%1:06:03:: = railroad track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = a conceptual separation or distinction",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:25:01::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a slight depression or fold in the smoothness of a surface",
+      "decision": "gloss",
+      "simpleMeaning": "A small dip or crease in a surface that is otherwise smooth.",
+      "scope": "This is a physical crease in a surface, not a mark that sets a boundary, a geometric length, or a row of printed words.",
+      "examples": [
+        "Deep lines had formed around her mouth.",
+        "The iron left a line across the cloth."
+      ],
+      "branchCoverage": [
+        "a slight depression or fold in the smoothness of a surface -> A small dip or crease in a surface that is otherwise smooth"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a slight depression or fold in the smoothness of a surface"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a course of logical reasoning; line%1:06:01:: = a conductor carrying signals or power; line%1:06:09:: = a factory system moving work through stages; line%1:15:00:: = a one-dimensional location in space; line%1:23:00:: = a unit of advertising print space; line%1:06:00:: = a cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive insincere talk; line%1:15:01:: = a mark setting bounds in a game; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width or thickness; line%1:25:01:: = a crease or fold in a surface; line%1:06:03:: = a railway route with track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = an abstract separation between ideas",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:06:03::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "the road consisting of railroad track and roadbed",
+      "decision": "gloss",
+      "simpleMeaning": "The route made up of a railway track and the prepared ground beneath it.",
+      "scope": "This is a railway route, not a pipe, a cable, or a mark on a surface.",
+      "examples": [
+        "A new high-speed line will link the two cities.",
+        "The old line carries freight trains through the valley."
+      ],
+      "branchCoverage": [
+        "the road consisting of railroad track and roadbed -> The route made up of a railway track and the prepared ground beneath it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the road consisting of railroad track and roadbed"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a course of logical reasoning; line%1:06:01:: = a conductor carrying signals or power; line%1:06:09:: = a factory system moving work through stages; line%1:15:00:: = a one-dimensional location in space; line%1:23:00:: = a unit of advertising print space; line%1:06:00:: = a cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive insincere talk; line%1:15:01:: = a mark setting bounds in a game; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width or thickness; line%1:25:01:: = a crease or fold in a surface; line%1:06:03:: = a railway route with track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = an abstract separation between ideas",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:06:06::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a pipe used to transport liquids or gases",
+      "decision": "gloss",
+      "simpleMeaning": "A pipe that carries liquids or gases from one place to another.",
+      "scope": "This is a pipe for liquids or gases, not a railway route or a cable carrying signals.",
+      "examples": [
+        "A burst gas line forced families to leave their homes.",
+        "Workers laid a new water line to the farm."
+      ],
+      "branchCoverage": [
+        "a pipe used to transport liquids or gases -> A pipe that carries liquids or gases from one place to another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a pipe used to transport liquids or gases"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a course of logical reasoning; line%1:06:01:: = a conductor carrying signals or power; line%1:06:09:: = a factory system moving work through stages; line%1:15:00:: = a one-dimensional location in space; line%1:23:00:: = a unit of advertising print space; line%1:06:00:: = a cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive insincere talk; line%1:15:01:: = a mark setting bounds in a game; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width or thickness; line%1:25:01:: = a crease or fold in a surface; line%1:06:03:: = a railway route with track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = an abstract separation between ideas",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "line%1:09:00::",
+      "lemma": "line",
+      "pos": "n",
+      "definition": "a conceptual separation or distinction",
+      "decision": "gloss",
+      "simpleMeaning": "A separation made in thought that keeps two things or ideas clearly apart.",
+      "scope": "This is an abstract separation between ideas, not a physical crease, a printed mark, or a geometric figure.",
+      "examples": [
+        "The film blurs the line between reality and fantasy.",
+        "There is a fine line between confidence and arrogance."
+      ],
+      "branchCoverage": [
+        "a conceptual separation or distinction -> A separation made in thought that keeps two things or ideas clearly apart"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a conceptual separation or distinction"
+      ],
+      "lemmaPartition": "line%1:09:01:: = a course of logical reasoning; line%1:06:01:: = a conductor carrying signals or power; line%1:06:09:: = a factory system moving work through stages; line%1:15:00:: = a one-dimensional location in space; line%1:23:00:: = a unit of advertising print space; line%1:06:00:: = a cord or rope; line%1:10:03:: = a sequence of musical notes; line%1:10:06:: = persuasive insincere talk; line%1:15:01:: = a mark setting bounds in a game; line%1:19:00:: = a narrow band of radiation in a spectrum; line%1:25:00:: = a geometric length with no width or thickness; line%1:25:01:: = a crease or fold in a surface; line%1:06:03:: = a railway route with track and roadbed; line%1:06:06:: = a pipe for liquids or gases; line%1:09:00:: = an abstract separation between ideas",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "order%2:41:01::",
+      "lemma": "order",
+      "pos": "v",
+      "definition": "bring into conformity with rules or principles or usage; impose regulations",
+      "decision": "gloss",
+      "simpleMeaning": "To make people or things follow rules, principles, or accepted practice, or to impose rules on them.",
+      "scope": "This is about setting or enforcing rules, not asking for goods, ranking items, or making a space tidy.",
+      "examples": [
+        "The monks ordered their days by a strict rule of prayer and work.",
+        "New laws ordered how much water each farm could take."
+      ],
+      "branchCoverage": [
+        "bring into conformity with rules or principles or usage -> To make people or things follow rules, principles, or accepted practice",
+        "impose regulations -> or to impose rules on them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "bring into conformity with rules or principles or usage",
+        "impose regulations"
+      ],
+      "lemmaPartition": "order%2:41:01:: = make people or things follow rules; order%1:10:01:: = a buyer's document requesting goods; order%1:14:00:: = a sensible arrangement of parts; order%2:31:00:: = put on a scale by rank or rating; order%2:41:02:: = appoint someone to a clerical post; order%2:30:00:: = make something neat and arranged; order%2:30:01:: = put things in a chosen sequence",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "order%1:10:01::",
+      "lemma": "order",
+      "pos": "n",
+      "definition": "a commercial document used to request someone to supply something in return for payment and providing specifications and quantities",
+      "decision": "gloss",
+      "simpleMeaning": "A business document that asks a supplier to provide stated goods in stated amounts, in return for payment.",
+      "scope": "This is a buying document, not a command, a neat arrangement, or a rank on a scale.",
+      "examples": [
+        "The shop sent an order for fifty chairs.",
+        "We received the goods two days after placing the order."
+      ],
+      "branchCoverage": [
+        "a commercial document used to request someone to supply something in return for payment and providing specifications and quantities -> A business document that asks a supplier to provide stated goods in stated amounts, in return for payment"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a commercial document used to request someone to supply something in return for payment and providing specifications and quantities"
+      ],
+      "lemmaPartition": "order%2:41:01:: = make people or things follow rules; order%1:10:01:: = a buyer's document requesting goods; order%1:14:00:: = a sensible arrangement of parts; order%2:31:00:: = put on a scale by rank or rating; order%2:41:02:: = appoint someone to a clerical post; order%2:30:00:: = make something neat and arranged; order%2:30:01:: = put things in a chosen sequence",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "order%1:14:00::",
+      "lemma": "order",
+      "pos": "n",
+      "definition": "logical or comprehensible arrangement of separate elements",
+      "decision": "gloss",
+      "simpleMeaning": "A sensible arrangement of separate parts so that they can be understood.",
+      "scope": "This is the arrangement of separate items, not a command, a purchase request, or a rating.",
+      "examples": [
+        "Put the files in alphabetical order.",
+        "The chapters follow a logical order."
+      ],
+      "branchCoverage": [
+        "logical or comprehensible arrangement of separate elements -> A sensible arrangement of separate parts so that they can be understood"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "logical or comprehensible arrangement of separate elements"
+      ],
+      "lemmaPartition": "order%2:41:01:: = make people or things follow rules; order%1:10:01:: = a buyer's document requesting goods; order%1:14:00:: = a sensible arrangement of parts; order%2:31:00:: = put on a scale by rank or rating; order%2:41:02:: = appoint someone to a clerical post; order%2:30:00:: = make something neat and arranged; order%2:30:01:: = put things in a chosen sequence",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "order%2:31:00::",
+      "lemma": "order",
+      "pos": "v",
+      "definition": "assign a rank or rating to",
+      "decision": "gloss",
+      "simpleMeaning": "To put things or people at a position on a scale by how good, important, or high they are.",
+      "scope": "This is grading things by quality or importance, not putting them in a fixed sequence such as alphabetical order, not a request to buy something, and not a command.",
+      "examples": [
+        "The judges ordered the entries from best to worst.",
+        "The coach ordered the players from strongest to weakest."
+      ],
+      "branchCoverage": [
+        "assign a rank or rating to -> To put things or people at a position on a scale by how good, important, or high they are"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "assign a rank or rating to"
+      ],
+      "lemmaPartition": "order%2:41:01:: = make people or things follow rules; order%1:10:01:: = a buyer's document requesting goods; order%1:14:00:: = a sensible arrangement of parts; order%2:31:00:: = put on a scale by rank or rating; order%2:41:02:: = appoint someone to a clerical post; order%2:30:00:: = make something neat and arranged; order%2:30:01:: = put things in a chosen sequence",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope omits nearest sibling 'put in a sequence'; examples also fit sequencing."
+    },
+    {
+      "senseId": "order%2:41:02::",
+      "lemma": "order",
+      "pos": "v",
+      "definition": "appoint to a clerical posts",
+      "decision": "gloss",
+      "simpleMeaning": "To formally place someone in a religious office as a member of the clergy.",
+      "scope": "This is a religious appointment, not a command, a purchase, or a ranking.",
+      "examples": [
+        "She was ordered to the priesthood in her thirties.",
+        "The bishop ordered him as a deacon last year."
+      ],
+      "branchCoverage": [
+        "appoint to a clerical posts -> To formally place someone in a religious office as a member of the clergy"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "appoint to a clerical posts"
+      ],
+      "lemmaPartition": "order%2:41:01:: = make people or things follow rules; order%1:10:01:: = a buyer's document requesting goods; order%1:14:00:: = a sensible arrangement of parts; order%2:31:00:: = put on a scale by rank or rating; order%2:41:02:: = appoint someone to a clerical post; order%2:30:00:: = make something neat and arranged; order%2:30:01:: = put things in a chosen sequence",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "order%2:30:00::",
+      "lemma": "order",
+      "pos": "v",
+      "definition": "bring order to or into",
+      "decision": "gloss",
+      "simpleMeaning": "To make something neat and properly arranged.",
+      "scope": "This is making a place or thing tidy, not putting items in a sequence or giving a command.",
+      "examples": [
+        "She ordered her desk before starting work.",
+        "It took him an hour to order the garage."
+      ],
+      "branchCoverage": [
+        "bring order to or into -> To make something neat and properly arranged"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "bring order to or into"
+      ],
+      "lemmaPartition": "order%2:41:01:: = make people or things follow rules; order%1:10:01:: = a buyer's document requesting goods; order%1:14:00:: = a sensible arrangement of parts; order%2:31:00:: = put on a scale by rank or rating; order%2:41:02:: = appoint someone to a clerical post; order%2:30:00:: = make something neat and arranged; order%2:30:01:: = put things in a chosen sequence",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "order%2:30:01::",
+      "lemma": "order",
+      "pos": "v",
+      "definition": "place in a certain order",
+      "decision": "gloss",
+      "simpleMeaning": "To put things one after another in a chosen sequence.",
+      "scope": "This is putting items in a sequence, not making a space tidy or ranking them by quality.",
+      "examples": [
+        "Order the photos by date before you paste them in.",
+        "He ordered the cards from smallest to largest."
+      ],
+      "branchCoverage": [
+        "place in a certain order -> To put things one after another in a chosen sequence"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "place in a certain order"
+      ],
+      "lemmaPartition": "order%2:41:01:: = make people or things follow rules; order%1:10:01:: = a buyer's document requesting goods; order%1:14:00:: = a sensible arrangement of parts; order%2:31:00:: = put on a scale by rank or rating; order%2:41:02:: = appoint someone to a clerical post; order%2:30:00:: = make something neat and arranged; order%2:30:01:: = put things in a chosen sequence",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "party%1:11:00::",
+      "lemma": "party",
+      "pos": "n",
+      "definition": "an occasion on which people can assemble for social interaction and entertainment",
+      "decision": "gloss",
+      "simpleMeaning": "A social event where people gather to talk, enjoy themselves, and have fun.",
+      "scope": "This is a social gathering for enjoyment, not a political group or a person in a legal case.",
+      "examples": [
+        "We are having a party for her birthday on Saturday.",
+        "The office party went on until midnight."
+      ],
+      "branchCoverage": [
+        "an occasion on which people can assemble for social interaction and entertainment -> A social event where people gather to talk, enjoy themselves, and have fun"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an occasion on which people can assemble for social interaction and entertainment"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%1:23:00::",
+      "lemma": "run",
+      "pos": "n",
+      "definition": "the production achieved during a continuous period of operation (of a machine or factory etc.)",
+      "decision": "gloss",
+      "simpleMeaning": "The amount produced by a machine or factory during one continuous period of working.",
+      "scope": "This is the quantity produced in one period of working, not the length of that period or a series of events.",
+      "examples": [
+        "The first run of the new press produced ten thousand copies.",
+        "A single run of the kiln yields about five hundred tiles."
+      ],
+      "branchCoverage": [
+        "the production achieved during a continuous period of operation (of a machine or factory etc.) -> The amount produced by a machine or factory during one continuous period of working"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the production achieved during a continuous period of operation (of a machine or factory etc.)"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%1:07:00::",
+      "lemma": "run",
+      "pos": "n",
+      "definition": "an unbroken chronological sequence",
+      "decision": "gloss",
+      "simpleMeaning": "A continuous series of events or items that follow one another without a break.",
+      "scope": "This is an unbroken series over time, not a quantity produced or a period of machine operation.",
+      "examples": [
+        "The team enjoyed a run of six wins.",
+        "A run of bad luck left them short of money."
+      ],
+      "branchCoverage": [
+        "an unbroken chronological sequence -> A continuous series of events or items that follow one another without a break"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an unbroken chronological sequence"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%1:11:00::",
+      "lemma": "run",
+      "pos": "n",
+      "definition": "the pouring forth of a fluid",
+      "decision": "gloss",
+      "simpleMeaning": "an act of pouring out a fluid.",
+      "scope": "This is liquid flowing out, not a series of events, a period of operation, or a ladder in fabric.",
+      "examples": [
+        "A thin run of water trickled from the cracked pipe.",
+        "The run of sap lasted only a few days."
+      ],
+      "branchCoverage": [
+        "the pouring forth of a fluid -> an act of pouring out a fluid"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the pouring forth of a fluid"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'steady' and narrows 'fluid' to 'liquid', both absent from definition."
+    },
+    {
+      "senseId": "run%1:11:01::",
+      "lemma": "run",
+      "pos": "n",
+      "definition": "a row of unravelled stitches",
+      "decision": "gloss",
+      "simpleMeaning": "A row of stitches that have come undone in knitted fabric or a stocking.",
+      "scope": "This is a ladder of undone stitches in fabric, not a flow of liquid or a series of events.",
+      "examples": [
+        "A run in her tights spread up her leg.",
+        "She stopped the run in her stocking with clear nail polish."
+      ],
+      "branchCoverage": [
+        "a row of unravelled stitches -> A row of stitches that have come undone in knitted fabric or a stocking"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a row of unravelled stitches"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%1:28:00::",
+      "lemma": "run",
+      "pos": "n",
+      "definition": "the continuous period of time during which something (a machine or a factory) operates or continues in operation",
+      "decision": "gloss",
+      "simpleMeaning": "The length of time that a machine or factory keeps working without stopping.",
+      "scope": "This is the time a machine or plant keeps working, not the amount it produces or a quick act of movement.",
+      "examples": [
+        "The factory's longest run lasted three days.",
+        "The boiler had a run of six hours before it was shut down."
+      ],
+      "branchCoverage": [
+        "the continuous period of time during which something (a machine or a factory) operates or continues in operation -> The length of time that a machine or factory keeps working without stopping"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the continuous period of time during which something (a machine or a factory) operates or continues in operation"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%2:30:00::",
+      "lemma": "run",
+      "pos": "v",
+      "definition": "reduce or cause to be reduced from a solid to a liquid state, usually by heating",
+      "decision": "gloss",
+      "simpleMeaning": "To melt, or to make something melt, from a solid into a liquid, usually with heat.",
+      "scope": "This is turning a solid into liquid with heat, not moving quickly or operating a machine.",
+      "examples": [
+        "The candle wax ran down the side of the holder.",
+        "The butter ran as soon as it hit the hot pan."
+      ],
+      "branchCoverage": [
+        "reduce or cause to be reduced from a solid to a liquid state, usually by heating -> To melt, or to make something melt, from a solid into a liquid, usually with heat"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "reduce or cause to be reduced from a solid to a liquid state, usually by heating"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%2:30:01::",
+      "lemma": "run",
+      "pos": "v",
+      "definition": "come unraveled or undone as if by snagging",
+      "decision": "gloss",
+      "simpleMeaning": "To come undone in a row of stitches, as when knitted fabric catches on something.",
+      "scope": "This is fabric coming undone, not liquid flowing or an engine working.",
+      "examples": [
+        "Her tights ran when she caught them on a nail.",
+        "The seam ran after the first wash."
+      ],
+      "branchCoverage": [
+        "come unraveled or undone as if by snagging -> To come undone in a row of stitches, as when knitted fabric catches on something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "come unraveled or undone as if by snagging"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%2:36:01::",
+      "lemma": "run",
+      "pos": "v",
+      "definition": "cause to emit recorded audio or video",
+      "decision": "gloss",
+      "simpleMeaning": "To play a recording so that its sound or images come out.",
+      "scope": "This is playing recorded sound or pictures, not moving quickly or managing a machine.",
+      "examples": [
+        "They ran the tape for the jury.",
+        "The station ran the clip twice."
+      ],
+      "branchCoverage": [
+        "cause to emit recorded audio or video -> To play a recording so that its sound or images come out"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cause to emit recorded audio or video"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%2:38:11::",
+      "lemma": "run",
+      "pos": "v",
+      "definition": "move about freely and without restraint, or act as if running around in an uncontrolled way",
+      "decision": "gloss",
+      "simpleMeaning": "To move around freely with no one holding you back, or to behave in a wild, uncontrolled way.",
+      "scope": "This is moving or behaving without restraint, not moving fast in a race or operating equipment.",
+      "examples": [
+        "The children ran wild in the garden.",
+        "Dogs are not allowed to run loose here."
+      ],
+      "branchCoverage": [
+        "move about freely and without restraint, or act as if running around in an uncontrolled way -> To move around freely with no one holding you back, or to behave in a wild, uncontrolled way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "move about freely and without restraint, or act as if running around in an uncontrolled way"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%2:42:01::",
+      "lemma": "run",
+      "pos": "v",
+      "definition": "have a tendency or disposition to do or be something; be inclined",
+      "decision": "gloss",
+      "simpleMeaning": "To be likely by nature to become something or to behave in a certain way.",
+      "scope": "This is a natural tendency, not physical movement or the operation of a machine.",
+      "examples": [
+        "He runs to fat in later life.",
+        "Their designs run to the plain and practical."
+      ],
+      "branchCoverage": [
+        "have a tendency or disposition to do or be something -> To be likely by nature to become something or to behave in a certain way",
+        "be inclined -> To be likely by nature"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have a tendency or disposition to do or be something",
+        "be inclined"
+      ],
+      "lemmaPartition": "run%1:23:00:: = amount produced in one period of working; run%1:07:00:: = an unbroken series over time; run%1:11:00:: = a flow of liquid pouring out; run%1:11:01:: = a ladder of undone stitches; run%1:28:00:: = the time a machine keeps working; run%2:30:00:: = melt a solid with heat; run%2:30:01:: = fabric coming undone; run%2:36:01:: = play recorded sound or pictures; run%2:38:11:: = move or behave without restraint; run%2:42:01:: = have a natural tendency",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "service%1:04:04::",
+      "lemma": "service",
+      "pos": "n",
+      "definition": "the act of delivering a writ or summons upon someone",
+      "decision": "gloss",
+      "simpleMeaning": "The act of officially handing a formal court order or summons to a person.",
+      "scope": "This is the legal delivery of court papers, not help given to customers or a set of table dishes.",
+      "examples": [
+        "Service of the summons must happen within thirty days.",
+        "The lawyers arranged service on the defendant."
+      ],
+      "branchCoverage": [
+        "the act of delivering a writ or summons upon someone -> The act of officially handing a formal court order or summons to a person"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of delivering a writ or summons upon someone"
+      ],
+      "lemmaPartition": "service%1:04:04:: = legal delivery of a writ or summons; service%1:04:06:: = a waiter's work looking after guests; service%1:06:00:: = a complete set of table dishes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "service%1:04:06::",
+      "lemma": "service",
+      "pos": "n",
+      "definition": "the performance of duties by a waiter or servant",
+      "decision": "gloss",
+      "simpleMeaning": "the work a waiter or servant does in looking after guests or an employer.",
+      "scope": "This is waiting on guests or an employer, not repairing machines, delivering legal papers, or a set of dishes.",
+      "examples": [
+        "The service at the restaurant was slow but friendly.",
+        "In that house, good service meant the fire was lit before the family rose."
+      ],
+      "branchCoverage": [
+        "the performance of duties by a waiter or servant -> the work a waiter or servant does in looking after guests or an employer"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the performance of duties by a waiter or servant"
+      ],
+      "lemmaPartition": "service%1:04:04:: = legal delivery of a writ or summons; service%1:04:06:: = a waiter's work looking after guests; service%1:06:00:: = a complete set of table dishes",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'at a table', narrowing waiter/servant duties to restaurant work."
+    },
+    {
+      "senseId": "service%1:06:00::",
+      "lemma": "service",
+      "pos": "n",
+      "definition": "tableware consisting of a complete set of articles (silver or dishware) for use at table",
+      "decision": "gloss",
+      "simpleMeaning": "A complete set of plates, dishes, or silverware for use at a table.",
+      "scope": "This is a set of table dishes, not the work of a waiter or the delivery of legal papers.",
+      "examples": [
+        "They were given a full dinner service as a wedding present.",
+        "The china service includes twelve plates and a soup bowl."
+      ],
+      "branchCoverage": [
+        "tableware consisting of a complete set of articles (silver or dishware) for use at table -> A complete set of plates, dishes, or silverware for use at a table"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "tableware consisting of a complete set of articles (silver or dishware) for use at table"
+      ],
+      "lemmaPartition": "service%1:04:04:: = legal delivery of a writ or summons; service%1:04:06:: = a waiter's work looking after guests; service%1:06:00:: = a complete set of table dishes",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

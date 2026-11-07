@@ -1,0 +1,1001 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 15,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 47,
+      "of": 50,
+      "rate": 0.94
+    },
+    "selfApproved": [
+      "sound%2:39:00::",
+      "evidence%2:32:02::",
+      "green%2:30:00::"
+    ],
+    "selfApprovalRule": "Reviewer wording adopted verbatim and recorded; per user instruction 2026-11-06.",
+    "lineage": {
+      "draft": "ebb65d4abff4a41c8b049065a6ad895c8b9417ad3b3c5676c095ceadc6e700cf"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "giving%1:10:00::",
+      "lemma": "giving",
+      "pos": "n",
+      "definition": "the imparting of news or promises etc.",
+      "decision": "gloss",
+      "simpleMeaning": "the act of passing news, promises, or similar things on to another person.",
+      "scope": "It is not the act of handing over an object as a gift, and not a person's habit of being generous.",
+      "examples": [
+        "The giving of such news requires great care.",
+        "The giving of promises that cannot be kept only causes harm."
+      ],
+      "branchCoverage": [
+        "the imparting of news or promises etc -> passing news, promises, or similar things on to another person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "giving (n, imparting) = passing on news or promises; giving (a) = generous and ready to share; giving (n, act) = the act of handing something over as a gift or help.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "giving%5:00:00:generous:01",
+      "lemma": "giving",
+      "pos": "a",
+      "definition": "given or giving freely",
+      "decision": "gloss",
+      "simpleMeaning": "ready to share money, time, or help freely with other people.",
+      "scope": "It describes a generous person, not the act of handing something over.",
+      "examples": [
+        "She was a giving host who made sure everyone had enough.",
+        "He is a giving man, always ready to help a neighbour."
+      ],
+      "branchCoverage": [
+        "given or giving freely -> ready to share money, time, or help freely with other people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "giving (n, imparting) = passing on news or promises; giving (a) = generous and ready to share; giving (n, act) = the act of handing something over as a gift or help.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "giving%1:04:00::",
+      "lemma": "giving",
+      "pos": "n",
+      "definition": "the act of giving",
+      "decision": "gloss",
+      "simpleMeaning": "the act of handing something to someone as a gift or as help.",
+      "scope": "It is not the passing on of news or promises, and not a generous character.",
+      "examples": [
+        "The giving of gifts is a tradition at this time of year.",
+        "Her giving to charity has helped many families."
+      ],
+      "branchCoverage": [
+        "the act of giving -> handing something to someone as a gift or as help"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "giving (n, imparting) = passing on news or promises; giving (a) = generous and ready to share; giving (n, act) = the act of handing something over as a gift or help.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ground%1:16:00::",
+      "lemma": "ground",
+      "pos": "n",
+      "definition": "a rational motive for a belief or action",
+      "decision": "gloss",
+      "simpleMeaning": "a reason that supports a belief or an action.",
+      "scope": "It is not the surface of the earth or soil, but a reason someone can point to.",
+      "examples": [
+        "There are strong grounds for believing that the plan will fail.",
+        "She refused the offer on the grounds of low pay."
+      ],
+      "branchCoverage": [
+        "a rational motive for a belief or action -> a reason that supports a belief or an action"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ground (n) = a reason for a belief or action; ground (v, confine) = keeping an aircraft or pilot from flying; ground (v, place) = putting an object down on the earth.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ground%2:35:01::",
+      "lemma": "ground",
+      "pos": "v",
+      "definition": "confine or restrict to the ground",
+      "decision": "gloss",
+      "simpleMeaning": "to keep an aircraft or its pilot from flying.",
+      "scope": "It is not putting an object down on the earth; it means stopping a flight.",
+      "examples": [
+        "Heavy fog grounded all flights at the airport.",
+        "The pilot was grounded for two weeks after the incident."
+      ],
+      "branchCoverage": [
+        "confine or restrict to the ground -> keep an aircraft or its pilot from flying, so it stays on the ground"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ground (n) = a reason for a belief or action; ground (v, confine) = keeping an aircraft or pilot from flying; ground (v, place) = putting an object down on the earth.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ground%2:35:00::",
+      "lemma": "ground",
+      "pos": "v",
+      "definition": "place or put on the ground",
+      "decision": "gloss",
+      "simpleMeaning": "to put something down on the earth or floor.",
+      "scope": "It is not stopping an aircraft from flying; it means setting an object down.",
+      "examples": [
+        "The men grounded the boat on the sand and waited for the tide.",
+        "The movers grounded the crate gently on the floor."
+      ],
+      "branchCoverage": [
+        "place or put on the ground -> put something down on the earth or floor"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ground (n) = a reason for a belief or action; ground (v, confine) = keeping an aircraft or pilot from flying; ground (v, place) = putting an object down on the earth.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "meeting%1:11:00::",
+      "lemma": "meeting",
+      "pos": "n",
+      "definition": "a casual or unexpected convergence",
+      "decision": "gloss",
+      "simpleMeaning": "an occasion when people come together by chance.",
+      "scope": "It is not a planned event with an agreed time and place; it happens unexpectedly.",
+      "examples": [
+        "Their meeting at the airport was a complete surprise.",
+        "It was a chance meeting that led to a long friendship."
+      ],
+      "branchCoverage": [
+        "a casual or unexpected convergence -> people coming together by chance"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "meeting (n, chance) = people coming together by chance; meeting (n, arranged) = a planned gathering for discussion.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "meeting%1:14:00::",
+      "lemma": "meeting",
+      "pos": "n",
+      "definition": "a formally arranged gathering",
+      "decision": "gloss",
+      "simpleMeaning": "a planned and arranged event where people come together to discuss something.",
+      "scope": "It is not a chance coming together; it is arranged in advance.",
+      "examples": [
+        "The meeting will begin at ten in the main hall.",
+        "She raised the issue at a meeting of the town council."
+      ],
+      "branchCoverage": [
+        "a formally arranged gathering -> a planned and arranged event where people come together to discuss something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "meeting (n, chance) = people coming together by chance; meeting (n, arranged) = a planned gathering for discussion.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "provide%2:32:00::",
+      "lemma": "provide",
+      "pos": "v",
+      "definition": "determine (what is to happen in certain contingencies), especially by including a proviso condition or stipulation",
+      "decision": "gloss",
+      "simpleMeaning": "to state as a condition in a law or agreement what must happen in a particular case.",
+      "scope": "It is not supplying something that someone needs; it sets out a rule or condition.",
+      "examples": [
+        "The contract provides that the rent will rise each year.",
+        "The new law provides for free school meals."
+      ],
+      "branchCoverage": [
+        "determine (what is to happen in certain contingencies), especially by including a proviso condition or stipulation -> state as a condition in a law or agreement what must happen in a particular case"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "relationship%1:24:00::",
+      "lemma": "relationship",
+      "pos": "n",
+      "definition": "a relation between people; (‘relationship’ is often used where ‘relation’ would serve, as in ‘the relationship between inflation and unemployment’, but the preferred usage of ‘relationship’ is for human relations or states of relatedness)",
+      "decision": "gloss",
+      "simpleMeaning": "the way two or more people are connected or feel about each other.",
+      "scope": "It is not a formal link between things or numbers; the preferred use here is for connections between people.",
+      "examples": [
+        "The relationship between the two sisters has always been close.",
+        "Trust is the basis of any good relationship."
+      ],
+      "branchCoverage": [
+        "a relation between people -> the way two or more people are connected or feel about each other",
+        "(‘relationship’ is often used where ‘relation’ would serve, as in ‘the relationship between inflation and unemployment’, but the preferred usage of ‘relationship’ is for human relations or states of relatedness) -> declared usage label (see labelBranches)"
+      ],
+      "labelBranches": [
+        "usage: ‘relationship’ is often used where ‘relation’ would serve, as in ‘the relationship between inflation and unemployment’, but the preferred usage is for human relations or states of relatedness"
+      ],
+      "lemmaPartition": "relationship (n, people) = the connection or feelings between people; relationship (n, dealings) = the way parties or countries deal with each other over time.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "relationship%1:26:01::",
+      "lemma": "relationship",
+      "pos": "n",
+      "definition": "a state involving mutual dealings between people or parties or countries",
+      "decision": "gloss",
+      "simpleMeaning": "the way people, groups, or countries deal with each other over time.",
+      "scope": "It is not the close personal bond between two people; it is about ongoing dealings between parties.",
+      "examples": [
+        "The two countries have a strong trading relationship.",
+        "Their working relationship improved after the talks."
+      ],
+      "branchCoverage": [
+        "a state involving mutual dealings between people or parties or countries -> the way people, groups, or countries deal with each other over time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "relationship (n, people) = the connection or feelings between people; relationship (n, dealings) = the way parties or countries deal with each other over time.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sound%1:19:00::",
+      "lemma": "sound",
+      "pos": "n",
+      "definition": "mechanical vibrations transmitted by an elastic medium",
+      "decision": "gloss",
+      "simpleMeaning": "the waves of movement that travel through air, water, or another material and can be heard.",
+      "scope": "It is not a particular noise made by someone, but the physical waves that reach our ears.",
+      "examples": [
+        "Sound travels more slowly than light.",
+        "The walls are thick enough to keep out sound."
+      ],
+      "branchCoverage": [
+        "mechanical vibrations transmitted by an elastic medium -> waves of movement that travel through air, water, or another material and can be heard"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound (n) = vibrations you can hear; sound (v, cause) = to make a bell, horn, etc. produce a noise; sound (v, emit) = to produce a noise by itself.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sound%2:39:00::",
+      "lemma": "sound",
+      "pos": "v",
+      "definition": "make a certain noise or sound",
+      "decision": "gloss",
+      "simpleMeaning": "to make a bell, horn, or other thing produce a noise.",
+      "scope": "It is not a noise coming from something by itself; here someone causes the noise.",
+      "examples": [
+        "The bell sounded across the valley.",
+        "The alarm sounded at noon."
+      ],
+      "branchCoverage": [
+        "make a certain noise or sound -> make a bell, horn, or other thing produce a noise"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound (n) = vibrations you can hear; sound (v, cause) = to make a bell, horn, etc. produce a noise; sound (v, emit) = to produce a noise by itself.",
+      "meaning": "to make a particular noise.",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss and examples are causative ('sound the horn'), another sense. Use 'to make a particular noise'."
+    },
+    {
+      "senseId": "sound%2:39:03::",
+      "lemma": "sound",
+      "pos": "v",
+      "definition": "give off a certain sound or sounds",
+      "decision": "gloss",
+      "simpleMeaning": "to produce a noise that can be heard.",
+      "scope": "It is not causing an instrument to make a noise; the noise comes from the thing itself.",
+      "examples": [
+        "The bell sounded across the valley.",
+        "Footsteps sounded on the stairs above us."
+      ],
+      "branchCoverage": [
+        "give off a certain sound or sounds -> produce a noise that can be heard"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "sound (n) = vibrations you can hear; sound (v, cause) = to make a bell, horn, etc. produce a noise; sound (v, emit) = to produce a noise by itself.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "value%1:09:00::",
+      "lemma": "value",
+      "pos": "n",
+      "definition": "a numerical quantity measured or assigned or computed",
+      "decision": "gloss",
+      "simpleMeaning": "a number that is measured, given, or worked out for something.",
+      "scope": "It is not the importance or usefulness of something; it is a number or amount.",
+      "examples": [
+        "The meter gave a value of 20 degrees.",
+        "What is the value of x in this equation?"
+      ],
+      "branchCoverage": [
+        "a numerical quantity measured or assigned or computed -> a number that is measured, given, or worked out for something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "value (n, number) = a number or amount measured or calculated; value (n, worth) = the importance or usefulness of something; value (v) = to decide or state how much something is worth.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "value%1:07:00::",
+      "lemma": "value",
+      "pos": "n",
+      "definition": "the quality (positive or negative) that renders something desirable or valuable",
+      "decision": "gloss",
+      "simpleMeaning": "the importance or usefulness that makes something worth having.",
+      "scope": "It is not a number or price; it is the worth people see in something.",
+      "examples": [
+        "The value of regular exercise is hard to deny.",
+        "They questioned the value of the new law."
+      ],
+      "branchCoverage": [
+        "the quality (positive or negative) that renders something desirable or valuable -> the importance or usefulness that makes something worth having"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "value (n, number) = a number or amount measured or calculated; value (n, worth) = the importance or usefulness of something; value (v) = to decide or state how much something is worth.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "value%2:31:03::",
+      "lemma": "value",
+      "pos": "v",
+      "definition": "fix or determine the value of; assign a value to",
+      "decision": "gloss",
+      "simpleMeaning": "to decide how much something is worth and give it a price or number.",
+      "scope": "It is not to think highly of someone; it means setting a price or amount.",
+      "examples": [
+        "The bank valued the painting at two million dollars.",
+        "He valued the car before putting it up for sale."
+      ],
+      "branchCoverage": [
+        "fix or determine the value of -> decide or state how much something is worth",
+        "assign a value to -> give something a price or a number"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "value (n, number) = a number or amount measured or calculated; value (n, worth) = the importance or usefulness of something; value (v) = to decide or state how much something is worth.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "evidence%2:32:00::",
+      "lemma": "evidence",
+      "pos": "v",
+      "definition": "provide evidence for; stand as proof of; show by one's behavior, attitude, or external attributes",
+      "decision": "gloss",
+      "simpleMeaning": "to be a sign or proof that something is true, through facts or through the way someone acts.",
+      "scope": "It is not speaking as a witness in court; it means being a sign or proof of something.",
+      "examples": [
+        "His calm manner evidenced a confidence he did not really feel.",
+        "The results evidence a clear link between the two groups."
+      ],
+      "branchCoverage": [
+        "provide evidence for -> be a sign that something is true",
+        "stand as proof of -> act as proof that something is true",
+        "show by one's behavior, attitude, or external attributes -> be shown through the way someone acts or appears"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "evidence (v, prove) = to be a sign or proof of something; evidence (n, basis) = the facts behind a belief; evidence (n, sign) = a particular sign that shows something; evidence (v, testify) = to speak as a witness in court.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "evidence%1:09:00::",
+      "lemma": "evidence",
+      "pos": "n",
+      "definition": "your basis for belief or disbelief; knowledge on which to base belief",
+      "decision": "gloss",
+      "simpleMeaning": "facts or information that help you decide what to believe.",
+      "scope": "It is not a single visible sign; it is the whole set of facts a belief rests on.",
+      "examples": [
+        "There is no evidence that the plan will work.",
+        "On the evidence available, the theory seems weak."
+      ],
+      "branchCoverage": [
+        "your basis for belief or disbelief -> facts or information that help you decide what to believe",
+        "knowledge on which to base belief -> knowledge you can rely on when forming a belief"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "evidence (v, prove) = to be a sign or proof of something; evidence (n, basis) = the facts behind a belief; evidence (n, sign) = a particular sign that shows something; evidence (v, testify) = to speak as a witness in court.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "evidence%1:10:01::",
+      "lemma": "evidence",
+      "pos": "n",
+      "definition": "an indication that makes something evident",
+      "decision": "gloss",
+      "simpleMeaning": "a sign that makes something clear or easy to see.",
+      "scope": "It is not the full body of facts behind a belief; it is one sign pointing to something.",
+      "examples": [
+        "Her red eyes were evidence that she had been crying.",
+        "The broken window was evidence of a break-in."
+      ],
+      "branchCoverage": [
+        "an indication that makes something evident -> a sign that makes something clear or easy to see"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "evidence (v, prove) = to be a sign or proof of something; evidence (n, basis) = the facts behind a belief; evidence (n, sign) = a particular sign that shows something; evidence (v, testify) = to speak as a witness in court.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "evidence%2:32:02::",
+      "lemma": "evidence",
+      "pos": "v",
+      "definition": "give evidence",
+      "decision": "gloss",
+      "simpleMeaning": "to speak as a witness about what you know in a court case.",
+      "scope": "It is not being a sign or proof of something; it means telling a court what you saw or know.",
+      "examples": [
+        "The witness was too afraid to evidence against the gang.",
+        "He agreed to evidence at the hearing."
+      ],
+      "branchCoverage": [
+        "give evidence -> speak as a witness about what you know in a court case"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "evidence (v, prove) = to be a sign or proof of something; evidence (n, basis) = the facts behind a belief; evidence (n, sign) = a particular sign that shows something; evidence (v, testify) = to speak as a witness in court.",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples unnatural ('agreed to evidence'); use 'was too afraid to evidence against the gang'."
+    },
+    {
+      "senseId": "follow%2:42:05::",
+      "lemma": "follow",
+      "pos": "v",
+      "definition": "come as a logical consequence; follow logically",
+      "decision": "gloss",
+      "simpleMeaning": "to be the natural or logical result of something.",
+      "scope": "It is not moving behind someone or doing what they say; it is about logic and results.",
+      "examples": [
+        "If the first statement is true, the second follows.",
+        "It follows that the plan cannot work without more money."
+      ],
+      "branchCoverage": [
+        "come as a logical consequence -> be the natural result of something",
+        "follow logically -> be the logical result of what came before"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "official%1:18:01::",
+      "lemma": "official",
+      "pos": "n",
+      "definition": "a worker who holds or is invested with an office",
+      "decision": "gloss",
+      "simpleMeaning": "a person who holds a position of authority in a government or organization.",
+      "scope": "It is not a document or statement approved by an authority; it is a person.",
+      "examples": [
+        "A local official opened the new school.",
+        "Government officials met to discuss the crisis."
+      ],
+      "branchCoverage": [
+        "a worker who holds or is invested with an office -> a person who holds a position of authority in a government or organization"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "official (n) = a person in a position of authority; official (a, verified) = confirmed as true by an authority; official (a, authorized) = backed by an authority's power; official (a, office-related) = about an office or its work.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "official%5:00:00:confirmed:00",
+      "lemma": "official",
+      "pos": "a",
+      "definition": "verified officially",
+      "decision": "gloss",
+      "simpleMeaning": "confirmed as true by the proper authority.",
+      "scope": "It is not having power behind it; it describes information that has been checked and confirmed.",
+      "examples": [
+        "The election result is not official until the votes are counted.",
+        "We are waiting for the official figures."
+      ],
+      "branchCoverage": [
+        "verified officially -> confirmed as true by the proper authority"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "official (n) = a person in a position of authority; official (a, verified) = confirmed as true by an authority; official (a, authorized) = backed by an authority's power; official (a, office-related) = about an office or its work.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "official%3:00:00::",
+      "lemma": "official",
+      "pos": "a",
+      "definition": "having official authority or sanction",
+      "decision": "gloss",
+      "simpleMeaning": "backed by the power of a recognized authority.",
+      "scope": "It is not information that has merely been confirmed; it describes something that carries real authority.",
+      "examples": [
+        "The group was given official status by the government.",
+        "Only official visitors may enter the building."
+      ],
+      "branchCoverage": [
+        "having official authority or sanction -> backed by the power of a recognized authority"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "official (n) = a person in a position of authority; official (a, verified) = confirmed as true by an authority; official (a, authorized) = backed by an authority's power; official (a, office-related) = about an office or its work.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "official%3:01:00::",
+      "lemma": "official",
+      "pos": "a",
+      "definition": "of or relating to an office",
+      "decision": "gloss",
+      "simpleMeaning": "connected with someone's job or position in an organization, especially in government.",
+      "scope": "This sense describes things that belong to the job itself; it does not mean approved by an authority or checked and confirmed.",
+      "examples": [
+        "The mayor's official duties include opening new schools.",
+        "She answered questions about her official responsibilities, not her private life."
+      ],
+      "branchCoverage": [
+        "of or relating to an office -> connected with someone's job or position in an organization, especially in government"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "official (n) = a person who holds a public office; official (adj, authority) = approved or backed by an authority; official (adj, office) = belonging to someone's job or position; official (adj, confirmed) = checked and announced by an authority.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "production%1:04:00::",
+      "lemma": "production",
+      "pos": "n",
+      "definition": "the act or process of producing something",
+      "decision": "gloss",
+      "simpleMeaning": "the work of making goods or other things, especially in large amounts.",
+      "scope": "This sense is about the activity of making things, not about a play, film, or show.",
+      "examples": [
+        "The factory increased production of shoes last year.",
+        "New machines made production faster and cheaper."
+      ],
+      "branchCoverage": [
+        "the act or process of producing something -> the work of making goods or other things, especially in large amounts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rate%1:28:00::",
+      "lemma": "rate",
+      "pos": "n",
+      "definition": "a magnitude or frequency relative to a time unit",
+      "decision": "gloss",
+      "simpleMeaning": "a measure of how often something happens or how fast it changes in a period of time.",
+      "scope": "This sense is about speed or frequency over time, not about a price or a level of quality.",
+      "examples": [
+        "The nurse checked the patient's heart rate.",
+        "The rate of new infections fell last month."
+      ],
+      "branchCoverage": [
+        "a magnitude or frequency relative to a time unit -> a measure of how often something happens or how fast it changes in a period of time"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rate (n) = how often or how fast something happens over a period of time; rate (v) = to judge and rank someone or something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rate%2:31:00::",
+      "lemma": "rate",
+      "pos": "v",
+      "definition": "assign a rank or rating to",
+      "decision": "gloss",
+      "simpleMeaning": "to judge how good or important someone or something is and put them in order.",
+      "scope": "This sense is about judging quality or importance, not about stating how often something happens.",
+      "examples": [
+        "Customers rated the hotel four out of five.",
+        "The judges rated her song the best in the contest."
+      ],
+      "branchCoverage": [
+        "assign a rank or rating to -> to judge how good or important someone or something is and put them in order"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "rate (n) = how often or how fast something happens over a period of time; rate (v) = to judge and rank someone or something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "reading%1:09:02::",
+      "lemma": "reading",
+      "pos": "n",
+      "definition": "a datum about some physical state that is presented to a user by a meter or similar instrument",
+      "decision": "gloss",
+      "simpleMeaning": "the number or measurement that a meter or similar device shows.",
+      "scope": "This sense is about what an instrument shows, not about the activity of looking at written words.",
+      "examples": [
+        "The nurse wrote down the thermometer reading.",
+        "A reading of zero on the scale means the tank is empty."
+      ],
+      "branchCoverage": [
+        "a datum about some physical state that is presented to a user by a meter or similar instrument -> the number or measurement that a meter or similar device shows"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "round%1:28:01::",
+      "lemma": "round",
+      "pos": "n",
+      "definition": "an interval during which a recurring sequence of events occurs",
+      "decision": "gloss",
+      "simpleMeaning": "a regular period that comes again and again as part of a repeated pattern.",
+      "scope": "This sense is about a repeated period in a cycle, not about a shape or a stage in a game.",
+      "examples": [
+        "Life on the farm follows the round of the seasons.",
+        "Her day was a tired round of meetings and phone calls."
+      ],
+      "branchCoverage": [
+        "an interval during which a recurring sequence of events occurs -> a regular period that comes again and again as part of a repeated pattern"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "round (n) = a period that repeats in a cycle; round (v, shape) = to give something a circular shape; round (v, speech) = to say a sound with rounded lips.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "round%2:32:00::",
+      "lemma": "round",
+      "pos": "v",
+      "definition": "pronounce with rounded lips",
+      "decision": "gloss",
+      "simpleMeaning": "to say a sound with your lips pulled into a small circle.",
+      "scope": "This sense is about how a sound is said, not about giving an object a circular shape.",
+      "examples": [
+        "You round your lips when you say the sound /u:/.",
+        "English speakers round their lips for the 'o' in 'go'."
+      ],
+      "branchCoverage": [
+        "pronounce with rounded lips -> to say a sound with your lips pulled into a small circle"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "round (n) = a period that repeats in a cycle; round (v, shape) = to give something a circular shape; round (v, speech) = to say a sound with rounded lips.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "round%2:30:00::",
+      "lemma": "round",
+      "pos": "v",
+      "definition": "make round",
+      "decision": "gloss",
+      "simpleMeaning": "to shape something so that it has no sharp corners and looks like a ball or a circle.",
+      "scope": "This sense is about shaping an object, not about how a sound is pronounced.",
+      "examples": [
+        "He rounded the corners of the table so children would not get hurt.",
+        "The baker rounded the dough into small balls."
+      ],
+      "branchCoverage": [
+        "make round -> to shape something so that it has no sharp corners and looks like a ball or a circle"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "round (n) = a period that repeats in a cycle; round (v, shape) = to give something a circular shape; round (v, speech) = to say a sound with rounded lips.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "save%2:41:01::",
+      "lemma": "save",
+      "pos": "v",
+      "definition": "save from ruin, destruction, or harm",
+      "decision": "gloss",
+      "simpleMeaning": "to stop someone or something from being harmed, destroyed, or lost.",
+      "scope": "This sense is about rescue from danger or damage, not about keeping money for later.",
+      "examples": [
+        "The firefighter saved the child from the burning house.",
+        "Doctors worked all night to save the injured man."
+      ],
+      "branchCoverage": [
+        "save from ruin, destruction, or harm -> to stop someone or something from being harmed, destroyed, or lost"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stand%1:15:00::",
+      "lemma": "stand",
+      "pos": "n",
+      "definition": "the position where a thing or person stands",
+      "decision": "gloss",
+      "simpleMeaning": "the exact place where someone or something is positioned.",
+      "scope": "This sense is about a physical place, not about a small shop or a table where goods are shown.",
+      "examples": [
+        "The guard took his stand by the gate.",
+        "From her stand at the window, she could see the whole street."
+      ],
+      "branchCoverage": [
+        "the position where a thing or person stands -> the exact place where someone or something is positioned"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stand (n) = the place where someone or something is; stand (v) = to be upright on your feet.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stand%2:35:00::",
+      "lemma": "stand",
+      "pos": "v",
+      "definition": "be standing; be upright",
+      "decision": "gloss",
+      "simpleMeaning": "to be upright on your feet, with your body straight.",
+      "scope": "This sense is about body position, not about accepting something unpleasant or about a place at a market.",
+      "examples": [
+        "Please stand near the door and wait for your name.",
+        "The children stood in a line outside the classroom."
+      ],
+      "branchCoverage": [
+        "be standing -> to be upright on your feet, with your body straight",
+        "be upright -> with your body straight"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stand (n) = the place where someone or something is; stand (v) = to be upright on your feet.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stuff%1:27:00::",
+      "lemma": "stuff",
+      "pos": "n",
+      "definition": "the tangible substance that goes into the makeup of a physical object",
+      "decision": "gloss",
+      "simpleMeaning": "the material that something is made of.",
+      "scope": "This sense is about material, not about a mixed group of objects.",
+      "examples": [
+        "What is this white stuff on the table?",
+        "The walls are covered with a rough stuff that feels like stone."
+      ],
+      "branchCoverage": [
+        "the tangible substance that goes into the makeup of a physical object -> the material that something is made of"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stuff (n, material) = the material something is made of; stuff (n, objects) = a mixed group of unnamed things.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stuff%1:06:00::",
+      "lemma": "stuff",
+      "pos": "n",
+      "definition": "miscellaneous unspecified objects",
+      "decision": "gloss",
+      "simpleMeaning": "a group of things of different kinds, when you do not name them.",
+      "scope": "This sense is about a mixed collection of objects, not about the material something is made of.",
+      "examples": [
+        "He left his stuff all over the floor.",
+        "She packed her stuff into two boxes."
+      ],
+      "branchCoverage": [
+        "miscellaneous unspecified objects -> a group of things of different kinds, when you do not name them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "stuff (n, material) = the material something is made of; stuff (n, objects) = a mixed group of unnamed things.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "whatever%5:00:00:some:00",
+      "lemma": "whatever",
+      "pos": "a",
+      "definition": "one or some or every or all without specification; entity, elective existential pronoun; quantifier, elective existential",
+      "decision": "gloss",
+      "simpleMeaning": "used to talk about any one thing, any amount, or all of something, without saying which.",
+      "scope": "This sense means any one or any amount; it is not the question word that asks which thing is meant.",
+      "examples": [
+        "You can wear whatever you like to the party.",
+        "He ate whatever was left on the plate."
+      ],
+      "branchCoverage": [
+        "one or some or every or all without specification -> any one thing, any amount, or all of something, without saying which",
+        "entity, elective existential pronoun -> grammar/usage label: pronoun category",
+        "quantifier, elective existential -> grammar/usage label: quantifier category"
+      ],
+      "labelBranches": [
+        "entity, elective existential pronoun",
+        "quantifier, elective existential"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "amount%1:07:00::",
+      "lemma": "amount",
+      "pos": "n",
+      "definition": "the relative magnitude of something with reference to a criterion",
+      "decision": "gloss",
+      "simpleMeaning": "how large or small something is when it is measured against a standard.",
+      "scope": "This sense is about relative size or level, not about a total sum of money.",
+      "examples": [
+        "The amount of damage depended on how close the house was to the fire.",
+        "Doctors measured the amount of pain each patient felt."
+      ],
+      "branchCoverage": [
+        "the relative magnitude of something with reference to a criterion -> how large or small something is when it is measured against a standard"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%5:00:00:northern:02",
+      "lemma": "blue",
+      "pos": "a",
+      "definition": "used to signify the Union forces in the American Civil War (who wore blue uniforms)",
+      "decision": "gloss",
+      "simpleMeaning": "belonging to the northern side in the American Civil War, whose soldiers wore blue uniforms.",
+      "scope": "This sense is about a side in a historical war, not about the color blue or about feeling sad.",
+      "examples": [
+        "The blue troops camped beside the river.",
+        "In the history book, the blue side is called the Union."
+      ],
+      "branchCoverage": [
+        "used to signify the Union forces in the American Civil War (who wore blue uniforms) -> belonging to the northern side in the American Civil War, whose soldiers wore blue uniforms"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue (adj, color) = having the color of a clear sky; blue (n) = that color itself or paint of it; blue (adj, war) = on the northern side in the American Civil War.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%1:07:00::",
+      "lemma": "blue",
+      "pos": "n",
+      "definition": "blue color or pigment; resembling the color of the clear sky in the daytime",
+      "decision": "gloss",
+      "simpleMeaning": "the color of a clear sky on a sunny day, or a paint or dye of this color.",
+      "scope": "This sense is the color itself as a thing, not the adjective that describes something and not sadness.",
+      "examples": [
+        "The walls were painted a deep blue.",
+        "She mixed blue with white to get a lighter shade."
+      ],
+      "branchCoverage": [
+        "blue color or pigment -> the color itself or a paint or dye of this color",
+        "resembling the color of the clear sky in the daytime -> the color of a clear sky on a sunny day"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue (adj, color) = having the color of a clear sky; blue (n) = that color itself or paint of it; blue (adj, war) = on the northern side in the American Civil War.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "blue%5:00:00:chromatic:00",
+      "lemma": "blue",
+      "pos": "a",
+      "definition": "of the color intermediate between green and violet; having a color similar to that of a clear unclouded sky",
+      "decision": "gloss",
+      "simpleMeaning": "having the color of a clear sky, which comes between green and violet.",
+      "scope": "This sense describes the color of something, not the color as a thing or the northern side in the Civil War.",
+      "examples": [
+        "She wore a blue dress to the wedding.",
+        "The sky was bright blue after the rain."
+      ],
+      "branchCoverage": [
+        "of the color intermediate between green and violet -> which comes between green and violet",
+        "having a color similar to that of a clear unclouded sky -> having the color of a clear sky"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "blue (adj, color) = having the color of a clear sky; blue (n) = that color itself or paint of it; blue (adj, war) = on the northern side in the American Civil War.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drive%1:04:02::",
+      "lemma": "drive",
+      "pos": "n",
+      "definition": "a series of actions advancing a principle or tending toward a particular end",
+      "decision": "gloss",
+      "simpleMeaning": "an organized effort by many people to reach a goal or support a cause.",
+      "scope": "This sense is about a campaign, not about a car journey or a strong urge.",
+      "examples": [
+        "The school started a drive to collect books for poor children.",
+        "The mayor led a drive to clean up the river."
+      ],
+      "branchCoverage": [
+        "a series of actions advancing a principle or tending toward a particular end -> an organized effort by many people to reach a goal or support a cause"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fall%1:17:00::",
+      "lemma": "fall",
+      "pos": "n",
+      "definition": "a downward slope or bend",
+      "decision": "gloss",
+      "simpleMeaning": "a place where the ground slopes downward.",
+      "scope": "This sense is about the shape of the land, not about the season or an accident.",
+      "examples": [
+        "The garden slopes down a gentle fall to the lake.",
+        "They built the barn on the fall of the hill."
+      ],
+      "branchCoverage": [
+        "a downward slope or bend -> a place where the ground slopes downward"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "felt%1:06:00::",
+      "lemma": "felt",
+      "pos": "n",
+      "definition": "a fabric made of compressed matted animal fibers",
+      "decision": "gloss",
+      "simpleMeaning": "a soft cloth made by pressing animal hair or wool tightly together.",
+      "scope": "This sense is about the cloth, not the past form of the verb 'feel'.",
+      "examples": [
+        "She cut a hat from red felt.",
+        "The felt on the table protects it from scratches."
+      ],
+      "branchCoverage": [
+        "a fabric made of compressed matted animal fibers -> a soft cloth made by pressing animal hair or wool tightly together"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "green%1:15:00::",
+      "lemma": "green",
+      "pos": "n",
+      "definition": "an area of closely cropped grass surrounding the hole on a golf course",
+      "decision": "gloss",
+      "simpleMeaning": "the smooth area of short grass around the hole on a golf course.",
+      "scope": "This sense is about a part of a golf course, not about the color of grass or a political party.",
+      "examples": [
+        "The ball landed on the green, close to the hole.",
+        "Golfers walked across the green to their balls."
+      ],
+      "branchCoverage": [
+        "an area of closely cropped grass surrounding the hole on a golf course -> the smooth area of short grass around the hole on a golf course"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "green (n, color) = the color of grass and leaves; green (n, golf) = the short-grass area around a golf hole; green (adj) = supporting the Green Party; green (v) = to change to the color of grass.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "green%1:07:00::",
+      "lemma": "green",
+      "pos": "n",
+      "definition": "green color or pigment; resembling the color of growing grass",
+      "decision": "gloss",
+      "simpleMeaning": "the color of grass and leaves, or a paint or dye of this color.",
+      "scope": "This sense is the color itself, not the golf area or the political party.",
+      "examples": [
+        "The fields were a bright green after the rain.",
+        "She painted the door a dark green."
+      ],
+      "branchCoverage": [
+        "green color or pigment -> the color itself or a paint or dye of this color",
+        "resembling the color of growing grass -> the color of grass and leaves"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "green (n, color) = the color of grass and leaves; green (n, golf) = the short-grass area around a golf hole; green (adj) = supporting the Green Party; green (v) = to change to the color of grass.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "green%3:01:00::",
+      "lemma": "green",
+      "pos": "a",
+      "definition": "concerned with or supporting or in conformity with the political principles of the Green Party",
+      "decision": "gloss",
+      "simpleMeaning": "supporting or following the political ideas of the Green Party, which focuses on the environment.",
+      "scope": "This sense is about politics, not about the color of grass or a golf area.",
+      "examples": [
+        "She voted for the green candidate in the local election.",
+        "The party promised green policies to protect the forest."
+      ],
+      "branchCoverage": [
+        "concerned with or supporting or in conformity with the political principles of the Green Party -> supporting or following the political ideas of the Green Party, which focuses on the environment"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "green (n, color) = the color of grass and leaves; green (n, golf) = the short-grass area around a golf hole; green (adj) = supporting the Green Party; green (v) = to change to the color of grass.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "green%2:30:00::",
+      "lemma": "green",
+      "pos": "v",
+      "definition": "turn or become green",
+      "decision": "gloss",
+      "simpleMeaning": "to change to the color of grass and leaves, or to make something change this way.",
+      "scope": "This sense is about a change of color, not about supporting a political party.",
+      "examples": [
+        "The trees green again each spring.",
+        "The copper roof slowly greened in the rain."
+      ],
+      "branchCoverage": [
+        "turn or become green -> to change to the color of grass and leaves"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "green (n, color) = the color of grass and leaves; green (n, golf) = the short-grass area around a golf hole; green (adj) = supporting the Green Party; green (v) = to change to the color of grass.",
+      "meaning": "to become the color of grass and leaves.",
+      "verdict": "self-approved",
+      "reviewerNote": "Adds unexemplified transitive sense beyond 'turn or become green'; use 'to become the color of grass and leaves.'"
+    }
+  ],
+  "rejected": []
+}

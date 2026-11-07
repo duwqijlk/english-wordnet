@@ -1,0 +1,1025 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 39,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1900,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "ordered%3:00:06::",
+      "lemma": "ordered",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "marked by an orderly, logical, and aesthetically consistent relation of parts",
+      "synsetId": "00466504-a",
+      "words": 11,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1723,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "marked by an orderly, logical, and aesthetically consistent relation of parts"
+      ]
+    },
+    {
+      "senseId": "ordered%3:00:00::",
+      "lemma": "ordered",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "having a systematic arrangement; especially having elements succeeding in order according to rule",
+      "synsetId": "01671772-a",
+      "words": 13,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1723,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having a systematic arrangement",
+        "especially having elements succeeding in order according to rule"
+      ]
+    },
+    {
+      "senseId": "ordered%3:00:04::",
+      "lemma": "ordered",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "disposed or placed in a particular kind of order",
+      "synsetId": "01685687-a",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1723,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "disposed or placed in a particular kind of order"
+      ]
+    },
+    {
+      "senseId": "parliament%1:04:00::",
+      "lemma": "parliament",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards",
+      "synsetId": "00493508-n",
+      "words": 33,
+      "rare": 3,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1724,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a card game in which you play your sevens and other cards in sequence in the same suit as the sevens",
+        "you win if you are the first to use all your cards"
+      ]
+    },
+    {
+      "senseId": "prepared%5:00:00:equipped:00",
+      "lemma": "prepared",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "equipped or prepared with necessary intellectual resources",
+      "synsetId": "01098778-s",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1725,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "equipped or prepared with necessary intellectual resources"
+      ]
+    },
+    {
+      "senseId": "prepared%5:00:00:willing:00",
+      "lemma": "prepared",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "having made preparations",
+      "synsetId": "02576155-s",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1725,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having made preparations"
+      ]
+    },
+    {
+      "senseId": "reference%1:10:03::",
+      "lemma": "reference",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a short note recognizing a source of information or of a quoted passage",
+      "synsetId": "06776392-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1726,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a short note recognizing a source of information or of a quoted passage"
+      ]
+    },
+    {
+      "senseId": "religion%1:09:00::",
+      "lemma": "religion",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a strong belief in a supernatural power or powers that control human destiny",
+      "synsetId": "05955536-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1727,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a strong belief in a supernatural power or powers that control human destiny"
+      ]
+    },
+    {
+      "senseId": "religion%1:14:00::",
+      "lemma": "religion",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an institution to express belief in a divine power",
+      "synsetId": "08098545-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1727,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an institution to express belief in a divine power"
+      ]
+    },
+    {
+      "senseId": "stated%5:00:00:explicit:00",
+      "lemma": "stated",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "declared as fact; explicitly stated",
+      "synsetId": "00944139-s",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1730,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "declared as fact",
+        "explicitly stated"
+      ]
+    },
+    {
+      "senseId": "wine%1:13:00::",
+      "lemma": "wine",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "fermented juice (of grapes especially)",
+      "synsetId": "07907701-n",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1734,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "fermented juice (of grapes especially)"
+      ]
+    },
+    {
+      "senseId": "arm%1:08:00::",
+      "lemma": "arm",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb",
+      "synsetId": "05571403-n",
+      "words": 26,
+      "rare": 10,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1736,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a human limb",
+        "technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb"
+      ]
+    },
+    {
+      "senseId": "arm%1:06:01::",
+      "lemma": "arm",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "any instrument or instrumentality used in fighting or hunting",
+      "synsetId": "04572661-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1736,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any instrument or instrumentality used in fighting or hunting"
+      ]
+    },
+    {
+      "senseId": "arm%2:33:00::",
+      "lemma": "arm",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "prepare oneself for a military confrontation",
+      "synsetId": "01089608-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1736,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "prepare oneself for a military confrontation"
+      ]
+    },
+    {
+      "senseId": "audience%1:14:00::",
+      "lemma": "audience",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a gathering of spectators or listeners at a (usually public) performance",
+      "synsetId": "08238818-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1737,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a gathering of spectators or listeners at a (usually public) performance"
+      ]
+    },
+    {
+      "senseId": "bay%1:20:00::",
+      "lemma": "bay",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking; also used by ancient Greeks to crown victors",
+      "synsetId": "11724562-n",
+      "words": 25,
+      "rare": 11,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1738,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "small Mediterranean evergreen tree with small blackish berries and glossy aromatic leaves used for flavoring in cooking",
+        "also used by ancient Greeks to crown victors"
+      ]
+    },
+    {
+      "senseId": "bay%1:17:00::",
+      "lemma": "bay",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an indentation of a shoreline larger than a cove but smaller than a gulf",
+      "synsetId": "09238571-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1738,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an indentation of a shoreline larger than a cove but smaller than a gulf"
+      ]
+    },
+    {
+      "senseId": "bay%2:32:00::",
+      "lemma": "bay",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "bark with prolonged noises, of dogs",
+      "synsetId": "01049823-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1738,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "bark with prolonged noises, of dogs"
+      ]
+    },
+    {
+      "senseId": "bay%2:32:01::",
+      "lemma": "bay",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "utter in deep prolonged tones",
+      "synsetId": "01049945-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1738,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "utter in deep prolonged tones"
+      ]
+    },
+    {
+      "senseId": "closer%4:02:00::",
+      "lemma": "closer",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "(comparative of ‘near’ or ‘close’) within a shorter distance",
+      "synsetId": "00409712-r",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1739,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(comparative of ‘near’ or ‘close’) within a shorter distance"
+      ]
+    },
+    {
+      "senseId": "closer%1:18:01::",
+      "lemma": "closer",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a person who closes something",
+      "synsetId": "09949922-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1739,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who closes something"
+      ]
+    },
+    {
+      "senseId": "description%1:10:00::",
+      "lemma": "description",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of describing something",
+      "synsetId": "07216025-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1741,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of describing something"
+      ]
+    },
+    {
+      "senseId": "exist%2:42:00::",
+      "lemma": "exist",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "have an existence, be extant",
+      "synsetId": "02609706-v",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1744,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have an existence, be extant"
+      ]
+    },
+    {
+      "senseId": "guard%1:18:01::",
+      "lemma": "guard",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the person who lines up between the center and the tackles on the offensive line of a football team on the line of scrimmage",
+      "synsetId": "10169240-n",
+      "words": 24,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1747,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the person who lines up between the center and the tackles on the offensive line of a football team on the line of scrimmage"
+      ]
+    },
+    {
+      "senseId": "guard%2:33:00::",
+      "lemma": "guard",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "watch over or shield from danger or harm; protect",
+      "synsetId": "01131763-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1747,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "watch over or shield from danger or harm",
+        "protect"
+      ]
+    },
+    {
+      "senseId": "honest%3:00:00::",
+      "lemma": "honest",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "not disposed to cheat or defraud; not deceptive or fraudulent; marked by truth",
+      "synsetId": "01225031-a",
+      "words": 13,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1748,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not disposed to cheat or defraud",
+        "not deceptive or fraudulent",
+        "marked by truth"
+      ]
+    },
+    {
+      "senseId": "joined%5:00:00:connected:00",
+      "lemma": "joined",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "connected by a link, as railway cars or trailer trucks",
+      "synsetId": "00569425-s",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1750,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "connected by a link, as railway cars or trailer trucks"
+      ]
+    },
+    {
+      "senseId": "medicine%1:09:00::",
+      "lemma": "medicine",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the branches of medical science that deal with nonsurgical techniques",
+      "synsetId": "06052606-n",
+      "words": 10,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1753,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the branches of medical science that deal with nonsurgical techniques"
+      ]
+    },
+    {
+      "senseId": "mention%1:10:02::",
+      "lemma": "mention",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a short note recognizing a source of information or of a quoted passage",
+      "synsetId": "06776392-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1754,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a short note recognizing a source of information or of a quoted passage"
+      ]
+    },
+    {
+      "senseId": "mention%2:32:00::",
+      "lemma": "mention",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "make mention of",
+      "synsetId": "01022014-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1754,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make mention of"
+      ]
+    },
+    {
+      "senseId": "nuclear%3:00:00::",
+      "lemma": "nuclear",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(weapons) deriving destructive energy from the release of atomic energy",
+      "synsetId": "00612923-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1756,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(weapons) deriving destructive energy from the release of atomic energy"
+      ]
+    },
+    {
+      "senseId": "presence%1:18:00::",
+      "lemma": "presence",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an invisible spiritual being felt to be nearby",
+      "synsetId": "09570657-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1759,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an invisible spiritual being felt to be nearby"
+      ]
+    },
+    {
+      "senseId": "presence%1:26:00::",
+      "lemma": "presence",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the state of being present; current existence",
+      "synsetId": "13980887-n",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1759,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the state of being present",
+        "current existence"
+      ]
+    },
+    {
+      "senseId": "reaction%1:04:00::",
+      "lemma": "reaction",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a bodily process occurring due to the effect of some antecedent stimulus or agent",
+      "synsetId": "00860679-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1760,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a bodily process occurring due to the effect of some antecedent stimulus or agent"
+      ]
+    },
+    {
+      "senseId": "reduce%2:30:00::",
+      "lemma": "reduce",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "cut down on; make a reduction in",
+      "synsetId": "00430013-v",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1761,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cut down on",
+        "make a reduction in"
+      ]
+    },
+    {
+      "senseId": "shoot%1:04:00::",
+      "lemma": "shoot",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of shooting at targets",
+      "synsetId": "00123774-n",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1762,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of shooting at targets"
+      ]
+    },
+    {
+      "senseId": "solid%1:26:00::",
+      "lemma": "solid",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the state in which a substance has no tendency to flow under moderate stress; resists forces (such as compression) that tend to deform it; and retains a definite size and shape",
+      "synsetId": "14504356-n",
+      "words": 31,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1764,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the state in which a substance has no tendency to flow under moderate stress",
+        "resists forces (such as compression) that tend to deform it",
+        "and retains a definite size and shape"
+      ]
+    },
+    {
+      "senseId": "solid%1:25:00::",
+      "lemma": "solid",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a three-dimensional object, structurally rigid, usually resistant to changes of shape or volume",
+      "synsetId": "13882990-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1764,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a three-dimensional object, structurally rigid, usually resistant to changes of shape or volume"
+      ]
+    },
+    {
+      "senseId": "solid%3:00:01::",
+      "lemma": "solid",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "of definite shape and volume; firm; neither liquid nor gaseous",
+      "synsetId": "02267791-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1764,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of definite shape and volume",
+        "firm",
+        "neither liquid nor gaseous"
+      ]
+    },
+    {
+      "senseId": "solid%1:27:04::",
+      "lemma": "solid",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "matter that is solid at room temperature and pressure",
+      "synsetId": "15071467-n",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1764,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "matter that is solid at room temperature and pressure"
+      ]
+    },
+    {
+      "senseId": "sport%1:18:03::",
+      "lemma": "sport",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(Maine colloquial) a temporary summer resident of Maine",
+      "synsetId": "10658636-n",
+      "words": 8,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1765,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(Maine colloquial) a temporary summer resident of Maine"
+      ]
+    },
+    {
+      "senseId": "sport%1:04:01::",
+      "lemma": "sport",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the occupation of athletes who compete for pay",
+      "synsetId": "00434156-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1765,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the occupation of athletes who compete for pay"
+      ]
+    },
+    {
+      "senseId": "sport%2:42:00::",
+      "lemma": "sport",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "wear or display in an ostentatious or proud manner",
+      "synsetId": "02637740-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1765,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "wear or display in an ostentatious or proud manner"
+      ]
+    },
+    {
+      "senseId": "steps%1:06:00::",
+      "lemma": "steps",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a flight of stairs or a flight of steps",
+      "synsetId": "04305309-n",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1766,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a flight of stairs or a flight of steps"
+      ]
+    },
+    {
+      "senseId": "stress%1:10:01::",
+      "lemma": "stress",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)",
+      "synsetId": "07099567-n",
+      "words": 16,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1767,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the relative prominence of a syllable or musical note (especially with regard to stress or pitch)"
+      ]
+    },
+    {
+      "senseId": "stress%2:32:01::",
+      "lemma": "stress",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "put stress on; utter with an accent",
+      "synsetId": "00985365-v",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1767,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "put stress on",
+        "utter with an accent"
+      ]
+    },
+    {
+      "senseId": "stress%2:32:00::",
+      "lemma": "stress",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "to stress, single out as important",
+      "synsetId": "01015376-v",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1767,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "to stress, single out as important"
+      ]
+    },
+    {
+      "senseId": "taste%1:09:02::",
+      "lemma": "taste",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus",
+      "synsetId": "05723230-n",
+      "words": 22,
+      "rare": 9,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1768,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus"
+      ]
+    },
+    {
+      "senseId": "taste%1:09:01::",
+      "lemma": "taste",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "delicate discrimination (especially of esthetic values)",
+      "synsetId": "05757616-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1768,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "delicate discrimination (especially of esthetic values)"
+      ]
+    },
+    {
+      "senseId": "taste%2:39:00::",
+      "lemma": "taste",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "perceive by the sense of taste",
+      "synsetId": "02195992-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1768,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "perceive by the sense of taste"
+      ]
+    }
+  ]
+}

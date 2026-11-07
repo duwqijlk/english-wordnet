@@ -1,0 +1,1001 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 23,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 46,
+      "of": 50,
+      "rate": 0.92
+    },
+    "selfApproved": [
+      "message%2:32:00::",
+      "fair%1:04:01::",
+      "welcome%1:26:00::",
+      "nature%1:07:02::"
+    ],
+    "lineage": {
+      "draft": "364b4b0dd26b1439c323287e1e91541dae2b8f3756efb858c72589147ceea804"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "message%1:10:01::",
+      "lemma": "message",
+      "pos": "n",
+      "definition": "a communication (usually brief) that is written or spoken or signaled",
+      "decision": "gloss",
+      "simpleMeaning": "A short piece of information that one person sends to another.",
+      "scope": "It is not the main idea that a book or film expresses, and not the act of sending; it is the thing that is sent.",
+      "examples": [
+        "She left a short message on his phone.",
+        "He sent me a message to say he would be late."
+      ],
+      "branchCoverage": [
+        "a communication (usually brief) that is written or spoken or signaled -> short piece of information sent; it may be written, spoken, or signaled"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "message: (1) n. the short note or spoken word itself that is sent; (2) n. the main point or idea that a work or act expresses; (3) v. to send a note, naming only the act; (4) v. to send a particular thing as a note; (5) v. to send a note to a named person or group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "message%1:10:00::",
+      "lemma": "message",
+      "pos": "n",
+      "definition": "content communicating a message; what something is about",
+      "decision": "gloss",
+      "simpleMeaning": "The main idea or point that a book, film, or action is trying to express.",
+      "scope": "It is not the note or words that are sent, but the meaning behind a work or an act.",
+      "examples": [
+        "The message of the film is that friendship matters more than money.",
+        "What message do you think the painting is trying to give?"
+      ],
+      "branchCoverage": [
+        "content communicating a message -> main idea or point that is expressed",
+        "what something is about -> what it is about"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "message: (1) n. the short note or spoken word itself that is sent; (2) n. the main point or idea that a work or act expresses; (3) v. to send a note, naming only the act; (4) v. to send a particular thing as a note; (5) v. to send a note to a named person or group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "message%2:32:00::",
+      "lemma": "message",
+      "pos": "v",
+      "definition": "send a message",
+      "decision": "gloss",
+      "simpleMeaning": "To send a short note or spoken word, especially by phone or computer.",
+      "scope": "It names the act of sending itself, not sending a particular thing as a note or naming the person who receives it.",
+      "examples": [
+        "She messaged to say she was running late.",
+        "Just message when you arrive."
+      ],
+      "branchCoverage": [
+        "send a message -> send a short note or spoken word"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "message: (1) n. the short note or spoken word itself that is sent; (2) n. the main point or idea that a work or act expresses; (3) v. to send a note, naming only the act; (4) v. to send a particular thing as a note; (5) v. to send a note to a named person or group.",
+      "meaning": "to send a message by phone or computer, without saying what it contains.",
+      "verdict": "self-approved",
+      "reviewerNote": "Indistinguishable from %2:32:02; use 'To send a short note, without naming the receiver'."
+    },
+    {
+      "senseId": "message%2:32:01::",
+      "lemma": "message",
+      "pos": "v",
+      "definition": "send as a message",
+      "decision": "gloss",
+      "simpleMeaning": "To send a particular piece of news or information as a note.",
+      "scope": "The note carries a specific thing, rather than being only the general act of sending or naming the receiver.",
+      "examples": [
+        "He messaged the good news to everyone.",
+        "She messaged her new address so I could find the house."
+      ],
+      "branchCoverage": [
+        "send as a message -> send a particular piece of news or information as a note"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "message: (1) n. the short note or spoken word itself that is sent; (2) n. the main point or idea that a work or act expresses; (3) v. to send a note, naming only the act; (4) v. to send a particular thing as a note; (5) v. to send a note to a named person or group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "message%2:32:02::",
+      "lemma": "message",
+      "pos": "v",
+      "definition": "send a message to",
+      "decision": "gloss",
+      "simpleMeaning": "To send a short note directly to a person or group.",
+      "scope": "It names who receives the note, not just the act of sending or the thing that is sent.",
+      "examples": [
+        "Message me when you land.",
+        "She messaged the whole team about the change."
+      ],
+      "branchCoverage": [
+        "send a message to -> send a note to a named person or group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "message: (1) n. the short note or spoken word itself that is sent; (2) n. the main point or idea that a work or act expresses; (3) v. to send a note, naming only the act; (4) v. to send a particular thing as a note; (5) v. to send a note to a named person or group.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "region%1:08:00::",
+      "lemma": "region",
+      "pos": "n",
+      "definition": "a part of an animal that has a special function or is supplied by a given artery or nerve",
+      "decision": "gloss",
+      "simpleMeaning": "One part of an animal's body that does a particular job or is fed by a certain blood vessel or nerve.",
+      "scope": "It is not a large area of land or a part of a country; it is a part of a living body.",
+      "examples": [
+        "This region of the brain controls speech.",
+        "The nerves in that region of the leg were damaged."
+      ],
+      "branchCoverage": [
+        "a part of an animal that has a special function or is supplied by a given artery or nerve -> part of an animal's body with a special job or fed by a certain blood vessel or nerve"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "section%1:17:00::",
+      "lemma": "section",
+      "pos": "n",
+      "definition": "a very thin slice (of tissue or mineral or other substance) for examination under a microscope",
+      "decision": "gloss",
+      "simpleMeaning": "A very thin cut piece of tissue, rock, or other material, made for looking at under a microscope.",
+      "scope": "It is not a part of a document or a part of a town; it is a thin piece cut for scientific study.",
+      "examples": [
+        "The scientist cut a thin section of the leaf.",
+        "A thin section of rock was placed under the microscope."
+      ],
+      "branchCoverage": [
+        "a very thin slice (of tissue or mineral or other substance) for examination under a microscope -> very thin cut piece of tissue, mineral, or other material, made for looking at under a microscope"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "section: (1) n. a very thin cut piece of material studied under a microscope; (2) n. a separate part of a country, area, or group of people.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "section%1:15:01::",
+      "lemma": "section",
+      "pos": "n",
+      "definition": "a distinct region or subdivision of a territorial or political area or community or group of people",
+      "decision": "gloss",
+      "simpleMeaning": "A separate part of a country, area, or group of people.",
+      "scope": "It is not a thin piece cut for a microscope, and not a part of a written text; it is a part of a place or group.",
+      "examples": [
+        "This section of the city has many old buildings.",
+        "Every section of the community was represented at the meeting."
+      ],
+      "branchCoverage": [
+        "a distinct region or subdivision of a territorial or political area or community or group of people -> separate part of a country, area, or group of people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "section: (1) n. a very thin cut piece of material studied under a microscope; (2) n. a separate part of a country, area, or group of people.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sort%1:09:00::",
+      "lemma": "sort",
+      "pos": "n",
+      "definition": "a category of things distinguished by some common characteristic or quality",
+      "decision": "gloss",
+      "simpleMeaning": "A group of things that share the same features.",
+      "scope": "It is not the act of putting things in order, and not one single thing; it is a group based on shared features.",
+      "examples": [
+        "What sort of music do you like?",
+        "This sort of problem is common in old houses."
+      ],
+      "branchCoverage": [
+        "a category of things distinguished by some common characteristic or quality -> group of things sharing the same features"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "travel%2:38:00::",
+      "lemma": "travel",
+      "pos": "v",
+      "definition": "change location; move, travel, or proceed, also metaphorically",
+      "decision": "gloss",
+      "simpleMeaning": "To move from one place to another, or to spread from place to place.",
+      "scope": "It is not a holiday or a planned journey, but the act of moving or spreading.",
+      "examples": [
+        "Light travels faster than sound.",
+        "News of the wedding traveled quickly through the village."
+      ],
+      "branchCoverage": [
+        "change location -> move from one place to another",
+        "move, travel, or proceed, also metaphorically -> move or proceed carried; 'also metaphorically' declared as a usage label"
+      ],
+      "labelBranches": [
+        "also metaphorically (usage note)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "consider%2:31:01::",
+      "lemma": "consider",
+      "pos": "v",
+      "definition": "take into consideration for exemplifying purposes",
+      "decision": "gloss",
+      "simpleMeaning": "To examine a case or example in order to explain or prove a point.",
+      "scope": "It is not thinking hard before making a choice, and not having an opinion about someone; it introduces an example to look at.",
+      "examples": [
+        "Consider the case of a small shop competing with a big chain.",
+        "Let us consider a simple example."
+      ],
+      "branchCoverage": [
+        "take into consideration for exemplifying purposes -> examine a case or example to explain or prove a point"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "consider: (1) v. to examine an example in order to explain or prove something; (2) v. to think carefully about something before deciding.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "consider%2:39:00::",
+      "lemma": "consider",
+      "pos": "v",
+      "definition": "give careful consideration to",
+      "decision": "gloss",
+      "simpleMeaning": "To think about something carefully before making a decision.",
+      "scope": "It is not using something as an example; it is serious thinking about a choice or idea.",
+      "examples": [
+        "We are considering moving to a smaller house.",
+        "She considered the offer for a week before saying yes."
+      ],
+      "branchCoverage": [
+        "give careful consideration to -> think about something carefully before deciding"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "consider: (1) v. to examine an example in order to explain or prove something; (2) v. to think carefully about something before deciding.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "contact%1:26:00::",
+      "lemma": "contact",
+      "pos": "n",
+      "definition": "the state or condition of touching or of being in immediate proximity",
+      "decision": "gloss",
+      "simpleMeaning": "The state of two things touching or being very close together.",
+      "scope": "It is not a person you know or a way of reaching someone; it is the physical state of touching or nearness.",
+      "examples": [
+        "Make sure the two surfaces stay in contact.",
+        "The ball was in contact with the ground for only a moment."
+      ],
+      "branchCoverage": [
+        "the state or condition of touching or of being in immediate proximity -> state of two things touching or being very close together"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "contact: (1) n. the physical state of touching or being very near; (2) v. to touch something or come together with it physically.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "contact%2:35:03::",
+      "lemma": "contact",
+      "pos": "v",
+      "definition": "be in direct physical contact with; make contact",
+      "decision": "gloss",
+      "simpleMeaning": "To touch something or come together with it physically.",
+      "scope": "It is not calling or writing to someone; it is physical touching.",
+      "examples": [
+        "His foot contacted the ball.",
+        "The plane's wheels contacted the runway."
+      ],
+      "branchCoverage": [
+        "be in direct physical contact with -> touch something physically",
+        "make contact -> come together with it physically"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "contact: (1) n. the physical state of touching or being very near; (2) v. to touch something or come together with it physically.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drop%1:07:00::",
+      "lemma": "drop",
+      "pos": "n",
+      "definition": "a sudden sharp decrease in some quantity",
+      "decision": "gloss",
+      "simpleMeaning": "A sudden large fall in an amount or level.",
+      "scope": "It is not a small amount of liquid; it is a fall in a number or level.",
+      "examples": [
+        "There was a sharp drop in temperature overnight.",
+        "The company reported a drop in sales."
+      ],
+      "branchCoverage": [
+        "a sudden sharp decrease in some quantity -> sudden large fall in an amount or level"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drop: (1) n. a sudden large fall in an amount or level; (2) n. a very small amount of liquid.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "drop%1:23:00::",
+      "lemma": "drop",
+      "pos": "n",
+      "definition": "a small indefinite quantity (especially of a liquid)",
+      "decision": "gloss",
+      "simpleMeaning": "A very small amount of liquid, often one round piece of it.",
+      "scope": "It is not a fall in a level or amount; it is a tiny bit of liquid.",
+      "examples": [
+        "A drop of rain fell on the window.",
+        "He added a few drops of lemon to his tea."
+      ],
+      "branchCoverage": [
+        "a small indefinite quantity (especially of a liquid) -> very small amount of liquid, often one round piece"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "drop: (1) n. a sudden large fall in an amount or level; (2) n. a very small amount of liquid.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fair%1:04:01::",
+      "lemma": "fair",
+      "pos": "n",
+      "definition": "a traveling show; having sideshows and rides and games of skill etc.",
+      "decision": "gloss",
+      "simpleMeaning": "A moving outdoor show with rides, games, and small shows.",
+      "scope": "It is not a business event for showing products, and not equal treatment; it is a fun show that travels.",
+      "examples": [
+        "The children loved the rides at the fair.",
+        "A fair came to the village every summer."
+      ],
+      "branchCoverage": [
+        "a traveling show -> moving outdoor show",
+        "having sideshows and rides and games of skill etc -> with rides, side shows, and games"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fair: (1) n. a traveling fun show with rides and games; (2) v. to join two pieces so their outer surfaces blend smoothly; (3) adj. treating everyone equally and honestly, following the rules; (4) n. a business event where makers and sellers show goods; (5) adv. in a way that gives neither side an advantage; (6) adv. according to the rules, without cheating.",
+      "meaning": "a travelling outdoor event with rides, games, and side shows.",
+      "verdict": "self-approved",
+      "reviewerNote": "'Moving' suggests emotion; 'small shows' vague; use 'A traveling outdoor show with rides, games, and side shows'."
+    },
+    {
+      "senseId": "fair%2:35:00::",
+      "lemma": "fair",
+      "pos": "v",
+      "definition": "join so that the external surfaces blend smoothly",
+      "decision": "gloss",
+      "simpleMeaning": "To join two pieces so that their outer surfaces become smooth and even.",
+      "scope": "It is not treating people equally or a fun show; it is a building or crafting action that makes a join smooth.",
+      "examples": [
+        "The carpenter faired the two boards until the seam disappeared.",
+        "The hull was faired to give the boat a smooth shape."
+      ],
+      "branchCoverage": [
+        "join so that the external surfaces blend smoothly -> join two pieces so their outer surfaces become smooth and even"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fair: (1) n. a traveling fun show with rides and games; (2) v. to join two pieces so their outer surfaces blend smoothly; (3) adj. treating everyone equally and honestly, following the rules; (4) n. a business event where makers and sellers show goods; (5) adv. in a way that gives neither side an advantage; (6) adv. according to the rules, without cheating.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fair%3:00:03::",
+      "lemma": "fair",
+      "pos": "a",
+      "definition": "free from favoritism or self-interest or bias or deception; conforming with established standards or rules",
+      "decision": "gloss",
+      "simpleMeaning": "Treating everyone equally and honestly, and following the rules.",
+      "scope": "It is not about pale hair or good weather; it is about equal and honest treatment.",
+      "examples": [
+        "The judge made a fair decision.",
+        "It is not fair to blame her for something she did not do."
+      ],
+      "branchCoverage": [
+        "free from favoritism or self-interest or bias or deception -> treating everyone equally and honestly",
+        "conforming with established standards or rules -> following the rules"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fair: (1) n. a traveling fun show with rides and games; (2) v. to join two pieces so their outer surfaces blend smoothly; (3) adj. treating everyone equally and honestly, following the rules; (4) n. a business event where makers and sellers show goods; (5) adv. in a way that gives neither side an advantage; (6) adv. according to the rules, without cheating.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fair%1:14:01::",
+      "lemma": "fair",
+      "pos": "n",
+      "definition": "gathering of producers to promote business",
+      "decision": "gloss",
+      "simpleMeaning": "An event where makers and sellers show their goods to attract buyers.",
+      "scope": "It is not a fun show with rides, and not equal treatment; it is a business event for showing goods.",
+      "examples": [
+        "She met several buyers at the trade fair.",
+        "The book fair brought publishers and readers together."
+      ],
+      "branchCoverage": [
+        "gathering of producers to promote business -> event where makers and sellers show goods to attract buyers"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fair: (1) n. a traveling fun show with rides and games; (2) v. to join two pieces so their outer surfaces blend smoothly; (3) adj. treating everyone equally and honestly, following the rules; (4) n. a business event where makers and sellers show goods; (5) adv. in a way that gives neither side an advantage; (6) adv. according to the rules, without cheating.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fair%4:02:00::",
+      "lemma": "fair",
+      "pos": "r",
+      "definition": "without favoring one party, in a fair evenhanded manner",
+      "decision": "gloss",
+      "simpleMeaning": "In a way that gives neither side an advantage.",
+      "scope": "It is not about obeying the rules exactly, but about not helping one side more than the other.",
+      "examples": [
+        "The judge listened fairly to both sides of the argument.",
+        "She divided the cake fairly so that each child got the same amount."
+      ],
+      "branchCoverage": [
+        "without favoring one party, in a fair evenhanded manner -> giving neither side an advantage"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fair: (1) n. a traveling fun show with rides and games; (2) v. to join two pieces so their outer surfaces blend smoothly; (3) adj. treating everyone equally and honestly, following the rules; (4) n. a business event where makers and sellers show goods; (5) adv. in a way that gives neither side an advantage; (6) adv. according to the rules, without cheating.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fair%4:02:01::",
+      "lemma": "fair",
+      "pos": "r",
+      "definition": "in conformity with the rules or laws and without fraud or cheating",
+      "decision": "gloss",
+      "simpleMeaning": "According to the rules, without cheating.",
+      "scope": "It is not about sharing things equally between sides; it is about obeying the rules and not cheating.",
+      "examples": [
+        "He won the race fairly, without taking any shortcuts.",
+        "The company won the contract fairly and followed every rule."
+      ],
+      "branchCoverage": [
+        "in conformity with the rules or laws and without fraud or cheating -> according to the rules, without cheating"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fair: (1) n. a traveling fun show with rides and games; (2) v. to join two pieces so their outer surfaces blend smoothly; (3) adj. treating everyone equally and honestly, following the rules; (4) n. a business event where makers and sellers show goods; (5) adv. in a way that gives neither side an advantage; (6) adv. according to the rules, without cheating.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "kid%1:27:00::",
+      "lemma": "kid",
+      "pos": "n",
+      "definition": "soft smooth leather from the hide of a young goat",
+      "decision": "gloss",
+      "simpleMeaning": "Soft, smooth leather made from the skin of a young goat.",
+      "scope": "It is not a young person or a young goat itself; it is the leather made from such a goat's skin.",
+      "examples": [
+        "The gloves are made of soft kid.",
+        "She wore a pair of kid boots."
+      ],
+      "branchCoverage": [
+        "soft smooth leather from the hide of a young goat -> soft, smooth leather made from a young goat's skin"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "positive%1:10:00::",
+      "lemma": "positive",
+      "pos": "n",
+      "definition": "the primary form of an adjective or adverb; denotes a quality without qualification, comparison, or relation to increase or diminution",
+      "decision": "gloss",
+      "simpleMeaning": "The basic form of an adjective or adverb, used when nothing is being compared.",
+      "scope": "It is not the form used for comparing two things, and not a hopeful attitude; it is the plain base form of a word.",
+      "examples": [
+        "In 'tall, taller, tallest', 'tall' is the positive.",
+        "Students first learn the positive before the comparative."
+      ],
+      "branchCoverage": [
+        "the primary form of an adjective or adverb -> basic form of an adjective or adverb",
+        "denotes a quality without qualification, comparison, or relation to increase or diminution -> used when nothing is compared or increased"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "positive: (1) n. the basic form of an adjective or adverb, with no comparison; (2) adj. showing agreement, acceptance, or certainty; (3) n. a film or print that shows an image with its true light and dark tones.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "positive%3:00:01::",
+      "lemma": "positive",
+      "pos": "a",
+      "definition": "characterized by or displaying affirmation or acceptance or certainty etc.",
+      "decision": "gloss",
+      "simpleMeaning": "Showing agreement, acceptance, or confidence.",
+      "scope": "It is not the basic form of a grammar word, and not a film image; it is an attitude of agreement or certainty.",
+      "examples": [
+        "She gave a positive answer to the invitation.",
+        "The doctor was positive that the test was correct."
+      ],
+      "branchCoverage": [
+        "characterized by or displaying affirmation or acceptance or certainty etc -> showing agreement, acceptance, or confidence"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "positive: (1) n. the basic form of an adjective or adverb, with no comparison; (2) adj. showing agreement, acceptance, or certainty; (3) n. a film or print that shows an image with its true light and dark tones.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "positive%1:06:00::",
+      "lemma": "positive",
+      "pos": "n",
+      "definition": "a film showing a photographic image whose tones correspond to those of the original subject",
+      "decision": "gloss",
+      "simpleMeaning": "A piece of film that shows a picture with light and dark areas matching the real scene.",
+      "scope": "This is not the grammar word for the basic form of an adjective, and not the attitude of being sure; it is a picture on film.",
+      "examples": [
+        "The photographer made a positive from the negative.",
+        "The positive showed the scene exactly as it had looked."
+      ],
+      "branchCoverage": [
+        "a film showing a photographic image whose tones correspond to those of the original subject -> A piece of film that shows a picture with light and dark areas matching the real scene"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "positive: grammar noun = the basic form of an adjective or adverb; adjective = showing certainty, acceptance, or agreement; photography noun = a film image whose light and dark areas match the original scene.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sale%1:04:01::",
+      "lemma": "sale",
+      "pos": "n",
+      "definition": "an occasion (usually brief) for buying at specially reduced prices",
+      "decision": "gloss",
+      "simpleMeaning": "A short period when a shop offers things at lower prices than usual.",
+      "scope": "This is not the general act of exchanging goods for money; it is a special time when prices are reduced.",
+      "examples": [
+        "The store is having a sale on winter coats.",
+        "I bought this dress in a sale last week."
+      ],
+      "branchCoverage": [
+        "an occasion (usually brief) for buying at specially reduced prices -> A short period when a shop offers things at lower prices than usual"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "welcome%3:00:00::",
+      "lemma": "welcome",
+      "pos": "a",
+      "definition": "giving pleasure or satisfaction or received with pleasure or freely granted",
+      "decision": "gloss",
+      "simpleMeaning": "Pleasing or satisfying, or gladly accepted and given without conditions.",
+      "scope": "This is not the friendly act of meeting someone when they arrive, and not the friendly feeling of being accepted; it describes something that pleases people or is gladly accepted.",
+      "examples": [
+        "The cool drink was very welcome on a hot day.",
+        "Any help you can give would be welcome."
+      ],
+      "branchCoverage": [
+        "giving pleasure or satisfaction or received with pleasure or freely granted -> Pleasing or satisfying, or gladly accepted and given without conditions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "welcome: adjective = pleasing, satisfying, or gladly accepted; verb = to meet and greet someone when they arrive; noun = the friendly acceptance someone receives when they arrive or join.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "welcome%2:32:00::",
+      "lemma": "welcome",
+      "pos": "v",
+      "definition": "bid welcome to; greet upon arrival",
+      "decision": "gloss",
+      "simpleMeaning": "To meet someone in a friendly way when they arrive.",
+      "scope": "This is not the adjective meaning pleasing or gladly accepted, and not the noun for the friendly feeling you receive; it is the act of meeting and greeting someone.",
+      "examples": [
+        "She welcomed the guests at the door.",
+        "They welcomed us with warm smiles."
+      ],
+      "branchCoverage": [
+        "bid welcome to -> meet someone in a friendly way",
+        "greet upon arrival -> when they arrive"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "welcome: adjective = pleasing, satisfying, or gladly accepted; verb = to meet and greet someone when they arrive; noun = the friendly acceptance someone receives when they arrive or join.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "welcome%1:26:00::",
+      "lemma": "welcome",
+      "pos": "n",
+      "definition": "the state of being welcome",
+      "decision": "gloss",
+      "simpleMeaning": "The friendly acceptance that people show when you arrive or join them.",
+      "scope": "This is not the act of greeting someone at the door, and not the adjective describing something pleasing; it is the friendly feeling of being accepted.",
+      "examples": [
+        "The visitors had clearly outstayed their welcome.",
+        "There was no welcome for strangers in that village."
+      ],
+      "branchCoverage": [
+        "the state of being welcome -> The friendly acceptance that people show when you arrive or join them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "welcome: adjective = pleasing, satisfying, or gladly accepted; verb = to meet and greet someone when they arrive; noun = the friendly acceptance someone receives when they arrive or join.",
+      "meaning": "the state of being wanted and gladly accepted by the people around you",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss/examples show a greeting-reception; state sense is 'being wanted and gladly accepted', e.g. 'outstay your welcome'."
+    },
+    {
+      "senseId": "absolutely%4:02:00::",
+      "lemma": "absolutely",
+      "pos": "r",
+      "definition": "completely and without qualification; used informally as intensifiers",
+      "decision": "gloss",
+      "simpleMeaning": "Completely and with no doubt; used informally to make a statement stronger.",
+      "scope": "This is not the use that means 'yes' on its own; it makes another word stronger.",
+      "examples": [
+        "I absolutely love this song.",
+        "You must be absolutely sure before you sign."
+      ],
+      "branchCoverage": [
+        "completely and without qualification -> Completely and with no doubt",
+        "used informally as intensifiers -> used informally to make a statement stronger"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "conditions%1:26:03::",
+      "lemma": "conditions",
+      "pos": "n",
+      "definition": "the set of circumstances that affect someone's welfare",
+      "decision": "gloss",
+      "simpleMeaning": "The situation and surroundings that affect how well someone lives or feels.",
+      "scope": "This is not the setting that affects how a process or experiment turns out; it is about the things that affect a person's life and well-being.",
+      "examples": [
+        "Many families are living in poor conditions.",
+        "The workers demanded better working conditions."
+      ],
+      "branchCoverage": [
+        "the set of circumstances that affect someone's welfare -> The situation and surroundings that affect how well someone lives or feels"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "conditions: sense 1 = the situation and surroundings that affect a person's life and well-being; sense 2 = the setting that affects how a process or activity works or ends.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "conditions%1:26:04::",
+      "lemma": "conditions",
+      "pos": "n",
+      "definition": "the prevailing context that influences the performance or the outcome of a process",
+      "decision": "gloss",
+      "simpleMeaning": "The situation around a process that affects how well it works or how it ends.",
+      "scope": "This is not about someone's living standards or well-being; it is about the setting in which a process or activity happens.",
+      "examples": [
+        "The experiment was repeated under the same conditions.",
+        "Weather conditions made the flight dangerous."
+      ],
+      "branchCoverage": [
+        "the prevailing context that influences the performance or the outcome of a process -> The situation around a process that affects how well it works or how it ends"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "conditions: sense 1 = the situation and surroundings that affect a person's life and well-being; sense 2 = the setting that affects how a process or activity works or ends.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "earlier%4:02:00::",
+      "lemma": "earlier",
+      "pos": "r",
+      "definition": "earlier in time; previously",
+      "decision": "gloss",
+      "simpleMeaning": "At a time before the present or before the point being talked about.",
+      "scope": "This is not the adjective that compares two times; it is an adverb saying something happened before now or before the time in question.",
+      "examples": [
+        "I saw her earlier today.",
+        "He had mentioned the idea earlier in the meeting."
+      ],
+      "branchCoverage": [
+        "earlier in time -> At a time before",
+        "previously -> before the present or before the point being talked about"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "extra%1:18:00::",
+      "lemma": "extra",
+      "pos": "n",
+      "definition": "a minor actor in crowd scenes",
+      "decision": "gloss",
+      "simpleMeaning": "A person with a small acting part, often standing in a crowd scene.",
+      "scope": "This is not something added on top of what is usual or needed; it is a person with a small role in a film.",
+      "examples": [
+        "She worked as an extra in a film about ancient Rome.",
+        "The extras stood silently in the background."
+      ],
+      "branchCoverage": [
+        "a minor actor in crowd scenes -> A person with a small acting part, often standing in a crowd scene"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "immediately%4:02:00::",
+      "lemma": "immediately",
+      "pos": "r",
+      "definition": "without delay or hesitation; with no time intervening",
+      "decision": "gloss",
+      "simpleMeaning": "Right away, with no waiting and no time in between.",
+      "scope": "This is not the sense meaning directly connected or next in line; it is about something happening at once.",
+      "examples": [
+        "Call the doctor immediately.",
+        "She immediately understood what he meant."
+      ],
+      "branchCoverage": [
+        "without delay or hesitation -> Right away, with no waiting",
+        "with no time intervening -> with no time in between"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "immediately: sense 1 = at once, with no waiting; sense 2 = directly connected or directly involved, with nothing in between.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "immediately%4:02:05::",
+      "lemma": "immediately",
+      "pos": "r",
+      "definition": "bearing an immediate relation",
+      "decision": "gloss",
+      "simpleMeaning": "Closely connected to something, with no other person or thing in between.",
+      "scope": "This is not about doing something at once; it is about being closely involved or closely linked.",
+      "examples": [
+        "The new rule affects everyone immediately involved in the project.",
+        "She spoke to the people immediately concerned."
+      ],
+      "branchCoverage": [
+        "bearing an immediate relation -> Closely connected to something, with no other person or thing in between"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "immediately: sense 1 = at once, with no waiting; sense 2 = directly connected or directly involved, with nothing in between.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "minute%5:00:00:careful:00",
+      "lemma": "minute",
+      "pos": "a",
+      "definition": "characterized by painstaking care and detailed examination",
+      "decision": "gloss",
+      "simpleMeaning": "Done with great care and attention to small details.",
+      "scope": "This is not the noun for sixty seconds, and not the adjective meaning very small; it describes careful, detailed work.",
+      "examples": [
+        "The scientist made a minute study of the insect's wings.",
+        "He described the painting in minute detail."
+      ],
+      "branchCoverage": [
+        "characterized by painstaking care and detailed examination -> Done with great care and attention to small details"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nature%1:07:02::",
+      "lemma": "nature",
+      "pos": "n",
+      "definition": "the essential qualities or characteristics by which something is recognized",
+      "decision": "gloss",
+      "simpleMeaning": "The basic qualities that make something what it is and how people know it.",
+      "scope": "This is not the physical world of plants and animals, and not a power that rules the universe; it is the basic character of a thing or person.",
+      "examples": [
+        "It is in the nature of cats to sleep a lot.",
+        "The nature of the problem became clear after the meeting."
+      ],
+      "branchCoverage": [
+        "the essential qualities or characteristics by which something is recognized -> The basic qualities that make something what it is and how people know it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "nature: sense 1 = the basic qualities that make something what it is; sense 2 = a power imagined as creating and controlling the universe; sense 3 = the physical world of plants, animals, land, and weather.",
+      "meaning": "the basic qualities that make something what it is and that people recognize it by.",
+      "verdict": "self-approved",
+      "reviewerNote": "Ungrammatical 'make something what it is and how people know it'; use '...and that people recognize it by'."
+    },
+    {
+      "senseId": "nature%1:18:00::",
+      "lemma": "nature",
+      "pos": "n",
+      "definition": "a causal agent creating and controlling things in the universe",
+      "decision": "gloss",
+      "simpleMeaning": "A power believed to create and control everything in the world.",
+      "scope": "This is not the physical world itself, and not the basic character of something; it is a force imagined as making and ruling all things.",
+      "examples": [
+        "The old stories say that nature decides when the seasons change.",
+        "They gave thanks to nature for a good harvest."
+      ],
+      "branchCoverage": [
+        "a causal agent creating and controlling things in the universe -> A power believed to create and control everything in the world"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "nature: sense 1 = the basic qualities that make something what it is; sense 2 = a power imagined as creating and controlling the universe; sense 3 = the physical world of plants, animals, land, and weather.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nature%1:17:00::",
+      "lemma": "nature",
+      "pos": "n",
+      "definition": "the natural physical world including plants and animals and landscapes etc.",
+      "decision": "gloss",
+      "simpleMeaning": "The physical world of plants, animals, land, and weather, not made by people.",
+      "scope": "This is not the basic character of something, and not a ruling power; it is the living, physical world around us.",
+      "examples": [
+        "We spent the weekend walking in nature.",
+        "The documentary shows the beauty of nature."
+      ],
+      "branchCoverage": [
+        "the natural physical world including plants and animals and landscapes etc. -> The physical world of plants, animals, land, and weather, not made by people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "nature: sense 1 = the basic qualities that make something what it is; sense 2 = a power imagined as creating and controlling the universe; sense 3 = the physical world of plants, animals, land, and weather.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "quick%1:08:00::",
+      "lemma": "quick",
+      "pos": "n",
+      "definition": "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail)",
+      "decision": "gloss",
+      "simpleMeaning": "A part of the body, such as the flesh under a nail, that feels pain very sharply.",
+      "scope": "This is not the adjective meaning fast; it is the tender, sensitive flesh under a nail or under the skin.",
+      "examples": [
+        "He cut his nail down to the quick.",
+        "The thorn went deep into the quick of his thumb."
+      ],
+      "branchCoverage": [
+        "any area of the body that is highly sensitive to pain (as the flesh underneath the skin or a fingernail or toenail) -> A part of the body, such as the flesh under a nail, that feels pain very sharply"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "quick: noun = the tender flesh under a nail or skin that feels pain sharply; adjective (fast) = done in a short time without delay; adjective (active) = moving fast and lightly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "quick%5:00:00:fast:01",
+      "lemma": "quick",
+      "pos": "a",
+      "definition": "accomplished rapidly and without delay",
+      "decision": "gloss",
+      "simpleMeaning": "Done in a short time and without waiting.",
+      "scope": "This is not about moving fast and lightly; it is about something being finished in a short time.",
+      "examples": [
+        "She gave a quick answer.",
+        "We need a quick decision."
+      ],
+      "branchCoverage": [
+        "accomplished rapidly and without delay -> Done in a short time and without waiting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "quick: noun = the tender flesh under a nail or skin that feels pain sharply; adjective (fast) = done in a short time without delay; adjective (active) = moving fast and lightly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "quick%5:00:00:active:01",
+      "lemma": "quick",
+      "pos": "a",
+      "definition": "moving quickly and lightly",
+      "decision": "gloss",
+      "simpleMeaning": "Moving fast and in a light, easy way.",
+      "scope": "This is not about finishing something in a short time; it describes light, fast movement.",
+      "examples": [
+        "The dancer's quick steps delighted the crowd.",
+        "A quick little bird flew past the window."
+      ],
+      "branchCoverage": [
+        "moving quickly and lightly -> Moving fast and in a light, easy way"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "quick: noun = the tender flesh under a nail or skin that feels pain sharply; adjective (fast) = done in a short time without delay; adjective (active) = moving fast and lightly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "agree%2:42:00::",
+      "lemma": "agree",
+      "pos": "v",
+      "definition": "be compatible, similar or consistent; coincide in their characteristics",
+      "decision": "gloss",
+      "simpleMeaning": "To match or be the same as something else in its main features.",
+      "scope": "This is not about saying yes to a plan; it is about two things matching or fitting together.",
+      "examples": [
+        "His story does not agree with the facts.",
+        "The two sets of results agree closely."
+      ],
+      "branchCoverage": [
+        "be compatible, similar or consistent -> To match or be the same",
+        "coincide in their characteristics -> in its main features"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "agree: sense 1 = two things match or fit together; sense 2 = to say yes or promise to do something; sense 3 = to share the same opinion.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "agree%2:32:01::",
+      "lemma": "agree",
+      "pos": "v",
+      "definition": "consent or assent to a condition, or agree to do something",
+      "decision": "gloss",
+      "simpleMeaning": "To say yes to a plan or promise to do something.",
+      "scope": "This is not about two accounts matching, and not about sharing an opinion; it is about giving your consent to something.",
+      "examples": [
+        "She agreed to help us move the furniture.",
+        "They agreed to the new terms."
+      ],
+      "branchCoverage": [
+        "consent or assent to a condition, or agree to do something -> To say yes to a plan or promise to do something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "agree: sense 1 = two things match or fit together; sense 2 = to say yes or promise to do something; sense 3 = to share the same opinion.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "agree%2:32:00::",
+      "lemma": "agree",
+      "pos": "v",
+      "definition": "be in accord; be in agreement",
+      "decision": "gloss",
+      "simpleMeaning": "To have the same opinion as someone else.",
+      "scope": "This is not about promising to do something; it is about sharing the same view.",
+      "examples": [
+        "We agree on most things.",
+        "The two leaders agreed about the need for peace."
+      ],
+      "branchCoverage": [
+        "be in accord -> To have the same opinion",
+        "be in agreement -> as someone else"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "agree: sense 1 = two things match or fit together; sense 2 = to say yes or promise to do something; sense 3 = to share the same opinion.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%1:04:00::",
+      "lemma": "clean",
+      "pos": "n",
+      "definition": "a weightlift in which the barbell is lifted to shoulder height and then jerked overhead",
+      "decision": "gloss",
+      "simpleMeaning": "A weightlifting move in which a bar is lifted to the shoulders and then pushed above the head.",
+      "scope": "This is not the act of removing dirt; it is a move in weightlifting.",
+      "examples": [
+        "She improved her clean after months of training.",
+        "He performed a clean with 150 kilograms."
+      ],
+      "branchCoverage": [
+        "a weightlift in which the barbell is lifted to shoulder height and then jerked overhead -> A weightlifting move in which a bar is lifted to the shoulders and then pushed above the head"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean: noun = a weightlifting move; verb (general) = to remove dirt or unwanted things; verb (food) = to remove unwanted parts such as feathers or stones.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%2:35:00::",
+      "lemma": "clean",
+      "pos": "v",
+      "definition": "make clean by removing dirt, filth, or unwanted substances from",
+      "decision": "gloss",
+      "simpleMeaning": "To remove dirt or unwanted things from something.",
+      "scope": "This is not about taking feathers or stones out of food; it is the general act of removing dirt.",
+      "examples": [
+        "I cleaned the kitchen after dinner.",
+        "They cleaned the windows until they shone."
+      ],
+      "branchCoverage": [
+        "make clean by removing dirt, filth, or unwanted substances from -> To remove dirt or unwanted things from something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean: noun = a weightlifting move; verb (general) = to remove dirt or unwanted things; verb (food) = to remove unwanted parts such as feathers or stones.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clean%2:30:01::",
+      "lemma": "clean",
+      "pos": "v",
+      "definition": "remove unwanted substances from, such as feathers or pits",
+      "decision": "gloss",
+      "simpleMeaning": "To take off parts that are not wanted, such as feathers from a bird or stones from fruit.",
+      "scope": "This is not the general act of washing away dirt; it is about removing unwanted parts from food or materials.",
+      "examples": [
+        "She cleaned the fish before cooking it.",
+        "The cherries were cleaned and ready to eat."
+      ],
+      "branchCoverage": [
+        "remove unwanted substances from, such as feathers or pits -> To take off parts that are not wanted, such as feathers from a bird or stones from fruit"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "clean: noun = a weightlifting move; verb (general) = to remove dirt or unwanted things; verb (food) = to remove unwanted parts such as feathers or stones.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

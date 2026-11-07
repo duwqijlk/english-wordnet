@@ -1,0 +1,1016 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 28,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 1350,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "doctor%2:30:01::",
+      "lemma": "doctor",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "restore by replacing a part or putting together what is torn or broken",
+      "synsetId": "00261534-v",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1239,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "restore by replacing a part or putting together what is torn or broken"
+      ]
+    },
+    {
+      "senseId": "doubt%1:07:00::",
+      "lemma": "doubt",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "uncertainty about the truth or factuality or existence of something",
+      "synsetId": "04764777-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1240,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "uncertainty about the truth or factuality or existence of something"
+      ]
+    },
+    {
+      "senseId": "drink%1:04:00::",
+      "lemma": "drink",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of drinking alcoholic beverages to excess",
+      "synsetId": "00749813-n",
+      "words": 8,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1241,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of drinking alcoholic beverages to excess"
+      ]
+    },
+    {
+      "senseId": "drink%1:13:00::",
+      "lemma": "drink",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "any liquid suitable for drinking",
+      "synsetId": "07897775-n",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1241,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any liquid suitable for drinking"
+      ]
+    },
+    {
+      "senseId": "driving%1:04:03::",
+      "lemma": "driving",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "hitting a golf ball off of a tee with a driver",
+      "synsetId": "00573526-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1242,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "hitting a golf ball off of a tee with a driver"
+      ]
+    },
+    {
+      "senseId": "driving%5:00:00:dynamic:00",
+      "lemma": "driving",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "having the power of driving or impelling",
+      "synsetId": "00812509-s",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1242,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having the power of driving or impelling"
+      ]
+    },
+    {
+      "senseId": "established%5:00:00:settled:02",
+      "lemma": "established",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "settled securely and unconditionally",
+      "synsetId": "02136915-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1243,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "settled securely and unconditionally"
+      ]
+    },
+    {
+      "senseId": "established%3:00:00::",
+      "lemma": "established",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "brought about or set up or accepted; especially long established",
+      "synsetId": "01639189-a",
+      "words": 10,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1243,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "brought about or set up or accepted",
+        "especially long established"
+      ]
+    },
+    {
+      "senseId": "fish%1:05:00::",
+      "lemma": "fish",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills",
+      "synsetId": "02514684-n",
+      "words": 15,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1245,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills"
+      ]
+    },
+    {
+      "senseId": "glad%1:20:00::",
+      "lemma": "glad",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any of numerous plants of the genus Gladiolus native chiefly to tropical and South Africa having sword-shaped leaves and one-sided spikes of brightly colored funnel-shaped flowers; widely cultivated",
+      "synsetId": "12437887-n",
+      "words": 31,
+      "rare": 17,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1246,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any of numerous plants of the genus Gladiolus native chiefly to tropical and South Africa having sword-shaped leaves and one-sided spikes of brightly colored funnel-shaped flowers",
+        "widely cultivated"
+      ]
+    },
+    {
+      "senseId": "glad%3:00:00::",
+      "lemma": "glad",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "showing or causing joy and pleasure; especially made happy",
+      "synsetId": "01364330-a",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1246,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "showing or causing joy and pleasure",
+        "especially made happy"
+      ]
+    },
+    {
+      "senseId": "greater%3:00:00::",
+      "lemma": "greater",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "greater in size or importance or degree",
+      "synsetId": "01398335-a",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1247,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "greater in size or importance or degree"
+      ]
+    },
+    {
+      "senseId": "machine%1:06:00::",
+      "lemma": "machine",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks",
+      "synsetId": "03705309-n",
+      "words": 20,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1250,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any mechanical or electrical device that transmits or modifies energy to perform or assist in the performance of human tasks"
+      ]
+    },
+    {
+      "senseId": "machine%1:14:01::",
+      "lemma": "machine",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an intricate organization that accomplishes its goals efficiently",
+      "synsetId": "08281680-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1250,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an intricate organization that accomplishes its goals efficiently"
+      ]
+    },
+    {
+      "senseId": "machine%2:36:01::",
+      "lemma": "machine",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "turn, shape, mold, or otherwise finish by machinery",
+      "synsetId": "01627206-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1250,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "turn, shape, mold, or otherwise finish by machinery"
+      ]
+    },
+    {
+      "senseId": "machine%2:36:00::",
+      "lemma": "machine",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "make by machinery",
+      "synsetId": "01627004-v",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1250,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make by machinery"
+      ]
+    },
+    {
+      "senseId": "notice%2:39:04::",
+      "lemma": "notice",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "discover or determine the existence, presence, or fact of by perception with the eyes",
+      "synsetId": "02158938-v",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1251,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "discover or determine the existence, presence, or fact of by perception with the eyes"
+      ]
+    },
+    {
+      "senseId": "notice%1:09:00::",
+      "lemma": "notice",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of noticing or paying attention",
+      "synsetId": "05711376-n",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1251,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of noticing or paying attention"
+      ]
+    },
+    {
+      "senseId": "notice%2:39:00::",
+      "lemma": "notice",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "notice or perceive",
+      "synsetId": "02122959-v",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1251,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "notice or perceive"
+      ]
+    },
+    {
+      "senseId": "overall%1:06:00::",
+      "lemma": "overall",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)",
+      "synsetId": "03868628-n",
+      "words": 15,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1252,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(usually plural) work clothing consisting of denim trousers (usually with a bib and shoulder straps)"
+      ]
+    },
+    {
+      "senseId": "overall%1:06:02::",
+      "lemma": "overall",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a loose protective coverall or smock worn over ordinary clothing for dirty work",
+      "synsetId": "03868782-n",
+      "words": 13,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1252,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a loose protective coverall or smock worn over ordinary clothing for dirty work"
+      ]
+    },
+    {
+      "senseId": "planning%1:04:02::",
+      "lemma": "planning",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act or process of drawing up plans or layouts for some project or enterprise",
+      "synsetId": "00930186-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1253,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act or process of drawing up plans or layouts for some project or enterprise"
+      ]
+    },
+    {
+      "senseId": "sit%2:35:00::",
+      "lemma": "sit",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be in a position in which one's upper body is largely upright and supported by one's backside",
+      "synsetId": "01545905-v",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1259,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be in a position in which one's upper body is largely upright and supported by one's backside"
+      ]
+    },
+    {
+      "senseId": "trip%1:11:00::",
+      "lemma": "trip",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an accidental misstep threatening (or causing) a fall",
+      "synsetId": "07332119-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1260,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an accidental misstep threatening (or causing) a fall"
+      ]
+    },
+    {
+      "senseId": "basic%1:06:00::",
+      "lemma": "basic",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(usually in the plural) a necessary commodity for which demand is constant",
+      "synsetId": "02803952-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1262,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(usually in the plural) a necessary commodity for which demand is constant"
+      ]
+    },
+    {
+      "senseId": "basic%5:00:00:standard:01",
+      "lemma": "basic",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "reduced to the simplest and most significant form possible without loss of generality",
+      "synsetId": "02302973-s",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1262,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "reduced to the simplest and most significant form possible without loss of generality"
+      ]
+    },
+    {
+      "senseId": "captain%2:41:00::",
+      "lemma": "captain",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be the captain of a sports team",
+      "synsetId": "02445351-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1263,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be the captain of a sports team"
+      ]
+    },
+    {
+      "senseId": "carry%2:38:03::",
+      "lemma": "carry",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "transmit or serve as the medium for transmission",
+      "synsetId": "02084180-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1264,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "transmit or serve as the medium for transmission"
+      ]
+    },
+    {
+      "senseId": "carry%1:04:00::",
+      "lemma": "carry",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of carrying something",
+      "synsetId": "00319561-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1264,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of carrying something"
+      ]
+    },
+    {
+      "senseId": "effective%3:00:00::",
+      "lemma": "effective",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "producing or capable of producing an intended result or having a striking effect",
+      "synsetId": "00837737-a",
+      "words": 13,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1267,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "producing or capable of producing an intended result or having a striking effect"
+      ]
+    },
+    {
+      "senseId": "effective%5:00:00:competent:00",
+      "lemma": "effective",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "able to accomplish a purpose; functioning effectively",
+      "synsetId": "00512569-s",
+      "words": 7,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1267,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "able to accomplish a purpose",
+        "functioning effectively"
+      ]
+    },
+    {
+      "senseId": "holding%1:21:00::",
+      "lemma": "holding",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "something owned; any tangible or intangible possession that is owned by someone",
+      "synsetId": "13265007-n",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1272,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something owned",
+        "any tangible or intangible possession that is owned by someone"
+      ]
+    },
+    {
+      "senseId": "male%1:05:00::",
+      "lemma": "male",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)",
+      "synsetId": "01323721-n",
+      "words": 12,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1274,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)"
+      ]
+    },
+    {
+      "senseId": "male%1:18:00::",
+      "lemma": "male",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a person who belongs to the sex that cannot have babies",
+      "synsetId": "09647338-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1274,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who belongs to the sex that cannot have babies"
+      ]
+    },
+    {
+      "senseId": "plant%1:18:00::",
+      "lemma": "plant",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience",
+      "synsetId": "10458237-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1277,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience"
+      ]
+    },
+    {
+      "senseId": "plant%2:35:00::",
+      "lemma": "plant",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "put or set (seeds, seedlings, or plants) into the ground",
+      "synsetId": "01570056-v",
+      "words": 10,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1277,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "put or set (seeds, seedlings, or plants) into the ground"
+      ]
+    },
+    {
+      "senseId": "spot%1:10:01::",
+      "lemma": "spot",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising",
+      "synsetId": "06408287-n",
+      "words": 21,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1279,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising"
+      ]
+    },
+    {
+      "senseId": "spot%2:35:01::",
+      "lemma": "spot",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "mar or impair with a flaw",
+      "synsetId": "01540949-v",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1279,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "mar or impair with a flaw"
+      ]
+    },
+    {
+      "senseId": "winter%1:28:00::",
+      "lemma": "winter",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the coldest season of the year; in the Northern Hemisphere it extends from the winter solstice to the vernal equinox",
+      "synsetId": "15262579-n",
+      "words": 20,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1280,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the coldest season of the year",
+        "in the Northern Hemisphere it extends from the winter solstice to the vernal equinox"
+      ]
+    },
+    {
+      "senseId": "winter%2:42:00::",
+      "lemma": "winter",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "spend the winter",
+      "synsetId": "02715447-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1280,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "spend the winter"
+      ]
+    },
+    {
+      "senseId": "worse%3:00:00::",
+      "lemma": "worse",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "(comparative of ‘bad’) inferior to another in quality or condition or desirability",
+      "synsetId": "00232844-a",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1281,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(comparative of ‘bad’) inferior to another in quality or condition or desirability"
+      ]
+    },
+    {
+      "senseId": "worse%4:02:00::",
+      "lemma": "worse",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "(comparative of ‘ill’) in a less effective or successful or desirable manner",
+      "synsetId": "00017539-r",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1281,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(comparative of ‘ill’) in a less effective or successful or desirable manner"
+      ]
+    },
+    {
+      "senseId": "worse%3:00:02::",
+      "lemma": "worse",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "changed for the worse in health or fitness",
+      "synsetId": "00233660-a",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 1281,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "changed for the worse in health or fitness"
+      ]
+    },
+    {
+      "senseId": "agreement%1:26:01::",
+      "lemma": "agreement",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "harmony of people's opinions or actions or characters",
+      "synsetId": "13994512-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1283,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "harmony of people's opinions or actions or characters"
+      ]
+    },
+    {
+      "senseId": "award%1:10:00::",
+      "lemma": "award",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a tangible symbol signifying approval or distinction",
+      "synsetId": "06709228-n",
+      "words": 7,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1284,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a tangible symbol signifying approval or distinction"
+      ]
+    },
+    {
+      "senseId": "award%1:21:00::",
+      "lemma": "award",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "something given for victory or superiority in a contest or competition or for winning a lottery",
+      "synsetId": "13289169-n",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1284,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something given for victory or superiority in a contest or competition or for winning a lottery"
+      ]
+    },
+    {
+      "senseId": "block%1:15:00::",
+      "lemma": "block",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a rectangular area in a city surrounded by streets and usually containing several buildings",
+      "synsetId": "08659720-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1285,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a rectangular area in a city surrounded by streets and usually containing several buildings"
+      ]
+    },
+    {
+      "senseId": "block%2:35:00::",
+      "lemma": "block",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "render unsuitable for passage",
+      "synsetId": "01480632-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1285,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "render unsuitable for passage"
+      ]
+    },
+    {
+      "senseId": "broken%3:00:01::",
+      "lemma": "broken",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "physically and forcibly separated into pieces or cracked or split",
+      "synsetId": "00289948-a",
+      "words": 10,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1286,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "physically and forcibly separated into pieces or cracked or split"
+      ]
+    },
+    {
+      "senseId": "broken%3:00:02::",
+      "lemma": "broken",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "not continuous in space, time, or sequence or varying abruptly",
+      "synsetId": "00290849-a",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 1286,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not continuous in space, time, or sequence or varying abruptly"
+      ]
+    }
+  ]
+}

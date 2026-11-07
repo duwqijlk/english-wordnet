@@ -1,0 +1,1015 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 19,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 900,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "paper%1:27:00::",
+      "lemma": "paper",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a material made of cellulose pulp derived mainly from wood or rags or certain grasses",
+      "synsetId": "14998823-n",
+      "words": 15,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 857,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a material made of cellulose pulp derived mainly from wood or rags or certain grasses"
+      ]
+    },
+    {
+      "senseId": "paper%1:10:03::",
+      "lemma": "paper",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a daily or weekly publication on folded sheets; contains news and articles and advertisements",
+      "synsetId": "06277798-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 857,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a daily or weekly publication on folded sheets",
+        "contains news and articles and advertisements"
+      ]
+    },
+    {
+      "senseId": "paper%2:35:00::",
+      "lemma": "paper",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "cover with paper",
+      "synsetId": "01271021-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 857,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cover with paper"
+      ]
+    },
+    {
+      "senseId": "popular%3:00:00::",
+      "lemma": "popular",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "regarded with great favor, approval, or affection especially by the general public",
+      "synsetId": "01821123-a",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 859,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "regarded with great favor, approval, or affection especially by the general public"
+      ]
+    },
+    {
+      "senseId": "popular%5:00:01:common:01",
+      "lemma": "popular",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "representing or appealing to or adapted for the benefit of the people at large",
+      "synsetId": "00488527-s",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 859,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "representing or appealing to or adapted for the benefit of the people at large"
+      ]
+    },
+    {
+      "senseId": "published%5:00:00:publicized:00",
+      "lemma": "published",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "formally made public",
+      "synsetId": "00471990-s",
+      "words": 3,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 860,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "formally made public"
+      ]
+    },
+    {
+      "senseId": "safe%1:06:02::",
+      "lemma": "safe",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a ventilated or refrigerated cupboard for securing provisions from pests",
+      "synsetId": "04132217-n",
+      "words": 10,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 861,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a ventilated or refrigerated cupboard for securing provisions from pests"
+      ]
+    },
+    {
+      "senseId": "safe%1:06:00::",
+      "lemma": "safe",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "strongbox where valuables can be safely kept",
+      "synsetId": "04132122-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 861,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "strongbox where valuables can be safely kept"
+      ]
+    },
+    {
+      "senseId": "starting%1:04:00::",
+      "lemma": "starting",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a turn to be a starter (in a game at the beginning)",
+      "synsetId": "00242566-n",
+      "words": 12,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 862,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a turn to be a starter (in a game at the beginning)"
+      ]
+    },
+    {
+      "senseId": "starting%5:00:00:opening:00",
+      "lemma": "starting",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "appropriate to the beginning or start of an event",
+      "synsetId": "01013462-s",
+      "words": 9,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 862,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "appropriate to the beginning or start of an event"
+      ]
+    },
+    {
+      "senseId": "voice%1:10:00::",
+      "lemma": "voice",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract",
+      "synsetId": "07125323-n",
+      "words": 17,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 865,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the sound made by the vibration of vocal folds modified by the resonance of the vocal tract"
+      ]
+    },
+    {
+      "senseId": "voice%2:32:01::",
+      "lemma": "voice",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "utter with vibrating vocal chords",
+      "synsetId": "00954214-v",
+      "words": 5,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 865,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "utter with vibrating vocal chords"
+      ]
+    },
+    {
+      "senseId": "voice%1:07:00::",
+      "lemma": "voice",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the distinctive quality or pitch or condition of a person's speech",
+      "synsetId": "04989190-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 865,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the distinctive quality or pitch or condition of a person's speech"
+      ]
+    },
+    {
+      "senseId": "voice%1:11:00::",
+      "lemma": "voice",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a sound suggestive of a vocal utterance",
+      "synsetId": "07414052-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 865,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a sound suggestive of a vocal utterance"
+      ]
+    },
+    {
+      "senseId": "voice%2:32:00::",
+      "lemma": "voice",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "give voice to",
+      "synsetId": "00935365-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 865,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "give voice to"
+      ]
+    },
+    {
+      "senseId": "earth%1:15:01::",
+      "lemma": "earth",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the abode of mortals (as contrasted with Heaven or Hell)",
+      "synsetId": "08579604-n",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 869,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the abode of mortals (as contrasted with Heaven or Hell)"
+      ]
+    },
+    {
+      "senseId": "earth%2:39:00::",
+      "lemma": "earth",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "hide in the earth like a hunted animal",
+      "synsetId": "02151420-v",
+      "words": 8,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 869,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "hide in the earth like a hunted animal"
+      ]
+    },
+    {
+      "senseId": "earth%1:17:01::",
+      "lemma": "earth",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the solid part of the earth's surface",
+      "synsetId": "09357302-n",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 869,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the solid part of the earth's surface"
+      ]
+    },
+    {
+      "senseId": "earth%2:35:00::",
+      "lemma": "earth",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "connect to the earth",
+      "synsetId": "01295330-v",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 869,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "connect to the earth"
+      ]
+    },
+    {
+      "senseId": "forget%2:31:03::",
+      "lemma": "forget",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "forget to do something",
+      "synsetId": "00616520-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 870,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "forget to do something"
+      ]
+    },
+    {
+      "senseId": "goal%1:09:00::",
+      "lemma": "goal",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+      "synsetId": "05989760-n",
+      "words": 21,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 871,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it"
+      ]
+    },
+    {
+      "senseId": "goal%1:06:00::",
+      "lemma": "goal",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points",
+      "synsetId": "03447680-n",
+      "words": 24,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 871,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points"
+      ]
+    },
+    {
+      "senseId": "huge%5:00:01:large:00",
+      "lemma": "huge",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "unusually great in size or amount or degree or especially extent or scope",
+      "synsetId": "01390253-s",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 872,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "unusually great in size or amount or degree or especially extent or scope"
+      ]
+    },
+    {
+      "senseId": "listen%2:39:01::",
+      "lemma": "listen",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "listen and pay attention",
+      "synsetId": "02175483-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 873,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "listen and pay attention"
+      ]
+    },
+    {
+      "senseId": "okay%4:02:00::",
+      "lemma": "okay",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "in a satisfactory or adequate manner",
+      "synsetId": "00015933-r",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 874,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "in a satisfactory or adequate manner"
+      ]
+    },
+    {
+      "senseId": "practice%2:41:00::",
+      "lemma": "practice",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "carry out or practice; as of jobs and professions",
+      "synsetId": "02574587-v",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 875,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "carry out or practice",
+        "as of jobs and professions"
+      ]
+    },
+    {
+      "senseId": "sea%1:17:00::",
+      "lemma": "sea",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a division of an ocean or a large body of salt water partially enclosed by land",
+      "synsetId": "09449666-n",
+      "words": 16,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 877,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a division of an ocean or a large body of salt water partially enclosed by land"
+      ]
+    },
+    {
+      "senseId": "sea%1:19:00::",
+      "lemma": "sea",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "turbulent water with swells of considerable size",
+      "synsetId": "11541837-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 877,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "turbulent water with swells of considerable size"
+      ]
+    },
+    {
+      "senseId": "success%1:04:00::",
+      "lemma": "success",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an attainment that is successful",
+      "synsetId": "00064472-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 879,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an attainment that is successful"
+      ]
+    },
+    {
+      "senseId": "waiting%1:04:00::",
+      "lemma": "waiting",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of waiting (remaining inactive in one place while expecting something)",
+      "synsetId": "01065863-n",
+      "words": 12,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 881,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of waiting (remaining inactive in one place while expecting something)"
+      ]
+    },
+    {
+      "senseId": "ways%1:06:00::",
+      "lemma": "ways",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "structure consisting of a sloping way down to the water from the place where ships are built or repaired",
+      "synsetId": "04572325-n",
+      "words": 19,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 882,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "structure consisting of a sloping way down to the water from the place where ships are built or repaired"
+      ]
+    },
+    {
+      "senseId": "access%2:38:00::",
+      "lemma": "access",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "reach or gain access to",
+      "synsetId": "02011431-v",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 883,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "reach or gain access to"
+      ]
+    },
+    {
+      "senseId": "base%2:34:00::",
+      "lemma": "base",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "use (purified cocaine) by burning it and inhaling the fumes",
+      "synsetId": "01202706-v",
+      "words": 10,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 884,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "use (purified cocaine) by burning it and inhaling the fumes"
+      ]
+    },
+    {
+      "senseId": "base%5:00:00:inferior:02",
+      "lemma": "base",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(used of metals) consisting of or alloyed with inferior metal",
+      "synsetId": "02354354-s",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 884,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(used of metals) consisting of or alloyed with inferior metal"
+      ]
+    },
+    {
+      "senseId": "below%4:02:06::",
+      "lemma": "below",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "on a floor below",
+      "synsetId": "00094946-r",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 885,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "on a floor below"
+      ]
+    },
+    {
+      "senseId": "deep%3:00:01::",
+      "lemma": "deep",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "having great spatial extension or penetration downward or inward from an outer surface or backward or laterally or outward from a center; sometimes used in combination",
+      "synsetId": "00693335-a",
+      "words": 26,
+      "rare": 10,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 887,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "having great spatial extension or penetration downward or inward from an outer surface or backward or laterally or outward from a center",
+        "sometimes used in combination"
+      ]
+    },
+    {
+      "senseId": "deep%1:17:00::",
+      "lemma": "deep",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a long steep-sided depression in the ocean floor",
+      "synsetId": "09484445-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 887,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a long steep-sided depression in the ocean floor"
+      ]
+    },
+    {
+      "senseId": "deep%3:00:02::",
+      "lemma": "deep",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "relatively deep or strong; affecting one deeply",
+      "synsetId": "00696211-a",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 887,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "relatively deep or strong",
+        "affecting one deeply"
+      ]
+    },
+    {
+      "senseId": "offer%1:10:00::",
+      "lemma": "offer",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "something offered (as a proposal or bid)",
+      "synsetId": "07179197-n",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 890,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something offered (as a proposal or bid)"
+      ]
+    },
+    {
+      "senseId": "offer%1:10:01::",
+      "lemma": "offer",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the verbal act of offering",
+      "synsetId": "07199736-n",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 890,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the verbal act of offering"
+      ]
+    },
+    {
+      "senseId": "pass%2:41:02::",
+      "lemma": "pass",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "make laws, bills, etc. or bring into effect by legislation",
+      "synsetId": "02472093-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 891,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "make laws, bills, etc. or bring into effect by legislation"
+      ]
+    },
+    {
+      "senseId": "professional%3:00:01::",
+      "lemma": "professional",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "engaged in a profession or engaging in as a profession or means of livelihood",
+      "synsetId": "01874674-a",
+      "words": 14,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 892,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "engaged in a profession or engaging in as a profession or means of livelihood"
+      ]
+    },
+    {
+      "senseId": "professional%3:00:02::",
+      "lemma": "professional",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "characteristic of or befitting a profession or one engaged in a profession",
+      "synsetId": "01876050-a",
+      "words": 12,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 892,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "characteristic of or befitting a profession or one engaged in a profession"
+      ]
+    },
+    {
+      "senseId": "professional%3:01:01::",
+      "lemma": "professional",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "of or relating to or suitable as a profession",
+      "synsetId": "02850580-a",
+      "words": 9,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 892,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or relating to or suitable as a profession"
+      ]
+    },
+    {
+      "senseId": "professional%1:18:00::",
+      "lemma": "professional",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a person engaged in one of the learned professions",
+      "synsetId": "10499838-n",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 892,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person engaged in one of the learned professions"
+      ]
+    },
+    {
+      "senseId": "risk%1:07:02::",
+      "lemma": "risk",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the probability of becoming infected given that exposure to an infectious agent has occurred",
+      "synsetId": "05100680-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 894,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the probability of becoming infected given that exposure to an infectious agent has occurred"
+      ]
+    },
+    {
+      "senseId": "risk%1:26:00::",
+      "lemma": "risk",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a source of danger; a possibility of incurring loss or misfortune",
+      "synsetId": "14565454-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 894,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a source of danger",
+        "a possibility of incurring loss or misfortune"
+      ]
+    },
+    {
+      "senseId": "risk%1:04:00::",
+      "lemma": "risk",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a venture undertaken without regard to possible loss or injury",
+      "synsetId": "00803899-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 894,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a venture undertaken without regard to possible loss or injury"
+      ]
+    },
+    {
+      "senseId": "sleep%1:26:00::",
+      "lemma": "sleep",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a natural and periodic state of rest during which consciousness of the world is suspended",
+      "synsetId": "14048353-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 896,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a natural and periodic state of rest during which consciousness of the world is suspended"
+      ]
+    },
+    {
+      "senseId": "sleep%1:26:02::",
+      "lemma": "sleep",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a torpid state resembling deep sleep",
+      "synsetId": "14049464-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 896,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a torpid state resembling deep sleep"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1189 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 53,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 48,
+    "defers": 2,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "office%1:14:00::"
+    ],
+    "selfDeferred": [
+      "nice%5:00:00:fastidious:00"
+    ],
+    "lineage": {
+      "draft": "db390afec5dd1a1a81de1bc379bedad2ecdd11fb4606250e92c53b0a9b34ea31"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "level%2:30:00::",
+      "lemma": "level",
+      "pos": "v",
+      "definition": "become level or even",
+      "sourceBranches": [
+        "become level or even"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to become flat and even, with no part higher than another.",
+      "scope": "This is not to make something flat by acting on it, and not to aim or point something; it is the thing itself becoming flat.",
+      "examples": [
+        "The driveway rises from the road, then levels in front of the house.",
+        "The lake's surface levelled as the wind dropped."
+      ],
+      "branchCoverage": [
+        "become level or even -> to become flat and even, with no part higher than another"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mind%2:31:03::",
+      "lemma": "mind",
+      "pos": "v",
+      "definition": "be on one's guard; be cautious or wary about; be alert to",
+      "sourceBranches": [
+        "be on one's guard",
+        "be cautious or wary about",
+        "be alert to"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to stay watchful and careful about possible danger, paying close attention to anything that might cause trouble.",
+      "scope": "This is not simply to pay attention to a task or to look after someone; it is to stay watchful because danger or trouble may be near.",
+      "examples": [
+        "Mind the traffic when you cross the road after dark.",
+        "Walking home alone, she stayed alert to every sound behind her."
+      ],
+      "branchCoverage": [
+        "be on one's guard -> stay watchful",
+        "be cautious or wary about -> careful about possible danger",
+        "be alert to -> paying close attention to anything that might cause trouble"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "single%5:00:00:concentrated:00",
+      "lemma": "single",
+      "pos": "a",
+      "definition": "not divided among or brought to bear on more than one object or objective",
+      "sourceBranches": [
+        "not divided among or brought to bear on more than one object or objective"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "directed at only one aim or object, not split among several.",
+      "scope": "This is not something intended for one person or one thing; it is attention or effort fixed on one aim rather than several.",
+      "examples": [
+        "She set out with a single purpose and let nothing pull her away from it.",
+        "The research had a single aim, and every experiment served it."
+      ],
+      "branchCoverage": [
+        "not divided among or brought to bear on more than one object or objective -> directed at only one aim or object, not split among several"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "single%5:00:00:concentrated:00 -> attention or effort fixed on one aim, not split among several; single%5:00:00:unshared:00 -> intended for or belonging to one person or thing only",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "single%5:00:00:unshared:00",
+      "lemma": "single",
+      "pos": "a",
+      "definition": "characteristic of or meant for a single person or thing",
+      "sourceBranches": [
+        "characteristic of or meant for a single person or thing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "intended for, or used by, just one person or thing, not shared between several.",
+      "scope": "This is not attention or effort fixed on one aim; it is something intended for just one person or thing.",
+      "examples": [
+        "The hotel charges the same for a single room as for a double.",
+        "The recipe makes a single serving, so there is no need to divide it."
+      ],
+      "branchCoverage": [
+        "characteristic of or meant for a single person or thing -> intended for, or used by, just one person or thing, not shared between several"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "single%5:00:00:concentrated:00 -> attention or effort fixed on one aim, not split among several; single%5:00:00:unshared:00 -> intended for or belonging to one person or thing only",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "body%1:06:01::",
+      "lemma": "body",
+      "pos": "n",
+      "definition": "a resonating chamber in a musical instrument (as the body of a violin)",
+      "sourceBranches": [
+        "a resonating chamber in a musical instrument (as the body of a violin)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the hollow part of a musical instrument that vibrates and makes the sound fuller, such as the wooden box of a violin.",
+      "scope": "This is not the whole physical frame of a person or animal, and not a separate object in space; it is the hollow sounding part of a musical instrument.",
+      "examples": [
+        "The violin's body is carved from maple and gives the instrument its warm tone.",
+        "The guitar's body was cracked, so the notes sounded thin."
+      ],
+      "branchCoverage": [
+        "a resonating chamber in a musical instrument (as the body of a violin) -> the hollow part of a musical instrument that vibrates and makes the sound fuller, such as the wooden box of a violin"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "body%1:06:01:: -> the hollow sounding part of a musical instrument; body%1:17:00:: -> any separate material object in space; body%1:08:01:: -> the trunk, without head, neck, or limbs",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "body%1:17:00::",
+      "lemma": "body",
+      "pos": "n",
+      "definition": "an individual 3-dimensional object that has mass and that is distinguishable from other objects",
+      "sourceBranches": [
+        "an individual 3-dimensional object that has mass and that is distinguishable from other objects"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a separate object that takes up space in three dimensions, is made of matter, and can be told apart from other objects.",
+      "scope": "This is not a person's or animal's trunk and not the hollow sounding part of an instrument; it is any separate material object in space.",
+      "examples": [
+        "Every body in the solar system is pulled toward the sun by gravity.",
+        "In physics, a falling body accelerates at the same rate regardless of its mass."
+      ],
+      "branchCoverage": [
+        "an individual 3-dimensional object that has mass and that is distinguishable from other objects -> a separate object that takes up space in three dimensions, is made of matter, and can be told apart from other objects"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "body%1:06:01:: -> the hollow sounding part of a musical instrument; body%1:17:00:: -> any separate material object in space; body%1:08:01:: -> the trunk, without head, neck, or limbs",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "body%1:08:01::",
+      "lemma": "body",
+      "pos": "n",
+      "definition": "the body excluding the head and neck and limbs",
+      "sourceBranches": [
+        "the body excluding the head and neck and limbs"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the middle part of a person or animal, apart from the head, neck, and limbs.",
+      "scope": "This is not the whole physical frame and not the hollow sounding part of an instrument; it is the middle section left after the head, neck, and limbs are removed.",
+      "examples": [
+        "The life jacket wraps around the body and fastens at the front, leaving the arms free.",
+        "The burn covered his body but left his face and hands unharmed."
+      ],
+      "branchCoverage": [
+        "the body excluding the head and neck and limbs -> the middle part of a person or animal, apart from the head, neck, and limbs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "body%1:06:01:: -> the hollow sounding part of a musical instrument; body%1:17:00:: -> any separate material object in space; body%1:08:01:: -> the trunk, without head, neck, or limbs",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%1:10:00::",
+      "lemma": "control",
+      "pos": "n",
+      "definition": "the economic policy of controlling or limiting or curbing prices or wages etc.",
+      "sourceBranches": [
+        "the economic policy of controlling or limiting or curbing prices or wages etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a policy about the economy that sets limits on prices, wages, or similar things.",
+      "scope": "This is not a switch or lever on a machine, not a spirit helper at a sitting, and not the general act of managing something; it is a policy that limits prices, wages, or other economic matters.",
+      "examples": [
+        "The government introduced price controls to keep food affordable.",
+        "After the war, wage controls were gradually lifted."
+      ],
+      "branchCoverage": [
+        "the economic policy of controlling or limiting or curbing prices or wages etc -> a policy about the economy that sets limits on prices, wages, or similar things"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "control%1:10:00:: -> a policy that limits prices or wages; control%1:18:00:: -> a spirit helper at a sitting to contact the dead; control%2:31:11:: -> checking a record against a duplicate register; control%2:37:06:: -> skillfully keeping influence over people or yourself for advantage; control%1:04:00:: -> the general act of managing or using power over something; control%1:06:00:: -> a switch, lever, or dial that sets how a machine works",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%1:18:00::",
+      "lemma": "control",
+      "pos": "n",
+      "definition": "a spiritual agency that is assumed to assist the medium during a seance",
+      "sourceBranches": [
+        "a spiritual agency that is assumed to assist the medium during a seance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a spirit that is believed to help a person who communicates with the dead during a meeting held for that purpose.",
+      "scope": "This is not a switch or lever, not a policy that limits prices, and not the general act of managing something; it is a spirit that helps at a sitting to contact the dead.",
+      "examples": [
+        "The medium claimed that her control was the spirit of a Victorian doctor.",
+        "At the seance, the control answered questions through the medium's voice."
+      ],
+      "branchCoverage": [
+        "a spiritual agency that is assumed to assist the medium during a seance -> a spirit that is believed to help a person who communicates with the dead during a meeting held for that purpose"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "control%1:10:00:: -> a policy that limits prices or wages; control%1:18:00:: -> a spirit helper at a sitting to contact the dead; control%2:31:11:: -> checking a record against a duplicate register; control%2:37:06:: -> skillfully keeping influence over people or yourself for advantage; control%1:04:00:: -> the general act of managing or using power over something; control%1:06:00:: -> a switch, lever, or dial that sets how a machine works",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%2:31:11::",
+      "lemma": "control",
+      "pos": "v",
+      "definition": "verify by using a duplicate register for comparison",
+      "sourceBranches": [
+        "verify by using a duplicate register for comparison"
+      ],
+      "decision": "defer",
+      "simpleMeaning": "",
+      "scope": "",
+      "examples": [],
+      "branchCoverage": [
+        "verify by using a duplicate register for comparison -> deferred; no learner wording written"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "control%1:10:00:: -> a policy that limits prices or wages; control%1:18:00:: -> a spirit helper at a sitting to contact the dead; control%2:31:11:: -> checking a record against a duplicate register; control%2:37:06:: -> skillfully keeping influence over people or yourself for advantage; control%1:04:00:: -> the general act of managing or using power over something; control%1:06:00:: -> a switch, lever, or dial that sets how a machine works",
+      "deferReason": "This bookkeeping sense, checking a record against a duplicate register, is obsolete and technical. Modern English uses 'check' or 'reconcile' for this, and any sentence with 'control' used this way reads as stilted jargon, so two idiomatic modern sentences cannot be written.",
+      "reason": "This bookkeeping sense, checking a record against a duplicate register, is obsolete and technical. Modern English uses 'check' or 'reconcile' for this, and any sentence with 'control' used this way reads as stilted jargon, so two idiomatic modern sentences cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%2:37:06::",
+      "lemma": "control",
+      "pos": "v",
+      "definition": "maintain influence over (others or oneself) skillfully, usually to one's advantage",
+      "sourceBranches": [
+        "maintain influence over (others or oneself) skillfully, usually to one's advantage"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to keep influence over other people or over yourself in a skillful way, usually so that you gain an advantage.",
+      "scope": "This is not a switch or lever, not a policy that limits prices, and not the simple act of managing something; it is the skillful keeping of influence over people or yourself for your own benefit.",
+      "examples": [
+        "She controlled the meeting so smoothly that everyone left thinking her plan was their own idea.",
+        "By controlling the flow of information, the manager kept the advantage in every negotiation."
+      ],
+      "branchCoverage": [
+        "maintain influence over (others or oneself) skillfully, usually to one's advantage -> to keep influence over other people or over yourself in a skillful way, usually so that you gain an advantage"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "control%1:10:00:: -> a policy that limits prices or wages; control%1:18:00:: -> a spirit helper at a sitting to contact the dead; control%2:31:11:: -> checking a record against a duplicate register; control%2:37:06:: -> skillfully keeping influence over people or yourself for advantage; control%1:04:00:: -> the general act of managing or using power over something; control%1:06:00:: -> a switch, lever, or dial that sets how a machine works",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%1:04:00::",
+      "lemma": "control",
+      "pos": "n",
+      "definition": "the activity of managing or exerting control over something",
+      "sourceBranches": [
+        "the activity of managing or exerting control over something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of managing something or of using power over it.",
+      "scope": "This is not a switch or lever, not a policy that limits prices, and not skillful influence over people for advantage; it is the general act of managing something or using power over it.",
+      "examples": [
+        "Careful control of the budget kept the project on schedule.",
+        "The control of traffic around the stadium took hours of planning."
+      ],
+      "branchCoverage": [
+        "the activity of managing or exerting control over something -> the act of managing something or of using power over it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "control%1:10:00:: -> a policy that limits prices or wages; control%1:18:00:: -> a spirit helper at a sitting to contact the dead; control%2:31:11:: -> checking a record against a duplicate register; control%2:37:06:: -> skillfully keeping influence over people or yourself for advantage; control%1:04:00:: -> the general act of managing or using power over something; control%1:06:00:: -> a switch, lever, or dial that sets how a machine works",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%1:06:00::",
+      "lemma": "control",
+      "pos": "n",
+      "definition": "a mechanism that controls the operation of a machine",
+      "sourceBranches": [
+        "a mechanism that controls the operation of a machine"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a part such as a switch, lever, or dial that sets how a machine works.",
+      "scope": "This is not the act of managing something, not a policy that limits prices, and not a spirit helper at a sitting; it is a physical part that sets how a machine works.",
+      "examples": [
+        "The volume control is on the left side of the radio.",
+        "He reached for the control that lowers the landing gear."
+      ],
+      "branchCoverage": [
+        "a mechanism that controls the operation of a machine -> a part such as a switch, lever, or dial that sets how a machine works"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "control%1:10:00:: -> a policy that limits prices or wages; control%1:18:00:: -> a spirit helper at a sitting to contact the dead; control%2:31:11:: -> checking a record against a duplicate register; control%2:37:06:: -> skillfully keeping influence over people or yourself for advantage; control%1:04:00:: -> the general act of managing or using power over something; control%1:06:00:: -> a switch, lever, or dial that sets how a machine works",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "office%1:04:00::",
+      "lemma": "office",
+      "pos": "n",
+      "definition": "a religious rite or service prescribed by ecclesiastical authorities",
+      "sourceBranches": [
+        "a religious rite or service prescribed by ecclesiastical authorities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a religious ceremony or service that church leaders set and require",
+      "scope": "This means a church ceremony, not the place where people work or the people who work there.",
+      "examples": [
+        "The monks gather at dawn to say the divine office.",
+        "Church law sets out which office is said on each feast day."
+      ],
+      "branchCoverage": [
+        "a religious rite or service prescribed by ecclesiastical authorities -> a religious ceremony or service that church leaders set and require"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "office%1:04:00:: -> church ceremony or service; office%1:14:00:: -> the people who work in an office",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "office%1:14:00::",
+      "lemma": "office",
+      "pos": "n",
+      "definition": "professional or clerical workers in an office",
+      "sourceBranches": [
+        "professional or clerical workers in an office"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the people who do professional or clerical work in one workplace.",
+      "scope": "This means the people who work there, not the building itself or a church ceremony.",
+      "examples": [
+        "The whole office went out for a drink after the announcement.",
+        "Half the office was out sick during the flu season."
+      ],
+      "branchCoverage": [
+        "professional or clerical workers in an office -> the people who do professional or clerical work in one workplace"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "office%1:04:00:: -> church ceremony or service; office%1:14:00:: -> the people who work in an office",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Adds 'who keep records' (narrows clerical), swaps 'or' to 'and', pads with 'workplace of desks and rooms'. Use 'the people who work in an office'."
+    },
+    {
+      "senseId": "true%5:00:00:geographic:00",
+      "lemma": "true",
+      "pos": "a",
+      "definition": "determined with reference to the earth's axis rather than the magnetic poles",
+      "sourceBranches": [
+        "determined with reference to the earth's axis rather than the magnetic poles"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "measured from the line the earth spins around, rather than from the points a compass points to",
+      "scope": "This is about directions and bearings, not about a statement being correct or a person being honest.",
+      "examples": [
+        "The pilot set a course of true north before takeoff.",
+        "Sailors must allow for the difference between true bearing and magnetic bearing."
+      ],
+      "branchCoverage": [
+        "determined with reference to the earth's axis rather than the magnetic poles -> measured from the line the earth spins around, rather than from the points a compass points to"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "true%5:00:00:geographic:00 -> measured from the earth's axis; true%5:00:00:harmonious:00 -> in tune and at the right pitch; true%5:00:00:sincere:00 -> honestly felt, not pretended; true%5:00:00:typical:00 -> a proper example of its kind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "true%5:00:00:harmonious:00",
+      "lemma": "true",
+      "pos": "a",
+      "definition": "in tune; accurate in pitch",
+      "sourceBranches": [
+        "in tune",
+        "accurate in pitch"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "sounding at the right musical note, in tune and with accurate pitch",
+      "scope": "This is about musical notes and singing or playing, not about a statement being correct or a person being honest.",
+      "examples": [
+        "The piano sounded true even in the highest register.",
+        "Her voice was true on every note of the song."
+      ],
+      "branchCoverage": [
+        "in tune -> in tune",
+        "accurate in pitch -> with accurate pitch"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "true%5:00:00:geographic:00 -> measured from the earth's axis; true%5:00:00:harmonious:00 -> in tune and at the right pitch; true%5:00:00:sincere:00 -> honestly felt, not pretended; true%5:00:00:typical:00 -> a proper example of its kind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "true%5:00:00:sincere:00",
+      "lemma": "true",
+      "pos": "a",
+      "definition": "not pretended; sincerely felt or expressed",
+      "sourceBranches": [
+        "not pretended",
+        "sincerely felt or expressed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "honestly felt or shown, and not pretended",
+      "scope": "This describes feelings or words that are honest, not facts that are correct or a proper example of its kind.",
+      "examples": [
+        "Her delight at the news was true and completely unforced.",
+        "He spoke with true regret about the way he had treated her."
+      ],
+      "branchCoverage": [
+        "not pretended -> not pretended",
+        "sincerely felt or expressed -> honestly felt or shown"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "true%5:00:00:geographic:00 -> measured from the earth's axis; true%5:00:00:harmonious:00 -> in tune and at the right pitch; true%5:00:00:sincere:00 -> honestly felt, not pretended; true%5:00:00:typical:00 -> a proper example of its kind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "true%5:00:00:typical:00",
+      "lemma": "true",
+      "pos": "a",
+      "definition": "conforming to definitive criteria",
+      "sourceBranches": [
+        "conforming to definitive criteria"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "matching every fixed standard that defines what a particular kind of thing is",
+      "scope": "This means a proper example of its kind, not a statement that is correct or a feeling that is honest.",
+      "examples": [
+        "He is a true gentleman, courteous to everyone he meets.",
+        "The little car is a true classic of 1960s design."
+      ],
+      "branchCoverage": [
+        "conforming to definitive criteria -> matching every fixed standard that defines what a particular kind of thing is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "true%5:00:00:geographic:00 -> measured from the earth's axis; true%5:00:00:harmonious:00 -> in tune and at the right pitch; true%5:00:00:sincere:00 -> honestly felt, not pretended; true%5:00:00:typical:00 -> a proper example of its kind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "history%1:28:02::",
+      "lemma": "history",
+      "pos": "n",
+      "definition": "the continuum of events occurring in succession leading from the past to the present and even into the future",
+      "sourceBranches": [
+        "the continuum of events occurring in succession leading from the past to the present and even into the future"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the unbroken chain of events that happen one after another, from the past through the present and on into the future",
+      "scope": "This means the whole unbroken flow of events, not the study of past events or a written account of them.",
+      "examples": [
+        "We are all carried along by history, from one age into the next.",
+        "In the long sweep of history, that war was only a brief moment."
+      ],
+      "branchCoverage": [
+        "the continuum of events occurring in succession leading from the past to the present and even into the future -> the unbroken chain of events that happen one after another, from the past through the present and on into the future"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lost%5:00:00:perplexed:00",
+      "lemma": "lost",
+      "pos": "a",
+      "definition": "perplexed by many conflicting situations or statements; filled with bewilderment",
+      "sourceBranches": [
+        "perplexed by many conflicting situations or statements",
+        "filled with bewilderment"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "confused by many situations or statements that conflict with each other, and left unable to think clearly",
+      "scope": "This is about a confused mind, not about being unable to find your way or about something missing.",
+      "examples": [
+        "After three contradictory briefings, she felt completely lost.",
+        "He looked lost among the conflicting advice from his doctors."
+      ],
+      "branchCoverage": [
+        "perplexed by many conflicting situations or statements -> confused by many situations or statements that conflict with each other",
+        "filled with bewilderment -> left unable to think clearly"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "win%2:40:06::",
+      "lemma": "win",
+      "pos": "v",
+      "definition": "acquire or deserve by one's efforts or actions",
+      "sourceBranches": [
+        "acquire or deserve by one's efforts or actions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "get something, or earn the right to it, through your own efforts or actions",
+      "scope": "This means gaining something by effort, not defeating an opponent in a game or contest.",
+      "examples": [
+        "She won the respect of her colleagues through years of hard work.",
+        "He won his place on the team by training every morning."
+      ],
+      "branchCoverage": [
+        "acquire or deserve by one's efforts or actions -> get something, or earn the right to it, through your own efforts or actions"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wrong%5:00:00:inaccurate:00",
+      "lemma": "wrong",
+      "pos": "a",
+      "definition": "characterized by errors; not agreeing with a model or not following established rules",
+      "sourceBranches": [
+        "characterized by errors",
+        "not agreeing with a model or not following established rules"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "full of mistakes, and not matching the pattern it is meant to follow or not following the accepted rules",
+      "scope": "This is about answers, sums or copies that contain errors, not about behaviour or methods that break accepted usage.",
+      "examples": [
+        "Three of your answers are wrong, so please check your work.",
+        "His copy of the poem was wrong in the second line."
+      ],
+      "branchCoverage": [
+        "characterized by errors -> full of mistakes",
+        "not agreeing with a model or not following established rules -> not matching the pattern it is meant to follow or not following the accepted rules"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wrong%5:00:00:inaccurate:00 -> full of errors or mistakes; wrong%5:00:00:inside:00 -> the inner side of cloth; wrong%5:00:02:improper:00 -> against accepted usage or procedure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wrong%5:00:00:inside:00",
+      "lemma": "wrong",
+      "pos": "a",
+      "definition": "used of the side of cloth or clothing intended to face inward",
+      "sourceBranches": [
+        "used of the side of cloth or clothing intended to face inward"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the side of a piece of cloth or clothing that is meant to face inward, toward the body",
+      "scope": "This is about the inner face of fabric, not about mistakes or improper behaviour.",
+      "examples": [
+        "Turn the fabric so the wrong side faces up before you sew.",
+        "He had put the sweater on with the wrong side out."
+      ],
+      "branchCoverage": [
+        "used of the side of cloth or clothing intended to face inward -> the side of a piece of cloth or clothing that is meant to face inward, toward the body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wrong%5:00:00:inaccurate:00 -> full of errors or mistakes; wrong%5:00:00:inside:00 -> the inner side of cloth; wrong%5:00:02:improper:00 -> against accepted usage or procedure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wrong%5:00:02:improper:00",
+      "lemma": "wrong",
+      "pos": "a",
+      "definition": "not in accord with established usage or procedure",
+      "sourceBranches": [
+        "not in accord with established usage or procedure"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "not in line with the accepted way of using something or the set steps for doing it",
+      "scope": "This is about conduct, methods or wording that break accepted usage or procedure, not about answers full of errors or the inner side of cloth.",
+      "examples": [
+        "Calling the professor by his first name is wrong in this department.",
+        "The manual says it is wrong to tighten this bolt before the others."
+      ],
+      "branchCoverage": [
+        "not in accord with established usage or procedure -> not in line with the accepted way of using something or the set steps for doing it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "wrong%5:00:00:inaccurate:00 -> full of errors or mistakes; wrong%5:00:00:inside:00 -> the inner side of cloth; wrong%5:00:02:improper:00 -> against accepted usage or procedure",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "remember%2:32:00::",
+      "lemma": "remember",
+      "pos": "v",
+      "definition": "mention as by way of greeting or to indicate friendship",
+      "sourceBranches": [
+        "mention as by way of greeting or to indicate friendship"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "mention someone when you greet them, or speak their name to show friendship",
+      "scope": "This means speaking someone's name to greet them or show friendship, not keeping them in your memory or honouring them in a ceremony.",
+      "examples": [
+        "Remember me to your parents when you get home.",
+        "She asked me to remember her to you and to thank you for the flowers."
+      ],
+      "branchCoverage": [
+        "mention as by way of greeting or to indicate friendship -> mention someone when you greet them, or speak their name to show friendship"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "remember%2:32:00:: -> mention in greeting or friendship; remember%2:31:09:: -> keep someone's memory alive",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "remember%2:31:09::",
+      "lemma": "remember",
+      "pos": "v",
+      "definition": "call to remembrance; keep alive the memory of someone or something, as in a ceremony",
+      "sourceBranches": [
+        "call to remembrance",
+        "keep alive the memory of someone or something, as in a ceremony"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Honor the memory of a person or thing and keep that memory alive, for example through a ceremony.",
+      "scope": "This is not mentioning someone in greeting or to show friendship; it is honoring a memory, often in a ceremony.",
+      "examples": [
+        "Every November, the village gathers to remember the soldiers who died in the war.",
+        "A memorial service was held to remember the victims of the disaster."
+      ],
+      "branchCoverage": [
+        "call to remembrance -> Honor the memory of a person or thing",
+        "keep alive the memory of someone or something, as in a ceremony -> keep that memory alive, for example through a ceremony"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "remember%2:32:00:: -> mention in greeting or friendship; remember%2:31:09:: -> keep someone's memory alive",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "air%1:10:01::",
+      "lemma": "air",
+      "pos": "n",
+      "definition": "a succession of notes forming a distinctive sequence",
+      "sourceBranches": [
+        "a succession of notes forming a distinctive sequence"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A series of musical notes that forms a tune you can recognize.",
+      "scope": "This is not the mixture of gases we breathe or one of the four ancient elements; it is a melody.",
+      "examples": [
+        "The singer performed a gentle air from an old opera.",
+        "The violinist played the air slowly, letting each note ring."
+      ],
+      "branchCoverage": [
+        "a succession of notes forming a distinctive sequence -> A series of musical notes that forms a tune you can recognize"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "air%1:10:01:: -> a tune or series of musical notes; air%1:27:01:: -> one of the four ancient elements",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "air%1:27:01::",
+      "lemma": "air",
+      "pos": "n",
+      "definition": "once thought to be one of four elements composing the universe (Empedocles), associated with the humour blood",
+      "sourceBranches": [
+        "once thought to be one of four elements composing the universe (Empedocles), associated with the humour blood"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "One of the four substances that the ancient Greek thinker Empedocles once believed made up the universe, and that early medicine linked to the bodily fluid called blood.",
+      "scope": "This is not a melody, nor the everyday mixture of gases we breathe; it is a substance in an ancient theory of matter.",
+      "examples": [
+        "In ancient Greek medicine, air was one of the four elements, together with earth, fire and water.",
+        "A person with too much blood, the fluid linked to air, was said to be cheerful."
+      ],
+      "branchCoverage": [
+        "once thought to be one of four elements composing the universe (Empedocles), associated with the humour blood -> One of the four substances that the ancient Greek thinker Empedocles once believed made up the universe, and that early medicine linked to the bodily fluid called blood"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "air%1:10:01:: -> a tune or series of musical notes; air%1:27:01:: -> one of the four ancient elements",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bit%1:06:00::",
+      "lemma": "bit",
+      "pos": "n",
+      "definition": "the cutting part of a drill; usually pointed and threaded and is replaceable in a brace or bitstock or drill press",
+      "sourceBranches": [
+        "the cutting part of a drill",
+        "usually pointed and threaded and is replaceable in a brace or bitstock or drill press"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The cutting end of a drill, often pointed and with a spiral ridge, that can be taken out and changed in a hand brace, in the holder that turns it, or in a drill press.",
+      "scope": "This is not the end of a key, a unit for measuring information, or the metal piece in a horse's mouth; it is the cutting end of a drill.",
+      "examples": [
+        "He fitted a new bit to the drill before drilling into the steel plate.",
+        "The drill bits in the box are sized for wood, metal and masonry."
+      ],
+      "branchCoverage": [
+        "the cutting part of a drill -> The cutting end of a drill",
+        "usually pointed and threaded and is replaceable in a brace or bitstock or drill press -> often pointed and with a spiral ridge, that can be taken out and changed in a hand brace, in the holder that turns it, or in a drill press"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bit%1:06:00:: -> the cutting end of a drill; bit%1:06:02:: -> the part of a key that lifts lock tumblers; bit%1:23:00:: -> a unit for measuring information; bit%1:06:01:: -> the metal piece in a horse's mouth",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bit%1:06:02::",
+      "lemma": "bit",
+      "pos": "n",
+      "definition": "the part of a key that enters a lock and lifts the tumblers",
+      "sourceBranches": [
+        "the part of a key that enters a lock and lifts the tumblers"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The part of a key that goes into a lock and lifts the small moving parts inside.",
+      "scope": "This is not the cutting end of a drill, a unit for measuring information, or the metal piece in a horse's mouth; it is the working end of a key.",
+      "examples": [
+        "The key's bit was worn smooth, so the lock would not open.",
+        "He filed the bit until the key slid easily into the lock."
+      ],
+      "branchCoverage": [
+        "the part of a key that enters a lock and lifts the tumblers -> The part of a key that goes into a lock and lifts the small moving parts inside"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bit%1:06:00:: -> the cutting end of a drill; bit%1:06:02:: -> the part of a key that lifts lock tumblers; bit%1:23:00:: -> a unit for measuring information; bit%1:06:01:: -> the metal piece in a horse's mouth",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bit%1:23:00::",
+      "lemma": "bit",
+      "pos": "n",
+      "definition": "a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states",
+      "sourceBranches": [
+        "a unit of measurement of information (from binary + digit)",
+        "the amount of information in a system having two equiprobable states"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A basic unit for measuring information; the name is short for binary digit, and it equals the information in a system with two states that are equally likely, such as yes or no.",
+      "scope": "This is not the cutting end of a drill, the end of a key, or the metal piece in a horse's mouth; it is a unit for measuring information.",
+      "examples": [
+        "A byte is made up of eight bits.",
+        "Each pixel needs one bit to record whether it is black or white."
+      ],
+      "branchCoverage": [
+        "a unit of measurement of information (from binary + digit) -> A basic unit for measuring information; the name is short for binary digit",
+        "the amount of information in a system having two equiprobable states -> it equals the information in a system with two states that are equally likely, such as yes or no"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bit%1:06:00:: -> the cutting end of a drill; bit%1:06:02:: -> the part of a key that lifts lock tumblers; bit%1:23:00:: -> a unit for measuring information; bit%1:06:01:: -> the metal piece in a horse's mouth",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bit%1:06:01::",
+      "lemma": "bit",
+      "pos": "n",
+      "definition": "piece of metal held in horse's mouth by reins and used to control the horse while riding",
+      "sourceBranches": [
+        "piece of metal held in horse's mouth by reins and used to control the horse while riding"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A metal piece that fits in a horse's mouth and is held by reins, used to control the animal while riding.",
+      "scope": "This is not the cutting end of a drill, the end of a key, or a unit for measuring information; it is the metal piece in a horse's mouth.",
+      "examples": [
+        "She checked the bit to make sure it was not hurting the horse's mouth.",
+        "He pulled the reins, and the bit pressed against the horse's jaw."
+      ],
+      "branchCoverage": [
+        "piece of metal held in horse's mouth by reins and used to control the horse while riding -> A metal piece that fits in a horse's mouth and is held by reins, used to control the animal while riding"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bit%1:06:00:: -> the cutting end of a drill; bit%1:06:02:: -> the part of a key that lifts lock tumblers; bit%1:23:00:: -> a unit for measuring information; bit%1:06:01:: -> the metal piece in a horse's mouth",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "friend%1:18:04::",
+      "lemma": "friend",
+      "pos": "n",
+      "definition": "a person who backs a politician or a team etc.",
+      "sourceBranches": [
+        "a person who backs a politician or a team etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A person who gives support to a politician, a team or a similar group.",
+      "scope": "This is not a close personal companion but someone who gives support to a politician, a team or a similar group.",
+      "examples": [
+        "He is a friend of the local football club and attends every home game.",
+        "Several friends of the candidate paid for the campaign posters."
+      ],
+      "branchCoverage": [
+        "a person who backs a politician or a team etc -> A person who gives support to a politician, a team or a similar group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hit%2:35:02::",
+      "lemma": "hit",
+      "pos": "v",
+      "definition": "produce by manipulating keys or strings of musical instruments",
+      "sourceBranches": [
+        "produce by manipulating keys or strings of musical instruments"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Make a sound or a piece of music by pressing the keys or playing the strings of a musical instrument.",
+      "scope": "This is not a planned attack, unwanted sexual attention or a sudden harmful effect; it is making music on an instrument.",
+      "examples": [
+        "She hit a wrong note during the piano recital.",
+        "He hit the strings of his guitar and the room fell silent."
+      ],
+      "branchCoverage": [
+        "produce by manipulating keys or strings of musical instruments -> Make a sound or a piece of music by pressing the keys or playing the strings of a musical instrument"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hit%2:35:02:: -> make music on an instrument; hit%2:33:00:: -> attack an enemy or target; hit%2:32:12:: -> make unwanted sexual advances; hit%2:35:05:: -> cause a sudden harmful effect",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hit%2:33:00::",
+      "lemma": "hit",
+      "pos": "v",
+      "definition": "make a strategic, offensive, assault against an enemy, opponent, or a target",
+      "sourceBranches": [
+        "make a strategic, offensive, assault against an enemy, opponent, or a target"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Carry out a planned, attacking strike on an enemy, an opponent or a target.",
+      "scope": "This is not making music, unwanted sexual attention or a sudden harmful effect; it is a deliberate attack on an enemy or target.",
+      "examples": [
+        "The troops hit the enemy camp just before dawn.",
+        "The bombers hit their target despite heavy cloud."
+      ],
+      "branchCoverage": [
+        "make a strategic, offensive, assault against an enemy, opponent, or a target -> Carry out a planned, attacking strike on an enemy, an opponent or a target"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hit%2:35:02:: -> make music on an instrument; hit%2:33:00:: -> attack an enemy or target; hit%2:32:12:: -> make unwanted sexual advances; hit%2:35:05:: -> cause a sudden harmful effect",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hit%2:32:12::",
+      "lemma": "hit",
+      "pos": "v",
+      "definition": "pay unsolicited and usually unwanted sexual attention to",
+      "sourceBranches": [
+        "pay unsolicited and usually unwanted sexual attention to"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Make sexual advances to someone who did not ask for them and usually does not want them.",
+      "scope": "This is not a planned attack, a musical performance or a sudden bad effect; it is sexual attention that is not asked for.",
+      "examples": [
+        "She complained that a customer kept hitting on her at work.",
+        "He was told to stop hitting on women in the office."
+      ],
+      "branchCoverage": [
+        "pay unsolicited and usually unwanted sexual attention to -> Make sexual advances to someone who did not ask for them and usually does not want them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hit%2:35:02:: -> make music on an instrument; hit%2:33:00:: -> attack an enemy or target; hit%2:32:12:: -> make unwanted sexual advances; hit%2:35:05:: -> cause a sudden harmful effect",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hit%2:35:05::",
+      "lemma": "hit",
+      "pos": "v",
+      "definition": "affect or afflict suddenly, usually adversely",
+      "sourceBranches": [
+        "affect or afflict suddenly, usually adversely"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Cause a sudden and usually harmful effect on someone or something.",
+      "scope": "This is not a planned attack, a musical note or unwanted sexual attention; it is a sudden harmful effect, as from illness or a recession.",
+      "examples": [
+        "The disease hit the village hard that winter.",
+        "Just as sales were recovering, the recession hit."
+      ],
+      "branchCoverage": [
+        "affect or afflict suddenly, usually adversely -> Cause a sudden and usually harmful effect on someone or something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hit%2:35:02:: -> make music on an instrument; hit%2:33:00:: -> attack an enemy or target; hit%2:32:12:: -> make unwanted sexual advances; hit%2:35:05:: -> cause a sudden harmful effect",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "nice%5:00:00:fastidious:00",
+      "lemma": "nice",
+      "pos": "a",
+      "definition": "excessively fastidious and easily disgusted",
+      "decision": "defer",
+      "reason": "The fastidious, easily disgusted sense of \"nice\" survives only in deliberately archaic prose. Every natural modern sentence that looks like this sense is read as the pleasant or courteous sense, so two idiomatic examples cannot be written. Left with the original definition.",
+      "sourceBranches": [
+        "excessively fastidious and easily disgusted"
+      ],
+      "lemmaPartition": "nice%5:00:00:fastidious:00 -> overly fussy and easily disgusted; nice%5:00:00:polite:00 -> showing courtesy and good manners",
+      "verdict": "self-deferred",
+      "reviewerNote": "Examples are unnatural: 'nice to the point of fussiness' does not read as English, and 'nice about cleanliness' suggests the polite sense. Replace both."
+    },
+    {
+      "senseId": "nice%5:00:00:polite:00",
+      "lemma": "nice",
+      "pos": "a",
+      "definition": "exhibiting courtesy and politeness",
+      "sourceBranches": [
+        "exhibiting courtesy and politeness"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "showing good manners and respect in the way you speak and behave towards others",
+      "scope": "This is not the fussy, hard-to-please sense; it is about good manners towards other people.",
+      "examples": [
+        "It was nice of you to walk the old man to the door.",
+        "The receptionist was nice to everyone, even the people who shouted at her."
+      ],
+      "branchCoverage": [
+        "exhibiting courtesy and politeness -> showing good manners and respect in the way you speak and behave towards others"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "nice%5:00:00:fastidious:00 -> overly fussy and easily disgusted; nice%5:00:00:polite:00 -> showing courtesy and good manners",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "understand%2:31:04::",
+      "lemma": "understand",
+      "pos": "v",
+      "definition": "be understanding of",
+      "sourceBranches": [
+        "be understanding of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to know and accept why someone feels or acts as they do, and to feel sympathy for them",
+      "scope": "This is not about grasping facts or the meaning of words; it is about being sympathetic to someone's feelings or behaviour.",
+      "examples": [
+        "Her teacher was understanding about the late homework and gave her an extra day.",
+        "My parents were understanding when I told them I had lost the money."
+      ],
+      "branchCoverage": [
+        "be understanding of -> to know and accept why someone feels or acts as they do"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "class%1:04:00::",
+      "lemma": "class",
+      "pos": "n",
+      "definition": "education imparted in a series of lessons or meetings",
+      "sourceBranches": [
+        "education imparted in a series of lessons or meetings"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "teaching that is given through a series of lessons or meetings",
+      "scope": "This is not the group of students itself, nor a social rank; it is the teaching given over a series of lessons.",
+      "examples": [
+        "She missed two weeks of class while she was in hospital.",
+        "The teacher packs a lot of discussion into every class."
+      ],
+      "branchCoverage": [
+        "education imparted in a series of lessons or meetings -> teaching that is given through a series of lessons or meetings"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%2:41:01::",
+      "lemma": "close",
+      "pos": "v",
+      "definition": "finish or terminate (meetings, speeches, etc.)",
+      "sourceBranches": [
+        "finish or terminate (meetings, speeches, etc.)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to bring a meeting, speech or other such event to an end",
+      "scope": "This is not shutting a door or lid; it is bringing an organised event such as a meeting or speech to its end.",
+      "examples": [
+        "The chairman closed the meeting with a short thank-you.",
+        "She closed her speech by quoting a poem."
+      ],
+      "branchCoverage": [
+        "finish or terminate (meetings, speeches, etc.) -> to bring a meeting, speech or other such event to an end"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close%2:41:01:: -> bring a meeting or speech to an end; close%5:00:00:careful:00 -> exact and complete attention to detail; close%5:00:00:equal:00 -> evenly matched contest; close%5:00:00:uncommunicative:00 -> keeping information secret; close%2:42:01:: -> final price when trading stops; close%5:00:00:restrained:00 -> strictly confined or guarded; close%5:00:00:tight:01 -> snug but comfortable fit; close%2:41:15:: -> fighting at very short range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%5:00:00:careful:00",
+      "lemma": "close",
+      "pos": "a",
+      "definition": "rigorously attentive; strict and thorough",
+      "sourceBranches": [
+        "rigorously attentive",
+        "strict and thorough"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "paying unbroken attention to exact detail, and checking every part strictly and completely",
+      "scope": "This is not about being physically near something; it is about exact and complete attention.",
+      "examples": [
+        "The report is based on close reading of the original letters.",
+        "Close inspection showed a tiny crack in the frame."
+      ],
+      "branchCoverage": [
+        "rigorously attentive -> paying unbroken attention to exact detail",
+        "strict and thorough -> checking every part strictly and completely"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close%2:41:01:: -> bring a meeting or speech to an end; close%5:00:00:careful:00 -> exact and complete attention to detail; close%5:00:00:equal:00 -> evenly matched contest; close%5:00:00:uncommunicative:00 -> keeping information secret; close%2:42:01:: -> final price when trading stops; close%5:00:00:restrained:00 -> strictly confined or guarded; close%5:00:00:tight:01 -> snug but comfortable fit; close%2:41:15:: -> fighting at very short range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%5:00:00:equal:00",
+      "lemma": "close",
+      "pos": "a",
+      "definition": "(of a contest or contestants) evenly matched",
+      "sourceBranches": [
+        "(of a contest or contestants) evenly matched"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of a competition or the people taking part: having the same or nearly the same level of skill or strength",
+      "scope": "This is not about physical distance between things; it is about two sides of a competition being equal.",
+      "examples": [
+        "It was a close game, decided by a single point in the last minute.",
+        "The election was so close that a recount was ordered."
+      ],
+      "branchCoverage": [
+        "(of a contest or contestants) evenly matched -> of a competition or the people taking part: having the same or nearly the same level of skill or strength"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close%2:41:01:: -> bring a meeting or speech to an end; close%5:00:00:careful:00 -> exact and complete attention to detail; close%5:00:00:equal:00 -> evenly matched contest; close%5:00:00:uncommunicative:00 -> keeping information secret; close%2:42:01:: -> final price when trading stops; close%5:00:00:restrained:00 -> strictly confined or guarded; close%5:00:00:tight:01 -> snug but comfortable fit; close%2:41:15:: -> fighting at very short range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%5:00:00:uncommunicative:00",
+      "lemma": "close",
+      "pos": "a",
+      "definition": "inclined to secrecy or reticence about divulging information",
+      "sourceBranches": [
+        "inclined to secrecy or reticence about divulging information"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "tending to keep things secret, saying little and unwilling to make information known",
+      "scope": "This is not about being unfriendly in general; it is about refusing to share information.",
+      "examples": [
+        "He is very close about his past and never mentions his family.",
+        "She has always been close about money and refuses to discuss her salary."
+      ],
+      "branchCoverage": [
+        "inclined to secrecy or reticence about divulging information -> tending to keep things secret, saying little and unwilling to make information known"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close%2:41:01:: -> bring a meeting or speech to an end; close%5:00:00:careful:00 -> exact and complete attention to detail; close%5:00:00:equal:00 -> evenly matched contest; close%5:00:00:uncommunicative:00 -> keeping information secret; close%2:42:01:: -> final price when trading stops; close%5:00:00:restrained:00 -> strictly confined or guarded; close%5:00:00:tight:01 -> snug but comfortable fit; close%2:41:15:: -> fighting at very short range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%2:42:01::",
+      "lemma": "close",
+      "pos": "v",
+      "definition": "be priced or listed when trading stops",
+      "sourceBranches": [
+        "be priced or listed when trading stops"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of shares or goods being traded: to have a particular price or listing at the moment trading stops",
+      "scope": "This is not about shutting a building or ending a meeting; it is about the final price of something traded on a market.",
+      "examples": [
+        "The shares closed at 42 dollars, up three on the day.",
+        "Oil closed lower after a day of heavy selling."
+      ],
+      "branchCoverage": [
+        "be priced or listed when trading stops -> of shares or goods being traded: to have a particular price or listing at the moment trading stops"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close%2:41:01:: -> bring a meeting or speech to an end; close%5:00:00:careful:00 -> exact and complete attention to detail; close%5:00:00:equal:00 -> evenly matched contest; close%5:00:00:uncommunicative:00 -> keeping information secret; close%2:42:01:: -> final price when trading stops; close%5:00:00:restrained:00 -> strictly confined or guarded; close%5:00:00:tight:01 -> snug but comfortable fit; close%2:41:15:: -> fighting at very short range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%5:00:00:restrained:00",
+      "lemma": "close",
+      "pos": "a",
+      "definition": "strictly confined or guarded",
+      "sourceBranches": [
+        "strictly confined or guarded"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "held under strict control, either shut in a place or watched by guards",
+      "scope": "This is not about a snug fit or a secretive manner; it is about a person being strictly shut in or watched.",
+      "examples": [
+        "For the first month the prisoner was kept close, with a guard outside the door.",
+        "The king's rivals were kept close under guard in a fortress far from the capital."
+      ],
+      "branchCoverage": [
+        "strictly confined or guarded -> held under strict control, either shut in a place or watched by guards"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close%2:41:01:: -> bring a meeting or speech to an end; close%5:00:00:careful:00 -> exact and complete attention to detail; close%5:00:00:equal:00 -> evenly matched contest; close%5:00:00:uncommunicative:00 -> keeping information secret; close%2:42:01:: -> final price when trading stops; close%5:00:00:restrained:00 -> strictly confined or guarded; close%5:00:00:tight:01 -> snug but comfortable fit; close%2:41:15:: -> fighting at very short range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%5:00:00:tight:01",
+      "lemma": "close",
+      "pos": "a",
+      "definition": "fitting closely but comfortably",
+      "sourceBranches": [
+        "fitting closely but comfortably"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of clothes or shoes: fitting tightly against the body with little space to spare, yet still comfortable",
+      "scope": "This is not about a competition being even or information being withheld; it is about how clothing sits on the body.",
+      "examples": [
+        "The jacket is a close fit but still comfortable across the shoulders.",
+        "These walking shoes are a close fit, yet my feet never feel squeezed."
+      ],
+      "branchCoverage": [
+        "fitting closely but comfortably -> of clothes or shoes: fitting tightly against the body with little space to spare, yet still comfortable"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close%2:41:01:: -> bring a meeting or speech to an end; close%5:00:00:careful:00 -> exact and complete attention to detail; close%5:00:00:equal:00 -> evenly matched contest; close%5:00:00:uncommunicative:00 -> keeping information secret; close%2:42:01:: -> final price when trading stops; close%5:00:00:restrained:00 -> strictly confined or guarded; close%5:00:00:tight:01 -> snug but comfortable fit; close%2:41:15:: -> fighting at very short range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "close%2:41:15::",
+      "lemma": "close",
+      "pos": "v",
+      "definition": "engage at close quarters",
+      "sourceBranches": [
+        "engage at close quarters"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to enter into fighting with an enemy at a very short distance",
+      "scope": "This is not about ending a speech or a meeting; it is about fighters meeting an enemy at very short range.",
+      "examples": [
+        "The soldiers closed with the enemy in the narrow streets.",
+        "The two ships closed with each other and the crews fought hand to hand."
+      ],
+      "branchCoverage": [
+        "engage at close quarters -> to enter into fighting with an enemy at a very short distance"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "close%2:41:01:: -> bring a meeting or speech to an end; close%5:00:00:careful:00 -> exact and complete attention to detail; close%5:00:00:equal:00 -> evenly matched contest; close%5:00:00:uncommunicative:00 -> keeping information secret; close%2:42:01:: -> final price when trading stops; close%5:00:00:restrained:00 -> strictly confined or guarded; close%5:00:00:tight:01 -> snug but comfortable fit; close%2:41:15:: -> fighting at very short range",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

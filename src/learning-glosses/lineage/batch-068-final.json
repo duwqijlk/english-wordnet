@@ -1,0 +1,1212 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 68,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 45,
+      "of": 50,
+      "rate": 0.9
+    },
+    "selfApproved": [
+      "music%1:04:00::",
+      "single%3:00:04::",
+      "hit%1:04:03::",
+      "form%1:10:00::",
+      "major%1:18:00::"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "523d8c6cb7c8248d0fdf7e5317fe903b76716a3de790baa50180e43d6543b5e0"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "system%1:27:00::",
+      "lemma": "system",
+      "pos": "n",
+      "definition": "(physical chemistry) a sample of matter in which substances in different phases are in equilibrium",
+      "sourceBranches": [
+        "(physical chemistry) a sample of matter in which substances in different phases are in equilibrium"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in physical chemistry, a quantity of material in which substances present in different states are balanced with one another",
+      "scope": "This is a quantity of material studied in chemistry, not a set of connected parts, a body's organs, a method, or an orderly way of doing things.",
+      "examples": [
+        "When the liquid and its vapour are sealed together, the system reaches equilibrium.",
+        "The system contains ice, liquid water, and steam at the same time."
+      ],
+      "branchCoverage": [
+        "(physical chemistry) a sample of matter in which substances in different phases are in equilibrium -> in physical chemistry, a quantity of material in which substances present in different states are balanced with one another"
+      ],
+      "labelBranches": [
+        "(physical chemistry) -> field label naming the branch of chemistry; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "case%1:04:00::",
+      "lemma": "case",
+      "pos": "n",
+      "definition": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+      "sourceBranches": [
+        "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a general name for any legal action by which a person asks a court for a remedy",
+      "scope": "This is a lawsuit, not an example of something, a container, a person being studied, or the grammatical form of a noun.",
+      "examples": [
+        "She hired a lawyer to take her case to court.",
+        "The judge dismissed the case for lack of evidence."
+      ],
+      "branchCoverage": [
+        "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy -> a general name for any legal action by which a person asks a court for a remedy"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mean%1:09:00::",
+      "lemma": "mean",
+      "pos": "n",
+      "definition": "an average of n numbers computed by adding some function of the numbers and dividing by some function of n",
+      "sourceBranches": [
+        "an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an average of a set of values found by adding a function of those values and dividing by a function of how many values there are",
+      "scope": "This is the statistical average, not the adjective meaning typical, cruel, or stingy, and not the verb meaning to intend or signify.",
+      "examples": [
+        "The mean of 3, 8, and 10 is 7.",
+        "We found the mean by adding the scores and dividing by the number of students."
+      ],
+      "branchCoverage": [
+        "an average of n numbers computed by adding some function of the numbers and dividing by some function of n -> an average of a set of values found by adding a function of those values and dividing by a function of how many values there are"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mean%1:09:00:: -> a calculated average of a set of numbers; mean%5:00:00:normal:01 -> close to the average or expected level",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mean%5:00:00:normal:01",
+      "lemma": "mean",
+      "pos": "a",
+      "definition": "approximating the statistical norm or average or expected value",
+      "sourceBranches": [
+        "approximating the statistical norm or average or expected value"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "close to the typical, average, or expected level in a set of figures",
+      "scope": "This describes a value near the average, not the noun for a calculated average, and not the senses meaning cruel, poor, stingy, or very good.",
+      "examples": [
+        "The mean rainfall in April is about 40 millimetres.",
+        "The mean price of a house here is lower than in the city."
+      ],
+      "branchCoverage": [
+        "approximating the statistical norm or average or expected value -> close to the typical, average, or expected level in a set of figures"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "mean%1:09:00:: -> a calculated average of a set of numbers; mean%5:00:00:normal:01 -> close to the average or expected level",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "music%1:04:00::",
+      "lemma": "music",
+      "pos": "n",
+      "definition": "musical activity (singing or whistling etc.)",
+      "sourceBranches": [
+        "musical activity (singing or whistling etc.)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the activity of singing, whistling, or playing an instrument",
+      "scope": "This is the activity of making sounds, not the art form itself, the sounds you hear, or the phrase 'face the music'.",
+      "examples": [
+        "The family makes music together every Sunday afternoon.",
+        "She was making music in the kitchen, whistling as she worked."
+      ],
+      "branchCoverage": [
+        "musical activity (singing or whistling etc.) -> the activity of singing, whistling, or playing an instrument"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "The gloss adds 'tuneful', a quality the source does not carry, narrowing 'musical activity' (percussion and other non-melodic music-making are excluded); say 'the activity of singing, whistling, or playing an instrument'."
+    },
+    {
+      "senseId": "power%1:19:00::",
+      "lemma": "power",
+      "pos": "n",
+      "definition": "(physics) the rate of doing work; measured in watts (= joules/second)",
+      "sourceBranches": [
+        "(physics) the rate of doing work",
+        "measured in watts (= joules/second)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in physics, how quickly work is done, measured in watts, that is, joules each second",
+      "scope": "This is a measurement in physics, not electricity supplied to a home, physical strength, the ability to influence others, or a number showing how many times a value is multiplied by itself.",
+      "examples": [
+        "This motor has a power of 500 watts.",
+        "The power needed to lift the load can be measured in watts."
+      ],
+      "branchCoverage": [
+        "(physics) the rate of doing work -> in physics, how quickly work is done",
+        "measured in watts (= joules/second) -> measured in watts, that is, joules each second"
+      ],
+      "labelBranches": [
+        "(physics) -> field label naming the branch of science; the rest of the branch carries the meaning"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "water%1:17:00::",
+      "lemma": "water",
+      "pos": "n",
+      "definition": "the part of the earth's surface covered with water (such as a river or lake or ocean)",
+      "sourceBranches": [
+        "the part of the earth's surface covered with water (such as a river or lake or ocean)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the wet regions of the globe, including seas, lakes, and rivers",
+      "scope": "This is the wet area of the earth's surface, not the clear liquid itself, a town's supply, or urine.",
+      "examples": [
+        "The cabin sits right by the water.",
+        "They sailed across the water to the next island."
+      ],
+      "branchCoverage": [
+        "the part of the earth's surface covered with water (such as a river or lake or ocean) -> the wet regions of the globe, including seas, lakes, and rivers"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "order%1:10:03::",
+      "lemma": "order",
+      "pos": "n",
+      "definition": "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",
+      "sourceBranches": [
+        "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "often in the plural, an instruction from someone in charge that must be carried out",
+      "scope": "This is a command from a person in charge, not a request for goods, a court decision, a state of proper arrangement, or the act of arranging things.",
+      "examples": [
+        "The captain gave the order to retreat.",
+        "Soldiers must obey orders from their commander."
+      ],
+      "branchCoverage": [
+        "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed -> often in the plural, an instruction from someone in charge that must be carried out"
+      ],
+      "labelBranches": [
+        "(often plural) -> grammar note that the word is usually used in the plural; the gloss keeps it and the examples are plural"
+      ],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "run%1:04:01::",
+      "lemma": "run",
+      "pos": "n",
+      "definition": "a score in baseball made by a runner touching all four bases safely",
+      "sourceBranches": [
+        "a score in baseball made by a runner touching all four bases safely"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a point in baseball earned when a player touches all four bases without being put out",
+      "scope": "This is a point scored in baseball, not the act of moving quickly on foot, a trip, a machine's period of operation, or a tear in a stocking.",
+      "examples": [
+        "He scored two runs in the final inning.",
+        "The winning run came in the ninth inning."
+      ],
+      "branchCoverage": [
+        "a score in baseball made by a runner touching all four bases safely -> a point in baseball earned when a player touches all four bases without being put out"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "general%1:18:00::",
+      "lemma": "general",
+      "pos": "n",
+      "definition": "a general officer of the highest rank",
+      "sourceBranches": [
+        "a general officer of the highest rank"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a military officer holding the top rank",
+      "scope": "This is a top-ranking military officer, not the adjective meaning 'applying to everyone', 'not specialized', or 'affecting the whole body'.",
+      "examples": [
+        "The general ordered his troops to advance at dawn.",
+        "She was promoted to general after twenty years of service."
+      ],
+      "branchCoverage": [
+        "a general officer of the highest rank -> a military officer holding the top rank"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "law%1:10:00::",
+      "lemma": "law",
+      "pos": "n",
+      "definition": "legal document setting forth rules governing a particular kind of activity",
+      "sourceBranches": [
+        "legal document setting forth rules governing a particular kind of activity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an official written text that lays down the rules for one area of activity",
+      "scope": "This is a single written statute, not the whole system of rules, a scientific principle, the legal profession, or the police.",
+      "examples": [
+        "Parliament passed a law banning smoking in restaurants.",
+        "The new law on data privacy takes effect next month."
+      ],
+      "branchCoverage": [
+        "legal document setting forth rules governing a particular kind of activity -> an official written text that lays down the rules for one area of activity"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "war%1:04:00::",
+      "lemma": "war",
+      "pos": "n",
+      "definition": "the waging of armed conflict against an enemy",
+      "sourceBranches": [
+        "the waging of armed conflict against an enemy"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of fighting an enemy with weapons",
+      "scope": "This is actual fighting with weapons, not the legal state that begins with a declaration, a competition between companies, or a campaign against something like poverty.",
+      "examples": [
+        "The country has been at war for three years.",
+        "Thousands of families fled the war in the north."
+      ],
+      "branchCoverage": [
+        "the waging of armed conflict against an enemy -> the act of fighting an enemy with weapons"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "post%1:06:01::",
+      "lemma": "post",
+      "pos": "n",
+      "definition": "military installation at which a body of troops is stationed",
+      "sourceBranches": [
+        "military installation at which a body of troops is stationed"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a military base where a group of soldiers is stationed",
+      "scope": "This is a military base, not a guard's standing place, a job, an upright piece of wood, or a message on a social media site.",
+      "examples": [
+        "The regiment was stationed at a post near the border.",
+        "He grew up on a military post in Germany."
+      ],
+      "branchCoverage": [
+        "military installation at which a body of troops is stationed -> a military base where a group of soldiers is stationed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "video%1:10:02::",
+      "lemma": "video",
+      "pos": "n",
+      "definition": "(computer science) the appearance of text and graphics on a video display",
+      "sourceBranches": [
+        "(computer science) the appearance of text and graphics on a video display"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in computing, the text and pictures that appear on a display screen",
+      "scope": "Text and pictures shown on a screen, not a recording of a film or television show, the visible part of a television signal, or television broadcasting.",
+      "examples": [
+        "The computer sends video to the monitor through this cable.",
+        "A bad cable can spoil the video on your screen."
+      ],
+      "branchCoverage": [
+        "(computer science) the appearance of text and graphics on a video display -> in computing, the text and pictures that appear on a display screen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "court%1:06:02::",
+      "lemma": "court",
+      "pos": "n",
+      "definition": "a room in which a law court sits",
+      "sourceBranches": [
+        "a room in which a law court sits"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the room where judges sit to hear and decide legal cases",
+      "scope": "The room where legal cases are heard, not the judges as a body, a marked area for playing a game, a royal residence, a courtyard, or a motel.",
+      "examples": [
+        "Spectators packed the court before the trial started.",
+        "The judge walked into the court and took her seat."
+      ],
+      "branchCoverage": [
+        "a room in which a law court sits -> the room where judges sit to hear and decide legal cases"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "single%3:00:04::",
+      "lemma": "single",
+      "pos": "a",
+      "definition": "used of flowers having usually only one row or whorl of petals",
+      "sourceBranches": [
+        "used of flowers having usually only one row or whorl of petals"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "describing a flower that has, as a rule, just one ring of petals",
+      "scope": "A flower with one ring of petals, not a person who is unmarried, a thing that is only one in number, or something meant for one person.",
+      "examples": [
+        "Single daffodils have one ring of petals, while double ones have many.",
+        "The garden has both single and double peonies."
+      ],
+      "branchCoverage": [
+        "used of flowers having usually only one row or whorl of petals -> describing a flower that has, as a rule, just one ring of petals"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "single%3:00:04:: -> a flower with one ring of petals; single%2:35:00:: -> reach first base on a baseball hit",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope's last exclusion, 'something shared by one person', is self-contradictory for the 'meant for one person' sibling (single bed/room); say 'something meant for one person'."
+    },
+    {
+      "senseId": "single%2:35:00::",
+      "lemma": "single",
+      "pos": "v",
+      "definition": "hit a single",
+      "sourceBranches": [
+        "hit a single"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, make a hit that lets the batter reach first base safely",
+      "scope": "In baseball, to reach first base on a hit, not the adjective for unmarried or only one, nor the noun for such a hit.",
+      "examples": [
+        "He singled to left field in the third inning.",
+        "She singled with two outs to load the bases."
+      ],
+      "branchCoverage": [
+        "hit a single -> make a hit that lets the batter reach first base safely"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "single%3:00:04:: -> a flower with one ring of petals; single%2:35:00:: -> reach first base on a baseball hit",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "control%1:04:02::",
+      "lemma": "control",
+      "pos": "n",
+      "definition": "(physiology) regulation or maintenance of a function or action or reflex etc",
+      "sourceBranches": [
+        "(physiology) regulation or maintenance of a function or action or reflex etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in physiology, the managing or keeping up of a body function, action, or reflex",
+      "scope": "The body's regulation of its own functions, not power over other people, a machine's control mechanism, or a standard used in an experiment.",
+      "examples": [
+        "Breathing is under the control of the brain stem.",
+        "Doctors studied the control of heart rate during exercise."
+      ],
+      "branchCoverage": [
+        "(physiology) regulation or maintenance of a function or action or reflex etc -> in physiology, the managing or keeping up of a body function, action, or reflex"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hit%1:04:03::",
+      "lemma": "hit",
+      "pos": "n",
+      "definition": "(baseball) when a batter strikes a pitched ball into fair territory and arrives safely on base (without an error or a fielder's choice being made by the defense)",
+      "sourceBranches": [
+        "(baseball) when a batter strikes a pitched ball into fair territory and arrives safely on base (without an error or a fielder's choice being made by the defense)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, a batted ball that lets the batter reach base safely, not counting fielding mistakes",
+      "scope": "A base hit in baseball, not a physical blow, a popular success, a dose of a drug, a murder, or a visit to a website.",
+      "examples": [
+        "He got two hits and scored a run.",
+        "Her hit in the ninth inning drove in the winning run."
+      ],
+      "branchCoverage": [
+        "(baseball) when a batter strikes a pitched ball into fair territory and arrives safely on base (without an error or a fielder's choice being made by the defense) -> in baseball, a batted ball that lets the batter reach base safely, not counting fielding mistakes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "SimpleMeaning copies the source definition almost verbatim ('batter strikes a pitched ball into fair territory and reaches base safely...'); rewrite plainly, e.g. 'in baseball, a hit that gets the batter safely to first base, not counting fielding mistakes'."
+    },
+    {
+      "senseId": "light%1:19:00::",
+      "lemma": "light",
+      "pos": "n",
+      "definition": "(physics) electromagnetic radiation that can produce a visual sensation",
+      "sourceBranches": [
+        "(physics) electromagnetic radiation that can produce a visual sensation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in physics, energy carried by electromagnetic waves that the eye can see",
+      "scope": "Radiation that the eye can see, not a lamp or other source of illumination, a bright area, a particular way of viewing a situation, or a warning signal.",
+      "examples": [
+        "Plants need light to make their food.",
+        "The light from the sun takes about eight minutes to reach Earth."
+      ],
+      "branchCoverage": [
+        "(physics) electromagnetic radiation that can produce a visual sensation -> in physics, energy carried by electromagnetic waves that the eye can see"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "short%3:00:01::",
+      "lemma": "short",
+      "pos": "a",
+      "definition": "(primarily spatial sense) having little length or lacking in length",
+      "sourceBranches": [
+        "(primarily spatial sense) having little length or lacking in length"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "covering only a little distance from one end to the other, or not having much length",
+      "scope": "Measured from one end to the other, not lasting only a little time, not low in height, and not lacking enough of something.",
+      "examples": [
+        "She cut the string into short pieces.",
+        "The table has short legs."
+      ],
+      "branchCoverage": [
+        "(primarily spatial sense) having little length or lacking in length -> covering only a little distance from one end to the other, or not having much length"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stay%1:10:00::",
+      "lemma": "stay",
+      "pos": "n",
+      "definition": "a judicial order forbidding some action until an event occurs or the order is lifted",
+      "sourceBranches": [
+        "a judicial order forbidding some action until an event occurs or the order is lifted"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a judge's ruling that blocks an action until an event takes place or the ruling is cancelled",
+      "scope": "A court order blocking an action, not a period of remaining in a place, a strip stiffening a garment, or a rope supporting a ship's mast.",
+      "examples": [
+        "The judge granted a stay of execution.",
+        "The company asked the court for a stay while it appealed."
+      ],
+      "branchCoverage": [
+        "a judicial order forbidding some action until an event occurs or the order is lifted -> a judge's ruling that blocks an action until an event takes place or the ruling is cancelled"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "buy%2:40:00::",
+      "lemma": "buy",
+      "pos": "v",
+      "definition": "obtain by purchase; acquire by means of a financial transaction",
+      "sourceBranches": [
+        "obtain by purchase",
+        "acquire by means of a financial transaction"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "get something by paying money for it",
+      "scope": "To get something by paying money, not to bribe someone, to accept an idea as true, or to be worth a certain price.",
+      "examples": [
+        "She buys a new phone every year.",
+        "We buy our vegetables at the local market."
+      ],
+      "branchCoverage": [
+        "obtain by purchase -> get something by paying money for it",
+        "acquire by means of a financial transaction -> get something by paying money for it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "development%1:22:01::",
+      "lemma": "development",
+      "pos": "n",
+      "definition": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level",
+      "sourceBranches": [
+        "(biology) the process of an individual organism growing organically",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in biology, the natural process by which one living thing grows, changing step by step from a simple form to a more complex one",
+      "scope": "The biological growth of a living thing, not the act of improving something by expanding it, a recent event, or making land more productive.",
+      "examples": [
+        "The book explains the development of a frog from egg to adult.",
+        "Poor nutrition can affect a child's development."
+      ],
+      "branchCoverage": [
+        "(biology) the process of an individual organism growing organically -> in biology, the natural process by which one living thing grows",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level -> changing step by step from a simple form to a more complex one"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "form%1:10:00::",
+      "lemma": "form",
+      "pos": "n",
+      "definition": "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something",
+      "sourceBranches": [
+        "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the way a word sounds or is written, used to describe or identify something",
+      "scope": "The sound or written shape of a word, not the shape of an object, a printed paper with blank spaces, a kind or type, or a class of students.",
+      "examples": [
+        "The dictionary shows the past form of each verb.",
+        "This word has the same form in the singular and the plural."
+      ],
+      "branchCoverage": [
+        "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something -> the way a word sounds or is written, used to describe or identify something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "SimpleMeaning narrows 'describe or identify' to 'name or identify'; a word form can also describe (e.g. a plural form), so use 'used to describe or identify something'."
+    },
+    {
+      "senseId": "act%1:10:01::",
+      "lemma": "act",
+      "pos": "n",
+      "definition": "a legal document codifying the result of deliberations of a committee or society or legislative body",
+      "sourceBranches": [
+        "a legal document codifying the result of deliberations of a committee or society or legislative body"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an official legal document that records what a committee, society, or lawmaking body decided after discussion",
+      "scope": "A written law, not a thing someone does, a part of a play, a short performance in a show, or a display of false feeling.",
+      "examples": [
+        "The new act requires companies to report their emissions.",
+        "Parliament passed the act after months of debate."
+      ],
+      "branchCoverage": [
+        "a legal document codifying the result of deliberations of a committee or society or legislative body -> an official legal document that records what a committee, society, or lawmaking body decided after discussion"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fire%2:30:00::",
+      "lemma": "fire",
+      "pos": "v",
+      "definition": "bake in a kiln so as to harden",
+      "sourceBranches": [
+        "bake in a kiln so as to harden"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to bake something in an extremely hot oven so that it becomes hard",
+      "scope": "This is not a burning blaze, the shooting of a gun, or a dismissal from work, but hardening something by heat in a kiln.",
+      "examples": [
+        "The pots are fired at a very high temperature.",
+        "They fire the bricks in a wood-burning kiln."
+      ],
+      "branchCoverage": [
+        "bake in a kiln so as to harden -> bake something in an extremely hot oven so that it becomes hard"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "major%1:18:00::",
+      "lemma": "major",
+      "pos": "n",
+      "definition": "a commissioned military officer in the United States Army or Air Force or Marines; below lieutenant colonel and above captain",
+      "sourceBranches": [
+        "a commissioned military officer in the United States Army or Air Force or Marines",
+        "below lieutenant colonel and above captain"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an officer of middle rank in the US Army, Air Force, or Marines, above a captain and below a lieutenant colonel",
+      "scope": "This is not the adjective sense meaning greater or more serious, nor a student's principal subject, but a rank of officer in the armed forces.",
+      "examples": [
+        "She was promoted to major after twelve years of service.",
+        "The major saluted and left the room."
+      ],
+      "branchCoverage": [
+        "a commissioned military officer in the United States Army or Air Force or Marines -> an officer of middle rank in the US Army, Air Force, or Marines",
+        "below lieutenant colonel and above captain -> above a captain and below a lieutenant colonel"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "The gloss only reorders the definition and keeps the jargon 'holding a commission'; rewrite it plainly, e.g. 'an officer of middle rank in the US Army, Air Force, or Marines, above a captain and below a lieutenant colonel.'"
+    },
+    {
+      "senseId": "phone%1:10:00::",
+      "lemma": "phone",
+      "pos": "n",
+      "definition": "(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language",
+      "sourceBranches": [
+        "(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in the study of speech sounds, one distinct unit considered on its own without regard to whether it functions as a meaningful unit in a language",
+      "scope": "This is not a telephone, an earpiece that turns signals into sound, or the verb meaning to call someone, but a unit of speech sound studied by linguists.",
+      "examples": [
+        "Linguists write each phone between square brackets.",
+        "The two phones differ in place of articulation but not in meaning."
+      ],
+      "branchCoverage": [
+        "(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language -> in the study of speech sounds, one distinct unit considered on its own without regard to whether it functions as a meaningful unit in a language"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "market%2:40:00::",
+      "lemma": "market",
+      "pos": "v",
+      "definition": "engage in the commercial promotion, sale, or distribution of",
+      "sourceBranches": [
+        "engage in the commercial promotion, sale, or distribution of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to take part in promoting, selling, or distributing a product as a business",
+      "scope": "This is not trading goods at a public market, buying household supplies, or making something commercial, but actively promoting and selling a product.",
+      "examples": [
+        "They market the app to schools across Europe.",
+        "The brand markets its snacks as a healthy choice."
+      ],
+      "branchCoverage": [
+        "engage in the commercial promotion, sale, or distribution of -> to take part in promoting, selling, or distributing a product as a business"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "market%2:40:00:: -> promoting and selling a product; market%2:40:01:: -> trading at a market",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "market%2:40:01::",
+      "lemma": "market",
+      "pos": "v",
+      "definition": "deal in a market",
+      "sourceBranches": [
+        "deal in a market"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to trade in goods at a public place where buyers and sellers meet",
+      "scope": "This is not promoting and selling a company's products, buying household supplies, or making something commercial, but trading at a market.",
+      "examples": [
+        "Small traders market in the old square every morning.",
+        "Stallholders market at the county fair each autumn."
+      ],
+      "branchCoverage": [
+        "deal in a market -> to trade in goods at a public place where buyers and sellers meet"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "market%2:40:00:: -> promoting and selling a product; market%2:40:01:: -> trading at a market",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "program%2:36:00::",
+      "lemma": "program",
+      "pos": "v",
+      "definition": "write a computer program",
+      "sourceBranches": [
+        "write a computer program"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to write the instructions that a computer follows to carry out a task",
+      "scope": "This is not arranging the schedule of an event, but writing the coded instructions that a computer executes.",
+      "examples": [
+        "She programmed the robot to sort the packages.",
+        "He learned to program in Python at school."
+      ],
+      "branchCoverage": [
+        "write a computer program -> to write the instructions that a computer follows to carry out a task"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "type%1:14:01::",
+      "lemma": "type",
+      "pos": "n",
+      "definition": "(biology) the taxonomic group whose characteristics are used to define the next higher taxon",
+      "sourceBranches": [
+        "(biology) the taxonomic group whose characteristics are used to define the next higher taxon"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in biology, a group of organisms whose shared features set the standard for the group ranked one level above it",
+      "scope": "This is not a kind of thing, an odd person, printed letters, or a printing block, but a biological group used to define a higher one.",
+      "examples": [
+        "This species was designated the type of its genus.",
+        "Biologists chose this genus as the type of the family."
+      ],
+      "branchCoverage": [
+        "(biology) the taxonomic group whose characteristics are used to define the next higher taxon -> in biology, a group of organisms whose shared features set the standard for the group ranked one level above it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%1:10:00::",
+      "lemma": "process",
+      "pos": "n",
+      "definition": "a writ issued by authority of law; usually compels the defendant's attendance in a civil suit; failure to appear results in a default judgment against the defendant",
+      "sourceBranches": [
+        "a writ issued by authority of law",
+        "usually compels the defendant's attendance in a civil suit",
+        "failure to appear results in a default judgment against the defendant"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an official written command issued under the law that usually forces a defendant to appear in a civil case, or face a default judgment",
+      "scope": "This is not a course of action, a mental operation, a natural growth on a body, or a gradual natural change, but a court order to appear.",
+      "examples": [
+        "The sheriff served process on the defendant at his home.",
+        "Failure to answer the process can lead to a default judgment."
+      ],
+      "branchCoverage": [
+        "a writ issued by authority of law -> an official written command issued under the law",
+        "usually compels the defendant's attendance in a civil suit -> usually forces a defendant to appear in a civil case",
+        "failure to appear results in a default judgment against the defendant -> or face a default judgment"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process%1:10:00:: -> a court order to appear; process%1:09:00:: -> a mental operation affecting thoughts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "process%1:09:00::",
+      "lemma": "process",
+      "pos": "n",
+      "definition": "(psychology) the performance of some composite cognitive activity; an operation that affects mental contents",
+      "sourceBranches": [
+        "(psychology) the performance of some composite cognitive activity",
+        "an operation that affects mental contents"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in psychology, a mental operation made up of several parts that works on the contents of the mind",
+      "scope": "This is not a course of action, a court order, a natural growth on a body, or a gradual natural change, but a mental operation studied in psychology.",
+      "examples": [
+        "The process of remembering involves several mental operations.",
+        "Psychologists study the process by which the mind organizes new information."
+      ],
+      "branchCoverage": [
+        "(psychology) the performance of some composite cognitive activity -> in psychology, a mental operation made up of several parts",
+        "an operation that affects mental contents -> that works on the contents of the mind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "process%1:10:00:: -> a court order to appear; process%1:09:00:: -> a mental operation affecting thoughts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "field%2:33:00::",
+      "lemma": "field",
+      "pos": "v",
+      "definition": "play as a fielder",
+      "sourceBranches": [
+        "play as a fielder"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to take the role of a player who catches and returns the ball on the defensive side of the game",
+      "scope": "This is not catching or picking up a ball, answering questions successfully, or choosing a player, but taking a defensive role in the game.",
+      "examples": [
+        "He fielded cleanly at third base all afternoon.",
+        "She fields in the deep outfield for the county team."
+      ],
+      "branchCoverage": [
+        "play as a fielder -> take the role of a player who catches and returns the ball on the defensive side of the game"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "main%3:00:02::",
+      "lemma": "main",
+      "pos": "a",
+      "definition": "(of a clause) capable of standing syntactically alone as a complete sentence",
+      "sourceBranches": [
+        "(of a clause) capable of standing syntactically alone as a complete sentence"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "describes a clause that can work as a full sentence on its own, without another clause",
+      "scope": "This is not the sense meaning most important, nor a water pipe or a large body of water, but describing a clause that can stand alone.",
+      "examples": [
+        "The main clause can stand alone; the subordinate one cannot.",
+        "Underline the main clause in each sentence."
+      ],
+      "branchCoverage": [
+        "(of a clause) capable of standing syntactically alone as a complete sentence -> describes a clause that can work as a full sentence on its own, without another clause"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "energy%1:19:00::",
+      "lemma": "energy",
+      "pos": "n",
+      "definition": "(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs",
+      "sourceBranches": [
+        "(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work",
+        "the units of energy are joules or ergs"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in physics, a thermodynamic measure of how much work a system is able to do, expressed in joules or ergs",
+      "scope": "This is not physical vigor, personal drive, liveliness of style, or a source of usable power, but a quantity in physics measured in joules or ergs.",
+      "examples": [
+        "The ball's kinetic energy increases as it falls.",
+        "Engineers measured the energy released by the reaction in joules."
+      ],
+      "branchCoverage": [
+        "(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work -> in physics, a thermodynamic measure of how much work a system is able to do",
+        "the units of energy are joules or ergs -> expressed in joules or ergs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "force%1:19:00::",
+      "lemma": "force",
+      "pos": "n",
+      "definition": "(physics) the influence that produces a change in a physical quantity",
+      "sourceBranches": [
+        "(physics) the influence that produces a change in a physical quantity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In physics, an effect that brings about a change in a measurable physical property.",
+      "scope": "This is the physics quantity, not physical strength or intensity, a group of soldiers, an act of violence, a person with authority, or a law's legal validity.",
+      "examples": [
+        "Gravity is the force that keeps the Moon in orbit around Earth.",
+        "The engineers measured the force needed to lift the steel beam."
+      ],
+      "branchCoverage": [
+        "(physics) the influence that produces a change in a physical quantity -> In physics, an effect that brings about a change in a measurable physical property"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "running%1:04:03::",
+      "lemma": "running",
+      "pos": "n",
+      "definition": "(American football) a play in which a player attempts to carry the ball through or past the opposing team",
+      "sourceBranches": [
+        "(American football) a play in which a player attempts to carry the ball through or past the opposing team"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In American football, a play where a player tries to take the ball through or past the opposing side.",
+      "scope": "This is the play itself, not racing on foot as a sport, a machine being in operation, or the job of managing something.",
+      "examples": [
+        "The team relied on running to move the ball down the field.",
+        "Their running gained only twenty yards in the second half."
+      ],
+      "branchCoverage": [
+        "(American football) a play in which a player attempts to carry the ball through or past the opposing team -> In American football, a play where a player tries to take the ball through or past the opposing side"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "running%1:04:03:: -> a play carrying the ball past defenders; running%3:00:00:: -> used of a play advancing the ball",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "running%3:00:00::",
+      "lemma": "running",
+      "pos": "a",
+      "definition": "of advancing the ball by running",
+      "sourceBranches": [
+        "of advancing the ball by running"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Used of a move that advances the ball by carrying it on foot.",
+      "scope": "This describes a type of play or move, not the play itself, a machine that is working, a liquid that is flowing, or the sport of racing on foot.",
+      "examples": [
+        "The coach added two running plays to the game plan.",
+        "Their running plays gained more yards than their passes."
+      ],
+      "branchCoverage": [
+        "of advancing the ball by running -> Used of a move that advances the ball by carrying it on foot"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "running%1:04:03:: -> a play carrying the ball past defenders; running%3:00:00:: -> used of a play advancing the ball",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "shot%1:04:06::",
+      "lemma": "shot",
+      "pos": "n",
+      "definition": "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
+      "sourceBranches": [
+        "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In sports, the action of trying to hit a ball using a club, racket, bat, cue, or the hand.",
+      "scope": "This is the act of striking a ball in a sport, not the firing of a gun, a photograph, an injection, a small drink, or an aggressive remark.",
+      "examples": [
+        "His first shot from the tee landed in the rough.",
+        "She spent the afternoon practising shots on the tennis court."
+      ],
+      "branchCoverage": [
+        "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand -> In sports, the action of trying to hit a ball using a club, racket, bat, cue, or the hand"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "period%1:28:07::",
+      "lemma": "period",
+      "pos": "n",
+      "definition": "(ice hockey) one of three divisions into which play is divided in hockey games",
+      "sourceBranches": [
+        "(ice hockey) one of three divisions into which play is divided in hockey games"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In ice hockey, a section of the match, of which there are three.",
+      "scope": "This is a section of an ice hockey game, not a length of time in general, a unit of geological time, menstruation, or the dot at the end of a sentence.",
+      "examples": [
+        "The home team scored twice in the second period.",
+        "The goalie was injured late in the third period."
+      ],
+      "branchCoverage": [
+        "(ice hockey) one of three divisions into which play is divided in hockey games -> In ice hockey, a section of the match, of which there are three"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "position%1:15:02::",
+      "lemma": "position",
+      "pos": "n",
+      "definition": "a point occupied by troops for tactical reasons",
+      "sourceBranches": [
+        "a point occupied by troops for tactical reasons"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A place that soldiers hold because it is tactically useful.",
+      "scope": "This is ground held by troops, not a job, a person's stance on an issue, the arrangement of the body, or a spot in a list.",
+      "examples": [
+        "The troops withdrew from their position on the hill.",
+        "Enemy artillery shelled the forward position at dawn."
+      ],
+      "branchCoverage": [
+        "a point occupied by troops for tactical reasons -> A place that soldiers hold because it is tactically useful"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "record%1:10:03::",
+      "lemma": "record",
+      "pos": "n",
+      "definition": "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events",
+      "sourceBranches": [
+        "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Any item, such as a document, a vinyl disc, or a photograph, that provides lasting evidence or details of what happened before.",
+      "scope": "This is kept evidence of past events, not the physical music disk, a team's win-loss tally, a career's achievements, a best-ever performance, or a criminal history.",
+      "examples": [
+        "The museum keeps a record of every item donated to it.",
+        "Her letters provide a detailed record of life during the war."
+      ],
+      "branchCoverage": [
+        "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events -> Any item, such as a document, a vinyl disc, or a photograph, that provides lasting evidence or details of what happened before"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "record%1:10:03:: -> kept evidence of past events; record%2:32:00:: -> to put information in lasting form",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "record%2:32:00::",
+      "lemma": "record",
+      "pos": "v",
+      "definition": "make a record of; set down in permanent form",
+      "sourceBranches": [
+        "make a record of",
+        "set down in permanent form"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To write down information and keep it in a lasting form.",
+      "scope": "This is writing information down for the future, not capturing sound electronically, showing a reading on a gauge, or the kept evidence itself.",
+      "examples": [
+        "The clerk recorded every complaint in a handwritten log.",
+        "Scientists recorded the temperature every hour in their notebook."
+      ],
+      "branchCoverage": [
+        "make a record of -> To write down information",
+        "set down in permanent form -> keep it in a lasting form"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "record%1:10:03:: -> kept evidence of past events; record%2:32:00:: -> to put information in lasting form",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "star%1:17:00::",
+      "lemma": "star",
+      "pos": "n",
+      "definition": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+      "sourceBranches": [
+        "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In astronomy, a mass of hot gas in space that gives off energy from nuclear fusion in its core.",
+      "scope": "This is a burning body of gas, not any bright point seen in the night sky, a famous actor, a five-pointed shape, or the * symbol used in printing.",
+      "examples": [
+        "The telescope revealed a faint star near the edge of the galaxy.",
+        "Our sun is the nearest star to Earth."
+      ],
+      "branchCoverage": [
+        "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior -> In astronomy, a mass of hot gas in space that gives off energy from nuclear fusion in its core"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "break%1:17:00::",
+      "lemma": "break",
+      "pos": "n",
+      "definition": "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other",
+      "sourceBranches": [
+        "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In geology, a fracture in Earth's outer layer where one side has shifted relative to the other.",
+      "scope": "This is a geological fault, not a pause from work, a piece of good luck, a jail escape, or a bone fracture.",
+      "examples": [
+        "A deep break in the rock ran along the valley floor.",
+        "Geologists mapped the break where the two rock layers had shifted."
+      ],
+      "branchCoverage": [
+        "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other -> In geology, a fracture in Earth's outer layer where one side has shifted relative to the other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "event%1:19:00::",
+      "lemma": "event",
+      "pos": "n",
+      "definition": "a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory",
+      "sourceBranches": [
+        "a phenomenon located at a single point in space-time",
+        "the fundamental observational entity in relativity theory"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In relativity theory, the basic thing that can be observed, namely something that occurs at one precise point in space and time.",
+      "scope": "This is the technical relativity term, not an occasion that happens, a set of circumstances, or a result caused by something else.",
+      "examples": [
+        "In relativity, two observers may disagree about the time of the same event.",
+        "A flash of light marks an event at a particular point in space and time."
+      ],
+      "branchCoverage": [
+        "a phenomenon located at a single point in space-time -> something that occurs at one precise point in space and time",
+        "the fundamental observational entity in relativity theory -> In relativity theory, the basic thing that can be observed"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "average%1:09:00::",
+      "lemma": "average",
+      "pos": "n",
+      "definition": "a statistic describing the location of a distribution",
+      "sourceBranches": [
+        "a statistic describing the location of a distribution"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "In statistics, a summary number that tells where a distribution lies.",
+      "scope": "This is a statistical summary of a distribution, not a sports success rate or an ordinary middle value on a scale.",
+      "examples": [
+        "The average of the five test scores was 72.",
+        "To find the average, add the values and divide by how many there are."
+      ],
+      "branchCoverage": [
+        "a statistic describing the location of a distribution -> In statistics, a summary number that tells where a distribution lies"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

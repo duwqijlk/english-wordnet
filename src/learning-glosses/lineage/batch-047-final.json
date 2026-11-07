@@ -1,0 +1,1130 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 47,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 47,
+    "defers": 3,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "place%1:04:01::",
+      "feel%1:04:00::"
+    ],
+    "lineage": {
+      "draft": "4ca85c8344f51148eddd9d808be94c036086587e1184bf940d0c365d6f35dfa2"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "part%1:10:00::",
+      "lemma": "part",
+      "pos": "n",
+      "definition": "the melody carried by a particular voice or instrument in polyphonic music",
+      "decision": "gloss",
+      "simpleMeaning": "the tune that one voice or instrument carries while several different lines sound at the same time",
+      "scope": "This is not a piece or share of a whole, not a role played by an actor, and not a section of a larger work.",
+      "examples": [
+        "The sopranos took the top part while the tenors held a lower line.",
+        "She rehearsed her violin part until she could play it without the score."
+      ],
+      "branchCoverage": [
+        "the melody carried by a particular voice or instrument in polyphonic music -> the tune that one voice or instrument carries while several different lines sound at the same time"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the melody carried by a particular voice or instrument in polyphonic music"
+      ],
+      "lemmaPartition": "part%1:10:00:: -> the musical line one voice or instrument carries while several lines sound together\npart%1:21:00:: -> money or property a person or group owns, is owed, or has contributed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "part%1:21:00::",
+      "lemma": "part",
+      "pos": "n",
+      "definition": "assets belonging to or due to or contributed by an individual person or group",
+      "decision": "gloss",
+      "simpleMeaning": "the money or property that a person or group owns, is owed, or has put in",
+      "scope": "This is not a musical line, not a role or duty, and not a piece cut from a whole object.",
+      "examples": [
+        "Under the settlement she received a part of her father's estate.",
+        "Each partner takes a part of the profits at the end of the year."
+      ],
+      "branchCoverage": [
+        "assets belonging to or due to or contributed by an individual person or group -> the money or property that a person or group owns, is owed, or has put in"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "assets belonging to or due to or contributed by an individual person or group"
+      ],
+      "lemmaPartition": "part%1:10:00:: -> the musical line one voice or instrument carries while several lines sound together\npart%1:21:00:: -> money or property a person or group owns, is owed, or has contributed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "state%1:26:01::",
+      "lemma": "state",
+      "pos": "n",
+      "definition": "a state of depression or agitation",
+      "decision": "gloss",
+      "simpleMeaning": "a condition of feeling deeply low and hopeless, or of being restless and emotionally stirred up",
+      "scope": "This is not a country or a governing body, and not the general condition of an object, machine, or substance.",
+      "examples": [
+        "After the breakup he was in a terrible state for weeks.",
+        "She worked herself into such a state that her hands shook."
+      ],
+      "branchCoverage": [
+        "a state of depression or agitation -> a condition of feeling deeply low and hopeless, or of being restless and emotionally stirred up"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a state of depression or agitation"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "around%4:02:03::",
+      "lemma": "around",
+      "pos": "r",
+      "definition": "(of quantities) imprecise but fairly close to correct",
+      "decision": "gloss",
+      "simpleMeaning": "used with an amount to say that it is not exact but close to the true figure",
+      "scope": "This is not about a circular path, not about a destination, and not about being on every side of something.",
+      "examples": [
+        "The drive takes around three hours.",
+        "Around fifty people came to the meeting."
+      ],
+      "branchCoverage": [
+        "(of quantities) imprecise but fairly close to correct -> used with an amount to say that it is not exact but close to the true figure"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of quantities) imprecise but fairly close to correct"
+      ],
+      "lemmaPartition": "around%4:02:03:: -> an amount that is not exact but close to the true figure\naround%4:02:06:: -> motion along a curve that returns to its start, or a spinning movement\naround%4:02:08:: -> movement to a named or already understood place\naround%4:02:07:: -> position on every side of something or in every direction from it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "around%4:02:06::",
+      "lemma": "around",
+      "pos": "r",
+      "definition": "in a circle or circular motion",
+      "decision": "gloss",
+      "simpleMeaning": "in a curved path that comes back to where it started, or in a spinning movement",
+      "scope": "This is not an approximate amount, not a destination, and not a position on every side of something.",
+      "examples": [
+        "The dog ran around the table chasing its tail.",
+        "The wheels spun around faster and faster."
+      ],
+      "branchCoverage": [
+        "in a circle or circular motion -> in a curved path that comes back to where it started, or in a spinning movement"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in a circle or circular motion"
+      ],
+      "lemmaPartition": "around%4:02:03:: -> an amount that is not exact but close to the true figure\naround%4:02:06:: -> motion along a curve that returns to its start, or a spinning movement\naround%4:02:08:: -> movement to a named or already understood place\naround%4:02:07:: -> position on every side of something or in every direction from it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "around%4:02:08::",
+      "lemma": "around",
+      "pos": "r",
+      "definition": "to a particular destination either specified or understood",
+      "decision": "gloss",
+      "simpleMeaning": "to a certain place, whether that place is named or already known from the situation",
+      "scope": "This is not an approximate amount, not a circular path, and not a position on every side of something.",
+      "examples": [
+        "Why don't you come around to my flat after work?",
+        "Bring the car around to the front entrance."
+      ],
+      "branchCoverage": [
+        "to a particular destination either specified or understood -> to a certain place, whether that place is named or already known from the situation"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "to a particular destination either specified or understood"
+      ],
+      "lemmaPartition": "around%4:02:03:: -> an amount that is not exact but close to the true figure\naround%4:02:06:: -> motion along a curve that returns to its start, or a spinning movement\naround%4:02:08:: -> movement to a named or already understood place\naround%4:02:07:: -> position on every side of something or in every direction from it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "around%4:02:07::",
+      "lemma": "around",
+      "pos": "r",
+      "definition": "all around or on all sides",
+      "decision": "gloss",
+      "simpleMeaning": "on every side of a person or thing, or in every direction from it",
+      "scope": "This is not a destination, not a circular path, and not an approximate amount.",
+      "examples": [
+        "Snow lay all around the cabin.",
+        "She looked around but saw nobody."
+      ],
+      "branchCoverage": [
+        "all around or on all sides -> on every side of a person or thing, or in every direction from it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "all around or on all sides"
+      ],
+      "lemmaPartition": "around%4:02:03:: -> an amount that is not exact but close to the true figure\naround%4:02:06:: -> motion along a curve that returns to its start, or a spinning movement\naround%4:02:08:: -> movement to a named or already understood place\naround%4:02:07:: -> position on every side of something or in every direction from it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "find%2:31:10::",
+      "lemma": "find",
+      "pos": "v",
+      "definition": "come to believe on the basis of emotion, intuitions, or indefinite grounds",
+      "decision": "gloss",
+      "simpleMeaning": "come to think something is true because of a feeling or hunch rather than solid proof",
+      "scope": "This is not about discovering something that was lost, and not about working out a fact by calculation or experiment.",
+      "examples": [
+        "I find the book easier to follow the second time.",
+        "She found the argument convincing, though she could not say why."
+      ],
+      "branchCoverage": [
+        "come to believe on the basis of emotion, intuitions, or indefinite grounds -> come to think something is true because of a feeling or hunch rather than solid proof"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "come to believe on the basis of emotion, intuitions, or indefinite grounds"
+      ],
+      "lemmaPartition": "find%2:31:10:: -> forming a belief from feeling or hunch rather than proof\nfind%2:30:13:: -> accepting and using one's own character, skills, and circumstances\nfind%2:32:00:: -> establishing a fact by calculation, investigation, testing, survey, or study\nfind%2:38:10:: -> managing to get to a place or point after effort",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "find%2:30:13::",
+      "lemma": "find",
+      "pos": "v",
+      "definition": "accept and make use of one's personality, abilities, and situation",
+      "decision": "gloss",
+      "simpleMeaning": "come to accept who you are and put your own character, skills, and circumstances to good use",
+      "scope": "This is not about forming a belief from a hunch, and not about locating a lost object or working out a fact.",
+      "examples": [
+        "After a few hard years she found herself and settled into a life she loved.",
+        "He spent his twenties travelling, trying to find himself."
+      ],
+      "branchCoverage": [
+        "accept and make use of one's personality, abilities, and situation -> come to accept who you are and put your own character, skills, and circumstances to good use"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "accept and make use of one's personality, abilities, and situation"
+      ],
+      "lemmaPartition": "find%2:31:10:: -> forming a belief from feeling or hunch rather than proof\nfind%2:30:13:: -> accepting and using one's own character, skills, and circumstances\nfind%2:32:00:: -> establishing a fact by calculation, investigation, testing, survey, or study\nfind%2:38:10:: -> managing to get to a place or point after effort",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "find%2:32:00::",
+      "lemma": "find",
+      "pos": "v",
+      "definition": "establish after a calculation, investigation, experiment, survey, or study",
+      "decision": "gloss",
+      "simpleMeaning": "work out or prove something by calculating, investigating, testing, surveying, or studying",
+      "scope": "This is not about believing something from a feeling, not about reaching a place, and not about locating a lost object.",
+      "examples": [
+        "The researchers found that the drug eased pain in most patients.",
+        "We found the answer by measuring the angle twice."
+      ],
+      "branchCoverage": [
+        "establish after a calculation, investigation, experiment, survey, or study -> work out or prove something by calculating, investigating, testing, surveying, or studying"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "establish after a calculation, investigation, experiment, survey, or study"
+      ],
+      "lemmaPartition": "find%2:31:10:: -> forming a belief from feeling or hunch rather than proof\nfind%2:30:13:: -> accepting and using one's own character, skills, and circumstances\nfind%2:32:00:: -> establishing a fact by calculation, investigation, testing, survey, or study\nfind%2:38:10:: -> managing to get to a place or point after effort",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "find%2:38:10::",
+      "lemma": "find",
+      "pos": "v",
+      "definition": "succeed in reaching; arrive at",
+      "decision": "gloss",
+      "simpleMeaning": "manage to get to a place or point, arriving there after effort",
+      "scope": "This is not about discovering something hidden, not about concluding something from evidence, and not about accepting your own nature.",
+      "examples": [
+        "The arrow found its mark.",
+        "After hours of walking she found her way to the chapel."
+      ],
+      "branchCoverage": [
+        "succeed in reaching -> manage to get to a place or point",
+        "arrive at -> arriving there after effort"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "succeed in reaching",
+        "arrive at"
+      ],
+      "lemmaPartition": "find%2:31:10:: -> forming a belief from feeling or hunch rather than proof\nfind%2:30:13:: -> accepting and using one's own character, skills, and circumstances\nfind%2:32:00:: -> establishing a fact by calculation, investigation, testing, survey, or study\nfind%2:38:10:: -> managing to get to a place or point after effort",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "high%1:26:01::",
+      "lemma": "high",
+      "pos": "n",
+      "definition": "a state of altered consciousness induced by alcohol or narcotics",
+      "decision": "gloss",
+      "simpleMeaning": "a condition in which alcohol or drugs change how the mind works",
+      "scope": "This is not a height or a raised level, not a vehicle gear, and not the adjective for a sound's pitch.",
+      "examples": [
+        "The high wore off after about an hour.",
+        "He described the high as a floating, weightless feeling."
+      ],
+      "branchCoverage": [
+        "a state of altered consciousness induced by alcohol or narcotics -> a condition in which alcohol or drugs change how the mind works"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a state of altered consciousness induced by alcohol or narcotics"
+      ],
+      "lemmaPartition": "high%1:26:01:: -> the noun for a drug- or alcohol-induced change in consciousness\nhigh%5:00:00:malodorous:00 -> the adjective for meat that smells spoiled\nhigh%1:06:00:: -> the noun for a vehicle's top forward gear\nhigh%5:00:00:intoxicated:00 -> the adjective for being slightly and pleasantly drunk or drugged\nhigh%3:00:03:: -> the adjective for sounds and voices near the top of the pitch range",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "high%5:00:00:malodorous:00",
+      "lemma": "high",
+      "pos": "a",
+      "definition": "(used of the smell of meat) smelling spoiled or tainted",
+      "decision": "defer",
+      "reason": "This use of 'high' for meat that has begun to spoil is archaic outside older British writing and is not current in general reading; no pair of natural modern example sentences can be written, so a gloss would teach a learner nothing they could use.",
+      "sourceBranches": [
+        "(used of the smell of meat) smelling spoiled or tainted"
+      ],
+      "lemmaPartition": "high%1:26:01:: -> the noun for a drug- or alcohol-induced change in consciousness\nhigh%5:00:00:malodorous:00 -> the adjective for meat that smells spoiled\nhigh%1:06:00:: -> the noun for a vehicle's top forward gear\nhigh%5:00:00:intoxicated:00 -> the adjective for being slightly and pleasantly drunk or drugged\nhigh%3:00:03:: -> the adjective for sounds and voices near the top of the pitch range",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "high%1:06:00::",
+      "lemma": "high",
+      "pos": "n",
+      "definition": "a forward gear with a gear ratio that gives the greatest vehicle velocity for a given engine speed",
+      "decision": "gloss",
+      "simpleMeaning": "the top forward gear of a vehicle, whose gearing gives the fastest speed for a given engine speed",
+      "scope": "This is not the drug-related condition, not a pitch level, and not a measurement of height.",
+      "examples": [
+        "He shifted into high on the open road.",
+        "The engine is quiet in high at motorway speeds."
+      ],
+      "branchCoverage": [
+        "a forward gear with a gear ratio that gives the greatest vehicle velocity for a given engine speed -> the top forward gear of a vehicle, whose gearing gives the fastest speed for a given engine speed"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a forward gear with a gear ratio that gives the greatest vehicle velocity for a given engine speed"
+      ],
+      "lemmaPartition": "high%1:26:01:: -> the noun for a drug- or alcohol-induced change in consciousness\nhigh%5:00:00:malodorous:00 -> the adjective for meat that smells spoiled\nhigh%1:06:00:: -> the noun for a vehicle's top forward gear\nhigh%5:00:00:intoxicated:00 -> the adjective for being slightly and pleasantly drunk or drugged\nhigh%3:00:03:: -> the adjective for sounds and voices near the top of the pitch range",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "high%5:00:00:intoxicated:00",
+      "lemma": "high",
+      "pos": "a",
+      "definition": "slightly and pleasantly intoxicated from alcohol or a drug (especially marijuana)",
+      "decision": "gloss",
+      "simpleMeaning": "a little drunk or affected by a drug in a pleasant way, especially after marijuana",
+      "scope": "This is not a measurement of height, not the noun for a drug-induced condition, and not a description of sound.",
+      "examples": [
+        "After two glasses of wine she felt high but still in control.",
+        "They were high and laughing at everything."
+      ],
+      "branchCoverage": [
+        "slightly and pleasantly intoxicated from alcohol or a drug (especially marijuana) -> a little drunk or affected by a drug in a pleasant way, especially after marijuana"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "slightly and pleasantly intoxicated from alcohol or a drug (especially marijuana)"
+      ],
+      "lemmaPartition": "high%1:26:01:: -> the noun for a drug- or alcohol-induced change in consciousness\nhigh%5:00:00:malodorous:00 -> the adjective for meat that smells spoiled\nhigh%1:06:00:: -> the noun for a vehicle's top forward gear\nhigh%5:00:00:intoxicated:00 -> the adjective for being slightly and pleasantly drunk or drugged\nhigh%3:00:03:: -> the adjective for sounds and voices near the top of the pitch range",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "high%3:00:03::",
+      "lemma": "high",
+      "pos": "a",
+      "definition": "used of sounds and voices; high in pitch or frequency",
+      "decision": "gloss",
+      "simpleMeaning": "used about sounds and voices that sit near the top of the range or vibrate quickly",
+      "scope": "This is not about height, amount, or rank, and not about being affected by a drug.",
+      "examples": [
+        "The whistle gave a high, piercing note.",
+        "Her voice is too high for that song."
+      ],
+      "branchCoverage": [
+        "used of sounds and voices -> used about sounds and voices",
+        "high in pitch or frequency -> that sit near the top of the range or vibrate quickly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "used of sounds and voices",
+        "high in pitch or frequency"
+      ],
+      "lemmaPartition": "high%1:26:01:: -> the noun for a drug- or alcohol-induced change in consciousness\nhigh%5:00:00:malodorous:00 -> the adjective for meat that smells spoiled\nhigh%1:06:00:: -> the noun for a vehicle's top forward gear\nhigh%5:00:00:intoxicated:00 -> the adjective for being slightly and pleasantly drunk or drugged\nhigh%3:00:03:: -> the adjective for sounds and voices near the top of the pitch range",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "little%5:00:00:emotional:00",
+      "lemma": "little",
+      "pos": "a",
+      "definition": "small in a way that arouses feelings (of tenderness or its opposite depending on the context)",
+      "decision": "gloss",
+      "simpleMeaning": "small in a way that stirs strong feeling, either fondness or its opposite depending on the situation",
+      "scope": "This is not a plain statement of small size, and not a judgment that something does not matter.",
+      "examples": [
+        "The poor little dog shivered in the rain.",
+        "He was a mean little man who enjoyed other people's trouble."
+      ],
+      "branchCoverage": [
+        "small in a way that arouses feelings (of tenderness or its opposite depending on the context) -> small in a way that stirs strong feeling, either fondness or its opposite depending on the situation"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "small in a way that arouses feelings (of tenderness or its opposite depending on the context)"
+      ],
+      "lemmaPartition": "little%5:00:00:emotional:00 -> smallness that stirs tenderness or contempt\nlittle%3:00:00:: -> physical shortness compared with what is normal for the kind\nlittle%5:00:00:unimportant:00 -> lack of importance or seriousness in casual speech",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "little%3:00:00::",
+      "lemma": "little",
+      "pos": "a",
+      "definition": "low in stature; not tall; describing something or someone with a stature less than normal",
+      "decision": "gloss",
+      "simpleMeaning": "short in height, below the usual size for a person or thing of that kind, and not tall",
+      "scope": "This is not about importance or amount, and not about the fond or hostile feeling that smallness can stir.",
+      "examples": [
+        "The little boy had to stand on a chair to reach the shelf.",
+        "They live in a little house at the end of the lane."
+      ],
+      "branchCoverage": [
+        "low in stature -> short in height",
+        "not tall -> not tall",
+        "describing something or someone with a stature less than normal -> below the usual size for a person or thing of that kind"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "low in stature",
+        "not tall",
+        "describing something or someone with a stature less than normal"
+      ],
+      "lemmaPartition": "little%5:00:00:emotional:00 -> smallness that stirs tenderness or contempt\nlittle%3:00:00:: -> physical shortness compared with what is normal for the kind\nlittle%5:00:00:unimportant:00 -> lack of importance or seriousness in casual speech",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "little%5:00:00:unimportant:00",
+      "lemma": "little",
+      "pos": "a",
+      "definition": "(informal) small and of little importance",
+      "decision": "gloss",
+      "simpleMeaning": "not important or serious, used especially in casual speech",
+      "scope": "This is not about height or physical size, and not about the feeling that smallness can stir.",
+      "examples": [
+        "We had a little problem with the booking, but it was soon fixed.",
+        "Don't worry about the little details; the main plan is sound."
+      ],
+      "branchCoverage": [
+        "(informal) small and of little importance -> not important or serious, used especially in casual speech"
+      ],
+      "labelBranches": [
+        "(informal) -> a register label saying the use is casual, not part of the meaning"
+      ],
+      "sourceBranches": [
+        "(informal) small and of little importance"
+      ],
+      "lemmaPartition": "little%5:00:00:emotional:00 -> smallness that stirs tenderness or contempt\nlittle%3:00:00:: -> physical shortness compared with what is normal for the kind\nlittle%5:00:00:unimportant:00 -> lack of importance or seriousness in casual speech",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "thing%1:12:00::",
+      "lemma": "thing",
+      "pos": "n",
+      "definition": "a persistent illogical feeling of desire or aversion",
+      "decision": "gloss",
+      "simpleMeaning": "a strong liking or dislike that stays with someone even though it is not based on reason",
+      "scope": "This is not a physical object, and not a fact, event, or matter that can be described.",
+      "examples": [
+        "He has a thing about anyone touching his food.",
+        "She has had a thing for him since school."
+      ],
+      "branchCoverage": [
+        "a persistent illogical feeling of desire or aversion -> a strong liking or dislike that stays with someone even though it is not based on reason"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a persistent illogical feeling of desire or aversion"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "give%2:32:01::",
+      "lemma": "give",
+      "pos": "v",
+      "definition": "convey, as of a compliment, regards, attention, etc.; bestow",
+      "decision": "gloss",
+      "simpleMeaning": "offer something such as praise, greetings, or careful attention to someone",
+      "scope": "This is not handing over a physical object, not showing a feeling with a look or gesture, and not stating an estimate.",
+      "examples": [
+        "She gave him a warm compliment on his speech.",
+        "Give my regards to your family when you write."
+      ],
+      "branchCoverage": [
+        "convey, as of a compliment, regards, attention, etc -> offer something such as praise, greetings, or careful attention to someone",
+        "bestow -> offer something such as praise, greetings, or careful attention to someone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "convey, as of a compliment, regards, attention, etc",
+        "bestow"
+      ],
+      "lemmaPartition": "give%2:32:01:: -> passing words such as praise, greetings, or attention to someone\ngive%2:29:11:: -> the archaic sense of consenting to sex with a man\ngive%2:32:00:: -> sending a message through a smile, look, or body movement\ngive%2:31:00:: -> estimating how long something lasts or how it ends\ngive%2:32:14:: -> presenting something for consideration, judgment, or use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "give%2:29:11::",
+      "lemma": "give",
+      "pos": "v",
+      "definition": "consent to engage in sexual intercourse with a man",
+      "decision": "defer",
+      "reason": "Archaic, gender-specific use that modern English no longer employs in this way; two natural modern example sentences cannot be written, and the sense is not current enough in general reading to be worth teaching.",
+      "sourceBranches": [
+        "consent to engage in sexual intercourse with a man"
+      ],
+      "lemmaPartition": "give%2:32:01:: -> passing words such as praise, greetings, or attention to someone\ngive%2:29:11:: -> the archaic sense of consenting to sex with a man\ngive%2:32:00:: -> sending a message through a smile, look, or body movement\ngive%2:31:00:: -> estimating how long something lasts or how it ends\ngive%2:32:14:: -> presenting something for consideration, judgment, or use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "give%2:32:00::",
+      "lemma": "give",
+      "pos": "v",
+      "definition": "convey or communicate; of a smile, a look, a physical gesture",
+      "decision": "gloss",
+      "simpleMeaning": "send a message to someone with a smile, a look, or a movement of the body",
+      "scope": "This is not handing over an object, not offering words such as praise or greetings, and not making an estimate.",
+      "examples": [
+        "She gave him a quick smile and turned away.",
+        "He gave a small shrug and said nothing."
+      ],
+      "branchCoverage": [
+        "convey or communicate -> send a message to someone",
+        "of a smile, a look, a physical gesture -> with a smile, a look, or a movement of the body"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "convey or communicate",
+        "of a smile, a look, a physical gesture"
+      ],
+      "lemmaPartition": "give%2:32:01:: -> passing words such as praise, greetings, or attention to someone\ngive%2:29:11:: -> the archaic sense of consenting to sex with a man\ngive%2:32:00:: -> sending a message through a smile, look, or body movement\ngive%2:31:00:: -> estimating how long something lasts or how it ends\ngive%2:32:14:: -> presenting something for consideration, judgment, or use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "give%2:31:00::",
+      "lemma": "give",
+      "pos": "v",
+      "definition": "estimate the duration or outcome of something",
+      "decision": "gloss",
+      "simpleMeaning": "say how long something will last or how it will end, based on your judgment",
+      "scope": "This is not passing something to another person, and not showing a feeling with a look or gesture.",
+      "examples": [
+        "The doctors gave him a year at most.",
+        "Most experts give the project six months before the money runs out."
+      ],
+      "branchCoverage": [
+        "estimate the duration or outcome of something -> say how long something will last or how it will end, based on your judgment"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "estimate the duration or outcome of something"
+      ],
+      "lemmaPartition": "give%2:32:01:: -> passing words such as praise, greetings, or attention to someone\ngive%2:29:11:: -> the archaic sense of consenting to sex with a man\ngive%2:32:00:: -> sending a message through a smile, look, or body movement\ngive%2:31:00:: -> estimating how long something lasts or how it ends\ngive%2:32:14:: -> presenting something for consideration, judgment, or use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "give%2:32:14::",
+      "lemma": "give",
+      "pos": "v",
+      "definition": "submit for consideration, judgment, or use",
+      "decision": "gloss",
+      "simpleMeaning": "present something to be looked at, judged, or used",
+      "scope": "This is not handing over a physical object, and not estimating how long something will last.",
+      "examples": [
+        "He gave his opinion only after everyone else had spoken.",
+        "The candidate gave a detailed account of her plans to the panel."
+      ],
+      "branchCoverage": [
+        "submit for consideration, judgment, or use -> present something to be looked at, judged, or used"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "submit for consideration, judgment, or use"
+      ],
+      "lemmaPartition": "give%2:32:01:: -> passing words such as praise, greetings, or attention to someone\ngive%2:29:11:: -> the archaic sense of consenting to sex with a man\ngive%2:32:00:: -> sending a message through a smile, look, or body movement\ngive%2:31:00:: -> estimating how long something lasts or how it ends\ngive%2:32:14:: -> presenting something for consideration, judgment, or use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "house%1:04:00::",
+      "lemma": "house",
+      "pos": "n",
+      "definition": "play in which children take the roles of father or mother or children and pretend to interact like adults",
+      "decision": "gloss",
+      "simpleMeaning": "A game in which children play the parts of parents or children and pretend to act like adults.",
+      "scope": "This is not a building that people live in and not a real household; it is only the children's pretend game.",
+      "examples": [
+        "The children spent the whole afternoon playing house in the garden.",
+        "In their game of house, she was the mother and he was the father."
+      ],
+      "branchCoverage": [
+        "play in which children take the roles of father or mother or children and pretend to interact like adults -> A game in which children play the parts of parents or children and pretend to act like adults"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "play in which children take the roles of father or mother or children and pretend to interact like adults"
+      ],
+      "lemmaPartition": "house%1:04:00:: = children's pretend game of family roles; house%1:14:03:: = the spectators gathered in a theater or cinema; house%1:14:06:: = the management of a gambling house or casino",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "house%1:14:03::",
+      "lemma": "house",
+      "pos": "n",
+      "definition": "the audience gathered together in a theatre or cinema",
+      "decision": "gloss",
+      "simpleMeaning": "All the people watching a performance or a film together in a theater or cinema.",
+      "scope": "This is not the building where the performance takes place and not the performers on stage; it is only the spectators as a group.",
+      "examples": [
+        "The house rose to applaud the young singer.",
+        "A full house watched the final scene in silence."
+      ],
+      "branchCoverage": [
+        "the audience gathered together in a theatre or cinema -> All the people watching a performance or a film together in a theater or cinema"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the audience gathered together in a theatre or cinema"
+      ],
+      "lemmaPartition": "house%1:04:00:: = children's pretend game of family roles; house%1:14:03:: = the spectators gathered in a theater or cinema; house%1:14:06:: = the management of a gambling house or casino",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "house%1:14:06::",
+      "lemma": "house",
+      "pos": "n",
+      "definition": "the management of a gambling house or casino",
+      "decision": "gloss",
+      "simpleMeaning": "The group of people who manage a place where people gamble.",
+      "scope": "This is not the customers who bet and not the building itself; it refers only to the operators of the gambling business.",
+      "examples": [
+        "The house always wins in the long run.",
+        "In this game, players bet against the house."
+      ],
+      "branchCoverage": [
+        "the management of a gambling house or casino -> The group of people who manage a place where people gamble"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the management of a gambling house or casino"
+      ],
+      "lemmaPartition": "house%1:04:00:: = children's pretend game of family roles; house%1:14:03:: = the spectators gathered in a theater or cinema; house%1:14:06:: = the management of a gambling house or casino",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "place%1:04:01::",
+      "lemma": "place",
+      "pos": "n",
+      "definition": "the post or function properly or customarily occupied or served by another",
+      "decision": "gloss",
+      "simpleMeaning": "the job or role that another person normally fills.",
+      "scope": "This is not a physical location and not a seat at a performance; it is the post or duty that belongs to someone else.",
+      "examples": [
+        "No one could take the place of the old coach.",
+        "When the manager retired, her assistant stepped into her place."
+      ],
+      "branchCoverage": [
+        "the post or function properly or customarily occupied or served by another -> the job or role that another person normally fills"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the post or function properly or customarily occupied or served by another"
+      ],
+      "lemmaPartition": "place%1:04:01:: = the job or role that belongs to another person; place%2:31:00:: = recognize who or what someone or something is; place%2:31:03:: = finish in a stated position in a competition; place%2:42:00:: = find out where someone or something is",
+      "verdict": "self-approved",
+      "reviewerNote": "Trailing \"when someone takes it over\" adds a takeover condition not in the sense; drop it."
+    },
+    {
+      "senseId": "place%2:31:00::",
+      "lemma": "place",
+      "pos": "v",
+      "definition": "recognize as being; establish the identity of someone or something",
+      "decision": "gloss",
+      "simpleMeaning": "To recognize someone or something as a particular person or thing, or to work out their identity.",
+      "scope": "This is not finding out where something is and not putting an object somewhere; it is only about identifying a person or thing.",
+      "examples": [
+        "Her face was familiar, but I could not place her.",
+        "I couldn't place the voice on the phone at first."
+      ],
+      "branchCoverage": [
+        "recognize as being -> To recognize someone or something as a particular person or thing",
+        "establish the identity of someone or something -> or to work out their identity"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "recognize as being",
+        "establish the identity of someone or something"
+      ],
+      "lemmaPartition": "place%1:04:01:: = the job or role that belongs to another person; place%2:31:00:: = recognize who or what someone or something is; place%2:31:03:: = finish in a stated position in a competition; place%2:42:00:: = find out where someone or something is",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "place%2:31:03::",
+      "lemma": "place",
+      "pos": "v",
+      "definition": "take a place in a competition; often followed by an ordinal",
+      "decision": "gloss",
+      "simpleMeaning": "To finish in a stated position in a race or competition.",
+      "scope": "This is not putting an object somewhere and not identifying a person; it is about the position someone reaches in a contest.",
+      "examples": [
+        "She placed third in the city marathon.",
+        "Our team placed second overall."
+      ],
+      "branchCoverage": [
+        "take a place in a competition -> To finish in a stated position in a race or competition",
+        "often followed by an ordinal -> in a stated position"
+      ],
+      "labelBranches": [
+        "often followed by an ordinal -> grammar/usage note about the word form that follows, not meaning content"
+      ],
+      "sourceBranches": [
+        "take a place in a competition",
+        "often followed by an ordinal"
+      ],
+      "lemmaPartition": "place%1:04:01:: = the job or role that belongs to another person; place%2:31:00:: = recognize who or what someone or something is; place%2:31:03:: = finish in a stated position in a competition; place%2:42:00:: = find out where someone or something is",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "place%2:42:00::",
+      "lemma": "place",
+      "pos": "v",
+      "definition": "identify the location or place of",
+      "decision": "gloss",
+      "simpleMeaning": "To find out exactly where a person or thing is.",
+      "scope": "This is not recognizing who or what something is and not putting an object down; it is only about finding its position.",
+      "examples": [
+        "Witnesses placed him at the scene of the crime.",
+        "Using the signal, rescuers could place the boat within a few hundred meters."
+      ],
+      "branchCoverage": [
+        "identify the location or place of -> To find out exactly where a person or thing is"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "identify the location or place of"
+      ],
+      "lemmaPartition": "place%1:04:01:: = the job or role that belongs to another person; place%2:31:00:: = recognize who or what someone or something is; place%2:31:03:: = finish in a stated position in a competition; place%2:42:00:: = find out where someone or something is",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "school%1:14:02::",
+      "lemma": "school",
+      "pos": "n",
+      "definition": "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+      "decision": "gloss",
+      "simpleMeaning": "A group of artists, writers or thinkers who share a style or were taught by the same or similar teachers.",
+      "scope": "This is not a place of education and not the teachers and students of one institution; it is a group of creative or intellectual people with a shared style or teacher.",
+      "examples": [
+        "These painters form a school of their own.",
+        "Critics often group the two poets into the same school."
+      ],
+      "branchCoverage": [
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers -> A group of artists, writers or thinkers who share a style or were taught by the same or similar teachers"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+      ],
+      "lemmaPartition": "school%1:14:02:: = a group of artists or thinkers with a shared style or teacher; school%1:14:03:: = the teachers and students of one institution; school%1:28:00:: = the period when lessons are taught",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "school%1:14:03::",
+      "lemma": "school",
+      "pos": "n",
+      "definition": "an educational institution's faculty and students",
+      "decision": "gloss",
+      "simpleMeaning": "All the teachers and learners at a place of education, taken together.",
+      "scope": "This is not the buildings or the lesson time and not a group of artists with a shared style; it is the people of one institution as a group.",
+      "examples": [
+        "The whole school was invited to the ceremony.",
+        "The school gathered in the hall for the announcement."
+      ],
+      "branchCoverage": [
+        "an educational institution's faculty and students -> All the teachers and learners at a place of education, taken together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an educational institution's faculty and students"
+      ],
+      "lemmaPartition": "school%1:14:02:: = a group of artists or thinkers with a shared style or teacher; school%1:14:03:: = the teachers and students of one institution; school%1:28:00:: = the period when lessons are taught",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "school%1:28:00::",
+      "lemma": "school",
+      "pos": "n",
+      "definition": "the period of instruction in a school; the time period when school is in session",
+      "decision": "gloss",
+      "simpleMeaning": "The time of day or year when lessons are taught and classes are in session.",
+      "scope": "This is not the building, the people or a holiday; it is the period when lessons are actually taking place.",
+      "examples": [
+        "School starts at eight in the morning.",
+        "We stayed late after school to finish the project."
+      ],
+      "branchCoverage": [
+        "the period of instruction in a school -> The time of day or year when lessons are taught",
+        "the time period when school is in session -> and classes are in session"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the period of instruction in a school",
+        "the time period when school is in session"
+      ],
+      "lemmaPartition": "school%1:14:02:: = a group of artists or thinkers with a shared style or teacher; school%1:14:03:: = the teachers and students of one institution; school%1:28:00:: = the period when lessons are taught",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "end%1:04:02::",
+      "lemma": "end",
+      "pos": "n",
+      "definition": "(American football) a position on the line of scrimmage, designating players at each end of the defensive line",
+      "decision": "gloss",
+      "simpleMeaning": "In American football, a position on the line where each play starts, for a player at either outer edge of the defensive line.",
+      "scope": "This is not the last part or tip of something and not an aim; it is only the football position.",
+      "examples": [
+        "He played end for the college team for three seasons.",
+        "As an end, he spent most of the game blocking and rushing the passer."
+      ],
+      "branchCoverage": [
+        "(American football) a position on the line of scrimmage, designating players at each end of the defensive line -> In American football, a position on the line where each play starts, for a player at either outer edge of the defensive line"
+      ],
+      "labelBranches": [
+        "(American football) -> domain label naming the sport; the rest of the branch carries the meaning, and the sport stays in the gloss because the sense exists only there"
+      ],
+      "sourceBranches": [
+        "(American football) a position on the line of scrimmage, designating players at each end of the defensive line"
+      ],
+      "lemmaPartition": "end%1:04:02:: = an American football position at the edge of the defensive line; end%1:09:02:: = the result a plan is meant to achieve; end%1:15:01:: = the limit or furthest point of something; end%1:15:02:: = the flat outer face at the limit of a solid object",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "end%1:09:02::",
+      "lemma": "end",
+      "pos": "n",
+      "definition": "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it",
+      "decision": "gloss",
+      "simpleMeaning": "The situation that a plan is meant to bring about, after which the work to bring it about stops.",
+      "scope": "This is not the last part or tip of something and not a limit or boundary; it is the aim a plan is meant to reach.",
+      "examples": [
+        "The end they sought was a fairer society.",
+        "To what end are you saving all this money?"
+      ],
+      "branchCoverage": [
+        "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it -> The situation that a plan is meant to bring about, after which the work to bring it about stops"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it"
+      ],
+      "lemmaPartition": "end%1:04:02:: = an American football position at the edge of the defensive line; end%1:09:02:: = the result a plan is meant to achieve; end%1:15:01:: = the limit or furthest point of something; end%1:15:02:: = the flat outer face at the limit of a solid object",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "end%1:15:01::",
+      "lemma": "end",
+      "pos": "n",
+      "definition": "a boundary marking the extremities of something",
+      "decision": "gloss",
+      "simpleMeaning": "The outer limit or furthest point of something, where it stops.",
+      "scope": "This is not the aim of a plan and not the flat end face of a solid object; it is the limit or furthest point where something such as a road or room stops.",
+      "examples": [
+        "They walked to the end of the street.",
+        "There is a small shop at the far end of the platform."
+      ],
+      "branchCoverage": [
+        "a boundary marking the extremities of something -> The outer limit or furthest point of something, where it stops"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a boundary marking the extremities of something"
+      ],
+      "lemmaPartition": "end%1:04:02:: = an American football position at the edge of the defensive line; end%1:09:02:: = the result a plan is meant to achieve; end%1:15:01:: = the limit or furthest point of something; end%1:15:02:: = the flat outer face at the limit of a solid object",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "end%1:15:02::",
+      "lemma": "end",
+      "pos": "n",
+      "definition": "the surface at either extremity of a three-dimensional object",
+      "decision": "gloss",
+      "simpleMeaning": "The outer face at either limit of a solid object, such as the top of a post.",
+      "scope": "This is not the furthest point of an area such as a road and not an aim; it is the actual face at one end of a solid thing.",
+      "examples": [
+        "The end of the pipe was sealed with a metal cap.",
+        "The ends of the beam were painted to stop water getting in."
+      ],
+      "branchCoverage": [
+        "the surface at either extremity of a three-dimensional object -> The outer face at either limit of a solid object, such as the top of a post"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the surface at either extremity of a three-dimensional object"
+      ],
+      "lemmaPartition": "end%1:04:02:: = an American football position at the edge of the defensive line; end%1:09:02:: = the result a plan is meant to achieve; end%1:15:01:: = the limit or furthest point of something; end%1:15:02:: = the flat outer face at the limit of a solid object",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "show%2:32:01::",
+      "lemma": "show",
+      "pos": "v",
+      "definition": "indicate a place, direction, person, or thing; either spatially or figuratively",
+      "decision": "gloss",
+      "simpleMeaning": "To point out or make clear a place, direction, person or thing, either in physical space or in a figurative way.",
+      "scope": "This is not giving a display or performance and not giving a measurement on a dial; it is about pointing out or making clear what or where something is.",
+      "examples": [
+        "Let me show you the way to the station.",
+        "The guide showed us where the path begins."
+      ],
+      "branchCoverage": [
+        "indicate a place, direction, person, or thing -> To point out or make clear a place, direction, person or thing",
+        "either spatially or figuratively -> either in physical space or in a figurative way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "indicate a place, direction, person, or thing",
+        "either spatially or figuratively"
+      ],
+      "lemmaPartition": "show%2:32:01:: = point out or make clear a place, direction, person or thing; show%2:32:04:: = give a measurement on a gauge or instrument; show%2:38:00:: = lead someone to their seat",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "show%2:32:04::",
+      "lemma": "show",
+      "pos": "v",
+      "definition": "indicate a certain reading; of gauges and instruments",
+      "decision": "gloss",
+      "simpleMeaning": "To give a particular measurement on a dial, screen or other instrument.",
+      "scope": "This is not pointing out a place or person and not leading someone to a seat; it is only what an instrument displays.",
+      "examples": [
+        "The thermometer showed thirty degrees at noon.",
+        "The fuel gauge showed nearly empty."
+      ],
+      "branchCoverage": [
+        "indicate a certain reading -> To give a particular measurement",
+        "of gauges and instruments -> on a dial, screen or other instrument"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "indicate a certain reading",
+        "of gauges and instruments"
+      ],
+      "lemmaPartition": "show%2:32:01:: = point out or make clear a place, direction, person or thing; show%2:32:04:: = give a measurement on a gauge or instrument; show%2:38:00:: = lead someone to their seat",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "show%2:38:00::",
+      "lemma": "show",
+      "pos": "v",
+      "definition": "take (someone) to their seats, as in theaters or auditoriums",
+      "decision": "gloss",
+      "simpleMeaning": "To lead a person to the seat where they will sit, as in a theater or hall.",
+      "scope": "This is not pointing something out and not displaying a film or performance; it is about leading a guest to a seat.",
+      "examples": [
+        "An usher showed us to our seats near the stage.",
+        "She showed the latecomers to seats at the back."
+      ],
+      "branchCoverage": [
+        "take (someone) to their seats, as in theaters or auditoriums -> To lead a person to the seat where they will sit, as in a theater or hall"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "take (someone) to their seats, as in theaters or auditoriums"
+      ],
+      "lemmaPartition": "show%2:32:01:: = point out or make clear a place, direction, person or thing; show%2:32:04:: = give a measurement on a gauge or instrument; show%2:38:00:: = lead someone to their seat",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "feel%1:04:00::",
+      "lemma": "feel",
+      "pos": "n",
+      "definition": "manual stimulation of the genital area for sexual pleasure",
+      "decision": "gloss",
+      "sourceBranches": [
+        "manual stimulation of the genital area for sexual pleasure"
+      ],
+      "lemmaPartition": "feel%1:04:00:: = sexual touching as a noun (deferred); feel%2:31:01:: = your sense of yourself in reaction to someone's behavior; feel%2:35:11:: = move your hands over someone's sex organs",
+      "simpleMeaning": "an act of touching someone's sex organs for sexual pleasure.",
+      "scope": "This is the noun for the act itself, not the verb, and not the general sense of texture or of a feeling.",
+      "examples": [
+        "He was fired for copping a feel at the office party.",
+        "A passenger complained that a man had copped a feel."
+      ],
+      "branchCoverage": [
+        "manual stimulation of the genital area for sexual pleasure -> an act of touching someone's sex organs for sexual pleasure"
+      ],
+      "labelBranches": [],
+      "verdict": "self-approved",
+      "reviewerNote": "\"Cop a feel\" is idiomatic modern English; a natural gloss and example exist, so this sense should not be deferred."
+    },
+    {
+      "senseId": "feel%2:31:01::",
+      "lemma": "feel",
+      "pos": "v",
+      "definition": "have a feeling or perception about oneself in reaction to someone's behavior or attitude",
+      "decision": "gloss",
+      "simpleMeaning": "To become aware of yourself in a certain way because of someone else's behavior or attitude toward you.",
+      "scope": "This is not touching something with your hands and not a general mood with no outside cause; it is your sense of yourself stirred by another person's behavior.",
+      "examples": [
+        "She felt foolish after he laughed at her mistake.",
+        "I felt small when the teacher ignored my question."
+      ],
+      "branchCoverage": [
+        "have a feeling or perception about oneself in reaction to someone's behavior or attitude -> To become aware of yourself in a certain way because of someone else's behavior or attitude toward you"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have a feeling or perception about oneself in reaction to someone's behavior or attitude"
+      ],
+      "lemmaPartition": "feel%1:04:00:: = sexual touching as a noun (deferred); feel%2:31:01:: = your sense of yourself in reaction to someone's behavior; feel%2:35:11:: = move your hands over someone's sex organs",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "feel%2:35:11::",
+      "lemma": "feel",
+      "pos": "v",
+      "definition": "pass one's hands over the sexual organs of",
+      "decision": "gloss",
+      "simpleMeaning": "To move your hands over someone's sex organs.",
+      "scope": "This is not the ordinary touching used to judge an object's shape or warmth and not your own inner sense of yourself; it is sexual touching of another person's body.",
+      "examples": [
+        "He tried to feel her up in the back of the taxi.",
+        "She told the police that a man had felt her on the crowded train."
+      ],
+      "branchCoverage": [
+        "pass one's hands over the sexual organs of -> To move your hands over someone's sex organs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pass one's hands over the sexual organs of"
+      ],
+      "lemmaPartition": "feel%1:04:00:: = sexual touching as a noun (deferred); feel%2:31:01:: = your sense of yourself in reaction to someone's behavior; feel%2:35:11:: = move your hands over someone's sex organs",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sure%5:00:00:secure:02",
+      "lemma": "sure",
+      "pos": "a",
+      "definition": "physically secure or dependable",
+      "decision": "gloss",
+      "simpleMeaning": "Firm and steady enough not to give way or fail.",
+      "scope": "This is not being certain in your mind and not describing a person you can trust; it describes a thing that is physically firm and reliable.",
+      "examples": [
+        "The climber found sure footing on the wet rock.",
+        "A sure grip on the rope kept him from falling."
+      ],
+      "branchCoverage": [
+        "physically secure or dependable -> Firm and steady enough not to give way or fail"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "physically secure or dependable"
+      ],
+      "lemmaPartition": "sure%5:00:00:secure:02:: = physically firm and dependable; sure%5:00:00:trustworthy:00:: = (of a person) worthy of trust (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sure%5:00:00:trustworthy:00",
+      "lemma": "sure",
+      "pos": "a",
+      "definition": "(of persons) worthy of trust or confidence",
+      "decision": "defer",
+      "reason": "This use of the adjective for a trustworthy person is rare in modern English; natural examples would be read as the far more common sense 'certain or confident', so the two senses cannot be kept apart.",
+      "sourceBranches": [
+        "(of persons) worthy of trust or confidence"
+      ],
+      "lemmaPartition": "sure%5:00:00:secure:02:: = physically firm and dependable; sure%5:00:00:trustworthy:00:: = (of a person) worthy of trust (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "family%1:14:06::",
+      "lemma": "family",
+      "pos": "n",
+      "definition": "a loose affiliation of gangsters in charge of organized criminal activities",
+      "decision": "gloss",
+      "simpleMeaning": "A loosely organized group of criminals who run illegal activities together.",
+      "scope": "This is not a group of relatives and not a household; it is a criminal organization.",
+      "examples": [
+        "The police linked the killing to a crime family in the city.",
+        "He was said to be a member of a family that ran illegal gambling across the city."
+      ],
+      "branchCoverage": [
+        "a loose affiliation of gangsters in charge of organized criminal activities -> A loosely organized group of criminals who run illegal activities together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a loose affiliation of gangsters in charge of organized criminal activities"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "keep%2:41:05::",
+      "lemma": "keep",
+      "pos": "v",
+      "definition": "behave as expected during holidays or rites",
+      "decision": "gloss",
+      "simpleMeaning": "To observe a holiday or ceremony in the usual way.",
+      "scope": "This is not holding on to an object and not staying in a place; it is about observing a holiday or ceremony.",
+      "examples": [
+        "The community keeps the Sabbath strictly.",
+        "Many families still keep the old harvest festival."
+      ],
+      "branchCoverage": [
+        "behave as expected during holidays or rites -> To observe a holiday or ceremony in the usual way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "behave as expected during holidays or rites"
+      ],
+      "lemmaPartition": "keep%2:41:05:: = observe a holiday or rite in the usual way; keep%2:42:02:: = protect someone or something from harm",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "keep%2:42:02::",
+      "lemma": "keep",
+      "pos": "v",
+      "definition": "maintain in safety from injury, harm, or danger",
+      "decision": "gloss",
+      "simpleMeaning": "To protect someone or something from harm or danger.",
+      "scope": "This is not holding or storing something and not celebrating a holiday; it is about guarding someone or something from harm.",
+      "examples": [
+        "He kept the children away from the broken glass.",
+        "The fence keeps the sheep off the road."
+      ],
+      "branchCoverage": [
+        "maintain in safety from injury, harm, or danger -> To protect someone or something from harm or danger"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "maintain in safety from injury, harm, or danger"
+      ],
+      "lemmaPartition": "keep%2:41:05:: = observe a holiday or rite in the usual way; keep%2:42:02:: = protect someone or something from harm",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

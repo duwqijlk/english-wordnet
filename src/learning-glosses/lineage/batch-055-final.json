@@ -1,0 +1,1191 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 55,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 47,
+    "defers": 3,
+    "firstPass": {
+      "approved": 38,
+      "of": 50,
+      "rate": 0.76
+    },
+    "selfApproved": [
+      "turn%2:35:06::",
+      "turn%2:35:11::",
+      "check%2:41:08::",
+      "check%1:10:01::",
+      "heart%1:06:00::",
+      "act%2:36:04::",
+      "fire%1:06:00::",
+      "living%5:00:00:live:01",
+      "easy%5:00:00:gradual:02"
+    ],
+    "selfDeferred": [
+      "check%2:36:00::",
+      "check%2:41:02::",
+      "check%2:32:07::"
+    ],
+    "lineage": {
+      "draft": "a4c9a6d496481973b08de41ae7df7d967b1d6ffb07d0bec6c7750407c679f432"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "third%1:06:01::",
+      "lemma": "third",
+      "pos": "n",
+      "definition": "the base that must be touched third by a base runner in baseball",
+      "sourceBranches": [
+        "the base that must be touched third by a base runner in baseball"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, the base that a player running the bases must touch after first and second, just before heading home",
+      "scope": "Not first or second base, and not the player who runs the bases.",
+      "examples": [
+        "He rounded third and headed for home.",
+        "The runner was thrown out at third."
+      ],
+      "branchCoverage": [
+        "the base that must be touched third by a base runner in baseball -> in baseball, the base that a player running the bases must touch after first and second, just before heading home"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "turn%2:35:06::",
+      "lemma": "turn",
+      "pos": "v",
+      "definition": "shape by rotating on a lathe or cutting device or a wheel",
+      "sourceBranches": [
+        "shape by rotating on a lathe or cutting device or a wheel"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "give a piece of wood, metal, or other material its shape by pressing it against a tool or shaping it by hand while it spins",
+      "scope": "Not simply rotating an object in your hands, and not bending a piece out of shape.",
+      "examples": [
+        "The craftsman turned a pair of oak legs for the table.",
+        "The machinist turned the steel shaft down to size."
+      ],
+      "branchCoverage": [
+        "shape by rotating on a lathe or cutting device or a wheel -> give a piece of wood, metal, or other material its shape by pressing it against a tool or shaping it by hand while it spins"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "turn%2:35:06:: -> shape something on a lathe or wheel; turn%2:35:11:: -> make an object crooked or angular",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss requires a cutting tool; OEWN's 'turn the clay on the wheel' is hand-shaping. Broaden the method to hand or tool."
+    },
+    {
+      "senseId": "turn%2:35:11::",
+      "lemma": "turn",
+      "pos": "v",
+      "definition": "cause (an object) to assume a crooked or angular form",
+      "sourceBranches": [
+        "cause (an object) to assume a crooked or angular form"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make an object take on a bent, twisted, or sharply angled shape",
+      "scope": "Not giving an object a smooth round shape on a spinning machine, and not simply rotating it.",
+      "examples": [
+        "The strong man turned an iron bar with his hands.",
+        "She turned the wire into a hook with her fingers."
+      ],
+      "branchCoverage": [
+        "cause (an object) to assume a crooked or angular form -> make an object take on a bent, twisted, or sharply angled shape"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "turn%2:35:06:: -> shape something on a lathe or wheel; turn%2:35:11:: -> make an object crooked or angular",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples unidiomatic and 'turned the rod' reads as lathe work. Use OEWN's 'the strong man turned an iron bar'."
+    },
+    {
+      "senseId": "check%1:06:00::",
+      "lemma": "check",
+      "pos": "n",
+      "definition": "a textile pattern of squares or crossed lines (resembling a checkerboard)",
+      "sourceBranches": [
+        "a textile pattern of squares or crossed lines (resembling a checkerboard)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a pattern on cloth, made of squares or of lines that cross one another, like the board used in the game of draughts",
+      "scope": "Not the cloth itself, and not a single mark placed beside an item.",
+      "examples": [
+        "He wore a jacket in a bold red and black check.",
+        "The curtains had a small blue check running through them."
+      ],
+      "branchCoverage": [
+        "a textile pattern of squares or crossed lines (resembling a checkerboard) -> a pattern on cloth, made of squares or of lines that cross one another, like the board used in the game of draughts"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%2:41:08::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "lessen the intensity of; temper; hold in restraint; hold or keep within limits",
+      "sourceBranches": [
+        "lessen the intensity of",
+        "temper",
+        "hold in restraint",
+        "hold or keep within limits"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "make something less strong or intense, soften it, keep it under control, and stop it from going past set limits",
+      "scope": "This is not stopping a moving thing suddenly, not blocking an opponent in a game, and not holding back a danger or an enemy.",
+      "examples": [
+        "The bank raised interest rates to check inflation.",
+        "She checked her anger and answered calmly."
+      ],
+      "branchCoverage": [
+        "lessen the intensity of -> make something less strong or intense",
+        "temper -> soften it",
+        "hold in restraint -> keep it under control",
+        "hold or keep within limits -> stop it from going past set limits"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Scope omits check%2:33:06 (danger/enemy); 'check inflation' fits it. Add the exclusion or replace the example."
+    },
+    {
+      "senseId": "check%2:36:00::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "mark into squares or draw squares on; draw crossed lines on",
+      "decision": "defer",
+      "reason": "The verb \"check\" meaning to mark cloth or paper into squares is not used in current English; the pattern survives as the adjective \"checked\". Every natural sentence either shows the noun pattern, which is a separate sense, or the tick-mark sense, so two idiomatic examples cannot be written.",
+      "sourceBranches": [
+        "mark into squares or draw squares on",
+        "draw crossed lines on"
+      ],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "verdict": "self-deferred",
+      "reviewerNote": "Examples forced: 'checked the paper into squares' and a mason 'checking' plaster are not idiomatic. Replace both."
+    },
+    {
+      "senseId": "check%2:42:08::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "be compatible, similar or consistent; coincide in their characteristics",
+      "sourceBranches": [
+        "be compatible, similar or consistent",
+        "coincide in their characteristics"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "fit together with another thing without conflict, be alike to it, and agree with it; match it in its features and details",
+      "scope": "Not asking someone in order to learn a fact, and not placing a mark on an item.",
+      "examples": [
+        "His account of the evening checks with hers in every detail.",
+        "The figures in the two ledgers check."
+      ],
+      "branchCoverage": [
+        "be compatible, similar or consistent -> fit together with another thing without conflict, be alike to it, and agree with it",
+        "coincide in their characteristics -> match it in its features and details"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%1:04:01::",
+      "lemma": "check",
+      "pos": "n",
+      "definition": "the act of restraining power or action or limiting excess",
+      "sourceBranches": [
+        "the act of restraining power or action or limiting excess"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of holding back someone's power or actions, or of keeping something from going too far",
+      "scope": "Not a thing that delays progress, and not the sudden stopping of a moving object.",
+      "examples": [
+        "The court acts as a check on the power of the president.",
+        "Parliament provides a check on hasty legislation."
+      ],
+      "branchCoverage": [
+        "the act of restraining power or action or limiting excess -> the act of holding back someone's power or actions, or of keeping something from going too far"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%1:04:02::",
+      "lemma": "check",
+      "pos": "n",
+      "definition": "obstructing an opponent in ice hockey",
+      "sourceBranches": [
+        "obstructing an opponent in ice hockey"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of getting in the way of a player on the other team during a game of ice hockey",
+      "scope": "Not the general act of limiting power, and not the holding back of a danger or an enemy.",
+      "examples": [
+        "He was sent to the penalty box for a hard check along the boards.",
+        "The referee called a check from behind and gave him two minutes."
+      ],
+      "branchCoverage": [
+        "obstructing an opponent in ice hockey -> the act of getting in the way of a player on the other team during a game of ice hockey"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%1:09:02::",
+      "lemma": "check",
+      "pos": "n",
+      "definition": "something immaterial that interferes with or delays action or progress",
+      "sourceBranches": [
+        "something immaterial that interferes with or delays action or progress"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "something not physical, such as a rule or a feeling, that gets in the way of action or slows progress down",
+      "scope": "Not the act of limiting someone's power, and not a mark on paper.",
+      "examples": [
+        "Lack of money was the main check on the project.",
+        "Her fear of failure became a check on her career."
+      ],
+      "branchCoverage": [
+        "something immaterial that interferes with or delays action or progress -> something not physical, such as a rule or a feeling, that gets in the way of action or slows progress down"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%1:10:01::",
+      "lemma": "check",
+      "pos": "n",
+      "definition": "a mark indicating that something has been noted or completed etc.",
+      "sourceBranches": [
+        "a mark indicating that something has been noted or completed etc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a mark showing that an item has been noticed, dealt with, or finished",
+      "scope": "Not the act of making the mark, and not a pattern of squares on cloth.",
+      "examples": [
+        "There was a check beside every name on the list.",
+        "The teacher put a check next to the correct answers."
+      ],
+      "branchCoverage": [
+        "a mark indicating that something has been noted or completed etc -> a mark showing that an item has been noticed, dealt with, or finished"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'small' and 'beside'; a check mark can be in a box. Drop the size and position conditions."
+    },
+    {
+      "senseId": "check%2:30:10::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "arrest the motion (of something) abruptly",
+      "sourceBranches": [
+        "arrest the motion (of something) abruptly"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "stop something that is moving, suddenly and completely",
+      "scope": "Not holding back a danger over time, and not making something less intense.",
+      "examples": [
+        "He checked his swing at the last second and the bat stayed still.",
+        "She checked her step at the edge of the cliff."
+      ],
+      "branchCoverage": [
+        "arrest the motion (of something) abruptly -> stop something that is moving, suddenly and completely"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%2:32:10::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "find out, learn, or determine with certainty, usually by making an inquiry or other effort",
+      "sourceBranches": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "find out or learn the truth about something and become certain of it, usually by asking someone or by making an effort to look into it",
+      "scope": "Not placing a mark on an item, and not testing whether two accounts agree.",
+      "examples": [
+        "I checked whether the train was running on time.",
+        "Could you check what time the meeting starts?"
+      ],
+      "branchCoverage": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort -> find out or learn the truth about something and become certain of it, usually by asking someone or by making an effort to look into it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%2:41:02::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "develop (a child's or animal's) behavior by instruction and practice; especially to teach self-control",
+      "decision": "defer",
+      "reason": "The verb \"check\" in the sense of training a child or animal to behave is archaic. Modern sentences with \"checked the child\" or \"checked the dog\" are read as restraint, which is a different sense, so two idiomatic examples cannot be written.",
+      "sourceBranches": [
+        "develop (a child's or animal's) behavior by instruction and practice",
+        "especially to teach self-control"
+      ],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "verdict": "self-deferred",
+      "reviewerNote": "Examples unnatural; 'checked the puppy/her' reads as restrained or reprimanded. Use 'disciplined/trained' or defer this rare sense."
+    },
+    {
+      "senseId": "check%2:41:14::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "block or impede (a player from the opposing team) in ice hockey",
+      "sourceBranches": [
+        "block or impede (a player from the opposing team) in ice hockey"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in ice hockey, use the body or stick to stop or slow down a player on the other team",
+      "scope": "This is the hockey action, not the noun for that move and not the general act of stopping an enemy.",
+      "examples": [
+        "He checked the winger hard into the boards, and the referee let it go.",
+        "You cannot check a player who does not have the puck."
+      ],
+      "branchCoverage": [
+        "block or impede (a player from the opposing team) in ice hockey -> in ice hockey, use the body or stick to stop or slow down a player on the other team"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%2:33:06::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "hold back, as of a danger or an enemy; check the expansion or influence of",
+      "sourceBranches": [
+        "hold back, as of a danger or an enemy",
+        "check the expansion or influence of"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "stop a danger or an enemy from advancing, spreading, or gaining more power",
+      "scope": "This is about stopping a threat or foe, not about training behavior and not about making a feeling less intense.",
+      "examples": [
+        "Troops were sent to check the enemy's advance through the valley.",
+        "New rules aim to check the spread of the disease."
+      ],
+      "branchCoverage": [
+        "hold back, as of a danger or an enemy -> stop a danger or an enemy from advancing",
+        "check the expansion or influence of -> spreading, or gaining more power"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%2:31:01::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "put a check mark on or near or next to",
+      "sourceBranches": [
+        "put a check mark on or near or next to"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "put a small mark shaped like a V on an item, or near it or beside it",
+      "scope": "This is the act of ticking a single item, not drawing a pattern of squares and not the tick itself as a thing.",
+      "examples": [
+        "Please check each name on the list as you confirm attendance.",
+        "She checked the box beside 'yes' on the questionnaire."
+      ],
+      "branchCoverage": [
+        "put a check mark on or near or next to -> put a small mark shaped like a V on an item, or near it or beside it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "check%2:32:07::",
+      "lemma": "check",
+      "pos": "v",
+      "definition": "write out a check on a bank account",
+      "decision": "defer",
+      "reason": "The verb use of \"check\" for writing a bank payment order is not current English; speakers write a check or a cheque, using the noun. Any sentence with \"checked the amount to someone\" reads as verified, so two idiomatic examples cannot be written.",
+      "sourceBranches": [
+        "write out a check on a bank account"
+      ],
+      "lemmaPartition": "check%1:06:00:: -> a cloth pattern of squares or crossed lines; check%2:41:08:: -> make something weaker or keep it under control; check%2:36:00:: -> mark a surface with squares or crossed lines; check%2:42:08:: -> agree with another account or set of facts; check%1:04:01:: -> the act of limiting someone's power or excess; check%1:04:02:: -> blocking an opponent in ice hockey; check%1:09:02:: -> something not physical that delays progress; check%1:10:01:: -> a mark showing an item was noted or done; check%2:30:10:: -> stop something's movement suddenly; check%2:32:10:: -> find out for certain by asking or looking; check%2:41:02:: -> train a child or animal to behave; check%2:41:14:: -> block an opposing player in ice hockey; check%2:33:06:: -> hold back a danger or an enemy; check%2:31:01:: -> put a tick mark next to an item; check%2:32:07:: -> write a bank order to pay from an account",
+      "verdict": "self-deferred",
+      "reviewerNote": "Examples are not English: 'checked the full amount to the landlord' reads as verified. The verb is rare; defer or rewrite."
+    },
+    {
+      "senseId": "development%1:22:00::",
+      "lemma": "development",
+      "pos": "n",
+      "definition": "processing a photosensitive material in order to make an image visible",
+      "sourceBranches": [
+        "processing a photosensitive material in order to make an image visible"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "treating a material that reacts to light so that a picture hidden in it becomes visible",
+      "scope": "This is the treatment that brings out a photo image, not the building of an area for a purpose.",
+      "examples": [
+        "The film was ruined because development took place in the wrong chemicals.",
+        "Careful development of the negative brought out detail that had been invisible."
+      ],
+      "branchCoverage": [
+        "processing a photosensitive material in order to make an image visible -> treating a material that reacts to light so that a picture hidden in it becomes visible"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "development%1:22:00:: -> the process that makes a photo image visible; development%1:15:00:: -> an area built for a particular purpose",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "development%1:15:00::",
+      "lemma": "development",
+      "pos": "n",
+      "definition": "a district that has been developed to serve some purpose",
+      "sourceBranches": [
+        "a district that has been developed to serve some purpose"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an area of land that has been built up or laid out for a particular use",
+      "scope": "This is a built-up area of land, not the treatment that brings out a photo image.",
+      "examples": [
+        "They moved into a new housing development on the edge of town.",
+        "The old docks have become a retail development with shops and restaurants."
+      ],
+      "branchCoverage": [
+        "a district that has been developed to serve some purpose -> an area of land that has been built up or laid out for a particular use"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "development%1:22:00:: -> the process that makes a photo image visible; development%1:15:00:: -> an area built for a particular purpose",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "form%1:03:00::",
+      "lemma": "form",
+      "pos": "n",
+      "definition": "the spatial arrangement of something as distinct from its substance",
+      "sourceBranches": [
+        "the spatial arrangement of something as distinct from its substance"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the way something is laid out in space, considered separately from the material it is made of",
+      "scope": "This is arrangement apart from material, not the outline seen from outside and not a printed sheet to fill in.",
+      "examples": [
+        "The sculptor spoke of form as something separate from the stone.",
+        "Philosophers argued about whether form could exist apart from matter."
+      ],
+      "branchCoverage": [
+        "the spatial arrangement of something as distinct from its substance -> the way something is laid out in space, considered separately from the material it is made of"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "form%1:03:00:: -> the shape something has, apart from its material; form%1:07:01:: -> the outline or shape of something; form%1:10:01:: -> a printed paper with blank spaces to fill in; form%1:10:02:: -> the way parts of a work are arranged; form%2:41:02:: -> fix an idea firmly in someone's mind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "form%1:07:01::",
+      "lemma": "form",
+      "pos": "n",
+      "definition": "any spatial attributes (especially as defined by outline)",
+      "sourceBranches": [
+        "any spatial attributes (especially as defined by outline)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the shape or outline of something, or any other feature of how it fills space",
+      "scope": "This is the outline and other space features, not the arrangement apart from material and not a printed sheet with blanks.",
+      "examples": [
+        "The mountain's jagged form stood out against the sky.",
+        "The cloud changed form as the wind pushed it east."
+      ],
+      "branchCoverage": [
+        "any spatial attributes (especially as defined by outline) -> the shape or outline of something, or any other feature of how it fills space"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "form%1:03:00:: -> the shape something has, apart from its material; form%1:07:01:: -> the outline or shape of something; form%1:10:01:: -> a printed paper with blank spaces to fill in; form%1:10:02:: -> the way parts of a work are arranged; form%2:41:02:: -> fix an idea firmly in someone's mind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "form%1:10:01::",
+      "lemma": "form",
+      "pos": "n",
+      "definition": "a printed document with spaces in which to write",
+      "sourceBranches": [
+        "a printed document with spaces in which to write"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a printed sheet or document with empty spaces for you to write in",
+      "scope": "This is a paper to fill in, not the way a work is arranged and not the shape of a thing.",
+      "examples": [
+        "Please complete the application form and return it by Friday.",
+        "The nurse handed him a form to fill in at the desk."
+      ],
+      "branchCoverage": [
+        "a printed document with spaces in which to write -> a printed sheet or document with empty spaces for you to write in"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "form%1:03:00:: -> the shape something has, apart from its material; form%1:07:01:: -> the outline or shape of something; form%1:10:01:: -> a printed paper with blank spaces to fill in; form%1:10:02:: -> the way parts of a work are arranged; form%2:41:02:: -> fix an idea firmly in someone's mind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "form%1:10:02::",
+      "lemma": "form",
+      "pos": "n",
+      "definition": "an arrangement of the elements in a composition or discourse",
+      "sourceBranches": [
+        "an arrangement of the elements in a composition or discourse"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the way the parts of a piece of writing, music, or speech are put together",
+      "scope": "This is how the parts of a work are organized, not a paper with blanks and not a physical outline.",
+      "examples": [
+        "The essay's form is unusual: it begins with the conclusion.",
+        "In sonata form, the themes return in a set order."
+      ],
+      "branchCoverage": [
+        "an arrangement of the elements in a composition or discourse -> the way the parts of a piece of writing, music, or speech are put together"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "form%1:03:00:: -> the shape something has, apart from its material; form%1:07:01:: -> the outline or shape of something; form%1:10:01:: -> a printed paper with blank spaces to fill in; form%1:10:02:: -> the way parts of a work are arranged; form%2:41:02:: -> fix an idea firmly in someone's mind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "form%2:41:02::",
+      "lemma": "form",
+      "pos": "v",
+      "definition": "establish or impress firmly in the mind",
+      "sourceBranches": [
+        "establish or impress firmly in the mind"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "fix an idea or habit firmly in someone's mind",
+      "scope": "This is about fixing an idea in the mind, not about giving a shape to an object.",
+      "examples": [
+        "His years at the school formed in him a strong sense of duty.",
+        "The habit was formed in childhood and never left him."
+      ],
+      "branchCoverage": [
+        "establish or impress firmly in the mind -> fix an idea or habit firmly in someone's mind"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "form%1:03:00:: -> the shape something has, apart from its material; form%1:07:01:: -> the outline or shape of something; form%1:10:01:: -> a printed paper with blank spaces to fill in; form%1:10:02:: -> the way parts of a work are arranged; form%2:41:02:: -> fix an idea firmly in someone's mind",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "heart%1:25:00::",
+      "lemma": "heart",
+      "pos": "n",
+      "definition": "a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines",
+      "sourceBranches": [
+        "a plane figure with rounded sides curving inward at the top and intersecting at the bottom",
+        "conventionally used on playing cards and valentines"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a flat shape with two rounded parts that curve inward at the top and meet in a point at the bottom, often seen on playing cards and valentines",
+      "scope": "This is the drawn symbol, not the organ in the chest, the card suit, or the central part of something.",
+      "examples": [
+        "She folded the paper and cut out a heart for the card.",
+        "The chocolates were arranged in a box shaped like a heart."
+      ],
+      "branchCoverage": [
+        "a plane figure with rounded sides curving inward at the top and intersecting at the bottom -> a flat shape with two rounded parts that curve inward at the top and meet in a point at the bottom",
+        "conventionally used on playing cards and valentines -> often seen on playing cards and valentines"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "heart%1:25:00:: -> a shape with two rounded lobes meeting in a point; heart%1:09:01:: -> the most important or central part of something; heart%1:13:00:: -> a firm, dry cut of meat, often beef or veal; heart%1:06:00:: -> a playing card of the red suit marked with hearts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "heart%1:09:01::",
+      "lemma": "heart",
+      "pos": "n",
+      "definition": "the choicest or most essential or most vital part of some idea or experience",
+      "sourceBranches": [
+        "the choicest or most essential or most vital part of some idea or experience"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The best, most needed or most important part of an idea or of something someone experiences.",
+      "scope": "This is not the shape with two rounded lobes, the cut of meat or the playing card; it is the most valuable, central part of an idea or an experience.",
+      "examples": [
+        "The heart of the matter is that neither side trusts the other.",
+        "We argued about details for hours, but the heart of her argument was simple: people need hope."
+      ],
+      "branchCoverage": [
+        "the choicest or most essential or most vital part of some idea or experience -> The best, most needed or most important part of an idea or of something someone experiences"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "heart%1:25:00:: -> a shape with two rounded lobes meeting in a point; heart%1:09:01:: -> the most important or central part of something; heart%1:13:00:: -> a firm, dry cut of meat, often beef or veal; heart%1:06:00:: -> a playing card of the red suit marked with hearts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "heart%1:13:00::",
+      "lemma": "heart",
+      "pos": "n",
+      "definition": "a firm rather dry variety meat (usually beef or veal)",
+      "sourceBranches": [
+        "a firm rather dry variety meat (usually beef or veal)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A fairly firm, somewhat dry meat that comes from an animal's organs rather than its usual muscle cuts, most often from a cow or a calf.",
+      "scope": "This is not the organ as part of a body, the central part of an idea or a playing card; it is meat from such an organ, eaten as food.",
+      "examples": [
+        "The butcher suggested braising the heart slowly, because it is a firm, dry meat.",
+        "She grew up on a farm where beef heart was a cheap and filling Sunday dinner."
+      ],
+      "branchCoverage": [
+        "a firm rather dry variety meat (usually beef or veal) -> A fairly firm, somewhat dry meat that comes from an animal's organs rather than its usual muscle cuts, most often from a cow or a calf"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "heart%1:25:00:: -> a shape with two rounded lobes meeting in a point; heart%1:09:01:: -> the most important or central part of something; heart%1:13:00:: -> a firm, dry cut of meat, often beef or veal; heart%1:06:00:: -> a playing card of the red suit marked with hearts",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "heart%1:06:00::",
+      "lemma": "heart",
+      "pos": "n",
+      "definition": "a playing card in the major suit that has one or more red hearts on it",
+      "sourceBranches": [
+        "a playing card in the major suit that has one or more red hearts on it"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A playing card from one of the two top suits, marked with one or more red symbols that have two rounded tops meeting in a point.",
+      "scope": "This is not the suit as a whole, the red shape printed on the card or a cut of meat; it is a single card belonging to that suit.",
+      "examples": [
+        "She laid down the queen of hearts and smiled at her partner.",
+        "He needed one more heart to complete his flush."
+      ],
+      "branchCoverage": [
+        "a playing card in the major suit that has one or more red hearts on it -> A playing card from one of the two top suits, marked with one or more red symbols that have two rounded tops meeting in a point"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "heart%1:25:00:: -> a shape with two rounded lobes meeting in a point; heart%1:09:01:: -> the most important or central part of something; heart%1:13:00:: -> a firm, dry cut of meat, often beef or veal; heart%1:06:00:: -> a playing card of the red suit marked with hearts",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "31 words; trim to 30 or fewer, e.g. drop 'in games such as bridge' and shorten the symbol clause."
+    },
+    {
+      "senseId": "act%2:33:00::",
+      "lemma": "act",
+      "pos": "v",
+      "definition": "discharge one's duties",
+      "sourceBranches": [
+        "discharge one's duties"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To carry out the tasks that your job or official position requires of you.",
+      "scope": "This is not performing a part on stage, behaving in a put-on way or taking any action at all; it is doing what a job or post requires.",
+      "examples": [
+        "He acted as head of the firm for a year while the owner was ill.",
+        "The mayor acted in his official capacity, opening the new bridge and greeting the crowd."
+      ],
+      "branchCoverage": [
+        "discharge one's duties -> To carry out the tasks that your job or official position requires of you"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "act%2:33:00:: -> carry out the duties of a job or role; act%2:36:04:: -> behave in an unnatural or put-on way",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "act%2:36:04::",
+      "lemma": "act",
+      "pos": "v",
+      "definition": "behave unnaturally or affectedly",
+      "sourceBranches": [
+        "behave unnaturally or affectedly"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To behave in an unnatural way, putting on a manner or style that is not really your own.",
+      "scope": "This is not performing a character on stage, carrying out the duties of a job or simply doing something; it is putting on a false manner in ordinary life.",
+      "examples": [
+        "He was acting all evening, laughing at jokes he did not find funny.",
+        "He was only acting when he said he cared."
+      ],
+      "branchCoverage": [
+        "behave unnaturally or affectedly -> To behave in an unnatural way, putting on a manner or style that is not really your own"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "act%2:33:00:: -> carry out the duties of a job or role; act%2:36:04:: -> behave in an unnatural or put-on way",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Acted the part' belongs to the stage-role sense; replace with a real-life pretense example, e.g. 'He was only acting when he said he cared.'"
+    },
+    {
+      "senseId": "fire%1:27:01::",
+      "lemma": "fire",
+      "pos": "n",
+      "definition": "once thought to be one of four elements composing the universe (Empedocles), associated with the humour bile",
+      "sourceBranches": [
+        "once thought to be one of four elements composing the universe (Empedocles), associated with the humour bile"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "One of the four basic substances once believed to make up the universe, as the Greek thinker Empedocles taught, and which old medicine linked with yellow bile, one of the four bodily fluids thought to shape a person's health and temper.",
+      "scope": "This is not a flame you can see, a blaze burning in a grate or strong criticism; it is one of the four basic substances of ancient cosmology.",
+      "examples": [
+        "For Empedocles, fire was one of the four roots of all things, alongside earth, air and water.",
+        "Medieval doctors matched each of the four elements with a humour, so fire was paired with yellow bile."
+      ],
+      "branchCoverage": [
+        "once thought to be one of four elements composing the universe (Empedocles), associated with the humour bile -> One of the four basic substances once believed to make up the universe, as the Greek thinker Empedocles taught, and which old medicine linked with yellow bile, one of the four bodily fluids thought to shape a person's health and temper"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fire%1:27:01:: -> one of the four elements of ancient cosmology; fire%1:06:00:: -> a fireplace with a small fire burning in it; fire%1:10:00:: -> very strong criticism; fire%2:37:00:: -> cause an emotion or response; fire%2:41:00:: -> remove someone from their job",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fire%1:06:00::",
+      "lemma": "fire",
+      "pos": "n",
+      "definition": "a fireplace in which a relatively small fire is burning",
+      "sourceBranches": [
+        "a fireplace in which a relatively small fire is burning"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The opening built into a wall at the base of a chimney, where a small fire is kept burning.",
+      "scope": "This is not the fire on its own, a large uncontrolled burning or the ancient element; it is the built opening together with the small fire inside it.",
+      "examples": [
+        "We pulled our chairs up to the fire and watched the logs settle into embers.",
+        "A small fire was burning in the grate when we came in from the snow."
+      ],
+      "branchCoverage": [
+        "a fireplace in which a relatively small fire is burning -> The opening built into a wall at the base of a chimney, where a small fire is kept burning"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fire%1:27:01:: -> one of the four elements of ancient cosmology; fire%1:06:00:: -> a fireplace with a small fire burning in it; fire%1:10:00:: -> very strong criticism; fire%2:37:00:: -> cause an emotion or response; fire%2:41:00:: -> remove someone from their job",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "A 'blaze' is a large fire, contradicting 'relatively small'; say 'small fire' in gloss and scope."
+    },
+    {
+      "senseId": "fire%1:10:00::",
+      "lemma": "fire",
+      "pos": "n",
+      "definition": "intense adverse criticism",
+      "sourceBranches": [
+        "intense adverse criticism"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Very strong criticism that is directed against a person or thing.",
+      "scope": "This is not a burning blaze or a burst of anger; it is a heavy wave of hostile criticism.",
+      "examples": [
+        "The minister came under fire for his remarks about the poor.",
+        "The proposal drew heavy fire from local residents at the public meeting."
+      ],
+      "branchCoverage": [
+        "intense adverse criticism -> Very strong criticism that is directed against a person or thing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fire%1:27:01:: -> one of the four elements of ancient cosmology; fire%1:06:00:: -> a fireplace with a small fire burning in it; fire%1:10:00:: -> very strong criticism; fire%2:37:00:: -> cause an emotion or response; fire%2:41:00:: -> remove someone from their job",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fire%2:37:00::",
+      "lemma": "fire",
+      "pos": "v",
+      "definition": "call forth (emotions, feelings, and responses)",
+      "sourceBranches": [
+        "call forth (emotions, feelings, and responses)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To bring out or stir up an emotion, a feeling or a reaction in someone.",
+      "scope": "This is not setting something alight, dismissing someone from work or shooting a gun; it is bringing an emotion, feeling or reaction to life in someone.",
+      "examples": [
+        "Her speech fired the enthusiasm of everyone in the hall.",
+        "The story fired his imagination, and he began to write."
+      ],
+      "branchCoverage": [
+        "call forth (emotions, feelings, and responses) -> To bring out or stir up an emotion, a feeling or a reaction in someone"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fire%1:27:01:: -> one of the four elements of ancient cosmology; fire%1:06:00:: -> a fireplace with a small fire burning in it; fire%1:10:00:: -> very strong criticism; fire%2:37:00:: -> cause an emotion or response; fire%2:41:00:: -> remove someone from their job",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fire%2:41:00::",
+      "lemma": "fire",
+      "pos": "v",
+      "definition": "terminate the employment of; discharge from an office or position",
+      "sourceBranches": [
+        "terminate the employment of",
+        "discharge from an office or position"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "To bring someone's paid work to an end, or to remove them from an office or position they hold.",
+      "scope": "This is not setting something alight, shooting a weapon or stirring up a feeling; it is ending someone's employment or removing them from a post.",
+      "examples": [
+        "The company fired him for repeatedly arriving late.",
+        "After the scandal, the board fired the director and appointed an interim replacement."
+      ],
+      "branchCoverage": [
+        "terminate the employment of -> To bring someone's paid work to an end",
+        "discharge from an office or position -> to remove them from an office or position they hold"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "fire%1:27:01:: -> one of the four elements of ancient cosmology; fire%1:06:00:: -> a fireplace with a small fire burning in it; fire%1:10:00:: -> very strong criticism; fire%2:37:00:: -> cause an emotion or response; fire%2:41:00:: -> remove someone from their job",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fun%1:07:00::",
+      "lemma": "fun",
+      "pos": "n",
+      "definition": "a disposition to find (or make) causes for amusement",
+      "sourceBranches": [
+        "a disposition to find (or make) causes for amusement"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A natural tendency to look for, or to create, things that give you amusement.",
+      "scope": "This is not an amusing event or the pleasure you get from it; it is the tendency to look for or create amusement.",
+      "examples": [
+        "She has a real sense of fun and can turn a boring train ride into an adventure.",
+        "His sense of fun led him to fill the office with paper planes on his last day."
+      ],
+      "branchCoverage": [
+        "a disposition to find (or make) causes for amusement -> A natural tendency to look for, or to create, things that give you amusement"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "living%5:00:00:live:01",
+      "lemma": "living",
+      "pos": "a",
+      "definition": "(used of minerals or stone) in its natural state and place; not mined or quarried",
+      "sourceBranches": [
+        "(used of minerals or stone) in its natural state and place",
+        "not mined or quarried"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Stone or mineral left in the natural place where it formed, not mined or quarried.",
+      "scope": "This is not the sense that describes a creature that is not dead, nor a language still in use; it applies only to rock or minerals left in the ground where they formed.",
+      "examples": [
+        "The chapel was carved directly into living rock.",
+        "They built the cellar into the living rock instead of using quarried blocks."
+      ],
+      "branchCoverage": [
+        "(used of minerals or stone) in its natural state and place -> Stone or mineral left in the natural place where it formed",
+        "not mined or quarried -> not mined or quarried"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "31 words; trim to 30 or fewer, e.g. 'Stone or mineral still in its natural state and place, not mined or quarried.'"
+    },
+    {
+      "senseId": "major%3:00:05::",
+      "lemma": "major",
+      "pos": "a",
+      "definition": "of the field of academic study in which one concentrates or specializes",
+      "sourceBranches": [
+        "of the field of academic study in which one concentrates or specializes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "of the academic subject that a student concentrates on or specializes in at college or university",
+      "scope": "This is about a chosen field of study, not about something large or important, and not about a military rank.",
+      "examples": [
+        "His major field is ancient history.",
+        "Students must pass exams in both their major and minor subjects."
+      ],
+      "branchCoverage": [
+        "of the field of academic study in which one concentrates or specializes -> of the academic subject that a student concentrates on or specializes in at college or university"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "art%1:10:00::",
+      "lemma": "art",
+      "pos": "n",
+      "definition": "photographs or other visual representations in a printed publication",
+      "sourceBranches": [
+        "photographs or other visual representations in a printed publication"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "photographs and other visual images printed in a book, magazine or similar publication",
+      "scope": "This is only the pictures printed inside a publication, not creative skill and not the fine arts in general.",
+      "examples": [
+        "The editor was unhappy with the art in the new issue.",
+        "The cookbook's art includes dozens of full-page photographs."
+      ],
+      "branchCoverage": [
+        "photographs or other visual representations in a printed publication -> photographs and other visual images printed in a book, magazine or similar publication"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "building%1:14:00::",
+      "lemma": "building",
+      "pos": "n",
+      "definition": "the occupants of a building",
+      "sourceBranches": [
+        "the occupants of a building"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the people who live in or use a particular structure, thought of as a group",
+      "scope": "This means the people inside a structure, not the structure itself.",
+      "examples": [
+        "The whole building came out to watch the parade.",
+        "Half the building turned up for the fire drill."
+      ],
+      "branchCoverage": [
+        "the occupants of a building -> the people who live in or use a particular structure, thought of as a group"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "easy%5:00:00:rich:00",
+      "lemma": "easy",
+      "pos": "a",
+      "definition": "in fortunate circumstances financially; moderately rich",
+      "sourceBranches": [
+        "in fortunate circumstances financially",
+        "moderately rich"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in a lucky financial position; fairly wealthy but not extremely so",
+      "scope": "This is about money and comfort, not about something simple to do, not about a gentle slope, and not about being relaxed.",
+      "examples": [
+        "He was born into easy circumstances and never worried about money.",
+        "The settlement left them on easy street for the rest of their lives."
+      ],
+      "branchCoverage": [
+        "in fortunate circumstances financially -> in a lucky financial position",
+        "moderately rich -> fairly wealthy but not extremely so"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "easy%5:00:00:rich:00 -> fairly rich and comfortable financially; easy%5:00:00:gradual:02 -> gently sloping, not steep; easy%5:00:00:impressionable:00 -> easily tricked or taken advantage of",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "easy%5:00:00:gradual:02",
+      "lemma": "easy",
+      "pos": "a",
+      "definition": "marked by moderate steepness",
+      "sourceBranches": [
+        "marked by moderate steepness"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "having a gentle slope, rising or falling at a moderate angle rather than sharply",
+      "scope": "This describes the angle of a slope, not something simple to do, not financial comfort, and not being relaxed.",
+      "examples": [
+        "The path climbs at an easy gradient for the first mile.",
+        "The beach has an easy slope into the water, which suits small children."
+      ],
+      "branchCoverage": [
+        "marked by moderate steepness -> having a gentle slope, rising or falling at a moderate angle rather than sharply"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "easy%5:00:00:rich:00 -> fairly rich and comfortable financially; easy%5:00:00:gradual:02 -> gently sloping, not steep; easy%5:00:00:impressionable:00 -> easily tricked or taken advantage of",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "'Easy route' reads as 'not difficult', not a gentle slope; replace with e.g. 'an easy gradient up the hill'."
+    },
+    {
+      "senseId": "easy%5:00:00:impressionable:00",
+      "lemma": "easy",
+      "pos": "a",
+      "definition": "readily exploited or tricked",
+      "sourceBranches": [
+        "readily exploited or tricked"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "quick to be tricked or used unfairly by other people",
+      "scope": "This is about being fooled or taken advantage of, not about something simple, not about a slope, and not about money.",
+      "examples": [
+        "The con man looked for easy customers who trusted every promise.",
+        "Teenagers can be easy prey for online scams."
+      ],
+      "branchCoverage": [
+        "readily exploited or tricked -> quick to be tricked or used unfairly by other people"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "easy%5:00:00:rich:00 -> fairly rich and comfortable financially; easy%5:00:00:gradual:02 -> gently sloping, not steep; easy%5:00:00:impressionable:00 -> easily tricked or taken advantage of",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "market%1:14:01::",
+      "lemma": "market",
+      "pos": "n",
+      "definition": "the securities markets in the aggregate",
+      "sourceBranches": [
+        "the securities markets in the aggregate"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the whole system of buying and selling stocks and bonds, seen as one combined thing",
+      "scope": "This is the trading system for stocks and bonds, not a shop or a place selling goods, and not the demand for a product.",
+      "examples": [
+        "The market reacted badly to the news about interest rates.",
+        "Investors pulled their money out of the market during the crisis."
+      ],
+      "branchCoverage": [
+        "the securities markets in the aggregate -> the whole system of buying and selling stocks and bonds, seen as one combined thing"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ready%5:00:00:intelligent:00",
+      "lemma": "ready",
+      "pos": "a",
+      "definition": "apprehending and responding with speed and sensitivity",
+      "sourceBranches": [
+        "apprehending and responding with speed and sensitivity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "understanding things quickly and reacting to them with keen awareness",
+      "scope": "This is about quick understanding and sharp reaction, not about being prepared or willing, and not about being available for use.",
+      "examples": [
+        "She has a ready wit and always finds the right reply.",
+        "He gave a ready answer, which showed he had understood at once."
+      ],
+      "branchCoverage": [
+        "apprehending and responding with speed and sensitivity -> understanding things quickly and reacting to them with keen awareness"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "street%1:14:00::",
+      "lemma": "street",
+      "pos": "n",
+      "definition": "people living or working on the same street",
+      "sourceBranches": [
+        "people living or working on the same street"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the people who live or work along one particular road, considered together",
+      "scope": "This means the people of one road as a group, not the road itself and not a public way in general.",
+      "examples": [
+        "The whole street turned out for the summer party.",
+        "Our street raises money for charity every December."
+      ],
+      "branchCoverage": [
+        "people living or working on the same street -> the people who live or work along one particular road, considered together"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bring%2:30:00::",
+      "lemma": "bring",
+      "pos": "v",
+      "definition": "bring into a different state",
+      "sourceBranches": [
+        "bring into a different state"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "cause something to reach a different condition or situation",
+      "scope": "This is about making something change into another condition, not about carrying an object to a place, and not about going to get something.",
+      "examples": [
+        "The new manager brought the company to the edge of ruin.",
+        "Her speech brought the crowd to silence."
+      ],
+      "branchCoverage": [
+        "bring into a different state -> cause something to reach a different condition or situation"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bring%2:30:00:: -> cause something to reach a different state; bring%2:35:00:: -> go and get something, then carry it back",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bring%2:35:00::",
+      "lemma": "bring",
+      "pos": "v",
+      "definition": "go or come after and bring or take back",
+      "sourceBranches": [
+        "go or come after and bring or take back"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "go after something and carry it back to the starting place",
+      "scope": "This is about going for an object and returning with it, not about causing something to reach a new state.",
+      "examples": [
+        "He went upstairs to bring down his coat.",
+        "The dog ran off and would not bring the stick back."
+      ],
+      "branchCoverage": [
+        "go or come after and bring or take back -> go after something and carry it back to the starting place"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "bring%2:30:00:: -> cause something to reach a different state; bring%2:35:00:: -> go and get something, then carry it back",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "example%1:04:00::",
+      "lemma": "example",
+      "pos": "n",
+      "definition": "a task performed or problem solved in order to develop skill or understanding",
+      "sourceBranches": [
+        "a task performed or problem solved in order to develop skill or understanding"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a piece of work or a problem done in order to build a skill or understanding",
+      "scope": "This is a practice task or problem, not a case that illustrates a rule, and not a person who serves as a model.",
+      "examples": [
+        "Each lesson ends with an example for you to complete on your own.",
+        "The students solved the example at the end of the chapter to practise the new method."
+      ],
+      "branchCoverage": [
+        "a task performed or problem solved in order to develop skill or understanding -> a piece of work or a problem done in order to build a skill or understanding"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

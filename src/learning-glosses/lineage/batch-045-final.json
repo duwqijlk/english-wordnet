@@ -1,0 +1,1161 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 45,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "web%1:05:02::",
+      "first%1:04:00::"
+    ],
+    "lineage": {
+      "draft": "ba97f0b10764b6df3357195eda77dc9fc2e6e222983d064166dcc0cc5435f306"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "perform%2:36:00::",
+      "lemma": "perform",
+      "pos": "v",
+      "definition": "carry out or perform an action",
+      "decision": "gloss",
+      "simpleMeaning": "To carry out an action or complete a piece of work.",
+      "scope": "This is about carrying out an action or task, not about a machine working and not about acting on a stage.",
+      "examples": [
+        "The surgeon performed the operation in less than an hour.",
+        "She performed her duties without complaint."
+      ],
+      "branchCoverage": [
+        "carry out or perform an action -> To carry out an action or complete a piece of work"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "carry out or perform an action"
+      ],
+      "lemmaPartition": "perform%2:36:00:: = to carry out an action or task; perform%2:41:02:: = to work or operate as intended, as a machine or organ",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "perform%2:41:02::",
+      "lemma": "perform",
+      "pos": "v",
+      "definition": "perform a function",
+      "decision": "gloss",
+      "simpleMeaning": "To carry out the job it is meant to do, as a machine, device, or organ.",
+      "scope": "This is about a thing working or functioning as intended, not about carrying out a task and not about acting on a stage.",
+      "examples": [
+        "The new engine performs well even in cold weather.",
+        "Her kidneys are no longer performing properly."
+      ],
+      "branchCoverage": [
+        "perform a function -> To carry out the job it is meant to do, as a machine, device, or organ"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "perform a function"
+      ],
+      "lemmaPartition": "perform%2:36:00:: = to carry out an action or task; perform%2:41:02:: = to work or operate as intended, as a machine or organ",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "do%2:29:09::",
+      "lemma": "do",
+      "pos": "v",
+      "definition": "behave in a certain manner; show a certain behavior; conduct or comport oneself",
+      "decision": "gloss",
+      "simpleMeaning": "To act or carry yourself in a particular way, showing a particular kind of behavior.",
+      "scope": "This is about the way someone acts or carries themselves, not about being enough and not about completing a task.",
+      "examples": [
+        "Do as I say, not as I do.",
+        "He does exactly as he is told."
+      ],
+      "branchCoverage": [
+        "behave in a certain manner -> To act ... in a particular way",
+        "show a certain behavior -> showing a particular kind of behavior",
+        "conduct or comport oneself -> carry yourself"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "behave in a certain manner",
+        "show a certain behavior",
+        "conduct or comport oneself"
+      ],
+      "lemmaPartition": "do%2:29:09:: = to act or carry yourself in a particular way; do%2:42:01:: = to be enough for what is needed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "do%2:42:01::",
+      "lemma": "do",
+      "pos": "v",
+      "definition": "be sufficient; be adequate, either in quality or quantity",
+      "decision": "gloss",
+      "simpleMeaning": "To be enough for what is needed, whether in quality or in amount.",
+      "scope": "This means something is enough for the purpose, not that someone behaves in a certain way.",
+      "examples": [
+        "This old coat will do for another winter.",
+        "A few sandwiches should do for lunch."
+      ],
+      "branchCoverage": [
+        "be sufficient -> To be enough for what is needed",
+        "be adequate, either in quality or quantity -> whether in quality or in amount"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be sufficient",
+        "be adequate, either in quality or quantity"
+      ],
+      "lemmaPartition": "do%2:29:09:: = to act or carry yourself in a particular way; do%2:42:01:: = to be enough for what is needed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "common%5:00:00:unrefined:01",
+      "lemma": "common",
+      "pos": "a",
+      "definition": "lacking refinement or cultivation or taste",
+      "decision": "gloss",
+      "simpleMeaning": "Rough in manner and lacking good taste or polite upbringing.",
+      "scope": "This describes coarse or vulgar manners and taste, not something that happens often or is shared by many.",
+      "examples": [
+        "She found his loud jokes rather common.",
+        "The way he spoke at dinner struck her as common."
+      ],
+      "branchCoverage": [
+        "lacking refinement or cultivation or taste -> Rough in manner and lacking good taste or polite upbringing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "lacking refinement or cultivation or taste"
+      ],
+      "lemmaPartition": "common%5:00:00:unrefined:01 = coarse in manner, lacking good taste; common%5:00:00:familiar:02 = often seen or found, usual",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "common%5:00:00:familiar:02",
+      "lemma": "common",
+      "pos": "a",
+      "definition": "commonly encountered",
+      "decision": "gloss",
+      "simpleMeaning": "Encountered often; usual and not rare.",
+      "scope": "This means frequent or usual, not coarse or vulgar in manner.",
+      "examples": [
+        "Colds are common in winter.",
+        "It is common for tourists to get lost in the old town."
+      ],
+      "branchCoverage": [
+        "commonly encountered -> Encountered often; usual and not rare"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "commonly encountered"
+      ],
+      "lemmaPartition": "common%5:00:00:unrefined:01 = coarse in manner, lacking good taste; common%5:00:00:familiar:02 = often seen or found, usual",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "words%1:10:00::",
+      "lemma": "words",
+      "pos": "n",
+      "definition": "words making up the dialogue of a play",
+      "decision": "gloss",
+      "simpleMeaning": "The spoken text that the characters in a play say aloud.",
+      "scope": "This is the scripted speech of a play, not a single vocabulary item and not the text of a song.",
+      "examples": [
+        "The actor forgot the words halfway through the second act.",
+        "She spent the evening learning the words for her new role."
+      ],
+      "branchCoverage": [
+        "words making up the dialogue of a play -> The spoken text that the characters in a play say aloud"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "words making up the dialogue of a play"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "web%1:05:02::",
+      "lemma": "web",
+      "pos": "n",
+      "definition": "membrane connecting the toes of some aquatic birds and mammals",
+      "decision": "gloss",
+      "simpleMeaning": "A thin fold of skin joining the toes of some swimming birds and mammals.",
+      "scope": "This is the skin between an animal's toes, not woven cloth and not the internet.",
+      "examples": [
+        "A duck's foot has a web of skin between the toes.",
+        "An otter's paws are joined by a web of skin."
+      ],
+      "branchCoverage": [
+        "membrane connecting the toes of some aquatic birds and mammals -> A thin fold of skin joining the toes of some swimming birds and mammals"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "membrane connecting the toes of some aquatic birds and mammals"
+      ],
+      "lemmaPartition": "web%1:05:02:: = skin joining the toes of swimming birds and mammals; web%1:06:02:: = the linked system of internet sites; web%1:06:01:: = woven cloth, especially cloth still on the loom",
+      "verdict": "self-approved",
+      "reviewerNote": "Frog is an amphibian, contradicting the 'birds and mammals' gloss; use a mammal or bird."
+    },
+    {
+      "senseId": "web%1:06:02::",
+      "lemma": "web",
+      "pos": "n",
+      "definition": "computer network consisting of a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol",
+      "decision": "gloss",
+      "simpleMeaning": "The linked system of internet sites that offer text, pictures, sound and video, reached through a common set of rules for sending pages.",
+      "scope": "This is the internet system of linked sites, not an animal's skin fold and not woven cloth.",
+      "examples": [
+        "I found the recipe on the web.",
+        "She spends hours browsing the web for cheap flights."
+      ],
+      "branchCoverage": [
+        "computer network consisting of a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol -> The linked system of internet sites that offer text, pictures, sound and video, reached through a common set of rules for sending pages"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "computer network consisting of a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol"
+      ],
+      "lemmaPartition": "web%1:05:02:: = skin joining the toes of swimming birds and mammals; web%1:06:02:: = the linked system of internet sites; web%1:06:01:: = woven cloth, especially cloth still on the loom",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "web%1:06:01::",
+      "lemma": "web",
+      "pos": "n",
+      "definition": "a fabric (especially a fabric in the process of being woven)",
+      "decision": "gloss",
+      "simpleMeaning": "Woven cloth, especially cloth still being made on a loom.",
+      "scope": "This is woven cloth, not an animal's skin fold and not the internet.",
+      "examples": [
+        "The weaver inspected the web for loose threads.",
+        "A fine web of silk stretched across the loom."
+      ],
+      "branchCoverage": [
+        "a fabric (especially a fabric in the process of being woven) -> Woven cloth, especially cloth still being made on a loom"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a fabric (especially a fabric in the process of being woven)"
+      ],
+      "lemmaPartition": "web%1:05:02:: = skin joining the toes of swimming birds and mammals; web%1:06:02:: = the linked system of internet sites; web%1:06:01:: = woven cloth, especially cloth still on the loom",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "be%2:42:13::",
+      "lemma": "be",
+      "pos": "v",
+      "definition": "to remain unmolested, undisturbed, or uninterrupted — used only in infinitive form",
+      "decision": "gloss",
+      "simpleMeaning": "To stay free from interference, disturbance, or interruption.",
+      "scope": "This means leaving someone or something alone and undisturbed, not existing or having a quality.",
+      "examples": [
+        "She asked them to leave her be.",
+        "Let it be; we can sort it out tomorrow."
+      ],
+      "branchCoverage": [
+        "to remain unmolested, undisturbed, or uninterrupted — used only in infinitive form -> To stay free from interference, disturbance, or interruption"
+      ],
+      "labelBranches": [
+        "used only in infinitive form (grammar restriction on the verb form, not meaning content)"
+      ],
+      "sourceBranches": [
+        "to remain unmolested, undisturbed, or uninterrupted — used only in infinitive form"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "have%2:29:05::",
+      "lemma": "have",
+      "pos": "v",
+      "definition": "undergo (as of injuries and illnesses)",
+      "decision": "gloss",
+      "simpleMeaning": "To go through or suffer an injury or an illness.",
+      "scope": "This is about suffering an injury or illness, not about eating and drinking and not about owning something.",
+      "examples": [
+        "He had a heart attack last year but recovered well.",
+        "She was having chest pains after the fall."
+      ],
+      "branchCoverage": [
+        "undergo (as of injuries and illnesses) -> To go through or suffer an injury or an illness"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "undergo (as of injuries and illnesses)"
+      ],
+      "lemmaPartition": "have%2:29:05:: = to suffer an injury or illness; have%2:34:00:: = to eat or drink, especially as a regular meal or habit",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "have%2:34:00::",
+      "lemma": "have",
+      "pos": "v",
+      "definition": "serve oneself to, or consume regularly",
+      "decision": "gloss",
+      "simpleMeaning": "To help yourself to food or drink, or to eat and drink it regularly.",
+      "scope": "This is about eating and drinking, not about suffering an illness and not about owning something.",
+      "examples": [
+        "We had breakfast on the sunny terrace.",
+        "The children were having lunch in the garden."
+      ],
+      "branchCoverage": [
+        "serve oneself to, or consume regularly -> To help yourself to food or drink, or to eat and drink it regularly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "serve oneself to, or consume regularly"
+      ],
+      "lemmaPartition": "have%2:29:05:: = to suffer an injury or illness; have%2:34:00:: = to eat or drink, especially as a regular meal or habit",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "so%4:02:09::",
+      "lemma": "so",
+      "pos": "r",
+      "definition": "subsequently or soon afterward (often used as sentence connectors)",
+      "decision": "gloss",
+      "simpleMeaning": "After that; soon afterward, often used to link one statement to the next.",
+      "scope": "This describes what happens next in time, not a conclusion drawn from a fact.",
+      "examples": [
+        "And so began the long climb to the summit.",
+        "And so ended a difficult chapter in the company's history."
+      ],
+      "branchCoverage": [
+        "subsequently or soon afterward (often used as sentence connectors) -> After that; soon afterward, often used to link one statement to the next"
+      ],
+      "labelBranches": [
+        "(often used as sentence connectors) — usage note about linking sentences, not meaning content"
+      ],
+      "sourceBranches": [
+        "subsequently or soon afterward (often used as sentence connectors)"
+      ],
+      "lemmaPartition": "so%4:02:09:: = after that, soon afterward in time; so%4:02:10:: = for that reason, as a result",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "so%4:02:10::",
+      "lemma": "so",
+      "pos": "r",
+      "definition": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+      "decision": "gloss",
+      "simpleMeaning": "For that reason; as a result, used to introduce a conclusion.",
+      "scope": "This introduces a result or conclusion, not a statement about what happened next in time.",
+      "examples": [
+        "It was raining, so we stayed indoors.",
+        "She had studied hard, so she passed easily."
+      ],
+      "branchCoverage": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result -> For that reason; as a result, used to introduce a conclusion"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result"
+      ],
+      "lemmaPartition": "so%4:02:09:: = after that, soon afterward in time; so%4:02:10:: = for that reason, as a result",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "one%5:00:00:combined:00",
+      "lemma": "one",
+      "pos": "a",
+      "definition": "being a single entity made by combining separate components",
+      "decision": "gloss",
+      "simpleMeaning": "Formed by joining separate parts into a single whole.",
+      "scope": "This describes a whole made by joining separate parts, not the number and not a pronoun standing for a person.",
+      "examples": [
+        "The separate states formed one nation.",
+        "The two firms merged into one company."
+      ],
+      "branchCoverage": [
+        "being a single entity made by combining separate components -> Formed by joining separate parts into a single whole"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "being a single entity made by combining separate components"
+      ],
+      "lemmaPartition": "one%5:00:00:combined:00 = formed by joining separate parts into one whole; one%5:00:00:extraordinary:00 = informal intensifier meaning 'very'",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "one%5:00:00:extraordinary:00",
+      "lemma": "one",
+      "pos": "a",
+      "definition": "(informal) very; used informally as an intensifier",
+      "decision": "gloss",
+      "simpleMeaning": "Used informally before a describing word to mean 'very' or to make it stronger.",
+      "scope": "This is an informal intensifier before an adjective, not the number, not a unified whole, and not a pronoun for a person.",
+      "examples": [
+        "That is one big dog you have there.",
+        "She is one talented musician."
+      ],
+      "branchCoverage": [
+        "(informal) very -> Used informally ... to mean 'very'",
+        "used informally as an intensifier -> or to make it stronger"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(informal) very",
+        "used informally as an intensifier"
+      ],
+      "lemmaPartition": "one%5:00:00:combined:00 = formed by joining separate parts into one whole; one%5:00:00:extraordinary:00 = informal intensifier meaning 'very'",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "out%5:00:00:outgoing:00",
+      "lemma": "out",
+      "pos": "a",
+      "definition": "directed outward or serving to direct something outward",
+      "decision": "gloss",
+      "simpleMeaning": "Directed away from the inside, or used for sending something away from a place.",
+      "scope": "This describes a direction away from the inside or a container for things going out, not being unconscious and not being absent.",
+      "examples": [
+        "Put the signed letters in the out tray.",
+        "The out box was full of finished reports."
+      ],
+      "branchCoverage": [
+        "directed outward or serving to direct something outward -> Directed away from the inside, or used for sending something away from a place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "directed outward or serving to direct something outward"
+      ],
+      "lemmaPartition": "out%5:00:00:outgoing:00 = directed away from the inside; out%5:00:00:unconscious:00 = knocked unconscious by a blow",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "out%5:00:00:unconscious:00",
+      "lemma": "out",
+      "pos": "a",
+      "definition": "knocked unconscious by a heavy blow",
+      "decision": "gloss",
+      "simpleMeaning": "Made unable to think, see, or feel anything by a heavy blow.",
+      "scope": "This means knocked unconscious by a blow, not directed outward and not absent or unavailable.",
+      "examples": [
+        "The boxer was out for several minutes after the punch.",
+        "He was out cold on the floor."
+      ],
+      "branchCoverage": [
+        "knocked unconscious by a heavy blow -> Made unable to think, see, or feel anything by a heavy blow"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "knocked unconscious by a heavy blow"
+      ],
+      "lemmaPartition": "out%5:00:00:outgoing:00 = directed away from the inside; out%5:00:00:unconscious:00 = knocked unconscious by a blow",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "time%1:28:04::",
+      "lemma": "time",
+      "pos": "n",
+      "definition": "the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event",
+      "decision": "gloss",
+      "simpleMeaning": "The fourth number needed, along with the three dimensions of space, to pin down exactly when and where a physical event happens.",
+      "scope": "This is the physics dimension, not the general passing of events, not a particular occasion, and not musical rhythm.",
+      "examples": [
+        "Physicists treat time as a fourth coordinate alongside length, width and height.",
+        "In relativity, time is treated as a dimension just like space."
+      ],
+      "branchCoverage": [
+        "the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event -> The fourth number needed, along with the three dimensions of space, to pin down exactly when and where a physical event happens"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event"
+      ],
+      "lemmaPartition": "time%1:28:04:: = the fourth dimension used to fix when and where an event happens; time%1:07:01:: = the regular beat of music divided into equal parts; time%2:30:06:: = to set a mechanism so it acts at the wanted moment",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "time%1:07:01::",
+      "lemma": "time",
+      "pos": "n",
+      "definition": "rhythm as given by division into parts of equal duration",
+      "decision": "gloss",
+      "simpleMeaning": "A regular beat that comes from dividing a piece of music into parts of equal length.",
+      "scope": "This is the musical beat and its pattern, not the physics dimension and not a particular occasion.",
+      "examples": [
+        "The drummer kept time throughout the whole song.",
+        "The waltz is in three-four time."
+      ],
+      "branchCoverage": [
+        "rhythm as given by division into parts of equal duration -> A regular beat that comes from dividing a piece of music into parts of equal length"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "rhythm as given by division into parts of equal duration"
+      ],
+      "lemmaPartition": "time%1:28:04:: = the fourth dimension used to fix when and where an event happens; time%1:07:01:: = the regular beat of music divided into equal parts; time%2:30:06:: = to set a mechanism so it acts at the wanted moment",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "time%2:30:06::",
+      "lemma": "time",
+      "pos": "v",
+      "definition": "adjust so that a force is applied and an action occurs at the desired time",
+      "decision": "gloss",
+      "simpleMeaning": "To set something so that a push or movement happens at the exact moment wanted.",
+      "scope": "This is about setting a mechanism or movement to act at the right moment, not about measuring how long something takes.",
+      "examples": [
+        "A mechanic times the engine so the spark fires at the right moment.",
+        "She timed her kick to land just as the door swung open."
+      ],
+      "branchCoverage": [
+        "adjust so that a force is applied and an action occurs at the desired time -> To set something so that a push or movement happens at the exact moment wanted"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "adjust so that a force is applied and an action occurs at the desired time"
+      ],
+      "lemmaPartition": "time%1:28:04:: = the fourth dimension used to fix when and where an event happens; time%1:07:01:: = the regular beat of music divided into equal parts; time%2:30:06:: = to set a mechanism so it acts at the wanted moment",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "get%2:29:00::",
+      "lemma": "get",
+      "pos": "v",
+      "definition": "be stricken by an illness, fall victim to an illness",
+      "decision": "gloss",
+      "simpleMeaning": "To be struck down by a disease or illness.",
+      "scope": "This is about falling ill with a disease, not about suffering an injury and not about receiving something.",
+      "examples": [
+        "I got the flu and missed a week of work.",
+        "She got a bad cold on holiday."
+      ],
+      "branchCoverage": [
+        "be stricken by an illness, fall victim to an illness -> To be struck down by a disease or illness"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be stricken by an illness, fall victim to an illness"
+      ],
+      "lemmaPartition": "get%2:29:00:: = to fall ill with a disease; get%2:35:09:: = to catch or seize after a chase; get%2:29:11:: = to suffer an injury or illness; get%2:32:03:: = to reach someone by phone or radio; get%2:36:14:: = to take in and reproduce something accurately",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "get%2:35:09::",
+      "lemma": "get",
+      "pos": "v",
+      "definition": "succeed in catching or seizing, especially after a chase",
+      "decision": "gloss",
+      "simpleMeaning": "To catch or grab someone or something, especially after chasing it.",
+      "scope": "This is about catching or seizing after pursuit, not about becoming ill and not about receiving something.",
+      "examples": [
+        "The police got the thief after a short chase.",
+        "The dog got the ball before anyone else could reach it."
+      ],
+      "branchCoverage": [
+        "succeed in catching or seizing, especially after a chase -> To catch or grab someone or something, especially after chasing it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "succeed in catching or seizing, especially after a chase"
+      ],
+      "lemmaPartition": "get%2:29:00:: = to fall ill with a disease; get%2:35:09:: = to catch or seize after a chase; get%2:29:11:: = to suffer an injury or illness; get%2:32:03:: = to reach someone by phone or radio; get%2:36:14:: = to take in and reproduce something accurately",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "get%2:29:11::",
+      "lemma": "get",
+      "pos": "v",
+      "definition": "undergo (as of injuries and illnesses)",
+      "decision": "gloss",
+      "simpleMeaning": "To go through or suffer an injury or an illness.",
+      "scope": "This is about suffering an injury or illness that happens to you, not about catching an infectious disease and not about obtaining something.",
+      "examples": [
+        "He got a deep cut on his arm while fixing the roof.",
+        "The goalkeeper got a bruised shoulder in the collision."
+      ],
+      "branchCoverage": [
+        "undergo (as of injuries and illnesses) -> To go through or suffer an injury or an illness"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "undergo (as of injuries and illnesses)"
+      ],
+      "lemmaPartition": "get%2:29:00:: = to fall ill with a disease; get%2:35:09:: = to catch or seize after a chase; get%2:29:11:: = to suffer an injury or illness; get%2:32:03:: = to reach someone by phone or radio; get%2:36:14:: = to take in and reproduce something accurately",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "get%2:32:03::",
+      "lemma": "get",
+      "pos": "v",
+      "definition": "communicate with a place or person; establish communication with, as if by telephone",
+      "decision": "gloss",
+      "simpleMeaning": "To reach a person or place by telephone, radio, or a similar means and make contact with them.",
+      "scope": "This means making contact by phone or radio, not catching someone after a chase, not becoming ill, and not understanding something correctly.",
+      "examples": [
+        "I tried to get the office on the phone all morning, but the line was busy.",
+        "The radio operator finally got the ship just before midnight."
+      ],
+      "branchCoverage": [
+        "communicate with a place or person -> reach a person or place ... and make contact with them",
+        "establish communication with, as if by telephone -> make contact with them ... by telephone, radio, or a similar means"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "communicate with a place or person",
+        "establish communication with, as if by telephone"
+      ],
+      "lemmaPartition": "get%2:29:00:: = become ill with a disease; get%2:35:09:: = seize a person or animal after a chase; get%2:29:11:: = suffer an injury or illness that happens to you; get%2:32:03:: = reach a person or place by phone or radio; get%2:36:14:: = understand and reproduce something accurately",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "get%2:36:14::",
+      "lemma": "get",
+      "pos": "v",
+      "definition": "apprehend and reproduce accurately",
+      "decision": "gloss",
+      "simpleMeaning": "To understand the true character of something and then express or copy it exactly.",
+      "scope": "This is about capturing something's character accurately, not about reaching someone by phone, catching them, or becoming ill.",
+      "examples": [
+        "Her photographs really get the mood of the old town.",
+        "The actor got the character's accent exactly right."
+      ],
+      "branchCoverage": [
+        "apprehend and reproduce accurately -> understand the true character of something and then express or copy it exactly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "apprehend and reproduce accurately"
+      ],
+      "lemmaPartition": "get%2:29:00:: = become ill with a disease; get%2:35:09:: = seize a person or animal after a chase; get%2:29:11:: = suffer an injury or illness that happens to you; get%2:32:03:: = reach a person or place by phone or radio; get%2:36:14:: = understand and reproduce something accurately",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "new%5:00:00:early:02",
+      "lemma": "new",
+      "pos": "a",
+      "definition": "(of crops) harvested at an early stage of development; before complete maturity",
+      "decision": "gloss",
+      "simpleMeaning": "Describing crops that are harvested early, before they are fully grown or ripe.",
+      "scope": "This describes early-harvested crops, not something recently made or bought and not a person or idea that is unfamiliar.",
+      "examples": [
+        "New potatoes are best served with butter and parsley.",
+        "The market had the first new corn of the season."
+      ],
+      "branchCoverage": [
+        "(of crops) harvested at an early stage of development -> Describing crops that are harvested early",
+        "before complete maturity -> before they are fully grown or ripe"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of crops) harvested at an early stage of development",
+        "before complete maturity"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "people%1:14:03::",
+      "lemma": "people",
+      "pos": "n",
+      "definition": "the common people generally",
+      "decision": "gloss",
+      "simpleMeaning": "Ordinary citizens as a group, especially those without special rank, wealth, or power.",
+      "scope": "This means ordinary citizens as a mass, not a particular ethnic group or nation and not a few named individuals.",
+      "examples": [
+        "The party claims to speak for the people, not for the wealthy elite.",
+        "The people had little say in the new law."
+      ],
+      "branchCoverage": [
+        "the common people generally -> Ordinary citizens as a group, especially those without special rank, wealth, or power"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the common people generally"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "now%4:02:01::",
+      "lemma": "now",
+      "pos": "r",
+      "definition": "without delay or hesitation; with no time intervening",
+      "decision": "gloss",
+      "simpleMeaning": "At once, with no waiting or pause.",
+      "scope": "This means at this very moment without delay, not a word that introduces a new topic and not a word that introduces a conclusion.",
+      "examples": [
+        "You need to leave now.",
+        "I want those figures now, not at the end of the week."
+      ],
+      "branchCoverage": [
+        "without delay or hesitation -> At once, with no waiting or pause",
+        "with no time intervening -> with no waiting"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "without delay or hesitation",
+        "with no time intervening"
+      ],
+      "lemmaPartition": "now%4:02:01:: = at once, with no delay; now%4:02:07:: = word used to announce a change of topic or activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "now%4:02:07::",
+      "lemma": "now",
+      "pos": "r",
+      "definition": "(prefatory or transitional) indicates a change of subject or activity",
+      "decision": "gloss",
+      "simpleMeaning": "Used at the start of a remark to show that the speaker is turning to a different subject or activity.",
+      "scope": "This marks a change of subject or activity; it does not mean at this moment and does not introduce a logical conclusion.",
+      "examples": [
+        "Now, let's move on to the second question.",
+        "Now then, who wants more coffee?"
+      ],
+      "branchCoverage": [
+        "(prefatory or transitional) indicates a change of subject or activity -> Used at the start of a remark to show that the speaker is turning to a different subject or activity"
+      ],
+      "labelBranches": [
+        "prefatory or transitional — a usage label saying where the word occurs (at the start of a remark, as a transition), not extra meaning."
+      ],
+      "sourceBranches": [
+        "(prefatory or transitional) indicates a change of subject or activity"
+      ],
+      "lemmaPartition": "now%4:02:01:: = at once, with no delay; now%4:02:07:: = word used to announce a change of topic or activity",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "good%1:06:00::",
+      "lemma": "good",
+      "pos": "n",
+      "definition": "a raw material that is sold in large quantities, usually to other businesses for manufacturing or production purposes",
+      "decision": "gloss",
+      "simpleMeaning": "A basic material or product that is traded in large amounts, usually sold to companies that use it to make other things.",
+      "scope": "This is a raw material or bulk product sold for manufacturing, not a moral quality and not something that is merely helpful.",
+      "examples": [
+        "In economics, copper is a good traded in large volumes between firms.",
+        "Timber is a good sold in bulk to furniture makers."
+      ],
+      "branchCoverage": [
+        "a raw material that is sold in large quantities, usually to other businesses for manufacturing or production purposes -> A basic material or product that is traded in large amounts, usually sold to companies that use it to make other things"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a raw material that is sold in large quantities, usually to other businesses for manufacturing or production purposes"
+      ],
+      "lemmaPartition": "good%1:06:00:: = basic material or product traded in bulk for manufacturing; good%5:00:00:healthful:00 = helping the body stay healthy",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "good%5:00:00:healthful:00",
+      "lemma": "good",
+      "pos": "a",
+      "definition": "tending to promote physical well-being; beneficial to health",
+      "decision": "gloss",
+      "simpleMeaning": "Helping the body stay healthy or making it healthier.",
+      "scope": "This describes something that benefits physical health, not something morally right and not a person who is skilled at something.",
+      "examples": [
+        "Fresh air and a good diet kept her strong.",
+        "A good night's sleep helped him recover from the flu."
+      ],
+      "branchCoverage": [
+        "tending to promote physical well-being -> Helping the body stay healthy",
+        "beneficial to health -> making it healthier"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "tending to promote physical well-being",
+        "beneficial to health"
+      ],
+      "lemmaPartition": "good%1:06:00:: = basic material or product traded in bulk for manufacturing; good%5:00:00:healthful:00 = helping the body stay healthy",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "first%1:04:00::",
+      "lemma": "first",
+      "pos": "n",
+      "definition": "the fielding position of the player on a baseball team who is stationed at first of the bases in the infield (counting counterclockwise from home plate)",
+      "decision": "gloss",
+      "simpleMeaning": "the fielding job of the baseball player who guards first base.",
+      "scope": "This is a baseball fielding position, not the first item in a series and not the lowest gear of a car.",
+      "examples": [
+        "He played first for the team for ten seasons.",
+        "She moved from catcher to first this year."
+      ],
+      "branchCoverage": [
+        "the fielding position of the player on a baseball team who is stationed at first of the bases in the infield (counting counterclockwise from home plate) -> the fielding job of the baseball player who guards first base"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the fielding position of the player on a baseball team who is stationed at first of the bases in the infield (counting counterclockwise from home plate)"
+      ],
+      "lemmaPartition": "first%1:04:00:: = baseball fielding position at first base; first%1:06:00:: = lowest forward gear of a vehicle",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss wrongly says first base is nearest home plate; first and third are equidistant. Remove that clause."
+    },
+    {
+      "senseId": "first%1:06:00::",
+      "lemma": "first",
+      "pos": "n",
+      "definition": "the lowest forward gear ratio in the gear box of a motor vehicle; used to start a car moving",
+      "decision": "gloss",
+      "simpleMeaning": "The lowest forward gear in a car or other vehicle, used to set it moving from a stop.",
+      "scope": "This is the lowest gear of a vehicle, not the baseball position and not the first item in a series.",
+      "examples": [
+        "Shift into first when you pull away from the curb.",
+        "The truck crawled up the hill in first."
+      ],
+      "branchCoverage": [
+        "the lowest forward gear ratio in the gear box of a motor vehicle -> The lowest forward gear in a car or other vehicle",
+        "used to start a car moving -> used to set it moving from a stop"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the lowest forward gear ratio in the gear box of a motor vehicle",
+        "used to start a car moving"
+      ],
+      "lemmaPartition": "first%1:04:00:: = baseball fielding position at first base; first%1:06:00:: = lowest forward gear of a vehicle",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "know%2:31:04::",
+      "lemma": "know",
+      "pos": "v",
+      "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+      "decision": "gloss",
+      "simpleMeaning": "To have gone through a feeling, condition, or situation yourself, so that you understand it from direct experience.",
+      "scope": "This is about having lived through an experience or feeling, not about knowing a fact and not about being acquainted with a person.",
+      "examples": [
+        "She has known hunger and never wastes food.",
+        "He knows the loneliness of working night shifts."
+      ],
+      "branchCoverage": [
+        "have firsthand knowledge of states, situations, emotions, or sensations -> To have gone through a feeling, condition, or situation yourself, so that you understand it from direct experience"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have firsthand knowledge of states, situations, emotions, or sensations"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "see%2:32:00::",
+      "lemma": "see",
+      "pos": "v",
+      "definition": "find out, learn, or determine with certainty, usually by making an inquiry or other effort",
+      "decision": "gloss",
+      "simpleMeaning": "To find out or make certain about something, usually by asking, checking, or trying.",
+      "scope": "This means checking or finding out, not looking at something with your eyes and not visiting someone.",
+      "examples": [
+        "See whether the door is locked.",
+        "I'll see if the doctor can fit you in this afternoon."
+      ],
+      "branchCoverage": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort -> To find out or make certain about something, usually by asking, checking, or trying"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "find out, learn, or determine with certainty, usually by making an inquiry or other effort"
+      ],
+      "lemmaPartition": "see%2:32:00:: = find out or make certain by checking; see%2:39:13:: = examine or inspect something closely",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "see%2:39:13::",
+      "lemma": "see",
+      "pos": "v",
+      "definition": "observe, check out, and look over carefully or inspect",
+      "decision": "gloss",
+      "simpleMeaning": "To look over something carefully in order to examine or inspect it.",
+      "scope": "This means examining something closely, not finding out a fact and not simply noticing something by sight.",
+      "examples": [
+        "The customs officer saw our passports before letting us through.",
+        "She saw the accounts herself before signing the report."
+      ],
+      "branchCoverage": [
+        "observe, check out, and look over carefully or inspect -> To look over something carefully in order to examine or inspect it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "observe, check out, and look over carefully or inspect"
+      ],
+      "lemmaPartition": "see%2:32:00:: = find out or make certain by checking; see%2:39:13:: = examine or inspect something closely",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "make%2:40:01::",
+      "lemma": "make",
+      "pos": "v",
+      "definition": "earn on some commercial or business transaction; earn as salary or wages",
+      "decision": "gloss",
+      "simpleMeaning": "To earn money from a job, a sale, or other business activity.",
+      "scope": "This is about earning money, not about building or creating something and not about causing something to happen.",
+      "examples": [
+        "She makes about sixty thousand dollars a year.",
+        "The company made a fortune on that deal."
+      ],
+      "branchCoverage": [
+        "earn on some commercial or business transaction -> earn money from ... a sale, or other business activity",
+        "earn as salary or wages -> earn money from a job"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "earn on some commercial or business transaction",
+        "earn as salary or wages"
+      ],
+      "lemmaPartition": "make%2:32:09:: = pretend or play-act; make%2:40:01:: = earn money from work or business; make%2:42:09:: = be turned into a finished item when made",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "make%2:32:09::",
+      "lemma": "make",
+      "pos": "v",
+      "definition": "represent fictitiously, as in a play, or pretend to be or act like",
+      "decision": "gloss",
+      "simpleMeaning": "To pretend, especially in play, that you are someone else or that something is true.",
+      "scope": "This means pretending or play-acting, not earning money and not producing or creating something.",
+      "examples": [
+        "He made like he was asleep when his mother walked in.",
+        "The boys made believe they were soldiers."
+      ],
+      "branchCoverage": [
+        "represent fictitiously, as in a play, or pretend to be or act like -> To pretend, especially in play, that you are someone else or that something is true"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "represent fictitiously, as in a play, or pretend to be or act like"
+      ],
+      "lemmaPartition": "make%2:32:09:: = pretend or play-act; make%2:40:01:: = earn money from work or business; make%2:42:09:: = be turned into a finished item when made",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "make%2:42:09::",
+      "lemma": "make",
+      "pos": "v",
+      "definition": "undergo fabrication or creation",
+      "decision": "gloss",
+      "simpleMeaning": "To become a finished product once it is shaped or built.",
+      "scope": "This describes a material being turned into a finished item, not earning money and not pretending to be something.",
+      "examples": [
+        "This wool makes into a lovely sweater.",
+        "The clay makes into sturdy pots once it is fired."
+      ],
+      "branchCoverage": [
+        "undergo fabrication or creation -> become a finished product once it is shaped or built"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "undergo fabrication or creation"
+      ],
+      "lemmaPartition": "make%2:32:09:: = pretend or play-act; make%2:40:01:: = earn money from work or business; make%2:42:09:: = be turned into a finished item when made",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "think%2:31:12::",
+      "lemma": "think",
+      "pos": "v",
+      "definition": "decide by pondering, reasoning, or reflecting",
+      "decision": "gloss",
+      "simpleMeaning": "To work out a decision by considering and reasoning about the matter.",
+      "scope": "This means deciding after careful thought, not holding an opinion and not having ideas in your mind generally.",
+      "examples": [
+        "He thought hard before choosing the smaller apartment.",
+        "Think what to do next before you act."
+      ],
+      "branchCoverage": [
+        "decide by pondering, reasoning, or reflecting -> To work out a decision by considering and reasoning about the matter"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "decide by pondering, reasoning, or reflecting"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "back%1:08:01::",
+      "lemma": "back",
+      "pos": "n",
+      "definition": "the series of vertebrae forming the axis of the skeleton and protecting the spinal cord",
+      "decision": "gloss",
+      "simpleMeaning": "The row of bones that runs down the center of the body and protects the spinal cord.",
+      "scope": "This is the column of bones in the body, not the rear surface of the body and not the cover of a book.",
+      "examples": [
+        "The fall broke his back, and he never walked properly again.",
+        "Arthritis in her back made bending painful."
+      ],
+      "branchCoverage": [
+        "the series of vertebrae forming the axis of the skeleton and protecting the spinal cord -> The row of bones that runs down the center of the body and protects the spinal cord"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the series of vertebrae forming the axis of the skeleton and protecting the spinal cord"
+      ],
+      "lemmaPartition": "back%1:06:03:: = outer cover of a book; back%1:08:01:: = column of bones in the body; back%2:30:00:: = support a claim as true or valid",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "back%1:06:03::",
+      "lemma": "back",
+      "pos": "n",
+      "definition": "the protective covering on the front, back, and spine of a book",
+      "decision": "gloss",
+      "simpleMeaning": "The outer covering of a book, taking in the front panel, the rear panel, and the strip along the spine.",
+      "scope": "This is a book's outer cover, including its spine, not a person's spine and not the rear part of a room.",
+      "examples": [
+        "The leather back of the old book was cracked and peeling.",
+        "The back of the dictionary had come loose from the pages."
+      ],
+      "branchCoverage": [
+        "the protective covering on the front, back, and spine of a book -> The outer covering of a book, taking in the front panel, the rear panel, and the strip along the spine"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the protective covering on the front, back, and spine of a book"
+      ],
+      "lemmaPartition": "back%1:06:03:: = outer cover of a book; back%1:08:01:: = column of bones in the body; back%2:30:00:: = support a claim as true or valid",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "back%2:30:00::",
+      "lemma": "back",
+      "pos": "v",
+      "definition": "establish as valid or genuine",
+      "decision": "gloss",
+      "simpleMeaning": "To give proof or support that shows something is true or valid.",
+      "scope": "This means supporting a claim with evidence, not moving backward and not giving money to a cause.",
+      "examples": [
+        "Can you back up that claim with evidence?",
+        "The new data backs her conclusion."
+      ],
+      "branchCoverage": [
+        "establish as valid or genuine -> give proof or support that shows something is true or valid"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "establish as valid or genuine"
+      ],
+      "lemmaPartition": "back%1:06:03:: = outer cover of a book; back%1:08:01:: = column of bones in the body; back%2:30:00:: = support a claim as true or valid",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "go%1:04:00::",
+      "lemma": "go",
+      "pos": "n",
+      "definition": "a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters",
+      "decision": "gloss",
+      "simpleMeaning": "A board game for two players who put stones on a grid and try to surround and capture each other's stones.",
+      "scope": "This is the board game, not the act of traveling somewhere and not an attempt at something.",
+      "examples": [
+        "Go is one of the oldest board games still played today.",
+        "They played Go every evening after dinner."
+      ],
+      "branchCoverage": [
+        "a board game for two players who place counters on a grid -> A board game for two players who put stones on a grid",
+        "the object is to surround and so capture the opponent's counters -> try to surround and capture each other's stones"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a board game for two players who place counters on a grid",
+        "the object is to surround and so capture the opponent's counters"
+      ],
+      "lemmaPartition": "go%1:04:00:: = the board game played on a grid; go%2:30:00:: = die; go%2:35:13:: = search through things or belongings; go%2:42:00:: = extend across distance, time, or scope",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "go%2:30:00::",
+      "lemma": "go",
+      "pos": "v",
+      "definition": "pass from physical life and lose all bodily attributes and functions necessary to sustain life",
+      "decision": "gloss",
+      "simpleMeaning": "To die, losing all the physical qualities and functions that keep the body alive.",
+      "scope": "This is a gentle way of saying that someone dies, not traveling somewhere and not becoming a particular state.",
+      "examples": [
+        "He went peacefully at home, surrounded by his family.",
+        "The old horse went quietly in the night after a long illness."
+      ],
+      "branchCoverage": [
+        "pass from physical life and lose all bodily attributes and functions necessary to sustain life -> To die, losing all the physical qualities and functions that keep the body alive"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pass from physical life and lose all bodily attributes and functions necessary to sustain life"
+      ],
+      "lemmaPartition": "go%1:04:00:: = the board game played on a grid; go%2:30:00:: = die; go%2:35:13:: = search through things or belongings; go%2:42:00:: = extend across distance, time, or scope",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "go%2:35:13::",
+      "lemma": "go",
+      "pos": "v",
+      "definition": "go through in search of something; search through someone's belongings in an unauthorized way",
+      "decision": "gloss",
+      "simpleMeaning": "To search through a place or someone's belongings, often without permission, looking for something.",
+      "scope": "This means searching through things, not passing through a place on the way somewhere and not experiencing something.",
+      "examples": [
+        "Someone had gone through her drawers while she was at lunch.",
+        "The police went through every box in the attic."
+      ],
+      "branchCoverage": [
+        "go through in search of something -> search through a place ... looking for something",
+        "search through someone's belongings in an unauthorized way -> someone's belongings, often without permission"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "go through in search of something",
+        "search through someone's belongings in an unauthorized way"
+      ],
+      "lemmaPartition": "go%1:04:00:: = the board game played on a grid; go%2:30:00:: = die; go%2:35:13:: = search through things or belongings; go%2:42:00:: = extend across distance, time, or scope",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "go%2:42:00::",
+      "lemma": "go",
+      "pos": "v",
+      "definition": "stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point",
+      "decision": "gloss",
+      "simpleMeaning": "To reach or continue across a distance, area, period, or range, from one point to another or past a certain point.",
+      "scope": "This is about something extending across space or time, not a person traveling to a place and not dying.",
+      "examples": [
+        "The fence goes all the way down to the river.",
+        "Her knowledge of the subject goes far beyond the basics."
+      ],
+      "branchCoverage": [
+        "stretch out over a distance, space, time, or scope -> reach or continue across a distance, area, period, or range",
+        "run or extend between two points or beyond a certain point -> from one point to another or past a certain point"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "stretch out over a distance, space, time, or scope",
+        "run or extend between two points or beyond a certain point"
+      ],
+      "lemmaPartition": "go%1:04:00:: = the board game played on a grid; go%2:30:00:: = die; go%2:35:13:: = search through things or belongings; go%2:42:00:: = extend across distance, time, or scope",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "well%1:06:01::",
+      "lemma": "well",
+      "pos": "n",
+      "definition": "an enclosed compartment in a ship or plane for holding something as e.g. fish or a plane's landing gear or for protecting something as e.g. a ship's pumps",
+      "decision": "gloss",
+      "simpleMeaning": "An enclosed space in a ship or aircraft that holds something, such as fish or the landing gear, or shields machinery such as pumps.",
+      "scope": "This is a built-in compartment on a ship or aircraft, not a hole dug for water and not a state of good health.",
+      "examples": [
+        "The landing gear folded into a well beneath the cabin.",
+        "The fish are kept in a well of seawater until the boat docks."
+      ],
+      "branchCoverage": [
+        "an enclosed compartment in a ship or plane for holding something as e.g. fish or a plane's landing gear or for protecting something as e.g. a ship's pumps -> An enclosed space in a ship or aircraft that holds something, such as fish or the landing gear, or shields machinery such as pumps"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an enclosed compartment in a ship or plane for holding something as e.g. fish or a plane's landing gear or for protecting something as e.g. a ship's pumps"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

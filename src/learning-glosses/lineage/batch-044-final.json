@@ -1,0 +1,1132 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 44,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 47,
+    "defers": 3,
+    "firstPass": {
+      "approved": 50,
+      "of": 50,
+      "rate": 1.0
+    },
+    "selfApproved": [],
+    "lineage": {
+      "draft": "18edbf179611c3db5133b45d9c0fa7bb316ed73fe205498746b697c97a5479d3"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "drama%1:10:00::",
+      "lemma": "drama",
+      "pos": "n",
+      "definition": "the literary genre of works intended for the theater",
+      "decision": "gloss",
+      "simpleMeaning": "The branch of writing made up of plays written to be performed on stage.",
+      "scope": "This is the category of writing for the stage, not one particular play and not an exciting real-life event.",
+      "examples": [
+        "She studied drama at university and now directs plays.",
+        "The course covers drama, poetry and fiction."
+      ],
+      "branchCoverage": [
+        "the literary genre of works intended for the theater -> The branch of writing made up of plays written to be performed on stage"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the literary genre of works intended for the theater"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "era%1:28:00::",
+      "lemma": "era",
+      "pos": "n",
+      "definition": "a period marked by distinctive character or reckoned from a fixed point or event",
+      "decision": "gloss",
+      "simpleMeaning": "A stretch of history that stands out because of its special character or because it is counted from a particular point or event.",
+      "scope": "This is a span of history defined by its character or a starting point, not a division of geological time.",
+      "examples": [
+        "The discovery marked the beginning of a new era in medicine.",
+        "We are living in an era of rapid technological change."
+      ],
+      "branchCoverage": [
+        "a period marked by distinctive character or reckoned from a fixed point or event -> A stretch of history that stands out because of its special character or because it is counted from a particular point or event"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a period marked by distinctive character or reckoned from a fixed point or event"
+      ],
+      "lemmaPartition": "era%1:28:00:: = a span of history defined by its character or a fixed starting point; era%1:28:01:: = one of the largest divisions of geological time, split into periods",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "era%1:28:01::",
+      "lemma": "era",
+      "pos": "n",
+      "definition": "a major division of geological time; an era is usually divided into two or more periods",
+      "decision": "gloss",
+      "simpleMeaning": "One of the largest stretches of the earth's history, each usually split into two or more smaller stages.",
+      "scope": "This is one of the largest units of geological time, not a period of human history or a style of art.",
+      "examples": [
+        "Dinosaurs lived during the Mesozoic era.",
+        "Scientists divide the history of the earth into several eras."
+      ],
+      "branchCoverage": [
+        "a major division of geological time -> One of the largest stretches of the earth's history",
+        "an era is usually divided into two or more periods -> each usually split into two or more smaller stages"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a major division of geological time",
+        "an era is usually divided into two or more periods"
+      ],
+      "lemmaPartition": "era%1:28:00:: = a span of history defined by its character or a fixed starting point; era%1:28:01:: = one of the largest divisions of geological time, split into periods",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "factor%1:23:00::",
+      "lemma": "factor",
+      "pos": "n",
+      "definition": "one of two or more integers that can be exactly divided into another integer",
+      "decision": "gloss",
+      "simpleMeaning": "One of two or more whole numbers that divide another whole number exactly, leaving no remainder.",
+      "scope": "This is a number that divides another exactly, not a circumstance that helps cause a result.",
+      "examples": [
+        "Three and four are factors of twelve.",
+        "List all the factors of twenty-four."
+      ],
+      "branchCoverage": [
+        "one of two or more integers that can be exactly divided into another integer -> One of two or more whole numbers that divide another whole number exactly, leaving no remainder"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "one of two or more integers that can be exactly divided into another integer"
+      ],
+      "lemmaPartition": "factor%1:23:00:: = a whole number that divides another exactly; factor%2:40:00:: = to play a part in causing a result",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "factor%2:40:00::",
+      "lemma": "factor",
+      "pos": "v",
+      "definition": "be a contributing factor",
+      "decision": "gloss",
+      "simpleMeaning": "To play a part in bringing about a result.",
+      "scope": "This is about helping to cause an outcome, not about doing arithmetic with whole numbers.",
+      "examples": [
+        "Several problems factored into the decision to cancel the trip.",
+        "Rising costs factored heavily into the company's choice."
+      ],
+      "branchCoverage": [
+        "be a contributing factor -> To play a part in bringing about a result"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be a contributing factor"
+      ],
+      "lemmaPartition": "factor%1:23:00:: = a whole number that divides another exactly; factor%2:40:00:: = to play a part in causing a result",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mistake%1:04:00::",
+      "lemma": "mistake",
+      "pos": "n",
+      "definition": "a wrong action attributable to bad judgment or ignorance or inattention",
+      "decision": "gloss",
+      "simpleMeaning": "Something done wrongly because of poor judgment, lack of knowledge, or failure to pay attention.",
+      "scope": "This is a wrong deed someone carries out, not a wrong belief or a misunderstanding of facts.",
+      "examples": [
+        "Leaving the stove on was a serious mistake.",
+        "She admitted her mistake and apologized."
+      ],
+      "branchCoverage": [
+        "a wrong action attributable to bad judgment or ignorance or inattention -> Something done wrongly because of poor judgment, lack of knowledge, or failure to pay attention"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a wrong action attributable to bad judgment or ignorance or inattention"
+      ],
+      "lemmaPartition": "mistake%1:04:00:: = a wrong action caused by poor judgment, ignorance or inattention; mistake%2:31:01:: = to be wrong or incorrect",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "mistake%2:31:01::",
+      "lemma": "mistake",
+      "pos": "v",
+      "definition": "to make a mistake or be incorrect",
+      "decision": "gloss",
+      "simpleMeaning": "To be wrong or to do something incorrectly.",
+      "scope": "This is being wrong or doing something incorrectly, not the wrong deed itself or the act of taking one thing for another.",
+      "examples": [
+        "Anyone who mistakes the date will arrive on the wrong day.",
+        "You are mistaken about the cost of the tickets."
+      ],
+      "branchCoverage": [
+        "to make a mistake or be incorrect -> To be wrong or to do something incorrectly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "to make a mistake or be incorrect"
+      ],
+      "lemmaPartition": "mistake%1:04:00:: = a wrong action caused by poor judgment, ignorance or inattention; mistake%2:31:01:: = to be wrong or incorrect",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "platform%1:10:00::",
+      "lemma": "platform",
+      "pos": "n",
+      "definition": "a document stating the aims and principles of a political party",
+      "decision": "gloss",
+      "simpleMeaning": "A written statement of the goals and beliefs of a political party.",
+      "scope": "This is a political statement of aims, not a raised structure to stand on or a computer system.",
+      "examples": [
+        "The party published its platform before the election.",
+        "Both candidates promised to follow the platform."
+      ],
+      "branchCoverage": [
+        "a document stating the aims and principles of a political party -> A written statement of the goals and beliefs of a political party"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a document stating the aims and principles of a political party"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "relations%1:24:00::",
+      "lemma": "relations",
+      "pos": "n",
+      "definition": "mutual dealings or connections or communications among persons or groups",
+      "decision": "gloss",
+      "simpleMeaning": "The ways in which people or groups deal with one another, connect, and communicate.",
+      "scope": "This is about dealings between people or groups, not about relatives by blood or marriage.",
+      "examples": [
+        "The two countries have close trade relations.",
+        "Good relations between staff and management improve morale."
+      ],
+      "branchCoverage": [
+        "mutual dealings or connections or communications among persons or groups -> The ways in which people or groups deal with one another, connect, and communicate"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "mutual dealings or connections or communications among persons or groups"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "route%2:38:00::",
+      "lemma": "route",
+      "pos": "v",
+      "definition": "send via a specific route",
+      "decision": "gloss",
+      "simpleMeaning": "To send something along a chosen path or way.",
+      "scope": "This is about sending something along a chosen way, not about a road itself or a way of achieving a goal.",
+      "examples": [
+        "The company routes all deliveries through a central depot.",
+        "Traffic was routed around the flooded road."
+      ],
+      "branchCoverage": [
+        "send via a specific route -> To send something along a chosen path or way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "send via a specific route"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "saved%3:00:00::",
+      "lemma": "saved",
+      "pos": "a",
+      "definition": "rescued; especially from the power and consequences of sin",
+      "decision": "gloss",
+      "simpleMeaning": "Brought out of danger, especially freed from the hold and penalty of wrongdoing against God.",
+      "scope": "This describes someone or something brought out of danger, not money set aside for later.",
+      "examples": [
+        "The stranded climbers were saved by a rescue team.",
+        "Many in the congregation spoke of being saved."
+      ],
+      "branchCoverage": [
+        "rescued -> Brought out of danger",
+        "especially from the power and consequences of sin -> especially freed from the hold and penalty of wrongdoing against God"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "rescued",
+        "especially from the power and consequences of sin"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "schedule%1:09:00::",
+      "lemma": "schedule",
+      "pos": "n",
+      "definition": "a temporally organized plan for matters to be attended to",
+      "decision": "gloss",
+      "simpleMeaning": "A plan that sets out when particular tasks or events are to be dealt with.",
+      "scope": "This is the plan of times and tasks itself, not the act of arranging those times.",
+      "examples": [
+        "We need to draw up a schedule for the move.",
+        "Her schedule is full all week."
+      ],
+      "branchCoverage": [
+        "a temporally organized plan for matters to be attended to -> A plan that sets out when particular tasks or events are to be dealt with"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a temporally organized plan for matters to be attended to"
+      ],
+      "lemmaPartition": "schedule%1:09:00:: = the plan of times and tasks; schedule%2:32:00:: = arranging when and where events happen",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "schedule%2:32:00::",
+      "lemma": "schedule",
+      "pos": "v",
+      "definition": "make a schedule; plan the time and place for events",
+      "decision": "gloss",
+      "simpleMeaning": "To arrange when and where events will take place.",
+      "scope": "This is the act of arranging times and places, not the written plan that results.",
+      "examples": [
+        "We scheduled the meeting for Tuesday morning.",
+        "The interview is scheduled to take place in London."
+      ],
+      "branchCoverage": [
+        "make a schedule -> To arrange",
+        "plan the time and place for events -> when and where events will take place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make a schedule",
+        "plan the time and place for events"
+      ],
+      "lemmaPartition": "schedule%1:09:00:: = the plan of times and tasks; schedule%2:32:00:: = arranging when and where events happen",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "scientific%3:00:00::",
+      "lemma": "scientific",
+      "pos": "a",
+      "definition": "conforming with the principles or methods used in science",
+      "decision": "gloss",
+      "simpleMeaning": "Following the careful, tested methods that researchers use to study the world.",
+      "scope": "This means carried out by strict research methods, not merely connected with researchers or their equipment.",
+      "examples": [
+        "The study was not scientific because it lacked a control group.",
+        "We need a scientific approach to testing the new material."
+      ],
+      "branchCoverage": [
+        "conforming with the principles or methods used in science -> Following the careful, tested methods that researchers use to study the world"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "conforming with the principles or methods used in science"
+      ],
+      "lemmaPartition": "scientific%3:00:00:: = carried out according to research methods; scientific%3:01:00:: = connected with the field or practice of research",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "scientific%3:01:00::",
+      "lemma": "scientific",
+      "pos": "a",
+      "definition": "of or relating to the practice of science",
+      "decision": "gloss",
+      "simpleMeaning": "Connected with the work of studying the natural world through observation and experiment.",
+      "scope": "This means belonging to the field of research, not meeting its standards of method.",
+      "examples": [
+        "Scientific equipment is expensive to maintain.",
+        "The museum has a large collection of scientific instruments."
+      ],
+      "branchCoverage": [
+        "of or relating to the practice of science -> Connected with the work of studying the natural world through observation and experiment"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to the practice of science"
+      ],
+      "lemmaPartition": "scientific%3:00:00:: = carried out according to research methods; scientific%3:01:00:: = connected with the field or practice of research",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smoke%1:22:00::",
+      "lemma": "smoke",
+      "pos": "n",
+      "definition": "a hot vapor containing fine particles of carbon being produced by combustion",
+      "decision": "gloss",
+      "simpleMeaning": "The hot cloud of tiny carbon bits that rises when something burns.",
+      "scope": "This is the hot, carbon-filled cloud from burning, not the act of breathing in tobacco.",
+      "examples": [
+        "Thick smoke poured from the burning building.",
+        "The smoke from the campfire made her cough."
+      ],
+      "branchCoverage": [
+        "a hot vapor containing fine particles of carbon being produced by combustion -> The hot cloud of tiny carbon bits that rises when something burns"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a hot vapor containing fine particles of carbon being produced by combustion"
+      ],
+      "lemmaPartition": "smoke%1:22:00:: = the hot carbon-bearing cloud from burning; smoke%2:34:00:: = breathing tobacco fumes in and out; smoke%1:19:00:: = any cloud of fine particles suspended in a gas; smoke%2:43:00:: = giving off a cloud of fine particles",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smoke%2:34:00::",
+      "lemma": "smoke",
+      "pos": "v",
+      "definition": "inhale and exhale smoke from cigarettes, cigars, pipes",
+      "decision": "gloss",
+      "simpleMeaning": "To draw tobacco fumes into the mouth and lungs and breathe them out.",
+      "scope": "This is the habit of breathing in tobacco, not a fire or engine giving off fumes.",
+      "examples": [
+        "He smoked a pipe after dinner.",
+        "She has never smoked a cigarette."
+      ],
+      "branchCoverage": [
+        "inhale and exhale smoke from cigarettes, cigars, pipes -> To draw tobacco fumes into the mouth and lungs and breathe them out"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "inhale and exhale smoke from cigarettes, cigars, pipes"
+      ],
+      "lemmaPartition": "smoke%1:22:00:: = the hot carbon-bearing cloud from burning; smoke%2:34:00:: = breathing tobacco fumes in and out; smoke%1:19:00:: = any cloud of fine particles suspended in a gas; smoke%2:43:00:: = giving off a cloud of fine particles",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smoke%1:19:00::",
+      "lemma": "smoke",
+      "pos": "n",
+      "definition": "a cloud of fine particles suspended in a gas",
+      "decision": "defer",
+      "reason": "This is the technical physics sense of any fine-particle cloud held in a gas. In ordinary English it is indistinguishable from the burning-product sense (smoke%1:22:00::), so any natural example can be read as the burning sense and the two cannot be kept apart in examples; the gloss would also largely repeat that sibling.",
+      "sourceBranches": [
+        "a cloud of fine particles suspended in a gas"
+      ],
+      "lemmaPartition": "smoke%1:22:00:: = the hot carbon-bearing cloud from burning; smoke%2:34:00:: = breathing tobacco fumes in and out; smoke%1:19:00:: = any cloud of fine particles suspended in a gas; smoke%2:43:00:: = giving off a cloud of fine particles",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "smoke%2:43:00::",
+      "lemma": "smoke",
+      "pos": "v",
+      "definition": "emit a cloud of fine particles",
+      "decision": "gloss",
+      "simpleMeaning": "To give off a cloud of tiny particles.",
+      "scope": "This describes a fire, engine or chimney giving off particles, not a person using tobacco.",
+      "examples": [
+        "The old engine smoked badly on cold mornings.",
+        "The chimney was smoking, so we knew they were home."
+      ],
+      "branchCoverage": [
+        "emit a cloud of fine particles -> To give off a cloud of tiny particles"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "emit a cloud of fine particles"
+      ],
+      "lemmaPartition": "smoke%1:22:00:: = the hot carbon-bearing cloud from burning; smoke%2:34:00:: = breathing tobacco fumes in and out; smoke%1:19:00:: = any cloud of fine particles suspended in a gas; smoke%2:43:00:: = giving off a cloud of fine particles",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "squad%1:14:02::",
+      "lemma": "squad",
+      "pos": "n",
+      "definition": "a small squad of policemen trained to deal with a particular kind of crime",
+      "decision": "gloss",
+      "simpleMeaning": "A small team of police officers specially trained for one type of crime.",
+      "scope": "This is a police unit for one kind of crime, not a group of sports players or a general work crew.",
+      "examples": [
+        "The drug squad raided the warehouse.",
+        "A robbery squad was sent to the scene."
+      ],
+      "branchCoverage": [
+        "a small squad of policemen trained to deal with a particular kind of crime -> A small team of police officers specially trained for one type of crime"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a small squad of policemen trained to deal with a particular kind of crime"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "teach%2:30:00::",
+      "lemma": "teach",
+      "pos": "v",
+      "definition": "accustom gradually to some action or attitude",
+      "decision": "gloss",
+      "simpleMeaning": "To get someone used to a certain way of acting or thinking over time.",
+      "scope": "This is about forming a habit or outlook over time, not about giving lessons in a school subject.",
+      "examples": [
+        "The job taught him to stay calm under pressure.",
+        "Years of living alone taught her to be independent."
+      ],
+      "branchCoverage": [
+        "accustom gradually to some action or attitude -> To get someone used to a certain way of acting or thinking over time"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "accustom gradually to some action or attitude"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "testing%1:04:00::",
+      "lemma": "testing",
+      "pos": "n",
+      "definition": "the act of subjecting to experimental test in order to determine how well something works",
+      "decision": "gloss",
+      "simpleMeaning": "The process of trying something out under controlled conditions to see how well it performs.",
+      "scope": "This is a trial to measure how well something works, not an exam of a student's knowledge.",
+      "examples": [
+        "Testing of the new bridge will continue for months.",
+        "The drug is still undergoing testing."
+      ],
+      "branchCoverage": [
+        "the act of subjecting to experimental test in order to determine how well something works -> The process of trying something out under controlled conditions to see how well it performs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of subjecting to experimental test in order to determine how well something works"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "abuse%1:10:00::",
+      "lemma": "abuse",
+      "pos": "n",
+      "definition": "a rude expression intended to offend or hurt",
+      "decision": "gloss",
+      "simpleMeaning": "Rude words spoken or written in order to upset or wound someone.",
+      "scope": "This is insulting language, not cruel or violent treatment of a person.",
+      "examples": [
+        "The player shouted abuse at the referee.",
+        "She was shocked by the abuse in his message."
+      ],
+      "branchCoverage": [
+        "a rude expression intended to offend or hurt -> Rude words spoken or written in order to upset or wound someone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a rude expression intended to offend or hurt"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "angry%5:00:00:unhealthy:00",
+      "lemma": "angry",
+      "pos": "a",
+      "definition": "severely inflamed and painful",
+      "decision": "gloss",
+      "simpleMeaning": "Badly swollen, red and sore.",
+      "scope": "This describes a sore, swollen part of the body, not a person feeling rage.",
+      "examples": [
+        "The skin around the bite was angry and swollen.",
+        "An angry red line ran across his leg."
+      ],
+      "branchCoverage": [
+        "severely inflamed and painful -> Badly swollen, red and sore"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "severely inflamed and painful"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "comfortable%3:00:00::",
+      "lemma": "comfortable",
+      "pos": "a",
+      "definition": "providing or experiencing physical well-being or relief (‘comfy’ is informal)",
+      "decision": "gloss",
+      "simpleMeaning": "Giving or feeling bodily ease and freedom from pain.",
+      "scope": "This is about the body's ease, not about feeling calm and free from worry.",
+      "examples": [
+        "This chair is very comfortable.",
+        "These shoes are comfortable enough for a long walk."
+      ],
+      "branchCoverage": [
+        "providing or experiencing physical well-being or relief (‘comfy’ is informal) -> Giving or feeling bodily ease and freedom from pain"
+      ],
+      "labelBranches": [
+        {
+          "branch": "providing or experiencing physical well-being or relief (‘comfy’ is informal)",
+          "explanation": "The parenthetical ‘comfy’ is informal is a usage/register note about a synonym; it carries no meaning content."
+        }
+      ],
+      "sourceBranches": [
+        "providing or experiencing physical well-being or relief (‘comfy’ is informal)"
+      ],
+      "lemmaPartition": "comfortable%3:00:00:: = bodily ease or relief; comfortable%3:00:01:: = mental calm and freedom from stress",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "comfortable%3:00:01::",
+      "lemma": "comfortable",
+      "pos": "a",
+      "definition": "free from stress or conducive to mental ease; having or affording peace of mind",
+      "decision": "gloss",
+      "simpleMeaning": "Free from stress and worry, or helping a person feel calm and at peace in their mind.",
+      "scope": "This is about mental calm, not physical ease or relief, and not about having enough money.",
+      "examples": [
+        "She felt comfortable with her choice and never worried about it again.",
+        "The friendly welcome made him comfortable enough to share his worries."
+      ],
+      "branchCoverage": [
+        "free from stress or conducive to mental ease -> Free from stress and worry, or helping a person feel calm",
+        "having or affording peace of mind -> at peace in their mind"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "free from stress or conducive to mental ease",
+        "having or affording peace of mind"
+      ],
+      "lemmaPartition": "comfortable%3:00:00:: = bodily ease or relief; comfortable%3:00:01:: = mental calm and freedom from stress",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "developing%1:22:00::",
+      "lemma": "developing",
+      "pos": "n",
+      "definition": "processing a photosensitive material in order to make an image visible",
+      "decision": "gloss",
+      "simpleMeaning": "The work of treating light-sensitive film or paper so that a picture becomes visible.",
+      "scope": "This is the photographic process, not the growth of something and not the adjective for countries with little industry.",
+      "examples": [
+        "Film developing must be done in near darkness.",
+        "He spent the afternoon on developing and printing his vacation photos."
+      ],
+      "branchCoverage": [
+        "processing a photosensitive material in order to make an image visible -> treating light-sensitive film or paper so that a picture becomes visible"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "processing a photosensitive material in order to make an image visible"
+      ],
+      "lemmaPartition": "developing%1:22:00:: = treating light-sensitive material so a photo image appears; developing%5:00:00:nonindustrial:00 = describing poor societies short of capital for industry",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "developing%5:00:00:nonindustrial:00",
+      "lemma": "developing",
+      "pos": "a",
+      "definition": "relating to societies in which capital needed to industrialize is in short supply",
+      "decision": "gloss",
+      "simpleMeaning": "Describing countries that do not have enough money and resources to build up modern industry.",
+      "scope": "This describes whole countries or economies, not a thing that is growing and not the photographic process.",
+      "examples": [
+        "Many developing nations depend on foreign aid.",
+        "She works on clean water projects in developing countries."
+      ],
+      "branchCoverage": [
+        "relating to societies in which capital needed to industrialize is in short supply -> Describing countries that do not have enough money and resources to build up modern industry"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "relating to societies in which capital needed to industrialize is in short supply"
+      ],
+      "lemmaPartition": "developing%1:22:00:: = treating light-sensitive material so a photo image appears; developing%5:00:00:nonindustrial:00 = describing poor societies short of capital for industry",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "discuss%2:32:00::",
+      "lemma": "discuss",
+      "pos": "v",
+      "definition": "speak with others about (something); talk (something) over in detail; have a discussion",
+      "decision": "gloss",
+      "simpleMeaning": "To talk something over with other people in detail, sharing views in a conversation about it.",
+      "scope": "This means talking something over with other people, not merely mentioning it in passing and not thinking it over alone.",
+      "examples": [
+        "We discussed the budget for an hour before voting.",
+        "The class discussed the poem in small groups."
+      ],
+      "branchCoverage": [
+        "speak with others about (something) -> talk ... with other people ... about it",
+        "talk (something) over in detail -> talk something over ... in detail",
+        "have a discussion -> sharing views in a conversation"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "speak with others about (something)",
+        "talk (something) over in detail",
+        "have a discussion"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "emotional%3:00:02::",
+      "lemma": "emotional",
+      "pos": "a",
+      "definition": "determined or actuated by emotion rather than reason",
+      "decision": "gloss",
+      "simpleMeaning": "Driven by strong feelings rather than by careful reasoning.",
+      "scope": "This describes a decision or reaction that comes from feeling instead of thought; it is not about someone who shows unusually strong feelings and not about matters that merely involve feelings.",
+      "examples": [
+        "It was an emotional decision, and he later admitted that reason had played no part.",
+        "The committee's emotional judgment ignored the figures entirely."
+      ],
+      "branchCoverage": [
+        "determined or actuated by emotion rather than reason -> Driven by strong feelings rather than by careful reasoning"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "determined or actuated by emotion rather than reason"
+      ],
+      "lemmaPartition": "emotional%3:00:02:: = driven by feeling rather than reason; emotional%3:00:00:: = showing more feeling than usual; emotional%3:01:00:: = relating to feelings in general",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "emotional%3:00:00::",
+      "lemma": "emotional",
+      "pos": "a",
+      "definition": "of more than usual emotion",
+      "decision": "gloss",
+      "simpleMeaning": "Having or showing stronger feelings than most people or situations do.",
+      "scope": "This means feelings are stronger than usual, not that a decision was based on feeling instead of reason, and not simply that something relates to feelings.",
+      "examples": [
+        "She gave an emotional speech at the farewell party, and several people cried.",
+        "He gets emotional every time he talks about his old dog."
+      ],
+      "branchCoverage": [
+        "of more than usual emotion -> Having or showing stronger feelings than most people or situations do"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of more than usual emotion"
+      ],
+      "lemmaPartition": "emotional%3:00:02:: = driven by feeling rather than reason; emotional%3:00:00:: = showing more feeling than usual; emotional%3:01:00:: = relating to feelings in general",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "emotional%3:01:00::",
+      "lemma": "emotional",
+      "pos": "a",
+      "definition": "of or pertaining to emotion",
+      "decision": "gloss",
+      "simpleMeaning": "Having to do with a person's feelings.",
+      "scope": "This only marks a link to feelings in general; it does not mean that someone shows unusually strong feelings or acts from feeling instead of reason.",
+      "examples": [
+        "Children need emotional support as much as food and shelter.",
+        "The study measured the emotional effects of long hospital stays."
+      ],
+      "branchCoverage": [
+        "of or pertaining to emotion -> Having to do with a person's feelings"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or pertaining to emotion"
+      ],
+      "lemmaPartition": "emotional%3:00:02:: = driven by feeling rather than reason; emotional%3:00:00:: = showing more feeling than usual; emotional%3:01:00:: = relating to feelings in general",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "everywhere%4:02:00::",
+      "lemma": "everywhere",
+      "pos": "r",
+      "definition": "to or in any or all places; pronoun, location; quantifier: universal",
+      "decision": "gloss",
+      "simpleMeaning": "In all places, or to all places.",
+      "scope": "This refers to place, not time, and it means all places rather than just many or some.",
+      "examples": [
+        "I looked everywhere for my keys but could not find them.",
+        "Cheap phone cases are sold everywhere these days."
+      ],
+      "branchCoverage": [
+        "to or in any or all places -> In all places, or to all places",
+        "pronoun, location -> (grammar label, no meaning content)",
+        "quantifier: universal -> In all places",
+        "after colon: universal -> In all places"
+      ],
+      "labelBranches": [
+        "pronoun, location (part-of-speech annotation, not meaning content)",
+        "quantifier: universal (grammatical note about the word's quantifier role, not meaning content)",
+        "after colon: universal (truncated lexicon annotation, not meaning content)"
+      ],
+      "sourceBranches": [
+        "to or in any or all places",
+        "pronoun, location",
+        "quantifier: universal",
+        "after colon: universal"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fox%1:05:00::",
+      "lemma": "fox",
+      "pos": "n",
+      "definition": "alert carnivorous mammal with pointed muzzle and ears and a bushy tail; most are predators that do not hunt in packs",
+      "decision": "gloss",
+      "simpleMeaning": "A watchful wild animal that eats meat, has a pointed face and ears and a thick bushy tail, and hunts alone rather than in a group.",
+      "scope": "This is the living animal, not its fur, not a sly person, and not any of the actions described by the verb.",
+      "examples": [
+        "A fox crossed the road just before dawn.",
+        "Foxes usually hunt alone at night."
+      ],
+      "branchCoverage": [
+        "alert carnivorous mammal with pointed muzzle and ears and a bushy tail -> watchful wild animal that eats meat, has a pointed face and ears and a thick bushy tail",
+        "most are predators that do not hunt in packs -> hunts alone rather than in a group"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "alert carnivorous mammal with pointed muzzle and ears and a bushy tail",
+        "most are predators that do not hunt in packs"
+      ],
+      "lemmaPartition": "fox%1:05:00:: = the living animal; fox%1:27:00:: = its fur as a material; fox%2:30:00:: = paper or cloth becoming spotted with mildew-like marks; fox%2:31:00:: = baffling someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fox%1:27:00::",
+      "lemma": "fox",
+      "pos": "n",
+      "definition": "the grey or reddish-brown fur of a fox",
+      "decision": "gloss",
+      "simpleMeaning": "The grey or reddish-brown fur of a wild animal, used as a material.",
+      "scope": "This is the fur as a material, not the living animal and not a cunning person.",
+      "examples": [
+        "She wrapped a fox fur around her neck before going out.",
+        "The shop sells fox and other furs."
+      ],
+      "branchCoverage": [
+        "the grey or reddish-brown fur of a fox -> The grey or reddish-brown fur of a wild animal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the grey or reddish-brown fur of a fox"
+      ],
+      "lemmaPartition": "fox%1:05:00:: = the living animal; fox%1:27:00:: = its fur as a material; fox%2:30:00:: = paper or cloth becoming spotted with mildew-like marks; fox%2:31:00:: = baffling someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fox%2:30:00::",
+      "lemma": "fox",
+      "pos": "v",
+      "definition": "become discolored with, or as if with, mildew spots",
+      "decision": "gloss",
+      "simpleMeaning": "To become stained with small brownish spots that look like a kind of mold, as old paper does.",
+      "scope": "This describes paper or cloth getting brown spots; it is not the animal, its fur, or the act of confusing someone.",
+      "examples": [
+        "The pages had foxed badly in the damp attic.",
+        "Damp had foxed the old maps along the folds."
+      ],
+      "branchCoverage": [
+        "become discolored with, or as if with, mildew spots -> To become stained with small brownish spots that look like a kind of mold, as old paper does"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "become discolored with, or as if with, mildew spots"
+      ],
+      "lemmaPartition": "fox%1:05:00:: = the living animal; fox%1:27:00:: = its fur as a material; fox%2:30:00:: = paper or cloth becoming spotted with mildew-like marks; fox%2:31:00:: = baffling someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fox%2:31:00::",
+      "lemma": "fox",
+      "pos": "v",
+      "definition": "be confusing or perplexing to; cause to be unable to think clearly",
+      "decision": "gloss",
+      "simpleMeaning": "To puzzle someone so much that they cannot think clearly.",
+      "scope": "This means to baffle someone, not to trick them into doing something, and not to describe an animal or its fur.",
+      "examples": [
+        "The riddle completely foxed me for a while.",
+        "The last question on the exam foxed even the best students."
+      ],
+      "branchCoverage": [
+        "be confusing or perplexing to -> puzzle someone so much",
+        "cause to be unable to think clearly -> they cannot think clearly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be confusing or perplexing to",
+        "cause to be unable to think clearly"
+      ],
+      "lemmaPartition": "fox%1:05:00:: = the living animal; fox%1:27:00:: = its fur as a material; fox%2:30:00:: = paper or cloth becoming spotted with mildew-like marks; fox%2:31:00:: = baffling someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "holiday%1:28:00::",
+      "lemma": "holiday",
+      "pos": "n",
+      "definition": "leisure time away from work devoted to rest or pleasure",
+      "decision": "gloss",
+      "simpleMeaning": "A period of free time when someone does not work and can rest or enjoy themselves.",
+      "scope": "This is the time off itself, not a public festival day and not the trip taken during that time.",
+      "examples": [
+        "She is on holiday for two weeks and will not check her email.",
+        "After a busy year, he needed a real holiday."
+      ],
+      "branchCoverage": [
+        "leisure time away from work devoted to rest or pleasure -> A period of free time when someone does not work and can rest or enjoy themselves"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "leisure time away from work devoted to rest or pleasure"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "laugh%1:10:01::",
+      "lemma": "laugh",
+      "pos": "n",
+      "definition": "a humorous anecdote or remark intended to provoke laughter",
+      "decision": "defer",
+      "reason": "The noun in this sense means a joke or funny remark, but modern English almost never uses 'laugh' that way; natural sentences would instead show the sound of laughing or an amusing occasion, so the sense cannot be shown with two idiomatic examples.",
+      "sourceBranches": [
+        "a humorous anecdote or remark intended to provoke laughter"
+      ],
+      "lemmaPartition": "laugh%1:10:00:: = the sound of amusement; laugh%1:10:01:: = a joke or funny remark; laugh%1:10:02:: = the facial expression of amusement; laugh%2:29:00:: = the act of making the sound",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "laugh%1:10:02::",
+      "lemma": "laugh",
+      "pos": "n",
+      "definition": "a facial expression characteristic of a person laughing",
+      "decision": "defer",
+      "reason": "Modern English does not naturally use 'laugh' as a noun for the look on someone's face; any natural example would be read as the sound or as an amusing event, so this sense cannot be shown with two idiomatic sentences.",
+      "sourceBranches": [
+        "a facial expression characteristic of a person laughing"
+      ],
+      "lemmaPartition": "laugh%1:10:00:: = the sound of amusement; laugh%1:10:01:: = a joke or funny remark; laugh%1:10:02:: = the facial expression of amusement; laugh%2:29:00:: = the act of making the sound",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "laugh%1:10:00::",
+      "lemma": "laugh",
+      "pos": "n",
+      "definition": "the sound of laughing",
+      "decision": "gloss",
+      "simpleMeaning": "The sound someone makes when something strikes them as funny.",
+      "scope": "This is only the sound, not the joke that caused it and not the look on the face.",
+      "examples": [
+        "I heard a loud laugh from the kitchen.",
+        "Her laugh is so distinctive that I can recognize it across the room."
+      ],
+      "branchCoverage": [
+        "the sound of laughing -> The sound someone makes when something strikes them as funny"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the sound of laughing"
+      ],
+      "lemmaPartition": "laugh%1:10:00:: = the sound of amusement; laugh%1:10:01:: = a joke or funny remark; laugh%1:10:02:: = the facial expression of amusement; laugh%2:29:00:: = the act of making the sound",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "laugh%2:29:00::",
+      "lemma": "laugh",
+      "pos": "v",
+      "definition": "produce laughter",
+      "decision": "gloss",
+      "simpleMeaning": "To make the sounds and movements that show you find something funny.",
+      "scope": "This means making the sounds of amusement, not just smiling, and not making fun of someone.",
+      "examples": [
+        "We laughed until our sides hurt.",
+        "She laughed at his joke even though she had heard it before."
+      ],
+      "branchCoverage": [
+        "produce laughter -> To make the sounds and movements that show you find something funny"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "produce laughter"
+      ],
+      "lemmaPartition": "laugh%1:10:00:: = the sound of amusement; laugh%1:10:01:: = a joke or funny remark; laugh%1:10:02:: = the facial expression of amusement; laugh%2:29:00:: = the act of making the sound",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "leg%1:08:01::",
+      "lemma": "leg",
+      "pos": "n",
+      "definition": "a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle",
+      "decision": "gloss",
+      "simpleMeaning": "One of the long limbs a person stands and walks on; in everyday use the whole limb, but strictly the part from knee to ankle.",
+      "scope": "This is a part of a person's body, not the support of a table or chair and not the part of a garment that covers it.",
+      "examples": [
+        "He broke his leg skiing and was on crutches for weeks.",
+        "Her legs ached after the long hike."
+      ],
+      "branchCoverage": [
+        "a human limb -> One of the long limbs a person stands and walks on",
+        "commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle -> in everyday use the whole limb, but strictly the part from knee to ankle"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a human limb",
+        "commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "liberal%1:18:01::",
+      "lemma": "liberal",
+      "pos": "n",
+      "definition": "a person who favors an economic theory of laissez-faire and self-regulating markets",
+      "decision": "gloss",
+      "simpleMeaning": "Someone who believes that markets work best when government leaves them alone and they regulate themselves.",
+      "scope": "This is about economic beliefs only, not about someone who supports social reform and personal rights, and not about being open to new ideas.",
+      "examples": [
+        "As an economic liberal, she opposed the new price controls.",
+        "The party's liberals pushed for free trade and open markets."
+      ],
+      "branchCoverage": [
+        "a person who favors an economic theory of laissez-faire and self-regulating markets -> Someone who believes that markets work best when government leaves them alone and they regulate themselves"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who favors an economic theory of laissez-faire and self-regulating markets"
+      ],
+      "lemmaPartition": "liberal%1:18:00:: = supporter of political progress, reform and civil liberties; liberal%1:18:01:: = supporter of free markets with little government control; liberal%3:00:00:: = open to change and free of rigid tradition; liberal%5:00:00:broad-minded:00 = willing to accept different views and ways of life",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "liberal%3:00:00::",
+      "lemma": "liberal",
+      "pos": "a",
+      "definition": "tolerant of change; not bound by authoritarianism, orthodoxy, or tradition",
+      "decision": "gloss",
+      "simpleMeaning": "Open to change and new ideas, and not tied to strict authority, accepted beliefs, or old customs.",
+      "scope": "This describes an outlook that accepts social change, not the economic belief in free markets and not merely a personal willingness to accept other people's views.",
+      "examples": [
+        "She holds liberal views on marriage and family life.",
+        "The country has become more liberal about dress and behavior."
+      ],
+      "branchCoverage": [
+        "tolerant of change -> Open to change",
+        "not bound by authoritarianism, orthodoxy, or tradition -> not tied to strict authority, accepted beliefs, or old customs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "tolerant of change",
+        "not bound by authoritarianism, orthodoxy, or tradition"
+      ],
+      "lemmaPartition": "liberal%1:18:00:: = supporter of political progress, reform and civil liberties; liberal%1:18:01:: = supporter of free markets with little government control; liberal%3:00:00:: = open to change and free of rigid tradition; liberal%5:00:00:broad-minded:00 = willing to accept different views and ways of life",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "liberal%1:18:00::",
+      "lemma": "liberal",
+      "pos": "n",
+      "definition": "a person who favors a political philosophy of progress and reform and the protection of civil liberties",
+      "decision": "gloss",
+      "simpleMeaning": "Someone who supports social progress, changes to improve society, and the freedom and rights of individuals.",
+      "scope": "This is a political supporter of reform and personal rights, not an economic free-market believer and not someone who is merely generous.",
+      "examples": [
+        "As a liberal, he campaigned for equal rights and prison reform.",
+        "The liberals in parliament backed the voting reform."
+      ],
+      "branchCoverage": [
+        "a person who favors a political philosophy of progress and reform and the protection of civil liberties -> Someone who supports social progress, changes to improve society, and the freedom and rights of individuals"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who favors a political philosophy of progress and reform and the protection of civil liberties"
+      ],
+      "lemmaPartition": "liberal%1:18:00:: = supporter of political progress, reform and civil liberties; liberal%1:18:01:: = supporter of free markets with little government control; liberal%3:00:00:: = open to change and free of rigid tradition; liberal%5:00:00:broad-minded:00 = willing to accept different views and ways of life",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "liberal%5:00:00:broad-minded:00",
+      "lemma": "liberal",
+      "pos": "a",
+      "definition": "showing or characterized by broad-mindedness",
+      "decision": "gloss",
+      "simpleMeaning": "Willing to accept and respect views and ways of life different from your own.",
+      "scope": "This describes a person's willingness to accept differences, not a political or economic position.",
+      "examples": [
+        "My parents were liberal about what I read and never censored my books.",
+        "She takes a liberal view of other people's lifestyles."
+      ],
+      "branchCoverage": [
+        "showing or characterized by broad-mindedness -> Willing to accept and respect views and ways of life different from your own"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "showing or characterized by broad-mindedness"
+      ],
+      "lemmaPartition": "liberal%1:18:00:: = supporter of political progress, reform and civil liberties; liberal%1:18:01:: = supporter of free markets with little government control; liberal%3:00:00:: = open to change and free of rigid tradition; liberal%5:00:00:broad-minded:00 = willing to accept different views and ways of life",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "milk%1:13:01::",
+      "lemma": "milk",
+      "pos": "n",
+      "definition": "a white nutritious liquid secreted by mammals and used as food by human beings",
+      "decision": "gloss",
+      "simpleMeaning": "A white, nourishing liquid that female animals produce for their young and that people also drink.",
+      "scope": "This is the liquid from animals, not a drink made from plants or nuts that is merely similar to it.",
+      "examples": [
+        "She poured milk into her coffee.",
+        "The farm sells fresh milk from its cows."
+      ],
+      "branchCoverage": [
+        "a white nutritious liquid secreted by mammals and used as food by human beings -> A white, nourishing liquid that female animals produce for their young and that people also drink"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a white nutritious liquid secreted by mammals and used as food by human beings"
+      ],
+      "lemmaPartition": "milk%1:13:01:: = the white liquid produced by animals; milk%1:13:02:: = a plant- or nut-based liquid used like it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "milk%1:13:02::",
+      "lemma": "milk",
+      "pos": "n",
+      "definition": "any of several nutritive milklike liquids",
+      "decision": "gloss",
+      "simpleMeaning": "A nourishing liquid made from a plant or nut that looks and is used like the drink from animals.",
+      "scope": "This is the plant-based kind, not the liquid produced by animals.",
+      "examples": [
+        "She switched to coconut milk in her cereal.",
+        "The recipe calls for almond milk instead of dairy."
+      ],
+      "branchCoverage": [
+        "any of several nutritive milklike liquids -> A nourishing liquid made from a plant or nut that looks and is used like the drink from animals"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any of several nutritive milklike liquids"
+      ],
+      "lemmaPartition": "milk%1:13:01:: = the white liquid produced by animals; milk%1:13:02:: = a plant- or nut-based liquid used like it",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pack%1:06:00::",
+      "lemma": "pack",
+      "pos": "n",
+      "definition": "a convenient package or parcel (as of cigarettes or film)",
+      "decision": "gloss",
+      "simpleMeaning": "A small sealed container or wrapped bundle of goods sold together, such as cigarettes or film.",
+      "scope": "This is a small unit of goods for sale, not a group of animals and not a bag carried on the back.",
+      "examples": [
+        "He bought a pack of cigarettes at the station.",
+        "She took a pack of film out of her bag."
+      ],
+      "branchCoverage": [
+        "a convenient package or parcel (as of cigarettes or film) -> A small sealed container or wrapped bundle of goods sold together, such as cigarettes or film"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a convenient package or parcel (as of cigarettes or film)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

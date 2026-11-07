@@ -1,0 +1,1208 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 66,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 43,
+      "of": 50,
+      "rate": 0.86
+    },
+    "selfApproved": [
+      "create%2:36:03::",
+      "peace%1:10:00::",
+      "track%1:06:01::",
+      "track%2:36:00::",
+      "weight%1:23:00::",
+      "double%5:00:00:equivocal:00"
+    ],
+    "selfDeferred": [],
+    "lineage": {
+      "draft": "28c71bffcd849a337e52f34395aa86b4b5275f0d4ae6f255d546f6efbf92e6d4"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "cold%5:00:00:unconscious:00",
+      "lemma": "cold",
+      "pos": "a",
+      "definition": "unconscious from a blow or shock or intoxication",
+      "sourceBranches": [
+        "unconscious from a blow or shock or intoxication"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "not conscious because of a hit, a shock, or too much alcohol or drugs",
+      "scope": "This means physically unaware after a blow, shock, or intoxication, not feeling low in temperature or being unfriendly.",
+      "examples": [
+        "The boxer was out cold on the canvas.",
+        "He drank until he passed out cold."
+      ],
+      "branchCoverage": [
+        "unconscious from a blow or shock or intoxication -> not conscious because of a hit, a shock, or too much alcohol or drugs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cold%5:00:00:unconscious:00 -> unconscious after a blow, shock, or intoxication; cold%5:00:00:far:00 -> a searcher still far from the goal; cold%5:00:00:perfect:00 -> known with faultless familiarity; cold%5:00:00:unoriginal:00 -> stale, no longer new or spontaneous",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cold%5:00:00:far:00",
+      "lemma": "cold",
+      "pos": "a",
+      "definition": "of a seeker; far from the object sought",
+      "sourceBranches": [
+        "of a seeker",
+        "far from the object sought"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "used of someone searching for something, meaning they are still far from what they are trying to find",
+      "scope": "This describes a searcher's distance from the goal, not the temperature of the air or a person's manner.",
+      "examples": [
+        "You're cold: the hidden key is on the other side of the room.",
+        "The children shouted 'cold' whenever the seeker moved farther from the toy."
+      ],
+      "branchCoverage": [
+        "of a seeker -> used of someone searching for something",
+        "far from the object sought -> still far from what they are trying to find"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cold%5:00:00:unconscious:00 -> unconscious after a blow, shock, or intoxication; cold%5:00:00:far:00 -> a searcher still far from the goal; cold%5:00:00:perfect:00 -> known with faultless familiarity; cold%5:00:00:unoriginal:00 -> stale, no longer new or spontaneous",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cold%5:00:00:perfect:00",
+      "lemma": "cold",
+      "pos": "a",
+      "definition": "marked by errorless familiarity",
+      "sourceBranches": [
+        "marked by errorless familiarity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "known so well that it can be done or said without any mistake",
+      "scope": "This describes complete, faultless knowledge, not low temperature or a stale idea.",
+      "examples": [
+        "She knew her lines cold before the first rehearsal.",
+        "He had the whole speech cold after a week of practice."
+      ],
+      "branchCoverage": [
+        "marked by errorless familiarity -> known so well that it can be done or said without any mistake"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cold%5:00:00:unconscious:00 -> unconscious after a blow, shock, or intoxication; cold%5:00:00:far:00 -> a searcher still far from the goal; cold%5:00:00:perfect:00 -> known with faultless familiarity; cold%5:00:00:unoriginal:00 -> stale, no longer new or spontaneous",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cold%5:00:00:unoriginal:00",
+      "lemma": "cold",
+      "pos": "a",
+      "definition": "lacking originality or spontaneity; no longer new",
+      "sourceBranches": [
+        "lacking originality or spontaneity",
+        "no longer new"
+      ],
+      "decision": "defer",
+      "simpleMeaning": "",
+      "scope": "",
+      "examples": [],
+      "branchCoverage": [
+        "lacking originality or spontaneity -> deferred: modern sentences using this sense read as temperature or unfriendliness",
+        "no longer new -> deferred: the stale sense survives mainly in literary phrases such as 'cold news'"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "cold%5:00:00:unconscious:00 -> unconscious after a blow, shock, or intoxication; cold%5:00:00:far:00 -> a searcher still far from the goal; cold%5:00:00:perfect:00 -> known with faultless familiarity; cold%5:00:00:unoriginal:00 -> stale, no longer new or spontaneous",
+      "deferReason": "The stale, no-longer-new sense of cold survives mainly in literary phrases such as 'cold news'; natural modern sentences read as temperature or unfriendliness, so idiomatic examples cannot be written.",
+      "reason": "The stale, no-longer-new sense of cold survives mainly in literary phrases such as 'cold news'; natural modern sentences read as temperature or unfriendliness, so idiomatic examples cannot be written.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "create%2:36:03::",
+      "lemma": "create",
+      "pos": "v",
+      "definition": "create or manufacture a man-made product",
+      "sourceBranches": [
+        "create or manufacture a man-made product"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make goods, especially in a factory",
+      "scope": "This means making a physical product, not producing art or bringing something into existence in general.",
+      "examples": [
+        "The factory creates thousands of parts every day.",
+        "Our workshop creates custom furniture for hotels."
+      ],
+      "branchCoverage": [
+        "create or manufacture a man-made product -> to make goods, especially in a factory"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "create%2:36:03:: -> make or manufacture a physical product; create%2:36:13:: -> make a work by artistic means",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss reuses 'manufactured', the word being explained; say 'to make goods, especially in a factory'."
+    },
+    {
+      "senseId": "create%2:36:13::",
+      "lemma": "create",
+      "pos": "v",
+      "definition": "create by artistic means",
+      "sourceBranches": [
+        "create by artistic means"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make something using artistic skill",
+      "scope": "This means making art or an imaginative work, not manufacturing a physical product.",
+      "examples": [
+        "The composer created a haunting film score.",
+        "She created a mural for the city library."
+      ],
+      "branchCoverage": [
+        "create by artistic means -> to make something using artistic skill"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "create%2:36:03:: -> make or manufacture a physical product; create%2:36:13:: -> make a work by artistic means",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "funny%5:00:00:ill:01",
+      "lemma": "funny",
+      "pos": "a",
+      "definition": "experiencing odd bodily sensations",
+      "sourceBranches": [
+        "experiencing odd bodily sensations"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "having strange or unusual feelings in the body",
+      "scope": "This describes a strange physical feeling, not something humorous or amusing.",
+      "examples": [
+        "I felt funny after the second cup of coffee.",
+        "She said her chest felt funny and asked to see a doctor."
+      ],
+      "branchCoverage": [
+        "experiencing odd bodily sensations -> having strange or unusual feelings in the body"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "peace%1:10:00::",
+      "lemma": "peace",
+      "pos": "n",
+      "definition": "a treaty to cease hostilities",
+      "sourceBranches": [
+        "a treaty to cease hostilities"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "an official agreement between enemies to stop fighting",
+      "scope": "This is the agreement that ends fighting, not the calm state that follows it.",
+      "examples": [
+        "The peace was signed in Paris in 1945.",
+        "Negotiators worked through the night to draw up the peace."
+      ],
+      "branchCoverage": [
+        "a treaty to cease hostilities -> an official agreement between enemies to stop fighting"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Example 2 'welcomed the peace' reads as the calm state; use a sentence about signing a treaty."
+    },
+    {
+      "senseId": "track%1:06:01::",
+      "lemma": "track",
+      "pos": "n",
+      "definition": "a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll",
+      "sourceBranches": [
+        "a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a steel rail, or a pair of parallel rails, that trains run on",
+      "scope": "This is a steel rail or pair of rails, not a path, a song, or a mark left by feet.",
+      "examples": [
+        "The workers laid new track between the two stations.",
+        "The train slowed as it crossed the old track."
+      ],
+      "branchCoverage": [
+        "a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll -> a steel rail, or a pair of parallel rails, that trains run on"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "track%1:06:01:: -> steel rail or pair of rails for trains; track%1:10:00:: -> one song or music selection on a recording; track%1:06:06:: -> endless metal belt of a tracked vehicle; track%1:04:00:: -> the sport of running races on a course; track%1:06:00:: -> rough road or path for passage; track%1:06:03:: -> groove on a phonograph record; track%2:36:00:: -> make marks or footprints on something",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "SimpleMeaning repeats the formal definition almost word for word; simplify to 'a steel rail, or pair of rails, that trains run on'."
+    },
+    {
+      "senseId": "track%1:10:00::",
+      "lemma": "track",
+      "pos": "n",
+      "definition": "a distinct selection of music from a recording or a compact disc",
+      "sourceBranches": [
+        "a distinct selection of music from a recording or a compact disc"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "one separate song or piece of music on a recording or compact disc",
+      "scope": "This is one item in a music release, not a railway line or a rough path.",
+      "examples": [
+        "The album opens with a slow track.",
+        "You can skip to the next track on the CD."
+      ],
+      "branchCoverage": [
+        "a distinct selection of music from a recording or a compact disc -> one separate song or piece of music on a recording or compact disc"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "track%1:06:01:: -> steel rail or pair of rails for trains; track%1:10:00:: -> one song or music selection on a recording; track%1:06:06:: -> endless metal belt of a tracked vehicle; track%1:04:00:: -> the sport of running races on a course; track%1:06:00:: -> rough road or path for passage; track%1:06:03:: -> groove on a phonograph record; track%2:36:00:: -> make marks or footprints on something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "track%1:06:06::",
+      "lemma": "track",
+      "pos": "n",
+      "definition": "an endless metal belt on which tracked vehicles move over the ground",
+      "sourceBranches": [
+        "an endless metal belt on which tracked vehicles move over the ground"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a continuous metal belt that a vehicle runs on instead of wheels",
+      "scope": "This is the steel belt of a tank or bulldozer, not a railway rail or a footpath.",
+      "examples": [
+        "The bulldozer's tracks were clogged with mud.",
+        "The tank's track had come loose."
+      ],
+      "branchCoverage": [
+        "an endless metal belt on which tracked vehicles move over the ground -> a continuous metal belt that a vehicle runs on instead of wheels"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "track%1:06:01:: -> steel rail or pair of rails for trains; track%1:10:00:: -> one song or music selection on a recording; track%1:06:06:: -> endless metal belt of a tracked vehicle; track%1:04:00:: -> the sport of running races on a course; track%1:06:00:: -> rough road or path for passage; track%1:06:03:: -> groove on a phonograph record; track%2:36:00:: -> make marks or footprints on something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "track%1:04:00::",
+      "lemma": "track",
+      "pos": "n",
+      "definition": "the act of participating in an athletic competition involving running on a track",
+      "sourceBranches": [
+        "the act of participating in an athletic competition involving running on a track"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the sport of taking part in running competitions on a specially built course",
+      "scope": "This is the sport of racing on foot, not the physical course itself or a railway line.",
+      "examples": [
+        "She runs track at her university.",
+        "Track is his favourite sport."
+      ],
+      "branchCoverage": [
+        "the act of participating in an athletic competition involving running on a track -> the sport of taking part in running competitions on a specially built course"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "track%1:06:01:: -> steel rail or pair of rails for trains; track%1:10:00:: -> one song or music selection on a recording; track%1:06:06:: -> endless metal belt of a tracked vehicle; track%1:04:00:: -> the sport of running races on a course; track%1:06:00:: -> rough road or path for passage; track%1:06:03:: -> groove on a phonograph record; track%2:36:00:: -> make marks or footprints on something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "track%1:06:00::",
+      "lemma": "track",
+      "pos": "n",
+      "definition": "any road or path affording passage especially a rough one",
+      "sourceBranches": [
+        "any road or path affording passage especially a rough one"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "any road or path that lets you travel through, especially a rough one",
+      "scope": "This is a rough route over land, not a railway line or a song.",
+      "examples": [
+        "We followed a muddy track through the woods.",
+        "The track to the farm is too narrow for cars."
+      ],
+      "branchCoverage": [
+        "any road or path affording passage especially a rough one -> any road or path that lets you travel through, especially a rough one"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "track%1:06:01:: -> steel rail or pair of rails for trains; track%1:10:00:: -> one song or music selection on a recording; track%1:06:06:: -> endless metal belt of a tracked vehicle; track%1:04:00:: -> the sport of running races on a course; track%1:06:00:: -> rough road or path for passage; track%1:06:03:: -> groove on a phonograph record; track%2:36:00:: -> make marks or footprints on something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "track%1:06:03::",
+      "lemma": "track",
+      "pos": "n",
+      "definition": "a groove on a phonograph recording",
+      "sourceBranches": [
+        "a groove on a phonograph recording"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a long narrow cut in the surface of a record that the needle follows as the record plays",
+      "scope": "This is the cut line in a record's surface, not a railway line, a path, a song on an album, a running event, or the metal belt of a heavy vehicle.",
+      "examples": [
+        "The needle jumped out of the track and the music stopped.",
+        "Dust had settled in the grooves of the old vinyl record."
+      ],
+      "branchCoverage": [
+        "a groove on a phonograph recording -> a long narrow cut in the surface of a record that the needle follows as the record plays"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "track%1:06:01:: -> steel rail or pair of rails for trains; track%1:10:00:: -> one song or music selection on a recording; track%1:06:06:: -> endless metal belt of a tracked vehicle; track%1:04:00:: -> the sport of running races on a course; track%1:06:00:: -> rough road or path for passage; track%1:06:03:: -> groove on a phonograph record; track%2:36:00:: -> make marks or footprints on something",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "track%2:36:00::",
+      "lemma": "track",
+      "pos": "v",
+      "definition": "make tracks upon",
+      "sourceBranches": [
+        "make tracks upon"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to leave footprints or other marks on a surface",
+      "scope": "This is about leaving marks with the feet, not about following someone, chasing something, or keeping a record of events.",
+      "examples": [
+        "The children tracked mud across the kitchen floor.",
+        "Visitors had tracked wet sand through the hall."
+      ],
+      "branchCoverage": [
+        "make tracks upon -> to leave footprints or other marks on a surface"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "track%1:06:01:: -> steel rail or pair of rails for trains; track%1:10:00:: -> one song or music selection on a recording; track%1:06:06:: -> endless metal belt of a tracked vehicle; track%1:04:00:: -> the sport of running races on a course; track%1:06:00:: -> rough road or path for passage; track%1:06:03:: -> groove on a phonograph record; track%2:36:00:: -> make marks or footprints on something",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'by walking'; tracks can also be made by vehicles or animals, not only feet."
+    },
+    {
+      "senseId": "weight%1:23:00::",
+      "lemma": "weight",
+      "pos": "n",
+      "definition": "a unit used to measure weight",
+      "sourceBranches": [
+        "a unit used to measure weight"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a standard amount, such as a kilogram or a pound, used to say how heavy something is",
+      "scope": "This is one single unit, not the whole system of units, not the heaviness itself, not a metal block used on a balance, and not the importance of something.",
+      "examples": [
+        "The pound is a weight used in Britain and the United States.",
+        "In the metric system, the gram is the smallest common weight on kitchen scales."
+      ],
+      "branchCoverage": [
+        "a unit used to measure weight -> a standard amount, such as a kilogram or a pound, used to say how heavy something is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "weight%1:23:00:: -> one unit for measuring heaviness; weight%1:23:01:: -> whole system of such units",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples use 'weight' as heaviness, not as a unit; neither shows the unit sense with the headword."
+    },
+    {
+      "senseId": "weight%1:23:01::",
+      "lemma": "weight",
+      "pos": "n",
+      "definition": "a system of units used to express the weight of something",
+      "sourceBranches": [
+        "a system of units used to express the weight of something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a set of standard units, such as metric or imperial, used to state how heavy something is",
+      "scope": "This is the whole set of units, not one single unit, not the heaviness of an object, and not a metal block used on a balance.",
+      "examples": [
+        "The label shows both weight systems side by side.",
+        "Britain changed its weight system from imperial to metric over many years."
+      ],
+      "branchCoverage": [
+        "a system of units used to express the weight of something -> a set of standard units, such as metric or imperial, used to state how heavy something is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "weight%1:23:00:: -> one unit for measuring heaviness; weight%1:23:01:: -> whole system of such units",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "addition%1:04:01::",
+      "lemma": "addition",
+      "pos": "n",
+      "definition": "the arithmetic operation of summing; calculating the sum of two or more numbers",
+      "sourceBranches": [
+        "the arithmetic operation of summing",
+        "calculating the sum of two or more numbers"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the arithmetic process of putting two or more numbers together to find their total",
+      "scope": "This is the number process in arithmetic, not the act of putting something into a group, not an extra room, and not an extra item included with something.",
+      "examples": [
+        "She checked her addition twice before handing in the test.",
+        "The children practiced addition with numbers up to ten."
+      ],
+      "branchCoverage": [
+        "the arithmetic operation of summing -> the arithmetic process of putting two or more numbers together to find their total",
+        "calculating the sum of two or more numbers -> putting two or more numbers together to find their total"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "addition%1:04:01:: -> arithmetic joining of numbers; addition%1:15:00:: -> new housing development",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "addition%1:15:00::",
+      "lemma": "addition",
+      "pos": "n",
+      "definition": "a suburban area laid out in streets and lots for a future residential area",
+      "sourceBranches": [
+        "a suburban area laid out in streets and lots for a future residential area"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a piece of land near a city, divided into streets and building plots for new homes",
+      "scope": "This is a planned housing area on the edge of a town, not the arithmetic process, not an extra room, and not something extra joined to something else.",
+      "examples": [
+        "They bought a plot in the new addition north of town.",
+        "Houses in the addition sold quickly."
+      ],
+      "branchCoverage": [
+        "a suburban area laid out in streets and lots for a future residential area -> a piece of land near a city, divided into streets and building plots for new homes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "addition%1:04:01:: -> arithmetic joining of numbers; addition%1:15:00:: -> new housing development",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ahead%4:02:01::",
+      "lemma": "ahead",
+      "pos": "r",
+      "definition": "ahead of time; in anticipation",
+      "sourceBranches": [
+        "ahead of time",
+        "in anticipation"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "before the expected time, as preparation for something that will happen",
+      "scope": "This means earlier than expected or needed, not in front in a race, and not further forward in space.",
+      "examples": [
+        "She finished the report ahead of time.",
+        "They arrived ahead of schedule and had to wait."
+      ],
+      "branchCoverage": [
+        "ahead of time -> before the expected time",
+        "in anticipation -> as preparation for something that will happen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ahead%4:02:01:: -> earlier than expected; ahead%4:02:03:: -> in front in a contest",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ahead%4:02:03::",
+      "lemma": "ahead",
+      "pos": "r",
+      "definition": "leading or ahead in a competition",
+      "sourceBranches": [
+        "leading or ahead in a competition"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in front of rivals in a contest, with a higher score or a better position",
+      "scope": "This is about being in front in a contest or race, not about doing something early, and not about physical position further forward.",
+      "examples": [
+        "Our team is ahead by two goals.",
+        "She pulled ahead in the final lap."
+      ],
+      "branchCoverage": [
+        "leading or ahead in a competition -> in front of rivals in a contest, with a higher score or a better position"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "ahead%4:02:01:: -> earlier than expected; ahead%4:02:03:: -> in front in a contest",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "allow%2:31:00::",
+      "lemma": "allow",
+      "pos": "v",
+      "definition": "allow or plan for a certain possibility; concede the truth or validity of something",
+      "sourceBranches": [
+        "allow or plan for a certain possibility",
+        "concede the truth or validity of something"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to accept that something may be true, or may happen, and take it into account when planning",
+      "scope": "This is about accepting a possible fact or outcome, not about giving permission, not about making something possible, and not about letting an activity go on.",
+      "examples": [
+        "We must allow for delays caused by bad weather.",
+        "Even allowing that he was tired, the mistake was careless."
+      ],
+      "branchCoverage": [
+        "allow or plan for a certain possibility -> may happen, and take it into account when planning",
+        "concede the truth or validity of something -> to accept that something may be true"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "allow%2:31:00:: -> accept a possibility as true; allow%2:42:00:: -> make something possible; allow%2:32:06:: -> let something go on unchallenged; allow%2:41:01:: -> give up runs in baseball",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "allow%2:42:00::",
+      "lemma": "allow",
+      "pos": "v",
+      "definition": "make a possibility or provide opportunity for; permit to be attainable or cause to remain",
+      "sourceBranches": [
+        "make a possibility or provide opportunity for",
+        "permit to be attainable or cause to remain"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to make it possible for something to happen, be obtained, or stay available",
+      "scope": "This is about creating or leaving room for something, not about accepting a fact, not about giving permission, and not about letting something go on unchecked.",
+      "examples": [
+        "The extra hour allows time for questions.",
+        "Leave the door open to allow cool air in."
+      ],
+      "branchCoverage": [
+        "make a possibility or provide opportunity for -> to make it possible for something to happen",
+        "permit to be attainable or cause to remain -> be obtained, or stay available"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "allow%2:31:00:: -> accept a possibility as true; allow%2:42:00:: -> make something possible; allow%2:32:06:: -> let something go on unchallenged; allow%2:41:01:: -> give up runs in baseball",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "allow%2:32:06::",
+      "lemma": "allow",
+      "pos": "v",
+      "definition": "allow the presence of or allow (an activity) without opposing or prohibiting",
+      "sourceBranches": [
+        "allow the presence of or allow (an activity) without opposing or prohibiting"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "to let something be present or let an activity go on without objecting or stopping it",
+      "scope": "This is about not opposing something that happens, not about granting formal permission, not about making something possible, and not about accepting a fact.",
+      "examples": [
+        "The school does not allow mobile phones in class.",
+        "They allowed the protest to continue peacefully."
+      ],
+      "branchCoverage": [
+        "allow the presence of or allow (an activity) without opposing or prohibiting -> to let something be present or let an activity go on without objecting or stopping it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "allow%2:31:00:: -> accept a possibility as true; allow%2:42:00:: -> make something possible; allow%2:32:06:: -> let something go on unchallenged; allow%2:41:01:: -> give up runs in baseball",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "allow%2:41:01::",
+      "lemma": "allow",
+      "pos": "v",
+      "definition": "allow the other (baseball) team to score",
+      "sourceBranches": [
+        "allow the other (baseball) team to score"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, to let the opposing team get a run or point",
+      "scope": "This is the baseball use about giving up runs to the other side, not about permission, not about accepting a fact, and not about making something possible.",
+      "examples": [
+        "The pitcher allowed three runs in the first inning.",
+        "Our defense allowed two home runs."
+      ],
+      "branchCoverage": [
+        "allow the other (baseball) team to score -> in baseball, to let the opposing team get a run or point"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "allow%2:31:00:: -> accept a possibility as true; allow%2:42:00:: -> make something possible; allow%2:32:06:: -> let something go on unchallenged; allow%2:41:01:: -> give up runs in baseball",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "association%1:24:00::",
+      "lemma": "association",
+      "pos": "n",
+      "definition": "a relation resulting from interaction or dependence",
+      "sourceBranches": [
+        "a relation resulting from interaction or dependence"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a connection between things or people that comes from their working together or relying on each other",
+      "scope": "This is a link produced by contact or reliance, not an organized group of people and not a mental link between ideas.",
+      "examples": [
+        "There is a close association between the two species.",
+        "The association between the two firms began with a shared supplier."
+      ],
+      "branchCoverage": [
+        "a relation resulting from interaction or dependence -> a connection between things or people that comes from their working together or relying on each other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beat%1:19:00::",
+      "lemma": "beat",
+      "pos": "n",
+      "definition": "a single pulsation of an oscillation produced by adding two waves of different frequencies; has a frequency equal to the difference between the two oscillations",
+      "sourceBranches": [
+        "a single pulsation of an oscillation produced by adding two waves of different frequencies",
+        "has a frequency equal to the difference between the two oscillations"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "One pulse of the oscillation formed when two waves of unlike frequency are added; its frequency equals the gap between the two.",
+      "scope": "This is the physics pulse made by combining waves, not a musical rhythm, a police patrol area, or an act of hitting.",
+      "examples": [
+        "The two tuning forks produced slow beats that rose and fell.",
+        "The beats grew faster as the two frequencies moved further apart."
+      ],
+      "branchCoverage": [
+        "a single pulsation of an oscillation produced by adding two waves of different frequencies -> One pulse of the oscillation formed when two waves of unlike frequency are added",
+        "has a frequency equal to the difference between the two oscillations -> its frequency equals the gap between the two"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beat%1:19:00:: -> wave-interference pulse; beat%2:35:10:: -> strike own body in emotion or to music; beat%2:35:12:: -> strike water or bushes to rouse game; beat%1:04:00:: -> sailing close into the wind; beat%2:38:03:: -> signal by tapping fingers or drumsticks; beat%2:39:03:: -> shine or hit with great intensity",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beat%2:35:10::",
+      "lemma": "beat",
+      "pos": "v",
+      "definition": "strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music",
+      "sourceBranches": [
+        "strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Hit a part of your own body again and again, as when overwhelmed by feeling or keeping time to music.",
+      "scope": "This is striking your own body, not signalling with taps, driving game from cover, or hitting someone else.",
+      "examples": [
+        "She beat her chest in grief at the funeral.",
+        "The drummer beat his thighs in time with the song."
+      ],
+      "branchCoverage": [
+        "strike (a part of one's own body) repeatedly, as in great emotion or in accompaniment to music -> Hit a part of your own body again and again, as when overwhelmed by feeling or keeping time to music"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beat%1:19:00:: -> wave-interference pulse; beat%2:35:10:: -> strike own body in emotion or to music; beat%2:35:12:: -> strike water or bushes to rouse game; beat%1:04:00:: -> sailing close into the wind; beat%2:38:03:: -> signal by tapping fingers or drumsticks; beat%2:39:03:: -> shine or hit with great intensity",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beat%2:35:12::",
+      "lemma": "beat",
+      "pos": "v",
+      "definition": "strike (water or bushes) repeatedly to rouse animals for hunting",
+      "sourceBranches": [
+        "strike (water or bushes) repeatedly to rouse animals for hunting"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Hit water or bushes over and over so that hidden animals are startled out for hunters.",
+      "scope": "This is driving animals from cover by striking plants or water, not striking your own body or keeping time to music.",
+      "examples": [
+        "The hunters beat the reeds to drive the ducks into the open.",
+        "The dogs waited while the men beat the undergrowth."
+      ],
+      "branchCoverage": [
+        "strike (water or bushes) repeatedly to rouse animals for hunting -> Hit water or bushes over and over so that hidden animals are startled out for hunters"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beat%1:19:00:: -> wave-interference pulse; beat%2:35:10:: -> strike own body in emotion or to music; beat%2:35:12:: -> strike water or bushes to rouse game; beat%1:04:00:: -> sailing close into the wind; beat%2:38:03:: -> signal by tapping fingers or drumsticks; beat%2:39:03:: -> shine or hit with great intensity",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beat%1:04:00::",
+      "lemma": "beat",
+      "pos": "n",
+      "definition": "the act of beating to windward; sailing as close as possible to the direction from which the wind is blowing",
+      "sourceBranches": [
+        "the act of beating to windward",
+        "sailing as close as possible to the direction from which the wind is blowing"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The act of sailing toward the wind by steering as near as possible to where it comes from.",
+      "scope": "This is a way of sailing toward the wind, not a wave pulse, a rhythm, or a blow.",
+      "examples": [
+        "After a hard beat to windward, they finally reached harbour.",
+        "The yacht's beat into the breeze took all morning."
+      ],
+      "branchCoverage": [
+        "the act of beating to windward -> The act of sailing toward the wind",
+        "sailing as close as possible to the direction from which the wind is blowing -> steering as near as possible to where it comes from"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beat%1:19:00:: -> wave-interference pulse; beat%2:35:10:: -> strike own body in emotion or to music; beat%2:35:12:: -> strike water or bushes to rouse game; beat%1:04:00:: -> sailing close into the wind; beat%2:38:03:: -> signal by tapping fingers or drumsticks; beat%2:39:03:: -> shine or hit with great intensity",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beat%2:38:03::",
+      "lemma": "beat",
+      "pos": "v",
+      "definition": "indicate by beating, as with the fingers or drumsticks",
+      "sourceBranches": [
+        "indicate by beating, as with the fingers or drumsticks"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Show or mark something by tapping, for example with your fingers or drumsticks.",
+      "scope": "This is marking or signalling with taps, not striking your own body in strong feeling or driving game from cover.",
+      "examples": [
+        "The conductor beat time so the orchestra stayed together.",
+        "He beat a tattoo on the table with his fingers."
+      ],
+      "branchCoverage": [
+        "indicate by beating, as with the fingers or drumsticks -> Show or mark something by tapping, for example with your fingers or drumsticks"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beat%1:19:00:: -> wave-interference pulse; beat%2:35:10:: -> strike own body in emotion or to music; beat%2:35:12:: -> strike water or bushes to rouse game; beat%1:04:00:: -> sailing close into the wind; beat%2:38:03:: -> signal by tapping fingers or drumsticks; beat%2:39:03:: -> shine or hit with great intensity",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beat%2:39:03::",
+      "lemma": "beat",
+      "pos": "v",
+      "definition": "glare or strike with great intensity",
+      "sourceBranches": [
+        "glare or strike with great intensity"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Shine or hit with very great force or brightness.",
+      "scope": "This is about harsh light or a powerful impact, not about tapping a signal, striking yourself, or sailing.",
+      "examples": [
+        "The sun beat down on the empty road all afternoon.",
+        "Rain beat against the windows throughout the night."
+      ],
+      "branchCoverage": [
+        "glare or strike with great intensity -> Shine or hit with very great force or brightness"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "beat%1:19:00:: -> wave-interference pulse; beat%2:35:10:: -> strike own body in emotion or to music; beat%2:35:12:: -> strike water or bushes to rouse game; beat%1:04:00:: -> sailing close into the wind; beat%2:38:03:: -> signal by tapping fingers or drumsticks; beat%2:39:03:: -> shine or hit with great intensity",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "capital%1:06:00::",
+      "lemma": "capital",
+      "pos": "n",
+      "definition": "the upper part of a column that supports the entablature",
+      "sourceBranches": [
+        "the upper part of a column that supports the entablature"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The top section of a pillar, which carries the horizontal structure resting above it.",
+      "scope": "This is the top of a pillar, not a city, money, or a large letter.",
+      "examples": [
+        "The column's capital was carved with acanthus leaves.",
+        "A plain stone capital sat between the shaft and the roof beam."
+      ],
+      "branchCoverage": [
+        "the upper part of a column that supports the entablature -> The top section of a pillar, which carries the horizontal structure resting above it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "capital%1:06:00:: -> top of a pillar; capital%1:10:00:: -> large letter",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "capital%1:10:00::",
+      "lemma": "capital",
+      "pos": "n",
+      "definition": "one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis",
+      "sourceBranches": [
+        "one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "A large letter, used to begin proper names in writing or print and sometimes for emphasis.",
+      "scope": "This is a large letter, not a city, money, or the top of a column.",
+      "examples": [
+        "Begin every sentence with a capital.",
+        "The title was printed in capitals across the poster."
+      ],
+      "branchCoverage": [
+        "one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis -> A large letter, used to begin proper names in writing or print and sometimes for emphasis"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "capital%1:06:00:: -> top of a pillar; capital%1:10:00:: -> large letter",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "difference%1:23:00::",
+      "lemma": "difference",
+      "pos": "n",
+      "definition": "the number that remains after subtraction; the number that when added to the subtrahend gives the minuend",
+      "sourceBranches": [
+        "the number that remains after subtraction",
+        "the number that when added to the subtrahend gives the minuend"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The result left after one number is taken from another; added to the amount removed, it gives the starting number.",
+      "scope": "This is the arithmetic result of subtracting, not a disagreement or a point that makes things unlike.",
+      "examples": [
+        "The difference between nine and four is five.",
+        "Subtract the smaller figure and write the difference in the box."
+      ],
+      "branchCoverage": [
+        "the number that remains after subtraction -> The result left after one number is taken from another",
+        "the number that when added to the subtrahend gives the minuend -> added to the amount removed, it gives the starting number"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "double%5:00:00:equivocal:00",
+      "lemma": "double",
+      "pos": "a",
+      "definition": "having two meanings with intent to deceive",
+      "sourceBranches": [
+        "having two meanings with intent to deceive"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Having two possible meanings, said or done in order to mislead.",
+      "scope": "This describes words meant to mislead, not something twice as large or a thing with two roles.",
+      "examples": [
+        "The contract was written with a double meaning so that either side could claim it had been kept.",
+        "His answer carried a double meaning, letting him deny what he had promised."
+      ],
+      "branchCoverage": [
+        "having two meanings with intent to deceive -> Having two possible meanings, said or done in order to mislead"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "double%5:00:00:equivocal:00 -> two meanings meant to deceive; double%2:35:01:: -> serve two roles",
+      "deferReason": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples 'double answer' and 'double statement' are not idiomatic and can read as 'two answers'; use 'double meaning' collocation."
+    },
+    {
+      "senseId": "double%2:35:01::",
+      "lemma": "double",
+      "pos": "v",
+      "definition": "do double duty; serve two purposes or have two functions",
+      "sourceBranches": [
+        "do double duty",
+        "serve two purposes or have two functions"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "Do two jobs at once; be useful for two aims or work in two ways.",
+      "scope": "This is one thing serving two roles, not making something twice as big or hiding a second meaning.",
+      "examples": [
+        "The sofa doubles as a bed when guests stay.",
+        "The garage doubles as a workshop in winter."
+      ],
+      "branchCoverage": [
+        "do double duty -> Do two jobs at once",
+        "serve two purposes or have two functions -> be useful for two aims or work in two ways"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "double%5:00:00:equivocal:00 -> two meanings meant to deceive; double%2:35:01:: -> serve two roles",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gas%1:06:00::",
+      "lemma": "gas",
+      "pos": "n",
+      "definition": "a pedal that controls the throttle valve",
+      "sourceBranches": [
+        "a pedal that controls the throttle valve"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "The foot pedal that operates the throttle valve.",
+      "scope": "This is the pedal in a vehicle, not fuel, vapour, or wind in the stomach.",
+      "examples": [
+        "He hit the gas and the car shot forward.",
+        "She eased off the gas as the road curved."
+      ],
+      "branchCoverage": [
+        "a pedal that controls the throttle valve -> The foot pedal that operates the throttle valve"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "gas%1:06:00:: -> accelerator pedal; gas%1:27:03:: -> cooking and heating fuel; gas%1:26:01:: -> excess wind in the intestines",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gas%1:27:03::",
+      "lemma": "gas",
+      "pos": "n",
+      "definition": "a fossil fuel in the gaseous state; used for cooking and heating homes",
+      "sourceBranches": [
+        "a fossil fuel in the gaseous state",
+        "used for cooking and heating homes"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a fuel from the ancient remains of living things, found as a vapor, burned to cook food and warm homes",
+      "scope": "This is the fuel piped into homes, not the fuel burned in car engines, not the pedal in a car, and not trapped air in the stomach.",
+      "examples": [
+        "Our house is heated by gas, so the winter bills are high.",
+        "She turned on the gas and put the kettle on the stove."
+      ],
+      "branchCoverage": [
+        "a fossil fuel in the gaseous state -> a fuel from the ancient remains of living things, found as a vapor",
+        "used for cooking and heating homes -> burned to cook food and warm homes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "gas%1:06:00:: -> accelerator pedal; gas%1:27:03:: -> cooking and heating fuel; gas%1:26:01:: -> excess wind in the intestines",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gas%1:26:01::",
+      "lemma": "gas",
+      "pos": "n",
+      "definition": "a state of excessive gas in the alimentary canal",
+      "sourceBranches": [
+        "a state of excessive gas in the alimentary canal"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a condition in which too much air is trapped in the digestive tract",
+      "scope": "This is discomfort from trapped air in the digestive system, not fuel burned in homes and not the pedal in a car.",
+      "examples": [
+        "Eating beans gives me gas.",
+        "The doctor asked whether she had gas or bloating after meals."
+      ],
+      "branchCoverage": [
+        "a state of excessive gas in the alimentary canal -> a condition in which too much air is trapped in the digestive tract"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "gas%1:06:00:: -> accelerator pedal; gas%1:27:03:: -> cooking and heating fuel; gas%1:26:01:: -> excess wind in the intestines",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "population%1:04:00::",
+      "lemma": "population",
+      "pos": "n",
+      "definition": "the act of populating (causing to live in a place)",
+      "sourceBranches": [
+        "the act of populating (causing to live in a place)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the act of filling a place with people or animals so that they live there",
+      "scope": "This is the act of settling people or animals in a place, not the number of people living there.",
+      "examples": [
+        "The population of the island by settlers took many years.",
+        "The population of the marsh by beavers changed the flow of water."
+      ],
+      "branchCoverage": [
+        "the act of populating (causing to live in a place) -> the act of filling a place with people or animals so that they live there"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "population%1:04:00:: -> the act of settling people in a place; population%1:23:00:: -> the number of people living in a place",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "population%1:23:00::",
+      "lemma": "population",
+      "pos": "n",
+      "definition": "the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.)",
+      "sourceBranches": [
+        "the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the number of people living in a place, either all of them or those of a certain race or class",
+      "scope": "This is the count of people in a place, not the people themselves and not the act of settling them there.",
+      "examples": [
+        "The town's population has grown by a third in ten years.",
+        "The city has a large population of retired teachers."
+      ],
+      "branchCoverage": [
+        "the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.) -> the number of people living in a place, either all of them or those of a certain race or class"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "population%1:04:00:: -> the act of settling people in a place; population%1:23:00:: -> the number of people living in a place",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pressure%1:09:00::",
+      "lemma": "pressure",
+      "pos": "n",
+      "definition": "the somatic sensation that results from applying force to an area of skin",
+      "sourceBranches": [
+        "the somatic sensation that results from applying force to an area of skin"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the bodily feeling produced when a force is applied to a patch of skin",
+      "scope": "This is the felt sensation on the skin, not the force itself, not the act of pushing something, and not the weight of the air around us.",
+      "examples": [
+        "She felt a gentle pressure on her shoulder and turned around.",
+        "The tight bandage made him feel pressure on his arm."
+      ],
+      "branchCoverage": [
+        "the somatic sensation that results from applying force to an area of skin -> the bodily feeling produced when a force bears down on a patch of skin"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pressure%1:09:00:: -> the felt sensation of force on the skin; pressure%1:19:01:: -> the weight of the air around the earth",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pressure%1:19:01::",
+      "lemma": "pressure",
+      "pos": "n",
+      "definition": "the pressure exerted by the atmosphere",
+      "sourceBranches": [
+        "the pressure exerted by the atmosphere"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the weight of the air around the earth as it bears down on every surface",
+      "scope": "This is the weight of the air itself, not the felt sensation on the skin and not the force of one object on another.",
+      "examples": [
+        "At high altitude, the pressure is lower, so it is harder to breathe.",
+        "The weather report showed the pressure falling before the storm."
+      ],
+      "branchCoverage": [
+        "the pressure exerted by the atmosphere -> the weight of the air around the earth as it bears down on every surface"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "pressure%1:09:00:: -> the felt sensation of force on the skin; pressure%1:19:01:: -> the weight of the air around the earth",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "station%1:07:00::",
+      "lemma": "station",
+      "pos": "n",
+      "definition": "the frequency assigned to a broadcasting station",
+      "sourceBranches": [
+        "the frequency assigned to a broadcasting station"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the particular radio frequency on which a broadcaster sends out its programs",
+      "scope": "This is the frequency a listener tunes to, not the building that sends programs, not a stop on a railway, and not a guard's assigned post.",
+      "examples": [
+        "She tuned the dial to the station at 101.7 FM.",
+        "The station comes in clearly at 98.5 FM."
+      ],
+      "branchCoverage": [
+        "the frequency assigned to a broadcasting station -> the particular radio frequency on which a broadcaster sends out its programs"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "station%1:07:00:: -> the radio frequency a broadcaster uses; station%1:15:00:: -> a guard's assigned post",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "station%1:15:00::",
+      "lemma": "station",
+      "pos": "n",
+      "definition": "the position where someone (as a guard or sentry) stands or is assigned to stand",
+      "sourceBranches": [
+        "the position where someone (as a guard or sentry) stands or is assigned to stand"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the place where a guard or lookout is told to stand and remain on duty",
+      "scope": "This is a person's assigned post, not a radio frequency, not a stop on a railway, and not a broadcasting building.",
+      "examples": [
+        "The soldier returned to his station at the gate.",
+        "Two guards left their stations for a few minutes."
+      ],
+      "branchCoverage": [
+        "the position where someone (as a guard or sentry) stands or is assigned to stand -> the place where a guard or lookout is told to stand and remain on duty"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "station%1:07:00:: -> the radio frequency a broadcaster uses; station%1:15:00:: -> a guard's assigned post",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "text%1:10:01::",
+      "lemma": "text",
+      "pos": "n",
+      "definition": "the main body of a written work (as distinct from illustrations or footnotes etc.)",
+      "sourceBranches": [
+        "the main body of a written work (as distinct from illustrations or footnotes etc.)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the main written part of a work, not its pictures, notes, or other extra material",
+      "scope": "This is the central written content of a book or article, not a short phone message and not a textbook.",
+      "examples": [
+        "The diagrams are helpful, but the text explains the theory clearly.",
+        "She read the text first and looked at the pictures later."
+      ],
+      "branchCoverage": [
+        "the main body of a written work (as distinct from illustrations or footnotes etc.) -> the main written part of a work, not its pictures, notes, or other extra material"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "treatment%1:10:00::",
+      "lemma": "treatment",
+      "pos": "n",
+      "definition": "an extended communication (often interactive) dealing with some particular topic",
+      "sourceBranches": [
+        "an extended communication (often interactive) dealing with some particular topic"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a long discussion or piece of writing that deals with a particular subject, often with back-and-forth exchange",
+      "scope": "This is a discussion of a subject, not medical care, not the way someone is handled, and not an artist's manner of presenting a subject.",
+      "examples": [
+        "Her book offers a detailed treatment of climate policy.",
+        "The panel gave the issue a thorough treatment, with questions from the audience."
+      ],
+      "branchCoverage": [
+        "an extended communication (often interactive) dealing with some particular topic -> a long discussion or piece of writing that deals with a particular subject, often with back-and-forth exchange"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beginning%1:15:00::",
+      "lemma": "beginning",
+      "pos": "n",
+      "definition": "the place where something begins, where it springs into being",
+      "sourceBranches": [
+        "the place where something begins, where it springs into being"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "the place where something first comes into existence or has its source",
+      "scope": "This is a physical or figurative source, not the first period of time.",
+      "examples": [
+        "The river has its beginning in a spring high in the mountains.",
+        "The custom has its beginnings in an old harvest festival."
+      ],
+      "branchCoverage": [
+        "the place where something begins, where it springs into being -> the place where something first comes into existence or has its source"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "campaign%1:04:01::",
+      "lemma": "campaign",
+      "pos": "n",
+      "definition": "an overland journey by hunters (especially in Africa)",
+      "sourceBranches": [
+        "an overland journey by hunters (especially in Africa)"
+      ],
+      "decision": "gloss",
+      "simpleMeaning": "a journey across land made by hunters, especially in Africa",
+      "scope": "This is a hunting expedition, not a political effort to win support and not a military operation.",
+      "examples": [
+        "The hunters set out on a long campaign across the savanna.",
+        "He wrote a book about his hunting campaign in East Africa."
+      ],
+      "branchCoverage": [
+        "an overland journey by hunters (especially in Africa) -> a journey across land made by hunters, especially in Africa"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "deferReason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,969 @@
+{
+  "schema": "oewn-gloss-batch-v2",
+  "batch": 68,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 3350,
+  "senses": [
+    {
+      "senseId": "system%1:27:00::",
+      "lemma": "system",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(physical chemistry) a sample of matter in which substances in different phases are in equilibrium",
+      "synsetId": "15005742-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 265,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(physical chemistry) a sample of matter in which substances in different phases are in equilibrium"
+      ]
+    },
+    {
+      "senseId": "case%1:04:00::",
+      "lemma": "case",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy",
+      "synsetId": "01185144-n",
+      "words": 18,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 270,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy"
+      ]
+    },
+    {
+      "senseId": "mean%1:09:00::",
+      "lemma": "mean",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an average of n numbers computed by adding some function of the numbers and dividing by some function of n",
+      "synsetId": "06033377-n",
+      "words": 20,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 287,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "an average of n numbers computed by adding some function of the numbers and dividing by some function of n"
+      ]
+    },
+    {
+      "senseId": "mean%5:00:00:normal:01",
+      "lemma": "mean",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "approximating the statistical norm or average or expected value",
+      "synsetId": "01598728-s",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 287,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "approximating the statistical norm or average or expected value"
+      ]
+    },
+    {
+      "senseId": "music%1:04:00::",
+      "lemma": "music",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "musical activity (singing or whistling etc.)",
+      "synsetId": "00544270-n",
+      "words": 6,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 292,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "musical activity (singing or whistling etc.)"
+      ]
+    },
+    {
+      "senseId": "power%1:19:00::",
+      "lemma": "power",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(physics) the rate of doing work; measured in watts (= joules/second)",
+      "synsetId": "11473433-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 293,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(physics) the rate of doing work",
+        "measured in watts (= joules/second)"
+      ]
+    },
+    {
+      "senseId": "water%1:17:00::",
+      "lemma": "water",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the part of the earth's surface covered with water (such as a river or lake or ocean)",
+      "synsetId": "09248053-n",
+      "words": 17,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 297,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the part of the earth's surface covered with water (such as a river or lake or ocean)"
+      ]
+    },
+    {
+      "senseId": "order%1:10:03::",
+      "lemma": "order",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed",
+      "synsetId": "07183274-n",
+      "words": 20,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 319,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed"
+      ]
+    },
+    {
+      "senseId": "run%1:04:01::",
+      "lemma": "run",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a score in baseball made by a runner touching all four bases safely",
+      "synsetId": "00190414-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 321,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a score in baseball made by a runner touching all four bases safely"
+      ]
+    },
+    {
+      "senseId": "general%1:18:00::",
+      "lemma": "general",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a general officer of the highest rank",
+      "synsetId": "10143381-n",
+      "words": 7,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 330,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a general officer of the highest rank"
+      ]
+    },
+    {
+      "senseId": "law%1:10:00::",
+      "lemma": "law",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "legal document setting forth rules governing a particular kind of activity",
+      "synsetId": "06544321-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 337,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "legal document setting forth rules governing a particular kind of activity"
+      ]
+    },
+    {
+      "senseId": "war%1:04:00::",
+      "lemma": "war",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the waging of armed conflict against an enemy",
+      "synsetId": "00975181-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 340,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the waging of armed conflict against an enemy"
+      ]
+    },
+    {
+      "senseId": "post%1:06:01::",
+      "lemma": "post",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "military installation at which a body of troops is stationed",
+      "synsetId": "03768938-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 367,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "military installation at which a body of troops is stationed"
+      ]
+    },
+    {
+      "senseId": "video%1:10:02::",
+      "lemma": "video",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(computer science) the appearance of text and graphics on a video display",
+      "synsetId": "06288645-n",
+      "words": 12,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 369,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(computer science) the appearance of text and graphics on a video display"
+      ]
+    },
+    {
+      "senseId": "court%1:06:02::",
+      "lemma": "court",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a room in which a law court sits",
+      "synsetId": "03125429-n",
+      "words": 8,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 375,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a room in which a law court sits"
+      ]
+    },
+    {
+      "senseId": "single%3:00:04::",
+      "lemma": "single",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "used of flowers having usually only one row or whorl of petals",
+      "synsetId": "02228429-a",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 384,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "used of flowers having usually only one row or whorl of petals"
+      ]
+    },
+    {
+      "senseId": "single%2:35:00::",
+      "lemma": "single",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "hit a single",
+      "synsetId": "01412028-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 384,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "hit a single"
+      ]
+    },
+    {
+      "senseId": "control%1:04:02::",
+      "lemma": "control",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(physiology) regulation or maintenance of a function or action or reflex etc",
+      "synsetId": "00832109-n",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 388,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(physiology) regulation or maintenance of a function or action or reflex etc"
+      ]
+    },
+    {
+      "senseId": "hit%1:04:03::",
+      "lemma": "hit",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(baseball) when a batter strikes a pitched ball into fair territory and arrives safely on base (without an error or a fielder's choice being made by the defense)",
+      "synsetId": "00044640-n",
+      "words": 28,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 421,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(baseball) when a batter strikes a pitched ball into fair territory and arrives safely on base (without an error or a fielder's choice being made by the defense)"
+      ]
+    },
+    {
+      "senseId": "light%1:19:00::",
+      "lemma": "light",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(physics) electromagnetic radiation that can produce a visual sensation",
+      "synsetId": "11494354-n",
+      "words": 9,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 460,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(physics) electromagnetic radiation that can produce a visual sensation"
+      ]
+    },
+    {
+      "senseId": "short%3:00:01::",
+      "lemma": "short",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(primarily spatial sense) having little length or lacking in length",
+      "synsetId": "01438878-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 465,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(primarily spatial sense) having little length or lacking in length"
+      ]
+    },
+    {
+      "senseId": "stay%1:10:00::",
+      "lemma": "stay",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a judicial order forbidding some action until an event occurs or the order is lifted",
+      "synsetId": "06554258-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 466,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a judicial order forbidding some action until an event occurs or the order is lifted"
+      ]
+    },
+    {
+      "senseId": "buy%2:40:00::",
+      "lemma": "buy",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "obtain by purchase; acquire by means of a financial transaction",
+      "synsetId": "02211988-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 469,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "obtain by purchase",
+        "acquire by means of a financial transaction"
+      ]
+    },
+    {
+      "senseId": "development%1:22:01::",
+      "lemma": "development",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level",
+      "synsetId": "13510240-n",
+      "words": 29,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 481,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(biology) the process of an individual organism growing organically",
+        "a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level"
+      ]
+    },
+    {
+      "senseId": "form%1:10:00::",
+      "lemma": "form",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something",
+      "synsetId": "06301417-n",
+      "words": 19,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 482,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something"
+      ]
+    },
+    {
+      "senseId": "act%1:10:01::",
+      "lemma": "act",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a legal document codifying the result of deliberations of a committee or society or legislative body",
+      "synsetId": "06544086-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 489,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a legal document codifying the result of deliberations of a committee or society or legislative body"
+      ]
+    },
+    {
+      "senseId": "fire%2:30:00::",
+      "lemma": "fire",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "bake in a kiln so as to harden",
+      "synsetId": "00321337-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 493,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "bake in a kiln so as to harden"
+      ]
+    },
+    {
+      "senseId": "major%1:18:00::",
+      "lemma": "major",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a commissioned military officer in the United States Army or Air Force or Marines; below lieutenant colonel and above captain",
+      "synsetId": "10302867-n",
+      "words": 20,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 496,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a commissioned military officer in the United States Army or Air Force or Marines",
+        "below lieutenant colonel and above captain"
+      ]
+    },
+    {
+      "senseId": "phone%1:10:00::",
+      "lemma": "phone",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language",
+      "synsetId": "07125755-n",
+      "words": 21,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 498,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(phonetics) an individual sound unit of speech without concern as to whether or not it is a phoneme of some language"
+      ]
+    },
+    {
+      "senseId": "market%2:40:00::",
+      "lemma": "market",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "engage in the commercial promotion, sale, or distribution of",
+      "synsetId": "02303121-v",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 504,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "engage in the commercial promotion, sale, or distribution of"
+      ]
+    },
+    {
+      "senseId": "market%2:40:01::",
+      "lemma": "market",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "deal in a market",
+      "synsetId": "02303432-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 504,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "deal in a market"
+      ]
+    },
+    {
+      "senseId": "program%2:36:00::",
+      "lemma": "program",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "write a computer program",
+      "synsetId": "01751525-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 533,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "write a computer program"
+      ]
+    },
+    {
+      "senseId": "type%1:14:01::",
+      "lemma": "type",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(biology) the taxonomic group whose characteristics are used to define the next higher taxon",
+      "synsetId": "08128385-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 534,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(biology) the taxonomic group whose characteristics are used to define the next higher taxon"
+      ]
+    },
+    {
+      "senseId": "process%1:10:00::",
+      "lemma": "process",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a writ issued by authority of law; usually compels the defendant's attendance in a civil suit; failure to appear results in a default judgment against the defendant",
+      "synsetId": "06568683-n",
+      "words": 27,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 539,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a writ issued by authority of law",
+        "usually compels the defendant's attendance in a civil suit",
+        "failure to appear results in a default judgment against the defendant"
+      ]
+    },
+    {
+      "senseId": "process%1:09:00::",
+      "lemma": "process",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(psychology) the performance of some composite cognitive activity; an operation that affects mental contents",
+      "synsetId": "05709328-n",
+      "words": 14,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 539,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(psychology) the performance of some composite cognitive activity",
+        "an operation that affects mental contents"
+      ]
+    },
+    {
+      "senseId": "field%2:33:00::",
+      "lemma": "field",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "play as a fielder",
+      "synsetId": "01084245-v",
+      "words": 4,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 557,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "play as a fielder"
+      ]
+    },
+    {
+      "senseId": "main%3:00:02::",
+      "lemma": "main",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "(of a clause) capable of standing syntactically alone as a complete sentence",
+      "synsetId": "00733659-a",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 560,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(of a clause) capable of standing syntactically alone as a complete sentence"
+      ]
+    },
+    {
+      "senseId": "energy%1:19:00::",
+      "lemma": "energy",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs",
+      "synsetId": "11472635-n",
+      "words": 23,
+      "rare": 6,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 569,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work",
+        "the units of energy are joules or ergs"
+      ]
+    },
+    {
+      "senseId": "force%1:19:00::",
+      "lemma": "force",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(physics) the influence that produces a change in a physical quantity",
+      "synsetId": "11479041-n",
+      "words": 11,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 572,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(physics) the influence that produces a change in a physical quantity"
+      ]
+    },
+    {
+      "senseId": "running%1:04:03::",
+      "lemma": "running",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(American football) a play in which a player attempts to carry the ball through or past the opposing team",
+      "synsetId": "00559920-n",
+      "words": 19,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 580,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(American football) a play in which a player attempts to carry the ball through or past the opposing team"
+      ]
+    },
+    {
+      "senseId": "running%3:00:00::",
+      "lemma": "running",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "of advancing the ball by running",
+      "synsetId": "01244630-a",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 580,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "of advancing the ball by running"
+      ]
+    },
+    {
+      "senseId": "shot%1:04:06::",
+      "lemma": "shot",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand",
+      "synsetId": "00566339-n",
+      "words": 21,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 593,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(sports) the act of swinging or striking at a ball with a club or racket or bat or cue or hand"
+      ]
+    },
+    {
+      "senseId": "period%1:28:07::",
+      "lemma": "period",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(ice hockey) one of three divisions into which play is divided in hockey games",
+      "synsetId": "15283092-n",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 602,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(ice hockey) one of three divisions into which play is divided in hockey games"
+      ]
+    },
+    {
+      "senseId": "position%1:15:02::",
+      "lemma": "position",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a point occupied by troops for tactical reasons",
+      "synsetId": "08640161-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 603,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a point occupied by troops for tactical reasons"
+      ]
+    },
+    {
+      "senseId": "record%1:10:03::",
+      "lemma": "record",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events",
+      "synsetId": "06659969-n",
+      "words": 21,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 604,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events"
+      ]
+    },
+    {
+      "senseId": "record%2:32:00::",
+      "lemma": "record",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "make a record of; set down in permanent form",
+      "synsetId": "01002259-v",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 604,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "make a record of",
+        "set down in permanent form"
+      ]
+    },
+    {
+      "senseId": "star%1:17:00::",
+      "lemma": "star",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior",
+      "synsetId": "09467004-n",
+      "words": 17,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 638,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior"
+      ]
+    },
+    {
+      "senseId": "break%1:17:00::",
+      "lemma": "break",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other",
+      "synsetId": "09301443-n",
+      "words": 19,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 642,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other"
+      ]
+    },
+    {
+      "senseId": "event%1:19:00::",
+      "lemma": "event",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a phenomenon located at a single point in space-time; the fundamental observational entity in relativity theory",
+      "synsetId": "11474277-n",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 644,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a phenomenon located at a single point in space-time",
+        "the fundamental observational entity in relativity theory"
+      ]
+    },
+    {
+      "senseId": "average%1:09:00::",
+      "lemma": "average",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a statistic describing the location of a distribution",
+      "synsetId": "06031110-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 672,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a statistic describing the location of a distribution"
+      ]
+    }
+  ]
+}

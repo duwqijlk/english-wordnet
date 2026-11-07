@@ -1,0 +1,1150 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 27,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 47,
+    "defers": 3,
+    "firstPass": {
+      "approved": 45,
+      "of": 50,
+      "rate": 0.9
+    },
+    "selfApproved": [
+      "easily%4:02:05::",
+      "skin%2:38:00::",
+      "directly%4:02:07::"
+    ],
+    "selfDeferred": [
+      "marriage%1:14:00::",
+      "damage%1:04:00::"
+    ],
+    "lineage": {
+      "draft": "0ac2ffe2b7582f4ab1e523717e7ed31e9e094d9ae71124fb2ac0ad25f59aed0c"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "wear%2:42:01::",
+      "lemma": "wear",
+      "pos": "v",
+      "definition": "have in one's aspect; wear an expression of one's attitude or personality",
+      "decision": "gloss",
+      "simpleMeaning": "to have a particular look on your face or a particular quality in your manner that shows your feelings or character.",
+      "scope": "This is not about having clothes on your body, and it is not about something becoming thin or damaged through use; it is only about the look or manner a person shows.",
+      "examples": [
+        "She wore a puzzled frown all morning.",
+        "He wore the calm smile of someone who had already won."
+      ],
+      "branchCoverage": [
+        "have in one's aspect -> to have a particular look on your face or a particular quality in your manner",
+        "wear an expression of one's attitude or personality -> that shows your feelings or character"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have in one's aspect",
+        "wear an expression of one's attitude or personality"
+      ],
+      "lemmaPartition": "wear%2:42:01:: = the look or expression a person shows; wear%1:06:00:: = clothes and other coverings for the body",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wear%1:06:00::",
+      "lemma": "wear",
+      "pos": "n",
+      "definition": "a covering designed to be worn on a person's body",
+      "decision": "gloss",
+      "simpleMeaning": "clothing and other items that are made to cover the body and be put on by a person.",
+      "scope": "This is not the act of having something on your body, and it is not the harm that use causes to an object; it is the things themselves.",
+      "examples": [
+        "The shop sells outdoor wear and walking boots.",
+        "He packed light summer wear for the trip."
+      ],
+      "branchCoverage": [
+        "a covering designed to be worn on a person's body -> clothing and other items that are made to cover the body and be put on by a person"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a covering designed to be worn on a person's body"
+      ],
+      "lemmaPartition": "wear%2:42:01:: = the look or expression a person shows; wear%1:06:00:: = clothes and other coverings for the body",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "address%1:10:00::",
+      "lemma": "address",
+      "pos": "n",
+      "definition": "the act of delivering a formal spoken communication to an audience",
+      "decision": "gloss",
+      "simpleMeaning": "the act of giving a formal speech to a group of people.",
+      "scope": "This is not the details of where someone lives, and it is not the way you speak to one person; it is the formal talk given to a group.",
+      "examples": [
+        "The president gave an address to the graduating class.",
+        "Her address to the staff lasted twenty minutes."
+      ],
+      "branchCoverage": [
+        "the act of delivering a formal spoken communication to an audience -> the act of giving a formal speech to a group of people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of delivering a formal spoken communication to an audience"
+      ],
+      "lemmaPartition": "address%1:10:00:: = the act of giving a formal speech to a group; address%2:32:03:: = writing delivery details on an envelope",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "address%2:32:03::",
+      "lemma": "address",
+      "pos": "v",
+      "definition": "put an address on (an envelope)",
+      "decision": "gloss",
+      "simpleMeaning": "to write on an envelope the details of where a person lives or works, so that it can be delivered.",
+      "scope": "This is not giving a formal speech, and it is not dealing with a problem; it is only what you write on the outside of something to be sent.",
+      "examples": [
+        "She addressed the envelope and posted it.",
+        "He addressed all the wedding invitations by hand."
+      ],
+      "branchCoverage": [
+        "put an address on (an envelope) -> to write on an envelope the details of where a person lives or works"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "put an address on (an envelope)"
+      ],
+      "lemmaPartition": "address%1:10:00:: = the act of giving a formal speech to a group; address%2:32:03:: = writing delivery details on an envelope",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "analysis%1:09:00::",
+      "lemma": "analysis",
+      "pos": "n",
+      "definition": "the abstract separation of a whole into its constituent parts in order to study the parts and their relations",
+      "decision": "gloss",
+      "simpleMeaning": "the act of taking a whole thing apart in the mind, rather than with the hands, so as to study its parts and how they are related.",
+      "scope": "This is not the literary criticism that studies how a text is built, and it is not a report of findings; it is the general mental act of taking something apart to study it.",
+      "examples": [
+        "The course teaches the analysis of large data sets.",
+        "His analysis of the problem broke it into four smaller questions."
+      ],
+      "branchCoverage": [
+        "the abstract separation of a whole into its constituent parts in order to study the parts and their relations -> the act of taking a whole thing apart in the mind, rather than with the hands, so as to study its parts and how they are related"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the abstract separation of a whole into its constituent parts in order to study the parts and their relations"
+      ],
+      "lemmaPartition": "analysis%1:09:00:: = the general act of taking a whole apart in the mind to study it; analysis%1:10:00:: = a kind of literary criticism about how a text is built",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "analysis%1:10:00::",
+      "lemma": "analysis",
+      "pos": "n",
+      "definition": "a form of literary criticism in which the structure of a piece of writing is analyzed",
+      "decision": "gloss",
+      "simpleMeaning": "a type of literary criticism that studies how a piece of writing is put together.",
+      "scope": "This is not the general mental act of taking anything apart, and it is not a summary of results; it is one kind of criticism of writing.",
+      "examples": [
+        "Her essay is a close analysis of the novel's opening chapter.",
+        "The class compared two analyses of the same poem."
+      ],
+      "branchCoverage": [
+        "a form of literary criticism in which the structure of a piece of writing is analyzed -> a type of literary criticism that studies how a piece of writing is put together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a form of literary criticism in which the structure of a piece of writing is analyzed"
+      ],
+      "lemmaPartition": "analysis%1:09:00:: = the general act of taking a whole apart in the mind to study it; analysis%1:10:00:: = a kind of literary criticism about how a text is built",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "anyway%4:02:00::",
+      "lemma": "anyway",
+      "pos": "r",
+      "definition": "used to indicate that a statement explains or supports a previous statement",
+      "decision": "gloss",
+      "simpleMeaning": "used to show that what you are saying explains or supports something you have just said.",
+      "scope": "It is not the sense meaning 'in any way'; it marks a statement that explains or backs up what came before.",
+      "examples": [
+        "He lives by the sea; anyway, that explains his love of sailing.",
+        "The train was late again, and anyway, that is why I missed the meeting."
+      ],
+      "branchCoverage": [
+        "used to indicate that a statement explains or supports a previous statement -> used to show that what you are saying explains or supports something you have just said"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "used to indicate that a statement explains or supports a previous statement"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "choose%2:31:00::",
+      "lemma": "choose",
+      "pos": "v",
+      "definition": "pick out, select, or choose from a number of alternatives",
+      "decision": "gloss",
+      "simpleMeaning": "to pick out one thing or person from two or more possible ones because you want that one.",
+      "scope": "It is not simply liking one thing best, and it is not the act of voting; it is deciding on one option from a set of possibilities.",
+      "examples": [
+        "You can choose any three books from the shelf.",
+        "She chose to walk home instead of taking the bus."
+      ],
+      "branchCoverage": [
+        "pick out, select, or choose from a number of alternatives -> to pick out one thing or person from two or more possible ones"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pick out, select, or choose from a number of alternatives"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "color%1:07:00::",
+      "lemma": "color",
+      "pos": "n",
+      "definition": "a visual attribute of things that results from the light they emit or transmit or reflect",
+      "decision": "gloss",
+      "simpleMeaning": "the quality that your eyes see in a thing because of the light it gives out, lets through, or sends back.",
+      "scope": "This is not the paint or dye that is put on an object, and it is not a person's skin tone; it is the quality that light gives.",
+      "examples": [
+        "The color of the sky changed from grey to pink.",
+        "Leaves get their color from natural pigments."
+      ],
+      "branchCoverage": [
+        "a visual attribute of things that results from the light they emit or transmit or reflect -> the quality that your eyes see in a thing because of the light it gives out, lets through, or sends back"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a visual attribute of things that results from the light they emit or transmit or reflect"
+      ],
+      "lemmaPartition": "color%1:07:00:: = the visual quality that light produces; color%2:30:00:: = the act of adding a shade to something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "color%2:30:00::",
+      "lemma": "color",
+      "pos": "v",
+      "definition": "add color to",
+      "decision": "gloss",
+      "simpleMeaning": "to add a shade such as red, blue, or green to something so that it is not plain.",
+      "scope": "This is not the visual quality itself, and it is not about a face turning red; it is the act of putting a shade onto something.",
+      "examples": [
+        "She colored the drawing with bright crayons.",
+        "The children colored the eggs for the holiday."
+      ],
+      "branchCoverage": [
+        "add color to -> to add a shade such as red, blue, or green to something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "add color to"
+      ],
+      "lemmaPartition": "color%1:07:00:: = the visual quality that light produces; color%2:30:00:: = the act of adding a shade to something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "commission%1:21:00::",
+      "lemma": "commission",
+      "pos": "n",
+      "definition": "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)",
+      "decision": "gloss",
+      "simpleMeaning": "money paid to a person for a service, worked out as a share of the amount of money involved rather than as a regular salary.",
+      "scope": "This is not the act of giving authority, and it is not the group appointed to a task; it is only the payment.",
+      "examples": [
+        "The salesperson earns a commission on every car sold.",
+        "He gets a small commission for each deal he arranges."
+      ],
+      "branchCoverage": [
+        "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary) -> money paid to a person for a service, worked out as a share of the amount of money involved rather than as a regular salary"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary)"
+      ],
+      "lemmaPartition": "commission%1:21:00:: = payment that is a share of the money involved, not a salary; commission%1:04:02:: = the act of giving someone authority to do certain duties; commission%2:41:01:: = making a ship ready for active service",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "commission%1:04:02::",
+      "lemma": "commission",
+      "pos": "n",
+      "definition": "the act of granting authority to undertake certain functions",
+      "decision": "gloss",
+      "simpleMeaning": "the act of giving a person the authority to carry out particular duties.",
+      "scope": "This is not the share-of-sales payment, and it is not the ship being made ready; it is the act of giving authority.",
+      "examples": [
+        "The council approved the commission of an independent review.",
+        "The king's commission of a new governor gave him power over the region."
+      ],
+      "branchCoverage": [
+        "the act of granting authority to undertake certain functions -> the act of giving a person the authority to carry out particular duties"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of granting authority to undertake certain functions"
+      ],
+      "lemmaPartition": "commission%1:21:00:: = payment that is a share of the money involved, not a salary; commission%1:04:02:: = the act of giving someone authority to do certain duties; commission%2:41:01:: = making a ship ready for active service",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "commission%2:41:01::",
+      "lemma": "commission",
+      "pos": "v",
+      "definition": "put into commission; equip for service; of ships",
+      "decision": "gloss",
+      "simpleMeaning": "to give a ship the equipment it needs and bring it into active service.",
+      "scope": "This is not the payment for services, and it is not the act of giving someone authority in general; it applies only to ships being made ready.",
+      "examples": [
+        "The navy commissioned the new destroyer last month.",
+        "The ship was commissioned after a year of repairs."
+      ],
+      "branchCoverage": [
+        "put into commission -> bring it into active service",
+        "equip for service -> to give a ship the equipment it needs",
+        "of ships -> a ship"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "put into commission",
+        "equip for service",
+        "of ships"
+      ],
+      "lemmaPartition": "commission%1:21:00:: = payment that is a share of the money involved, not a salary; commission%1:04:02:: = the act of giving someone authority to do certain duties; commission%2:41:01:: = making a ship ready for active service",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "competition%1:04:00::",
+      "lemma": "competition",
+      "pos": "n",
+      "definition": "the act of competing as for profit or a prize",
+      "decision": "gloss",
+      "simpleMeaning": "the act of trying to do better than others in order to win a prize or earn more money.",
+      "scope": "This is not the business relationship between rival sellers, and it is not a single match; it is the activity of trying to beat others.",
+      "examples": [
+        "Competition for the scholarship was intense.",
+        "The competition between the two runners lasted until the final lap."
+      ],
+      "branchCoverage": [
+        "the act of competing as for profit or a prize -> the act of trying to do better than others in order to win a prize or earn more money"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of competing as for profit or a prize"
+      ],
+      "lemmaPartition": "competition%1:04:00:: = the activity of trying to beat others for a prize or gain; competition%1:24:01:: = the business rivalry between sellers for the same buyers",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "competition%1:24:01::",
+      "lemma": "competition",
+      "pos": "n",
+      "definition": "a business relation in which two parties compete to gain customers",
+      "decision": "gloss",
+      "simpleMeaning": "a business situation in which two or more sellers are rivals, each trying to attract the same buyers.",
+      "scope": "This is not the activity of trying to win a prize, and it is not one contest; it is the standing rivalry between businesses for buyers.",
+      "examples": [
+        "Competition between the two supermarkets keeps prices low.",
+        "There is fierce competition for customers in the phone market."
+      ],
+      "branchCoverage": [
+        "a business relation in which two parties compete to gain customers -> a business situation in which two or more sellers are rivals, each trying to attract the same buyers"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a business relation in which two parties compete to gain customers"
+      ],
+      "lemmaPartition": "competition%1:04:00:: = the activity of trying to beat others for a prize or gain; competition%1:24:01:: = the business rivalry between sellers for the same buyers",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "direct%3:00:00::",
+      "lemma": "direct",
+      "pos": "a",
+      "definition": "direct in spatial dimensions; proceeding without deviation or interruption; straight and short",
+      "decision": "gloss",
+      "simpleMeaning": "going from one place to another in a straight line, without turning aside or stopping, and so being short.",
+      "scope": "This is not about having no go-between, and it is not about plain, frank speech; it is about a way through space.",
+      "examples": [
+        "We took the most direct route to the airport.",
+        "There is a direct train from here to the coast."
+      ],
+      "branchCoverage": [
+        "direct in spatial dimensions -> going from one place to another",
+        "proceeding without deviation or interruption -> in a straight line, without turning aside or stopping",
+        "straight and short -> in a straight line, and so being short"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "direct in spatial dimensions",
+        "proceeding without deviation or interruption",
+        "straight and short"
+      ],
+      "lemmaPartition": "direct%3:00:00:: = a straight, short way from one place to another; direct%5:00:00:immediate:00 = having nothing or no one in between",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "direct%5:00:00:immediate:00",
+      "lemma": "direct",
+      "pos": "a",
+      "definition": "having no intervening persons, agents, conditions",
+      "decision": "gloss",
+      "simpleMeaning": "happening or existing with no other person, go-between, or condition in between.",
+      "scope": "This is not about a straight route, and it is not about saying things plainly; it is about nothing coming between two things.",
+      "examples": [
+        "The two leaders held direct talks in Geneva.",
+        "The money came as a direct result of the new law."
+      ],
+      "branchCoverage": [
+        "having no intervening persons, agents, conditions -> with no other person, go-between, or condition in between"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having no intervening persons, agents, conditions"
+      ],
+      "lemmaPartition": "direct%3:00:00:: = a straight, short way from one place to another; direct%5:00:00:immediate:00 = having nothing or no one in between",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dream%1:09:02::",
+      "lemma": "dream",
+      "pos": "n",
+      "definition": "imaginative thoughts indulged in while awake",
+      "decision": "gloss",
+      "simpleMeaning": "imaginative thoughts that you let yourself enjoy while you are awake rather than asleep.",
+      "scope": "This is not the pictures you see during sleep, and it is not a firm hope for the future; it is imagining while awake.",
+      "examples": [
+        "The lecture faded as he drifted into a dream about mountains.",
+        "She stared out of the window, deep in a dream about flying."
+      ],
+      "branchCoverage": [
+        "imaginative thoughts indulged in while awake -> imaginative thoughts that you let yourself enjoy while you are awake rather than asleep"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "imaginative thoughts indulged in while awake"
+      ],
+      "lemmaPartition": "dream%1:09:02:: = imagined scenes enjoyed while awake; dream%2:36:00:: = letting the mind drift into such scenes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dream%2:36:00::",
+      "lemma": "dream",
+      "pos": "v",
+      "definition": "have a daydream; indulge in a fantasy",
+      "decision": "gloss",
+      "simpleMeaning": "to let your thoughts drift into pleasant made-up scenes and allow yourself to enjoy them while you are awake.",
+      "scope": "This is not seeing images during sleep, and it is not simply wishing for something; it is letting the mind play with imagined scenes.",
+      "examples": [
+        "He dreamed of winning the race while the teacher talked.",
+        "She sat dreaming by the river all afternoon."
+      ],
+      "branchCoverage": [
+        "have a daydream -> to let your thoughts drift into pleasant made-up scenes",
+        "indulge in a fantasy -> allow yourself to enjoy them while you are awake"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have a daydream",
+        "indulge in a fantasy"
+      ],
+      "lemmaPartition": "dream%1:09:02:: = imagined scenes enjoyed while awake; dream%2:36:00:: = letting the mind drift into such scenes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "easily%4:02:05::",
+      "lemma": "easily",
+      "pos": "r",
+      "definition": "indicating high probability; in all likelihood",
+      "decision": "gloss",
+      "simpleMeaning": "used to say that something is very likely to be true or to happen.",
+      "scope": "This is not about doing something without effort; it tells you how likely something is.",
+      "examples": [
+        "The repairs will easily cost a thousand pounds.",
+        "The team could easily win on Saturday."
+      ],
+      "branchCoverage": [
+        "indicating high probability -> used to say that something is very likely",
+        "in all likelihood -> to be true or to happen"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "indicating high probability",
+        "in all likelihood"
+      ],
+      "lemmaPartition": "easily%4:02:05:: = saying something is very likely; easily%4:02:01:: = doing something with little effort",
+      "verdict": "self-approved",
+      "reviewerNote": "First example 'easily the best' expresses certainty, not high probability; replace it."
+    },
+    {
+      "senseId": "easily%4:02:01::",
+      "lemma": "easily",
+      "pos": "r",
+      "definition": "with ease (‘easy’ is sometimes used informally for ‘easily’)",
+      "decision": "gloss",
+      "simpleMeaning": "in a way that needs little effort.",
+      "scope": "This is not the sense that means 'very likely'; it tells you how something is done.",
+      "examples": [
+        "She passed the exam easily.",
+        "The old door opened easily."
+      ],
+      "branchCoverage": [
+        "with ease (‘easy’ is sometimes used informally for ‘easily’) -> in a way that needs little effort"
+      ],
+      "labelBranches": [
+        "‘easy’ is sometimes used informally for ‘easily’ -> a usage note about an informal variant; it gives no meaning of its own"
+      ],
+      "sourceBranches": [
+        "with ease (‘easy’ is sometimes used informally for ‘easily’)"
+      ],
+      "lemmaPartition": "easily%4:02:05:: = saying something is very likely; easily%4:02:01:: = doing something with little effort",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "finish%2:42:00::",
+      "lemma": "finish",
+      "pos": "v",
+      "definition": "have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical",
+      "decision": "gloss",
+      "simpleMeaning": "to reach its end, whether in time, in space, or in amount, either in a literal way or in a figurative one.",
+      "scope": "This is not the act of completing a task, and it is not the look of a surface; it describes something coming to its end.",
+      "examples": [
+        "The road finishes at the edge of the forest.",
+        "The meeting finished at noon."
+      ],
+      "branchCoverage": [
+        "have an end, in a temporal, spatial, or quantitative sense -> to reach its end, whether in time, in space, or in amount",
+        "either spatial or metaphorical -> either in a literal way or in a figurative one"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have an end, in a temporal, spatial, or quantitative sense",
+        "either spatial or metaphorical"
+      ],
+      "lemmaPartition": "finish%2:42:00:: = something reaching its end in time, space, or amount; finish%1:07:00:: = the decorative look or feel of a surface; finish%1:26:00:: = a very high, faultless quality of work; finish%2:30:02:: = completing an activity or bringing it to an end",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "finish%1:07:00::",
+      "lemma": "finish",
+      "pos": "n",
+      "definition": "a decorative texture or appearance of a surface (or the substance that gives it that appearance)",
+      "decision": "gloss",
+      "simpleMeaning": "the decorative look or feel of a surface, or the material that gives a surface that look or feel.",
+      "scope": "This is not the end of an activity, and it is not great quality of work; it is the surface's look or feel.",
+      "examples": [
+        "The table has a glossy finish.",
+        "The paint gives the wall a smooth finish."
+      ],
+      "branchCoverage": [
+        "a decorative texture or appearance of a surface (or the substance that gives it that appearance) -> the decorative look or feel of a surface, or the material that gives a surface that look or feel"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a decorative texture or appearance of a surface (or the substance that gives it that appearance)"
+      ],
+      "lemmaPartition": "finish%2:42:00:: = something reaching its end in time, space, or amount; finish%1:07:00:: = the decorative look or feel of a surface; finish%1:26:00:: = a very high, faultless quality of work; finish%2:30:02:: = completing an activity or bringing it to an end",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "finish%1:26:00::",
+      "lemma": "finish",
+      "pos": "n",
+      "definition": "a highly developed state of perfection; having a flawless or impeccable quality",
+      "decision": "gloss",
+      "simpleMeaning": "a very high level of skill or quality in which nothing is wrong or missing.",
+      "scope": "This is not the surface texture, and it is not the end of a race; it is the high quality of work or manner.",
+      "examples": [
+        "The pianist played with a finish that impressed the judges.",
+        "Every detail of the room showed the finish of skilled craftsmen."
+      ],
+      "branchCoverage": [
+        "a highly developed state of perfection -> a very high level of skill or quality",
+        "having a flawless or impeccable quality -> in which nothing is wrong or missing"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a highly developed state of perfection",
+        "having a flawless or impeccable quality"
+      ],
+      "lemmaPartition": "finish%2:42:00:: = something reaching its end in time, space, or amount; finish%1:07:00:: = the decorative look or feel of a surface; finish%1:26:00:: = a very high, faultless quality of work; finish%2:30:02:: = completing an activity or bringing it to an end",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "finish%2:30:02::",
+      "lemma": "finish",
+      "pos": "v",
+      "definition": "come or bring to a finish or an end",
+      "decision": "gloss",
+      "simpleMeaning": "to come to the end of doing something, or to bring something to its end.",
+      "scope": "This is not something such as a road or a period simply reaching its end, and it is not the surface look; it is completing an activity or bringing it to a stop.",
+      "examples": [
+        "She finished her essay before dinner.",
+        "He finished the job in an hour."
+      ],
+      "branchCoverage": [
+        "come or bring to a finish or an end -> to come to the end of doing something, or to bring something to its end"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "come or bring to a finish or an end"
+      ],
+      "lemmaPartition": "finish%2:42:00:: = something reaching its end in time, space, or amount; finish%1:07:00:: = the decorative look or feel of a surface; finish%1:26:00:: = a very high, faultless quality of work; finish%2:30:02:: = completing an activity or bringing it to an end",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "grand%1:06:00::",
+      "lemma": "grand",
+      "pos": "n",
+      "definition": "a piano with the strings on a horizontal harp-shaped frame; usually supported by three legs",
+      "decision": "gloss",
+      "simpleMeaning": "A piano whose strings sit flat on a frame shaped like a harp, usually held up by three legs.",
+      "scope": "This is not the adjective meaning impressive or ambitious; it names one kind of piano.",
+      "examples": [
+        "She sat down at the grand piano and began to play.",
+        "The hotel lobby has a grand piano near the window."
+      ],
+      "branchCoverage": [
+        "a piano with the strings on a horizontal harp-shaped frame -> A piano whose strings sit flat on a frame shaped like a harp",
+        "usually supported by three legs -> usually held up by three legs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a piano with the strings on a horizontal harp-shaped frame",
+        "usually supported by three legs"
+      ],
+      "lemmaPartition": "grand%1:06:00:: = the piano with flat strings on a harp-shaped frame; grand%5:00:00:impressive:00 = impressive, ambitious behavior or plans on a large scale",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "grand%5:00:00:impressive:00",
+      "lemma": "grand",
+      "pos": "a",
+      "definition": "of behavior that is impressive and ambitious in scale or scope",
+      "decision": "gloss",
+      "simpleMeaning": "Describing actions that are impressive and ambitious in their size or reach.",
+      "scope": "This is not the piano sense, and it does not mean simply large or costly; it describes ambitious behavior or plans.",
+      "examples": [
+        "She made a grand gesture of apology in front of the whole staff.",
+        "The city announced a grand plan to plant a million trees."
+      ],
+      "branchCoverage": [
+        "of behavior that is impressive and ambitious in scale or scope -> Describing actions that are impressive and ambitious in their size or reach"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of behavior that is impressive and ambitious in scale or scope"
+      ],
+      "lemmaPartition": "grand%1:06:00:: = the piano with flat strings on a harp-shaped frame; grand%5:00:00:impressive:00 = impressive, ambitious behavior or plans on a large scale",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "literally%4:02:01::",
+      "lemma": "literally",
+      "pos": "r",
+      "definition": "(intensifier before a figurative expression) without exaggeration",
+      "decision": "gloss",
+      "simpleMeaning": "Used just before a phrase that is not meant in its exact physical sense, to stress that the speaker is not exaggerating.",
+      "scope": "This is not the sense of taking words in their exact, factual meaning; it is the emphatic use in front of a figure of speech.",
+      "examples": [
+        "The stadium was literally a sea of red shirts.",
+        "By Friday her desk was literally a mountain of paper."
+      ],
+      "branchCoverage": [
+        "(intensifier before a figurative expression) without exaggeration -> Used just before a phrase that is not meant in its exact physical sense, to stress that the speaker is not exaggerating"
+      ],
+      "labelBranches": [
+        {
+          "branch": "(intensifier before a figurative expression)",
+          "explanation": "Usage note about where the word is placed (before a figure of speech); the meaning content is the 'without exaggeration' part, which is carried in the gloss."
+        }
+      ],
+      "sourceBranches": [
+        "(intensifier before a figurative expression) without exaggeration"
+      ],
+      "lemmaPartition": "literally%4:02:01:: = emphatic use before a figure of speech, denying exaggeration; literally%4:02:00:: = words taken in their exact basic meaning",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "literally%4:02:00::",
+      "lemma": "literally",
+      "pos": "r",
+      "definition": "in a literal sense",
+      "decision": "gloss",
+      "simpleMeaning": "In the exact, basic meaning of the words used, without treating them as a picture or an exaggeration.",
+      "scope": "This is not the emphatic use before a figure of speech; it says that the words are meant exactly as they stand.",
+      "examples": [
+        "He was literally born in that house, in the front bedroom.",
+        "She literally walked ten miles to work that day."
+      ],
+      "branchCoverage": [
+        "in a literal sense -> In the exact, basic meaning of the words used, without treating them as a picture or an exaggeration"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "in a literal sense"
+      ],
+      "lemmaPartition": "literally%4:02:01:: = emphatic use before a figure of speech, denying exaggeration; literally%4:02:00:: = words taken in their exact basic meaning",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "luck%1:19:01::",
+      "lemma": "luck",
+      "pos": "n",
+      "definition": "an unknown and unpredictable phenomenon that leads to a favorable outcome",
+      "decision": "gloss",
+      "simpleMeaning": "An unknown and unpredictable force that brings about a good result.",
+      "scope": "This is not the neutral sense covering any outcome, good or bad; here the result is a good one.",
+      "examples": [
+        "It was sheer luck that the rain stopped before the match.",
+        "He put his success down to luck rather than skill."
+      ],
+      "branchCoverage": [
+        "an unknown and unpredictable phenomenon that leads to a favorable outcome -> An unknown and unpredictable force that brings about a good result"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an unknown and unpredictable phenomenon that leads to a favorable outcome"
+      ],
+      "lemmaPartition": "luck%1:19:01:: = the force behind a good result; luck%1:19:00:: = the neutral force behind any outcome, good or bad",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "luck%1:19:00::",
+      "lemma": "luck",
+      "pos": "n",
+      "definition": "an unknown and unpredictable phenomenon that causes an event to result one way rather than another",
+      "decision": "gloss",
+      "simpleMeaning": "An unknown and unpredictable force that makes an event turn out one way instead of another.",
+      "scope": "This is not the sense limited to good results; it covers any outcome, whether people want it or not.",
+      "examples": [
+        "It was luck, not planning, that decided which team won.",
+        "Whether we meet them tomorrow depends on luck and timing."
+      ],
+      "branchCoverage": [
+        "an unknown and unpredictable phenomenon that causes an event to result one way rather than another -> An unknown and unpredictable force that makes an event turn out one way instead of another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an unknown and unpredictable phenomenon that causes an event to result one way rather than another"
+      ],
+      "lemmaPartition": "luck%1:19:01:: = the force behind a good result; luck%1:19:00:: = the neutral force behind any outcome, good or bad",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "marriage%1:04:00::",
+      "lemma": "marriage",
+      "pos": "n",
+      "definition": "the act of marrying; the nuptial ceremony",
+      "decision": "gloss",
+      "simpleMeaning": "The act of two people joining as husband and wife, or the ceremony in which that happens.",
+      "scope": "This is not the couple themselves or the state of being husband and wife; it is the act or ceremony that joins them.",
+      "examples": [
+        "The marriage was held in the garden behind her parents' house.",
+        "Guests travelled from three countries to attend the marriage."
+      ],
+      "branchCoverage": [
+        "the act of marrying -> The act of two people joining as husband and wife",
+        "the nuptial ceremony -> or the ceremony in which that happens"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of marrying",
+        "the nuptial ceremony"
+      ],
+      "lemmaPartition": "marriage%1:04:00:: = the act or ceremony of joining; marriage%1:14:00:: = the couple themselves",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "marriage%1:14:00::",
+      "lemma": "marriage",
+      "pos": "n",
+      "definition": "two people who are married to each other",
+      "decision": "defer",
+      "reason": "The couple sense (\"the marriage\" for two married people) has no natural modern example: a learner sentence either reads as the ceremony/institution or needs \"the couple\". Left with the original definition rather than a gloss no example can support.",
+      "sourceBranches": [
+        "two people who are married to each other"
+      ],
+      "lemmaPartition": "marriage%1:04:00:: = the act or ceremony of joining; marriage%1:14:00:: = the couple themselves",
+      "verdict": "self-deferred",
+      "reviewerNote": "Second example is ungrammatical ('a marriage devoted to each other'); rewrite both for natural use of the couple sense."
+    },
+    {
+      "senseId": "names%1:10:00::",
+      "lemma": "names",
+      "pos": "n",
+      "definition": "verbal abuse; a crude substitute for argument",
+      "decision": "gloss",
+      "simpleMeaning": "Insults and rude words spoken to someone, used instead of a real argument.",
+      "scope": "This is not the plural of the word for what people or things are called; it means insulting language used in a quarrel.",
+      "examples": [
+        "The debate turned into names and shouting.",
+        "He answered the criticism with names rather than reasons."
+      ],
+      "branchCoverage": [
+        "verbal abuse -> Insults and rude words spoken to someone",
+        "a crude substitute for argument -> used instead of a real argument"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "verbal abuse",
+        "a crude substitute for argument"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "necessary%5:00:00:inevitable:00",
+      "lemma": "necessary",
+      "pos": "a",
+      "definition": "unavoidably determined by prior circumstances",
+      "decision": "gloss",
+      "simpleMeaning": "Fixed in advance by earlier events, so that it cannot be avoided.",
+      "scope": "This is not the sense meaning needed for a purpose; it describes something that must happen because of what came before.",
+      "examples": [
+        "Given the choices made years earlier, the outcome was necessary.",
+        "In that system every result was necessary and could not have been otherwise."
+      ],
+      "branchCoverage": [
+        "unavoidably determined by prior circumstances -> Fixed in advance by earlier events, so that it cannot be avoided"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "unavoidably determined by prior circumstances"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rich%3:00:02::",
+      "lemma": "rich",
+      "pos": "a",
+      "definition": "having an abundant supply of desirable qualities or substances (especially natural resources)",
+      "decision": "gloss",
+      "simpleMeaning": "Having a large supply of good qualities or materials, especially natural resources.",
+      "scope": "This is not the sense about having a lot of money; it describes soil, land, or other things with plenty of good qualities or materials.",
+      "examples": [
+        "The valley has soil rich in minerals.",
+        "The region is rich in forests and fresh water."
+      ],
+      "branchCoverage": [
+        "having an abundant supply of desirable qualities or substances (especially natural resources) -> Having a large supply of good qualities or materials, especially natural resources"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having an abundant supply of desirable qualities or substances (especially natural resources)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "skin%2:38:00::",
+      "lemma": "skin",
+      "pos": "v",
+      "definition": "climb awkwardly, as if by scrambling",
+      "decision": "gloss",
+      "simpleMeaning": "to climb something in an awkward way, using the hands and feet to pull oneself along.",
+      "scope": "This is not the noun for the outer covering of a body, and not the act of removing it; it means to climb clumsily.",
+      "examples": [
+        "The boys skinned up the tree to reach the apples.",
+        "She skinned over the wall and dropped into the yard."
+      ],
+      "branchCoverage": [
+        "climb awkwardly -> climb something in an awkward way",
+        "as if by scrambling -> using the hands and feet to pull oneself along"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "climb awkwardly, as if by scrambling"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Gloss adds 'up', but example 2 is climbing over a wall; use 'climb' to cover both."
+    },
+    {
+      "senseId": "speaking%3:00:00::",
+      "lemma": "speaking",
+      "pos": "a",
+      "definition": "capable of or involving speech or speaking",
+      "decision": "gloss",
+      "simpleMeaning": "Able to talk, or connected with the act of talking.",
+      "scope": "This is not the noun for a speech or a turn to talk; it describes something that can talk or is connected with talking.",
+      "examples": [
+        "Parrots are among the few speaking birds.",
+        "She joined a speaking club to practise talking in public."
+      ],
+      "branchCoverage": [
+        "capable of or involving speech or speaking -> Able to talk, or connected with the act of talking"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "capable of or involving speech or speaking"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "sweet%5:00:00:lovable:00",
+      "lemma": "sweet",
+      "pos": "a",
+      "definition": "having a sweet nature befitting an angel or cherub",
+      "decision": "gloss",
+      "simpleMeaning": "Having a very gentle, kind nature, like an angel's.",
+      "scope": "This is not the sense about the taste of sugar; it describes a person's kind and gentle character.",
+      "examples": [
+        "Their youngest daughter is a sweet child who helps everyone.",
+        "He gave her a sweet smile and offered to carry her bags."
+      ],
+      "branchCoverage": [
+        "having a sweet nature befitting an angel or cherub -> Having a very gentle, kind nature, like an angel's"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having a sweet nature befitting an angel or cherub"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "thus%1:27:00::",
+      "lemma": "thus",
+      "pos": "n",
+      "definition": "an aromatic gum resin obtained from various Arabian or East African trees; formerly valued for worship and for embalming and fumigation",
+      "decision": "defer",
+      "reason": "This noun sense is archaic and rare in general reading (the branch text itself carries rare specialist terms: gum resin, embalming, fumigation). A learner gloss would need a long technical explanation of an old religious and burial practice, so it is better left out than simplified misleadingly.",
+      "sourceBranches": [
+        "an aromatic gum resin obtained from various Arabian or East African trees",
+        "formerly valued for worship and for embalming and fumigation"
+      ],
+      "lemmaPartition": "thus%1:27:00:: = the aromatic tree resin once used in worship and embalming (deferred); thus%4:02:00:: = linking adverb before a logical conclusion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "thus%4:02:00::",
+      "lemma": "thus",
+      "pos": "r",
+      "definition": "(used to introduce a logical conclusion) from that fact or reason or as a result",
+      "decision": "gloss",
+      "simpleMeaning": "Used to introduce a result that follows from what was just said.",
+      "scope": "This is not the noun for the tree resin; it is the linking adverb placed before a conclusion.",
+      "examples": [
+        "The form was never signed, and thus the request was refused.",
+        "Prices rose sharply; thus many families had to cut back."
+      ],
+      "branchCoverage": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result -> Used to introduce a result that follows from what was just said"
+      ],
+      "labelBranches": [
+        {
+          "branch": "(used to introduce a logical conclusion)",
+          "explanation": "Usage note on the word's function in a sentence; the meaning content is the 'from that fact or reason or as a result' part, which is carried in the gloss."
+        }
+      ],
+      "sourceBranches": [
+        "(used to introduce a logical conclusion) from that fact or reason or as a result"
+      ],
+      "lemmaPartition": "thus%1:27:00:: = the aromatic tree resin once used in worship and embalming (deferred); thus%4:02:00:: = linking adverb before a logical conclusion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "touch%1:09:01::",
+      "lemma": "touch",
+      "pos": "n",
+      "definition": "the faculty by which external objects or forces are perceived through contact with the body (especially the hands)",
+      "decision": "gloss",
+      "simpleMeaning": "The ability to feel objects and forces through contact with the body, especially with the hands.",
+      "scope": "This is not the act of putting a hand on something, and not a small amount of something; it is the sense that lets the body feel contact.",
+      "examples": [
+        "A baby learns about the world through touch.",
+        "The illness left him with little sense of touch in his hands."
+      ],
+      "branchCoverage": [
+        "the faculty by which external objects or forces are perceived through contact with the body (especially the hands) -> The ability to feel objects and forces through contact with the body, especially with the hands"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the faculty by which external objects or forces are perceived through contact with the body (especially the hands)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "damage%2:30:01::",
+      "lemma": "damage",
+      "pos": "v",
+      "definition": "suffer or be susceptible to damage",
+      "decision": "gloss",
+      "simpleMeaning": "To become harmed, or to be easy to harm.",
+      "scope": "This is not the act of harming something else; here the subject is the thing that gets harmed or can easily be harmed.",
+      "examples": [
+        "This kind of cloth damages easily in hot water.",
+        "The paint damages quickly if it is left in the sun."
+      ],
+      "branchCoverage": [
+        "suffer or be susceptible to damage -> To become harmed, or to be easy to harm"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "suffer or be susceptible to damage"
+      ],
+      "lemmaPartition": "damage%2:30:01:: = the thing itself becoming harmed or being easy to harm; damage%1:04:00:: = the act of harming someone or something; damage%2:30:00:: = to harm something else",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "damage%1:04:00::",
+      "lemma": "damage",
+      "pos": "n",
+      "definition": "the act of damaging something or someone",
+      "decision": "defer",
+      "reason": "The act sense of the noun needs \"the damaging of ...\" in modern English; every natural sentence with \"damage\" expresses the result sense, so this gloss cannot be separated from the row it is supposed to differ from. Left with the original definition.",
+      "sourceBranches": [
+        "the act of damaging something or someone"
+      ],
+      "lemmaPartition": "damage%2:30:01:: = the thing itself becoming harmed or being easy to harm; damage%1:04:00:: = the act of harming someone or something; damage%2:30:00:: = to harm something else",
+      "verdict": "self-deferred",
+      "reviewerNote": "Examples use nonstandard 'damage of' and read as the result sense; rewrite for the act of damaging."
+    },
+    {
+      "senseId": "damage%2:30:00::",
+      "lemma": "damage",
+      "pos": "v",
+      "definition": "inflict damage upon",
+      "decision": "gloss",
+      "simpleMeaning": "To harm something or someone.",
+      "scope": "This is not the sense where the subject is the thing that suffers harm; here someone or something causes the harm.",
+      "examples": [
+        "The storm damaged several roofs in the village.",
+        "Smoking can damage your lungs over time."
+      ],
+      "branchCoverage": [
+        "inflict damage upon -> To harm something or someone"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "inflict damage upon"
+      ],
+      "lemmaPartition": "damage%2:30:01:: = the thing itself becoming harmed or being easy to harm; damage%1:04:00:: = the act of harming someone or something; damage%2:30:00:: = to harm something else",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "directly%4:02:07::",
+      "lemma": "directly",
+      "pos": "r",
+      "definition": "without delay or hesitation; with no time intervening",
+      "decision": "gloss",
+      "simpleMeaning": "At once, with no waiting and nothing happening in between.",
+      "scope": "This is not the sense about a straight path or a personal connection; it means happening at once, with nothing in between.",
+      "examples": [
+        "He left directly after the meeting.",
+        "I will start on the report directly."
+      ],
+      "branchCoverage": [
+        "without delay or hesitation -> At once, with no waiting",
+        "with no time intervening -> nothing happening in between"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "without delay or hesitation",
+        "with no time intervening"
+      ],
+      "lemmaPartition": "",
+      "verdict": "self-approved",
+      "reviewerNote": "Second example can read as the straight-route sense, which the scope excludes; replace it."
+    },
+    {
+      "senseId": "disease%1:26:00::",
+      "lemma": "disease",
+      "pos": "n",
+      "definition": "an impairment of health or a condition of abnormal functioning",
+      "decision": "gloss",
+      "simpleMeaning": "A condition in which health is weakened or the body does not work as it should.",
+      "scope": "This is not a wound or injury from an accident; it is a condition in which the body or mind works abnormally.",
+      "examples": [
+        "Heart disease is common in older people.",
+        "The village was hit by a rare disease that year."
+      ],
+      "branchCoverage": [
+        "an impairment of health or a condition of abnormal functioning -> A condition in which health is weakened or the body does not work as it should"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an impairment of health or a condition of abnormal functioning"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "doctor%1:18:01::",
+      "lemma": "doctor",
+      "pos": "n",
+      "definition": "a person who holds Ph.D. degree (or the equivalent) from an academic institution",
+      "decision": "gloss",
+      "simpleMeaning": "A person who has earned the highest university degree in a subject.",
+      "scope": "This is not the sense for a medical professional; it is the academic title for someone with the highest university degree.",
+      "examples": [
+        "She is a doctor of history at the university.",
+        "The speaker, a doctor of physics, explained the experiment."
+      ],
+      "branchCoverage": [
+        "a person who holds Ph.D. degree (or the equivalent) from an academic institution -> A person who has earned the highest university degree in a subject"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who holds Ph.D. degree (or the equivalent) from an academic institution"
+      ],
+      "lemmaPartition": "doctor%1:18:01:: = the holder of the highest university degree; doctor%1:04:00:: = the children's game of pretending to be at a clinic; doctor%2:30:00:: = to change something secretly so that it is impure or false",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "doctor%1:04:00::",
+      "lemma": "doctor",
+      "pos": "n",
+      "definition": "children take the roles of physician or patient or nurse and pretend they are at the physician's office",
+      "decision": "gloss",
+      "simpleMeaning": "A children's game in which they play at being a medical worker, a nurse, or a sick person in a pretend clinic.",
+      "scope": "This is not a person with a medical or academic title; it names the game children play at pretending to be in a clinic.",
+      "examples": [
+        "The children spent the afternoon playing doctor in the garden shed.",
+        "In the game of doctor, her little brother was always the patient."
+      ],
+      "branchCoverage": [
+        "children take the roles of physician or patient or nurse and pretend they are at the physician's office -> A children's game in which they play at being a medical worker, a nurse, or a sick person in a pretend clinic"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "children take the roles of physician or patient or nurse and pretend they are at the physician's office"
+      ],
+      "lemmaPartition": "doctor%1:18:01:: = the holder of the highest university degree; doctor%1:04:00:: = the children's game of pretending to be at a clinic; doctor%2:30:00:: = to change something secretly so that it is impure or false",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "doctor%2:30:00::",
+      "lemma": "doctor",
+      "pos": "v",
+      "definition": "alter and make impure, as with the intention to deceive",
+      "decision": "gloss",
+      "simpleMeaning": "To change something, often by adding something else, so that it becomes impure, usually in order to trick people.",
+      "scope": "This is not the sense of treating a sick person or repairing something; it means to tamper with something so that it is no longer genuine.",
+      "examples": [
+        "The company doctored the figures to hide its losses.",
+        "Someone had doctored the wine with cheap spirits."
+      ],
+      "branchCoverage": [
+        "alter and make impure, as with the intention to deceive -> To change something, often by adding something else, so that it becomes impure, usually in order to trick people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "alter and make impure, as with the intention to deceive"
+      ],
+      "lemmaPartition": "doctor%1:18:01:: = the holder of the highest university degree; doctor%1:04:00:: = the children's game of pretending to be at a clinic; doctor%2:30:00:: = to change something secretly so that it is impure or false",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,768 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v2",
+    "batch": 1,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 43,
+    "defers": 7,
+    "firstPass": {
+      "approved": 29,
+      "of": 42,
+      "rate": 0.6904761904761905
+    },
+    "secondPass": {
+      "approved": 10,
+      "of": 14,
+      "rate": 0.7142857142857143
+    },
+    "thirdPass": {
+      "approved": 4,
+      "of": 4,
+      "rate": 1.0
+    },
+    "cumulativeGlossAcceptance": 1.0,
+    "lineage": {
+      "draft": "f65fc5503d4cf24fe98f33c0c5a7461c489d544b0f4bc419720f50a9d0df85a3",
+      "corrections": "c26640b3a54bb168051edad52795a8650b8ef471b9441b2f779d70cb04f4babc",
+      "thirdPass": "7dc27a27cec5212b11ca768fac853b339212e4755f64608e7cc9323de491ff7c"
+    },
+    "knownMetadataDefect": "batch-001-third-pass.json parentCorrectionsSha256 names the original draft hash; corrected in batch-001-lineage-fix.json without editing the reviewed file.",
+    "studentValidated": false,
+    "semanticAcceptance": false
+  },
+  "accepted": [
+    {
+      "senseId": "most%3:00:02::",
+      "lemma": "most",
+      "pos": "a",
+      "definition": "(superlative of ‘many’ used with count nouns and often preceded by ‘the’) quantifier meaning the greatest in number",
+      "synsetId": "01561513-a",
+      "decision": "gloss",
+      "simpleMeaning": "the largest number of people or things",
+      "scope": "Used with plural countable nouns, often after \"the\".",
+      "examples": [
+        "Most children like sweets.",
+        "She has the most books in the class."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "common%3:00:01::",
+      "lemma": "common",
+      "pos": "a",
+      "definition": "having no special distinction or quality; widely known or commonly encountered; average or ordinary or usual",
+      "synsetId": "00487699-a",
+      "decision": "gloss",
+      "simpleMeaning": "ordinary; seen, known, or happening often",
+      "scope": "Includes both frequent and widely known; not shared use.",
+      "examples": [
+        "It is a common mistake.",
+        "This bird is common in gardens."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "common%5:00:00:shared:00",
+      "lemma": "common",
+      "pos": "a",
+      "definition": "common to or shared by two or more parties",
+      "synsetId": "02159888-s",
+      "decision": "gloss",
+      "simpleMeaning": "shared by two or more people or groups",
+      "scope": "Joint ownership or use, not the ordinary/frequent sense.",
+      "examples": [
+        "The two families share a common garden.",
+        "They reached a common position after talking."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "words%1:10:03::",
+      "lemma": "words",
+      "pos": "n",
+      "definition": "the words that are spoken",
+      "synsetId": "07124438-n",
+      "decision": "gloss",
+      "simpleMeaning": "the things that someone says",
+      "scope": "Spoken words, not vocabulary items as a list.",
+      "examples": [
+        "I will never forget his words.",
+        "Her words made everyone quiet."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "web%1:05:01::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Feather anatomy; technical and very unlikely in general reading."
+    },
+    {
+      "senseId": "web%1:06:00::",
+      "lemma": "web",
+      "pos": "n",
+      "definition": "an intricate trap that entangles or ensnares its victim",
+      "synsetId": "04575843-n",
+      "decision": "gloss",
+      "simpleMeaning": "a complicated net or trap that catches and holds its victim, such as a spider's web",
+      "scope": "A physical, intricate trap; not a network of people or computers and not a simple net.",
+      "examples": [
+        "A fly struggled in the web.",
+        "A spider's web stretched between the branches."
+      ],
+      "reason": "Third pass correcting the second reviewer rejection.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "web%1:17:00::",
+      "lemma": "web",
+      "pos": "n",
+      "definition": "an intricate network suggesting something that was formed by weaving or interweaving",
+      "synsetId": "09500167-n",
+      "decision": "gloss",
+      "simpleMeaning": "a complicated network of connected things",
+      "scope": "Connections among things or people, not a spider trap.",
+      "examples": [
+        "The police uncovered a web of lies.",
+        "The internet is a huge web of pages."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "all%3:00:00::",
+      "lemma": "all",
+      "pos": "a",
+      "definition": "(quantifier) used with either mass or count nouns to indicate the whole number or amount of or every one of a class",
+      "synsetId": "02277044-a",
+      "decision": "gloss",
+      "simpleMeaning": "the whole number or amount; every one",
+      "scope": "Whole group or whole amount, not \"all\" in a score.",
+      "examples": [
+        "All the windows were open.",
+        "She ate all the bread."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "one%1:23:00::",
+      "lemma": "one",
+      "pos": "n",
+      "definition": "the smallest whole number or a numeral representing this number",
+      "synsetId": "13764713-n",
+      "decision": "gloss",
+      "simpleMeaning": "the number 1",
+      "scope": "The number itself, not \"one\" as a pronoun.",
+      "examples": [
+        "Write the number one here.",
+        "One plus one is two."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "just%3:00:04::",
+      "lemma": "just",
+      "pos": "a",
+      "definition": "free from favoritism or self-interest or bias or deception; conforming with established standards or rules",
+      "synsetId": "00959321-a",
+      "decision": "gloss",
+      "simpleMeaning": "fair; not helping one side more than the other, and following fair rules",
+      "scope": "Impartiality and fair standards, not deserving punishment and not \"exactly\".",
+      "examples": [
+        "The judge made a just decision.",
+        "They asked for a just share."
+      ],
+      "reason": "Third pass correcting the second reviewer rejection.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "just%3:00:00::",
+      "lemma": "just",
+      "pos": "a",
+      "definition": "used especially of what is legally or ethically right or proper or fitting",
+      "synsetId": "01372590-a",
+      "decision": "gloss",
+      "simpleMeaning": "right or fair according to law or morals",
+      "scope": "What is deserved or morally right, not fairness of procedure alone.",
+      "examples": [
+        "It was a just punishment.",
+        "They fought for a just cause."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "just%4:02:05::",
+      "lemma": "just",
+      "pos": "r",
+      "definition": "indicating exactness or preciseness",
+      "synsetId": "00159432-r",
+      "decision": "gloss",
+      "simpleMeaning": "exactly; with nothing different",
+      "scope": "Exact match, not recentness or immediacy.",
+      "examples": [
+        "That is just what I wanted.",
+        "The shoes are just the right size."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "like%3:00:00::",
+      "lemma": "like",
+      "pos": "a",
+      "definition": "resembling or similar; having the same or some of the same characteristics; often used in combination",
+      "synsetId": "01412553-a",
+      "decision": "gloss",
+      "simpleMeaning": "similar to; almost the same as",
+      "scope": "Resemblance, not enjoyment.",
+      "examples": [
+        "She looks like her mother.",
+        "It tastes like chicken."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "about%4:02:00::",
+      "lemma": "about",
+      "pos": "r",
+      "definition": "(of quantities) imprecise but fairly close to correct",
+      "synsetId": "00007414-r",
+      "decision": "gloss",
+      "simpleMeaning": "a little more or less than; roughly",
+      "scope": "Approximate amount, not the topic sense.",
+      "examples": [
+        "It costs about ten dollars.",
+        "There were about fifty people."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "out%1:04:00::",
+      "lemma": "out",
+      "pos": "n",
+      "definition": "(baseball) a failure by a batter or runner to reach a base safely in baseball",
+      "synsetId": "00130347-n",
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, a failure by a batter or runner to reach a base safely",
+      "scope": "The noun event, not the predicate \"was out\".",
+      "examples": [
+        "The shortstop made two outs.",
+        "That catch turned a hit into an out."
+      ],
+      "reason": "Third pass correcting the second reviewer rejection.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "out%2:32:01::",
+      "lemma": "out",
+      "pos": "v",
+      "definition": "reveal (something) about somebody's identity or lifestyle",
+      "synsetId": "00937296-v",
+      "decision": "gloss",
+      "simpleMeaning": "to make known something private about a person",
+      "scope": "Revealing hidden information about someone else; not leaving a place and not self-disclosure.",
+      "examples": [
+        "The newspaper outed him as the anonymous source.",
+        "They threatened to out him to his employer."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "out%2:32:02::",
+      "lemma": "out",
+      "pos": "v",
+      "definition": "to state openly and publicly one's homosexuality",
+      "synsetId": "00937488-v",
+      "decision": "gloss",
+      "simpleMeaning": "to say openly that you are gay",
+      "scope": "Self-disclosure of sexuality; not the transitive reveal-someone-else sense.",
+      "examples": [
+        "She came out to her family last year.",
+        "He came out publicly after university."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "out%4:02:04::",
+      "lemma": "out",
+      "pos": "r",
+      "definition": "moving or appearing to move away from a place, especially one that is enclosed or hidden",
+      "synsetId": "00235144-r",
+      "decision": "gloss",
+      "simpleMeaning": "away from a place, especially from inside it",
+      "scope": "Movement outward, not the adjective meaning \"not fashionable\".",
+      "examples": [
+        "He walked out of the room.",
+        "The cat ran out through the door."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "more%4:02:00::",
+      "lemma": "more",
+      "pos": "r",
+      "definition": "used to form the comparative of some adjectives and adverbs, indicates that the adjective or adverb is more of something",
+      "synsetId": "00099891-r",
+      "decision": "gloss",
+      "simpleMeaning": "to a greater degree; used to compare",
+      "scope": "Comparative adverb, not a larger amount by itself.",
+      "examples": [
+        "This book is more interesting.",
+        "Please speak more slowly."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "more%3:00:01::",
+      "lemma": "more",
+      "pos": "a",
+      "definition": "(comparative of ‘much’ used with mass nouns) a quantifier meaning greater in size or amount or extent or degree; above; more than",
+      "synsetId": "01559526-a",
+      "decision": "gloss",
+      "simpleMeaning": "a greater amount of something",
+      "scope": "Used with things you cannot count one by one.",
+      "examples": [
+        "We need more water.",
+        "He has more money than me."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "more%3:00:02::",
+      "lemma": "more",
+      "pos": "a",
+      "definition": "(comparative of ‘many’ used with count nouns) quantifier meaning greater in number",
+      "synsetId": "01560748-a",
+      "decision": "gloss",
+      "simpleMeaning": "a greater number of people or things",
+      "scope": "Used with plural countable nouns.",
+      "examples": [
+        "There are more chairs in the hall.",
+        "She invited more friends."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "time%1:28:00::",
+      "lemma": "time",
+      "pos": "n",
+      "definition": "an indefinite period (usually marked by specific attributes or activities)",
+      "synsetId": "15147173-n",
+      "decision": "gloss",
+      "simpleMeaning": "a period during which something happens",
+      "scope": "A stretch of time, not an enjoyable occasion.",
+      "examples": [
+        "It rained for a long time.",
+        "The baby slept for a short time."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "time%1:28:05::",
+      "lemma": "time",
+      "pos": "n",
+      "definition": "a period of time considered as a resource under your control and sufficient to accomplish something",
+      "synsetId": "15295388-n",
+      "decision": "gloss",
+      "simpleMeaning": "the time you have available to do something",
+      "scope": "Available time as a resource, not a period in general.",
+      "examples": [
+        "I have no time to finish this.",
+        "We still have time before the train."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "time%2:30:00::",
+      "lemma": "time",
+      "pos": "v",
+      "definition": "measure the time or duration of an event or action or the person who performs an action in a certain period of time",
+      "synsetId": "00491904-v",
+      "decision": "gloss",
+      "simpleMeaning": "to measure how long something takes",
+      "scope": "Measuring duration, not setting a schedule.",
+      "examples": [
+        "The coach timed every runner.",
+        "They timed the experiment carefully."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "get%1:04:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Tennis return sense; sport-specific and very unlikely in general reading."
+    },
+    {
+      "senseId": "get%2:40:00::",
+      "lemma": "get",
+      "pos": "v",
+      "definition": "come into the possession of something concrete or abstract",
+      "synsetId": "02215637-v",
+      "decision": "gloss",
+      "simpleMeaning": "to receive or obtain something",
+      "scope": "Receiving or gaining, not becoming or arriving.",
+      "examples": [
+        "I got a letter today.",
+        "She got a new job."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "new%3:00:00::",
+      "lemma": "new",
+      "pos": "a",
+      "definition": "not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered",
+      "synsetId": "01645077-a",
+      "decision": "gloss",
+      "simpleMeaning": "recently made, found, or started; not existing long",
+      "scope": "Recentness, not simply different or unfamiliar.",
+      "examples": [
+        "They bought a new car.",
+        "This is a new idea."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "people%1:14:00::",
+      "lemma": "people",
+      "pos": "n",
+      "definition": "(plural) any group of human beings (men or women or children) collectively",
+      "synsetId": "07958392-n",
+      "decision": "gloss",
+      "simpleMeaning": "human beings as a group",
+      "scope": "People in general or a group, not a nation or race.",
+      "examples": [
+        "Many people were waiting.",
+        "People need clean water."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "people%2:30:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Rare literary verb \"fill with people\"; low reading value."
+    },
+    {
+      "senseId": "people%2:42:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Rare verb \"furnish with people\"; low reading value."
+    },
+    {
+      "senseId": "some%3:00:00::",
+      "lemma": "some",
+      "pos": "a",
+      "definition": "(quantifier) used with either mass nouns or plural count nouns to indicate an unspecified number or quantity",
+      "synsetId": "02275064-a",
+      "decision": "gloss",
+      "simpleMeaning": "an amount or number that is not stated exactly",
+      "scope": "Unspecified quantity, not \"approximately\".",
+      "examples": [
+        "Some students were late.",
+        "I need some help."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "some%4:02:00::",
+      "lemma": "some",
+      "pos": "r",
+      "definition": "(of quantities) imprecise but fairly close to correct",
+      "synsetId": "00007414-r",
+      "decision": "gloss",
+      "simpleMeaning": "a little more or less than; roughly",
+      "scope": "Approximate amount, not an unspecified quantity.",
+      "examples": [
+        "It is some twenty miles away.",
+        "Some fifty people came."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "other%3:00:00::",
+      "lemma": "other",
+      "pos": "a",
+      "definition": "not the same one or ones already mentioned or implied; quantifier, other",
+      "synsetId": "02076759-a",
+      "decision": "gloss",
+      "simpleMeaning": "different from the one already mentioned",
+      "scope": "A different person or thing, not \"the second of two\".",
+      "examples": [
+        "The other door was locked.",
+        "Do you have any other questions?"
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "good%3:00:01::",
+      "lemma": "good",
+      "pos": "a",
+      "definition": "having desirable or positive qualities especially those suitable for a thing specified",
+      "synsetId": "01126910-a",
+      "decision": "gloss",
+      "simpleMeaning": "having qualities that are wanted or liked",
+      "scope": "Positive quality, not moral goodness.",
+      "examples": [
+        "She is a good teacher.",
+        "This is good news."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "good%1:07:01::",
+      "lemma": "good",
+      "pos": "n",
+      "definition": "moral excellence or admirableness",
+      "synsetId": "04856472-n",
+      "decision": "gloss",
+      "simpleMeaning": "moral worth; the quality of being right and kind",
+      "scope": "Moral excellence, not quality or skill.",
+      "examples": [
+        "She always looked for the good in people.",
+        "There is good and evil in everyone."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "first%3:00:03::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Orchestra part sense; specialist music use, low reading value."
+    },
+    {
+      "senseId": "first%1:23:00::",
+      "lemma": "first",
+      "pos": "n",
+      "definition": "the first element in a countable series",
+      "synsetId": "13618687-n",
+      "decision": "gloss",
+      "simpleMeaning": "the thing that comes before all others in a series",
+      "scope": "Position in an ordered series, not highest rank.",
+      "examples": [
+        "She was the first to arrive.",
+        "This is the first of three parts."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "first%1:24:00::",
+      "lemma": "first",
+      "pos": "n",
+      "definition": "the first or highest in an ordering or series",
+      "synsetId": "13868396-n",
+      "decision": "gloss",
+      "simpleMeaning": "the person or thing at the top of an order or list",
+      "scope": "Highest rank or position, not earliest in time.",
+      "examples": [
+        "He finished first in the race.",
+        "Their team is first in the league."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "know%2:31:00::",
+      "lemma": "know",
+      "pos": "v",
+      "definition": "be familiar or acquainted with a person or an object",
+      "synsetId": "00595732-v",
+      "decision": "gloss",
+      "simpleMeaning": "to be familiar with a person, place, or thing",
+      "scope": "Familiarity, not knowing a fact.",
+      "examples": [
+        "I know her very well.",
+        "Do you know this city?"
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "see%1:15:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "The bishop's seat sense; specialist church use, low reading value."
+    },
+    {
+      "senseId": "see%2:39:00::",
+      "lemma": "see",
+      "pos": "v",
+      "definition": "perceive by sight or have the power to perceive by sight",
+      "synsetId": "02133754-v",
+      "decision": "gloss",
+      "simpleMeaning": "to notice things with your eyes, or to have the ability to do this",
+      "scope": "Both the act and the capacity branch of the source; not understanding.",
+      "examples": [
+        "I saw a bird in the tree.",
+        "She cannot see without glasses."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "two%1:23:00::",
+      "lemma": "two",
+      "pos": "n",
+      "definition": "the cardinal number that is the sum of one and one or a numeral representing this number",
+      "synsetId": "13765409-n",
+      "decision": "gloss",
+      "simpleMeaning": "the number 2",
+      "scope": "The number itself, not a pair of people.",
+      "examples": [
+        "Write the number two.",
+        "Two plus two is four."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "think%2:31:00::",
+      "lemma": "think",
+      "pos": "v",
+      "definition": "use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments",
+      "synsetId": "00630153-v",
+      "decision": "gloss",
+      "simpleMeaning": "to use your mind to decide, understand, or form ideas",
+      "scope": "Mental activity, not believing something is true.",
+      "examples": [
+        "Think carefully before you answer.",
+        "She thought about the problem all night."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "think%1:09:00::",
+      "lemma": "think",
+      "pos": "n",
+      "definition": "an instance of deliberate thinking",
+      "synsetId": "05794377-n",
+      "decision": "gloss",
+      "simpleMeaning": "a short period spent considering something",
+      "scope": "An act of considering, not an opinion.",
+      "examples": [
+        "Let me have a think.",
+        "A good think helped her decide."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "any%5:00:00:some:00",
+      "lemma": "any",
+      "pos": "a",
+      "definition": "one or some or every or all without specification; entity, elective existential pronoun; quantifier, elective existential",
+      "synsetId": "02275443-s",
+      "decision": "gloss",
+      "simpleMeaning": "one, some, or every, without saying which",
+      "scope": "Covers the source breadth, including the positive \"every\" branch; not a request for a specific item.",
+      "examples": [
+        "Take any seat you like.",
+        "Any child can learn this."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "back%1:08:00::",
+      "lemma": "back",
+      "pos": "n",
+      "definition": "the posterior part of a human (or animal) body from the neck to the end of the spine",
+      "synsetId": "05566350-n",
+      "decision": "gloss",
+      "simpleMeaning": "the part of a person's or animal's body that is behind, from the neck down",
+      "scope": "Human and animal rear body surface, not a supporting part.",
+      "examples": [
+        "My back hurts.",
+        "The dog rolled on its back."
+      ],
+      "reason": "Second pass correcting the reviewer rejection.",
+      "verdict": "second-pass"
+    },
+    {
+      "senseId": "want%1:26:01::",
+      "lemma": "want",
+      "pos": "n",
+      "definition": "the state of needing something that is absent or unavailable",
+      "synsetId": "14472871-n",
+      "decision": "gloss",
+      "simpleMeaning": "a lack of something that is needed",
+      "scope": "Shortage, not a wish to have something.",
+      "examples": [
+        "The plant died from want of water.",
+        "There is a want of doctors here."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "well%1:06:00::",
+      "lemma": "well",
+      "pos": "n",
+      "definition": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine",
+      "synsetId": "04579630-n",
+      "decision": "gloss",
+      "simpleMeaning": "a deep hole that is dug or drilled to reach water, oil, or gas underground",
+      "scope": "Dug or drilled; water, oil or gas. Brine is omitted as a learner-level simplification.",
+      "examples": [
+        "They got water from the well.",
+        "The well supplied oil for the village."
+      ],
+      "reason": "Third pass correcting the second reviewer rejection.",
+      "verdict": "third-pass"
+    },
+    {
+      "senseId": "well%1:06:03::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "Rare \"container for liquid\" sense; low reading value."
+    },
+    {
+      "senseId": "well%5:00:00:advisable:00",
+      "lemma": "well",
+      "pos": "a",
+      "definition": "wise or advantageous and hence advisable",
+      "synsetId": "00068247-s",
+      "decision": "gloss",
+      "simpleMeaning": "wise or useful to do",
+      "scope": "Advisability, not health or manner.",
+      "examples": [
+        "It would be well to check first.",
+        "It is well to remember the rules."
+      ],
+      "reason": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

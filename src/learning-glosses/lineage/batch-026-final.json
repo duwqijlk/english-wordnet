@@ -1,0 +1,1116 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 26,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 46,
+    "defers": 4,
+    "firstPass": {
+      "approved": 50,
+      "of": 50,
+      "rate": 1.0
+    },
+    "selfApproved": [],
+    "lineage": {
+      "draft": "3f21c2f7baf54907b4ec39cf78165ce93da898871c928490e447aa75d4f9470b"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "successful%3:00:00::",
+      "lemma": "successful",
+      "pos": "a",
+      "definition": "having succeeded or being marked by a favorable outcome",
+      "decision": "gloss",
+      "simpleMeaning": "A person or thing described this way has reached a goal or shows a good result.",
+      "scope": "It is about a good outcome, not about the effort made or the process of trying.",
+      "examples": [
+        "She had a successful first year at her new job.",
+        "The charity event was successful and raised more than expected."
+      ],
+      "branchCoverage": [
+        "having succeeded or being marked by a favorable outcome -> has reached a goal or shows a good result"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having succeeded or being marked by a favorable outcome"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "active%1:24:00::",
+      "lemma": "active",
+      "pos": "n",
+      "definition": "the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb",
+      "decision": "gloss",
+      "simpleMeaning": "This is the verb form used when the subject of the sentence does the action or causes what happens.",
+      "scope": "It is a grammar term for a verb form, not the chemical sense of a substance that can react.",
+      "examples": [
+        "'The dog chased the ball' uses the active voice.",
+        "Rewrite the sentence in the active voice so we know who did it."
+      ],
+      "branchCoverage": [
+        "the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb -> the verb form used when the subject of the sentence does the action or causes what happens"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb"
+      ],
+      "lemmaPartition": "active%1:24:00:: -> grammar: the verb form in which the sentence subject does the action or causes what happens; active%1:27:00:: -> chemistry: a substance that can react or act (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "active%1:27:00::",
+      "lemma": "active",
+      "pos": "n",
+      "definition": "chemical agent capable of activity",
+      "decision": "defer",
+      "reason": "Specialist chemistry sense whose definition ('capable of activity') is circular and vague; it is technical and rare in general reading, so a learner gloss would be guesswork.",
+      "sourceBranches": [
+        "chemical agent capable of activity"
+      ],
+      "lemmaPartition": "active%1:24:00:: -> grammar: the verb form in which the sentence subject does the action or causes what happens; active%1:27:00:: -> chemistry: a substance that can react or act (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "approach%2:42:00::",
+      "lemma": "approach",
+      "pos": "v",
+      "definition": "come near or verge on, resemble, come nearer in quality, or character",
+      "decision": "gloss",
+      "simpleMeaning": "It means to come close to something in distance, to be almost the same as it, or to become more like it in quality or character.",
+      "scope": "This is the verb of coming close or becoming similar, not the noun for a way of dealing with a problem.",
+      "examples": [
+        "The train slowed as it approached the station.",
+        "Her painting style approaches that of her teacher."
+      ],
+      "branchCoverage": [
+        "come near or verge on, resemble, come nearer in quality, or character -> to come close to something in distance, to be almost the same as it, or to become more like it in quality or character"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "come near or verge on, resemble, come nearer in quality, or character"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cancer%1:26:00::",
+      "lemma": "cancer",
+      "pos": "n",
+      "definition": "any malignant growth or tumor caused by abnormal and uncontrolled cell division; it may spread to other parts of the body through the lymphatic system or the blood stream",
+      "decision": "gloss",
+      "simpleMeaning": "This is a harmful growth or lump made when cells divide in an abnormal, uncontrolled way, and it can spread to other parts of the body through the lymph system or the blood.",
+      "scope": "It is the disease of uncontrolled cell growth, not a figurative use for something harmful that spreads.",
+      "examples": [
+        "The doctor found cancer in her lung.",
+        "Without treatment, the cancer can spread to other parts of the body."
+      ],
+      "branchCoverage": [
+        "any malignant growth or tumor caused by abnormal and uncontrolled cell division -> a harmful growth or lump made when cells divide in an abnormal, uncontrolled way",
+        "it may spread to other parts of the body through the lymphatic system or the blood stream -> it can spread to other parts of the body through the lymph system or the blood"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any malignant growth or tumor caused by abnormal and uncontrolled cell division",
+        "it may spread to other parts of the body through the lymphatic system or the blood stream"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "civil%3:00:00::",
+      "lemma": "civil",
+      "pos": "a",
+      "definition": "not rude; marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others",
+      "decision": "gloss",
+      "simpleMeaning": "A person described this way is not rude but is only as polite as usual social rules require, showing others an ordinary amount of care rather than special attention.",
+      "scope": "It describes polite behaviour, not the sense of ordinary people as opposed to the armed forces.",
+      "examples": [
+        "The clerk was civil, though not especially friendly.",
+        "They managed a civil greeting before the meeting began."
+      ],
+      "branchCoverage": [
+        "not rude -> is not rude",
+        "marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others -> is only as polite as usual social rules require, showing others an ordinary amount of care rather than special attention"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "not rude",
+        "marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others"
+      ],
+      "lemmaPartition": "civil%3:00:00:: -> behaviour: polite, not rude, at the level social rules require; civil%5:00:00:civilian:00 -> belonging to ordinary people rather than the armed forces",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "civil%5:00:00:civilian:00",
+      "lemma": "civil",
+      "pos": "a",
+      "definition": "applying to ordinary citizens as contrasted with the military",
+      "decision": "gloss",
+      "simpleMeaning": "This describes things that belong to ordinary people rather than to the armed forces.",
+      "scope": "It is about who something belongs to, not about polite behaviour or good manners.",
+      "examples": [
+        "The country returned to civil rule after the war.",
+        "Civil aviation is separate from military flying."
+      ],
+      "branchCoverage": [
+        "applying to ordinary citizens as contrasted with the military -> things that belong to ordinary people rather than to the armed forces"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "applying to ordinary citizens as contrasted with the military"
+      ],
+      "lemmaPartition": "civil%3:00:00:: -> behaviour: polite, not rude, at the level social rules require; civil%5:00:00:civilian:00 -> belonging to ordinary people rather than the armed forces",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "dance%2:38:02::",
+      "lemma": "dance",
+      "pos": "v",
+      "definition": "skip, leap, or move up and down or sideways",
+      "decision": "gloss",
+      "simpleMeaning": "It means to jump or move with light hops, or to move up and down or from side to side.",
+      "scope": "This is the light jumping or swaying sense, not the main sense of moving the body in time to music.",
+      "examples": [
+        "The leaves danced in the wind.",
+        "The puppy danced around her feet, hoping for a treat."
+      ],
+      "branchCoverage": [
+        "skip, leap, or move up and down or sideways -> to jump or move with light hops, or to move up and down or from side to side"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "skip, leap, or move up and down or sideways"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "direction%1:24:00::",
+      "lemma": "direction",
+      "pos": "n",
+      "definition": "the spatial relation between something and the course along which it points or moves",
+      "decision": "gloss",
+      "simpleMeaning": "This is the way something is placed in relation to other things, and the path along which it points or moves.",
+      "scope": "It is about position in space and the path of movement, not about instructions or about who is in charge.",
+      "examples": [
+        "The sign points in the direction of the station.",
+        "The wind changed direction during the night."
+      ],
+      "branchCoverage": [
+        "the spatial relation between something and the course along which it points or moves -> the way something is placed in relation to other things, and the path along which it points or moves"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the spatial relation between something and the course along which it points or moves"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "master%1:18:01::",
+      "lemma": "master",
+      "pos": "n",
+      "definition": "a combatant who is able to defeat rivals",
+      "decision": "gloss",
+      "simpleMeaning": "This is a fighter who can beat those who compete against them.",
+      "scope": "It is a fighter who beats rivals, not an owner, a teacher or a skilled expert.",
+      "examples": [
+        "The old master defeated every challenger who came to the village.",
+        "He earned the name of master by beating all his rivals."
+      ],
+      "branchCoverage": [
+        "a combatant who is able to defeat rivals -> a fighter who can beat those who compete against them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a combatant who is able to defeat rivals"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "none%1:04:00::",
+      "lemma": "none",
+      "pos": "n",
+      "definition": "a service in the Roman Catholic Church formerly read or chanted at 3 PM (the ninth hour counting from sunrise) but now somewhat earlier",
+      "decision": "defer",
+      "reason": "Obscure church term for a Roman Catholic service tied to a fixed hour of prayer; it is rare in general reading and needs religious background to explain.",
+      "sourceBranches": [
+        "a service in the Roman Catholic Church formerly read or chanted at 3 PM (the ninth hour counting from sunrise) but now somewhat earlier"
+      ],
+      "lemmaPartition": "none%1:04:00:: -> the church service held around three in the afternoon (deferred); none%1:28:00:: -> the fixed prayer hour itself, counted from sunrise (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "none%1:28:00::",
+      "lemma": "none",
+      "pos": "n",
+      "definition": "a canonical hour that is the ninth hour of the day counting from sunrise",
+      "decision": "defer",
+      "reason": "Technical religious term for a fixed prayer hour ('canonical hour') counted from sunrise; it is obscure outside church history.",
+      "sourceBranches": [
+        "a canonical hour that is the ninth hour of the day counting from sunrise"
+      ],
+      "lemmaPartition": "none%1:04:00:: -> the church service held around three in the afternoon (deferred); none%1:28:00:: -> the fixed prayer hour itself, counted from sunrise (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ship%1:06:00::",
+      "lemma": "ship",
+      "pos": "n",
+      "definition": "a vessel that carries passengers or freight",
+      "decision": "gloss",
+      "simpleMeaning": "This is a large boat that carries people or goods.",
+      "scope": "It is a large craft for carrying people or goods, not a small boat or a spacecraft.",
+      "examples": [
+        "The ship sailed from the port at dawn.",
+        "A ship carrying grain arrived at the harbor."
+      ],
+      "branchCoverage": [
+        "a vessel that carries passengers or freight -> a large boat that carries people or goods"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a vessel that carries passengers or freight"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stock%1:21:00::",
+      "lemma": "stock",
+      "pos": "n",
+      "definition": "the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)",
+      "decision": "gloss",
+      "simpleMeaning": "This is the money a company raises by selling shares that give the buyers a share of ownership in it.",
+      "scope": "It is ownership money a company raises, not a part of a gun or an expression worn out by overuse.",
+      "examples": [
+        "She bought stock in a small technology company.",
+        "The value of the company's stock rose after the announcement."
+      ],
+      "branchCoverage": [
+        "the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity) -> the money a company raises by selling shares that give the buyers a share of ownership in it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity)"
+      ],
+      "lemmaPartition": "stock%1:21:00:: -> company ownership money raised by selling shares; stock%1:06:02:: -> the part of a gun held or pressed to the shoulder; stock%5:00:00:unoriginal:00 -> words or ideas worn out by overuse; stock%2:40:07:: -> the verb of supplying something with a stock (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stock%1:06:02::",
+      "lemma": "stock",
+      "pos": "n",
+      "definition": "the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun",
+      "decision": "gloss",
+      "simpleMeaning": "This is the part of a gun that you hold, the end that rests against your shoulder, or a support part on a larger gun.",
+      "scope": "It is a part of a gun, not a share of ownership in a company or an expression worn out by overuse.",
+      "examples": [
+        "He rested the rifle's stock against his shoulder.",
+        "The wooden stock was smooth from years of use."
+      ],
+      "branchCoverage": [
+        "the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun -> the part of a gun that you hold, the end that rests against your shoulder, or a support part on a larger gun"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the handle of a handgun or the butt end of a rifle or shotgun or part of the support of a machine gun or artillery gun"
+      ],
+      "lemmaPartition": "stock%1:21:00:: -> company ownership money raised by selling shares; stock%1:06:02:: -> the part of a gun held or pressed to the shoulder; stock%5:00:00:unoriginal:00 -> words or ideas worn out by overuse; stock%2:40:07:: -> the verb of supplying something with a stock (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stock%5:00:00:unoriginal:00",
+      "lemma": "stock",
+      "pos": "a",
+      "definition": "repeated too often; overfamiliar through overuse",
+      "decision": "gloss",
+      "simpleMeaning": "An expression or idea described this way has been used so often that it feels too familiar and no longer fresh.",
+      "scope": "It describes words or ideas worn out by overuse, not a share of ownership or a part of a gun.",
+      "examples": [
+        "The film relies on stock characters and a predictable ending.",
+        "That excuse is a stock answer he uses every time."
+      ],
+      "branchCoverage": [
+        "repeated too often -> has been used so often",
+        "overfamiliar through overuse -> feels too familiar and no longer fresh"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "repeated too often",
+        "overfamiliar through overuse"
+      ],
+      "lemmaPartition": "stock%1:21:00:: -> company ownership money raised by selling shares; stock%1:06:02:: -> the part of a gun held or pressed to the shoulder; stock%5:00:00:unoriginal:00 -> words or ideas worn out by overuse; stock%2:40:07:: -> the verb of supplying something with a stock (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "stock%2:40:07::",
+      "lemma": "stock",
+      "pos": "v",
+      "definition": "equip with a stock",
+      "decision": "defer",
+      "reason": "Circular definition ('equip with a stock') in a rare verb use; the meaning cannot be made clear without repeating the headword.",
+      "sourceBranches": [
+        "equip with a stock"
+      ],
+      "lemmaPartition": "stock%1:21:00:: -> company ownership money raised by selling shares; stock%1:06:02:: -> the part of a gun held or pressed to the shoulder; stock%5:00:00:unoriginal:00 -> words or ideas worn out by overuse; stock%2:40:07:: -> the verb of supplying something with a stock (deferred)",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weekend%1:28:00::",
+      "lemma": "weekend",
+      "pos": "n",
+      "definition": "a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday",
+      "decision": "gloss",
+      "simpleMeaning": "This is the period from Friday evening through Sunday, or more loosely any run of days that includes exactly one Sunday.",
+      "scope": "It is the whole period at the end of the week, not a single day off or a public holiday.",
+      "examples": [
+        "We spent the weekend at the lake.",
+        "Her weekend begins on Friday evening."
+      ],
+      "branchCoverage": [
+        "a time period usually extending from Friday night through Sunday -> the period from Friday evening through Sunday",
+        "more loosely defined as any period of successive days including one and only one Sunday -> more loosely any run of days that includes exactly one Sunday"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a time period usually extending from Friday night through Sunday",
+        "more loosely defined as any period of successive days including one and only one Sunday"
+      ],
+      "lemmaPartition": "weekend%1:28:00:: -> noun: the days from Friday evening through Sunday; weekend%2:42:00:: -> verb: to spend those days somewhere or doing something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "weekend%2:42:00::",
+      "lemma": "weekend",
+      "pos": "v",
+      "definition": "spend the weekend",
+      "decision": "gloss",
+      "simpleMeaning": "It means to spend the time from Friday evening through Sunday somewhere or doing something.",
+      "scope": "This is the verb for passing those days, not the noun for the days themselves.",
+      "examples": [
+        "They weekended at a cottage by the sea.",
+        "We usually weekend with friends in the countryside."
+      ],
+      "branchCoverage": [
+        "spend the weekend -> to spend the time from Friday evening through Sunday somewhere or doing something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "spend the weekend"
+      ],
+      "lemmaPartition": "weekend%1:28:00:: -> noun: the days from Friday evening through Sunday; weekend%2:42:00:: -> verb: to spend those days somewhere or doing something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wonder%1:12:00::",
+      "lemma": "wonder",
+      "pos": "n",
+      "definition": "the feeling aroused by something strange and surprising",
+      "decision": "gloss",
+      "simpleMeaning": "This is the feeling you get when something is strange and surprising.",
+      "scope": "It is the feeling itself, not the thing that causes it.",
+      "examples": [
+        "She looked at the stars with wonder.",
+        "The children stared in wonder at the magician."
+      ],
+      "branchCoverage": [
+        "the feeling aroused by something strange and surprising -> the feeling you get when something is strange and surprising"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the feeling aroused by something strange and surprising"
+      ],
+      "lemmaPartition": "wonder%1:12:00:: -> the feeling caused by something strange and surprising; wonder%1:11:00:: -> the thing that causes that feeling",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "wonder%1:11:00::",
+      "lemma": "wonder",
+      "pos": "n",
+      "definition": "something that causes feelings of wonder",
+      "decision": "gloss",
+      "simpleMeaning": "This is something that makes people feel surprise and amazement.",
+      "scope": "It is the thing that causes the feeling, not the feeling itself.",
+      "examples": [
+        "The Great Wall is one of the wonders of the world.",
+        "The waterfall is a natural wonder that draws many visitors."
+      ],
+      "branchCoverage": [
+        "something that causes feelings of wonder -> something that makes people feel surprise and amazement"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "something that causes feelings of wonder"
+      ],
+      "lemmaPartition": "wonder%1:12:00:: -> the feeling caused by something strange and surprising; wonder%1:11:00:: -> the thing that causes that feeling",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "worst%1:04:00::",
+      "lemma": "worst",
+      "pos": "n",
+      "definition": "the weakest effort or poorest achievement one is capable of",
+      "decision": "gloss",
+      "simpleMeaning": "This is the least effort or the poorest result that a person is able to produce.",
+      "scope": "It means the weakest attempt or outcome, not the most unpleasant thing that could happen.",
+      "examples": [
+        "Even at his worst, he still finished the race.",
+        "The team did its worst and lost badly."
+      ],
+      "branchCoverage": [
+        "the weakest effort or poorest achievement one is capable of -> the least effort or the poorest result that a person is able to produce"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the weakest effort or poorest achievement one is capable of"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "awesome%5:00:00:impressive:00",
+      "lemma": "awesome",
+      "pos": "a",
+      "definition": "inspiring awe or admiration or wonder",
+      "decision": "gloss",
+      "simpleMeaning": "Something described this way causes a strong feeling of respect and amazement, or of great admiration.",
+      "scope": "It is about a strong feeling of respect or admiration, not something merely nice or enjoyable.",
+      "examples": [
+        "The view from the mountain top was awesome.",
+        "She gave an awesome performance that silenced the crowd."
+      ],
+      "branchCoverage": [
+        "inspiring awe or admiration or wonder -> causes a strong feeling of respect and amazement, or of great admiration"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "inspiring awe or admiration or wonder"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "band%1:07:00::",
+      "lemma": "band",
+      "pos": "n",
+      "definition": "a stripe or stripes of contrasting color",
+      "decision": "gloss",
+      "simpleMeaning": "This is a line or lines of a different color from the surface around them.",
+      "scope": "It is a stripe of contrasting color, not a group of musicians or a ring of material.",
+      "examples": [
+        "A dark band ran across the snake's back.",
+        "The flag has bands of red and white."
+      ],
+      "branchCoverage": [
+        "a stripe or stripes of contrasting color -> a line or lines of a different color from the surface around them"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a stripe or stripes of contrasting color"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "beach%2:38:00::",
+      "lemma": "beach",
+      "pos": "v",
+      "definition": "land on a beach",
+      "decision": "gloss",
+      "simpleMeaning": "It means to come onto the sandy shore beside the sea and stop there.",
+      "scope": "This is the verb for coming onto the shore, not the noun for the shore itself.",
+      "examples": [
+        "The boat beached on a quiet stretch of sand.",
+        "A whale beached near the harbor last night."
+      ],
+      "branchCoverage": [
+        "land on a beach -> to come onto the sandy shore beside the sea and stop there"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "land on a beach"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "cash%1:21:02::",
+      "lemma": "cash",
+      "pos": "n",
+      "definition": "prompt payment for goods or services in currency or by check",
+      "decision": "gloss",
+      "simpleMeaning": "Immediate payment for goods or services, made either with coins and notes or with a written order to a bank.",
+      "scope": "It is not money kept in a wallet or bank account; it is the act of paying at once.",
+      "examples": [
+        "The seller wanted payment on the spot, not a promise to pay later.",
+        "They offered a lower price to customers who paid immediately."
+      ],
+      "branchCoverage": [
+        "prompt payment for goods or services in currency or by check -> Immediate payment for goods or services, made either with coins and notes or with a written order to a bank."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "prompt payment for goods or services in currency or by check"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "clearly%4:02:02::",
+      "lemma": "clearly",
+      "pos": "r",
+      "definition": "clear to the mind; with distinct mental discernment",
+      "decision": "gloss",
+      "simpleMeaning": "In a way that is plain to the mind, showing sharp and distinct understanding.",
+      "scope": "It is not about speaking in an easy-to-follow way or about having no doubt, but about the mind perceiving something distinctly.",
+      "examples": [
+        "He saw at once, without any confusion, what the figures meant.",
+        "She grasped the point of his argument as soon as he spoke."
+      ],
+      "branchCoverage": [
+        "clear to the mind -> in a way that is plain to the mind",
+        "with distinct mental discernment -> showing sharp and distinct understanding"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "clear to the mind",
+        "with distinct mental discernment"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "commercial%3:00:00::",
+      "lemma": "commercial",
+      "pos": "a",
+      "definition": "connected with or engaged in or sponsored by or used in commerce or commercial enterprises",
+      "decision": "gloss",
+      "simpleMeaning": "Related to trade and business, taking part in it, paid for by it, or used in it.",
+      "scope": "It is not a profit-first attitude or low-grade goods; it describes anything tied to trade and business.",
+      "examples": [
+        "The building is used for commercial purposes, not for housing.",
+        "She works for a commercial bank that lends to small firms."
+      ],
+      "branchCoverage": [
+        "connected with or engaged in or sponsored by or used in commerce or commercial enterprises -> Related to trade and business, taking part in it, paid for by it, or used in it."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "connected with or engaged in or sponsored by or used in commerce or commercial enterprises"
+      ],
+      "lemmaPartition": "commercial%3:00:00:: -> connected with trade and business in general; commercial%1:10:00:: -> the noun for a paid advertisement on radio or television; commercial%3:01:00:: -> showing the profit-first spirit of commercialism; commercial%5:00:00:inferior:02 -> ordinary or poor quality, like goods made for bulk sale",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "commercial%1:10:00::",
+      "lemma": "commercial",
+      "pos": "n",
+      "definition": "a commercially sponsored ad on radio or television",
+      "decision": "gloss",
+      "simpleMeaning": "A short advertisement on radio or television that a business pays to have broadcast.",
+      "scope": "It is not the adjective for trade or quality, but the broadcast advertisement itself.",
+      "examples": [
+        "The show was interrupted every ten minutes by a paid advertisement.",
+        "She appeared in a toothpaste commercial on television."
+      ],
+      "branchCoverage": [
+        "a commercially sponsored ad on radio or television -> A short advertisement on radio or television that a business pays to have broadcast."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a commercially sponsored ad on radio or television"
+      ],
+      "lemmaPartition": "commercial%3:00:00:: -> connected with trade and business in general; commercial%1:10:00:: -> the noun for a paid advertisement on radio or television; commercial%3:01:00:: -> showing the profit-first spirit of commercialism; commercial%5:00:00:inferior:02 -> ordinary or poor quality, like goods made for bulk sale",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "commercial%3:01:00::",
+      "lemma": "commercial",
+      "pos": "a",
+      "definition": "of or relating to commercialism",
+      "decision": "gloss",
+      "simpleMeaning": "Showing or concerning a way of thinking that puts making money and profit above other values.",
+      "scope": "It is not about trade itself, but about a money-first attitude.",
+      "examples": [
+        "Many people feel the festival has grown too profit-driven.",
+        "He disliked the money-first attitude of the new owners."
+      ],
+      "branchCoverage": [
+        "of or relating to commercialism -> Showing or concerning a way of thinking that puts making money and profit above other values."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of or relating to commercialism"
+      ],
+      "lemmaPartition": "commercial%3:00:00:: -> connected with trade and business in general; commercial%1:10:00:: -> the noun for a paid advertisement on radio or television; commercial%3:01:00:: -> showing the profit-first spirit of commercialism; commercial%5:00:00:inferior:02 -> ordinary or poor quality, like goods made for bulk sale",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "commercial%5:00:00:inferior:02",
+      "lemma": "commercial",
+      "pos": "a",
+      "definition": "of the kind or quality used in commerce; average or inferior",
+      "decision": "gloss",
+      "simpleMeaning": "Of the ordinary or poor quality typical of goods made for general sale rather than for a special standard.",
+      "scope": "It is not about trade links or a profit-first attitude; it describes plain or poor quality in goods.",
+      "examples": [
+        "The hotel was clean but of an ordinary, mass-market standard.",
+        "These are cheap goods of the sort sold in any supermarket."
+      ],
+      "branchCoverage": [
+        "of the kind or quality used in commerce -> of the ordinary or poor quality typical of goods made for general sale",
+        "average or inferior -> ordinary or poor quality"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of the kind or quality used in commerce",
+        "average or inferior"
+      ],
+      "lemmaPartition": "commercial%3:00:00:: -> connected with trade and business in general; commercial%1:10:00:: -> the noun for a paid advertisement on radio or television; commercial%3:01:00:: -> showing the profit-first spirit of commercialism; commercial%5:00:00:inferior:02 -> ordinary or poor quality, like goods made for bulk sale",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "effort%1:04:00::",
+      "lemma": "effort",
+      "pos": "n",
+      "definition": "earnest and conscientious activity intended to do or accomplish something",
+      "decision": "gloss",
+      "simpleMeaning": "Serious, careful activity aimed at doing or achieving something.",
+      "scope": "It is not the energy used up or a finished achievement, but the serious attempt itself.",
+      "examples": [
+        "He made a serious attempt to learn the language.",
+        "She put a lot of hard work into finishing the report on time."
+      ],
+      "branchCoverage": [
+        "earnest and conscientious activity intended to do or accomplish something -> Serious, careful activity aimed at doing or achieving something."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "earnest and conscientious activity intended to do or accomplish something"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fan%1:18:00::",
+      "lemma": "fan",
+      "pos": "n",
+      "definition": "an ardent follower and admirer",
+      "decision": "gloss",
+      "simpleMeaning": "A person who follows someone or something with strong interest and admiration.",
+      "scope": "It is not a machine that moves air, but a devoted supporter of a person, team, or activity.",
+      "examples": [
+        "Thousands of supporters packed the stadium to see their team play.",
+        "She has read every book by that writer and admires her greatly."
+      ],
+      "branchCoverage": [
+        "an ardent follower and admirer -> A person who follows someone or something with strong interest and admiration."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an ardent follower and admirer"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fighting%1:04:00::",
+      "lemma": "fighting",
+      "pos": "n",
+      "definition": "the act of fighting; any contest or struggle",
+      "decision": "gloss",
+      "simpleMeaning": "The act of using force against an enemy, or any kind of contest or hard struggle.",
+      "scope": "It is not calm agreement or peace, but open conflict or a hard contest.",
+      "examples": [
+        "The two armies were in open conflict for three days.",
+        "The struggle for equal rights lasted many years."
+      ],
+      "branchCoverage": [
+        "the act of fighting -> The act of using force against an enemy",
+        "any contest or struggle -> any kind of contest or hard struggle"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of fighting",
+        "any contest or struggle"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "lack%1:26:00::",
+      "lemma": "lack",
+      "pos": "n",
+      "definition": "the state of needing something that is absent or unavailable",
+      "decision": "gloss",
+      "simpleMeaning": "The condition of being without something that is needed or cannot be had.",
+      "scope": "It is not choosing to do without; it is the state of needing something that is not there.",
+      "examples": [
+        "The project failed because of a total absence of funds.",
+        "Many villages suffer from a shortage of clean water."
+      ],
+      "branchCoverage": [
+        "the state of needing something that is absent or unavailable -> The condition of being without something that is needed or cannot be had."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the state of needing something that is absent or unavailable"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "learning%1:09:00::",
+      "lemma": "learning",
+      "pos": "n",
+      "definition": "the cognitive process of acquiring skill or knowledge",
+      "decision": "gloss",
+      "simpleMeaning": "The mental process by which a person gains knowledge or skill.",
+      "scope": "It is not the knowledge already gained, but the process of gaining it.",
+      "examples": [
+        "Gaining new skills continues throughout a person's life.",
+        "Teachers study how children take in new ideas."
+      ],
+      "branchCoverage": [
+        "the cognitive process of acquiring skill or knowledge -> The mental process by which a person gains knowledge or skill."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the cognitive process of acquiring skill or knowledge"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "multiple%3:00:00::",
+      "lemma": "multiple",
+      "pos": "a",
+      "definition": "having or involving or consisting of more than one part or entity or individual",
+      "decision": "gloss",
+      "simpleMeaning": "Having, involving, or being made up of more than one part, thing, or person.",
+      "scope": "It is not a word for a large amount; it only means more than one.",
+      "examples": [
+        "The test can detect several problems at the same time.",
+        "The team has more than one leader."
+      ],
+      "branchCoverage": [
+        "having or involving or consisting of more than one part or entity or individual -> Having, involving, or being made up of more than one part, thing, or person."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "having or involving or consisting of more than one part or entity or individual"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "older%5:00:00:old:02",
+      "lemma": "older",
+      "pos": "a",
+      "definition": "advanced in years; (‘aged’ is pronounced as two syllables)",
+      "decision": "gloss",
+      "simpleMeaning": "Having lived for many years; far along in age.",
+      "scope": "It is not a way of telling two people with the same name apart; it describes someone far along in age.",
+      "examples": [
+        "The group offers help to people of advanced age.",
+        "She cares for her grandmother, who is now far along in years."
+      ],
+      "branchCoverage": [
+        "advanced in years -> Having lived for many years; far along in age",
+        "(‘aged’ is pronounced as two syllables) -> no wording; it is a pronunciation label, not meaning content"
+      ],
+      "labelBranches": [
+        "(‘aged’ is pronounced as two syllables) — a pronunciation note about the synonym 'aged'; it carries no meaning content."
+      ],
+      "sourceBranches": [
+        "advanced in years",
+        "(‘aged’ is pronounced as two syllables)"
+      ],
+      "lemmaPartition": "older%5:00:00:old:02 -> far along in age; older%5:00:00:senior:00 -> the one who has lived longer of two people with the same name",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "older%5:00:00:senior:00",
+      "lemma": "older",
+      "pos": "a",
+      "definition": "used of the older of two persons of the same name especially used to distinguish a father from his son",
+      "decision": "gloss",
+      "simpleMeaning": "Used before the name of the one who has lived longer of two people who share a name, especially to tell a father apart from his son.",
+      "scope": "It is not a general word for being far along in age; it marks which of two people sharing a name is meant.",
+      "examples": [
+        "In the family, the father was known as the older William.",
+        "Since both were named James, the son was called James the younger and his father the older."
+      ],
+      "branchCoverage": [
+        "used of the older of two persons of the same name especially used to distinguish a father from his son -> Used before the name of the one who has lived longer of two people who share a name, especially to tell a father apart from his son."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "used of the older of two persons of the same name especially used to distinguish a father from his son"
+      ],
+      "lemmaPartition": "older%5:00:00:old:02 -> far along in age; older%5:00:00:senior:00 -> the one who has lived longer of two people with the same name",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "operation%1:26:00::",
+      "lemma": "operation",
+      "pos": "n",
+      "definition": "the state of being in effect or being operative",
+      "decision": "gloss",
+      "simpleMeaning": "The condition of being active, in force, or in working order.",
+      "scope": "It is not a medical procedure or a business activity, but the state of something being in force or working.",
+      "examples": [
+        "The new rules are now in force across the country.",
+        "Once the machine is in working order, production can begin."
+      ],
+      "branchCoverage": [
+        "the state of being in effect or being operative -> The condition of being active, in force, or in working order."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the state of being in effect or being operative"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "organization%1:14:01::",
+      "lemma": "organization",
+      "pos": "n",
+      "definition": "the persons (or committees or departments etc.) who make up a body for the purpose of administering something",
+      "decision": "gloss",
+      "simpleMeaning": "The group of people, such as committees or departments, who together run or manage something.",
+      "scope": "It is not a plan or system for sorting things, but the people who carry out the management.",
+      "examples": [
+        "A committee of managers meets each week to run the project.",
+        "Several departments joined to run the new service."
+      ],
+      "branchCoverage": [
+        "the persons (or committees or departments etc.) who make up a body for the purpose of administering something -> The group of people, such as committees or departments, who together run or manage something."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the persons (or committees or departments etc.) who make up a body for the purpose of administering something"
+      ],
+      "lemmaPartition": "organization%1:14:01:: -> the people or committees who manage something; organization%1:09:00:: -> a system or pattern for arranging or classifying things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "organization%1:09:00::",
+      "lemma": "organization",
+      "pos": "n",
+      "definition": "an organized structure for arranging or classifying",
+      "decision": "gloss",
+      "simpleMeaning": "A system or pattern used for putting things in order or sorting them into groups.",
+      "scope": "It is not a group of people that runs something, but the plan or pattern for sorting things.",
+      "examples": [
+        "The library uses a simple system for grouping books by subject.",
+        "Scientists developed a new scheme for classifying plants."
+      ],
+      "branchCoverage": [
+        "an organized structure for arranging or classifying -> A system or pattern used for putting things in order or sorting them into groups."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an organized structure for arranging or classifying"
+      ],
+      "lemmaPartition": "organization%1:14:01:: -> the people or committees who manage something; organization%1:09:00:: -> a system or pattern for arranging or classifying things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "protect%2:33:00::",
+      "lemma": "protect",
+      "pos": "v",
+      "definition": "shield from danger, injury, destruction, or damage",
+      "decision": "gloss",
+      "simpleMeaning": "To keep someone or something safe from harm, hurt, ruin, or damage.",
+      "scope": "It is not to support or help someone in general, but to guard them against harm.",
+      "examples": [
+        "The wall keeps the village safe from floods.",
+        "Wear gloves to guard your hands against the cold."
+      ],
+      "branchCoverage": [
+        "shield from danger, injury, destruction, or damage -> To keep someone or something safe from harm, hurt, ruin, or damage."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "shield from danger, injury, destruction, or damage"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "secret%5:00:01:covert:00",
+      "lemma": "secret",
+      "pos": "a",
+      "definition": "conducted with or marked by hidden aims or methods",
+      "decision": "gloss",
+      "simpleMeaning": "Carried out with purposes or methods that are hidden.",
+      "scope": "It is not information kept from others as a fact, but actions done in a hidden way.",
+      "examples": [
+        "The agency ran a hidden campaign to gather information.",
+        "Their real purpose was concealed from the public."
+      ],
+      "branchCoverage": [
+        "conducted with or marked by hidden aims or methods -> Carried out with purposes or methods that are hidden."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "conducted with or marked by hidden aims or methods"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "senior%1:18:00::",
+      "lemma": "senior",
+      "pos": "n",
+      "definition": "an undergraduate student during the year preceding graduation",
+      "decision": "gloss",
+      "simpleMeaning": "A student in the last year of a first university degree, just before finishing.",
+      "scope": "It is not a person of greater age or rank, but a student in the final year of a first degree.",
+      "examples": [
+        "She is in her fourth and final year at college.",
+        "The final-year students are preparing to graduate."
+      ],
+      "branchCoverage": [
+        "an undergraduate student during the year preceding graduation -> A student in the last year of a first university degree, just before finishing."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an undergraduate student during the year preceding graduation"
+      ],
+      "lemmaPartition": "senior%1:18:00:: -> a student in the final year of a first degree; senior%5:00:00:old:02 -> far along in age",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "senior%5:00:00:old:02",
+      "lemma": "senior",
+      "pos": "a",
+      "definition": "advanced in years; (‘aged’ is pronounced as two syllables)",
+      "decision": "gloss",
+      "simpleMeaning": "Having lived for many years; far along in age.",
+      "scope": "It is not about rank or length of service, but about being far along in age.",
+      "examples": [
+        "The bus is free for people who have reached an advanced age.",
+        "He has lived many years and now needs daily help."
+      ],
+      "branchCoverage": [
+        "advanced in years -> Having lived for many years; far along in age",
+        "(‘aged’ is pronounced as two syllables) -> no wording; it is a pronunciation label, not meaning content"
+      ],
+      "labelBranches": [
+        "(‘aged’ is pronounced as two syllables) — a pronunciation note about the synonym 'aged'; it carries no meaning content."
+      ],
+      "sourceBranches": [
+        "advanced in years",
+        "(‘aged’ is pronounced as two syllables)"
+      ],
+      "lemmaPartition": "senior%1:18:00:: -> a student in the final year of a first degree; senior%5:00:00:old:02 -> far along in age",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spring%1:06:00::",
+      "lemma": "spring",
+      "pos": "n",
+      "definition": "a metal elastic device that returns to its shape or position when pushed or pulled or pressed",
+      "decision": "gloss",
+      "simpleMeaning": "A metal device that bends or stretches and then returns to its shape or position after being pushed, pulled, or pressed.",
+      "scope": "It is not the season of the year or a water source, but a metal part that returns to shape.",
+      "examples": [
+        "The toy pops up because a bent metal strip pushes it back.",
+        "The screen door snapped shut as the metal coil pulled it back."
+      ],
+      "branchCoverage": [
+        "a metal elastic device that returns to its shape or position when pushed or pulled or pressed -> A metal device that bends or stretches and then returns to its shape or position after being pushed, pulled, or pressed."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a metal elastic device that returns to its shape or position when pushed or pulled or pressed"
+      ],
+      "lemmaPartition": "spring%1:06:00:: -> a metal part that returns to shape after being pressed; spring%1:28:00:: -> the season of growth; spring%2:38:00:: -> to bounce back after a hit",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spring%1:28:00::",
+      "lemma": "spring",
+      "pos": "n",
+      "definition": "the season of growth; spring; the beginning of spring",
+      "decision": "gloss",
+      "simpleMeaning": "The season when plants grow again, the first part of the year's warm period.",
+      "scope": "It is not a metal coil or a flow of water from the ground, but the season of the year.",
+      "examples": [
+        "The first warm weeks of the year bring new leaves to the trees.",
+        "Farmers plant their crops as the growing season begins."
+      ],
+      "branchCoverage": [
+        "the season of growth -> The season when plants grow again",
+        "spring -> The season when plants grow again (this branch only repeats the headword; no separate meaning)",
+        "the beginning of spring -> the first part of the year's warm period"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the season of growth",
+        "spring",
+        "the beginning of spring"
+      ],
+      "lemmaPartition": "spring%1:06:00:: -> a metal part that returns to shape after being pressed; spring%1:28:00:: -> the season of growth; spring%2:38:00:: -> to bounce back after a hit",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "spring%2:38:00::",
+      "lemma": "spring",
+      "pos": "v",
+      "definition": "spring back; spring away from an impact",
+      "decision": "gloss",
+      "simpleMeaning": "To move back or jump away suddenly after hitting something.",
+      "scope": "It is not to jump forward on purpose, but the sudden bounce back after a hit.",
+      "examples": [
+        "The ball bounced off the wall and shot back toward him.",
+        "The branch bent and then flew back when he let it go."
+      ],
+      "branchCoverage": [
+        "spring back -> To move back suddenly",
+        "spring away from an impact -> jump away suddenly after hitting something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "spring back",
+        "spring away from an impact"
+      ],
+      "lemmaPartition": "spring%1:06:00:: -> a metal part that returns to shape after being pressed; spring%1:28:00:: -> the season of growth; spring%2:38:00:: -> to bounce back after a hit",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "telling%5:00:00:informative:00",
+      "lemma": "telling",
+      "pos": "a",
+      "definition": "disclosing unintentionally something concealed",
+      "decision": "gloss",
+      "simpleMeaning": "Showing something that was hidden, without meaning to do so.",
+      "scope": "It is not about speaking or narrating a story, but about an accidental sign that reveals something.",
+      "examples": [
+        "Her shaking hands gave away how nervous she really was.",
+        "The look on his face showed what he had tried to hide."
+      ],
+      "branchCoverage": [
+        "disclosing unintentionally something concealed -> Showing something that was hidden, without meaning to do so."
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "disclosing unintentionally something concealed"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

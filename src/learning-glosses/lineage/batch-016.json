@@ -1,0 +1,1018 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 16,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 750,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "league%2:30:00::",
+      "lemma": "league",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "unite to form a league",
+      "synsetId": "00369717-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 736,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "unite to form a league"
+      ]
+    },
+    {
+      "senseId": "management%1:04:00::",
+      "lemma": "management",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the act of managing something",
+      "synsetId": "01135602-n",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 737,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the act of managing something"
+      ]
+    },
+    {
+      "senseId": "match%1:06:00::",
+      "lemma": "match",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction",
+      "synsetId": "03733928-n",
+      "words": 17,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 738,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical",
+        "ignites with friction"
+      ]
+    },
+    {
+      "senseId": "match%1:11:00::",
+      "lemma": "match",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a formal contest in which two or more persons or teams compete",
+      "synsetId": "07485811-n",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 738,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a formal contest in which two or more persons or teams compete"
+      ]
+    },
+    {
+      "senseId": "match%2:42:00::",
+      "lemma": "match",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be compatible, similar or consistent; coincide in their characteristics",
+      "synsetId": "02663315-v",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 738,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "be compatible, similar or consistent",
+        "coincide in their characteristics"
+      ]
+    },
+    {
+      "senseId": "model%1:18:00::",
+      "lemma": "model",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a person who poses for a photographer or painter or sculptor",
+      "synsetId": "10344226-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 739,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a person who poses for a photographer or painter or sculptor"
+      ]
+    },
+    {
+      "senseId": "model%2:36:02::",
+      "lemma": "model",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "plan or create according to a model or models",
+      "synsetId": "01747665-v",
+      "words": 9,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 739,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "plan or create according to a model or models"
+      ]
+    },
+    {
+      "senseId": "picture%1:06:01::",
+      "lemma": "picture",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "graphic art consisting of an artistic composition made by applying paints to a surface",
+      "synsetId": "03882197-n",
+      "words": 14,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 740,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "graphic art consisting of an artistic composition made by applying paints to a surface"
+      ]
+    },
+    {
+      "senseId": "picture%1:06:00::",
+      "lemma": "picture",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+      "synsetId": "03937282-n",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 740,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a visual representation (of an object or scene or person or abstraction) produced on a surface"
+      ]
+    },
+    {
+      "senseId": "size%1:27:00::",
+      "lemma": "size",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "any glutinous material used to fill pores in surfaces or to stiffen fabrics",
+      "synsetId": "14730533-n",
+      "words": 13,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 741,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any glutinous material used to fill pores in surfaces or to stiffen fabrics"
+      ]
+    },
+    {
+      "senseId": "size%2:35:00::",
+      "lemma": "size",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "cover or stiffen or glaze a porous material with size or sizing (a glutinous substance)",
+      "synsetId": "01613182-v",
+      "words": 15,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 741,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "cover or stiffen or glaze a porous material with size or sizing (a glutinous substance)"
+      ]
+    },
+    {
+      "senseId": "size%1:07:01::",
+      "lemma": "size",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the property resulting from being one of a series of graduated measurements (as of clothing)",
+      "synsetId": "05102953-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 741,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the property resulting from being one of a series of graduated measurements (as of clothing)"
+      ]
+    },
+    {
+      "senseId": "trust%1:07:00::",
+      "lemma": "trust",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the trait of believing in the honesty and reliability of others",
+      "synsetId": "04902441-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 743,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the trait of believing in the honesty and reliability of others"
+      ]
+    },
+    {
+      "senseId": "trust%1:21:03::",
+      "lemma": "trust",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)",
+      "synsetId": "13381671-n",
+      "words": 16,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 743,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)"
+      ]
+    },
+    {
+      "senseId": "central%1:06:00::",
+      "lemma": "central",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication",
+      "synsetId": "02998465-n",
+      "words": 19,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 744,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication"
+      ]
+    },
+    {
+      "senseId": "central%5:00:00:important:00",
+      "lemma": "central",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "serving as an essential component",
+      "synsetId": "01280207-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 744,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "serving as an essential component"
+      ]
+    },
+    {
+      "senseId": "forward%3:00:02::",
+      "lemma": "forward",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "used of temperament or behavior; lacking restraint or modesty",
+      "synsetId": "00206083-a",
+      "words": 9,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 746,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "used of temperament or behavior",
+        "lacking restraint or modesty"
+      ]
+    },
+    {
+      "senseId": "forward%3:00:03::",
+      "lemma": "forward",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "of the transmission gear causing forward movement in a motor vehicle",
+      "synsetId": "00205366-a",
+      "words": 11,
+      "rare": 4,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 746,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of the transmission gear causing forward movement in a motor vehicle"
+      ]
+    },
+    {
+      "senseId": "forward%1:04:00::",
+      "lemma": "forward",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a position on a basketball, soccer, or hockey team",
+      "synsetId": "00726634-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 746,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a position on a basketball, soccer, or hockey team"
+      ]
+    },
+    {
+      "senseId": "forward%1:18:00::",
+      "lemma": "forward",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey",
+      "synsetId": "10125502-n",
+      "words": 17,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 746,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey"
+      ]
+    },
+    {
+      "senseId": "forward%2:38:00::",
+      "lemma": "forward",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "send or ship onward from an intermediate post or station in transit",
+      "synsetId": "01959367-v",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 746,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "send or ship onward from an intermediate post or station in transit"
+      ]
+    },
+    {
+      "senseId": "forward%4:02:00::",
+      "lemma": "forward",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "at or to or toward the front; forward",
+      "synsetId": "00074907-r",
+      "words": 8,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 746,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "at or to or toward the front",
+        "forward"
+      ]
+    },
+    {
+      "senseId": "forward%4:02:02::",
+      "lemma": "forward",
+      "pos": "r",
+      "senseIndex": 2,
+      "definition": "toward the future; forward in time",
+      "synsetId": "00075708-r",
+      "words": 6,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 746,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "toward the future",
+        "forward in time"
+      ]
+    },
+    {
+      "senseId": "forward%4:02:03::",
+      "lemma": "forward",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "forward in time or order or degree",
+      "synsetId": "00104546-r",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 746,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "forward in time or order or degree"
+      ]
+    },
+    {
+      "senseId": "key%1:06:00::",
+      "lemma": "key",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated",
+      "synsetId": "03618503-n",
+      "words": 22,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 749,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated"
+      ]
+    },
+    {
+      "senseId": "key%2:31:00::",
+      "lemma": "key",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "identify as in botany or biology, for example",
+      "synsetId": "00654017-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 749,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "identify as in botany or biology, for example"
+      ]
+    },
+    {
+      "senseId": "key%5:00:00:important:00",
+      "lemma": "key",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "serving as an essential component",
+      "synsetId": "01280207-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 749,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "serving as an essential component"
+      ]
+    },
+    {
+      "senseId": "page%1:18:02::",
+      "lemma": "page",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a youthful attendant at official functions or ceremonies such as legislative functions and weddings",
+      "synsetId": "10410947-n",
+      "words": 14,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 751,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a youthful attendant at official functions or ceremonies such as legislative functions and weddings"
+      ]
+    },
+    {
+      "senseId": "page%1:10:00::",
+      "lemma": "page",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains",
+      "synsetId": "06267274-n",
+      "words": 23,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 751,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains"
+      ]
+    },
+    {
+      "senseId": "page%2:32:00::",
+      "lemma": "page",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "contact, as with a pager or by calling somebody's name over a P.A. system",
+      "synsetId": "00756605-v",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 751,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "contact, as with a pager or by calling somebody's name over a P.A. system"
+      ]
+    },
+    {
+      "senseId": "paid%5:00:00:professional:01",
+      "lemma": "paid",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "involving gainful employment in something often done as a hobby",
+      "synsetId": "01875076-s",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 752,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "involving gainful employment in something often done as a hobby"
+      ]
+    },
+    {
+      "senseId": "range%1:15:02::",
+      "lemma": "range",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a large tract of grassy open land on which livestock can graze",
+      "synsetId": "08646774-n",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 753,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a large tract of grassy open land on which livestock can graze"
+      ]
+    },
+    {
+      "senseId": "range%2:38:00::",
+      "lemma": "range",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "move about aimlessly or without any destination, often in search of food or employment",
+      "synsetId": "01885173-v",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 753,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "move about aimlessly or without any destination, often in search of food or employment"
+      ]
+    },
+    {
+      "senseId": "range%2:42:03::",
+      "lemma": "range",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "have a range; be capable of projecting over a certain distance, as of a gun",
+      "synsetId": "02747024-v",
+      "words": 15,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 753,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have a range",
+        "be capable of projecting over a certain distance, as of a gun"
+      ]
+    },
+    {
+      "senseId": "review%1:04:00::",
+      "lemma": "review",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a subsequent examination of a patient for the purpose of monitoring earlier treatment",
+      "synsetId": "00144071-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 754,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a subsequent examination of a patient for the purpose of monitoring earlier treatment"
+      ]
+    },
+    {
+      "senseId": "review%2:31:02::",
+      "lemma": "review",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "hold a review (of troops)",
+      "synsetId": "00698466-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 754,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "hold a review (of troops)"
+      ]
+    },
+    {
+      "senseId": "science%1:09:00::",
+      "lemma": "science",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a particular branch of scientific knowledge",
+      "synsetId": "06008975-n",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 755,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a particular branch of scientific knowledge"
+      ]
+    },
+    {
+      "senseId": "trade%1:04:00::",
+      "lemma": "trade",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the skilled practice of a practical occupation",
+      "synsetId": "00607485-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 756,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the skilled practice of a practical occupation"
+      ]
+    },
+    {
+      "senseId": "various%5:00:02:different:00",
+      "lemma": "various",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "of many different kinds purposefully arranged but lacking any uniformity",
+      "synsetId": "02073069-s",
+      "words": 10,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 758,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of many different kinds purposefully arranged but lacking any uniformity"
+      ]
+    },
+    {
+      "senseId": "various%5:00:00:different:00",
+      "lemma": "various",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "distinctly dissimilar or unlike",
+      "synsetId": "02074895-s",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 758,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "distinctly dissimilar or unlike"
+      ]
+    },
+    {
+      "senseId": "attention%1:09:00::",
+      "lemma": "attention",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others",
+      "synsetId": "05710222-n",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 759,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others"
+      ]
+    },
+    {
+      "senseId": "attention%1:04:01::",
+      "lemma": "attention",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the work of providing treatment for or attending to someone or something",
+      "synsetId": "00656128-n",
+      "words": 12,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 759,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the work of providing treatment for or attending to someone or something"
+      ]
+    },
+    {
+      "senseId": "character%1:07:01::",
+      "lemma": "character",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the inherent complex of attributes that determines a persons moral and ethical actions and reactions",
+      "synsetId": "04627573-n",
+      "words": 15,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 762,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the inherent complex of attributes that determines a persons moral and ethical actions and reactions"
+      ]
+    },
+    {
+      "senseId": "character%1:09:00::",
+      "lemma": "character",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a characteristic property that defines the apparent individual nature of something",
+      "synsetId": "05857811-n",
+      "words": 11,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 762,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a characteristic property that defines the apparent individual nature of something"
+      ]
+    },
+    {
+      "senseId": "character%1:18:02::",
+      "lemma": "character",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an imaginary person represented in a work of fiction (play or film or story)",
+      "synsetId": "09610740-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 762,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an imaginary person represented in a work of fiction (play or film or story)"
+      ]
+    },
+    {
+      "senseId": "character%2:35:00::",
+      "lemma": "character",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "engrave or inscribe characters on",
+      "synsetId": "01325055-v",
+      "words": 5,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 762,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "engrave or inscribe characters on"
+      ]
+    },
+    {
+      "senseId": "football%1:04:00::",
+      "lemma": "football",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal",
+      "synsetId": "00469555-n",
+      "words": 28,
+      "rare": 3,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 765,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal"
+      ]
+    },
+    {
+      "senseId": "football%1:06:00::",
+      "lemma": "football",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the inflated oblong ball used in playing American football",
+      "synsetId": "03383611-n",
+      "words": 9,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 765,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the inflated oblong ball used in playing American football"
+      ]
+    },
+    {
+      "senseId": "hate%1:12:00::",
+      "lemma": "hate",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the emotion of intense dislike; a feeling of dislike so strong that it demands action",
+      "synsetId": "07561835-n",
+      "words": 15,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 766,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the emotion of intense dislike",
+        "a feeling of dislike so strong that it demands action"
+      ]
+    },
+    {
+      "senseId": "hate%2:37:00::",
+      "lemma": "hate",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "dislike intensely; feel antipathy or aversion towards",
+      "synsetId": "01778057-v",
+      "words": 7,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 766,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "dislike intensely",
+        "feel antipathy or aversion towards"
+      ]
+    }
+  ]
+}

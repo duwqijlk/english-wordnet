@@ -1,0 +1,1019 @@
+{
+  "schema": "oewn-gloss-batch-v3",
+  "batch": 13,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 600,
+  "domainTaggedSkipped": 480,
+  "senses": [
+    {
+      "senseId": "personal%1:10:00::",
+      "lemma": "personal",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a short newspaper article about a particular person or group",
+      "synsetId": "06281941-n",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 618,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a short newspaper article about a particular person or group"
+      ]
+    },
+    {
+      "senseId": "share%1:21:01::",
+      "lemma": "share",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate",
+      "synsetId": "13363150-n",
+      "words": 25,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 620,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate"
+      ]
+    },
+    {
+      "senseId": "share%1:21:00::",
+      "lemma": "share",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "assets belonging to or due to or contributed by an individual person or group",
+      "synsetId": "13306199-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 620,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "assets belonging to or due to or contributed by an individual person or group"
+      ]
+    },
+    {
+      "senseId": "share%2:40:01::",
+      "lemma": "share",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "have, give, or receive a share of",
+      "synsetId": "02300169-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 620,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "have, give, or receive a share of"
+      ]
+    },
+    {
+      "senseId": "center%3:00:00::",
+      "lemma": "center",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "of or belonging to neither the right nor the left politically or intellectually",
+      "synsetId": "02039031-a",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 623,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "of or belonging to neither the right nor the left politically or intellectually"
+      ]
+    },
+    {
+      "senseId": "center%5:00:00:central:01",
+      "lemma": "center",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "equally distant from the extremes",
+      "synsetId": "00331404-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 623,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "equally distant from the extremes"
+      ]
+    },
+    {
+      "senseId": "center%2:38:00::",
+      "lemma": "center",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "move into the center",
+      "synsetId": "01856668-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 623,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "move into the center"
+      ]
+    },
+    {
+      "senseId": "center%2:42:00::",
+      "lemma": "center",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "center upon",
+      "synsetId": "02682306-v",
+      "words": 2,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 623,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "center upon"
+      ]
+    },
+    {
+      "senseId": "dead%4:02:01::",
+      "lemma": "dead",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "quickly and without warning; happening unexpectedly; on impulse; without premeditation",
+      "synsetId": "81484980-r",
+      "words": 10,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 626,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "quickly and without warning",
+        "happening unexpectedly",
+        "on impulse",
+        "without premeditation"
+      ]
+    },
+    {
+      "senseId": "dead%3:00:02::",
+      "lemma": "dead",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "not showing characteristics of life especially the capacity to sustain life; no longer exerting force or having energy or heat",
+      "synsetId": "00100594-a",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 626,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "not showing characteristics of life especially the capacity to sustain life",
+        "no longer exerting force or having energy or heat"
+      ]
+    },
+    {
+      "senseId": "dead%4:02:00::",
+      "lemma": "dead",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "completely and without qualification; used informally as intensifiers",
+      "synsetId": "00009459-r",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 626,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "completely and without qualification",
+        "used informally as intensifiers"
+      ]
+    },
+    {
+      "senseId": "happen%2:30:02::",
+      "lemma": "happen",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "happen, occur, or be the case in the course of events or by chance",
+      "synsetId": "00345297-v",
+      "words": 14,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 627,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "happen, occur, or be the case in the course of events or by chance"
+      ]
+    },
+    {
+      "senseId": "industry%1:07:00::",
+      "lemma": "industry",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "persevering determination to perform a task",
+      "synsetId": "04872345-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 629,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "persevering determination to perform a task"
+      ]
+    },
+    {
+      "senseId": "inside%5:00:00:interior:00",
+      "lemma": "inside",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "being or applying to the inside of a building",
+      "synsetId": "00956403-s",
+      "words": 9,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 630,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "being or applying to the inside of a building"
+      ]
+    },
+    {
+      "senseId": "inside%1:15:01::",
+      "lemma": "inside",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the region that is inside of something",
+      "synsetId": "08605849-n",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 630,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the region that is inside of something"
+      ]
+    },
+    {
+      "senseId": "inside%4:02:01::",
+      "lemma": "inside",
+      "pos": "r",
+      "senseIndex": 1,
+      "definition": "on the inside",
+      "synsetId": "00111558-r",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 630,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "on the inside"
+      ]
+    },
+    {
+      "senseId": "private%1:18:00::",
+      "lemma": "private",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "an enlisted man of the lowest rank in the Army or Marines",
+      "synsetId": "10496052-n",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 633,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an enlisted man of the lowest rank in the Army or Marines"
+      ]
+    },
+    {
+      "senseId": "private%3:00:00::",
+      "lemma": "private",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "confined to particular persons or groups or providing privacy",
+      "synsetId": "01864034-a",
+      "words": 9,
+      "rare": 3,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 633,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "confined to particular persons or groups or providing privacy"
+      ]
+    },
+    {
+      "senseId": "private%5:00:02:personal:00",
+      "lemma": "private",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "concerning things deeply private and personal",
+      "synsetId": "01773890-s",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 633,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "concerning things deeply private and personal"
+      ]
+    },
+    {
+      "senseId": "return%1:10:01::",
+      "lemma": "return",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "document giving the tax collector information about the taxpayer's tax liability",
+      "synsetId": "06560662-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 635,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "document giving the tax collector information about the taxpayer's tax liability"
+      ]
+    },
+    {
+      "senseId": "return%1:04:01::",
+      "lemma": "return",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a coming to or returning home",
+      "synsetId": "00052012-n",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 635,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a coming to or returning home"
+      ]
+    },
+    {
+      "senseId": "sense%2:39:00::",
+      "lemma": "sense",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "perceive by a physical sensation, e.g., coming from the skin or muscles",
+      "synsetId": "02110460-v",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 637,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "perceive by a physical sensation, e.g., coming from the skin or muscles"
+      ]
+    },
+    {
+      "senseId": "sense%2:39:02::",
+      "lemma": "sense",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "detect some circumstance or entity automatically",
+      "synsetId": "02159678-v",
+      "words": 6,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 637,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "detect some circumstance or entity automatically"
+      ]
+    },
+    {
+      "senseId": "sense%1:09:02::",
+      "lemma": "sense",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the faculty through which the external world is apprehended",
+      "synsetId": "05659816-n",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 637,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the faculty through which the external world is apprehended"
+      ]
+    },
+    {
+      "senseId": "sense%1:10:00::",
+      "lemma": "sense",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the meaning of a word or expression; the way in which a word or expression or situation can be interpreted",
+      "synsetId": "06614825-n",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 637,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the meaning of a word or expression",
+        "the way in which a word or expression or situation can be interpreted"
+      ]
+    },
+    {
+      "senseId": "sense%2:31:03::",
+      "lemma": "sense",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "become aware of not through the senses but instinctively",
+      "synsetId": "00590864-v",
+      "words": 9,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 637,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "become aware of not through the senses but instinctively"
+      ]
+    },
+    {
+      "senseId": "test%1:04:02::",
+      "lemma": "test",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc",
+      "synsetId": "01008617-n",
+      "words": 15,
+      "rare": 7,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 639,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc"
+      ]
+    },
+    {
+      "senseId": "test%1:10:00::",
+      "lemma": "test",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a set of questions or exercises evaluating skill or knowledge",
+      "synsetId": "07211681-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 639,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a set of questions or exercises evaluating skill or knowledge"
+      ]
+    },
+    {
+      "senseId": "view%1:09:02::",
+      "lemma": "view",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a way of regarding situations or topics etc.",
+      "synsetId": "06218486-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 640,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a way of regarding situations or topics etc"
+      ]
+    },
+    {
+      "senseId": "break%1:11:00::",
+      "lemma": "break",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "some abrupt occurrence that interrupts an ongoing activity",
+      "synsetId": "07382412-n",
+      "words": 8,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 642,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "some abrupt occurrence that interrupts an ongoing activity"
+      ]
+    },
+    {
+      "senseId": "break%2:30:06::",
+      "lemma": "break",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "render inoperable or ineffective",
+      "synsetId": "00259551-v",
+      "words": 4,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 642,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "render inoperable or ineffective"
+      ]
+    },
+    {
+      "senseId": "member%1:18:00::",
+      "lemma": "member",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)",
+      "synsetId": "10326901-n",
+      "words": 20,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 647,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "one of the persons who compose a social group (especially individuals who have joined and participate in a group organization)"
+      ]
+    },
+    {
+      "senseId": "middle%5:00:01:central:01",
+      "lemma": "middle",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "equally distant from the extremes",
+      "synsetId": "00331404-s",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 648,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "equally distant from the extremes"
+      ]
+    },
+    {
+      "senseId": "middle%1:08:00::",
+      "lemma": "middle",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the middle area of the human torso (usually in front)",
+      "synsetId": "05563106-n",
+      "words": 10,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 648,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "the middle area of the human torso (usually in front)"
+      ]
+    },
+    {
+      "senseId": "middle%2:35:00::",
+      "lemma": "middle",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "put in the middle",
+      "synsetId": "01501137-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 648,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "put in the middle"
+      ]
+    },
+    {
+      "senseId": "present%1:10:00::",
+      "lemma": "present",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a verb tense that expresses actions or states at the time of speaking",
+      "synsetId": "06340727-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 650,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a verb tense that expresses actions or states at the time of speaking"
+      ]
+    },
+    {
+      "senseId": "present%3:00:01::",
+      "lemma": "present",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "temporal sense; intermediate between past and future; now existing or happening or in consideration",
+      "synsetId": "01735600-a",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 650,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "temporal sense",
+        "intermediate between past and future",
+        "now existing or happening or in consideration"
+      ]
+    },
+    {
+      "senseId": "present%1:21:00::",
+      "lemma": "present",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "something presented as a gift",
+      "synsetId": "13289865-n",
+      "words": 5,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 650,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something presented as a gift"
+      ]
+    },
+    {
+      "senseId": "present%2:32:00::",
+      "lemma": "present",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "bring forward and present to the mind",
+      "synsetId": "00775012-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 650,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "bring forward and present to the mind"
+      ]
+    },
+    {
+      "senseId": "result%1:10:00::",
+      "lemma": "result",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a statement that solves a problem or explains how to solve the problem",
+      "synsetId": "06756201-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 651,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a statement that solves a problem or explains how to solve the problem"
+      ]
+    },
+    {
+      "senseId": "result%2:42:00::",
+      "lemma": "result",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "issue or terminate (in a specified way, state, etc.); end",
+      "synsetId": "02640346-v",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 651,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "issue or terminate (in a specified way, state, etc.)",
+        "end"
+      ]
+    },
+    {
+      "senseId": "result%2:42:02::",
+      "lemma": "result",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "produce as a result or residue",
+      "synsetId": "02641740-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 651,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "produce as a result or residue"
+      ]
+    },
+    {
+      "senseId": "result%1:11:00::",
+      "lemma": "result",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "something that results",
+      "synsetId": "07307418-n",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 651,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "something that results"
+      ]
+    },
+    {
+      "senseId": "sorry%3:00:02::",
+      "lemma": "sorry",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "feeling or expressing regret or sorrow or a sense of loss over something done or undone",
+      "synsetId": "01153978-a",
+      "words": 16,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 652,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "feeling or expressing regret or sorrow or a sense of loss over something done or undone"
+      ]
+    },
+    {
+      "senseId": "wish%1:10:01::",
+      "lemma": "wish",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(usually plural) a polite expression of desire for someone's welfare",
+      "synsetId": "06643134-n",
+      "words": 10,
+      "rare": 6,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 655,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "(usually plural) a polite expression of desire for someone's welfare"
+      ]
+    },
+    {
+      "senseId": "wish%1:10:00::",
+      "lemma": "wish",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an expression of some desire or inclination",
+      "synsetId": "07200530-n",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 655,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "an expression of some desire or inclination"
+      ]
+    },
+    {
+      "senseId": "wish%2:37:01::",
+      "lemma": "wish",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "feel or express a desire or hope concerning the future or fortune of",
+      "synsetId": "01828474-v",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 655,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "feel or express a desire or hope concerning the future or fortune of"
+      ]
+    },
+    {
+      "senseId": "answer%1:10:01::",
+      "lemma": "answer",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation",
+      "synsetId": "06758700-n",
+      "words": 20,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 656,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation"
+      ]
+    },
+    {
+      "senseId": "answer%1:10:02::",
+      "lemma": "answer",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a statement that solves a problem or explains how to solve the problem",
+      "synsetId": "06756201-n",
+      "words": 13,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 656,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "a statement that solves a problem or explains how to solve the problem"
+      ]
+    },
+    {
+      "senseId": "answer%2:31:00::",
+      "lemma": "answer",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "give the correct answer or solution to",
+      "synsetId": "00637941-v",
+      "words": 7,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 656,
+      "priority": 0,
+      "specialist": null,
+      "domain": [],
+      "sourceBranches": [
+        "give the correct answer or solution to"
+      ]
+    }
+  ]
+}

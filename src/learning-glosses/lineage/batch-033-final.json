@@ -1,0 +1,1137 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 33,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 50,
+    "defers": 0,
+    "firstPass": {
+      "approved": 48,
+      "of": 50,
+      "rate": 0.96
+    },
+    "selfApproved": [
+      "feature%2:42:01::",
+      "metal%2:35:00::"
+    ],
+    "lineage": {
+      "draft": "7dbf2b2c5e911d9356a346ac02a497f00df8c0a8ced0a4dd98261d48aa236b03"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "acting%5:00:00:impermanent:00",
+      "lemma": "acting",
+      "pos": "a",
+      "definition": "serving temporarily especially as a substitute",
+      "decision": "gloss",
+      "simpleMeaning": "working in a job for a short time only, until someone else can take the place.",
+      "scope": "This is not the art of performing in plays or films, and not a permanent job.",
+      "examples": [
+        "The company appointed an acting manager while the director was on leave.",
+        "She took over as the acting head of the department for three months."
+      ],
+      "branchCoverage": [
+        "serving temporarily especially as a substitute -> working in a job for a short time only, until someone else can take the place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "serving temporarily especially as a substitute"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "benefit%2:40:00::",
+      "lemma": "benefit",
+      "pos": "v",
+      "definition": "derive a benefit from",
+      "decision": "gloss",
+      "simpleMeaning": "to get something useful or helpful from something.",
+      "scope": "This is not about giving help to someone else; it is about receiving something useful.",
+      "examples": [
+        "We benefited from the extra training.",
+        "Small businesses benefited greatly from the tax cut."
+      ],
+      "branchCoverage": [
+        "derive a benefit from -> to get something useful or helpful from something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "derive a benefit from"
+      ],
+      "lemmaPartition": "benefit%2:40:00:: = the person or group that receives an advantage; benefit%2:40:01:: = the thing or change that gives an advantage to someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "benefit%2:40:01::",
+      "lemma": "benefit",
+      "pos": "v",
+      "definition": "be beneficial for",
+      "decision": "gloss",
+      "simpleMeaning": "to help someone or something or make their situation better.",
+      "scope": "This is not about receiving help oneself; it is about giving it to someone or something.",
+      "examples": [
+        "The new road will benefit the whole region.",
+        "Regular exercise benefits both body and mind."
+      ],
+      "branchCoverage": [
+        "be beneficial for -> to help someone or something or make their situation better"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be beneficial for"
+      ],
+      "lemmaPartition": "benefit%2:40:00:: = the person or group that receives an advantage; benefit%2:40:01:: = the thing or change that gives an advantage to someone",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "budget%1:21:03::",
+      "lemma": "budget",
+      "pos": "n",
+      "definition": "a summary of intended expenditures along with proposals for how to meet them",
+      "decision": "gloss",
+      "simpleMeaning": "a plan that lists the money someone intends to spend and explains where the money to pay for it will come from.",
+      "scope": "This is not a sum of money set aside, and not the act of planning spending; it is the written plan itself.",
+      "examples": [
+        "The finance committee presented a detailed budget for the coming year.",
+        "Their budget showed how the money would be spent and which grants would cover it."
+      ],
+      "branchCoverage": [
+        "a summary of intended expenditures along with proposals for how to meet them -> a plan that lists the money someone intends to spend and explains where the money to pay for it will come from"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a summary of intended expenditures along with proposals for how to meet them"
+      ],
+      "lemmaPartition": "budget%1:21:03:: = the written plan for intended spending and where the money will come from; budget%2:31:00:: = the act of drawing up such a plan",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "budget%2:31:00::",
+      "lemma": "budget",
+      "pos": "v",
+      "definition": "make a budget",
+      "decision": "gloss",
+      "simpleMeaning": "to plan carefully how much money will be spent and where it will come from.",
+      "scope": "This is not the plan itself, and not the act of spending money; it is the act of planning.",
+      "examples": [
+        "We need to budget carefully for the trip.",
+        "The council budgeted for repairs and new equipment."
+      ],
+      "branchCoverage": [
+        "make a budget -> to plan carefully how much money will be spent and where it will come from"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make a budget"
+      ],
+      "lemmaPartition": "budget%1:21:03:: = the written plan for intended spending and where the money will come from; budget%2:31:00:: = the act of drawing up such a plan",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "estate%1:14:00::",
+      "lemma": "estate",
+      "pos": "n",
+      "definition": "a major social class or order of persons regarded collectively as part of the body politic of the country (especially in the United Kingdom) and formerly possessing distinct political rights",
+      "decision": "gloss",
+      "simpleMeaning": "one of the main social groups in a country, seen as a whole in its political life and once having its own political rights, especially in Britain.",
+      "scope": "This is not land or property, and not the total wealth a person leaves when they die.",
+      "examples": [
+        "In old England, the clergy, the nobility and the common people were the three estates of the realm.",
+        "The first estate was the clergy, and it held great influence in the kingdom."
+      ],
+      "branchCoverage": [
+        "a major social class or order of persons regarded collectively as part of the body politic of the country (especially in the United Kingdom) and formerly possessing distinct political rights -> one of the main social groups in a country, seen as a whole in its political life and once having its own political rights, especially in Britain"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a major social class or order of persons regarded collectively as part of the body politic of the country (especially in the United Kingdom) and formerly possessing distinct political rights"
+      ],
+      "lemmaPartition": "estate%1:14:00:: = a social class or order in a country's political life; estate%1:21:01:: = a large area of land and buildings kept for the owner's own use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "estate%1:21:01::",
+      "lemma": "estate",
+      "pos": "n",
+      "definition": "extensive landed property (especially in the country) retained by the owner for their own use",
+      "decision": "gloss",
+      "simpleMeaning": "a large area of land with its buildings, especially in the countryside, kept by its owner for their own use.",
+      "scope": "This is not a social class, and not the total wealth left by someone who has died.",
+      "examples": [
+        "They live on a large country estate with woods and a lake.",
+        "The family has owned the estate for over two hundred years."
+      ],
+      "branchCoverage": [
+        "extensive landed property (especially in the country) retained by the owner for their own use -> a large area of land with its buildings, especially in the countryside, kept by its owner for their own use"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "extensive landed property (especially in the country) retained by the owner for their own use"
+      ],
+      "lemmaPartition": "estate%1:14:00:: = a social class or order in a country's political life; estate%1:21:01:: = a large area of land and buildings kept for the owner's own use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "faith%1:09:00::",
+      "lemma": "faith",
+      "pos": "n",
+      "definition": "a strong belief in a supernatural power or powers that control human destiny",
+      "decision": "gloss",
+      "simpleMeaning": "a deep belief in a god or gods or another unseen power that is thought to control what happens to people.",
+      "scope": "This is not trust in a particular person or thing, and not an organized religion.",
+      "examples": [
+        "For many people, faith in a higher power brings comfort in hard times.",
+        "She held a deep faith that God was watching over her family."
+      ],
+      "branchCoverage": [
+        "a strong belief in a supernatural power or powers that control human destiny -> a deep belief in a god or gods or another unseen power that is thought to control what happens to people"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a strong belief in a supernatural power or powers that control human destiny"
+      ],
+      "lemmaPartition": "faith%1:09:00:: = personal belief in a supernatural power; faith%1:14:00:: = an organized religion or religious community",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "faith%1:14:00::",
+      "lemma": "faith",
+      "pos": "n",
+      "definition": "an institution to express belief in a divine power",
+      "decision": "gloss",
+      "simpleMeaning": "a religion or religious group through which people express belief in a divine power.",
+      "scope": "This is not a person's private belief, and not trust in a person or thing; it is the organized religion or community.",
+      "examples": [
+        "People of many faiths attended the service.",
+        "The school welcomes students from every faith."
+      ],
+      "branchCoverage": [
+        "an institution to express belief in a divine power -> a religion or religious group through which people express belief in a divine power"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an institution to express belief in a divine power"
+      ],
+      "lemmaPartition": "faith%1:09:00:: = personal belief in a supernatural power; faith%1:14:00:: = an organized religion or religious community",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fashion%2:36:00::",
+      "lemma": "fashion",
+      "pos": "v",
+      "definition": "make out of components (often in an improvising manner)",
+      "decision": "gloss",
+      "simpleMeaning": "to make something from various parts, often in a quick, inventive way without a fixed plan.",
+      "scope": "This is not the popular style of clothes or behavior, and not professional dressmaking; it is putting parts together to make something.",
+      "examples": [
+        "She fashioned a shelter from branches and leaves.",
+        "He fashioned a toy boat out of a piece of wood."
+      ],
+      "branchCoverage": [
+        "make out of components (often in an improvising manner) -> to make something from various parts, often in a quick, inventive way without a fixed plan"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "make out of components (often in an improvising manner)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "feature%1:08:00::",
+      "lemma": "feature",
+      "pos": "n",
+      "definition": "the characteristic parts of a person's face: eyes and nose and mouth and chin",
+      "decision": "gloss",
+      "simpleMeaning": "the parts of a face, such as the eyes, nose, mouth and chin, that give it its shape and look.",
+      "scope": "This is not an important part of something in general, and not a special article or film.",
+      "examples": [
+        "She has delicate features and a warm smile.",
+        "His features were hard to see in the photograph."
+      ],
+      "branchCoverage": [
+        "the characteristic parts of a person's face: eyes and nose and mouth and chin -> the parts of a face, such as the eyes, nose, mouth and chin, that give it its shape and look",
+        "after colon: eyes and nose and mouth and chin -> the eyes, nose, mouth and chin"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the characteristic parts of a person's face: eyes and nose and mouth and chin",
+        "after colon: eyes and nose and mouth and chin"
+      ],
+      "lemmaPartition": "feature%1:08:00:: = the parts of a face; feature%1:09:00:: = an important quality or aspect of something; feature%2:42:01:: = to wear or show something proudly; feature%2:42:00:: = to include something as an important part",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "feature%1:09:00::",
+      "lemma": "feature",
+      "pos": "n",
+      "definition": "a prominent attribute or aspect of something",
+      "decision": "gloss",
+      "simpleMeaning": "an important or noticeable quality or part of something.",
+      "scope": "This is not a part of the face, and not a special article in a newspaper or a film.",
+      "examples": [
+        "The main feature of the house is its large garden.",
+        "Safety is an important feature of the new car."
+      ],
+      "branchCoverage": [
+        "a prominent attribute or aspect of something -> an important or noticeable quality or part of something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a prominent attribute or aspect of something"
+      ],
+      "lemmaPartition": "feature%1:08:00:: = the parts of a face; feature%1:09:00:: = an important quality or aspect of something; feature%2:42:01:: = to wear or show something proudly; feature%2:42:00:: = to include something as an important part",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "feature%2:42:01::",
+      "lemma": "feature",
+      "pos": "v",
+      "definition": "wear or display in an ostentatious or proud manner",
+      "decision": "gloss",
+      "simpleMeaning": "to wear or show something in a way meant to attract attention or show pride.",
+      "scope": "This is not about including something as an important part; it is about showing it off.",
+      "examples": [
+        "She featured a wide-brimmed hat at the races.",
+        "He featured his new medal at the parade."
+      ],
+      "branchCoverage": [
+        "wear or display in an ostentatious or proud manner -> to wear or show something in a way meant to attract attention or show pride"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "wear or display in an ostentatious or proud manner"
+      ],
+      "lemmaPartition": "feature%1:08:00:: = the parts of a face; feature%1:09:00:: = an important quality or aspect of something; feature%2:42:01:: = to wear or show something proudly; feature%2:42:00:: = to include something as an important part",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples unidiomatic: 'featured a gown/watch' is not natural modern English."
+    },
+    {
+      "senseId": "feature%2:42:00::",
+      "lemma": "feature",
+      "pos": "v",
+      "definition": "have as a feature",
+      "decision": "gloss",
+      "simpleMeaning": "to include something as an important or noticeable part.",
+      "scope": "This is not about wearing or showing something off; it is about what something contains.",
+      "examples": [
+        "The new phone features a large screen and a better camera.",
+        "The museum features works by local artists."
+      ],
+      "branchCoverage": [
+        "have as a feature -> to include something as an important or noticeable part"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have as a feature"
+      ],
+      "lemmaPartition": "feature%1:08:00:: = the parts of a face; feature%1:09:00:: = an important quality or aspect of something; feature%2:42:01:: = to wear or show something proudly; feature%2:42:00:: = to include something as an important part",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fund%1:14:00::",
+      "lemma": "fund",
+      "pos": "n",
+      "definition": "a financial institution that sells shares to individuals and invests in securities issued by other companies",
+      "decision": "gloss",
+      "simpleMeaning": "a company that collects money from people who buy shares and uses it to buy stocks and other investments in other companies.",
+      "scope": "This is not a sum of money saved for a purpose, and not a supply of something.",
+      "examples": [
+        "She put her savings into a fund that invests in technology companies.",
+        "The fund buys shares in many different businesses to spread the risk."
+      ],
+      "branchCoverage": [
+        "a financial institution that sells shares to individuals and invests in securities issued by other companies -> a company that collects money from people who buy shares and uses it to buy stocks and other investments in other companies"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a financial institution that sells shares to individuals and invests in securities issued by other companies"
+      ],
+      "lemmaPartition": "fund%1:14:00:: = a company that invests money collected from people who buy shares; fund%2:40:02:: = to turn short-term debt into long-term bonds",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "fund%2:40:02::",
+      "lemma": "fund",
+      "pos": "v",
+      "definition": "convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds",
+      "decision": "gloss",
+      "simpleMeaning": "to replace short-term debt that must be paid back soon with long-term debt that pays a fixed rate of interest and is held as bonds.",
+      "scope": "This is not about providing money for a project; it is about changing short-term debt into long-term bonds.",
+      "examples": [
+        "The company funded its short-term debt by issuing long-term bonds.",
+        "The city funded its floating debt with bonds carrying a fixed rate of interest."
+      ],
+      "branchCoverage": [
+        "convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds -> to replace short-term debt that must be paid back soon with long-term debt that pays a fixed rate of interest and is held as bonds"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds"
+      ],
+      "lemmaPartition": "fund%1:14:00:: = a company that invests money collected from people who buy shares; fund%2:40:02:: = to turn short-term debt into long-term bonds",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "generation%1:14:00::",
+      "lemma": "generation",
+      "pos": "n",
+      "definition": "group of genetically related organisms constituting a single step in the line of descent",
+      "decision": "gloss",
+      "simpleMeaning": "a group of related living things that form one step in the line of descent from parent to child.",
+      "scope": "This is not the length of time between such groups, and not the act of producing something.",
+      "examples": [
+        "Each generation of the fish returns to the same river to breed.",
+        "The disease can skip a generation and appear in the grandchildren."
+      ],
+      "branchCoverage": [
+        "group of genetically related organisms constituting a single step in the line of descent -> a group of related living things that form one step in the line of descent from parent to child"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "group of genetically related organisms constituting a single step in the line of descent"
+      ],
+      "lemmaPartition": "generation%1:14:00:: = the group of related living things at one step in the line of descent; generation%1:28:00:: = the length of time between one such group and the next",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "generation%1:28:00::",
+      "lemma": "generation",
+      "pos": "n",
+      "definition": "the normal time between successive generations",
+      "decision": "gloss",
+      "simpleMeaning": "the usual length of time between one group of offspring and the next.",
+      "scope": "This is not the group of related living things itself; it is the period of time between one group and the next.",
+      "examples": [
+        "In humans, a generation is usually counted as about thirty years.",
+        "For these trees, a generation may last more than a century."
+      ],
+      "branchCoverage": [
+        "the normal time between successive generations -> the usual length of time between one group of offspring and the next"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the normal time between successive generations"
+      ],
+      "lemmaPartition": "generation%1:14:00:: = the group of related living things at one step in the line of descent; generation%1:28:00:: = the length of time between one such group and the next",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hill%1:06:01::",
+      "lemma": "hill",
+      "pos": "n",
+      "definition": "structure consisting of an artificial heap or bank usually of earth or stones",
+      "decision": "gloss",
+      "simpleMeaning": "a pile or raised bank of earth or stones made by people, rather than a natural rise in the land.",
+      "scope": "This is not a natural raised area of land; it is a heap or bank built by people.",
+      "examples": [
+        "The children piled the earth into a small hill.",
+        "A low hill of stones had been raised beside the road."
+      ],
+      "branchCoverage": [
+        "structure consisting of an artificial heap or bank usually of earth or stones -> a pile or raised bank of earth or stones made by people, rather than a natural rise in the land"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "structure consisting of an artificial heap or bank usually of earth or stones"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "larger%5:00:00:large:00",
+      "lemma": "larger",
+      "pos": "a",
+      "definition": "large or big relative to something else",
+      "decision": "gloss",
+      "simpleMeaning": "bigger than something else that is being compared.",
+      "scope": "This is not big in an absolute sense; it always compares one thing with another.",
+      "examples": [
+        "This box is larger than that one.",
+        "They moved to a larger house last year."
+      ],
+      "branchCoverage": [
+        "large or big relative to something else -> bigger than something else that is being compared"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "large or big relative to something else"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "metal%1:27:01::",
+      "lemma": "metal",
+      "pos": "n",
+      "definition": "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten",
+      "decision": "gloss",
+      "simpleMeaning": "a material made by melting and mixing two or more substances that conduct heat and electricity, or one such substance with another material, so that they blend together.",
+      "scope": "This is not a single pure element such as iron or gold; it is a blend of two or more substances.",
+      "examples": [
+        "Steel is a metal made by combining iron with a small amount of carbon.",
+        "Bronze is a metal made from copper and tin."
+      ],
+      "branchCoverage": [
+        "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten -> a material made by melting and mixing two or more substances that conduct heat and electricity, or one such substance with another material, so that they blend together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten"
+      ],
+      "lemmaPartition": "metal%1:27:01:: = a blended material of two or more substances that conduct heat and electricity; metal%3:00:00:: = describing something made of, containing, or like that material; metal%2:35:00:: = to put a covering of that material on something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "metal%3:00:00::",
+      "lemma": "metal",
+      "pos": "a",
+      "definition": "containing or made of or resembling or characteristic of a metal",
+      "decision": "gloss",
+      "simpleMeaning": "made of, containing, or like the hard, shiny material that conducts heat and electricity, or typical of that material.",
+      "scope": "This is not the material itself; it describes things made of it, containing it, or like it.",
+      "examples": [
+        "He stirred the soup with a metal spoon.",
+        "The old bridge has a metal frame."
+      ],
+      "branchCoverage": [
+        "containing or made of or resembling or characteristic of a metal -> made of, containing, or like the hard, shiny material that conducts heat and electricity, or typical of that material"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "containing or made of or resembling or characteristic of a metal"
+      ],
+      "lemmaPartition": "metal%1:27:01:: = a blended material of two or more substances that conduct heat and electricity; metal%3:00:00:: = describing something made of, containing, or like that material; metal%2:35:00:: = to put a covering of that material on something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "metal%2:35:00::",
+      "lemma": "metal",
+      "pos": "v",
+      "definition": "cover with metal",
+      "decision": "gloss",
+      "simpleMeaning": "to cover a surface with a layer of hard, shiny material that conducts heat and electricity.",
+      "scope": "This is not making an object from this material; it is putting a covering of it on something.",
+      "examples": [
+        "The craftsman metalled the surface of the mirror frame.",
+        "The fittings were metalled with a thin layer of brass."
+      ],
+      "branchCoverage": [
+        "cover with metal -> to cover a surface with a layer of hard, shiny material that conducts heat and electricity"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cover with metal"
+      ],
+      "lemmaPartition": "metal%1:27:01:: = a blended material of two or more substances that conduct heat and electricity; metal%3:00:00:: = describing something made of, containing, or like that material; metal%2:35:00:: = to put a covering of that material on something",
+      "verdict": "self-approved",
+      "reviewerNote": "Examples show road metalling with crushed stone, contradicting the shiny, electricity-conducting gloss."
+    },
+    {
+      "senseId": "profile%1:10:01::",
+      "lemma": "profile",
+      "pos": "n",
+      "definition": "an analysis (often in graphical form) representing the extent to which something exhibits various characteristics",
+      "decision": "gloss",
+      "simpleMeaning": "a description or chart that shows how much of various qualities something has.",
+      "scope": "This is not a side view of a face, and not a short description of a person.",
+      "examples": [
+        "The test gives a profile of each student's strengths and weaknesses, with a score for each.",
+        "The researchers plotted a profile of the lake's temperature at each depth."
+      ],
+      "branchCoverage": [
+        "an analysis (often in graphical form) representing the extent to which something exhibits various characteristics -> a description or chart that shows how much of various qualities something has"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an analysis (often in graphical form) representing the extent to which something exhibits various characteristics"
+      ],
+      "lemmaPartition": "profile%1:10:01:: = a chart or study of how strongly something shows various qualities; profile%2:36:00:: = to draw or paint something from the side",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "profile%2:36:00::",
+      "lemma": "profile",
+      "pos": "v",
+      "definition": "represent in profile, by drawing or painting",
+      "decision": "gloss",
+      "simpleMeaning": "to draw or paint someone or something from the side so that the outline is shown.",
+      "scope": "This is not a written description or analysis of someone's qualities; it is showing a side view in art.",
+      "examples": [
+        "The artist profiled her subject in charcoal.",
+        "The engraver profiled the president's head for the new coin."
+      ],
+      "branchCoverage": [
+        "represent in profile, by drawing or painting -> to draw or paint someone or something from the side so that the outline is shown"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "represent in profile, by drawing or painting"
+      ],
+      "lemmaPartition": "profile%1:10:01:: = a chart or study of how strongly something shows various qualities; profile%2:36:00:: = to draw or paint something from the side",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "pull%2:35:02::",
+      "lemma": "pull",
+      "pos": "v",
+      "definition": "direct toward itself or oneself by means of some psychological power or physical attributes",
+      "decision": "gloss",
+      "simpleMeaning": "to draw a person or thing closer, either by physical force or by mental or emotional influence.",
+      "scope": "This is not removing something from a container or moving yourself in a direction; it is making something come closer, whether through physical force or emotional power.",
+      "examples": [
+        "This old song always pulls me back to my childhood.",
+        "The moon pulls the ocean toward it and creates the tides."
+      ],
+      "branchCoverage": [
+        "direct toward itself or oneself by means of some psychological power or physical attributes -> to draw a person or thing closer, either by physical force or by mental or emotional influence"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "direct toward itself or oneself by means of some psychological power or physical attributes"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rose%1:13:00::",
+      "lemma": "rose",
+      "pos": "n",
+      "definition": "pinkish table wine from red grapes whose skins were removed after fermentation began",
+      "decision": "gloss",
+      "simpleMeaning": "a pale pink table wine made from red grapes whose skins are taken out soon after fermentation begins.",
+      "scope": "This is not the pink flower, the pink color, or a full red wine; it is a light pink wine made by removing the grape skins early.",
+      "examples": [
+        "We ordered a bottle of dry rosé with lunch.",
+        "The south of France is famous for its pale rose wine."
+      ],
+      "branchCoverage": [
+        "pinkish table wine from red grapes whose skins were removed after fermentation began -> a pale pink table wine made from red grapes whose skins are taken out soon after fermentation begins"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pinkish table wine from red grapes whose skins were removed after fermentation began"
+      ],
+      "lemmaPartition": "rose%1:13:00:: -> a pale pink wine made from red grapes\nrose%1:20:00:: -> the thorny flowering bush\nrose%5:00:00:chromatic:00 -> a soft grayish pink color",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rose%1:20:00::",
+      "lemma": "rose",
+      "pos": "n",
+      "definition": "any of many shrubs of the genus Rosa that bear roses",
+      "decision": "gloss",
+      "simpleMeaning": "one of many kinds of thorny bush that produce large, sweet-smelling flowers in many colors.",
+      "scope": "This is not a cut flower, the wine, or the color; it is the living bush that produces such flowers.",
+      "examples": [
+        "She planted a climbing rose against the garden wall.",
+        "The roses in the front yard bloom every June."
+      ],
+      "branchCoverage": [
+        "any of many shrubs of the genus Rosa that bear roses -> one of many kinds of thorny bush that produce large, sweet-smelling flowers in many colors"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any of many shrubs of the genus Rosa that bear roses"
+      ],
+      "lemmaPartition": "rose%1:13:00:: -> a pale pink wine made from red grapes\nrose%1:20:00:: -> the thorny flowering bush\nrose%5:00:00:chromatic:00 -> a soft grayish pink color",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "rose%5:00:00:chromatic:00",
+      "lemma": "rose",
+      "pos": "a",
+      "definition": "of something having a dusty purplish pink color",
+      "decision": "gloss",
+      "simpleMeaning": "having a soft pink color with a slight grayish purple tint.",
+      "scope": "This is not bright red or a clear pink, and not the flower or the wine; it describes a muted pink color with a grayish purple hint.",
+      "examples": [
+        "The walls were painted a soft rose color.",
+        "The sky turned a dusty rose at sunset."
+      ],
+      "branchCoverage": [
+        "of something having a dusty purplish pink color -> having a soft pink color with a slight grayish purple tint"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "of something having a dusty purplish pink color"
+      ],
+      "lemmaPartition": "rose%1:13:00:: -> a pale pink wine made from red grapes\nrose%1:20:00:: -> the thorny flowering bush\nrose%5:00:00:chromatic:00 -> a soft grayish pink color",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "target%1:18:00::",
+      "lemma": "target",
+      "pos": "n",
+      "definition": "a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence",
+      "decision": "gloss",
+      "simpleMeaning": "a person whom a hostile person or force singles out to attack, mock, or take advantage of.",
+      "scope": "This is not the object or place that is aimed at, and not a goal; it is a person chosen to receive hostility, mockery, or unfair treatment.",
+      "examples": [
+        "The shy boy became the target of cruel jokes at school.",
+        "Scammers choose elderly people as targets because they are trusting."
+      ],
+      "branchCoverage": [
+        "a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence -> a person whom a hostile person or force singles out to attack, mock, or take advantage of"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who is the aim of an attack (especially a victim of ridicule or exploitation) by some hostile person or influence"
+      ],
+      "lemmaPartition": "target%1:18:00:: -> a person chosen to receive hostility or mockery\ntarget%1:15:00:: -> the place aimed at to be hit",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "target%1:15:00::",
+      "lemma": "target",
+      "pos": "n",
+      "definition": "the location of the target that is to be hit",
+      "decision": "gloss",
+      "simpleMeaning": "the spot that a shot, missile, or throw is aimed at and meant to hit.",
+      "scope": "This is not the person being attacked and not the thing being aimed with; it is the place or point that is meant to be hit.",
+      "examples": [
+        "The missile missed its target and fell into the sea.",
+        "The instructor marked the target on the map."
+      ],
+      "branchCoverage": [
+        "the location of the target that is to be hit -> the spot that a shot, missile, or throw is aimed at and meant to hit"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the location of the target that is to be hit"
+      ],
+      "lemmaPartition": "target%1:18:00:: -> a person chosen to receive hostility or mockery\ntarget%1:15:00:: -> the place aimed at to be hit",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "understanding%5:00:00:perceptive:00",
+      "lemma": "understanding",
+      "pos": "a",
+      "definition": "characterized by understanding based on comprehension and discernment and empathy",
+      "decision": "gloss",
+      "simpleMeaning": "showing a clear grasp of what is really going on, together with care for other people's feelings.",
+      "scope": "This is not the noun for the state of knowing something, and not mere agreement; it describes a person or response that combines clear insight with empathy.",
+      "examples": [
+        "She gave me an understanding smile when I explained the problem.",
+        "Her understanding parents let her explain before they judged."
+      ],
+      "branchCoverage": [
+        "characterized by understanding based on comprehension and discernment and empathy -> showing a clear grasp of what is really going on, together with care for other people's feelings"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characterized by understanding based on comprehension and discernment and empathy"
+      ],
+      "lemmaPartition": "understanding%5:00:00:perceptive:00 -> showing clear insight and empathy\nunderstanding%1:09:01:: -> the mental state of grasping meaning",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "understanding%1:09:01::",
+      "lemma": "understanding",
+      "pos": "n",
+      "definition": "the cognitive condition of someone who understands",
+      "decision": "gloss",
+      "simpleMeaning": "the mental state of knowing what something means or how it works.",
+      "scope": "This is not an agreement between people, not a sympathetic attitude, and not the adjective for a kind person; it is the state of grasping meaning.",
+      "examples": [
+        "Her understanding of the rules improved after a week of practice.",
+        "The lesson gave students a deeper understanding of the water cycle."
+      ],
+      "branchCoverage": [
+        "the cognitive condition of someone who understands -> the mental state of knowing what something means or how it works"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the cognitive condition of someone who understands"
+      ],
+      "lemmaPartition": "understanding%5:00:00:perceptive:00 -> showing clear insight and empathy\nunderstanding%1:09:01:: -> the mental state of grasping meaning",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "agent%1:18:02::",
+      "lemma": "agent",
+      "pos": "n",
+      "definition": "a representative who acts on behalf of other persons or organizations",
+      "decision": "gloss",
+      "simpleMeaning": "a person who acts or speaks for another person or for an organization.",
+      "scope": "This is not a force that produces an effect and not a spy; it is a person who represents others in dealings.",
+      "examples": [
+        "The actor's agent negotiated a better contract.",
+        "Our travel agent booked the flights and hotel."
+      ],
+      "branchCoverage": [
+        "a representative who acts on behalf of other persons or organizations -> a person who acts or speaks for another person or for an organization"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a representative who acts on behalf of other persons or organizations"
+      ],
+      "lemmaPartition": "agent%1:18:02:: -> a person who represents another person or organization\nagent%1:17:00:: -> a force or cause that produces an effect",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "agent%1:17:00::",
+      "lemma": "agent",
+      "pos": "n",
+      "definition": "an active and efficient cause; capable of producing a certain effect",
+      "decision": "gloss",
+      "simpleMeaning": "a thing or force that actively brings about a particular change or result.",
+      "scope": "This is not a person who represents others; it is a cause or force that produces an effect.",
+      "examples": [
+        "Wind is a powerful agent of erosion.",
+        "A catalyst is an agent that speeds up a chemical reaction."
+      ],
+      "branchCoverage": [
+        "an active and efficient cause -> a thing or force that actively brings about",
+        "capable of producing a certain effect -> a particular change or result"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an active and efficient cause",
+        "capable of producing a certain effect"
+      ],
+      "lemmaPartition": "agent%1:18:02:: -> a person who represents another person or organization\nagent%1:17:00:: -> a force or cause that produces an effect",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "animal%1:03:00::",
+      "lemma": "animal",
+      "pos": "n",
+      "definition": "a living organism characterized by voluntary movement",
+      "decision": "gloss",
+      "simpleMeaning": "a living thing that can move by its own will rather than staying rooted in one place.",
+      "scope": "This is not a plant or another life form that stays fixed in place; it is a living being that moves on its own.",
+      "examples": [
+        "The zoo cares for animals from every continent.",
+        "A dog is a social animal that needs company."
+      ],
+      "branchCoverage": [
+        "a living organism characterized by voluntary movement -> a living thing that can move by its own will rather than staying rooted in one place"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a living organism characterized by voluntary movement"
+      ],
+      "lemmaPartition": "animal%1:03:00:: -> a living creature that moves by its own will\nanimal%5:00:00:physical:00 -> driven by bodily appetite and passion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "animal%5:00:00:physical:00",
+      "lemma": "animal",
+      "pos": "a",
+      "definition": "marked by the appetites and passions of the body",
+      "decision": "gloss",
+      "simpleMeaning": "showing strong bodily desires and passions rather than careful thought.",
+      "scope": "This is not the noun for a living creature; it describes behavior or feelings ruled by physical appetite and passion.",
+      "examples": [
+        "The crowd's animal excitement grew as the music got louder.",
+        "He felt a sudden animal urge to run."
+      ],
+      "branchCoverage": [
+        "marked by the appetites and passions of the body -> showing strong bodily desires and passions rather than careful thought"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "marked by the appetites and passions of the body"
+      ],
+      "lemmaPartition": "animal%1:03:00:: -> a living creature that moves by its own will\nanimal%5:00:00:physical:00 -> driven by bodily appetite and passion",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "apply%2:42:00::",
+      "lemma": "apply",
+      "pos": "v",
+      "definition": "be pertinent or relevant or applicable",
+      "decision": "gloss",
+      "simpleMeaning": "to concern or relate to a particular situation, case, or person.",
+      "scope": "This is not to put something onto a surface or to ask formally for a job; it means that a rule, remark, or idea concerns a particular case.",
+      "examples": [
+        "The discount applies only to full-price items.",
+        "That rule does not apply to children under five."
+      ],
+      "branchCoverage": [
+        "be pertinent or relevant or applicable -> to concern or relate to a particular situation, case, or person"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be pertinent or relevant or applicable"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "authority%1:18:01::",
+      "lemma": "authority",
+      "pos": "n",
+      "definition": "(usually plural) persons who exercise (administrative) control over others",
+      "decision": "gloss",
+      "simpleMeaning": "the people in charge who have the official power to give orders and make decisions.",
+      "scope": "This is not the right or permission to act and not an expert on a subject; it means the people who hold official control.",
+      "examples": [
+        "The local authorities closed the beach after the storm.",
+        "School authorities met to discuss the new rules."
+      ],
+      "branchCoverage": [
+        "(usually plural) persons who exercise (administrative) control over others -> the people in charge who have the official power to give orders and make decisions"
+      ],
+      "labelBranches": [
+        "(usually plural) -> a usage note about the typical plural form, not part of the meaning"
+      ],
+      "sourceBranches": [
+        "(usually plural) persons who exercise (administrative) control over others"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "basis%1:09:00::",
+      "lemma": "basis",
+      "pos": "n",
+      "definition": "the fundamental assumptions from which something is begun or developed or calculated or explained",
+      "decision": "gloss",
+      "simpleMeaning": "the core ideas or beliefs on which something is started, built, worked out, or explained.",
+      "scope": "This is not the physical bottom of an object and not the main reason for something; it is the set of ideas or beliefs that support how something is begun, developed, calculated, or explained.",
+      "examples": [
+        "The forecast was calculated on the basis of last year's figures.",
+        "The theory has a solid basis in careful observation."
+      ],
+      "branchCoverage": [
+        "the fundamental assumptions from which something is begun or developed or calculated or explained -> the core ideas or beliefs on which something is started, built, worked out, or explained"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the fundamental assumptions from which something is begun or developed or calculated or explained"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "draw%1:11:00::",
+      "lemma": "draw",
+      "pos": "n",
+      "definition": "the finish of a contest in which the score is tied and the winner is undecided",
+      "decision": "gloss",
+      "simpleMeaning": "the end of a game or match with equal scores and no winner.",
+      "scope": "This is not a victory or a loss and not the act of making a picture; it is a contest that ends level.",
+      "examples": [
+        "The teams played to a draw.",
+        "The match ended in a draw after extra time."
+      ],
+      "branchCoverage": [
+        "the finish of a contest in which the score is tied and the winner is undecided -> the end of a game or match with equal scores and no winner"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the finish of a contest in which the score is tied and the winner is undecided"
+      ],
+      "lemmaPartition": "draw%1:11:00:: -> a contest ending with equal scores and no winner\ndraw%1:17:00:: -> a shallow water-worn channel\ndraw%1:18:00:: -> a performer who attracts large crowds",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "draw%1:17:00::",
+      "lemma": "draw",
+      "pos": "n",
+      "definition": "a gully that is shallower than a ravine",
+      "decision": "gloss",
+      "simpleMeaning": "a narrow channel worn in the ground by water, not as deep as a ravine.",
+      "scope": "This is not a deep ravine, a river, or a game result; it is a shallow channel cut by water.",
+      "examples": [
+        "A dry draw ran along the bottom of the hill.",
+        "The cattle found shade in a shallow draw."
+      ],
+      "branchCoverage": [
+        "a gully that is shallower than a ravine -> a narrow channel worn in the ground by water, not as deep as a ravine"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a gully that is shallower than a ravine"
+      ],
+      "lemmaPartition": "draw%1:11:00:: -> a contest ending with equal scores and no winner\ndraw%1:17:00:: -> a shallow water-worn channel\ndraw%1:18:00:: -> a performer who attracts large crowds",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "draw%1:18:00::",
+      "lemma": "draw",
+      "pos": "n",
+      "definition": "an entertainer who attracts large audiences",
+      "decision": "gloss",
+      "simpleMeaning": "a performer who brings in large crowds.",
+      "scope": "This is not a game result or a landform; it is an entertainer with the power to fill a venue.",
+      "examples": [
+        "The singer is a big draw at summer festivals.",
+        "The comedian was the main draw of the evening."
+      ],
+      "branchCoverage": [
+        "an entertainer who attracts large audiences -> a performer who brings in large crowds"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an entertainer who attracts large audiences"
+      ],
+      "lemmaPartition": "draw%1:11:00:: -> a contest ending with equal scores and no winner\ndraw%1:17:00:: -> a shallow water-worn channel\ndraw%1:18:00:: -> a performer who attracts large crowds",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "enter%2:41:06::",
+      "lemma": "enter",
+      "pos": "v",
+      "definition": "register formally as a participant or member",
+      "decision": "gloss",
+      "simpleMeaning": "to sign up in an official way to join a group or take part in an event.",
+      "scope": "This is not to go into a room or to type information into a computer; it means to sign up officially as a member or participant.",
+      "examples": [
+        "She entered the race at the last minute.",
+        "He entered the army at eighteen."
+      ],
+      "branchCoverage": [
+        "register formally as a participant or member -> to sign up in an official way to join a group or take part in an event"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "register formally as a participant or member"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "gain%1:07:01::",
+      "lemma": "gain",
+      "pos": "n",
+      "definition": "the amount of increase in signal power or voltage or current expressed as the ratio of output to input",
+      "decision": "gloss",
+      "simpleMeaning": "the amount of increase in the strength of a signal, voltage, or current, measured as the ratio of what comes out to what goes in.",
+      "scope": "This is not profit or an increase in wealth or advantage; it is the measured increase in the strength of an electrical signal.",
+      "examples": [
+        "The amplifier has a gain of ten, so the output signal is ten times stronger.",
+        "Engineers measure gain as the ratio of output power to input power."
+      ],
+      "branchCoverage": [
+        "the amount of increase in signal power or voltage or current expressed as the ratio of output to input -> the amount of increase in the strength of a signal, voltage, or current, measured as the ratio of what comes out to what goes in"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the amount of increase in signal power or voltage or current expressed as the ratio of output to input"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "memory%1:09:01::",
+      "lemma": "memory",
+      "pos": "n",
+      "definition": "the cognitive processes whereby past experience is remembered",
+      "decision": "gloss",
+      "simpleMeaning": "the mental process of storing past experiences and bringing them back to mind.",
+      "scope": "This is not a device that stores data and not one particular thing recalled; it is the mind's general ability to keep and recover past experience.",
+      "examples": [
+        "He has an excellent memory for faces.",
+        "Sleep plays an important role in memory."
+      ],
+      "branchCoverage": [
+        "the cognitive processes whereby past experience is remembered -> the mental process of storing past experiences and bringing them back to mind"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the cognitive processes whereby past experience is remembered"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "prime%2:30:00::",
+      "lemma": "prime",
+      "pos": "v",
+      "definition": "insert a primer into (a gun, mine, or charge) preparatory to detonation or firing",
+      "decision": "gloss",
+      "simpleMeaning": "to put a small firing charge into a gun, mine, or explosive so that it is ready to go off.",
+      "scope": "This is not to fill a pump with liquid and not to coat a surface; it means making a weapon or explosive ready by adding its firing charge.",
+      "examples": [
+        "The soldier primed the grenade before throwing it.",
+        "The crew primed the explosive charge and cleared the area."
+      ],
+      "branchCoverage": [
+        "insert a primer into (a gun, mine, or charge) preparatory to detonation or firing -> to put a small firing charge into a gun, mine, or explosive so that it is ready to go off"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "insert a primer into (a gun, mine, or charge) preparatory to detonation or firing"
+      ],
+      "lemmaPartition": "prime%2:30:00:: -> putting a firing charge into a weapon or explosive\nprime%2:30:01:: -> filling a device with liquid so it can start\nprime%2:35:00:: -> applying a first coat to a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "prime%2:30:01::",
+      "lemma": "prime",
+      "pos": "v",
+      "definition": "fill with priming liquid",
+      "decision": "gloss",
+      "simpleMeaning": "to fill a device or system with liquid so that it is ready to start working.",
+      "scope": "This is not to add a firing charge to a weapon and not to coat a surface; it means filling something with liquid to prepare it for use.",
+      "examples": [
+        "Prime the pump by pouring a little water into the top.",
+        "The mechanic primed the fuel line before starting the engine."
+      ],
+      "branchCoverage": [
+        "fill with priming liquid -> to fill a device or system with liquid so that it is ready to start working"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "fill with priming liquid"
+      ],
+      "lemmaPartition": "prime%2:30:00:: -> putting a firing charge into a weapon or explosive\nprime%2:30:01:: -> filling a device with liquid so it can start\nprime%2:35:00:: -> applying a first coat to a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "prime%2:35:00::",
+      "lemma": "prime",
+      "pos": "v",
+      "definition": "cover with a primer; apply a primer to",
+      "decision": "gloss",
+      "simpleMeaning": "to put a first layer of paint or coating on a surface before the main coat.",
+      "scope": "This is not to make a weapon ready and not to fill something with liquid; it means giving a surface its first protective coat.",
+      "examples": [
+        "We primed the walls before painting them blue.",
+        "The metal door must be primed to stop rust."
+      ],
+      "branchCoverage": [
+        "cover with a primer -> to put a first layer of paint or coating on a surface",
+        "apply a primer to -> to put a first layer of paint or coating on a surface"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "cover with a primer",
+        "apply a primer to"
+      ],
+      "lemmaPartition": "prime%2:30:00:: -> putting a firing charge into a weapon or explosive\nprime%2:30:01:: -> filling a device with liquid so it can start\nprime%2:35:00:: -> applying a first coat to a surface",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "ring%1:06:02::",
+      "lemma": "ring",
+      "pos": "n",
+      "definition": "a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling",
+      "decision": "gloss",
+      "simpleMeaning": "a stiff round band of metal, wood, or another material used to hold, fasten, hang, or pull something.",
+      "scope": "This is not a piece of jewelry worn on a finger and not a sound; it is a sturdy loop used to secure or move things.",
+      "examples": [
+        "He hung the bucket from a metal ring on the wall.",
+        "The curtain hangs from rings on a rod."
+      ],
+      "branchCoverage": [
+        "a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling -> a stiff round band of metal, wood, or another material used to hold, fasten, hang, or pull something"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

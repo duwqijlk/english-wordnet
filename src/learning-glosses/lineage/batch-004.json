@@ -1,0 +1,977 @@
+{
+  "schema": "oewn-gloss-batch-v2",
+  "batch": 4,
+  "archiveSha256": "7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51",
+  "sourceWorklistSha256": "af0e2b7a0b6aeee58af5d4586db3cca04bd6f2767b383a736922a59348edc959",
+  "excludedAlreadyDrafted": 150,
+  "senses": [
+    {
+      "senseId": "found%2:41:00::",
+      "lemma": "found",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "set up or found",
+      "synsetId": "02431950-v",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 215,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "set up or found"
+      ]
+    },
+    {
+      "senseId": "must%1:07:00::",
+      "lemma": "must",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the quality of smelling or tasting old or stale or mouldy",
+      "synsetId": "04935371-n",
+      "words": 11,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 216,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the quality of smelling or tasting old or stale or mouldy"
+      ]
+    },
+    {
+      "senseId": "must%1:13:00::",
+      "lemma": "must",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "grape juice before or during fermentation",
+      "synsetId": "07940895-n",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 216,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "grape juice before or during fermentation"
+      ]
+    },
+    {
+      "senseId": "show%2:31:00::",
+      "lemma": "show",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "establish the validity of something, as by an example, explanation or experiment",
+      "synsetId": "00666706-v",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 217,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "establish the validity of something, as by an example, explanation or experiment"
+      ]
+    },
+    {
+      "senseId": "big%3:00:01::",
+      "lemma": "big",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "above average in size or number or quantity or magnitude or extent",
+      "synsetId": "01385012-a",
+      "words": 12,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 218,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "above average in size or number or quantity or magnitude or extent"
+      ]
+    },
+    {
+      "senseId": "feel%2:39:00::",
+      "lemma": "feel",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "perceive by a physical sensation, e.g., coming from the skin or muscles",
+      "synsetId": "02110460-v",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 219,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "perceive by a physical sensation, e.g., coming from the skin or muscles"
+      ]
+    },
+    {
+      "senseId": "feel%2:31:00::",
+      "lemma": "feel",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "come to believe on the basis of emotion, intuitions, or indefinite grounds",
+      "synsetId": "00717144-v",
+      "words": 12,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 219,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "come to believe on the basis of emotion, intuitions, or indefinite grounds"
+      ]
+    },
+    {
+      "senseId": "sure%3:00:00::",
+      "lemma": "sure",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "having or feeling no doubt or uncertainty; confident and assured",
+      "synsetId": "00337729-a",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 220,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "having or feeling no doubt or uncertainty",
+        "confident and assured"
+      ]
+    },
+    {
+      "senseId": "sure%3:00:04::",
+      "lemma": "sure",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "certain to occur; destined or inevitable",
+      "synsetId": "00341137-a",
+      "words": 6,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 220,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "certain to occur",
+        "destined or inevitable"
+      ]
+    },
+    {
+      "senseId": "sure%4:02:00::",
+      "lemma": "sure",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "definitely or positively (‘sure’ is sometimes used informally for ‘surely’)",
+      "synsetId": "00145758-r",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 220,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "definitely or positively (‘sure’ is sometimes used informally for ‘surely’)"
+      ]
+    },
+    {
+      "senseId": "keep%1:06:00::",
+      "lemma": "keep",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the main tower within the walls of a medieval castle or fortress",
+      "synsetId": "03615311-n",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 224,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the main tower within the walls of a medieval castle or fortress"
+      ]
+    },
+    {
+      "senseId": "please%2:37:00::",
+      "lemma": "please",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "give pleasure to or be pleasing to",
+      "synsetId": "01819595-v",
+      "words": 7,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 226,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "give pleasure to or be pleasing to"
+      ]
+    },
+    {
+      "senseId": "money%1:21:00::",
+      "lemma": "money",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the most common medium of exchange; functions as legal tender",
+      "synsetId": "13405730-n",
+      "words": 10,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 228,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the most common medium of exchange",
+        "functions as legal tender"
+      ]
+    },
+    {
+      "senseId": "money%1:21:02::",
+      "lemma": "money",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "wealth reckoned in terms of money",
+      "synsetId": "13271441-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 228,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "wealth reckoned in terms of money"
+      ]
+    },
+    {
+      "senseId": "free%3:00:02::",
+      "lemma": "free",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "unconstrained or not chemically bound in a molecule or not fixed and capable of relatively unrestricted motion",
+      "synsetId": "01062062-a",
+      "words": 17,
+      "rare": 8,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 229,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "unconstrained or not chemically bound in a molecule or not fixed and capable of relatively unrestricted motion"
+      ]
+    },
+    {
+      "senseId": "free%3:00:00::",
+      "lemma": "free",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "not limited or hampered; not under compulsion or restraint",
+      "synsetId": "01065188-a",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 229,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "not limited or hampered",
+        "not under compulsion or restraint"
+      ]
+    },
+    {
+      "senseId": "second%1:04:00::",
+      "lemma": "second",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "the fielding position of the player on a baseball team who is stationed near the second of the bases in the infield",
+      "synsetId": "00725034-n",
+      "words": 22,
+      "rare": 5,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 230,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the fielding position of the player on a baseball team who is stationed near the second of the bases in the infield"
+      ]
+    },
+    {
+      "senseId": "second%3:00:00::",
+      "lemma": "second",
+      "pos": "a",
+      "senseIndex": 1,
+      "definition": "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first",
+      "synsetId": "01020028-a",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 230,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+      ]
+    },
+    {
+      "senseId": "second%1:28:00::",
+      "lemma": "second",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites",
+      "synsetId": "15259923-n",
+      "words": 14,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 230,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "1/60 of a minute",
+        "the basic unit of time adopted under the Systeme International d'Unites"
+      ]
+    },
+    {
+      "senseId": "second%2:41:01::",
+      "lemma": "second",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "transfer an employee to a different, temporary assignment",
+      "synsetId": "02398446-v",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 230,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "transfer an employee to a different, temporary assignment"
+      ]
+    },
+    {
+      "senseId": "second%4:02:00::",
+      "lemma": "second",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "in the second place",
+      "synsetId": "00103431-r",
+      "words": 4,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 230,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "in the second place"
+      ]
+    },
+    {
+      "senseId": "someone%1:03:00::",
+      "lemma": "someone",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a human being; person, singular, assertive existential pronoun; pronoun, person, singular; quantifier: assertive existential",
+      "synsetId": "00007846-n",
+      "words": 14,
+      "rare": 9,
+      "circular": false,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 231,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a human being",
+        "person, singular, assertive existential pronoun",
+        "pronoun, person, singular",
+        "quantifier: assertive existential",
+        "after colon: assertive existential"
+      ]
+    },
+    {
+      "senseId": "away%5:00:00:inaccurate:00",
+      "lemma": "away",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "(of a baseball pitch) on the far side of home plate from the batter",
+      "synsetId": "00023695-s",
+      "words": 14,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 232,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(of a baseball pitch) on the far side of home plate from the batter"
+      ]
+    },
+    {
+      "senseId": "left%1:14:00::",
+      "lemma": "left",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "those who support varying degrees of social or political or economic change designed to promote the public welfare",
+      "synsetId": "08433285-n",
+      "words": 18,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 233,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "those who support varying degrees of social or political or economic change designed to promote the public welfare"
+      ]
+    },
+    {
+      "senseId": "left%1:15:00::",
+      "lemma": "left",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "location near or direction toward the left side; i.e. the side to the north when a person or object faces east",
+      "synsetId": "08643037-n",
+      "words": 22,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 233,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "location near or direction toward the left side",
+        "i.e. the side to the north when a person or object faces east"
+      ]
+    },
+    {
+      "senseId": "number%1:07:00::",
+      "lemma": "number",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the property possessed by a sum or total or indefinite quantity of units or individuals",
+      "synsetId": "05128718-n",
+      "words": 15,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 234,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the property possessed by a sum or total or indefinite quantity of units or individuals"
+      ]
+    },
+    {
+      "senseId": "number%1:23:00::",
+      "lemma": "number",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a concept of quantity involving zero and units",
+      "synsetId": "13603216-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 234,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a concept of quantity involving zero and units"
+      ]
+    },
+    {
+      "senseId": "number%2:42:00::",
+      "lemma": "number",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "add up in number or quantity",
+      "synsetId": "02651091-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 234,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "add up in number or quantity"
+      ]
+    },
+    {
+      "senseId": "number%2:32:03::",
+      "lemma": "number",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "give numbers to",
+      "synsetId": "00950885-v",
+      "words": 3,
+      "rare": 0,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 234,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "give numbers to"
+      ]
+    },
+    {
+      "senseId": "city%1:15:00::",
+      "lemma": "city",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "a large and densely populated urban area; may include several independent administrative districts",
+      "synsetId": "08542298-n",
+      "words": 13,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 235,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a large and densely populated urban area",
+        "may include several independent administrative districts"
+      ]
+    },
+    {
+      "senseId": "city%1:14:00::",
+      "lemma": "city",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "people living in a large densely populated municipality",
+      "synsetId": "08243256-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 235,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "people living in a large densely populated municipality"
+      ]
+    },
+    {
+      "senseId": "city%1:15:01::",
+      "lemma": "city",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "an incorporated administrative district established by state charter",
+      "synsetId": "08558466-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 235,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "an incorporated administrative district established by state charter"
+      ]
+    },
+    {
+      "senseId": "lot%2:40:00::",
+      "lemma": "lot",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "administer or bestow, as in small portions",
+      "synsetId": "02299397-v",
+      "words": 7,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 237,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "administer or bestow, as in small portions"
+      ]
+    },
+    {
+      "senseId": "name%2:32:02::",
+      "lemma": "name",
+      "pos": "v",
+      "senseIndex": 1,
+      "definition": "give the name or identifying characteristics of; refer to by name or some other identifying characteristic property",
+      "synsetId": "01028104-v",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 238,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "give the name or identifying characteristics of",
+        "refer to by name or some other identifying characteristic property"
+      ]
+    },
+    {
+      "senseId": "night%1:28:01::",
+      "lemma": "night",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a period of ignorance or backwardness or gloom",
+      "synsetId": "15192624-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 239,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a period of ignorance or backwardness or gloom"
+      ]
+    },
+    {
+      "senseId": "company%2:42:00::",
+      "lemma": "company",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "be a companion to somebody",
+      "synsetId": "02722642-v",
+      "words": 5,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 242,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "be a companion to somebody"
+      ]
+    },
+    {
+      "senseId": "few%3:00:00::",
+      "lemma": "few",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "a quantifier that can be used with count nouns and is often preceded by ‘a’; a small but indefinite number",
+      "synsetId": "01557242-a",
+      "words": 20,
+      "rare": 4,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 244,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a quantifier that can be used with count nouns and is often preceded by ‘a’",
+        "a small but indefinite number"
+      ]
+    },
+    {
+      "senseId": "let%2:32:02::",
+      "lemma": "let",
+      "pos": "v",
+      "senseIndex": 2,
+      "definition": "consent to, give permission; permit",
+      "synsetId": "00803980-v",
+      "words": 5,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 245,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "consent to, give permission",
+        "permit"
+      ]
+    },
+    {
+      "senseId": "real%3:00:00::",
+      "lemma": "real",
+      "pos": "a",
+      "senseIndex": 0,
+      "definition": "being or occurring in fact or actuality; having verified existence; not illusory",
+      "synsetId": "01939402-a",
+      "words": 12,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 246,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "being or occurring in fact or actuality",
+        "having verified existence",
+        "not illusory"
+      ]
+    },
+    {
+      "senseId": "different%5:00:00:unusual:00",
+      "lemma": "different",
+      "pos": "a",
+      "senseIndex": 2,
+      "definition": "differing from all others; not ordinary",
+      "synsetId": "00492404-s",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 248,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "differing from all others",
+        "not ordinary"
+      ]
+    },
+    {
+      "senseId": "set%1:14:02::",
+      "lemma": "set",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(mathematics) an abstract collection of numbers or symbols",
+      "synsetId": "08016141-n",
+      "words": 8,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 250,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(mathematics) an abstract collection of numbers or symbols"
+      ]
+    },
+    {
+      "senseId": "however%4:02:00::",
+      "lemma": "however",
+      "pos": "r",
+      "senseIndex": 0,
+      "definition": "despite anything to the contrary (usually preceding a concession)",
+      "synsetId": "00027761-r",
+      "words": 9,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 253,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "despite anything to the contrary (usually preceding a concession)"
+      ]
+    },
+    {
+      "senseId": "god%1:18:01::",
+      "lemma": "god",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force",
+      "synsetId": "09528550-n",
+      "words": 24,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 255,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "any supernatural being worshipped as controlling some part of the world or some aspect of life or who is the personification of a force"
+      ]
+    },
+    {
+      "senseId": "god%1:18:02::",
+      "lemma": "god",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "a man of such superior qualities that he seems like a deity to other people",
+      "synsetId": "10152827-n",
+      "words": 15,
+      "rare": 3,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 255,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a man of such superior qualities that he seems like a deity to other people"
+      ]
+    },
+    {
+      "senseId": "government%1:04:00::",
+      "lemma": "government",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "the act of governing; exercising authority",
+      "synsetId": "01127115-n",
+      "words": 6,
+      "rare": 2,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 256,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the act of governing",
+        "exercising authority"
+      ]
+    },
+    {
+      "senseId": "government%1:09:00::",
+      "lemma": "government",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "(government) the system or form by which a community or other political unit is governed",
+      "synsetId": "05671515-n",
+      "words": 15,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 256,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(government) the system or form by which a community or other political unit is governed"
+      ]
+    },
+    {
+      "senseId": "government%1:14:00::",
+      "lemma": "government",
+      "pos": "n",
+      "senseIndex": 0,
+      "definition": "the organization that is the governing authority of a political unit",
+      "synsetId": "08067430-n",
+      "words": 11,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 256,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "the organization that is the governing authority of a political unit"
+      ]
+    },
+    {
+      "senseId": "group%1:09:00::",
+      "lemma": "group",
+      "pos": "n",
+      "senseIndex": 2,
+      "definition": "a set that is closed, associative, has an identity element and every element has an inverse",
+      "synsetId": "06026202-n",
+      "words": 16,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 257,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "a set that is closed, associative, has an identity element and every element has an inverse"
+      ]
+    },
+    {
+      "senseId": "group%1:27:00::",
+      "lemma": "group",
+      "pos": "n",
+      "senseIndex": 1,
+      "definition": "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule",
+      "synsetId": "14645624-n",
+      "words": 17,
+      "rare": 5,
+      "circular": false,
+      "tier": "hard",
+      "commonLemma": true,
+      "lemmaRank": 257,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "(chemistry) two or more atoms bound together as a single unit and forming part of a molecule"
+      ]
+    },
+    {
+      "senseId": "group%2:31:00::",
+      "lemma": "group",
+      "pos": "v",
+      "senseIndex": 0,
+      "definition": "arrange into a group or groups",
+      "synsetId": "00658247-v",
+      "words": 6,
+      "rare": 1,
+      "circular": true,
+      "tier": "very-hard",
+      "commonLemma": true,
+      "lemmaRank": 257,
+      "priority": 0,
+      "specialist": null,
+      "sourceBranches": [
+        "arrange into a group or groups"
+      ]
+    }
+  ]
+}

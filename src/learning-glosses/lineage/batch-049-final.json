@@ -1,0 +1,1090 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 49,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 44,
+    "defers": 6,
+    "firstPass": {
+      "approved": 50,
+      "of": 50,
+      "rate": 1.0
+    },
+    "selfApproved": [],
+    "lineage": {
+      "draft": "25d0e9a67a67b8ae21148e7fc68a3caaf4abdf1e77f5074cd298ffdaf14ef079"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "top%1:28:00::",
+      "lemma": "top",
+      "pos": "n",
+      "definition": "the first half of an inning; while the visiting team is at bat",
+      "decision": "gloss",
+      "simpleMeaning": "in baseball, the first half of an inning, when the visiting team is batting.",
+      "scope": "This sense is not the highest part or upper surface of something, not a lid or cover, and not the later half of an inning when the home team bats.",
+      "examples": [
+        "The visitors scored twice in the top of the fifth.",
+        "He struck out swinging in the top of the ninth."
+      ],
+      "branchCoverage": [
+        "the first half of an inning -> the first half of an inning",
+        "while the visiting team is at bat -> when the visiting team is batting"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the first half of an inning",
+        "while the visiting team is at bat"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "business%1:04:03::",
+      "lemma": "business",
+      "pos": "n",
+      "definition": "incidental activity performed by an actor for dramatic effect",
+      "decision": "gloss",
+      "simpleMeaning": "a small action an actor performs while playing a scene for effect, rather than something essential to the story.",
+      "scope": "This sense is not commerce, a company, or a matter needing attention; it means only the minor stage actions an actor adds for effect.",
+      "examples": [
+        "The director added some comic business to the scene.",
+        "She was praised for her subtle stage business during the long speech."
+      ],
+      "branchCoverage": [
+        "incidental activity performed by an actor for dramatic effect -> a small action an actor performs while playing a scene for effect, rather than something essential to the story"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "incidental activity performed by an actor for dramatic effect"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "start%2:41:04::",
+      "lemma": "start",
+      "pos": "v",
+      "definition": "begin an event that is implied and limited by the nature or inherent function of the direct object",
+      "decision": "gloss",
+      "simpleMeaning": "to set going the kind of activity that the named thing naturally allows, such as lighting a fire or getting a car's engine running.",
+      "scope": "This sense is not for something that begins on its own, not the act of beginning in general, and not a marked line; here the object decides which activity is set going.",
+      "examples": [
+        "He started a fire in the fireplace.",
+        "She started the car and drove away."
+      ],
+      "branchCoverage": [
+        "begin an event that is implied and limited by the nature or inherent function of the direct object -> to set going the kind of activity that the named thing naturally allows, such as lighting a fire or getting a car's engine running"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "begin an event that is implied and limited by the nature or inherent function of the direct object"
+      ],
+      "lemmaPartition": "start%2:41:04:: = a verb with an object: setting going the activity that the object's nature allows (light a fire, run an engine); start%2:42:00:: = a verb without an object: something having a first point in time, place, or value; start%1:15:00:: = a noun: the physical line where a race or game begins; start%1:04:00:: = a noun: the act of setting something going",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "start%2:42:00::",
+      "lemma": "start",
+      "pos": "v",
+      "definition": "have a beginning, in a temporal, spatial, or evaluative sense",
+      "decision": "gloss",
+      "simpleMeaning": "to have a first point, whether in time, in place, or in a range of amounts or values.",
+      "scope": "This sense is not the act of setting something else going, and not a marked line; it describes something that itself has a first point.",
+      "examples": [
+        "The movie starts at eight.",
+        "Prices start at twenty dollars."
+      ],
+      "branchCoverage": [
+        "have a beginning, in a temporal, spatial, or evaluative sense -> to have a first point, whether in time, in place, or in a range of amounts or values"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have a beginning, in a temporal, spatial, or evaluative sense"
+      ],
+      "lemmaPartition": "start%2:41:04:: = a verb with an object: setting going the activity that the object's nature allows (light a fire, run an engine); start%2:42:00:: = a verb without an object: something having a first point in time, place, or value; start%1:15:00:: = a noun: the physical line where a race or game begins; start%1:04:00:: = a noun: the act of setting something going",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "start%1:15:00::",
+      "lemma": "start",
+      "pos": "n",
+      "definition": "a line indicating the location of the start of a race or a game",
+      "decision": "gloss",
+      "simpleMeaning": "a marked line showing where a race or game begins.",
+      "scope": "This sense is not the act of beginning and not a first point in time or value; it is the physical line on a track or field.",
+      "examples": [
+        "The start was marked by a white stripe across the track.",
+        "The runners lined up at the start, behind the painted line."
+      ],
+      "branchCoverage": [
+        "a line indicating the location of the start of a race or a game -> a marked line showing where a race or game begins"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a line indicating the location of the start of a race or a game"
+      ],
+      "lemmaPartition": "start%2:41:04:: = a verb with an object: setting going the activity that the object's nature allows (light a fire, run an engine); start%2:42:00:: = a verb without an object: something having a first point in time, place, or value; start%1:15:00:: = a noun: the physical line where a race or game begins; start%1:04:00:: = a noun: the act of setting something going",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "start%1:04:00::",
+      "lemma": "start",
+      "pos": "n",
+      "definition": "the act of starting something",
+      "decision": "gloss",
+      "simpleMeaning": "the act of setting something going or getting it under way.",
+      "scope": "This sense is not the physical line where a race begins, and not a moment when something begins by itself; it names the deed of setting something in motion.",
+      "examples": [
+        "The start of the project required months of planning.",
+        "They held a ceremony to mark the start of construction."
+      ],
+      "branchCoverage": [
+        "the act of starting something -> the act of setting something going or getting it under way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the act of starting something"
+      ],
+      "lemmaPartition": "start%2:41:04:: = a verb with an object: setting going the activity that the object's nature allows (light a fire, run an engine); start%2:42:00:: = a verb without an object: something having a first point in time, place, or value; start%1:15:00:: = a noun: the physical line where a race or game begins; start%1:04:00:: = a noun: the act of setting something going",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "system%1:07:00::",
+      "lemma": "system",
+      "pos": "n",
+      "definition": "an ordered manner; orderliness by virtue of being methodical and well organized",
+      "decision": "defer",
+      "reason": "This uncountable use of 'system' for orderliness or methodical behavior is rare in modern general English. Idiomatic examples instead mean a particular method or arrangement, which would collide with the other senses in this batch; two natural, unambiguous examples are not available.",
+      "sourceBranches": [
+        "an ordered manner",
+        "orderliness by virtue of being methodical and well organized"
+      ],
+      "lemmaPartition": "system%1:07:00:: = orderly, methodical way of doing things; system%1:08:01:: = the whole living body as a set of interdependent parts; system%1:08:00:: = one set of related organs or body parts; system%1:09:01:: = a method or course of action for reaching a goal; system%1:09:02:: = a framework for sorting or classifying things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "system%1:08:01::",
+      "lemma": "system",
+      "pos": "n",
+      "definition": "the living body considered as made up of interdependent components forming a unified whole",
+      "decision": "gloss",
+      "simpleMeaning": "the whole living body seen as a set of parts that depend on one another and work together as one.",
+      "scope": "This sense is not one organ or one set of related organs, and not a method or scheme; it is the entire body viewed as a working whole.",
+      "examples": [
+        "The poison affected his entire system.",
+        "Good sleep keeps the whole system running well."
+      ],
+      "branchCoverage": [
+        "the living body considered as made up of interdependent components forming a unified whole -> the whole living body seen as a set of parts that depend on one another and work together as one"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the living body considered as made up of interdependent components forming a unified whole"
+      ],
+      "lemmaPartition": "system%1:07:00:: = orderly, methodical way of doing things; system%1:08:01:: = the whole living body as a set of interdependent parts; system%1:08:00:: = one set of related organs or body parts; system%1:09:01:: = a method or course of action for reaching a goal; system%1:09:02:: = a framework for sorting or classifying things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "system%1:08:00::",
+      "lemma": "system",
+      "pos": "n",
+      "definition": "a group of physiologically or anatomically related organs or parts",
+      "decision": "gloss",
+      "simpleMeaning": "a set of organs or body parts that are alike in structure or function and work together.",
+      "scope": "This sense is not the entire body as one whole and not a method or scheme; it is one set of related organs or parts.",
+      "examples": [
+        "The digestive system breaks food into nutrients.",
+        "Nerves carry signals through the nervous system."
+      ],
+      "branchCoverage": [
+        "a group of physiologically or anatomically related organs or parts -> a set of organs or body parts that are alike in structure or function and work together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a group of physiologically or anatomically related organs or parts"
+      ],
+      "lemmaPartition": "system%1:07:00:: = orderly, methodical way of doing things; system%1:08:01:: = the whole living body as a set of interdependent parts; system%1:08:00:: = one set of related organs or body parts; system%1:09:01:: = a method or course of action for reaching a goal; system%1:09:02:: = a framework for sorting or classifying things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "system%1:09:01::",
+      "lemma": "system",
+      "pos": "n",
+      "definition": "a procedure or process for obtaining an objective",
+      "decision": "gloss",
+      "simpleMeaning": "a planned method or course of action used to reach a goal.",
+      "scope": "This sense is not a way of sorting or grouping things, not mere tidiness, and not the body's organs; it is a method aimed at getting a result.",
+      "examples": [
+        "The school uses a system of rewards to encourage reading.",
+        "His system for saving money is to put aside a dollar each day."
+      ],
+      "branchCoverage": [
+        "a procedure or process for obtaining an objective -> a planned method or course of action used to reach a goal"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a procedure or process for obtaining an objective"
+      ],
+      "lemmaPartition": "system%1:07:00:: = orderly, methodical way of doing things; system%1:08:01:: = the whole living body as a set of interdependent parts; system%1:08:00:: = one set of related organs or body parts; system%1:09:01:: = a method or course of action for reaching a goal; system%1:09:02:: = a framework for sorting or classifying things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "system%1:09:02::",
+      "lemma": "system",
+      "pos": "n",
+      "definition": "an organized structure for arranging or classifying",
+      "decision": "gloss",
+      "simpleMeaning": "an orderly framework used to sort or group things.",
+      "scope": "This sense is not a method for reaching a goal, not the body's organs, and not simple tidiness; it is a scheme for putting things into order or classes.",
+      "examples": [
+        "The library’s classification system groups books by subject.",
+        "The filing system sorts papers by date."
+      ],
+      "branchCoverage": [
+        "an organized structure for arranging or classifying -> an orderly framework used to sort or group things"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "an organized structure for arranging or classifying"
+      ],
+      "lemmaPartition": "system%1:07:00:: = orderly, methodical way of doing things; system%1:08:01:: = the whole living body as a set of interdependent parts; system%1:08:00:: = one set of related organs or body parts; system%1:09:01:: = a method or course of action for reaching a goal; system%1:09:02:: = a framework for sorting or classifying things",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "case%1:10:00::",
+      "lemma": "case",
+      "pos": "n",
+      "definition": "nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence",
+      "decision": "gloss",
+      "simpleMeaning": "in grammar, the form of a noun, pronoun, or adjective that shows how it relates to other words in a sentence, often marked by a change in ending.",
+      "scope": "This sense is not a container, a legal matter, or one instance among many; it is a grammatical form showing a word's role in a sentence.",
+      "examples": [
+        "In Latin, the case of a noun tells you whether it is the subject or the object.",
+        "Russian has six cases, each with its own endings."
+      ],
+      "branchCoverage": [
+        "nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence -> the form of a noun, pronoun, or adjective that shows how it relates to other words in a sentence, often marked by a change in ending"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "nouns or pronouns or adjectives (often marked by inflection) related in some way to other words in a sentence"
+      ],
+      "lemmaPartition": "case%1:10:00:: = a grammatical form showing a word's relation to other words; case%1:18:02:: = a person studied or observed in research; case%1:06:00:: = a portable container for carrying things; case%1:08:00:: = a natural covering around an organ or body part; case%1:06:02:: = a cloth cover for a pillow",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "case%1:18:02::",
+      "lemma": "case",
+      "pos": "n",
+      "definition": "a person who is subjected to experimental or other observational procedures; someone who is an object of investigation",
+      "decision": "gloss",
+      "simpleMeaning": "a person who is tested or watched as part of research or an inquiry.",
+      "scope": "This sense is not a container, a pillow cover, or a legal matter; it means the individual being examined or studied.",
+      "examples": [
+        "The study’s first case was a man of forty-five.",
+        "Each case in the study was interviewed twice."
+      ],
+      "branchCoverage": [
+        "a person who is subjected to experimental or other observational procedures -> a person who is tested or watched as part of research",
+        "someone who is an object of investigation -> a person who is tested or watched as part of research or an inquiry"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a person who is subjected to experimental or other observational procedures",
+        "someone who is an object of investigation"
+      ],
+      "lemmaPartition": "case%1:10:00:: = a grammatical form showing a word's relation to other words; case%1:18:02:: = a person studied or observed in research; case%1:06:00:: = a portable container for carrying things; case%1:08:00:: = a natural covering around an organ or body part; case%1:06:02:: = a cloth cover for a pillow",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "case%1:06:00::",
+      "lemma": "case",
+      "pos": "n",
+      "definition": "a portable container for carrying several objects",
+      "decision": "gloss",
+      "simpleMeaning": "a box or bag that can be carried and holds a number of things.",
+      "scope": "This sense is not a pillow cover or a natural body covering; it is a container you carry objects in.",
+      "examples": [
+        "He packed his tools into a sturdy case.",
+        "She packed her camera and two lenses into the case."
+      ],
+      "branchCoverage": [
+        "a portable container for carrying several objects -> a box or bag that can be carried and holds a number of things"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a portable container for carrying several objects"
+      ],
+      "lemmaPartition": "case%1:10:00:: = a grammatical form showing a word's relation to other words; case%1:18:02:: = a person studied or observed in research; case%1:06:00:: = a portable container for carrying things; case%1:08:00:: = a natural covering around an organ or body part; case%1:06:02:: = a cloth cover for a pillow",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "case%1:08:00::",
+      "lemma": "case",
+      "pos": "n",
+      "definition": "an enveloping structure or covering enclosing an animal or plant organ or part",
+      "decision": "defer",
+      "reason": "This use of 'case' for a natural covering of a plant or animal organ is rare in general reading. Modern usage normally names the particular covering (such as a seed coat or a membrane); examples with bare 'case' sound unnatural or suggest a carrying container, so two idiomatic unambiguous examples are not available.",
+      "sourceBranches": [
+        "an enveloping structure or covering enclosing an animal or plant organ or part"
+      ],
+      "lemmaPartition": "case%1:10:00:: = a grammatical form showing a word's relation to other words; case%1:18:02:: = a person studied or observed in research; case%1:06:00:: = a portable container for carrying things; case%1:08:00:: = a natural covering around an organ or body part; case%1:06:02:: = a cloth cover for a pillow",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "case%1:06:02::",
+      "lemma": "case",
+      "pos": "n",
+      "definition": "bed linen consisting of a cover for a pillow",
+      "decision": "gloss",
+      "simpleMeaning": "a cloth cover that you put over a pillow.",
+      "scope": "This sense is not a carrying container and not a natural body covering; it is the fabric cover for a pillow.",
+      "examples": [
+        "She slipped a clean pillow case over the pillow.",
+        "He washed the pillow cases with the sheets."
+      ],
+      "branchCoverage": [
+        "bed linen consisting of a cover for a pillow -> a cloth cover that you put over a pillow"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "bed linen consisting of a cover for a pillow"
+      ],
+      "lemmaPartition": "case%1:10:00:: = a grammatical form showing a word's relation to other words; case%1:18:02:: = a person studied or observed in research; case%1:06:00:: = a portable container for carrying things; case%1:08:00:: = a natural covering around an organ or body part; case%1:06:02:: = a cloth cover for a pillow",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%1:21:01::",
+      "lemma": "change",
+      "pos": "n",
+      "definition": "coins of small denomination regarded collectively",
+      "decision": "gloss",
+      "simpleMeaning": "small coins of low value, thought of as a group.",
+      "scope": "This sense is not the money handed back after a purchase and not the act of making something different; it is low-value coins as a group.",
+      "examples": [
+        "She keeps loose change in a jar.",
+        "I keep some change in my pocket for parking meters."
+      ],
+      "branchCoverage": [
+        "coins of small denomination regarded collectively -> small coins of low value, thought of as a group"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "coins of small denomination regarded collectively"
+      ],
+      "lemmaPartition": "change%1:21:01:: = low-value coins as a group; change%1:21:03:: = money handed back in smaller units or another currency; change%2:30:05:: = leaving one thing for a replacement, such as a job or a doctor; change%2:38:00:: = moving from one vehicle or route to another on a journey; change%2:30:03:: = putting on different clothes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%1:21:03::",
+      "lemma": "change",
+      "pos": "n",
+      "definition": "money received in return for its equivalent in a larger denomination or a different currency",
+      "decision": "gloss",
+      "simpleMeaning": "money handed back in smaller units or another currency for an equal amount.",
+      "scope": "This sense is not low-value coins as a group and not money left over from a purchase; it is money received when a larger bill or one currency is exchanged for an equal amount.",
+      "examples": [
+        "I need change for a twenty-dollar bill.",
+        "The cashier gave him change for a fifty."
+      ],
+      "branchCoverage": [
+        "money received in return for its equivalent in a larger denomination or a different currency -> money handed back in smaller units or another currency for an equal amount"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "money received in return for its equivalent in a larger denomination or a different currency"
+      ],
+      "lemmaPartition": "change%1:21:01:: = low-value coins as a group; change%1:21:03:: = money handed back in smaller units or another currency; change%2:30:05:: = leaving one thing for a replacement, such as a job or a doctor; change%2:38:00:: = moving from one vehicle or route to another on a journey; change%2:30:03:: = putting on different clothes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%2:30:05::",
+      "lemma": "change",
+      "pos": "v",
+      "definition": "lay aside, abandon, or leave for another",
+      "decision": "gloss",
+      "simpleMeaning": "to give up one thing and take another in its place, such as a job, a doctor, or a habit.",
+      "scope": "This sense is not altering the nature of something, not putting on different clothes, and not moving between vehicles; it means leaving one thing for a replacement.",
+      "examples": [
+        "She changed jobs after ten years at the bank.",
+        "He changed doctors when he moved to a new city."
+      ],
+      "branchCoverage": [
+        "lay aside, abandon, or leave for another -> to give up one thing and take another in its place, such as a job, a doctor, or a habit"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "lay aside, abandon, or leave for another"
+      ],
+      "lemmaPartition": "change%1:21:01:: = low-value coins as a group; change%1:21:03:: = money handed back in smaller units or another currency; change%2:30:05:: = leaving one thing for a replacement, such as a job or a doctor; change%2:38:00:: = moving from one vehicle or route to another on a journey; change%2:30:03:: = putting on different clothes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%2:38:00::",
+      "lemma": "change",
+      "pos": "v",
+      "definition": "change from one vehicle or transportation line to another",
+      "decision": "gloss",
+      "simpleMeaning": "to leave one bus, train, or route and continue the journey on another.",
+      "scope": "This sense is not swapping a job or an item for another and not putting on new clothes; it is moving from one vehicle or route to another during a trip.",
+      "examples": [
+        "You need to change at the next station.",
+        "We changed from the bus to the subway downtown."
+      ],
+      "branchCoverage": [
+        "change from one vehicle or transportation line to another -> to leave one bus, train, or route and continue the journey on another"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "change from one vehicle or transportation line to another"
+      ],
+      "lemmaPartition": "change%1:21:01:: = low-value coins as a group; change%1:21:03:: = money handed back in smaller units or another currency; change%2:30:05:: = leaving one thing for a replacement, such as a job or a doctor; change%2:38:00:: = moving from one vehicle or route to another on a journey; change%2:30:03:: = putting on different clothes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "change%2:30:03::",
+      "lemma": "change",
+      "pos": "v",
+      "definition": "change clothes; put on different clothes",
+      "decision": "gloss",
+      "simpleMeaning": "to take off what you are wearing and put on other clothes.",
+      "scope": "This sense is not moving to another train and not giving up a job for another; it means putting on a different set of clothes.",
+      "examples": [
+        "He changed quickly after the game.",
+        "She changed into a dress for dinner."
+      ],
+      "branchCoverage": [
+        "change clothes -> to take off what you are wearing and put on other clothes",
+        "put on different clothes -> to take off what you are wearing and put on other clothes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "change clothes",
+        "put on different clothes"
+      ],
+      "lemmaPartition": "change%1:21:01:: = low-value coins as a group; change%1:21:03:: = money handed back in smaller units or another currency; change%2:30:05:: = leaving one thing for a replacement, such as a job or a doctor; change%2:38:00:: = moving from one vehicle or route to another on a journey; change%2:30:03:: = putting on different clothes",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "live%2:31:00::",
+      "lemma": "live",
+      "pos": "v",
+      "definition": "have firsthand knowledge of states, situations, emotions, or sensations",
+      "decision": "gloss",
+      "simpleMeaning": "to go through states, events, feelings, or physical sensations yourself, so that you know them directly.",
+      "scope": "This sense is not being alive, not residing in a place, and not enjoying a good and satisfying everyday existence; it is about personally undergoing an experience.",
+      "examples": [
+        "She has lived through two wars.",
+        "He lived with constant pain for years."
+      ],
+      "branchCoverage": [
+        "have firsthand knowledge of states, situations, emotions, or sensations -> to go through states, events, feelings, or physical sensations yourself, so that you know them directly"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "have firsthand knowledge of states, situations, emotions, or sensations"
+      ],
+      "lemmaPartition": "live%2:31:00:: = undergoing experiences firsthand; live%2:42:07:: = spending days in a full, satisfying way; live%5:00:00:elastic:00 = an adjective: springy, springing back when pressed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "live%2:42:07::",
+      "lemma": "live",
+      "pos": "v",
+      "definition": "pursue a positive and satisfying existence",
+      "decision": "gloss",
+      "simpleMeaning": "to spend your days in a full and satisfying way, going after what makes each day good.",
+      "scope": "This sense is not merely being alive, not dwelling somewhere, and not simply undergoing an experience; it is about making everyday existence rich and pleasing.",
+      "examples": [
+        "They live fully, traveling whenever they can.",
+        "She lives well despite a modest income."
+      ],
+      "branchCoverage": [
+        "pursue a positive and satisfying existence -> to spend your days in a full and satisfying way, going after what makes each day good"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "pursue a positive and satisfying existence"
+      ],
+      "lemmaPartition": "live%2:31:00:: = undergoing experiences firsthand; live%2:42:07:: = spending days in a full, satisfying way; live%5:00:00:elastic:00 = an adjective: springy, springing back when pressed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "live%5:00:00:elastic:00",
+      "lemma": "live",
+      "pos": "a",
+      "definition": "elastic; rebounds readily",
+      "decision": "defer",
+      "reason": "This adjective use (springy, springing back when pressed) survives mainly in technical descriptions of rubber and sports equipment; natural everyday examples would either sound forced or be read as the common 'alive' or 'in play' senses, so two idiomatic sentences cannot be written.",
+      "sourceBranches": [
+        "elastic",
+        "rebounds readily"
+      ],
+      "lemmaPartition": "live%2:31:00:: = undergoing experiences firsthand; live%2:42:07:: = spending days in a full, satisfying way; live%5:00:00:elastic:00 = an adjective: springy, springing back when pressed",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:06:03::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "a contact in the distributor; as the rotor turns its projecting arm contacts them and current flows to the spark plugs",
+      "decision": "gloss",
+      "simpleMeaning": "one of a pair of small metal contacts in the engine part that sends electricity to the spark plugs; when a turning arm touches these contacts, electricity flows to the plugs.",
+      "scope": "This sense is not a sharp tip, not a dot or punctuation mark, and not a unit of scoring; it is a small metal contact inside a car's ignition part.",
+      "examples": [
+        "The mechanic replaced the points and set the gap.",
+        "Dirty points in the distributor can stop the engine."
+      ],
+      "branchCoverage": [
+        "a contact in the distributor -> one of a pair of small metal contacts in the engine part that sends electricity to the spark plugs",
+        "as the rotor turns its projecting arm contacts them and current flows to the spark plugs -> when a turning arm touches these contacts, electricity flows to the plugs"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a contact in the distributor",
+        "as the rotor turns its projecting arm contacts them and current flows to the spark plugs"
+      ],
+      "lemmaPartition": "point%1:06:03:: = the metal contacts inside a car's ignition distributor; point%1:10:00:: = the full-stop mark at the end of a sentence or after an abbreviation; point%1:10:02:: = the V-shaped tip at the end of an arrow; point%1:10:03:: = one separately named item in a list; point%1:23:00:: = a unit for measuring type size, about 1/72 inch; point%1:24:00:: = one of 32 compass directions; point%1:07:00:: = the quality of tapering to a sharp tip; point%1:07:02:: = a characteristic that distinguishes someone or something; point%1:10:04:: = the dot before a decimal fraction; point%1:23:01:: = the scoring unit in a game or contest; point%1:24:04:: = a penetrating, convincing style in speech or writing; point%2:30:09:: = repairing the joints of brickwork; point%2:32:11:: = a hunting dog standing with its muzzle aimed at game; point%2:33:02:: = being able to be aimed or positioned in a given way; point%2:35:12:: = marking a psalm text where the music changes; point%2:35:13:: = adding diacritics to Hebrew words; point%1:21:00:: = one percent of a loan's principal, paid up front; point%2:30:00:: = giving a sharp tip to something",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:10:00::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations",
+      "decision": "defer",
+      "reason": "The bare noun for a full stop is rare in modern English: “point” after a sentence sounds nonidiomatic, while “decimal point” means another sense. Two natural examples using the headword in this sense are not available.",
+      "sourceBranches": [
+        "a punctuation mark (‘.’) placed at the end of a declarative sentence to indicate a full stop or after abbreviations"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:10:02::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "a V-shaped mark at one end of an arrow pointer",
+      "decision": "gloss",
+      "simpleMeaning": "The V-shaped mark at one end of a drawn arrow that shows which way it faces.",
+      "scope": "This is not a punctuation dot, a decimal dot, or the quality of a shape narrowing to a tip; it is part of an arrow symbol.",
+      "examples": [
+        "The point of the arrow on the map faces north.",
+        "Make the point of the arrow wider so its direction is clear."
+      ],
+      "branchCoverage": [
+        "a V-shaped mark at one end of an arrow pointer -> The V-shaped mark at one end of a drawn arrow that shows which way it faces"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a V-shaped mark at one end of an arrow pointer"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:10:03::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "a distinct part that can be specified separately in a group of things that could be enumerated on a list",
+      "decision": "gloss",
+      "simpleMeaning": "One separate thing in a group of things that can each be named on a list.",
+      "scope": "This is not a distinguishing quality of a person or the forceful style of a speech; it is one item among others that could be listed.",
+      "examples": [
+        "The first point on the agenda is the budget.",
+        "He ticked off each point on the checklist."
+      ],
+      "branchCoverage": [
+        "a distinct part that can be specified separately in a group of things that could be enumerated on a list -> One separate thing in a group of things that can each be named on a list"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a distinct part that can be specified separately in a group of things that could be enumerated on a list"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:23:00::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "a linear unit used to measure the size of type; approximately 1/72 inch",
+      "decision": "gloss",
+      "simpleMeaning": "A unit of length used to measure the size of letters in text, equal to about one seventy-second of an inch.",
+      "scope": "This is not a unit added to a game score or a fee on a loan; it measures the size of type.",
+      "examples": [
+        "The book’s main text is set in 11-point type.",
+        "Increase the font size by two points."
+      ],
+      "branchCoverage": [
+        "a linear unit used to measure the size of type -> A unit of length used to measure the size of letters in text",
+        "approximately 1/72 inch -> about one seventy-second of an inch"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a linear unit used to measure the size of type",
+        "approximately 1/72 inch"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:24:00::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "any of 32 horizontal directions indicated on the card of a compass",
+      "decision": "gloss",
+      "simpleMeaning": "One of 32 directions marked on the face of a compass, showing a direction across the ground rather than up or down.",
+      "scope": "This is not a printed arrowhead or a place on a map; it is one of the directions shown on a compass.",
+      "examples": [
+        "The old compass shows all 32 points.",
+        "Southeast is one of the compass points."
+      ],
+      "branchCoverage": [
+        "any of 32 horizontal directions indicated on the card of a compass -> One of 32 directions marked on the face of a compass, showing a direction across the ground rather than up or down"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "any of 32 horizontal directions indicated on the card of a compass"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:07:00::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "the property of a shape that tapers to a sharp tip",
+      "decision": "defer",
+      "reason": "This noun use for the quality of narrowing to a sharp tip is rare in general English: “the point of” a cone or leaf normally means its actual tip, not the separate quality, so unambiguous examples are unavailable.",
+      "sourceBranches": [
+        "the property of a shape that tapers to a sharp tip"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:07:02::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "a distinguishing or individuating characteristic",
+      "decision": "gloss",
+      "simpleMeaning": "A quality that helps distinguish a person or thing from others.",
+      "scope": "This is not an item on a written list or the shape of a sharp tip; it is a particular quality that sets someone or something apart.",
+      "examples": [
+        "Patience is one of her best points.",
+        "One of his weak points is that he often forgets appointments."
+      ],
+      "branchCoverage": [
+        "a distinguishing or individuating characteristic -> A quality that helps distinguish a person or thing from others"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "a distinguishing or individuating characteristic"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:10:04::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "the dot at the left of a decimal fraction",
+      "decision": "gloss",
+      "simpleMeaning": "The dot just before the digits showing the part of a decimal number smaller than one.",
+      "scope": "This is not the mark that ends a sentence; it separates the whole-number part from the fractional part of a decimal number.",
+      "examples": [
+        "Move the decimal point one place to the left.",
+        "The decimal point in 0.5 comes before the 5."
+      ],
+      "branchCoverage": [
+        "the dot at the left of a decimal fraction -> The dot just before the digits showing the part of a decimal number smaller than one"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the dot at the left of a decimal fraction"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:23:01::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "the unit of counting in scoring a game or contest",
+      "decision": "gloss",
+      "simpleMeaning": "A unit used to count the score in a game or contest.",
+      "scope": "This is not a measure of letter size, a compass direction, or a fee on a loan; it is part of a competitive score.",
+      "examples": [
+        "She scored three points in the final minute.",
+        "The judges awarded him a point for that move."
+      ],
+      "branchCoverage": [
+        "the unit of counting in scoring a game or contest -> A unit used to count the score in a game or contest"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "the unit of counting in scoring a game or contest"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:24:04::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect",
+      "decision": "defer",
+      "reason": "The noun for an attention-grabbing, penetrating, persuasive style of writing or speech is rare in modern general English; natural uses such as “make a point” or “have a point” mean an argument or purpose instead, so two unambiguous examples cannot be supplied.",
+      "sourceBranches": [
+        "a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%2:30:09::",
+      "lemma": "point",
+      "pos": "v",
+      "definition": "repair the joints of bricks",
+      "decision": "gloss",
+      "simpleMeaning": "To repair the spaces between bricks by filling them with fresh material that holds the bricks together.",
+      "scope": "This is not making a sharp tip or aiming at something; it is repairing the material between bricks.",
+      "examples": [
+        "The mason pointed the brickwork on the old house.",
+        "Workers pointed the chimney after its joints cracked."
+      ],
+      "branchCoverage": [
+        "repair the joints of bricks -> To repair the spaces between bricks by filling them with fresh material that holds the bricks together"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "repair the joints of bricks"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%2:32:11::",
+      "lemma": "point",
+      "pos": "v",
+      "definition": "indicate the presence of (game) by standing and pointing with the muzzle",
+      "decision": "gloss",
+      "simpleMeaning": "For a hunting dog to show where an animal or bird being hunted is by standing still with its nose aimed at it.",
+      "scope": "This is not someone indicating a direction with a finger or making a sharp tip; it is a hunting dog signalling the presence of prey with its nose and still posture.",
+      "examples": [
+        "The setter pointed a pheasant in the tall grass.",
+        "The dog pointed quail near the fence."
+      ],
+      "branchCoverage": [
+        "indicate the presence of (game) by standing and pointing with the muzzle -> For a hunting dog to show where an animal or bird being hunted is by standing still with its nose aimed at it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "indicate the presence of (game) by standing and pointing with the muzzle"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%2:33:02::",
+      "lemma": "point",
+      "pos": "v",
+      "definition": "be positionable in a specified manner",
+      "decision": "gloss",
+      "simpleMeaning": "To be able to be positioned or aimed in a particular way.",
+      "scope": "This is not to aim something deliberately, to show a direction with a finger, or to signal game; it describes how a thing can be positioned or aimed.",
+      "examples": [
+        "The rifle points easily despite its long barrel.",
+        "The telescope points smoothly in any direction."
+      ],
+      "branchCoverage": [
+        "be positionable in a specified manner -> To be able to be positioned or aimed in a particular way"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "be positionable in a specified manner"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%2:35:12::",
+      "lemma": "point",
+      "pos": "v",
+      "definition": "mark (a psalm text) to indicate the points at which the music changes",
+      "decision": "gloss",
+      "simpleMeaning": "To mark the words of a psalm to show where the music changes.",
+      "scope": "This is not indicating something with a finger, sharpening an end, or repairing brick joints; it is adding marks to psalm text for singing.",
+      "examples": [
+        "The choirmaster pointed the psalm before rehearsal.",
+        "The psalms were pointed to show the choir where the music changes."
+      ],
+      "branchCoverage": [
+        "mark (a psalm text) to indicate the points at which the music changes -> To mark the words of a psalm to show where the music changes"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "mark (a psalm text) to indicate the points at which the music changes"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%2:35:13::",
+      "lemma": "point",
+      "pos": "v",
+      "definition": "mark (Hebrew words) with diacritics",
+      "decision": "gloss",
+      "simpleMeaning": "To add small marks to Hebrew words to show how they are pronounced.",
+      "scope": "This is not marking a psalm for music, sharpening an end, or indicating something with a finger; it is adding pronunciation marks to Hebrew writing.",
+      "examples": [
+        "The scribes pointed the Hebrew text with small marks above and below the letters.",
+        "The editor pointed the Hebrew words so learners would know how to say them."
+      ],
+      "branchCoverage": [
+        "mark (Hebrew words) with diacritics -> To add small marks to Hebrew words to show how they are pronounced"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "mark (Hebrew words) with diacritics"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%1:21:00::",
+      "lemma": "point",
+      "pos": "n",
+      "definition": "one percent of the total principal of a loan; it is paid at the time the loan is made and is independent of the interest on the loan",
+      "decision": "gloss",
+      "simpleMeaning": "A fee equal to one percent of the total amount borrowed on a loan, paid when the loan is made separately from interest.",
+      "scope": "This is not a unit in a game score or a measure of type size; it is a fee paid when borrowing money, separate from interest.",
+      "examples": [
+        "They paid one point upfront on the new mortgage.",
+        "The lender charged two points when the loan closed."
+      ],
+      "branchCoverage": [
+        "one percent of the total principal of a loan -> A fee equal to one percent of the total amount borrowed on a loan",
+        "it is paid at the time the loan is made and is independent of the interest on the loan -> paid when the loan is made separately from interest"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "one percent of the total principal of a loan",
+        "it is paid at the time the loan is made and is independent of the interest on the loan"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "point%2:30:00::",
+      "lemma": "point",
+      "pos": "v",
+      "definition": "give a point to",
+      "decision": "gloss",
+      "simpleMeaning": "To make the end of something narrow and sharp.",
+      "scope": "This is not aiming at a target, repairing the spaces between bricks, or adding marks to writing; it is shaping a sharp tip.",
+      "examples": [
+        "The carpenter pointed each wooden stake with a knife.",
+        "The smith pointed the iron rods on the anvil."
+      ],
+      "branchCoverage": [
+        "give a point to -> To make the end of something narrow and sharp"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "give a point to"
+      ],
+      "lemmaPartition": "point%1:06:03:: = contact in a car distributor that helps send current to the spark plugs; point%1:10:00:: = full stop or abbreviation dot (deferred); point%1:10:02:: = V-shaped mark at the end of a drawn arrow; point%1:10:03:: = separate item in a group that could be listed; point%1:23:00:: = type-size unit of about one seventy-second of an inch; point%1:24:00:: = one of 32 horizontal compass directions; point%1:07:00:: = the quality of a shape narrowing to a sharp tip (deferred); point%1:07:02:: = distinguishing characteristic of a person or thing; point%1:10:04:: = decimal dot before the fractional digits; point%1:23:01:: = unit for counting a score in a game or contest; point%1:24:04:: = forceful, attention-holding style in speech or writing (deferred); point%2:30:09:: = repair the mortar joints between bricks; point%2:32:11:: = hunting dog stand still with muzzle aimed at game; point%2:33:02:: = be capable of being aimed in a stated way; point%2:35:12:: = mark psalm words where the music changes; point%2:35:13:: = add pronunciation marks to Hebrew words; point%1:21:00:: = upfront fee of one percent of a loan, separate from interest; point%2:30:00:: = make the end of something narrow and sharp",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "read%2:31:02::",
+      "lemma": "read",
+      "pos": "v",
+      "definition": "interpret the significance of, as of palms, tea leaves, intestines, the sky; also of human behavior",
+      "decision": "gloss",
+      "simpleMeaning": "To use clues in the lines on a hand, tea leaves, an animal’s guts, the sky, or someone’s behavior to work out what is happening or may happen.",
+      "scope": "This is not getting stored digital data, reporting a value on an instrument, or interpreting the wording of a message; it is finding meaning in signs from nature or behavior.",
+      "examples": [
+        "She read the clouds and knew a storm was coming.",
+        "He read her body language and sensed that she was nervous."
+      ],
+      "branchCoverage": [
+        "interpret the significance of, as of palms, tea leaves, intestines, the sky -> To use clues in the lines on a hand, tea leaves, an animal’s guts, the sky",
+        "also of human behavior -> or someone’s behavior to work out what is happening or may happen"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "interpret the significance of, as of palms, tea leaves, intestines, the sky",
+        "also of human behavior"
+      ],
+      "lemmaPartition": "read%2:31:02:: = work out the significance of signs or of human behavior; read%2:31:06:: = get stored data from a tape or other digital source; read%2:31:09:: = take something to mean a particular thing; read%2:32:02:: = (of a gauge or instrument) show a value",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "read%2:31:06::",
+      "lemma": "read",
+      "pos": "v",
+      "definition": "obtain data from magnetic tapes or other digital sources",
+      "decision": "gloss",
+      "simpleMeaning": "For a computer or device to get information stored on a magnetic tape or another digital source.",
+      "scope": "This is not interpreting a person’s behavior or a written message, and not a gauge showing a value; it is obtaining stored digital data.",
+      "examples": [
+        "The drive cannot read the damaged disc.",
+        "The software reads data from a memory card."
+      ],
+      "branchCoverage": [
+        "obtain data from magnetic tapes or other digital sources -> For a computer or device to get information stored on a magnetic tape or another digital source"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "obtain data from magnetic tapes or other digital sources"
+      ],
+      "lemmaPartition": "read%2:31:02:: = work out the significance of signs or of human behavior; read%2:31:06:: = get stored data from a tape or other digital source; read%2:31:09:: = take something to mean a particular thing; read%2:32:02:: = (of a gauge or instrument) show a value",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "read%2:31:09::",
+      "lemma": "read",
+      "pos": "v",
+      "definition": "interpret something in a certain way; convey a particular meaning or impression",
+      "decision": "gloss",
+      "simpleMeaning": "To understand something in a particular way, or for it to give a particular meaning or impression.",
+      "scope": "This is not finding hidden signs in a person’s behavior or in the sky, retrieving computer data, or a gauge displaying a value; it is an interpretation or impression.",
+      "examples": [
+        "She read his note as an apology.",
+        "The final line reads like a threat."
+      ],
+      "branchCoverage": [
+        "interpret something in a certain way -> To understand something in a particular way",
+        "convey a particular meaning or impression -> for it to give a particular meaning or impression"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "interpret something in a certain way",
+        "convey a particular meaning or impression"
+      ],
+      "lemmaPartition": "read%2:31:02:: = work out the significance of signs or of human behavior; read%2:31:06:: = get stored data from a tape or other digital source; read%2:31:09:: = take something to mean a particular thing; read%2:32:02:: = (of a gauge or instrument) show a value",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "read%2:32:02::",
+      "lemma": "read",
+      "pos": "v",
+      "definition": "indicate a certain reading; of gauges and instruments",
+      "decision": "gloss",
+      "simpleMeaning": "For a measuring device to show a particular value.",
+      "scope": "This is not a person interpreting signs or a computer obtaining stored data; it is what a gauge or other measuring instrument displays.",
+      "examples": [
+        "The thermometer reads 20 degrees.",
+        "The fuel gauge read empty."
+      ],
+      "branchCoverage": [
+        "indicate a certain reading -> to show a particular value",
+        "of gauges and instruments -> For a measuring device"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "indicate a certain reading",
+        "of gauges and instruments"
+      ],
+      "lemmaPartition": "read%2:31:02:: = work out the significance of signs or of human behavior; read%2:31:06:: = get stored data from a tape or other digital source; read%2:31:09:: = take something to mean a particular thing; read%2:32:02:: = (of a gauge or instrument) show a value",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "yet%4:02:06::",
+      "lemma": "yet",
+      "pos": "r",
+      "definition": "despite anything to the contrary (usually preceding a concession)",
+      "decision": "gloss",
+      "simpleMeaning": "In spite of what has just been said, often used just before adding a fact that goes against it.",
+      "scope": "This is not about whether something has happened by now or whether more may happen later; it introduces a contrasting fact despite what came before.",
+      "examples": [
+        "He was strict, yet he listened to everyone.",
+        "The plan was costly yet necessary."
+      ],
+      "branchCoverage": [
+        "despite anything to the contrary (usually preceding a concession) -> In spite of what has just been said, often used just before adding a fact that goes against it"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "despite anything to the contrary (usually preceding a concession)"
+      ],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bad%3:00:09::",
+      "lemma": "bad",
+      "pos": "a",
+      "definition": "feeling or expressing regret or sorrow or a sense of loss over something done or undone",
+      "decision": "gloss",
+      "simpleMeaning": "Feeling or showing sorrow, regret, or a sense of loss over something you did or failed to do.",
+      "scope": "This is not a judgment that someone has an evil character or that food is unfit to eat; it describes sorrow about an action or a failure to act.",
+      "examples": [
+        "I feel bad about breaking your cup.",
+        "She felt bad for not visiting him sooner."
+      ],
+      "branchCoverage": [
+        "feeling or expressing regret or sorrow or a sense of loss over something done or undone -> Feeling or showing sorrow, regret, or a sense of loss over something you did or failed to do"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "feeling or expressing regret or sorrow or a sense of loss over something done or undone"
+      ],
+      "lemmaPartition": "bad%3:00:09:: = feeling regret or sorrow about something done or not done; bad%5:00:00:evil:00 = morally wicked; bad%5:00:00:stale:00 = (of food) spoiled and unfit to eat or use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bad%5:00:00:evil:00",
+      "lemma": "bad",
+      "pos": "a",
+      "definition": "characterized by wickedness or immorality",
+      "decision": "gloss",
+      "simpleMeaning": "Showing cruel or otherwise morally wrong character or behavior.",
+      "scope": "This is not feeling sorry about something done, having poor skill, or food becoming unfit to eat; it describes moral wrongdoing.",
+      "examples": [
+        "He was a bad man who took pleasure in hurting others.",
+        "Her bad deeds harmed people who trusted her."
+      ],
+      "branchCoverage": [
+        "characterized by wickedness or immorality -> Showing cruel or otherwise morally wrong character or behavior"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "characterized by wickedness or immorality"
+      ],
+      "lemmaPartition": "bad%3:00:09:: = feeling regret or sorrow about something done or not done; bad%5:00:00:evil:00 = morally wicked; bad%5:00:00:stale:00 = (of food) spoiled and unfit to eat or use",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "bad%5:00:00:stale:00",
+      "lemma": "bad",
+      "pos": "a",
+      "definition": "(of foodstuffs) not in an edible or usable condition",
+      "decision": "gloss",
+      "simpleMeaning": "In a condition that makes food unfit to eat or use.",
+      "scope": "This is not describing an evil person or someone who feels sorry; it describes food that can no longer be eaten or used.",
+      "examples": [
+        "The milk has gone bad, so throw it out.",
+        "We found bad eggs at the back of the fridge."
+      ],
+      "branchCoverage": [
+        "(of foodstuffs) not in an edible or usable condition -> In a condition that makes food unfit to eat or use"
+      ],
+      "labelBranches": [],
+      "sourceBranches": [
+        "(of foodstuffs) not in an edible or usable condition"
+      ],
+      "lemmaPartition": "bad%3:00:09:: = feeling regret or sorrow about something done or not done; bad%5:00:00:evil:00 = morally wicked; bad%5:00:00:stale:00 = (of food) spoiled and unfit to eat or use",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}

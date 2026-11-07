@@ -1,0 +1,973 @@
+{
+  "report": {
+    "schema": "oewn-gloss-batch-result-v3",
+    "batch": 16,
+    "rows": 50,
+    "accepted": 50,
+    "rejected": 0,
+    "glosses": 49,
+    "defers": 1,
+    "firstPass": {
+      "approved": 49,
+      "of": 50,
+      "rate": 0.98
+    },
+    "selfApproved": [],
+    "lineage": {
+      "draft": "980c48aee2ddc6a9416fc521bfd16cac1e4cbb0c8824d57212d726ad6cd004f3"
+    },
+    "studentValidated": false
+  },
+  "accepted": [
+    {
+      "senseId": "league%2:30:00::",
+      "lemma": "league",
+      "pos": "v",
+      "definition": "unite to form a league",
+      "decision": "gloss",
+      "simpleMeaning": "to join together with other people or groups to form an alliance.",
+      "scope": "This is the verb about joining together in an alliance, not the noun for a group of sports teams.",
+      "examples": [
+        "The small states leagued together against the larger country.",
+        "Several towns leagued to protect the river."
+      ],
+      "branchCoverage": [
+        "unite to form a league -> join together with other people or groups to form an alliance"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "management%1:04:00::",
+      "lemma": "management",
+      "pos": "n",
+      "definition": "the act of managing something",
+      "decision": "gloss",
+      "simpleMeaning": "the act of running or controlling a business, team, or activity.",
+      "scope": "This is the activity of controlling something, not the group of people who are in charge.",
+      "examples": [
+        "His careful management of the money saved the charity.",
+        "Good management keeps a team working well."
+      ],
+      "branchCoverage": [
+        "the act of managing something -> the act of running or controlling something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "match%1:06:00::",
+      "lemma": "match",
+      "pos": "n",
+      "definition": "lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction",
+      "decision": "gloss",
+      "simpleMeaning": "a small thin stick with a special tip that makes a flame when you rub it.",
+      "scope": "This is the small fire-making stick, not a sports contest and not a good pairing of two things.",
+      "examples": [
+        "He struck a match to light the candle.",
+        "The matches got wet, so we could not light the fire."
+      ],
+      "branchCoverage": [
+        "lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical -> small thin stick ... special tip ... makes a flame",
+        "ignites with friction -> when you rub it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "match (3 senses in this batch): noun = the small stick that makes a flame (match%1:06:00::); noun = an organized contest between players or teams (match%1:11:00::); verb = be the same as or fit well with something (match%2:42:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "match%1:11:00::",
+      "lemma": "match",
+      "pos": "n",
+      "definition": "a formal contest in which two or more persons or teams compete",
+      "decision": "gloss",
+      "simpleMeaning": "an organized game or competition between two people or teams.",
+      "scope": "This is a contest, not a small fire stick and not a good pairing.",
+      "examples": [
+        "Our team won the match on Saturday.",
+        "The tennis match lasted three hours."
+      ],
+      "branchCoverage": [
+        "a formal contest in which two or more persons or teams compete -> organized game or competition between two people or teams"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "match (3 senses in this batch): noun = the small stick that makes a flame (match%1:06:00::); noun = an organized contest between players or teams (match%1:11:00::); verb = be the same as or fit well with something (match%2:42:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "match%2:42:00::",
+      "lemma": "match",
+      "pos": "v",
+      "definition": "be compatible, similar or consistent; coincide in their characteristics",
+      "decision": "gloss",
+      "simpleMeaning": "to be the same as, similar to, or fit well with something else.",
+      "scope": "This is about things agreeing or fitting together, not about a contest or a fire stick.",
+      "examples": [
+        "The curtains match the carpet.",
+        "His story does not match the facts."
+      ],
+      "branchCoverage": [
+        "be compatible, similar or consistent -> be the same as, similar to, or fit well with",
+        "coincide in their characteristics -> be the same as ... fit well with ... something else"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "match (3 senses in this batch): noun = the small stick that makes a flame (match%1:06:00::); noun = an organized contest between players or teams (match%1:11:00::); verb = be the same as or fit well with something (match%2:42:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "model%1:18:00::",
+      "lemma": "model",
+      "pos": "n",
+      "definition": "a person who poses for a photographer or painter or sculptor",
+      "decision": "gloss",
+      "simpleMeaning": "a person who stands or sits still so an artist can paint, draw, or photograph them.",
+      "scope": "This is a person who poses for artists or photographers, not a small copy of an object and not an example to follow.",
+      "examples": [
+        "The model held the same pose for an hour.",
+        "She works as a model for a fashion magazine."
+      ],
+      "branchCoverage": [
+        "a person who poses for a photographer or painter or sculptor -> a person who stands or sits still so an artist can paint, draw, or photograph them"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "model (2 senses in this batch): noun = a person who poses for artists or photographers (model%1:18:00::); verb = make or plan something by following a pattern (model%2:36:02::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "model%2:36:02::",
+      "lemma": "model",
+      "pos": "v",
+      "definition": "plan or create according to a model or models",
+      "decision": "gloss",
+      "simpleMeaning": "to make or plan something by following an example or pattern.",
+      "scope": "This is the verb about shaping something on a pattern, not the noun for a person who poses or a small copy.",
+      "examples": [
+        "The new building was modeled on an old church.",
+        "They modeled the program on one that had worked well elsewhere."
+      ],
+      "branchCoverage": [
+        "plan or create according to a model or models -> make or plan something by following an example or pattern"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "model (2 senses in this batch): noun = a person who poses for artists or photographers (model%1:18:00::); verb = make or plan something by following a pattern (model%2:36:02::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "picture%1:06:01::",
+      "lemma": "picture",
+      "pos": "n",
+      "definition": "graphic art consisting of an artistic composition made by applying paints to a surface",
+      "decision": "gloss",
+      "simpleMeaning": "a work of art made by putting paint on a surface.",
+      "scope": "This is specifically a painted artwork, not any image such as a photograph, and not a film.",
+      "examples": [
+        "There is a picture by Monet above the fireplace.",
+        "The gallery bought the picture for a high price."
+      ],
+      "branchCoverage": [
+        "graphic art consisting of an artistic composition made by applying paints to a surface -> a work of art made by putting paint on a surface"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "picture (2 senses in this batch): noun = a painted work of art (picture%1:06:01::); noun = any image of something made on a surface (picture%1:06:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "picture%1:06:00::",
+      "lemma": "picture",
+      "pos": "n",
+      "definition": "a visual representation (of an object or scene or person or abstraction) produced on a surface",
+      "decision": "gloss",
+      "simpleMeaning": "an image of a person, thing, or scene made on a surface, such as a photo or drawing.",
+      "scope": "This is the general word for any image, not only a painted artwork, and not a film or a mental image.",
+      "examples": [
+        "She drew a picture of her house.",
+        "The book has pictures on every page."
+      ],
+      "branchCoverage": [
+        "a visual representation (of an object or scene or person or abstraction) produced on a surface -> an image of a person, thing, or scene made on a surface"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "picture (2 senses in this batch): noun = a painted work of art (picture%1:06:01::); noun = any image of something made on a surface (picture%1:06:00::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "size%1:27:00::",
+      "lemma": "size",
+      "pos": "n",
+      "definition": "any glutinous material used to fill pores in surfaces or to stiffen fabrics",
+      "decision": "gloss",
+      "simpleMeaning": "a sticky substance used to fill small holes in a surface or to make cloth stiff.",
+      "scope": "This is the sticky substance, not how big something is, and not a standard measure for clothes.",
+      "examples": [
+        "The painter applied size to the wall before painting it.",
+        "Workers used size to stiffen the fabric."
+      ],
+      "branchCoverage": [
+        "any glutinous material used to fill pores in surfaces or to stiffen fabrics -> a sticky substance used to fill small holes in a surface or to make cloth stiff"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "size (3 senses in this batch): noun = a sticky substance used on surfaces or cloth (size%1:27:00::); verb = treat a surface or cloth with that substance (size%2:35:00::); noun = a standard measurement for clothes or shoes (size%1:07:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "size%2:35:00::",
+      "lemma": "size",
+      "pos": "v",
+      "definition": "cover or stiffen or glaze a porous material with size or sizing (a glutinous substance)",
+      "decision": "gloss",
+      "simpleMeaning": "to put a sticky substance on a surface or cloth to fill small holes or make it stiff.",
+      "scope": "This is about treating a surface or cloth, not about measuring how big something is.",
+      "examples": [
+        "The cloth was sized before it was printed.",
+        "They sized the walls to seal the small holes."
+      ],
+      "branchCoverage": [
+        "cover or stiffen or glaze a porous material with size or sizing (a glutinous substance) -> put a sticky substance on a surface or cloth to fill small holes or make it stiff"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "size (3 senses in this batch): noun = a sticky substance used on surfaces or cloth (size%1:27:00::); verb = treat a surface or cloth with that substance (size%2:35:00::); noun = a standard measurement for clothes or shoes (size%1:07:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "size%1:07:01::",
+      "lemma": "size",
+      "pos": "n",
+      "definition": "the property resulting from being one of a series of graduated measurements (as of clothing)",
+      "decision": "gloss",
+      "simpleMeaning": "one of a set of standard measurements used for clothes and shoes.",
+      "scope": "This is about standard measurements, not the sticky substance and not the general fact of being large or small.",
+      "examples": [
+        "What size shoes do you wear?",
+        "The shirt comes in three sizes."
+      ],
+      "branchCoverage": [
+        "the property resulting from being one of a series of graduated measurements (as of clothing) -> one of a set of standard measurements used for clothes and shoes"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "size (3 senses in this batch): noun = a sticky substance used on surfaces or cloth (size%1:27:00::); verb = treat a surface or cloth with that substance (size%2:35:00::); noun = a standard measurement for clothes or shoes (size%1:07:01::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trust%1:07:00::",
+      "lemma": "trust",
+      "pos": "n",
+      "definition": "the trait of believing in the honesty and reliability of others",
+      "decision": "gloss",
+      "simpleMeaning": "the quality of believing that other people are honest and can be relied on.",
+      "scope": "This is a person's belief in others, not a legal arrangement for holding property.",
+      "examples": [
+        "Her trust in her friends was complete.",
+        "It takes time to build trust between people."
+      ],
+      "branchCoverage": [
+        "the trait of believing in the honesty and reliability of others -> the quality of believing that other people are honest and can be relied on"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "trust (2 senses in this batch): noun = the quality of believing in other people's honesty (trust%1:07:00::); noun = property held and managed for another person's benefit (trust%1:21:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trust%1:21:03::",
+      "lemma": "trust",
+      "pos": "n",
+      "definition": "something (as property) held by one party (the trustee) for the benefit of another (the beneficiary)",
+      "decision": "gloss",
+      "simpleMeaning": "property that one person holds and controls for the benefit of another person.",
+      "scope": "This is a legal arrangement for holding property, not the feeling of believing in people.",
+      "examples": [
+        "The money was placed in a trust for the children.",
+        "He set up a trust to manage the family land."
+      ],
+      "branchCoverage": [
+        "something (as property) held by one party (the trustee) for the benefit of another (the beneficiary) -> property that one person holds and controls for the benefit of another person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "trust (2 senses in this batch): noun = the quality of believing in other people's honesty (trust%1:07:00::); noun = property held and managed for another person's benefit (trust%1:21:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "central%1:06:00::",
+      "lemma": "central",
+      "pos": "n",
+      "definition": "a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication",
+      "decision": "gloss",
+      "simpleMeaning": "a building or office where telephone lines are connected so that calls can go through.",
+      "scope": "This is the telephone building, not the adjective meaning most important, and not the middle of something.",
+      "examples": [
+        "The call was sent through the central in the next town.",
+        "She worked at the telephone central for many years."
+      ],
+      "branchCoverage": [
+        "a workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication -> a building or office where telephone lines are connected so that calls can go through"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "central (2 senses in this batch): noun = a telephone exchange building (central%1:06:00::); adjective = most important or essential (central%5:00:00:important:00).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "central%5:00:00:important:00",
+      "lemma": "central",
+      "pos": "a",
+      "definition": "serving as an essential component",
+      "decision": "gloss",
+      "simpleMeaning": "most important and necessary for something to work or happen.",
+      "scope": "This is about importance, not about being in the middle of a place or about a telephone building.",
+      "examples": [
+        "Trust is central to any friendship.",
+        "The central question is whether we can afford it."
+      ],
+      "branchCoverage": [
+        "serving as an essential component -> most important and necessary for something to work or happen"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "central (2 senses in this batch): noun = a telephone exchange building (central%1:06:00::); adjective = most important or essential (central%5:00:00:important:00).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%3:00:02::",
+      "lemma": "forward",
+      "pos": "a",
+      "definition": "used of temperament or behavior; lacking restraint or modesty",
+      "decision": "gloss",
+      "simpleMeaning": "too confident in a way that shows a lack of respect or shame.",
+      "scope": "This is about bold behavior, not the direction toward the front and not a sports position.",
+      "examples": [
+        "His forward remarks upset the older guests.",
+        "She was not usually so forward with strangers."
+      ],
+      "branchCoverage": [
+        "used of temperament or behavior -> declared usage label (applies to a person's manner or conduct)",
+        "lacking restraint or modesty -> too confident in a way that shows a lack of respect or shame"
+      ],
+      "labelBranches": [
+        "used of temperament or behavior"
+      ],
+      "lemmaPartition": "forward (8 senses in this batch): adjective = too bold in behavior (forward%3:00:02::); adjective = the gear that drives a car ahead (forward%3:00:03::); noun = the team position near the opponent's goal (forward%1:04:00::); noun = the player in that position (forward%1:18:00::); verb = send something on from a middle stop (forward%2:38:00::); adverb = toward the physical front (forward%4:02:00::); adverb = toward a future time (forward%4:02:02::); adverb = onward in time, order, or degree (forward%4:02:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%3:00:03::",
+      "lemma": "forward",
+      "pos": "a",
+      "definition": "of the transmission gear causing forward movement in a motor vehicle",
+      "decision": "gloss",
+      "simpleMeaning": "describing the gear that makes a car move ahead.",
+      "scope": "This is about a car's gear, not about bold behavior or a direction in space.",
+      "examples": [
+        "Put the car in forward gear and drive slowly.",
+        "The forward gears are the ones you use for normal driving."
+      ],
+      "branchCoverage": [
+        "of the transmission gear causing forward movement in a motor vehicle -> describing the gear that makes a car move ahead"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "forward (8 senses in this batch): adjective = too bold in behavior (forward%3:00:02::); adjective = the gear that drives a car ahead (forward%3:00:03::); noun = the team position near the opponent's goal (forward%1:04:00::); noun = the player in that position (forward%1:18:00::); verb = send something on from a middle stop (forward%2:38:00::); adverb = toward the physical front (forward%4:02:00::); adverb = toward a future time (forward%4:02:02::); adverb = onward in time, order, or degree (forward%4:02:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%1:04:00::",
+      "lemma": "forward",
+      "pos": "n",
+      "definition": "a position on a basketball, soccer, or hockey team",
+      "decision": "gloss",
+      "simpleMeaning": "a playing position in basketball, soccer, or hockey, usually near the other team's goal.",
+      "scope": "This is the position, not the player who fills it, and not the direction toward the front.",
+      "examples": [
+        "She was moved to forward for the second half.",
+        "The team needs someone in the forward position."
+      ],
+      "branchCoverage": [
+        "a position on a basketball, soccer, or hockey team -> a playing position in basketball, soccer, or hockey ... near the other team's goal"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "forward (8 senses in this batch): adjective = too bold in behavior (forward%3:00:02::); adjective = the gear that drives a car ahead (forward%3:00:03::); noun = the team position near the opponent's goal (forward%1:04:00::); noun = the player in that position (forward%1:18:00::); verb = send something on from a middle stop (forward%2:38:00::); adverb = toward the physical front (forward%4:02:00::); adverb = toward a future time (forward%4:02:02::); adverb = onward in time, order, or degree (forward%4:02:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%1:18:00::",
+      "lemma": "forward",
+      "pos": "n",
+      "definition": "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey",
+      "decision": "gloss",
+      "simpleMeaning": "a player in basketball, soccer, or hockey whose job is to attack and score.",
+      "scope": "This is the player, not the position itself, and not the adverb meaning toward the front.",
+      "examples": [
+        "The forward scored the winning goal.",
+        "Their tallest player is a forward."
+      ],
+      "branchCoverage": [
+        "the person who plays the position of forward in certain games, such as basketball, soccer, or hockey -> a player in basketball, soccer, or hockey whose job is to attack and score"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "forward (8 senses in this batch): adjective = too bold in behavior (forward%3:00:02::); adjective = the gear that drives a car ahead (forward%3:00:03::); noun = the team position near the opponent's goal (forward%1:04:00::); noun = the player in that position (forward%1:18:00::); verb = send something on from a middle stop (forward%2:38:00::); adverb = toward the physical front (forward%4:02:00::); adverb = toward a future time (forward%4:02:02::); adverb = onward in time, order, or degree (forward%4:02:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%2:38:00::",
+      "lemma": "forward",
+      "pos": "v",
+      "definition": "send or ship onward from an intermediate post or station in transit",
+      "decision": "gloss",
+      "simpleMeaning": "to send something on from a middle stop to the next place or person.",
+      "scope": "This is about passing mail or goods along, not about the direction toward the front or the sports meanings.",
+      "examples": [
+        "Please forward this letter to my new address.",
+        "The office forwards all calls to another number."
+      ],
+      "branchCoverage": [
+        "send or ship onward from an intermediate post or station in transit -> send something on from a middle stop to the next place or person"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "forward (8 senses in this batch): adjective = too bold in behavior (forward%3:00:02::); adjective = the gear that drives a car ahead (forward%3:00:03::); noun = the team position near the opponent's goal (forward%1:04:00::); noun = the player in that position (forward%1:18:00::); verb = send something on from a middle stop (forward%2:38:00::); adverb = toward the physical front (forward%4:02:00::); adverb = toward a future time (forward%4:02:02::); adverb = onward in time, order, or degree (forward%4:02:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%4:02:00::",
+      "lemma": "forward",
+      "pos": "r",
+      "definition": "at or to or toward the front; forward",
+      "decision": "gloss",
+      "simpleMeaning": "toward the front, or in the direction that is ahead.",
+      "scope": "This is about physical direction, not about the future and not about the sports senses.",
+      "examples": [
+        "She took a step forward.",
+        "The car moved forward slowly."
+      ],
+      "branchCoverage": [
+        "at or to or toward the front -> toward the front ... in the direction that is ahead",
+        "forward -> declared usage label (restatement of the headword itself, not a separate meaning)"
+      ],
+      "labelBranches": [
+        "forward"
+      ],
+      "lemmaPartition": "forward (8 senses in this batch): adjective = too bold in behavior (forward%3:00:02::); adjective = the gear that drives a car ahead (forward%3:00:03::); noun = the team position near the opponent's goal (forward%1:04:00::); noun = the player in that position (forward%1:18:00::); verb = send something on from a middle stop (forward%2:38:00::); adverb = toward the physical front (forward%4:02:00::); adverb = toward a future time (forward%4:02:02::); adverb = onward in time, order, or degree (forward%4:02:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%4:02:02::",
+      "lemma": "forward",
+      "pos": "r",
+      "definition": "toward the future; forward in time",
+      "decision": "gloss",
+      "simpleMeaning": "toward a time that is still to come.",
+      "scope": "This is about a time in the future, not about physical direction and not about continuing a sequence.",
+      "examples": [
+        "I look forward to seeing you again.",
+        "We must look forward, not back."
+      ],
+      "branchCoverage": [
+        "toward the future -> toward a time that is still to come",
+        "forward in time -> toward a time that is still to come (rephrased without the headword)"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "forward (8 senses in this batch): adjective = too bold in behavior (forward%3:00:02::); adjective = the gear that drives a car ahead (forward%3:00:03::); noun = the team position near the opponent's goal (forward%1:04:00::); noun = the player in that position (forward%1:18:00::); verb = send something on from a middle stop (forward%2:38:00::); adverb = toward the physical front (forward%4:02:00::); adverb = toward a future time (forward%4:02:02::); adverb = onward in time, order, or degree (forward%4:02:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "forward%4:02:03::",
+      "lemma": "forward",
+      "pos": "r",
+      "definition": "forward in time or order or degree",
+      "decision": "gloss",
+      "simpleMeaning": "onward in time, in a series, or in amount.",
+      "scope": "This is about continuing onward in a sequence or process, not about facing a future time and not about physical direction.",
+      "examples": [
+        "From that day forward, everything changed.",
+        "The project moved forward after the meeting."
+      ],
+      "branchCoverage": [
+        "forward in time or order or degree -> onward in time, in a series, or in amount"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "forward (8 senses in this batch): adjective = too bold in behavior (forward%3:00:02::); adjective = the gear that drives a car ahead (forward%3:00:03::); noun = the team position near the opponent's goal (forward%1:04:00::); noun = the player in that position (forward%1:18:00::); verb = send something on from a middle stop (forward%2:38:00::); adverb = toward the physical front (forward%4:02:00::); adverb = toward a future time (forward%4:02:02::); adverb = onward in time, order, or degree (forward%4:02:03::).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "key%1:06:00::",
+      "lemma": "key",
+      "pos": "n",
+      "definition": "metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated",
+      "decision": "gloss",
+      "simpleMeaning": "a small metal object used to open a lock.",
+      "scope": "This is the metal object for a lock, not the adjective meaning most important and not a button on a keyboard.",
+      "examples": [
+        "I lost the key to my front door.",
+        "She turned the key in the lock."
+      ],
+      "branchCoverage": [
+        "metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated -> a small metal object used to open a lock"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key (3 senses in this batch): noun = a small metal object that opens a lock (key%1:06:00::); verb = identify a plant or animal in a scientific system (key%2:31:00::); adjective = most important or essential (key%5:00:00:important:00).",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "key%2:31:00::",
+      "lemma": "key",
+      "pos": "v",
+      "definition": "identify as in botany or biology, for example",
+      "decision": "gloss",
+      "simpleMeaning": "to work out which plant or animal something is by checking a guide.",
+      "scope": "It is not the metal object that opens a lock or the adjective meaning 'most important'; it is the biology verb for naming a plant or animal.",
+      "examples": [
+        "The students keyed out the wild flowers with the guide.",
+        "The biologist keyed the sample and found it was a rare moss."
+      ],
+      "branchCoverage": [
+        "identify as in botany or biology, for example -> work out which plant or animal something is by checking a guide"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key (n) = the metal object that opens a lock; key (v) = to work out which plant or animal something is by checking a guide; key (a) = most important or essential.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "key%5:00:00:important:00",
+      "lemma": "key",
+      "pos": "a",
+      "definition": "serving as an essential component",
+      "decision": "gloss",
+      "simpleMeaning": "very important because other things depend on it.",
+      "scope": "It is not the lock-opening object or a button on a keyboard; it describes something necessary to a result.",
+      "examples": [
+        "Trust is a key part of any friendship.",
+        "The key question is whether we can finish on time."
+      ],
+      "branchCoverage": [
+        "serving as an essential component -> very important because other things depend on it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "key (n) = the metal object that opens a lock; key (v) = to work out which plant or animal something is by checking a guide; key (a) = most important or essential.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "page%1:18:02::",
+      "lemma": "page",
+      "pos": "n",
+      "definition": "a youthful attendant at official functions or ceremonies such as legislative functions and weddings",
+      "decision": "gloss",
+      "simpleMeaning": "a young person who helps at formal events such as weddings or government ceremonies.",
+      "scope": "It is not a sheet in a book or a call over a loudspeaker; it means the young helper at a ceremony.",
+      "examples": [
+        "The bride's nephew was a page and carried the rings.",
+        "A page showed the guests to their seats at the official dinner."
+      ],
+      "branchCoverage": [
+        "a youthful attendant at official functions or ceremonies such as legislative functions and weddings -> a young person who helps at formal events such as weddings or government ceremonies"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "page (n, ceremony helper) = a young person who helps at formal events; page (n, book side) = one side of a sheet in a book or newspaper; page (v) = to call someone over a loudspeaker or pager.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "page%1:10:00::",
+      "lemma": "page",
+      "pos": "n",
+      "definition": "one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains",
+      "decision": "gloss",
+      "simpleMeaning": "one side of a sheet in a book, magazine, newspaper, or letter, or the writing or picture on it.",
+      "scope": "It is not the young helper at a wedding or the act of calling someone; it is the flat side of a sheet that you read.",
+      "examples": [
+        "She turned the page and kept reading.",
+        "The story was on the first page of the newspaper."
+      ],
+      "branchCoverage": [
+        "one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains -> one side of a sheet in a book, magazine, newspaper, or letter, or the writing or picture on it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "page (n, ceremony helper) = a young person who helps at formal events; page (n, book side) = one side of a sheet in a book or newspaper; page (v) = to call someone over a loudspeaker or pager.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "page%2:32:00::",
+      "lemma": "page",
+      "pos": "v",
+      "definition": "contact, as with a pager or by calling somebody's name over a P.A. system",
+      "decision": "gloss",
+      "simpleMeaning": "to call someone by name over a loudspeaker or send a message to their small device.",
+      "scope": "It is not turning the sheets of a book or the young ceremony helper; it means trying to reach a person with a call.",
+      "examples": [
+        "They paged him over the store's loudspeaker.",
+        "The nurse was paged during the emergency."
+      ],
+      "branchCoverage": [
+        "contact, as with a pager or by calling somebody's name over a P.A. system -> call someone by name over a loudspeaker; send a message to their small device"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "page (n, ceremony helper) = a young person who helps at formal events; page (n, book side) = one side of a sheet in a book or newspaper; page (v) = to call someone over a loudspeaker or pager.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "paid%5:00:00:professional:01",
+      "lemma": "paid",
+      "pos": "a",
+      "definition": "involving gainful employment in something often done as a hobby",
+      "decision": "gloss",
+      "simpleMeaning": "done for money rather than just for fun.",
+      "scope": "It does not mean that a bill has been settled; it describes work or activity that earns money.",
+      "examples": [
+        "He turned his hobby into paid work.",
+        "She is looking for a paid position in a bakery."
+      ],
+      "branchCoverage": [
+        "involving gainful employment in something often done as a hobby -> done for money rather than just for fun"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "range%1:15:02::",
+      "lemma": "range",
+      "pos": "n",
+      "definition": "a large tract of grassy open land on which livestock can graze",
+      "decision": "gloss",
+      "simpleMeaning": "a wide area of open grassland where farm animals can eat.",
+      "scope": "It is not a set of different products or the distance a gun can shoot; it is the open land itself.",
+      "examples": [
+        "Farmers let their sheep graze on the open range.",
+        "The dry range stretched for miles."
+      ],
+      "branchCoverage": [
+        "a large tract of grassy open land on which livestock can graze -> a wide area of open grassland where farm animals can eat"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "range (n, land) = open grassland where farm animals can eat; range (v, wander) = to move around without a fixed direction; range (v, reach) = to be able to travel a certain distance when fired, as a gun does.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "range%2:38:00::",
+      "lemma": "range",
+      "pos": "v",
+      "definition": "move about aimlessly or without any destination, often in search of food or employment",
+      "decision": "gloss",
+      "simpleMeaning": "to move around without a fixed plan, often looking for food or work.",
+      "scope": "It is not the open grassland or the distance a weapon can reach; it describes how people or animals move.",
+      "examples": [
+        "Buffalo once ranged across these plains.",
+        "Young workers ranged from town to town looking for jobs."
+      ],
+      "branchCoverage": [
+        "move about aimlessly or without any destination, often in search of food or employment -> move around without a fixed plan, often looking for food or work"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "range (n, land) = open grassland where farm animals can eat; range (v, wander) = to move around without a fixed direction; range (v, reach) = to be able to travel a certain distance when fired, as a gun does.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "range%2:42:03::",
+      "lemma": "range",
+      "pos": "v",
+      "definition": "have a range; be capable of projecting over a certain distance, as of a gun",
+      "decision": "gloss",
+      "simpleMeaning": "to be able to send a shot a certain distance when fired.",
+      "scope": "It is not moving around without a plan or a piece of grazing land; it is about how far a gun can send a shot.",
+      "examples": [
+        "The rifle ranges up to a mile.",
+        "The old cannon ranged about two miles."
+      ],
+      "branchCoverage": [
+        "have a range -> be able to send a shot a certain distance",
+        "be capable of projecting over a certain distance, as of a gun -> send a shot a certain distance when fired"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "range (n, land) = open grassland where farm animals can eat; range (v, wander) = to move around without a fixed direction; range (v, reach) = to be able to travel a certain distance when fired, as a gun does.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "review%1:04:00::",
+      "lemma": "review",
+      "pos": "n",
+      "definition": "a subsequent examination of a patient for the purpose of monitoring earlier treatment",
+      "decision": "gloss",
+      "simpleMeaning": "a later check-up to see how a patient is doing after treatment.",
+      "scope": "It is not a report on a book or film or a military parade; it is a medical follow-up visit.",
+      "examples": [
+        "She has a review with her doctor next week.",
+        "The review showed that the injury was healing well."
+      ],
+      "branchCoverage": [
+        "a subsequent examination of a patient for the purpose of monitoring earlier treatment -> a later check-up to see how a patient is doing after treatment"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "review (n) = a later medical check on a patient; review (v) = to inspect soldiers in a formal ceremony.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "review%2:31:02::",
+      "lemma": "review",
+      "pos": "v",
+      "definition": "hold a review (of troops)",
+      "decision": "gloss",
+      "simpleMeaning": "to officially inspect a group of soldiers in a ceremony.",
+      "scope": "It is not checking a patient or judging a book; it means inspecting soldiers on parade.",
+      "examples": [
+        "The general reviewed the troops before they marched.",
+        "The queen reviewed the guard at the palace."
+      ],
+      "branchCoverage": [
+        "hold a review (of troops) -> officially inspect a group of soldiers in a ceremony"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "review (n) = a later medical check on a patient; review (v) = to inspect soldiers in a formal ceremony.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "science%1:09:00::",
+      "lemma": "science",
+      "pos": "n",
+      "definition": "a particular branch of scientific knowledge",
+      "decision": "gloss",
+      "simpleMeaning": "a subject such as biology or physics that studies the natural world.",
+      "scope": "It is not knowledge in general or a practical skill like cooking; it means one specific field of study.",
+      "examples": [
+        "Chemistry is her favourite science.",
+        "He wants to study a science at university."
+      ],
+      "branchCoverage": [
+        "a particular branch of scientific knowledge -> a subject such as biology or physics that studies the natural world"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "trade%1:04:00::",
+      "lemma": "trade",
+      "pos": "n",
+      "definition": "the skilled practice of a practical occupation",
+      "decision": "gloss",
+      "simpleMeaning": "a job that needs special training and skill, especially work done with the hands.",
+      "scope": "It is not the buying and selling of goods; it means a skilled practical job.",
+      "examples": [
+        "He learned the trade of carpentry from his father.",
+        "Plumbers and electricians are skilled in their trade."
+      ],
+      "branchCoverage": [
+        "the skilled practice of a practical occupation -> a job that needs special training and skill, especially work done with the hands"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "various%5:00:02:different:00",
+      "lemma": "various",
+      "pos": "a",
+      "definition": "of many different kinds purposefully arranged but lacking any uniformity",
+      "decision": "gloss",
+      "simpleMeaning": "made up of many different kinds, mixed together on purpose with no regular pattern.",
+      "scope": "It is not simply 'different from each other'; it describes a collection that mixes many kinds.",
+      "examples": [
+        "The shop sells various kinds of tea.",
+        "She kept various tools in the drawer."
+      ],
+      "branchCoverage": [
+        "of many different kinds purposefully arranged but lacking any uniformity -> made up of many different kinds; mixed together on purpose with no regular pattern"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "various (a, mixed) = made up of many different kinds put together; various (a, unlike) = clearly different from one another.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "various%5:00:00:different:00",
+      "lemma": "various",
+      "pos": "a",
+      "definition": "distinctly dissimilar or unlike",
+      "decision": "gloss",
+      "simpleMeaning": "clearly different from each other.",
+      "scope": "It is not a mixed collection of many kinds; it says that two or more things are clearly unlike.",
+      "examples": [
+        "The colours of the leaves were various, from yellow to deep red.",
+        "Their reasons for leaving were various."
+      ],
+      "branchCoverage": [
+        "distinctly dissimilar or unlike -> clearly different from each other"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "various (a, mixed) = made up of many different kinds put together; various (a, unlike) = clearly different from one another.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attention%1:09:00::",
+      "lemma": "attention",
+      "pos": "n",
+      "definition": "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others",
+      "decision": "gloss",
+      "simpleMeaning": "the act of focusing your mind on one thing and ignoring other things.",
+      "scope": "It is not the care given to a patient or customer; it is the mental focus itself.",
+      "examples": [
+        "The noise made it hard to give the book my full attention.",
+        "Her attention was fixed on the road ahead."
+      ],
+      "branchCoverage": [
+        "the process whereby a person concentrates on some features of the environment to the (relative) exclusion of others -> focusing your mind on one thing; ignoring other things"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attention (n, focus) = the act of concentrating your mind on something; attention (n, care) = the work of looking after someone or something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "attention%1:04:01::",
+      "lemma": "attention",
+      "pos": "n",
+      "definition": "the work of providing treatment for or attending to someone or something",
+      "decision": "gloss",
+      "simpleMeaning": "the care and help given to a person or thing that needs it.",
+      "scope": "It is not the mental focus you give to a task; it means looking after someone's needs.",
+      "examples": [
+        "The patient needs constant attention from a nurse.",
+        "The garden has had a lot of attention this spring."
+      ],
+      "branchCoverage": [
+        "the work of providing treatment for or attending to someone or something -> the care and help given to a person or thing that needs it"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "attention (n, focus) = the act of concentrating your mind on something; attention (n, care) = the work of looking after someone or something.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "character%1:07:01::",
+      "lemma": "character",
+      "pos": "n",
+      "definition": "the inherent complex of attributes that determines a persons moral and ethical actions and reactions",
+      "decision": "gloss",
+      "simpleMeaning": "a person's inner qualities, especially those that guide right and wrong behaviour.",
+      "scope": "It is not a person in a story, a letter in writing, or the special quality of a thing; it means someone's moral nature.",
+      "examples": [
+        "Honesty is an important part of her character.",
+        "The hard times revealed his true character."
+      ],
+      "branchCoverage": [
+        "the inherent complex of attributes that determines a persons moral and ethical actions and reactions -> a person's inner qualities; especially those that guide right and wrong behaviour"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "character (n, moral nature) = the inner qualities that guide right and wrong; character (n, feature) = the typical quality that makes something what it is; character (n, fiction) = an imaginary person in a story or film; character (v) = to cut letters or symbols into a surface.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "character%1:09:00::",
+      "lemma": "character",
+      "pos": "n",
+      "definition": "a characteristic property that defines the apparent individual nature of something",
+      "decision": "gloss",
+      "simpleMeaning": "the typical quality that makes a place or thing what it is.",
+      "scope": "It is not a person's moral nature, a figure in a story, or a letter on a page; it is the special quality of a thing or place.",
+      "examples": [
+        "The little cafes give the town its character.",
+        "The old wooden houses add character to the street."
+      ],
+      "branchCoverage": [
+        "a characteristic property that defines the apparent individual nature of something -> the typical quality that makes a place or thing what it is"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "character (n, moral nature) = the inner qualities that guide right and wrong; character (n, feature) = the typical quality that makes something what it is; character (n, fiction) = an imaginary person in a story or film; character (v) = to cut letters or symbols into a surface.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "character%1:18:02::",
+      "lemma": "character",
+      "pos": "n",
+      "definition": "an imaginary person represented in a work of fiction (play or film or story)",
+      "decision": "gloss",
+      "simpleMeaning": "a made-up person in a story, play, or film.",
+      "scope": "It is not a real person's moral nature, the special quality of a place, or a letter on a page; it is a made-up person.",
+      "examples": [
+        "My favourite character in the book is the old sailor.",
+        "She plays a funny character in the new film."
+      ],
+      "branchCoverage": [
+        "an imaginary person represented in a work of fiction (play or film or story) -> a made-up person in a story, play, or film"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "character (n, moral nature) = the inner qualities that guide right and wrong; character (n, feature) = the typical quality that makes something what it is; character (n, fiction) = an imaginary person in a story or film; character (v) = to cut letters or symbols into a surface.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "character%2:35:00::",
+      "decision": "defer",
+      "verdict": "defer-accepted",
+      "reason": "The verb is archaic and survives mainly in specialist craft writing, so two natural B1 examples would sound artificial."
+    },
+    {
+      "senseId": "football%1:04:00::",
+      "lemma": "football",
+      "pos": "n",
+      "definition": "any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal",
+      "decision": "gloss",
+      "simpleMeaning": "any of several games between two teams, played with a round or oval ball, in which players kick, carry, or push the ball into the other team's goal.",
+      "scope": "It is not the ball itself; it is the game played with it.",
+      "examples": [
+        "The children play football in the park after school.",
+        "He watches football every weekend."
+      ],
+      "branchCoverage": [
+        "any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal -> any of several games between two teams; played with a round or oval ball; players kick, carry, or push the ball into the other team's goal"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "football (n, game) = the team game played with a ball; football (n, ball) = the oval ball used in the American sport.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "football%1:06:00::",
+      "lemma": "football",
+      "pos": "n",
+      "definition": "the inflated oblong ball used in playing American football",
+      "decision": "gloss",
+      "simpleMeaning": "the long oval ball that players throw and carry in the American sport.",
+      "scope": "It is not the game itself; it is the ball used in the American version.",
+      "examples": [
+        "He threw the football across the field.",
+        "The football was flat before the game."
+      ],
+      "branchCoverage": [
+        "the inflated oblong ball used in playing American football -> the long oval ball; that players throw and carry in the American sport"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "football (n, game) = the team game played with a ball; football (n, ball) = the oval ball used in the American sport.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hate%1:12:00::",
+      "lemma": "hate",
+      "pos": "n",
+      "definition": "the emotion of intense dislike; a feeling of dislike so strong that it demands action",
+      "decision": "gloss",
+      "simpleMeaning": "a very strong feeling of dislike that makes you want to act.",
+      "scope": "It is not the verb meaning to dislike someone; it is the feeling itself.",
+      "examples": [
+        "His speech was full of hate.",
+        "The group spread hate against people from other countries."
+      ],
+      "branchCoverage": [
+        "the emotion of intense dislike -> a very strong feeling of dislike",
+        "a feeling of dislike so strong that it demands action -> that makes you want to act"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hate (n) = a very strong feeling of dislike; hate (v) = to dislike someone or something very strongly.",
+      "verdict": "first-pass"
+    },
+    {
+      "senseId": "hate%2:37:00::",
+      "lemma": "hate",
+      "pos": "v",
+      "definition": "dislike intensely; feel antipathy or aversion towards",
+      "decision": "gloss",
+      "simpleMeaning": "to feel very strong dislike towards someone or something.",
+      "scope": "It is not the noun for the feeling; it is the action of feeling strong dislike towards someone.",
+      "examples": [
+        "I hate getting up early in winter.",
+        "She hated the way he spoke to her."
+      ],
+      "branchCoverage": [
+        "dislike intensely -> feel very strong dislike",
+        "feel antipathy or aversion towards -> towards someone or something"
+      ],
+      "labelBranches": [],
+      "lemmaPartition": "hate (n) = a very strong feeling of dislike; hate (v) = to dislike someone or something very strongly.",
+      "verdict": "first-pass"
+    }
+  ],
+  "rejected": []
+}
