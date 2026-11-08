@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'asynchronous_motor%1:06:01::'
+synsetId: 92459652-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: e501bb8d754a2ed526aa79f7e5fc624c317585457a05a39d9dcc7ff9b2037f42
+simpleMeaning: An AC electric motor whose turning part is driven by a current created in it by the magnetic
+  field of the fixed coil, a process called electromagnetic induction.
+scope: Another name for this AC motor is induction motor; it draws its turning part's current from the
+  fixed coil's magnetic field rather than from brushes, and a synchronous motor is a different design.
+examples:
+- An asynchronous motor drove the pump at the waterworks.
+- Engineers chose an asynchronous motor because it has no brushes to wear out.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 108
+sourceFinalSha256: c5a53cebc1e0a96dae6a31f4e81fe1666c797ef40bdbe87a99e40968d32463a6
+reviewVerdict: first-pass

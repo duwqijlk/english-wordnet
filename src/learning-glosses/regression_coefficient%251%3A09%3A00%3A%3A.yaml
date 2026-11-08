@@ -1,0 +1,17 @@
+schema: oewn-learning-gloss-v1
+senseId: 'regression_coefficient%1:09:00::'
+synsetId: 06038096-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: c49dfd5030c777d7cd766b801b5808189472fafb7c1295d4af44bb76a7fe86ed
+simpleMeaning: 'In statistics, the constant a in y = ax + b: the slope of the line, showing how much one
+  variable changes when the other rises by one unit.'
+scope: This is the slope number in a straight-line statistical model; it is not the correlation coefficient,
+  which measures how closely two variables move together, and not the intercept b, where the line crosses
+  the axis.
+examples:
+- The regression coefficient was 0.62, meaning each extra hour of study raised the score by 0.62 points.
+- Researchers reported the regression coefficient together with a confidence interval.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 106
+sourceFinalSha256: bd340dfe295cded4ac044bce99bf1ac042b06f764caf4df686cf5e2988255c28
+reviewVerdict: first-pass

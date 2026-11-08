@@ -3,14 +3,14 @@ senseId: 'airport%1:06:00::'
 synsetId: 02695091-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 202091ff72c7f9c525d4ef3e8f424a169272eaf9e6c77279fa11d54ed821c2e4
-simpleMeaning: A place where planes take off and land, with a control tower, buildings where planes are
-  kept, and facilities for passengers and goods.
-scope: This sense is not just a simple landing strip, but a full facility with a control tower, plane
+simpleMeaning: A place where aircraft take off and land, with a control tower, buildings for storing aircraft,
+  and facilities for passengers and cargo.
+scope: This sense is not just a simple landing strip, but a full facility with a control tower, aircraft
   storage buildings, and passenger and cargo services.
 examples:
 - We arrived at the airport two hours before our flight.
 - The airport has a new terminal for international passengers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 31
-sourceFinalSha256: bb3e7e718bbb3b76efd82ff8ac721b8c7653fea95d72eaa79385aeb52e6e0550
-reviewVerdict: first-pass
+sourceFinalSha256: 0ec07b0f9078b2c4c0ba57fa9598bef86177154404c2d55a4172e84659840d8e
+reviewVerdict: second-pass
