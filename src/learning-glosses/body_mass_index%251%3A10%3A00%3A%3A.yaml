@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'body_mass_index%1:10:00::'
+synsetId: 06652665-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: cfce9f06d81ed5f18b80958e44e89e3576060c27d60efca98cdf924d10d48df2
+simpleMeaning: A number comparing your weight with your height, found by dividing your weight in pounds
+  by your height in inches times itself; above 25 means overweight, above 30 means obese.
+scope: A screening ratio of weight to height, not a direct measure of body fat or fitness, and not a person's
+  target weight.
+examples:
+- Her body mass index was 27, so her doctor advised her to lose weight.
+- Doctors use body mass index as a quick screening tool.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 93
+sourceFinalSha256: c92c0b13b1409ed38e076175afbbc01d37c717ee8605165e2fb8b2e5df6195a7
+reviewVerdict: self-approved

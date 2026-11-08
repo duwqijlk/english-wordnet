@@ -1,0 +1,17 @@
+schema: oewn-learning-gloss-v1
+senseId: 'equivalent-binary-digit_factor%1:23:00::'
+synsetId: 13756489-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 88c98a30abf3d9dac99c7b787e85e624199203e3dd5cce94efd8d60e3fcc11a7
+simpleMeaning: How much binary notation a digit from another base is worth on average; roughly 3.3 binary
+  digits go with every decimal digit.
+scope: This is a conversion ratio between number bases; it is not the mathematical factor that divides
+  a whole number, and not a single binary digit.
+examples:
+- Engineers use the equivalent-binary-digit factor to estimate how many bits a decimal number will need.
+- With an equivalent-binary-digit factor of about 3.3, ten decimal digits call for roughly thirty-three
+  binary digits.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 111
+sourceFinalSha256: 1030ad98129d32b36db60e98f6adedbdd19f919f9e9ad18aab7ad35bbb0aed3a
+reviewVerdict: first-pass

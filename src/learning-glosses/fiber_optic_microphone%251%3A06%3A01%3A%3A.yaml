@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'fiber_optic_microphone%1:06:01::'
+synsetId: 92449236-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 44ba47cc5ee95d16e86e6d4cba7ce351a6052cd85601f8f44197dec90f06da8b
+simpleMeaning: A microphone that turns sound into an electrical signal by detecting changes in light,
+  rather than changes in stored electric charge or magnetic fields, as standard microphones do.
+scope: This is the light-sensing microphone itself, not an ordinary microphone that responds to electric
+  or magnetic changes, and not the optical fiber it uses.
+examples:
+- A fiber optic microphone can pick up infrasound that ordinary microphones miss.
+- The studio chose a fiber optic microphone because electrical interference spoiled other recordings.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 104
+sourceFinalSha256: 59d56ddbc01bc3b3bfafa93e60d9b35c7e179b85b5b87fb33e1eb8800355d40d
+reviewVerdict: first-pass

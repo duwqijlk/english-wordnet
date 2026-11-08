@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'moment%1:09:00::'
+synsetId: 06031858-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 785469be1fb39050b1ee928a0b1bdcb40ab4638762ae0fd160e6d58e30b066ce
+simpleMeaning: the long-run average of a given power of the amounts by which the values of a distribution
+  differ from a chosen reference point.
+scope: This is the statistical average of a power of deviations, not a particular point in time, not a
+  very short time, not the present time, not importance or influence, and not a turning force in physics.
+examples:
+- The second moment about the mean measures how spread out the values are.
+- The first moment about zero is simply the mean.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 73
+sourceFinalSha256: 94fd65a3a92f75584cd6738a337d96977dc1171dac1476f952a0c262c37d7c74
+reviewVerdict: first-pass

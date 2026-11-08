@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'correlation_table%1:09:00::'
+synsetId: 06040436-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 76e809432a57894da6760e54bf9bbfc9fce51a583d55edf73c3e5f90e9569149
+simpleMeaning: 'A two-way grid showing how two variables relate: one variable''s scores run down the side,
+  the other''s across the top, and each cell counts how often two scores went together.'
+scope: A statistical display that tallies paired scores in a grid; not a correlation coefficient, which
+  is a single number, and not a scatter plot of points.
+examples:
+- The correlation table showed how often high anxiety scores went with poor sleep scores.
+- Each cell of the correlation table held the number of students with that pair of scores.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 120
+sourceFinalSha256: f9a70620bc2c53b839e47fcb264459508d45c5e915b9f6850101e9a80f2dd295
+reviewVerdict: first-pass

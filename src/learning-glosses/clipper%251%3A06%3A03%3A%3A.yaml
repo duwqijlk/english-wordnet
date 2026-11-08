@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'clipper%1:06:03::'
+synsetId: 03675212-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 6e46db5d205f3ec838cd2f40ea96ff3f73c059f7ffcd13c53a5cd70a13bf04ec
+simpleMeaning: In electronics, a circuit that responds unevenly and caps how high a signal can rise at
+  any moment, trimming off the tops of a wave
+scope: Another name for the limiter, a circuit that caps signal peaks; not the sailing ship or the cutting
+  tools that share this name.
+examples:
+- The engineer added a clipper to cut off the signal peaks.
+- A clipper keeps the wave from rising above the set level.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 119
+sourceFinalSha256: 09da71d9403b47d5c2d943e2516872b10dd73197cce1860f1baa88412af59f01
+reviewVerdict: first-pass
