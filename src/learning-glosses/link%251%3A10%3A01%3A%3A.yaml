@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'link%1:10:01::'
+synsetId: 06598647-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 68c8e3e02c6e86211fb460c2b382d45db2742e3ae36d31af9aee660b8d1966b4
+simpleMeaning: In computing, a piece of code that points from one part of a program, or one item in a
+  list, to a different program or list.
+scope: This is the computing instruction, not the physical circuit carrying data between places or the
+  channel for communication between groups.
+examples:
+- Each link in the list pointed to the next record.
+- The program crashed when it followed a link to a missing module.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 145
+sourceFinalSha256: 7257d46fb7fbde0ef60a82441abe9810ccbef4a8bf40397b7f25b8de5cce7dab
+reviewVerdict: first-pass
