@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'loop%1:10:01::'
+synsetId: 06585033-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 05ae7be1955d0a6636e8bb89b634a0938a16511435c4a09115b52486086d62a3
+simpleMeaning: In computing, a set of steps a program does again and again until a condition that was
+  set is met
+scope: A program that repeats steps until a set condition is met, not one single run of those steps and
+  not a ring-shaped network.
+examples:
+- The loop ran ten times before it stopped.
+- She wrote a loop to add up the numbers.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 200
+sourceFinalSha256: f230d1a67d2bb7a7edfea3b5e248ab2302054283d6fca45a7ffbde32d4ebad03
+reviewVerdict: first-pass
