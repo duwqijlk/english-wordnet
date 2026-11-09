@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'float%2:30:03::'
+synsetId: 00567258-v
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 05c92aad78585d3abfd1dcac3c1049d17fd68d3b9863c95ddbb8385c84262b24
+simpleMeaning: In computing, change a number's stored form from a fixed point position to one where the
+  point may move.
+scope: In computing, moving a stored number's point from a fixed position to one that can shift, not resting
+  on liquid or suggesting an idea tentatively.
+examples:
+- The compiler will float the values before the division step.
+- You must float the data before the calculation runs.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 151
+sourceFinalSha256: 618f884c318b7439f8c681c7f2bd3ef33c4a734423dde63d8ea3d6404a99d981
+reviewVerdict: first-pass
