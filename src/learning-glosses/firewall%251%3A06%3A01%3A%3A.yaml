@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'firewall%1:06:01::'
+synsetId: 03352988-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: be0ad664e59ce229e2450f41091a778f2b7053a8d19d57fd3c8f8ed0b5158576
+simpleMeaning: In computing, a guard of both machine parts and programs that keeps a computer or network
+  safe from outside attack, often used on local networks linked to the internet
+scope: In computing, a guard that keeps a computer or network safe from attack; not a wall against fire,
+  and not the full use of power in a machine.
+examples:
+- The firewall blocked the attack on the school network.
+- Our firewall keeps outside users from reaching the office computers.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 457
+sourceFinalSha256: e16ed8006f0721e7fda69adc7ae49fca58c9677b9b10a3c833a7a969780050ce
+reviewVerdict: first-pass
