@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'magnitude%1:24:00::'
+synsetId: 13845863-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: a36a9cb4a4d725d7cc111420a7fbd0d7e311627d2241232f4606e975ff39b1df
+simpleMeaning: a number that compares two amounts; two amounts share a class if one is under ten times
+  the other, and the gap between them is counted in powers of ten
+scope: A number for comparing amounts, not the size of a thing and not how important something is.
+examples:
+- The two stars are of the same order of magnitude, since one is less than ten times as bright as the
+  other.
+- The magnitude of the two amounts differs by two powers of ten.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 394
+sourceFinalSha256: 074e5b9bdaf8ff0b4560a894695adb474c53aa7be01068cf62178c37ce77b630
+reviewVerdict: first-pass
