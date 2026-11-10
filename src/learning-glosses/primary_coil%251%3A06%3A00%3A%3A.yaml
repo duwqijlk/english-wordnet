@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'primary_coil%1:06:00::'
+synsetId: 04008987-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: b2f067e0cf4e2ec704b6006215b6aa206c26dc4651bb9e75374fd20e2d452458
+simpleMeaning: A changing flow of power through one loop of wire in a circuit starts a flow in a second
+  circuit close by.
+scope: Primary and primary winding are other names for it, and it is the loop that starts the new current,
+  not the loop beside it that picks it up.
+examples:
+- Current through the primary coil sets off current in the secondary coil.
+- The primary coil gave the nearby circuit its current.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1027
+sourceFinalSha256: da0a1faafe79866a32872f6a96b461199680693624b40a4a8fb02f5ab55ae892
+reviewVerdict: first-pass

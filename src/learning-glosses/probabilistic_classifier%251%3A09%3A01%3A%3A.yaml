@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'probabilistic_classifier%1:09:01::'
+synsetId: 92463237-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 9d74cb089656cb243e2967ed408061ef500c8a1b1040c4f3d3c733d9f23c6d4c
+simpleMeaning: How likely each group is, not just which group is most likely, is what this tool says when
+  it is given one new thing to sort.
+scope: A sorting tool that gives odds for every group, not one that only names the single best group.
+examples:
+- The probabilistic classifier said the new email was most likely spam but gave some chance to the other
+  groups too.
+- A probabilistic classifier does not just pick one group; it gives a chance for each group.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 908
+sourceFinalSha256: 70795bcaf7e54dded18c3c6ebc89131a5bdd7c719a47e8dcf3a4a46be9bf846f
+reviewVerdict: first-pass

@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'least_squares%1:09:00::'
+synsetId: 06030362-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 83766ad1346212a1fbe685d6a60b42242bef074ee12b077c240fb9815e350ed8
+simpleMeaning: A way to fit a smooth line or bend to measured points, keeping the total of the gaps, each
+  times itself, as small as it can be.
+scope: Also called the method of least squares, this way of fitting a smooth line or bend to measured
+  points chooses the fit whose gaps, each times itself, add up to the least.
+examples:
+- The least squares fit gave a smooth bend through the measured points.
+- Least squares chose the bend whose gaps added up to the least.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1012
+sourceFinalSha256: 3b7aa55116fee3fbf3def6063e18e955344f4b8bdff69f041f599a3d72a0de85
+reviewVerdict: first-pass

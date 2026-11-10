@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'thermal_resistor%1:06:00::'
+synsetId: 04427341-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: fe87470b390a964e7301d8894b46a57a1d47f53b4ea08e2ff2d2d3900e416e56
+simpleMeaning: A small part of stuff that only partly lets power through, whose hold on power shifts with
+  heat, so it can steady other parts when the heat shifts.
+scope: A part whose push-back shifts with heat, also called thermistor; it steadies other parts in a set
+  of wires.
+examples:
+- The thermal resistor kept the radio steady as the room grew hot.
+- A thermal resistor changes its push-back when the heat changes.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 916
+sourceFinalSha256: feb23ef1871f608b965ebd1f35e41e5494087453ac8558fd7a975f9e811f65c8
+reviewVerdict: first-pass

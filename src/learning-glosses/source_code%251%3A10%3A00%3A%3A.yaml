@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'source_code%1:10:00::'
+synsetId: 06369920-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 3408961f03435f6ff57d45eceb6677f13b40b3c715294d95d2b7c08196946871
+simpleMeaning: Before a program can run, a compiler, interpreter, or assembler must change these program
+  instructions, written as plain text, into the form one computer can run
+scope: A compiler, an interpreter, or an assembler turns this into the form one computer can run; it is
+  not the finished form itself.
+examples:
+- The source code is written as plain text.
+- A compiler changes the source code into the form one computer can run.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 964
+sourceFinalSha256: f0be80d48aabe8405be67dd58df629129d7a6eed97c5dc4f4c146dd7b7086e4a
+reviewVerdict: first-pass

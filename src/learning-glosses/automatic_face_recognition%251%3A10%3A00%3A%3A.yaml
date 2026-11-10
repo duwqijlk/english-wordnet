@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'automatic_face_recognition%1:10:00::'
+synsetId: 06656868-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 24b7836fc56c3ace05f1095cd241cce4f9b1dd2fd33b43a94d19ecddb43dccb1
+simpleMeaning: A scanned look is checked against looks kept on file, so the system can tell who the person
+  is.
+scope: This is a system that checks a scanned look against looks kept on file, also called face recognition
+  or facial recognition.
+examples:
+- The airport used automatic face recognition to spot known terrorists.
+- Automatic face recognition matched her looks to the photo on file.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1060
+sourceFinalSha256: 57f63d2fbfc16eb65d9a2d140ee32258eeba708d0dd2f7a9c149c59058ae52ac
+reviewVerdict: first-pass

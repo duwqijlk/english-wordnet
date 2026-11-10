@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'ignition_switch%1:06:00::'
+synsetId: 03566349-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: afa1e67d9c0fd5de92021904cfbe647b1a2cf9882f36758a1c9629e44af69dad
+simpleMeaning: When this switch is worked, a small coil pulls a link shut, closing the path of power so
+  the engine can start.
+scope: It is the switch that sets the starter going by closing the path of power, not the starter itself.
+examples:
+- Turn the ignition switch and the engine should start.
+- A worn ignition switch would not close the circuit at all.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1008
+sourceFinalSha256: 0cbae024bea5ebc7dadf5420ce0c12fa73f497675653a6ad8f0790bed781ba69
+reviewVerdict: first-pass

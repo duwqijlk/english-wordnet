@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'read/write_memory%1:06:00::'
+synsetId: 04059869-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: baf322af614cb464078aa1834b052f17f609fc09c5b610349138d5fcbb64b2ee
+simpleMeaning: a chip store that programs fill and empty while the machine runs; it hands back any bit
+  in any order, and reaching one place is no slower than reaching another
+scope: Also called random-access memory, random access memory, and random memory; the short-term working
+  store of a computer, not the disk that keeps files when the machine is off.
+examples:
+- The read/write memory holds the data the program is working on.
+- More read/write memory lets the computer run bigger programs.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 876
+sourceFinalSha256: 572187130b812ba32b4e0c86ab76ba1e35c292f8f240adb8b47bcfda4386eeff
+reviewVerdict: first-pass
