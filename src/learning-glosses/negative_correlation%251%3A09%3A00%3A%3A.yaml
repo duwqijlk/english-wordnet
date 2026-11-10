@@ -3,8 +3,8 @@ senseId: 'negative_correlation%1:09:00::'
 synsetId: 06042702-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 71636f7d2521066fec27e8094c0884fbbac69d1bd7333648fcb064ff4c3660e4
-simpleMeaning: When one thing goes up, the other goes down, and the number that shows the link is between
-  0 and -1
+simpleMeaning: A link between two measures in which a big value in one goes with a small value in the
+  other, with a coefficient between 0 and -1.
 scope: A link in which one thing grows as the other falls, also called an indirect correlation; not a
   link in which both grow together.
 examples:
@@ -12,5 +12,5 @@ examples:
 - A negative correlation means that as one number rises, the other tends to fall.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1438
-sourceFinalSha256: c09f7d5d7db95ff425e0b7bceb6484ca56de91438780fc154c74ccd88e875019
-reviewVerdict: first-pass
+sourceFinalSha256: 2e862b6d8a7f51470fc3401c96feae8a6b6d3c579d54c8b52b675a3be7a2c0d2
+reviewVerdict: second-pass

@@ -3,7 +3,7 @@ senseId: 'electrical_outlet%1:06:00::'
 synsetId: 04556057-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: a08f27bdbd952384cecf4421b08bb13a4204d53c05b71a67109bbbe0f03f7109
-simpleMeaning: You push a plug into this place in the wires of a building to get power for a machine
+simpleMeaning: A socket in a wiring system where current can be taken to run electrical devices.
 scope: 'Also called electric outlet, electric receptacle and outlet: you push a plug into this place in
   the wires of a building to get power for a machine, not a switch that turns power on or off and not
   a light that only gives light.'
@@ -12,5 +12,5 @@ examples:
 - The electrical outlet by the desk had no power, so the computer would not start.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1377
-sourceFinalSha256: 0679535dff2ce9f860c57662b34464690095457fb1b3a5c5a99f0219ca7e369c
-reviewVerdict: first-pass
+sourceFinalSha256: 01782f1ee2558d71d10c5f7737f02f74dfa2a313efd78146e424d374b18df1f8
+reviewVerdict: second-pass

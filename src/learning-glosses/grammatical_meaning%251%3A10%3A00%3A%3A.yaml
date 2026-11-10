@@ -3,8 +3,8 @@ senseId: 'grammatical_meaning%1:10:00::'
 synsetId: 06614501-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 02bc6e85b5e35056cf3813c6a9ff95d2dec844c0aa85c89621d4172b98525ab3
-simpleMeaning: What a word shows by the job it does in a sentence, and this changes with the shape of
-  the word
+simpleMeaning: The sense a word carries from its role in a sentence, which changes with the word's inflected
+  shape.
 scope: What a word shows by its job in a sentence, which changes with the shape of the word, not the word's
   own sense and not its sound.
 examples:
@@ -12,5 +12,5 @@ examples:
 - In this sentence, the grammatical meaning of 'walked' comes from the '-ed' ending.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1397
-sourceFinalSha256: d59b8bb210f100e73b27eb6c6c903715169e21229d06bb0576fcfe6c70eae2cc
-reviewVerdict: first-pass
+sourceFinalSha256: 5c1414263c97c0786963af80d103160cc7e33a09421aa50dd2907c8aeade422d
+reviewVerdict: second-pass

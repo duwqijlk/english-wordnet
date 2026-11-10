@@ -3,8 +3,8 @@ senseId: 'positive_correlation%1:09:00::'
 synsetId: 06042428-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 6b9a58106c4d7ea8d710a9fa2a867fc4532196995292355caca9651c8660ea72
-simpleMeaning: When one number is big, the other is big too, and small goes with small; the number that
-  measures this runs from 0 to +1
+simpleMeaning: A link in which a big value in one measure goes with a big value in the other, small with
+  small, and with a coefficient from 0 to +1.
 scope: 'Also called direct correlation: when one number is big, the other is big too, and when one is
   small, the other is small, not a link where one grows as the other falls.'
 examples:
@@ -12,5 +12,5 @@ examples:
 - 'They found a positive correlation: taller people tended to weigh more.'
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1457
-sourceFinalSha256: 14aaf02134571366caaad6ec19be0866d951582f8792883b33f662eac268bdd1
-reviewVerdict: first-pass
+sourceFinalSha256: 4281781b923ab5fe1ded6cc074a6df8c8ee3583f4321cd776c188961d98c2e11
+reviewVerdict: second-pass

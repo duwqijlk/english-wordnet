@@ -3,8 +3,8 @@ senseId: 'perfectly_elastic_supply%1:22:01::'
 synsetId: 92418001-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 5fb8fd66283d65e73ae05efd076c8b87270237bc5df34ba01e3364586a6f02ec
-simpleMeaning: What sellers offer of a thing or a piece of work falls to nothing in a market, even when
-  its price falls by the smallest amount
+simpleMeaning: A market state in which even a tiny fall in the price makes sellers offer none of a good
+  or service.
 scope: What sellers offer when even a tiny fall in price wipes it out, not what buyers want and not a
   small change in what sellers offer.
 examples:
@@ -12,5 +12,5 @@ examples:
 - With perfectly elastic supply, a tiny drop in price left nothing for sale.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1450
-sourceFinalSha256: 14a478e1a9e75964747160daf539836229c04b8c0c523269d933b64510dcc179
-reviewVerdict: first-pass
+sourceFinalSha256: 42d5c026d247d4bee273de314a7eebe7353192c74607f42cb4b9446ef16a6806
+reviewVerdict: second-pass
