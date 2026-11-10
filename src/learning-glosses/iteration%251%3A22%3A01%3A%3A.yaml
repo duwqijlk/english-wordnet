@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'iteration%1:22:01::'
+synsetId: 13525376-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: e2a006f774f0d4c5591ba99dedeffa6966fc40fe837b3ace3e2ed230064556a6
+simpleMeaning: In computer science, one time that a set of steps is run, when the steps are run again
+  and again
+scope: One single run of steps in a program, also called a loop; not the whole act of running the steps
+  again and again.
+examples:
+- Each iteration of the program checks one name on the list.
+- After three iterations, the answer was still wrong.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 523
+sourceFinalSha256: 4175848daf1fff0f5589bddbc5db51dc16fa28bf8259586e2845029bc36aeabb
+reviewVerdict: first-pass

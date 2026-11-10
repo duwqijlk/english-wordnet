@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'megabyte%1:23:00::'
+synsetId: 13649517-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: f995a9ddca528f46c5e2061c064a62e69093d0201872339ffb2ba39a62e7412b
+simpleMeaning: a unit for measuring information in computers, equal to 1024 kibibytes (units of 1024 bytes)
+  or 1,048,576 bytes
+scope: This unit is 1,048,576 bytes, counted with 1024 kibibytes. It is not the other unit with the same
+  name that is 1,000,000 bytes, counted with 1000 kilobytes.
+examples:
+- The program needs 20 megabytes of space, where each unit is 1,048,576 bytes.
+- He saved a photo of two megabytes, using the 1024-kibibyte count.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 594
+sourceFinalSha256: 691eb246df570fed75e8b4231a8563bd1cf76efdc35addd110188ac9fa894c83
+reviewVerdict: first-pass

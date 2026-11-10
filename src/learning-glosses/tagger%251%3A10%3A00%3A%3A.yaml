@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'tagger%1:10:00::'
+synsetId: 06589761-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 6ada1d0aed09ef7b0b9dac48d0e9846fd4102acc928046cd48bb4ee431994c57
+simpleMeaning: a computer program that puts labels on the parts of a text, such as its words, to show
+  what job each part does in grammar
+scope: This is a computer program that labels parts of a text; not the person who does the same labeling
+  job.
+examples:
+- The tagger labeled each noun and verb in the sentence.
+- Our class used a tagger to mark the parts of each text.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 651
+sourceFinalSha256: 797db1a00a92086f7ea0cc8e35de22c3daa424df2f14d4cab37e3c43759ef1e1
+reviewVerdict: first-pass

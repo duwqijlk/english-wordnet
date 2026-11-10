@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'lidar%1:06:00::'
+synsetId: 03666947-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: eeff6706c0c26543c8fd8f2d9dafd4dff39c5f1ec686939ef310df43f3d67aaf
+simpleMeaning: A system that finds where things are, like radar (which finds things with radio waves)
+  but with light from a laser, and may find rough air that can affect planes
+scope: This is the light-based system for finding things and rough air, not radar itself, which uses radio
+  waves.
+examples:
+- The plane uses lidar to check the air ahead of it.
+- Lidar helped the car find things in the dark.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 647
+sourceFinalSha256: e8e33d4e5dd14325bc350bcb946203162b7609e9c3720178873ea8e0bd926fe6
+reviewVerdict: first-pass

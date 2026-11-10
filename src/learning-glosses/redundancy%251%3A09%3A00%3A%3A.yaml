@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'redundancy%1:09:00::'
+synsetId: 05738108-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 9a5f158474c39056a0a50931276df2e029ab115538c425fe0416ed4f5f01865e
+simpleMeaning: In electronics, a way of building a system with extra copies of parts, so another part
+  can take over if one part stops working
+scope: In electronics, this is a back-up plan built into a system; it is not sending the same message
+  again to cut errors, and not the state of being more than is needed.
+examples:
+- The plane's computers have redundancy, so a second computer takes over if the first fails.
+- Engineers built redundancy into the power system to keep it running.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 537
+sourceFinalSha256: 5fd7765ceabfb1f659cfd250a0580a9af397404f4beb236c75a6f1b64789292b
+reviewVerdict: first-pass
