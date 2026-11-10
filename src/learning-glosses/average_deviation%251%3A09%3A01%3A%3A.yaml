@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'average_deviation%1:09:01::'
+synsetId: 92436720-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 57f79da7f30f19f3fe2fd5d4b297a3c581915f83c3ee408bd7a3847bd408a1ff
+simpleMeaning: A mean worked out from the gaps between each number and the middle value of the set, saying
+  how spread out the set is.
+scope: This figure gives the mean size of the gaps from a set's middle value, not the middle value itself,
+  and it is also called average absolute deviation.
+examples:
+- The average deviation of the temperatures was three degrees.
+- They used the average deviation to show how much the readings varied.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 978
+sourceFinalSha256: b26fdd00a54e1a07736877224c85718975058d442c31226969849130a32f5ba6
+reviewVerdict: first-pass

@@ -1,0 +1,17 @@
+schema: oewn-learning-gloss-v1
+senseId: 'residual_standard_deviation%1:09:01::'
+synsetId: 92443349-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 40ef658fe7c610ea20c2124cbf4cc2d8a17c8f2ef0feb5931d82d4a99a275d71
+simpleMeaning: This number judges how close values worked out from a straight line are to the true ones,
+  and how far the points spread from that line.
+scope: It belongs with other measures of spread, but it is the one that deals with points round a straight
+  line and with values worked out from that line.
+examples:
+- A residual standard deviation of 0.35 meant most of the guesses made from the line were close to the
+  true values.
+- When the residual standard deviation grew, the line's guesses moved further from the true values.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1031
+sourceFinalSha256: f62aac24837ed373f5f1c9bd4d013e75bccb6ce160b68b86930685c16827b7f0
+reviewVerdict: first-pass

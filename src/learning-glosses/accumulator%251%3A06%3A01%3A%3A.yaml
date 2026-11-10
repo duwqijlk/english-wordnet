@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'accumulator%1:06:01::'
+synsetId: 02675932-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 0344a9eb9e87bfb73f572b4950e907513b35c9e5a04b475ecda3958dfe417733
+simpleMeaning: In computer science, a part of a machine that keeps a running total, adding each new number
+  to the total it already holds.
+scope: Also called accumulator register, this is a part of a computer that keeps a running total, not
+  a person who collects payments.
+examples:
+- In the old computer, the accumulator kept a running total as numbers came in.
+- Each new number went into the accumulator and was added to the total.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1054
+sourceFinalSha256: 6047dff4756b6b6115310b2c72d991e3b7dcba58956e9d5d3701de76d8ef1b2f
+reviewVerdict: first-pass

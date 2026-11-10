@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'frequency_response%1:07:00::'
+synsetId: 05027185-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 95212104e7e84b1bb1d08e004f8550ce6f9bd090fc52b1ab9406c2a0321793fd
+simpleMeaning: As the rate of the signal goes up or down, a line in electronics shows how much a device
+  gives out for what goes in.
+scope: This is a line that shows what a device gives out against what goes in as the rate changes, not
+  the device itself.
+examples:
+- The frequency response of the speaker fell off at high notes.
+- They drew the frequency response to see how the device behaved at each rate.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 938
+sourceFinalSha256: ee8c2b9457d4d738e7127e791b5003dfb30927424a98410a5c29cca898067964
+reviewVerdict: first-pass

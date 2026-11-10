@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'checksum%1:09:00::'
+synsetId: 05834416-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 3394fc5eb7ae227a085e889c65fb0dd837bc28b727107b027c6f2a41f29da93a
+simpleMeaning: One number that stands for the total of the numbers in a piece of computer data, used to
+  spot mistakes made when the data is sent or kept.
+scope: A number used to spot mistakes in computer data, not a password and not a code that hides the data.
+examples:
+- The program found a wrong checksum and asked for the file again.
+- A checksum lets the computer tell if the data changed in storage.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 889
+sourceFinalSha256: c5da321ecd87d18167fc3bb04b2eb6c6a733fdb3ae4123b1d97944ed895a047f
+reviewVerdict: first-pass

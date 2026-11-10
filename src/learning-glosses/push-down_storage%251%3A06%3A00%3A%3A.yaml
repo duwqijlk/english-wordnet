@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'push-down_storage%1:06:00::'
+synsetId: 04033980-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: b4b19bcca22028de9bf552720fe21a6c6cfdb99a3d066c54f5564786d2ecc113
+simpleMeaning: Data put into this part of a computer comes back out newest first.
+scope: Also called stack and push-down store, this part of a computer hands back what was put in newest
+  first, not oldest first.
+examples:
+- The push-down storage gave back the last number first.
+- With push-down storage, the most recent file comes out before older ones.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1028
+sourceFinalSha256: 7b6d3bc82725cd963f344a954eb3b60d11952bed7842567dae42237e7d471037
+reviewVerdict: first-pass

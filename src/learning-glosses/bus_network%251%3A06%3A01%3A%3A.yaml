@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'bus_network%1:06:01::'
+synsetId: 92436661-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 34da6cdd469bbdf8efc18715f91900acd1e360f16aa4663180953deee3b42aaa
+simpleMeaning: A way of joining stations along one shared line, so every station gets all the messages
+  sent along it.
+scope: This is the name for a set of stations joined along one shared line, each getting all the messages
+  sent along it.
+examples:
+- In a bus network, every station gets all the messages sent along the line.
+- The school's computers were joined in a bus network.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 984
+sourceFinalSha256: a1478dcf6aa76d532cb31ac7e2f230e641f62f4a4dee1044713490a98c583125
+reviewVerdict: first-pass

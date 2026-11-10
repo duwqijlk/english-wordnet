@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'error_correction_code%1:10:00::'
+synsetId: 06368831-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 4c23d4dd72892f084f62acba5518fa19ca157229ef69462f7062bb77ea664839
+simpleMeaning: In telecommunication, extra bits, small pieces of data, are added to messages by this set
+  of rules so mistakes can be found.
+scope: This telecommunication system works by adding extra bits to messages so mistakes can be found.
+examples:
+- The error correction code found the mistake in the message.
+- They use an error correction code to check the data.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 997
+sourceFinalSha256: da33703da790d02b59bb47802497058ab0a7e35022667cf7c0f567880dbd66e5
+reviewVerdict: first-pass

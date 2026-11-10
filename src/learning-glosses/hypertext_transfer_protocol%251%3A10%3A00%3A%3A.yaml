@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'hypertext_transfer_protocol%1:10:00::'
+synsetId: 06678592-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 9a5b683eddd01183331cab091ce2d637916db3111d572f07f206f87638a1819a
+simpleMeaning: Requests and pieces of writing move between servers and browsers under this set of rules,
+  using TCP, a set of rules for sending data.
+scope: This set of rules moves requests and pieces of writing between servers and browsers.
+examples:
+- A browser used the hypertext transfer protocol to ask the server for a page.
+- The server answered through the hypertext transfer protocol.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1007
+sourceFinalSha256: 78ec278b6b52ff6dcc1f97a5a7cef1fb886e80be46972bf98c71bf01ade2f445
+reviewVerdict: first-pass

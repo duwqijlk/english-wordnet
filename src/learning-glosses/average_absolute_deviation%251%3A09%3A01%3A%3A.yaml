@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'average_absolute_deviation%1:09:01::'
+synsetId: 92436720-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 57f79da7f30f19f3fe2fd5d4b297a3c581915f83c3ee408bd7a3847bd408a1ff
+simpleMeaning: 'How much a set of numbers spreads out: take how far each number sits from the middle value,
+  and take the mean of those gaps.'
+scope: It is a single figure for the spread of a set of numbers, not for where its middle value lies,
+  and it is also called average deviation.
+examples:
+- The average absolute deviation of the scores was small, so they lay close together.
+- She worked out the average absolute deviation to see how spread out the test results were.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 978
+sourceFinalSha256: b26fdd00a54e1a07736877224c85718975058d442c31226969849130a32f5ba6
+reviewVerdict: first-pass

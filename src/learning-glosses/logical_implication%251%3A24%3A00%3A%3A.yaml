@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'logical_implication%1:24:00::'
+synsetId: 13882478-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 0f832f66227a6fe653da448b3fb2b013a5718c89455f847ecf6cf1450a9cb11d
+simpleMeaning: 'In logic, a link between two claims of the form ''if p then q'': when the first claim
+  is true, the second cannot be false'
+scope: A link in logic between two claims, also called implication and conditional relation, not a guess
+  and not a cause-and-effect link in the real world.
+examples:
+- In logical implication, if p is true then q cannot be false.
+- The book uses logical implication to show that one claim follows from another.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 871
+sourceFinalSha256: 767b2b9c2bc43f585de7c85c16d86c29dfa521c5e0f44e686bd39fd31e60f1de
+reviewVerdict: first-pass

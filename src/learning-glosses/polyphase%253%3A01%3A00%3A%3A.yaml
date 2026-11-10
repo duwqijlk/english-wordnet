@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'polyphase%3:01:00::'
+synsetId: 02899599-a
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 73c9df5db04a8c5415251effb2290e8f081f71ab24320725e1f5aab15efc654c
+simpleMeaning: Of a power system whose two or more switching voltages share one rate but differ in timing,
+  whether it uses them or makes them
+scope: Also called multiphase, this describes a power system with two or more switching voltages of one
+  rate but different timing, not a system with a single steady voltage.
+examples:
+- The polyphase system used two voltages of one rate but different timing.
+- A polyphase supply makes two or more switching voltages.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 956
+sourceFinalSha256: 697c31df3e0f0daa2ef9db500d42cdeb0b0ffeb1d9880d00ae21c189ce599337
+reviewVerdict: first-pass

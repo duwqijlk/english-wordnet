@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'en_passant%1:04:00::'
+synsetId: 00167686-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 0c19ae7e93d6b6d12f39d658b053327fbd7b4a7e2e9b492a7ee09496c8978a9e
+simpleMeaning: In chess, a pawn of the other side that guards the square a pawn jumped over can catch
+  it there, even though it has moved two squares.
+scope: In chess, this is a capture on the square a pawn passed, not a capture on the square where the
+  pawn now stands.
+examples:
+- He took the pawn en passant after it moved two squares.
+- En passant let her take the pawn that had moved two squares.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 935
+sourceFinalSha256: eebc1b054bd1a22883f85c51b06da6b846ee945b1128ee4d3a6892887154a7d4
+reviewVerdict: first-pass

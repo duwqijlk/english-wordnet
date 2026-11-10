@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'zenerdiode%1:06:01::'
+synsetId: 92449997-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: c5e2d7f1eca74188b954c8ae49fe6fda9a850a12383058344f172865ad382f19
+simpleMeaning: when the backward voltage hits one set point, current flowing backwards through this diode
+  made of semiconductor material jumps all at once, which keeps voltage steady
+scope: 'Also called stabilitron: a diode that keeps voltage steady, not a diode that only lets current
+  flow one way and not a battery.'
+examples:
+- The zenerdiode in the circuit keeps the voltage steady.
+- A zenerdiode lets current jump backwards at one set voltage.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 883
+sourceFinalSha256: 970d7d906666f59a3829bbcbb5956b733364d1bbfa7a2f3584098b097b0f158c
+reviewVerdict: first-pass
