@@ -53,7 +53,7 @@ python -I -X utf8 local-resources/oewn-2025-upstream-clone/scripts/check_learnin
 
 The checker validates structure and source identity, not meaning or reviewer identity. Editorial review is separate. Compare catalog, emitted YAML and Git-tree sense-ID/path sets before publishing: ignore patterns can hide a file.
 
-SQLite is an optional derived query/offline artifact, not the editing source and not required for each batch. The builder discovers current YAML; it does not need updated pilot-manifest hashes. Build only when a deliverable is needed. Old readers may retain a deprecated empty hash-named compatibility column; it is not an active verification mechanism.
+SQLite is an optional derived query/offline artifact, not the editing source and not required for each batch. Each build records both the upstream `sourceCommit` and our `learningCommit` centrally in database metadata and its report. Builds require committed, clean source/gloss/config/tool paths and recheck that state before publishing the output; commit changes first rather than labeling dirty content with an unrelated commit. The builder discovers current YAML; it does not need updated pilot-manifest hashes. Build only when a deliverable is needed. Old readers may retain a deprecated empty hash-named compatibility column; it is not an active verification mechanism.
 
 ## A later source release
 

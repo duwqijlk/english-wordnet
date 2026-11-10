@@ -120,7 +120,16 @@ class FormatTests(unittest.TestCase):
         self.assertEqual(result['status'], 'ok')
         self.assertFalse(any('sha' in key.casefold() for key in result))
 
+    def commit_learning_fixture(self):
+        git(self.repo, 'add', '--', 'LEARNING_SOURCE.json', 'src/learning-glosses')
+        tree = git(self.repo, 'write-tree')
+        commit = git(self.repo, '-c', 'user.name=Fixture', '-c', 'user.email=fixture@example.invalid',
+                     'commit-tree', tree, '-p', self.commit, data=b'Learning fixture\n')
+        git(self.repo, 'update-ref', 'HEAD', commit)
+        return commit
+
     def test_sql_layout_and_runtime_queries_without_hashing(self):
+        learning_commit = self.commit_learning_fixture()
         out = Path(self.tempdir.name) / 'tiny.sqlite'
         with patch.object(hashlib, 'sha256', side_effect=AssertionError('v2 must not hash')):
             result = builder.build(self.repo, out)
@@ -133,6 +142,9 @@ class FormatTests(unittest.TestCase):
             self.assertEqual(db.execute('SELECT count(*) FROM notices WHERE sha256 = ? ', ('',)).fetchone()[0], 2)
             metadata = dict(db.execute('SELECT * FROM metadata'))
             self.assertEqual(metadata['sourceCommit'], self.commit)
+            self.assertEqual(metadata['learningCommit'], learning_commit)
+            self.assertEqual(result['learningCommit'], learning_commit)
+            self.assertEqual(metadata['learningWorkingTree'], 'clean')
             self.assertEqual(metadata['recordSchema'], fmt.V2)
             self.assertFalse(any('sha' in key.casefold() for key in metadata))
             rows = db.execute('''SELECT s.sense_id,s.original_meaning,o.simple_meaning
@@ -183,6 +195,7 @@ class FormatTests(unittest.TestCase):
             write_yaml(path, dict(self.record, senseId=sid))
             self.assertNotIn('/', path.name)
             self.assertNotIn('\\', path.name)
+        self.commit_learning_fixture()
         with patch.object(hashlib, 'sha256', side_effect=AssertionError('v2 must not hash')):
             self.assertEqual(checker.check(self.repo)['learningGlosses'], 4)
             out = Path(self.tempdir.name) / 'separator-ids.sqlite'
@@ -290,6 +303,7 @@ class FormatTests(unittest.TestCase):
 
     def test_missing_pilot_record_rejected_by_checker_and_builder(self):
         self.path.unlink()
+        self.commit_learning_fixture()
         with self.assertRaisesRegex(ValueError, 'Previously imported gloss missing'):
             checker.check(self.repo)
         out = Path(self.tempdir.name) / 'missing.sqlite'
@@ -323,6 +337,7 @@ class FormatTests(unittest.TestCase):
         write_yaml(self.path, row)
         self.assertEqual(checker.check(self.repo)['recordSchema'], fmt.V1)
         out = Path(self.tempdir.name) / 'legacy.sqlite'
+        self.commit_learning_fixture()
         self.assertEqual(builder.build(self.repo, out)['learningGlosses'], 1)
         row['sourceDefinitionSha256'] = '0' * 64
         write_yaml(self.path, row)
@@ -336,7 +351,37 @@ class FormatTests(unittest.TestCase):
             builder.build(self.repo, out)
         self.assertFalse(out.exists())
 
+    def test_sql_requires_clean_committed_learning_version(self):
+        out = Path(self.tempdir.name) / 'dirty.sqlite'
+        with self.assertRaises(ValueError):
+            builder.build(self.repo, out)
+        first = self.commit_learning_fixture()
+        write_yaml(self.path, dict(self.record, scope='A changed scope.'))
+        with self.assertRaisesRegex(ValueError, 'Commit dictionary'):
+            builder.build(self.repo, out)
+        second = self.commit_learning_fixture()
+        self.assertNotEqual(first, second)
+        result = builder.build(self.repo, out)
+        self.assertEqual(result['learningCommit'], second)
+        self.assertEqual(result['learningWorkingTree'], 'clean')
+
+    def test_release_ignores_generated_bytecode_but_not_tools(self):
+        scripts = self.repo / 'scripts'
+        scripts.mkdir()
+        (scripts / 'tool.py').write_text('print(1)\n')
+        (self.repo / '.gitignore').write_text('__pycache__/\n*.pyc\n')
+        git(self.repo, 'add', '--', 'scripts', '.gitignore')
+        commit = self.commit_learning_fixture()
+        cache = scripts / '__pycache__'
+        cache.mkdir()
+        (cache / 'helper.pyc').write_bytes(b'generated')
+        self.assertEqual(builder.learning_version(self.repo), commit)
+        (scripts / 'tool.py').write_text('print(2)\n')
+        with self.assertRaisesRegex(ValueError, 'Commit dictionary'):
+            builder.learning_version(self.repo)
+
     def test_isolated_cli_entrypoints(self):
+        self.commit_learning_fixture()
         out = Path(self.tempdir.name) / 'cli.sqlite'
         report = out.with_suffix('.json')
         # Exercise command-line imports under -I. The tiny manifest is rejected,

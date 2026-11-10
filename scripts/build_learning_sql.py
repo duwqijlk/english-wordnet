@@ -27,12 +27,34 @@ def norm(value):
     return value.replace('­', '').replace('’', "'").casefold()
 
 
+def learning_version(repo):
+    """Build releases only from a committed, clean dictionary/tool snapshot."""
+    commit = fmt.git(repo, 'rev-parse', '--verify', 'HEAD^{commit}').decode().strip()
+    paths = ('LEARNING_SOURCE.json', 'src/yaml', 'src/learning-glosses',
+             'LICENSE.md', 'WNDB_License.txt', 'scripts')
+    status = fmt.git(repo, 'status', '--porcelain', '-z', '--untracked-files=all',
+                     '--ignored=matching', '--', *paths)
+    dirty = []
+    for entry in status.split(b'\x00'):
+        if not entry:
+            continue
+        name = entry[3:].decode('utf8', 'replace')
+        generated = (entry[:2] in (b'!!', b'??') and name.startswith('scripts/')
+                     and ('__pycache__' in Path(name).parts or name.endswith('.pyc')))
+        if not generated:
+            dirty.append(entry)
+    if dirty:
+        raise ValueError('Commit dictionary/source/tool changes before building a release')
+    return commit
+
+
 def build(repo, out):
     repo = Path(repo).resolve()
     out = Path(out)
     if out.exists() or out.is_symlink() or not out.parent.is_dir():
         raise FileExistsError('Output exists or parent missing')
     config, paths, notices = fmt.verify_source(repo)
+    learning_commit = learning_version(repo)
     synsets, entries, source_senses = fmt.source_index(paths)
     records = fmt.learning_records(repo / 'src/learning-glosses', source_senses, synsets, config['recordSchema'])
     senses, forms = {}, {}
@@ -55,6 +77,7 @@ def build(repo, out):
                 ('sourceSnapshotVerified', 'true'), ('studentValidated', 'false')]
     if config.get('sourceTag'):
         metadata.append(('sourceTag', config['sourceTag']))
+    metadata.extend([('learningCommit', learning_commit), ('learningWorkingTree', 'clean')])
     fd, temp = tempfile.mkstemp(prefix='.yaml-dictionary-', suffix='.tmp', dir=out.parent)
     os.close(fd)
     try:
@@ -84,10 +107,13 @@ def build(repo, out):
                 raise ValueError('SQLite integrity/foreign key check failed')
         finally:
             db.close()
+        if learning_version(repo) != learning_commit:
+            raise ValueError('Dictionary commit changed during build')
         os.link(temp, out)
     finally:
         Path(temp).unlink(missing_ok=True)
-    return {'sourceCommit': config['sourceCommit'], 'recordSchema': config['recordSchema'],
+    return {'sourceCommit': config['sourceCommit'], 'learningCommit': learning_commit,
+            'learningWorkingTree': 'clean', 'recordSchema': config['recordSchema'],
             'sourceFiles': len(paths), 'synsets': len(synsets), 'lemmas': len(entries),
             'senses': len(senses), 'formLinks': len(forms), 'learningGlosses': len(overlays),
             'sqliteBytes': out.stat().st_size, 'sourceSnapshotVerified': True, 'status': 'ok',
