@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'majority_operation%1:22:00::'
+synsetId: 13531841-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 15c6dabb5e98c2871702f2c33f5d6a15450022d9292fe18429d9954d05594371
+simpleMeaning: A cut-off rule takes numbers that are 0 or 1, and gives 1 as the answer exactly when more
+  than half of the numbers put in are 1
+scope: This is a cut-off rule for numbers that are 0 or 1, not a vote by a group of people and not a plain
+  sum of the numbers put in.
+examples:
+- A majority operation gives 1 when most of the inputs are 1.
+- The circuit uses a majority operation to decide the output.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1427
+sourceFinalSha256: 7a0764f6cb9553423f8a63f20210614fe1fbd60b7f2d2ea5122c4bcadeaaed1b
+reviewVerdict: first-pass

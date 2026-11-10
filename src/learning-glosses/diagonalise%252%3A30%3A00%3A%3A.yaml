@@ -1,0 +1,17 @@
+schema: oewn-learning-gloss-v1
+senseId: 'diagonalise%2:30:00::'
+synsetId: 00522954-v
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 985fbd7a24458f241f5a35b5b66890602b6b365f327cee9b4ef34c94510e43ab
+simpleMeaning: to turn a grid of numbers into one with zeros everywhere except on the corner-to-corner
+  line
+scope: To turn a grid of numbers into one with zeros everywhere except on the corner-to-corner line, also
+  called diagonalize; not to work with a grid that already has that form and not to turn a grid on its
+  side.
+examples:
+- The teacher showed how to diagonalise the matrix in three steps.
+- We diagonalise the matrix before we work out its values.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1369
+sourceFinalSha256: af5d197d3aaf730e00cd1be18936a4c9a0d2bd2ca58ea14e065ce6d341ac20d1
+reviewVerdict: first-pass

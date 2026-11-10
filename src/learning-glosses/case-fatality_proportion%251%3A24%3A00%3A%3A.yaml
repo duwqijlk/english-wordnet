@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'case-fatality_proportion%1:24:00::'
+synsetId: 13838283-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 975ea6d2c59c56ae3a2fdc249415256c94ffaf6955c420f11b65c17791516ae3
+simpleMeaning: the share of people with a disease who die from it, most often shown as a number out of
+  a hundred or out of a thousand
+scope: A way to count how deadly a disease is from the number of people who die from it, not the total
+  number of people who catch it and not the number of deaths in a place.
+examples:
+- The case-fatality proportion for the disease was 2 out of every 100 cases.
+- Doctors used the case-fatality proportion to see how deadly the new disease was.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1346
+sourceFinalSha256: 9b36fc2a2af6cfc456fde5fa01416427b73608539a5ae6055ae118c7e945b9ce
+reviewVerdict: first-pass

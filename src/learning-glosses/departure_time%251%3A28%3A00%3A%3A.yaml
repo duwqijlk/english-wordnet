@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'departure_time%1:28:00::'
+synsetId: 15205929-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: c02da80c06f94f088f3fc32d4cb65cbed938e94738aea4a765d7671da9a4c60f
+simpleMeaning: the hour when a bus, train, plane or boat that anyone can use is meant to leave the place
+  where its trip starts
+scope: This is the hour when shared travel is meant to leave the place where its trip starts, not the
+  hour when it is meant to arrive and not the hour when a trip ends.
+examples:
+- The departure time for the morning train is 8:15.
+- Please check the departure time before you leave home.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1367
+sourceFinalSha256: ed86f76c6d4d64974a8e31c19ea6e30ca2c27ab2bd7e5897dca0478a192adaca
+reviewVerdict: first-pass

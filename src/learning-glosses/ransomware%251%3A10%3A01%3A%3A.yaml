@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'ransomware%1:10:01::'
+synsetId: 90009981-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 065350c5580f99d877a01eff48d94307e9224e9483e8347398b4b184acf26fcf
+simpleMeaning: A harmful program that stops a computer from being used until money is paid to the person
+  who did it
+scope: This is a program that blocks a computer until money is paid, not a program that merely shows ads
+  and not a fault in the machine.
+examples:
+- Ransomware locked the whole office network until the firm paid.
+- The hospital's computers were hit by ransomware and staff could not open any files.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1465
+sourceFinalSha256: a06aedab73b471ecda210f0981cf5ca437b948f91e9e9203e9fc9d0fd7a44a38
+reviewVerdict: first-pass

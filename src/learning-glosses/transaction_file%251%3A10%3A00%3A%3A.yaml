@@ -1,0 +1,17 @@
+schema: oewn-learning-gloss-v1
+senseId: 'transaction_file%1:10:00::'
+synsetId: 06522262-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: fa63f551ad33918d68f6d04c9c3f55e5d26abca75a879c642434f8c279578fcc
+simpleMeaning: In computer science, a set of computer records holding short-lived facts about one job
+  of working with data
+scope: In computer science, a set of records holding short-lived facts about one job of working with data;
+  detail file is another name for this sense. Not a file that keeps facts for a long time and not the
+  program that does the work.
+examples:
+- The transaction file was cleared after the day's orders were done.
+- Each transaction file holds the facts for one batch of work.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1302
+sourceFinalSha256: d912f3a117cf2b48c5cbbad3bbe7bce9d251fb63fcf043185a3ee99d7559a208
+reviewVerdict: first-pass

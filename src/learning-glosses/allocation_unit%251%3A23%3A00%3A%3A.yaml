@@ -1,0 +1,14 @@
+schema: oewn-learning-gloss-v1
+senseId: 'allocation_unit%1:23:00::'
+synsetId: 13648413-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: b68ed49dfc7e8f7a8fa867c96e776639c01e18391f6188ca2c98c103f0587de0
+simpleMeaning: a set of small storage spaces on a magnetic disk that can be kept for one file to use
+scope: A set of disk spaces kept for one file, not the whole disk and not a single file.
+examples:
+- The allocation unit was too big for such a small file.
+- Each allocation unit on the disk holds part of one file.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1319
+sourceFinalSha256: f7b8e1099919ac715d0a04fb6df727ad1b2f27fb748b103171fae97c988e4a19
+reviewVerdict: first-pass

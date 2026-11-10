@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'composite_number%1:23:00::'
+synsetId: 13615660-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 0dc8e8b65cbb91a816f9334aa3258311f15f80f7e3f5b1beb509e7fbf7e2fa11
+simpleMeaning: a whole value that can be split into equal parts by a whole value bigger than 1 and smaller
+  than itself
+scope: A whole number that can be split into equal parts by a smaller whole number; not a prime number
+  and not a number that cannot be split evenly.
+examples:
+- Twelve is a composite number because 3 and 4 go into it with nothing left over.
+- Six is a composite number, since 2 goes into it with nothing left over.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1356
+sourceFinalSha256: 2f8da85ab72127e01d4342e8fc9712a88818ea9dceef4b2017636b30cc3a77e8
+reviewVerdict: first-pass

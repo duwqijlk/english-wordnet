@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'push-down_queue%1:10:00::'
+synsetId: 06514045-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: aee1342014666e94245d44234f32660a5d426d23bda3259d3d75da3583102bf3
+simpleMeaning: In this waiting line, the last thing to go in is the first thing to come out, last in,
+  first out
+scope: A waiting line where the last thing in is the first thing out, not an ordinary line where the first
+  thing in is taken first.
+examples:
+- The push-down queue sent out the newest job first.
+- Items left the push-down queue in the reverse order they went in.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1463
+sourceFinalSha256: 854c284b592f598497d1daec0af2c34711fdc538dad33f08eeef7ea7eefec0f3
+reviewVerdict: first-pass

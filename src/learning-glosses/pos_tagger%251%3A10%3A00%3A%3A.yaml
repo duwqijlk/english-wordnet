@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'pos_tagger%1:10:00::'
+synsetId: 06590092-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 722d32f508ecde1fea226407d6bf8fc6634094a0b9930a4d605de6ba2820d1dc
+simpleMeaning: Each word gets marked with its kind, such as noun or verb, by this computer program
+scope: 'Also called part-of-speech tagger: a program that marks each word with its kind, not a program
+  that checks spelling and not a list of words.'
+examples:
+- The pos tagger marked every word in the sentence with its part of speech.
+- We ran the text through a pos tagger to find all the verbs.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1457
+sourceFinalSha256: 14aaf02134571366caaad6ec19be0866d951582f8792883b33f662eac268bdd1
+reviewVerdict: first-pass

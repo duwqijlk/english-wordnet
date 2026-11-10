@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'supervisor_call_instruction%1:10:00::'
+synsetId: 06599393-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: b28d46d4928c38e6d3757792790e3af365891fde6d952c080ce04f1e820345d4
+simpleMeaning: In computing, a command that stops the work now running and hands control to the main program
+  that runs the machine
+scope: This is a computing command that stops the work now running and hands control to the main program,
+  also called a system call, not a normal step in a program and not a call for help from a person.
+examples:
+- A supervisor call instruction stopped the program and handed control to the main program.
+- When the code hit a supervisor call instruction, the main program took over.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1294
+sourceFinalSha256: de8a7a0f8c8d063985ea792d1841132647ef9769c9a85ff4649f626d20970e38
+reviewVerdict: first-pass

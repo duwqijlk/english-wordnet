@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'sense_tagger%1:10:00::'
+synsetId: 06589957-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: fad866c8094f674a1dbd54cd8dd987e3b501383491dfa57840e8769e8fc2ddca
+simpleMeaning: a program that puts labels on words or phrases to show what they mean
+scope: This is a program that marks words with their meanings; not a person who marks words and not a
+  program that checks spelling.
+examples:
+- The sense tagger marked each word in the text with its meaning.
+- We ran the sense tagger over the book to label every word.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1282
+sourceFinalSha256: f2cb2d53fd21a99e4b561792eeb6fa126ee8764ae3c081b4fbefe7b5e96f7507
+reviewVerdict: first-pass

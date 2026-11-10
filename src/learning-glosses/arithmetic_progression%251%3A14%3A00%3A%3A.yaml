@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'arithmetic_progression%1:14:00::'
+synsetId: 08477935-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 0ced8e53974ca1539f9fc42ea87387981ddfa5c409e2924120bf517997c9d951
+simpleMeaning: In maths, a list of numbers in which the same number is added each time to get the next
+  number
+scope: A run of numbers that grows by the same step each time, not a run that grows by the same times
+  each time and not a plain list of numbers.
+examples:
+- 1, 4, 7, 10, 13 is the start of an arithmetic progression.
+- Each step in the arithmetic progression adds 3 to the last number.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1324
+sourceFinalSha256: 61f732dbaf6e8c371ecb1bf7010d89ea6644202223406d1b209608c0196b11a3
+reviewVerdict: first-pass

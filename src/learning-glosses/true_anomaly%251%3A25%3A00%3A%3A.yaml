@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'true_anomaly%1:25:00::'
+synsetId: 13911759-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 10ec3de9226e1863eefc8988ece9ec798394ea1cec57dee1012d39709dae86ef
+simpleMeaning: the angle of a point in its path round a star or planet, past the point nearest to that
+  star or planet, counted in degrees
+scope: This is an angle that tells how far a body has moved past the nearest point in its path, not the
+  path itself and not the distance in miles.
+examples:
+- The true anomaly told them how far the comet had moved past its nearest point.
+- They worked out the true anomaly of the satellite from its orbit.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1303
+sourceFinalSha256: fe78fef3f9ed55a2f9af6b3fdccc49c461bf30638670b5e1d947450ae7b7245f
+reviewVerdict: first-pass

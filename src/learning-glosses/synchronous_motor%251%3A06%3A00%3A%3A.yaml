@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'synchronous_motor%1:06:00::'
+synsetId: 04382702-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: dfc483806d29a1009d161ff30fa0011908dd2b3dbc212a2ee43fdc170e7ba30a
+simpleMeaning: an electric machine whose turning speed rises and falls with the rate of the alternating
+  current that powers it
+scope: An electric machine whose turning speed matches the rate of the power that drives it; not an ordinary
+  motor whose speed does not follow the power rate and not a power source itself.
+examples:
+- The factory uses a synchronous motor to keep the conveyor at a steady speed.
+- A synchronous motor runs faster when the power rate rises.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1296
+sourceFinalSha256: 79dd2f28b3d875b5a2910b1da13b631149d47a2172fc5aefccaae71ea8da2548
+reviewVerdict: first-pass
