@@ -3,8 +3,7 @@ senseId: 'magnetic_field_strength%1:07:00::'
 synsetId: 05107787-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: c1fce59033d21d708d8d1e6927cd03e8203e22f9bd099df245b170726d53b543
-simpleMeaning: What this counts is the pull from a magnet that passes straight across the way it moves,
-  through one small flat bit of space
+simpleMeaning: A measure of how much magnetic flow crosses one unit of area at a right angle to its direction.
 scope: Also called magnetic flux density, magnetic induction and magnetic intensity, this is how much
   pull from a magnet passes through a small flat bit of space, not the pull itself and not the act of
   making a thing pull.
@@ -13,5 +12,5 @@ examples:
 - They measured the magnetic field strength across the coil.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1426
-sourceFinalSha256: 38bd458d6b0c6c2a2fdfe1b93bb24635db4bd31b00381f4710576193b813daa0
-reviewVerdict: first-pass
+sourceFinalSha256: 7befb4858eb6f56c3c8f00a179a2c28c258f5f4abad50017791b1e77da98f28f
+reviewVerdict: second-pass

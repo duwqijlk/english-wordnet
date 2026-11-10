@@ -3,7 +3,7 @@ senseId: 'positioner%1:06:01::'
 synsetId: 92461104-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 36efb92ff14700b7d2ce4f299aaf884d338264836941b043defe50f074575bf0
-simpleMeaning: When a signal comes by wire or by air, this tool makes a moving part open or shut
+simpleMeaning: A device that opens or shuts a moving part in response to electric or air signals.
 scope: A tool that opens or shuts a moving part on a signal by wire or by air, not the moving part itself
   and not a switch worked by hand.
 examples:
@@ -11,5 +11,5 @@ examples:
 - A faulty positioner left the gate half shut.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1457
-sourceFinalSha256: 14aaf02134571366caaad6ec19be0866d951582f8792883b33f662eac268bdd1
-reviewVerdict: first-pass
+sourceFinalSha256: 4281781b923ab5fe1ded6cc074a6df8c8ee3583f4321cd776c188961d98c2e11
+reviewVerdict: second-pass

@@ -3,7 +3,7 @@ senseId: 'machmeter%1:06:00::'
 synsetId: 03708121-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 729e8026a26f473f42f203779ea0ccd54895288556ea4a1e01a9c93775da95fb
-simpleMeaning: When set against the speed of sound, a gauge shows how fast a plane flies
+simpleMeaning: A gauge that shows how fast an aircraft flies compared with the speed of sound.
 scope: A gauge for a plane's speed set against the speed of sound, not a car's speed gauge and not a measure
   of height.
 examples:
@@ -11,5 +11,5 @@ examples:
 - A faulty machmeter gave the wrong reading during the test flight.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1426
-sourceFinalSha256: 38bd458d6b0c6c2a2fdfe1b93bb24635db4bd31b00381f4710576193b813daa0
-reviewVerdict: first-pass
+sourceFinalSha256: 7befb4858eb6f56c3c8f00a179a2c28c258f5f4abad50017791b1e77da98f28f
+reviewVerdict: second-pass
