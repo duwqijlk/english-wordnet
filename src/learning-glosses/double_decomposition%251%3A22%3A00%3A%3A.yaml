@@ -3,8 +3,8 @@ senseId: 'double_decomposition%1:22:00::'
 synsetId: 13490269-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: e4046e5831d698aa7c535ff2acbe50628359f8cf48b4f872f10c6f1a158b9bd9
-simpleMeaning: When two compounds, chemicals made of joined parts, meet, each gives a part to the other,
-  so two new compounds form (AB+CD=AD+CB).
+simpleMeaning: A chemical reaction between two compounds in which parts of each are swapped to form two
+  new compounds (AB+CD=AD+CB).
 scope: This chemical reaction, also called double decomposition reaction and metathesis, swaps parts between
   two compounds to make two new compounds.
 examples:
@@ -12,5 +12,5 @@ examples:
 - We wrote the double decomposition as AB+CD=AD+CB.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 995
-sourceFinalSha256: adb0d9578bc15f816af81b6e704fbf98a21ba8d5b7c7ecf1e8825b80a3e10b62
-reviewVerdict: first-pass
+sourceFinalSha256: f0a3c64b2c1ed5c9ed357f02c78f0952e5890b1d50caae4a384e023e921d6c26
+reviewVerdict: second-pass

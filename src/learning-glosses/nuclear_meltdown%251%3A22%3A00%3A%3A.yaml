@@ -3,14 +3,14 @@ senseId: 'nuclear_meltdown%1:22:00::'
 synsetId: 13534565-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: ad3877fc2fa5f024f97f8f77828a36272b6466d1dfa7689c48e35601d458ba64
-simpleMeaning: When the middle of a power station that runs on atoms grows far too hot, it turns to liquid
-  and rays escape.
-scope: Also called a meltdown, it is what happens when the middle of a power station that runs on atoms
-  grows far too hot and turns to liquid, letting rays escape.
+simpleMeaning: Severe overheating of a nuclear reactor core, causing the core to melt and radiation to
+  escape.
+scope: Also called a meltdown; the reactor core becomes severely overheated, melts, and lets radiation
+  escape.
 examples:
 - The nuclear meltdown began when the middle of the reactor grew too hot.
 - After the nuclear meltdown, rays escaped from the power station.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1020
-sourceFinalSha256: 20711922e36da26a061461efdde10eda6820b695ed40c31420dc3a83f47c857d
-reviewVerdict: first-pass
+sourceFinalSha256: 3af51489617ba2d8cf3ef59e0fab1756dfe952813e131284718ca574a679a110
+reviewVerdict: second-pass

@@ -3,8 +3,7 @@ senseId: 'ammonium_salt%1:27:01::'
 synsetId: 92463426-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: a888a1ab336927ea7c85ee97f0f000b1de61fd529b38b3077fda4216b0b6d5b3
-simpleMeaning: When an acid meets a base formed from ammonia and water, the compound made holds the charged
-  NH4 bit.
+simpleMeaning: Any salt containing the NH4+ ion, formed when an acid neutralizes ammonium hydroxide
 scope: This compound holds the charged NH4 bit and is made when an acid meets an ammonia-water base; it
   is not the charged bit on its own.
 examples:
@@ -12,5 +11,5 @@ examples:
 - The ammonium salt held the charged bit.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 921
-sourceFinalSha256: 58c9aa2f4b1db5b95a3f88a2a2b5276d3ebe940e984782fedf0bfff7b9bd5afc
-reviewVerdict: first-pass
+sourceFinalSha256: 3608d1ac49942b7c843a9b546fee8dac677879fe4e3639ab6e2d2628ac5dadb9
+reviewVerdict: second-pass

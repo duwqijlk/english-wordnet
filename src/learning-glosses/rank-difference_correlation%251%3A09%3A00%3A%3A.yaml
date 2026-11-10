@@ -3,15 +3,14 @@ senseId: 'rank-difference_correlation%1:09:00::'
 synsetId: 06043831-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: e8325ffb3d242df80483a75990b441e3c38d7f7fbe2cb8537ba773e7653f132d
-simpleMeaning: When two sets of marks are put in order first, this is the way most often used to find
-  how closely they move together.
-scope: It is also called a rank-difference correlation coefficient, a rank-order correlation, or a rank-order
-  correlation coefficient, and it is the way most often used to find how closely two sets of marks move
-  together.
+simpleMeaning: The most commonly used method of computing a correlation coefficient between the ranks
+  of scores on two variables.
+scope: Also called rank-difference correlation coefficient, rank-order correlation, or rank-order correlation
+  coefficient.
 examples:
 - The rank-difference correlation showed the two tests moved together.
 - They used rank-difference correlation to compare the two sets of marks.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1029
-sourceFinalSha256: cc7f8b6e59c1f72133e8c54a1ccc13569781a40af8d820459f2e451bfdf39809
-reviewVerdict: first-pass
+sourceFinalSha256: d9318da09f46bf81f119dc90d18c620aa067caf30d35887c23fa7e0132dce480
+reviewVerdict: second-pass

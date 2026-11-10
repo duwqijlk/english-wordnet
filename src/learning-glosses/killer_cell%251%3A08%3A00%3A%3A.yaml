@@ -3,13 +3,13 @@ senseId: 'killer_cell%1:08:00::'
 synsetId: 05460092-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 4e18485cd4ebdf5267bb3e7766277401661079b2f449e7a7f0055ef39e32957b
-simpleMeaning: When a cell is hit by a virus, this white blood cell fastens on and kills it, after spotting
-  germ markers on it with a marker called CD8.
+simpleMeaning: A T cell with a CD8 receptor that recognizes antigens on a virus-infected cell, binds to
+  it, and kills it.
 scope: A white blood cell that finds and kills a cell hit by a virus.
 examples:
 - The killer cell bound to the infected cell and killed it.
 - Killer cells hunt down cells carrying a virus.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 900
-sourceFinalSha256: 0bd1cbf2dd2d8e2c659e37a1488d5df770dbc9828bcb6324f22e9e62af2300a4
-reviewVerdict: first-pass
+sourceFinalSha256: 336c89b411f30e2b856b4c70fe23ad51888584d47d286cb130ff7f679bc2bc36
+reviewVerdict: second-pass

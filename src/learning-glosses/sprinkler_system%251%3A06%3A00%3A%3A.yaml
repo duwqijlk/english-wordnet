@@ -3,8 +3,8 @@ senseId: 'sprinkler_system%1:06:00::'
 synsetId: 04296333-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: b12dd4ce47495f5bab5f65d042c63525698cfb0b835339afc846aa5fa837ead6
-simpleMeaning: When a fire starts, the heat opens small openings in pipes overhead by itself, and the
-  water that comes out puts the fire out.
+simpleMeaning: A system for putting out fires, releasing water from overhead pipes through nozzles that
+  open automatically as the temperature rises.
 scope: 'No one has to turn this on by hand: when the heat rises, small openings in overhead pipes let
   water out on their own to put out a fire.'
 examples:
@@ -12,5 +12,5 @@ examples:
 - The new hall has a sprinkler system overhead.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1039
-sourceFinalSha256: 137acbae9bd4d3a76cc34fdb397145cfa62c947acd2ff15138f61abe1940cbbd
-reviewVerdict: first-pass
+sourceFinalSha256: d6ed9009532a91e8e46f97a5b9a8d823472578ae416e373cca5b4a6cce14be28
+reviewVerdict: second-pass

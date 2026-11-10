@@ -3,13 +3,13 @@ senseId: 'millicurie%1:23:00::'
 synsetId: 13666944-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 6abe0d16a40f3de621a97a645f4e8d69ac165283601cd4ba073550d745613c4f
-simpleMeaning: One thousandth of the main unit used to count how much a thing gives off rays
-scope: A small unit for counting how much a thing gives off rays, one thousandth of the larger unit; not
-  the larger unit itself and not the becquerel, another unit for the same thing.
+simpleMeaning: A unit of radioactive activity equal to one thousandth of a curie.
+scope: A unit for measuring radioactivity, one thousandth of a curie; not a whole curie itself and not
+  the becquerel, another unit for the same thing.
 examples:
-- The sample gave off ten millicuries of radiation.
-- Doctors measure the dose in millicuries.
+- The sample had an activity of ten millicuries.
+- The laboratory reported the sample's radioactive activity in millicuries.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1432
-sourceFinalSha256: 4910a772b08c0ef037f818e4f35a9862e37decec2a85cb187967d33e0b258e45
-reviewVerdict: first-pass
+sourceFinalSha256: 4bb939da3a8c1d51fc982d94b9abd81e23c72a85f5e6c73b750c76f03351db8f
+reviewVerdict: second-pass

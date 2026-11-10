@@ -3,14 +3,13 @@ senseId: 'solvate%1:27:00::'
 synsetId: 15072555-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 400840b87014c2597e6e8b2e6e908bc159c470016b0f91cf1f3f0371944c067a
-simpleMeaning: When the tiny bits of a liquid join with the tiny bits of the stuff dissolved in it, a
-  new chemical is made.
-scope: It is a new chemical made when a liquid and the stuff in it join, unlike solvation, which is the
-  joining itself.
+simpleMeaning: A compound formed by solvation, when solvent molecules combine with molecules or ions of
+  the solute.
+scope: It is the compound produced by solvation, not solvation, the joining process itself.
 examples:
 - A solvate formed in the liquid.
 - The solvate held the tiny bits of the liquid and the stuff in it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 964
-sourceFinalSha256: f0be80d48aabe8405be67dd58df629129d7a6eed97c5dc4f4c146dd7b7086e4a
-reviewVerdict: first-pass
+sourceFinalSha256: 915ec68b4212875c937a44bbbec113b6302ca5e37d4a473817ce2389f1ff7cdb
+reviewVerdict: second-pass

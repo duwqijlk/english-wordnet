@@ -3,14 +3,14 @@ senseId: 'equilibrium_constant%1:23:00::'
 synsetId: 13610884-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 2040170cbc280965ca06aaa737b984fd9bc54f94a1e76cfe7723355906e5f3f4
-simpleMeaning: When a reaction that can run either way settles, its forward and backward runs matching
-  in speed, this number in chemistry tells how much of each thing is present.
-scope: This number in chemistry tells how much of each thing is present once a reaction that can run either
-  way has settled, its forward and backward runs matching in speed.
+simpleMeaning: In chemistry, the ratio of concentrations at equilibrium in a reversible reaction, when
+  forward and reverse rates are equal.
+scope: This ratio in chemistry compares amounts present when a reversible reaction has settled and its
+  forward and reverse rates match.
 examples:
 - The equilibrium constant tells chemists where the reaction settles.
 - They worked out the equilibrium constant for the reaction.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 997
-sourceFinalSha256: da33703da790d02b59bb47802497058ab0a7e35022667cf7c0f567880dbd66e5
-reviewVerdict: first-pass
+sourceFinalSha256: d824b8d2ba5cdc98375d4191f6b35371aa711fb21faff28f0fb78767d5040dce
+reviewVerdict: second-pass

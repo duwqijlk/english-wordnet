@@ -3,8 +3,8 @@ senseId: 'safety_valve%1:06:00::'
 synsetId: 04134734-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 6152f34fe2fac489f242d0b2610f7d8d6c450d3c817d0460890d75d89e4b3287
-simpleMeaning: When the push inside a closed pot, like a boiler, grows too strong, this part opens on
-  its own to let the steam out.
+simpleMeaning: A valve in a container such as a steam boiler, opening automatically when pressure reaches
+  a dangerous level.
 scope: This part is also called an escape, an escape cock, an escape valve, or a relief valve; it opens
   on its own when the push inside a boiler grows too strong.
 examples:
@@ -12,5 +12,5 @@ examples:
 - A faulty safety valve can let a boiler burst.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1033
-sourceFinalSha256: f2fa224a56d105223610d4913d2d7e22dc1af67f87af926800fd9a89e32ad87c
-reviewVerdict: first-pass
+sourceFinalSha256: 4e6a7ffb14bc8dae387e0f684eab57af4a4995733c73bc928a43ee18038d4148
+reviewVerdict: second-pass

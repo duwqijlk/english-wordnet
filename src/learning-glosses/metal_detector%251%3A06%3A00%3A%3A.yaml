@@ -3,14 +3,13 @@ senseId: 'metal_detector%1:06:00::'
 synsetId: 03757248-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 707f1995f5834e6d7771347ba8a1621089dcc9ae30014d818a622ee4501621ce
-simpleMeaning: When the stuff coins are made of is near, this tool gives a sign; food passes by it to
-  catch stray bits, and it finds what lies buried.
-scope: Among tools that give a sign, this one looks only for the stuff coins are made of, whether stray
-  bits in food or what lies buried.
+simpleMeaning: A detector that signals when metal is present, used to find stray metal bits in food products
+  or buried metal.
+scope: This tool signals only for metal, whether stray bits in food or metal buried in the ground.
 examples:
 - The metal detector gave a sign when it passed over the buried coins.
 - They ran the food past a metal detector to catch stray bits.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1016
-sourceFinalSha256: b6bd84a32dc332c54c0e15bdaf20db3ffdbf633f6dad9fa145eb60bd1eda712a
-reviewVerdict: first-pass
+sourceFinalSha256: 6fbe295f09376ae368f8994ff8ef978d6e2b8b739de016739028a0d1c7519d65
+reviewVerdict: second-pass
