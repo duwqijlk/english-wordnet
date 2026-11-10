@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'supervisory_software%1:10:00::'
+synsetId: 06600420-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 2f356e338e062fb63eae92538fa0f65d6bcd7b285d2df2097f3b014cc2f51ae8
+simpleMeaning: Special programs that stay in the main memory of a computer all the time and control how
+  the programs of users are run.
+scope: Special programs that stay in a computer's main memory all the time and control how users' programs
+  are run; not a program written by a user and not a program that runs only once.
+examples:
+- Supervisory software stays in memory while the computer runs.
+- The supervisory software controls how user programs are processed.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1148
+sourceFinalSha256: 117fb4613610ee31b3eabd262cbca48c5b620272d157430f1c4152a1f17b8546
+reviewVerdict: first-pass

@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'data_track%1:06:00::'
+synsetId: 04471446-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: f9b0c8c23545fd9a6ad104c2626c5f91b264a9790996096e456ab469de5db8f5
+simpleMeaning: In computing, one of the round paths on a magnetic disk that guide where facts are written
+  and read.
+scope: In computing, one of the round paths on a disk for writing and reading facts; track is another
+  name for it, not a file and not a folder.
+examples:
+- The data track holds one ring of facts on the disk.
+- Each data track guides the reading head.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1198
+sourceFinalSha256: a95f668695cb4b9bf9fbc80057945781aca2753acd4a7cc36f922d83e294c678
+reviewVerdict: first-pass

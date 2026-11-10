@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'matrix_inversion%1:04:00::'
+synsetId: 00874762-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 76ef2161ab7d09406c3213bb0f9ba7af6201f632a81feff25034cf12e31b8c2b
+simpleMeaning: working out the set of numbers in rows and columns that, times the given set, gives a set
+  with ones down the middle and zeros elsewhere
+scope: Working out a set of numbers that undoes a given set when multiplied; not adding two sets of numbers
+  and not finding one number from a set.
+examples:
+- Matrix inversion lets us solve the set of equations.
+- The computer did the matrix inversion in a second.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1111
+sourceFinalSha256: da5c0647da6de728ba98580d29462b8a850f9b05f88ad1d196957c22ebdb0945
+reviewVerdict: first-pass

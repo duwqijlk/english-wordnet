@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'parallel_circuit%1:06:00::'
+synsetId: 03894505-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 607dfc2bdfb14c17565dcaec97049c5b0fc56b783f4c29aceb952aa4b9371a74
+simpleMeaning: A closed loop in which the flow splits into two or more ways and then joins up again to
+  make the loop whole.
+scope: A closed loop where the flow splits and joins up again, not a single-path loop and not an open
+  loop.
+examples:
+- In a parallel circuit, the bulbs stay lit if one fails.
+- The parallel circuit split the current into two paths.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1259
+sourceFinalSha256: 9ef6af943296d4b3f1a9bbbc3a55cc7d767fea694a8cfe3e71bf61f47dc9cc5c
+reviewVerdict: first-pass

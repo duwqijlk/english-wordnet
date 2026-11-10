@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'magnetic_stripe%1:06:00::'
+synsetId: 03713305-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: f0fe3a8804f735d8e01d04ca590ec1fab996f58e5e8e82d700dd0e3e9ec92f0f
+simpleMeaning: A short band fixed to a credit or debit card, holding facts that tell a reading machine
+  who you are, what your account number is, and more.
+scope: A short band on a credit or debit card that holds facts for a reading machine; not a printed signature
+  strip and not the card itself.
+examples:
+- The magnetic stripe on her card was worn and would not read.
+- He swiped the magnetic stripe through the reader.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1110
+sourceFinalSha256: cbc777c248e7b0bc2ffb10bab7b3603341adcad9f178e07742eaa4fe4ed1226f
+reviewVerdict: first-pass
