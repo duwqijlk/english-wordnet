@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'partial_differential_equation%1:10:00::'
+synsetId: 06683611-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 8238254af2c60d86542331b4f4c0ae2c37c6a732657455e1aeab815e819312ac
+simpleMeaning: In maths, a rule that links how a changing amount varies with more than one thing at once
+scope: In maths, a rule that joins rates of change for more than one thing at once, not a rule for one
+  changing amount only and not a plain sum with an unknown.
+examples:
+- This partial differential equation describes how heat spreads through a metal plate.
+- We solved the partial differential equation for the flow of water in the tank.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1260
+sourceFinalSha256: 41dd2e56617de25c6d80da21f34b5b1828bf074b10f335d66d07f8bd0697a30a
+reviewVerdict: first-pass

@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'point-contact_diode%1:06:01::'
+synsetId: 92461028-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: ac0faeb5c4d7e899bbe2cc7fee3193aae04e341e1547adeba002cb027a787b04
+simpleMeaning: A device that lets power flow one way, using the wall between a treated surface of something
+  that partly carries power and a metal tip
+scope: A device that lets power flow one way, using the wall between a treated surface and a metal tip;
+  not a junction device, and not a plain metal wire.
+examples:
+- A point-contact diode lets power flow one way.
+- The point-contact diode works on the same rule as the junction device, but is simpler to make.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1126
+sourceFinalSha256: 55d577d071548dde52836932f36987cbb6ba8bd99706448e0ef2d9b3fbd4ee74
+reviewVerdict: second-pass

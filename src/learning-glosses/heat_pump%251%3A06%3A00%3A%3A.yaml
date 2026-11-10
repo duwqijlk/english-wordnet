@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'heat_pump%1:06:00::'
+synsetId: 03514752-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 603eff02d0837eb93a2cf0aa9a4161f819188d3f7fe0b7f70a7eedd8600bf83a
+simpleMeaning: A machine that takes warmth from a liquid warmer than what is around it and can move warmth
+  from a store outside to warm a building
+scope: This is a machine that takes warmth from a liquid and can move warmth from outside to warm a building,
+  and not a machine that only cools a room.
+examples:
+- The heat pump warms the house in winter.
+- We had a heat pump put in to heat the building.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1099
+sourceFinalSha256: 9871e832fde48ae1fcbc33876c1c61f72d6239fcaa4b51f2c54bb70d9f53764a
+reviewVerdict: first-pass

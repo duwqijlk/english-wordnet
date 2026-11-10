@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'function_call%1:10:00::'
+synsetId: 06595162-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 333a9190d21556677332fba162f622d577ab36d4ba76603c0e76cfe83ce1f83e
+simpleMeaning: A step that hands work to a small set of orders, and when that set ends, work goes back
+  to the next order in the main set
+scope: This is a step in computing that hands work to a small set of orders and then goes back; not a
+  jump to a new part of a program and not a direct order.
+examples:
+- The program makes a function call to add the two numbers.
+- After the function call ends, the program goes on with the next line.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1093
+sourceFinalSha256: 6c4022b8cc35b96545f01ae439f3b8729f78154b22d9a01fedbf6f8933904a37
+reviewVerdict: first-pass

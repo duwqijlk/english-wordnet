@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'transitivity%1:24:01::'
+synsetId: 13820703-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 938e3624970b44eb6916130bf36f864d7f1962bb60d128b7966dabd44e8efdca
+simpleMeaning: 'In logic and mathematics, a link between three things: if it joins first to second and
+  second to third, it must join first to third'
+scope: In logic and mathematics, a link between three things that must join first to third, not a link
+  between two things only and not a link that fails between first and third.
+examples:
+- Transitivity holds for the relation 'is taller than'.
+- If A is bigger than B and B is bigger than C, transitivity says A is bigger than C.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1152
+sourceFinalSha256: f6542d1ea5598753f2b572930417f13e592d6b1a1bf3f8d99a064a44f8647035
+reviewVerdict: first-pass

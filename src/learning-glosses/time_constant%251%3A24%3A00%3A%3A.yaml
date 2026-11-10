@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'time_constant%1:24:00::'
+synsetId: 13848297-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 074a3594731a7220a4751cca45befb1ba02339f7952a25893bff0cf3f72b052e
+simpleMeaning: A number got by dividing a circuit's power to resist a change in current (inductance, in
+  henries) by its power to resist current flow (resistance, in ohms)
+scope: A number that tells how a circuit acts, not the time a current or voltage takes to rise or fall
+  in a circuit.
+examples:
+- The time constant of the circuit was worked out from its inductance and resistance.
+- A short time constant means the circuit acts fast.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1152
+sourceFinalSha256: f6542d1ea5598753f2b572930417f13e592d6b1a1bf3f8d99a064a44f8647035
+reviewVerdict: first-pass

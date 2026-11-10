@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'delay_line%1:06:00::'
+synsetId: 03177631-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: ad3f99e7a9ff51f7c2c26cf73cdab0d56b44581f6f568c8180688ebef60639db
+simpleMeaning: A circuit made to hold a signal back for a set time as it moves on
+scope: A circuit that holds a signal back for a set time, not a wire that sends it at once and not a store
+  for signals.
+examples:
+- The delay line held the signal back for a fraction of a second.
+- Engineers added a delay line to time the pulse.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1081
+sourceFinalSha256: 8c8ae79a9f95f660d128a049bf8a05c62be18d1f6806dbfcec459c12b78b15bf
+reviewVerdict: first-pass

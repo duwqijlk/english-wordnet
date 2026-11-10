@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'loop_topology%1:09:00::'
+synsetId: 05738669-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 70ce8ee93e264c3c03d1275766164d8cd822f76880b89a125533645a472610b4
+simpleMeaning: In a network, a ring of parts joined one after another so the last part joins back to the
+  first.
+scope: In a network, a ring of parts joined one after another with the last joined back to the first;
+  loop is another name for this sense, not a line of parts with two free ends.
+examples:
+- The office network used a loop topology, so each computer linked to the next in a ring.
+- With a loop topology, the last machine links back to the first.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1241
+sourceFinalSha256: 1d71072a04cedf7e53dae47617c8d67969783f12a0fbce711fd0cd150f818e23
+reviewVerdict: first-pass

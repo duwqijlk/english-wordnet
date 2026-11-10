@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'matrix_transposition%1:04:00::'
+synsetId: 00874916-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: e390eb2e01f27e87753ef0ac7b9b8a544e15eb90d9b1b383d75938ed5399b87f
+simpleMeaning: The swap of each row of a square grid of numbers with the column that matches it
+scope: The swap of each row of a square grid of numbers with the column that matches it; not a turn of
+  the whole grid and not a swap of two rows.
+examples:
+- Matrix transposition swaps each row with its matching column.
+- We used matrix transposition to swap the rows and columns of the grid.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1244
+sourceFinalSha256: d40fd407213479de9f51c19fc2dd875b4762db209aa258772896ba95688c3692
+reviewVerdict: first-pass

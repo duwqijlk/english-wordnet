@@ -1,0 +1,17 @@
+schema: oewn-learning-gloss-v1
+senseId: 'interquartile_range%1:09:01::'
+synsetId: 92436708-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 8c08d75212420635a84e2b2a93f68a927350ab852613a1a741cac2a997602e4c
+simpleMeaning: In statistics, a measure of how spread out a set of numbers is, found by taking the gap
+  between the top quarter mark and the bottom quarter mark
+scope: In statistics, a measure of how spread out a set of numbers is, found from the gap between the
+  top and bottom quarter marks, also called the middle fifty or midspread; not the gap between the largest
+  and smallest numbers and not the average.
+examples:
+- The interquartile range of the test scores was 3.5.
+- A small interquartile range means the middle half of the numbers sit close together.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1232
+sourceFinalSha256: 03649dfa4d50e24c1d05d9df2cd1bb19ef425574c732d3825d8bbf2775280e80
+reviewVerdict: first-pass

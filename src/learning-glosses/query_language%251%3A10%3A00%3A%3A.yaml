@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'query_language%1:10:00::'
+synsetId: 06912222-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 6e5bd52457b043f70dd09544635003ff7cc9d466b0d546434411ce435cc8f076
+simpleMeaning: A formal way of asking a machine for facts, made of step-by-step commands that make it
+  run tasks
+scope: A formal way of asking a machine for facts; also called command language and search language, not
+  a language for writing whole programs.
+examples:
+- SQL is a query language used with databases.
+- She wrote a query language command to find the names.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1131
+sourceFinalSha256: 09e3c1202fa6de793f020ce7d2a59033e92b733c0e2065cf2ee6ff81756a6862
+reviewVerdict: first-pass

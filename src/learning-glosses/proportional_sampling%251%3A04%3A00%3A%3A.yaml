@@ -1,0 +1,17 @@
+schema: oewn-learning-gloss-v1
+senseId: 'proportional_sampling%1:04:00::'
+synsetId: 00163238-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 7bcad8662422954db400398c95d7405bcbbac3fffe6eb327c169a56709625961
+simpleMeaning: a way of picking test groups in which a whole group is split into smaller groups and a
+  few are picked by chance from each
+scope: A way of picking test groups by splitting a whole group into smaller groups and picking a few by
+  chance from each; also called representative sampling and stratified sampling; not picking a few from
+  the whole group at random, and not asking everyone.
+examples:
+- Proportional sampling gave each small group a fair share of the test.
+- The team used proportional sampling so no part of the town was left out.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1129
+sourceFinalSha256: f624b74e3e7bca24f11f5985503fafada35091cd020b95fc5332a54a1d9c044a
+reviewVerdict: first-pass
