@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'curvature%1:07:00::'
 synsetId: 05109697-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d57dd5478aec8cac38c46367d5c351606ba1d34ef9af34f2e6bd84973732683d
 simpleMeaning: How fast the angle changes at a point on a bent line, where the angle is between that line
   and a straight line touching it at that point
 scope: This is the maths sense, about how fast an angle changes at a point on a bent line; it is not a
@@ -12,5 +10,4 @@ examples:
 - The teacher showed how curvature tells us how fast the angle changes at that point.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 622
-sourceFinalSha256: 4b713b1b83a507eb6625fc47c9e13c50b5ddef91315edc2c87f652e092f1e0f1
 reviewVerdict: first-pass

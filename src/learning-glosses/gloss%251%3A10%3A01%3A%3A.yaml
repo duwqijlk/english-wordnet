@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gloss%1:10:01::'
 synsetId: 06432424-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 27808e43c15a632b16e44996f69444b4276471f5d54b473aa7ec3d1ae9c102a8
 simpleMeaning: a list in A to Z order of the special words used in one field of study, often put at the
   end of a text on that field
 scope: This is a list in A to Z order of the special words of one field of study, not one short note about
@@ -12,5 +10,4 @@ examples:
 - Students turned to the gloss to find what the terms meant.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 409
-sourceFinalSha256: 5a1645e7514b7cefcd4579149195068f906061295f3831229a62b9aac7e6349f
 reviewVerdict: first-pass

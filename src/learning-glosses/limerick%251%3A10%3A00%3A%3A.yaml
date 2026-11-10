@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'limerick%1:10:00::'
 synsetId: 06392226-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 47624a176227314e8d030153448b6d96761d57fb88bde139a311f914e53cf0bc
 simpleMeaning: a funny five-line poem with beats of two short sounds then one long sound, where the first,
   second and last lines end alike, and the middle two end alike
 scope: This is a short funny poem of five lines with a set beat and end sounds, not a long story poem
@@ -12,5 +10,4 @@ examples:
 - The children laughed at the limerick he made up at school.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 608
-sourceFinalSha256: fafa505a6f3208d8a624ebf88f2e62951594945e82ac03afbb43df9a01c06755
 reviewVerdict: first-pass

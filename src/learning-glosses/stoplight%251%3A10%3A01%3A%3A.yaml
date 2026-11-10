@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stoplight%1:10:01::'
 synsetId: 07280695-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5dc7e1e45ecce745aa46d393f9791bdf3488a670dba08ebb749a8409f526230d
 simpleMeaning: a red light at the back of a car or other road vehicle that goes on when the driver uses
   the brakes to slow down or stop
 scope: This is the red light at the back of a vehicle that goes on for braking; it is not the set of lights
@@ -12,5 +10,4 @@ examples:
 - A broken stoplight can make driving behind that car unsafe.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 573
-sourceFinalSha256: efa42f78bd62632874e22d8ece7df9477598f4ff611e465cf09299ec3799f78b
 reviewVerdict: first-pass

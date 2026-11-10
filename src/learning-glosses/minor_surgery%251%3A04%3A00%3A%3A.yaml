@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'minor_surgery%1:04:00::'
 synsetId: 00686602-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9c23bdb6979422c67966a3a2b0148d717ddf3ab53526485bd11daf5bf6f91a11
 simpleMeaning: any operation that needs neither drugs to put the patient to sleep nor help with breathing
 scope: Any operation needing neither sleep drugs nor help with breathing; not a big operation and not
   a check-up.
@@ -11,5 +9,4 @@ examples:
 - Minor surgery needs no drugs to put the patient to sleep.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1113
-sourceFinalSha256: 8eca2c56f254e129795aedbf19f78595ecd1d51306338721bb5c284f4af3fc13
 reviewVerdict: first-pass

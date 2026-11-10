@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sentence%2:32:00::'
 synsetId: 00908688-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e960a073271701be02fd896b97195e8bc74d83efe3b98758ca4d8b9798ce27e0
 simpleMeaning: In a court of law, to state formally the punishment that someone is to receive.
 scope: This is the verb for a judge declaring a punishment in court, not the judgment itself, not the
   time a prisoner serves, and not a string of words that forms a grammatical unit.
@@ -11,5 +9,4 @@ examples:
 - She was sentenced to two hundred hours of community service.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 142
-sourceFinalSha256: d0bc0eceb3cbba95f36c3bbae529a54cd812e258dbbd9a7b773483f5ec470874
 reviewVerdict: first-pass

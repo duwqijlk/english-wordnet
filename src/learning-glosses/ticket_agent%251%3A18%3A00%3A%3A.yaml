@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ticket_agent%1:18:00::'
 synsetId: 09652665-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f7c3374f195ab8a680edc8e5792c1881670316e8beb449de6560cda464120249
 simpleMeaning: Passes for seats at a show or for places on a trip are sold by a person whose job is selling
   them.
 scope: This person, also called a booking clerk, sells passes for seats at a show or for places on a trip.
@@ -11,5 +9,4 @@ examples:
 - Ask the ticket agent for a place on the trip.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1044
-sourceFinalSha256: 4dcda4ff8e059353fd2a8c744316808dfaeadd97fdb6237dd2f56dfc8af35efd
 reviewVerdict: first-pass

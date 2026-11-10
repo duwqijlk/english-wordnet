@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'affiliate%1:18:00::'
 synsetId: 09795787-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d058b65f429afeb440a14406c497786167a090ff1b8788ccee610500cefb06fb
 simpleMeaning: a person who is linked to another person or to a group, but in a lower or smaller role
 scope: This is a person linked to another person or to a group in a lower role, not a linked organization
   itself and not the act of joining a group.
@@ -11,5 +9,4 @@ examples:
 - Each affiliate helps the main group but keeps a smaller local role.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 501
-sourceFinalSha256: 5dedbf2e2d0724fc5005cf05d8be054c88c966b35f7d0997dbc50cb2ad347ed2
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'clinic%1:06:00::'
 synsetId: 03047259-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 198fa94aac106a2321aa6f29af8e4cd0fe164589a943358fac648ae60f24d99b
 simpleMeaning: a place where people go to get medical care but do not stay at night
 scope: A place for medical care where people visit and do not stay at night, not a meeting to find problems
   in an activity and teach people.
@@ -11,5 +9,4 @@ examples:
 - The small clinic in our town opens at nine in the morning.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 260
-sourceFinalSha256: 439860c0495e96d77a49e4d5701e90b166256ec8427c16b4f7c6eec18100bda8
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'facial_profiling%1:10:00::'
 synsetId: 06899323-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 47e930eeef44149c9c402faeb1d628614544d0f3c5b4a242d23d9f58ba7de61b
 simpleMeaning: Spotting law-breakers and attackers from moving pictures of their faces.
 scope: Spotting law-breakers and attackers from moving pictures of their faces, not a fingerprint check
   and not a name check.
@@ -11,5 +9,4 @@ examples:
 - The police used facial profiling to pick out the man from the tapes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1210
-sourceFinalSha256: ec85b96677c4efe768c24b1fd48d9a2a176bd7a3a23dea7db032177b09c19645
 reviewVerdict: first-pass

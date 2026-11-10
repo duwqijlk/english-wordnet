@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'accounting%1:21:01::'
 synsetId: 13427135-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c8ac65b37a03d2dc671b750a10b3cf357957affed26d86eb55dc9bec76028475
 simpleMeaning: a bookkeeper's list, in time order, of all the money a business owes and is owed, kept
   as part of its main book of records
 scope: A bookkeeper's dated list of debits and credits, not the job of keeping accounts and not an explanation
@@ -12,5 +10,4 @@ examples:
 - She checked the accounting to find the missing payment.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 401
-sourceFinalSha256: 0c3f20ebd3288eb9b9e2c0bcb659da5473e4450f27a4909ad317f8ce030bd900
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ohm%1:23:00::'
 synsetId: 13668434-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6497f2c53c647cc077e7c8f2d35319b8a1a901c9b76e19f2528d5db2121fdb63
 simpleMeaning: A unit of electrical resistance, equal to the resistance between two points on a conductor
   when one volt between them makes a current of one ampere.
 scope: A unit for the hold-back between two points on a carrier, not the push itself and not the flow
@@ -12,5 +10,4 @@ examples:
 - He measured the wire in ohms.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 952
-sourceFinalSha256: 90218f725a6587864053ba0d5cbec4fa295e359db4ac3d3d13c8810302d4d158
 reviewVerdict: second-pass

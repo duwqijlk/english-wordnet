@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'batting_average%1:24:01::'
 synsetId: 13840355-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9701495a0331ee7acda085f27946982799152e19381f1511e4396465173d1244
 simpleMeaning: how often some work or try succeeds, worked out as a share of all the tries
 scope: A share of times some effort works out, taken from the baseball term, not the baseball figure of
   hits over times at bat and not a simple count of wins.
@@ -11,5 +9,4 @@ examples:
 - Her batting average with job offers was one in five.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1331
-sourceFinalSha256: d0160a1b92dc8bd0cacc9aeade01cfb9c6d049186f7599d8d3c01f75ca18e323
 reviewVerdict: first-pass

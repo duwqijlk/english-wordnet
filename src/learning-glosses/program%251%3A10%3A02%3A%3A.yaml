@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'program%1:10:02::'
 synsetId: 06581154-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2b10c662aebf9aac23f899d5671bfe990c3ab15acf543ca8a2f5aa48a7051fc7
 simpleMeaning: In computing, a series of instructions that a computer can read and carry out.
 scope: This is the set of instructions a computer runs, not a plan of steps or goals, not a system of
   projects or services, not a television or radio show, not a political party's statement of aims, not
@@ -12,5 +10,4 @@ examples:
 - She wrote a program that sorts the data by date.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 72
-sourceFinalSha256: 801b30d8e36b60e608fca6f31e02a830a77d6f0a87b66c32b242f67df7fe7255
 reviewVerdict: first-pass

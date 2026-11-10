@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'moment%1:09:00::'
 synsetId: 06031858-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 785469be1fb39050b1ee928a0b1bdcb40ab4638762ae0fd160e6d58e30b066ce
 simpleMeaning: the long-run average of a given power of the amounts by which the values of a distribution
   differ from a chosen reference point.
 scope: This is the statistical average of a power of deviations, not a particular point in time, not a
@@ -12,5 +10,4 @@ examples:
 - The first moment about zero is simply the mean.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 73
-sourceFinalSha256: 2e5d5ea7d3c44a2147d6123a49a160ed7ed321a7b5b0479999cf92f5a6f8436d
 reviewVerdict: first-pass

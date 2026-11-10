@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'output-to-input_ratio%1:24:00::'
 synsetId: 13846180-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3abc82365561de493ecf21940acce684a1268c7a04afe909ce81c3d039194e55
 simpleMeaning: Counted against the power that goes in, the power that comes out of a device that turns
   one kind of power into another
 scope: A count of how much power comes out of a device that changes power, set against how much goes in;
@@ -12,5 +10,4 @@ examples:
 - Engineers measure the output-to-input ratio to check how well the device works.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1445
-sourceFinalSha256: 22a46d26eedf70a389691ac0db80b5684c1a3d63090017b90f766a528b918d2d
 reviewVerdict: first-pass

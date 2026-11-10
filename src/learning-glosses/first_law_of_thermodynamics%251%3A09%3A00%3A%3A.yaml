@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'first_law_of_thermodynamics%1:09:00::'
 synsetId: 06114185-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 27686f82389a9235015290630a49fa475448c40aea90e1b8bd9cfe32f5cee7d6
 simpleMeaning: In physics, the basic rule that all the energy in a set of things cut off from everything
   else stays the same, even when things change inside it.
 scope: This is the basic rule of physics that all the energy in a set of things cut off from everything
@@ -14,5 +12,4 @@ examples:
 - Students learn the first law of thermodynamics in their first physics class.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1213
-sourceFinalSha256: adc0cdf01e5082bd161fdf880297083040cbfdae08cabb2d3bae8ff487bb3a64
 reviewVerdict: first-pass

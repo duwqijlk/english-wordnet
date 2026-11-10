@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'business_expense%1:21:00::'
 synsetId: 13297353-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f137931f5c31a9ee5003322f19547e4b79bacac7e4a8f2bed60514ce9dd40fdb
 simpleMeaning: the usual and needed costs a person who pays tax runs up in their work or trade
 scope: The usual and needed costs a person who pays tax runs up in their work or trade, not private costs
   and not costs that are not needed for the work.
@@ -11,5 +9,4 @@ examples:
 - Travel to meet a client counts as a business expense.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1342
-sourceFinalSha256: 97ecd039427c5fb69a514822181b1d92dbe21b04d560cc57c88e722d9e7e3150
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'rook%1:06:00::'
 synsetId: 02984084-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: abf7e0911a3dff3c8a20f5a6350733964f2ccc1f6bf6b21e78b7f5a359f56174
 simpleMeaning: In chess, a piece that can move any number of empty squares in a straight line, up and
   down or side to side on the board
 scope: 'In chess, also called castle: a piece that moves in straight lines across the board, not the large
@@ -12,5 +10,4 @@ examples:
 - Her rook stood in the corner at the start of the game.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 485
-sourceFinalSha256: f2852d1b9c5763f2d42e27df6a7b8c6931f7b656fcc7977571c63c82231484e6
 reviewVerdict: first-pass

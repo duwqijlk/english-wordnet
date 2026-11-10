@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'arc_cosine%1:24:00::'
 synsetId: 13810065-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: df5d6c00f8a22119c46999d209dfd8b6dda27248d0dc6920f53c309d8bc280eb
 simpleMeaning: The angle you get back when you start from a stated side ratio, the side next to the angle
   over the longest side of a right-angled triangle.
 scope: The angle you get back from a stated side ratio; arccos, arccosine and inverse cosine are other
@@ -12,5 +10,4 @@ examples:
 - Use the arc cosine to find the angle from the ratio.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1168
-sourceFinalSha256: 8566f80d7b15aa6a0b209ba447622a8fe0424f6f6514c0c840b833d130fe4ff8
 reviewVerdict: first-pass

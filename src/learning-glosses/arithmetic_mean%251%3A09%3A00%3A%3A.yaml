@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'arithmetic_mean%1:09:00::'
 synsetId: 06033638-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 39baa6c906ced10b5cb3567d7d282045dda8821290e7dfa4fc14f4e38fc5295f
 simpleMeaning: the number you get when you add up the values of a thing that can change by chance and
   split the total by how many values there are
 scope: 'Also called expectation, expected value and first moment: the plain average of a set of numbers,
@@ -12,5 +10,4 @@ examples:
 - To find the arithmetic mean, add the marks together and divide by the number of pupils.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1324
-sourceFinalSha256: 61f732dbaf6e8c371ecb1bf7010d89ea6644202223406d1b209608c0196b11a3
 reviewVerdict: first-pass

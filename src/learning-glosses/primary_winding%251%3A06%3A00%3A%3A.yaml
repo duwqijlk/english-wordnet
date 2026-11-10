@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'primary_winding%1:06:00::'
 synsetId: 04008987-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b2f067e0cf4e2ec704b6006215b6aa206c26dc4651bb9e75374fd20e2d452458
 simpleMeaning: Power that changes as it flows through this loop of wire sets off a flow in the circuit
   next to it.
 scope: Primary coil and primary are other names for it, and it is the loop whose changing power starts
@@ -12,5 +10,4 @@ examples:
 - When the power in the primary winding changed, a current appeared in the circuit beside it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1027
-sourceFinalSha256: 92045fc84c8ecab002cf3585af15d19d2a50ef1c3e34874f2b837a5214477dcc
 reviewVerdict: first-pass

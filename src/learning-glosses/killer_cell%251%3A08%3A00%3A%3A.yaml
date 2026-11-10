@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'killer_cell%1:08:00::'
 synsetId: 05460092-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4e18485cd4ebdf5267bb3e7766277401661079b2f449e7a7f0055ef39e32957b
 simpleMeaning: A T cell with a CD8 receptor that recognizes antigens on a virus-infected cell, binds to
   it, and kills it.
 scope: A white blood cell that finds and kills a cell hit by a virus.
@@ -11,5 +9,4 @@ examples:
 - Killer cells hunt down cells carrying a virus.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 900
-sourceFinalSha256: 336c89b411f30e2b856b4c70fe23ad51888584d47d286cb130ff7f679bc2bc36
 reviewVerdict: second-pass

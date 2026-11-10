@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dual_inline_package_switch%1:06:00::'
 synsetId: 03209242-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 19268e26f139f18fa5578caad83405f7e5cf1393b6eb8202fcbb20d3247a2f80
 simpleMeaning: In computer science, one of a set of small on-off controls fixed inside computer parts,
   used instead of jumpers to set the machine up for a user
 scope: In computer science, one of a set of small on-off controls inside computer parts, not a jumper
@@ -12,5 +10,4 @@ examples:
 - The dual inline package switch controls how the board starts up.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1084
-sourceFinalSha256: 4106630d285255b2c3099e3272b80f22dec43c233055f00a59370c2d1169d8a5
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radiant_heating%1:22:00::'
 synsetId: 13566239-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4b4275fba912c74597e8802cf0880f2a9f6acae3f8a7413947ea4b8896fd272f
 simpleMeaning: Panels holding hot water or electric heaters give off heat that warms a whole building
 scope: Warming a building with heat from panels; not warming it with hot air blown through rooms, and
   not warming it with hot-water pipes that heat the air.
@@ -11,5 +9,4 @@ examples:
 - They chose radiant heating for the new hall.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1131
-sourceFinalSha256: 09e3c1202fa6de793f020ce7d2a59033e92b733c0e2065cf2ee6ff81756a6862
 reviewVerdict: first-pass

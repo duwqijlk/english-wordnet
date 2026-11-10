@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bond_issue%1:21:00::'
 synsetId: 13358486-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d7ba0e9b1a712b6ea46381843f5274b465b4120580861a13c0537084b1145445
 simpleMeaning: loans sold by a firm or a state body at one time, known by the date when they must be paid
   back
 scope: Loans sold by a firm or a state body at one time, known by the date when they must be paid back,
@@ -12,5 +10,4 @@ examples:
 - Investors bought the bond issue because it would be paid back in ten years.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1338
-sourceFinalSha256: 8fa2db7c2ab05d7dbb8645022e99a34cd7892a66112049fff4606c344821632b
 reviewVerdict: first-pass

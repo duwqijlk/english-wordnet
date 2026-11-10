@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'spreadsheet%1:10:00::'
 synsetId: 06592128-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0878eb363b3a1d34543261116117e82da68361242f0c38e09b1904863aca749c
 simpleMeaning: A computer program that lets you lay out money figures on a screen and work with them
 scope: A computer program for laying out money figures on a screen, not a printed table and not a program
   for writing words.
@@ -11,5 +9,4 @@ examples:
 - The spreadsheet added up the costs for the whole year.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 432
-sourceFinalSha256: 63894e4893b500edeb7ed51408665db568337b343ebff01fab40130215c09854
 reviewVerdict: first-pass

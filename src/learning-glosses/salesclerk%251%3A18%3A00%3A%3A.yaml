@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'salesclerk%1:18:00::'
 synsetId: 10567784-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1bc10ad8cc064caf8c107d77efbe611c57e4d192de3a8a3398086a2bacf392ae
 simpleMeaning: a person whose job is to sell things in a shop
 scope: This is a person who sells things in a shop. It is not a person who sells things from place to
   place, and not the owner of the shop.
@@ -11,5 +9,4 @@ examples:
 - A salesclerk at the shoe shop showed us several pairs to try on.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 647
-sourceFinalSha256: e8e33d4e5dd14325bc350bcb946203162b7609e9c3720178873ea8e0bd926fe6
 reviewVerdict: first-pass

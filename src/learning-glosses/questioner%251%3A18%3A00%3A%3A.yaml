@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'questioner%1:18:00::'
 synsetId: 10227450-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4583f0fd091ba4bb3029712f6187aa537d13e347ccaa9de97ef6c92bc84b51db
 simpleMeaning: a person who asks about something in order to get an answer
 scope: The person who asks, not the person who gives the answer and not the thing being asked about.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Each questioner was allowed to ask only one thing.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 548
-sourceFinalSha256: a35ec86f1df404664173c794333d2bd1560754ae5e3c57b503e1441559f8b6dc
 reviewVerdict: first-pass

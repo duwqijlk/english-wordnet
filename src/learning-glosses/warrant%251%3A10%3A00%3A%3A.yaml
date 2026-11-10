@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'warrant%1:10:00::'
 synsetId: 06559050-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e5d6060488098cc1b9b0d214f97966f87fbf093b6525f0e83f71837b07ec15b7
 simpleMeaning: a paper from a court that orders the police to do certain things
 scope: A paper from a court that orders the police to do certain things, not a paper that lets a person
   buy shares and not formal approval.
@@ -11,5 +9,4 @@ examples:
 - A judge signed the warrant for his arrest.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 324
-sourceFinalSha256: 4850b23136cd58497773dc1e582f9523f02735577665d87cb56254127f26eef8
 reviewVerdict: first-pass

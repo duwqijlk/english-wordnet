@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'idiomatic_expression%1:10:00::'
 synsetId: 07169038-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c90137d1dbf671de074dcaaae19e80757284d43461f3b62099c11677b48e8c9c
 simpleMeaning: A saying whose meaning you cannot guess from the words that make it up
 scope: A group of words with a fixed sense you cannot guess from the words alone, also called an idiom,
   a phrasal idiom, or a phrase; not a plain group of words with a plain sense.
@@ -11,5 +9,4 @@ examples:
 - An idiomatic expression like 'kick the bucket' does not mean what its words say.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1408
-sourceFinalSha256: 4461464edab450219193ba0ebfd32149e3c8f1a6b3de06e4edcbf3ffd52570c6
 reviewVerdict: second-pass

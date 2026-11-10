@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'servo%1:06:00::'
 synsetId: 04183356-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4a500652003fd42917e45333aa933080e195b87c570c8d7476d826ac89438003
 simpleMeaning: a control set-up that turns a small move into a much stronger move, and may check itself
   as it works
 scope: A control set-up that turns a small move into a much stronger one, also called a servomechanism
@@ -12,5 +10,4 @@ examples:
 - A servo in the machine made the small turn of the wheel move a heavy load.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1283
-sourceFinalSha256: 18f624570dd9cbfe84565ce8202326e264c0c975137cc19f50ec8255987e793b
 reviewVerdict: first-pass

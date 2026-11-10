@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'translate%2:42:00::'
 synsetId: 02734017-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: da6929ac3a322d8a33ea72add11416b511b685f85edb35e6d36a93a0ac9cdc80
 simpleMeaning: For words in one language to be put into another language, in some way
 scope: Whether words can be put into another language, not the work of finding the amino-acid order in
   a protein.
@@ -11,5 +9,4 @@ examples:
 - Tolstoy's novels translate well into English.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 214
-sourceFinalSha256: 4818b24756b47514cc326d3c93801242acdfe62ca9eb098875d529428958cf44
 reviewVerdict: first-pass

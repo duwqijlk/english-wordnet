@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'multistage_rocket%1:06:00::'
 synsetId: 03804897-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 413b72f973120e722c01ab79d961f62f5b89979518896f6303661f4e2f6ef019
 simpleMeaning: Two or more motors, each with its own fuel, fire one after another on this rocket, and
   each is dropped when its fuel is used up.
 scope: Also called a step rocket, this rocket drops its motors one by one as their fuel runs out, unlike
@@ -12,5 +10,4 @@ examples:
 - Each motor of the multistage rocket fired in turn.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1018
-sourceFinalSha256: b60070d1cce4ee6b8e0cc3ad117f5b8f9d3c1046be4b8e806b24c986a9834ab6
 reviewVerdict: first-pass

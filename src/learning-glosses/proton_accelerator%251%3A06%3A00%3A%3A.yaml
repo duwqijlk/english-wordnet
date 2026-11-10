@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'proton_accelerator%1:06:00::'
 synsetId: 04022180-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cd1320172d508a7b34e038040837b4f30b630c7dd15487efa7d12f70b4af5bcc
 simpleMeaning: A machine that smashes together a fast stream of tiny bits and a fast stream of their opposites
 scope: A machine that crashes a stream of tiny bits and a stream of their opposites together, not a machine
   that only speeds up one stream and not a device that breaks atoms apart.
@@ -11,5 +9,4 @@ examples:
 - Scientists used the proton accelerator to study what happens when the streams meet.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1270
-sourceFinalSha256: e6a450e9d5e8e535d571ba9aba641f19a96aedcc44ba5188601fafb118637d2e
 reviewVerdict: first-pass

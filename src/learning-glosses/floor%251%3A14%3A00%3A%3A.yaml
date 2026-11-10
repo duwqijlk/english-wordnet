@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'floor%1:14:00::'
 synsetId: 07993043-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 58defc7d07e3c795d20b2a81abd032b0270a8eef3e0b896c0b92b436f5005647
 simpleMeaning: all the people who are on one level of a building, thought of as a group
 scope: 'This is the group-of-occupants sense; distinct from floor%1:06:03:: (the room where lawmakers
   debate), floor%1:06:00:: (the walking surface), floor%1:06:01:: (a set of rooms on one level), floor%1:10:00::
@@ -15,5 +13,4 @@ examples:
 - The patients on the top floor were moved when the power failed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 76
-sourceFinalSha256: 91cd4cee1f42e0b8f16479f2eb5495a5151bb6ea188cebddd230230fc1887c74
 reviewVerdict: self-approved

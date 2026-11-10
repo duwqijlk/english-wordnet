@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'etanercept%1:06:00::'
 synsetId: 03303953-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 08d6422393aceb1b1fb94836d27ceb1725dbcc1852358b687ec1dfe66a672b3d
 simpleMeaning: A genetically engineered anti-TNF drug sold as Enbrel, made of receptors that bind TNF,
   injected twice a week to treat rheumatoid arthritis.
 scope: This is the injected medicine itself, not the TNF receptor it is built from and not another anti-TNF
@@ -13,5 +11,4 @@ examples:
 - Etanercept did not suit him, so his consultant tried a different anti-TNF drug.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 122
-sourceFinalSha256: 2853a917f3f43cc67be882254ac37e0ebec8991078a28dfc731a1d3edabad917
 reviewVerdict: first-pass

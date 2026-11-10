@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'adjudication%1:04:00::'
 synsetId: 00876135-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b208712d4600e116b4cd7521aff115d947b6caebc2719d35e8236511476778b7
 simpleMeaning: the final decision in a court case, given after the facts have been heard
 scope: The final decision in a court case, given after the facts have been heard; not a first ruling that
   can be changed and not the trial itself.
@@ -11,5 +9,4 @@ examples:
 - Both sides waited for the adjudication after the hearing.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1316
-sourceFinalSha256: c2ac2408d0a940fb60b2b62cc9cb5aa510f7e50335dee01423e0599cce763886
 reviewVerdict: first-pass

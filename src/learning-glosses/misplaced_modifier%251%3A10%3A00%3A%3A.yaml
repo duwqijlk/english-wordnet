@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'misplaced_modifier%1:10:00::'
 synsetId: 06334815-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ae50c234cd779d7ed2d525f353ead9d767d7c99613a08592d62604e779111daf
 simpleMeaning: 'A word or phrase that seems to modify the wrong word in a sentence because of where it
   stands: ''when young'' in ''when young, circuses appeal to all of us''.'
 scope: Also called dangling modifier, it is a word or phrase in a sentence that seems to modify a word
@@ -12,5 +10,4 @@ examples:
 - '''Running fast, the bus left him behind'' has a misplaced modifier.'
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 9500
-sourceFinalSha256: a1b1bfd1f13ec8172ba5a69ac2597c7758a02f258b47a2dcb07d6cbcfcf9d285
 reviewVerdict: first-pass

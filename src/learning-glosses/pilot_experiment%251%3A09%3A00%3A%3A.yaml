@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pilot_experiment%1:09:00::'
 synsetId: 05807079-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 96d2ea4eda936053b313baac1910ebc91b03cfceeadd480c7cdd427fb1faee97
 simpleMeaning: A first small test, done to see if a bigger test is worth doing.
 scope: This is a first small test done to see if a bigger test is worth doing; not the big test itself,
   and not a test done after the work is finished.
@@ -11,5 +9,4 @@ examples:
 - The pilot experiment showed the plan could work.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1263
-sourceFinalSha256: fa9a0e0c942ec50acf7cfd63f841c8021be8dea6b848ca820d97eb04eca40625
 reviewVerdict: first-pass

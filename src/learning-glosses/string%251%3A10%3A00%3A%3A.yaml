@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'string%1:10:00::'
 synsetId: 07026665-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 728fcaa990b99c6da2614e7ac3dbafa12e9f40fae7c8d0c9646297a887938d3b
 simpleMeaning: a set of things in a line in a fixed order, such as letters and other signs, words, or
   proteins (materials that living things make)
 scope: A set of things in a set order in a line, such as words in writing, not a real cord and not a group
@@ -12,5 +10,4 @@ examples:
 - The computer reads the string of words from left to right.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 165
-sourceFinalSha256: 53023fee92821fe67f9c8e78eb35c3ded6d730815dbdf820b4702e89c75bd33b
 reviewVerdict: first-pass

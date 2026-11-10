@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'account%1:10:02::'
 synsetId: 06528946-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 057ddf2277280616160d2b15c0ec6ec2dc0cf3821d8c1d8ebcaaa0c915eb1904
 simpleMeaning: a bill that lists each charge for goods delivered or work done and shows the money owed
 scope: This is a bill of charges for goods or work, not a description that explains something or a verb
   meaning to justify conduct.
@@ -11,5 +9,4 @@ examples:
 - Please settle your account within thirty days of the invoice date.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 57
-sourceFinalSha256: 718e44b6b78a646beff812dc8ce7045690819ee89f73c630e3636d34c21c551d
 reviewVerdict: self-approved

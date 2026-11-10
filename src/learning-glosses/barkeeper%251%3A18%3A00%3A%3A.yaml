@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'barkeeper%1:18:00::'
 synsetId: 09860576-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9bc7d04954acb85a6d183a43e2a76431686664495539c4bf3ab2d38103bd5bf3
 simpleMeaning: a worker who mixes and serves drinks with alcohol in them at a bar
 scope: A worker who mixes and serves drinks at a bar, also called bartender, barkeep and mixologist; not
   a waiter and not the owner of the bar.
@@ -11,5 +9,4 @@ examples:
 - Ask the barkeeper for a glass of water.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1173
-sourceFinalSha256: d84874f9cea4220cd3f955f909f9b4484d51b5cc0bec47be2deefbff884695e6
 reviewVerdict: first-pass

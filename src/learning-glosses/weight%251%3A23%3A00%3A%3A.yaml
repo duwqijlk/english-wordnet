@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'weight%1:23:00::'
 synsetId: 13630031-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 951f1aacb13c59e5b5b75adae591f302a76fa043773fe7ebc2da77c08cbc66b4
 simpleMeaning: a standard amount, such as a kilogram or a pound, used to say how heavy something is
 scope: This is one single unit, not the whole system of units, not the heaviness itself, not a metal block
   used on a balance, and not the importance of something.
@@ -11,5 +9,4 @@ examples:
 - In the metric system, the gram is the smallest common weight on kitchen scales.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 66
-sourceFinalSha256: e2bc97848f2bd3b0ad71b6003f7acc7abd6e8b52d365739583d631faa44b9f2c
 reviewVerdict: self-approved

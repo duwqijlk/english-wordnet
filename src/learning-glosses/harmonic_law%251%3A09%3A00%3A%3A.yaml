@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'harmonic_law%1:09:00::'
 synsetId: 05888794-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: efb80acf98bc6fe5995ca2b41f6040149ca6434a409d1854d07731664255b23e
 simpleMeaning: For every planet, the square of the years it takes to circle the sun, set against the cube
   of its orbit in star units, gives the same number.
 scope: This rule ties a planet's year to the size of its path round the sun, and the same number holds
@@ -12,5 +10,4 @@ examples:
 - By the harmonic law, the year of Mars stands in a set ratio to the size of its path.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 941
-sourceFinalSha256: dec3ef9a977e2c66c231d5027dd05001763da5e543947fd2dafea76ceb9ace20
 reviewVerdict: first-pass

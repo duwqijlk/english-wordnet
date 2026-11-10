@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'address%1:07:01::'
 synsetId: 05089855-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 65edc0d5358fdef4f46fa22b413165dede20bf14e1c8b76da9a3f3e50fb7fa12
 simpleMeaning: The position a golfer takes just before swinging at the ball.
 scope: This is a golfer's body position before a shot, not the act of aiming the club, a formal speech,
   a way of speaking to someone, a place where someone can be reached, delivery details or a house sign,
@@ -13,5 +11,4 @@ examples:
 - His address looked fine, but the swing sent the ball into the trees.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 78
-sourceFinalSha256: 66dd3e5498cea6c10585696db1601124ccbd2d0f1a1d7d380aa9801262bc0598
 reviewVerdict: first-pass

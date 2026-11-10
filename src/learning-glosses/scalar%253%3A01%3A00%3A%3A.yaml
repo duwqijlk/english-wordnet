@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'scalar%3:01:00::'
 synsetId: 03146439-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 779f891ddebf57625358d6952897d87009a049a6e4f83ffdec42a327398a75c6
 simpleMeaning: About a size with no direction, such as mass or speed, that is fully given by its size
   alone.
 scope: A size with no direction, fully given by its size alone; not a vector, a size with direction, and
@@ -12,5 +10,4 @@ examples:
 - Speed is scalar, but velocity is not.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1137
-sourceFinalSha256: 4a7365b9008c483973e7bb76b18bf8d3cc845d72a3ccf9eac5e9ad1eecd9e7f7
 reviewVerdict: first-pass

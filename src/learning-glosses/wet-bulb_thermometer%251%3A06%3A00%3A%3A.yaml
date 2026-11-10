@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'wet-bulb_thermometer%1:06:00::'
 synsetId: 04580911-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 302257b307ddf9281dc00ab88da4b1b885ff018e224aed4554428d64fd50934c
 simpleMeaning: 'In a psychrometer, this tool finds how much water is in the air: its round end, wrapped
   in damp cloth, measures heat.'
 scope: A psychrometer uses this tool, whose damp-cloth end measures heat, to find how much water is in
@@ -12,5 +10,4 @@ examples:
 - We read the wet-bulb thermometer beside the dry one to find the humidity.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1050
-sourceFinalSha256: 5ed1fe5287f5ef4112055cc7b58c7ce629b399c7b7f1dfa89a214737ecef5dba
 reviewVerdict: first-pass

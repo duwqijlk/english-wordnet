@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radiotherapy_equipment%1:06:00::'
 synsetId: 04052035-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 528943b2ffb8f20f9e1c6d204d00af897e152ce8aaf0370fd13cff5790bcc81e
 simpleMeaning: Machines used to treat sickness with strong rays or rays given off by atoms
 scope: Machines that treat sickness with strong rays or rays from atoms, not machines that take pictures
   of the body.
@@ -11,5 +9,4 @@ examples:
 - The radiotherapy equipment sends strong rays at the sick part of the body.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1465
-sourceFinalSha256: a06aedab73b471ecda210f0981cf5ca437b948f91e9e9203e9fc9d0fd7a44a38
 reviewVerdict: first-pass

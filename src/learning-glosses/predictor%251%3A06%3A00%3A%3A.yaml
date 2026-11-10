@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'predictor%1:06:00::'
 synsetId: 04005225-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 26b2ddb985811ab362aa5b4a9ce99bbc0fcdeb7adf927f64818bc92f694ec57e
 simpleMeaning: a computer that controls guns fired at planes in the air and works out where a plane will
   be when a shell gets there
 scope: A machine that controls guns fired at planes in the air; it is not facts that help you guess what
@@ -12,5 +10,4 @@ examples:
 - Soldiers used the predictor to work out where the shell would meet the plane.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 484
-sourceFinalSha256: 1d733f5a0efe6846a8e00acc9d9fccc1d9c813c95a17f0d98d4ffcf7b1f82fac
 reviewVerdict: first-pass

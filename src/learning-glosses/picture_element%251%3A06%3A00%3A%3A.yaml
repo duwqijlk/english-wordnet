@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'picture_element%1:06:00::'
 synsetId: 03958553-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 61c7abae9f2fd17a909c92b5dfa8dc3ff2dd652b17fef07835961cd02e50483e
 simpleMeaning: In computer science, the smallest separate part of an image on a CRT screen, a screen of
   the old tube kind, most often a small spot of colour
 scope: 'Also called pixel and pel: in computer science, the smallest separate part of an image on a screen,
@@ -12,5 +10,4 @@ examples:
 - More picture elements per inch make the image sharper.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1125
-sourceFinalSha256: a20c59cffa1d5e875ae4ac53cd84f5320c67164024750a1fd0ed1079b63a7c58
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'credit%1:09:00::'
 synsetId: 05811755-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5cb9bab0e59f5b00c4fcb111d32a70082adf9c2e8d630c61871cdc888d190e72
 simpleMeaning: a judgement, based on past dealings, of how reliably a person or organization can pay what
   it owes
 scope: This is an assessment of someone's ability to repay, not a loan arrangement, an academic unit,
@@ -12,5 +10,4 @@ examples:
 - Suppliers check a new customer's credit before agreeing to monthly payments.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 67
-sourceFinalSha256: fe525cbe62ad9e2cf1dfafab5c32da8d3a488da46a5a0cdeacb14f76cf8cfda6
 reviewVerdict: first-pass

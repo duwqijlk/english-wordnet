@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'chi-square_statistic%1:09:01::'
 synsetId: 92440864-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f6fdaef67f707ecbd4cd9a2ab5c41923e2808f596ec28a73967573a4c8b08d63
 simpleMeaning: A number measuring how observed results differ from expected ones, used in tests of fit
   (how well data match a predicted pattern), in checks of independence, and to estimate spread.
 scope: This is the calculated number itself, not the chi-square test that produces it or the distribution
@@ -12,5 +10,4 @@ examples:
 - Researchers reported a chi-square statistic of 3.1 and found no significant difference between the groups.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 92
-sourceFinalSha256: b61a7c90b4f07974b09449cd17468ede9f61706d1e619bbc611801c821fcb9a7
 reviewVerdict: first-pass

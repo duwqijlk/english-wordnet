@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'speedometer%1:06:00::'
 synsetId: 04280915-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0d3445deea915d1a038621a46f518a3bb8726489982cdc6ca6e2b6fef3e7616e
 simpleMeaning: a tool fixed to a vehicle that measures and shows how fast the vehicle is going
 scope: This is the tool in a vehicle that shows how fast it is going. It is not a tool that shows how
   far the vehicle has gone.
@@ -11,5 +9,4 @@ examples:
 - He looked at the speedometer to check how fast the car was going.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 606
-sourceFinalSha256: 4538096843680dacd6055737691c3913b60815c2035820a3d34558925d7d086a
 reviewVerdict: first-pass

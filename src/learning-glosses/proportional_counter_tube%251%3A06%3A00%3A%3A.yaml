@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'proportional_counter_tube%1:06:00::'
 synsetId: 04019041-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 903dcf75c7842cbbd2d8c7b542a776ca8c581c9d06a4137db9c5208d0a8c614b
 simpleMeaning: a pipe that counts tiny charged bits, giving out a pulse that grows with the number of
   bits made
 scope: A pipe that counts tiny charged bits, giving out a pulse that grows with the number made; also
@@ -13,5 +11,4 @@ examples:
 - We read the output of the proportional counter tube after each test.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1129
-sourceFinalSha256: c41ee4138494d436ae0ff7d73d27bcaa5206acadffd8edf78859b12f15457d0f
 reviewVerdict: first-pass

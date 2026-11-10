@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'church_calendar%1:28:00::'
 synsetId: 15206553-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4657aab0d2462f21f59678f4b32e9ad4808680912383962d0c1621dd3ccbfc96
 simpleMeaning: a list of the dates of fasts and feasts in the Christian year
 scope: A list of the dates of fasts and feasts in the Christian year, also called an ecclesiastical calendar;
   not a wall calendar of the months and not a list of saints' days alone.
@@ -11,5 +9,4 @@ examples:
 - She checked the church calendar for the date of the feast.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1072
-sourceFinalSha256: 3b5acfa68f50974ed0a6459502bf87ad46bc5c6ca26a0e99e8c1008fd8ce9de0
 reviewVerdict: first-pass

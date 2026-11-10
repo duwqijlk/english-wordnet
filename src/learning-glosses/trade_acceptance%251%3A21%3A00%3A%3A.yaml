@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'trade_acceptance%1:21:00::'
 synsetId: 13399347-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e71caa469755bada85656deb3c1c81eaf1f6cd9beaace5ea181fc87866130b9e
 simpleMeaning: A written order to pay for one named sale, drawn up by the seller to the buyer and signed
   by the buyer to show agreement to pay
 scope: A written order to pay for one named sale, signed by the buyer; not a cash payment and not a promise
@@ -12,5 +10,4 @@ examples:
 - The trade acceptance was signed by the buyer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1152
-sourceFinalSha256: f6542d1ea5598753f2b572930417f13e592d6b1a1bf3f8d99a064a44f8647035
 reviewVerdict: second-pass

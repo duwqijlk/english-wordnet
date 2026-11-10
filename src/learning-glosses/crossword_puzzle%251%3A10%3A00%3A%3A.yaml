@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'crossword_puzzle%1:10:00::'
 synsetId: 06798511-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9c28278a47e79a85c1388e4fde3c7dc0dd6ab0300050164b377fa66d71b27105
 simpleMeaning: A word game in which words that fit numbered hints must be found and put into the empty
   squares of a grid
 scope: This is a word game with numbered hints and a grid, not a picture game and not a test of facts;
@@ -12,5 +10,4 @@ examples:
 - The crossword puzzle in today's paper was very hard.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1079
-sourceFinalSha256: eb616b26678cf21acc243b022b1a82bc80cad55ff5e99299fb19312bba3fce49
 reviewVerdict: first-pass

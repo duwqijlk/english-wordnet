@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stacker_crane%1:06:01::'
 synsetId: 92450588-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 74d260dc2176876aa2929de5260e86abbae54462c12a4ed6a510316c25208693
 simpleMeaning: A lifting machine with a fork that lifts and moves goods in a store run by computers, putting
   them away on shelves and taking them out again.
 scope: A lifting machine with a fork, used in a store run by computers, not a forklift driven by a person.
@@ -11,5 +9,4 @@ examples:
 - The new warehouse uses a stacker crane to store and fetch goods.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 913
-sourceFinalSha256: 1c75074c9466118114ccb9a9572df51c0364b0c0bf263543b6a63915da31ec61
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'charge%2:30:00::'
 synsetId: 00518927-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e7cc0402399c0aca128edde5b7a27a18f37343b08e664f973702d564d2c88d91
 simpleMeaning: put power back into a battery by running a current through it the reverse way, not letting
   the power out
 scope: This is refilling a battery with power, not giving an object a static electrical imbalance.
@@ -11,5 +9,4 @@ examples:
 - The mechanic charged the car battery with a small current.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 65
-sourceFinalSha256: 7e090f016861e99e3c5f026a1ab28aedd6a43aae4dd6a6f5aea43f6bb657d3c3
 reviewVerdict: first-pass

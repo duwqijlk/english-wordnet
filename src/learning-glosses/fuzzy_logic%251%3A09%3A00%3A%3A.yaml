@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fuzzy_logic%1:09:00::'
 synsetId: 06176210-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b1707f35bf30d989320d7c6efb41557f8b48537fee50282b6964aaa30250c886
 simpleMeaning: a way of working with true and false where a thing can be partly true, with a number from
   0 to 1 for how true it is
 scope: A way of working with true and false that lets a thing be partly true, not the usual way in which
@@ -12,5 +10,4 @@ examples:
 - The engineer used fuzzy logic to set the fan speed by degrees.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1391
-sourceFinalSha256: a53ad77f4983e644295adb1562f8d31ae902233a48b209782850a22aee7b29ab
 reviewVerdict: first-pass

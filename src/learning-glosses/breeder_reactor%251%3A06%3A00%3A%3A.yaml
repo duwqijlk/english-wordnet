@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'breeder_reactor%1:06:00::'
 synsetId: 02900232-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 73c0b6a2347c7b2bb4e3f3c2e45172663b02c10d42a6f65410cc5013860f50fb
 simpleMeaning: a machine that makes power from atoms and makes more new fuel than the fuel it uses up
 scope: A machine that makes power from atoms and makes more new fuel than it uses up, not a machine that
   burns up all its fuel and not a coal power plant.
@@ -11,5 +9,4 @@ examples:
 - Engineers built a breeder reactor to make use of the extra fuel.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1340
-sourceFinalSha256: bb3a748b740ef49be811631e93f3186321a2b758019db06b74cd08507c122ea9
 reviewVerdict: first-pass

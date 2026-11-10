@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'police_court%1:14:00::'
 synsetId: 08351800-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a65b52c8fd85a4162d36cf0d107565dc87a37d453fcb19b1c8ffc7302e43958d
 simpleMeaning: Small crimes are dealt with in this place, which can also send a person charged with a
   grave crime to a higher place for trial.
 scope: This place deals with small crimes and sends grave cases on to a higher court, its nearest kin.
@@ -11,5 +9,4 @@ examples:
 - The grave case went from the police court to a higher place for trial.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1026
-sourceFinalSha256: 4e2638f836bdbe66468d675ba57cfd29319183020479d43cd63a3f5208801f81
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'retrial%1:04:00::'
 synsetId: 01201855-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b683759f619e6676acf037806c64b8251918b3480578484d201ae786154ae993
 simpleMeaning: A new trial where the same court reexamines already-decided issues, after the first trial
   was found improper or unfair through procedural errors.
 scope: A second hearing of a case by the same court after the first hearing was found unfair because of
@@ -12,5 +10,4 @@ examples:
 - At the retrial, the same court looked again at the points already settled.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 910
-sourceFinalSha256: 0744257cd0fcd09153349570316a54a7a5b6821a340e98c8476885b95b088101
 reviewVerdict: second-pass

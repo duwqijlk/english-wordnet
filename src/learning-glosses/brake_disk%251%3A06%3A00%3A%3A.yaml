@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'brake_disk%1:06:00::'
 synsetId: 02893429-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: de9feb578bf5f1e6f84fc0186143b5d1f990490d10b597d5a00f776b59032a31
 simpleMeaning: A flat round plate fixed to the wheel, which the pads press to slow the car
 scope: A flat round plate fixed to the wheel, which the pads press to slow the car; not the wheel itself
   and not a drum that turns with the wheel.
@@ -11,5 +9,4 @@ examples:
 - Rust had eaten into the brake disk.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1178
-sourceFinalSha256: 3761badef43faa5c863b521fd4c419cf6eef6b4e7dbd0be95536912bfed49c4d
 reviewVerdict: first-pass

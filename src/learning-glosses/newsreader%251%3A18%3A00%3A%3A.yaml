@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'newsreader%1:18:00::'
 synsetId: 10376576-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4a2b411acc1df4b9fcfd99f7633a4d193676594d8201765d00b7ef238ec07ad5
 simpleMeaning: a person who reads short reports about recent events aloud on television or radio
 scope: A person who reads reports aloud on television or radio, not a reporter who goes out to find stories
   and not a person who watches or listens.
@@ -11,5 +9,4 @@ examples:
 - He works as a newsreader for a local radio station.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 604
-sourceFinalSha256: fd03559b9cc78ee629da6f9beff0fe6b5b7a5bbbb81f784918cab3828b4c574c
 reviewVerdict: first-pass

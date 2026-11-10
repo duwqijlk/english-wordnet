@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'homing_device%1:06:00::'
 synsetId: 03535221-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 31cbd453e9e81fdf6737a097bee3bab2eaf77ee547809ca9adefab21afe3dc9d
 simpleMeaning: The part inside a guided missile that steers it toward its mark.
 scope: The part inside a guided missile that steers it toward its mark, not a radar that finds the mark
   and not a compass that only points north.
@@ -11,5 +9,4 @@ examples:
 - A fault in the homing device sent the missile off course.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1227
-sourceFinalSha256: dae15bafd8666242ec8407a0485fdba0651c7bf1af4dfbdc469dad3dc4b746c0
 reviewVerdict: first-pass

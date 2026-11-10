@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'summary_judgment%1:04:00::'
 synsetId: 01193051-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 772ed17eb846fb46fe6605d25169b2f35a33dc95833f732e22eced524dd758d7
 simpleMeaning: A court ruling given before a verdict, when the facts that matter are not in doubt and
   the law says one side should win.
 scope: A court ruling given before a verdict when the facts that matter are not in doubt; also called
@@ -13,5 +11,4 @@ examples:
 - Summary judgment ended the case without a jury.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1148
-sourceFinalSha256: 117fb4613610ee31b3eabd262cbca48c5b620272d157430f1c4152a1f17b8546
 reviewVerdict: first-pass

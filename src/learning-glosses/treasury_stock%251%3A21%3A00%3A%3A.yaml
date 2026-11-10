@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'treasury_stock%1:21:00::'
 synsetId: 13441124-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 93156e0356f5f83550fa677160f2ca5e94fd3638bd004a887663062f2d8a7403
 simpleMeaning: Bought back to scrap or sell again, a firm's own shares count as given out but not held,
   with no vote and no payouts.
 scope: Also called reacquired stock and treasury shares, these are a firm's own shares bought back to
@@ -12,5 +10,4 @@ examples:
 - That treasury stock paid no money and carried no vote.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1045
-sourceFinalSha256: 35831228425a9d86d7b40a39717f71022f9bd169892f608a952dd5d585fd6484
 reviewVerdict: first-pass

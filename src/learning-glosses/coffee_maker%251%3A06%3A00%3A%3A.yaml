@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'coffee_maker%1:06:00::'
 synsetId: 03067341-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0582a245a853fb7e3b01bee30c4e5df7880dadd49c7328367d3b43b7b89760ea
 simpleMeaning: a machine for the kitchen that heats water and lets it run through ground beans to give
   a hot drink by itself
 scope: This is a kitchen machine that brews a hot drink by itself; not a coffee grinder, which only crushes
@@ -12,5 +10,4 @@ examples:
 - The coffee maker gurgled as hot water ran through the ground beans.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1353
-sourceFinalSha256: 657f81070382c0126df87c5291ecd782e6f8d9015de590257c137b376a76e52b
 reviewVerdict: first-pass

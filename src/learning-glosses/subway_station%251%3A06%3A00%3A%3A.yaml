@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'subway_station%1:06:00::'
 synsetId: 04356155-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8025ae02746e9783a0c3a0a9165d149b42586715dff48440aeb08b9031dd6132
 simpleMeaning: A place for people to get on and off trains that run under the streets or on high tracks
   in a city.
 scope: This is a place for city trains, not a station for long-distance trains.
@@ -11,5 +9,4 @@ examples:
 - People got on and off the trains at the subway station.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 966
-sourceFinalSha256: efc07b119da5d91c1933a333feeb16703acded25a41270985fa7a68cc5680920
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'judgment_by_default%1:04:00::'
 synsetId: 01191027-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cc8ffe3a8ef428514209b23774c6107d726b2672ddc80319a948355e5086d92c
 simpleMeaning: In law, a court decision in favour of the person who sued, made when the other side fails
   to appear in court.
 scope: This is a court decision in favour of the person who sued, made when the other side fails to appear
@@ -13,5 +11,4 @@ examples:
 - He won a judgment by default when the other side never came to court.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1105
-sourceFinalSha256: 7e8c943c590703a52eb0e31b3b54e5816fb2c143ef2d75cc5ad517c2953700eb
 reviewVerdict: first-pass

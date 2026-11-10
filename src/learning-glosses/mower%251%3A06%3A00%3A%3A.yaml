@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mower%1:06:00::'
 synsetId: 03655235-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d8537ccca8f960bad05b9c24c52ef722fecfd4bea21757ccb7a5c7f1860c307f
 simpleMeaning: a garden tool used to cut grass on lawns
 scope: This is the garden tool used to cut grass on lawns, not the grass itself and not the act of cutting
   it.
@@ -11,5 +9,4 @@ examples:
 - The new mower cuts the grass quickly and evenly.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 502
-sourceFinalSha256: e2ec3d84e855b0d5e21063e788b995cb950eb20af63d97cfbff610ec782f1859
 reviewVerdict: first-pass

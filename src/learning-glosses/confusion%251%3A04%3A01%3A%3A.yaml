@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'confusion%1:04:01::'
 synsetId: 00380562-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: be55416818e1686d3cfa1de378d62df20b754a05e252c744a3bdb3c488dbf0f7
 simpleMeaning: an act that mixes things up so badly that they lose their own shape and cannot be told
   apart
 scope: An act that mixes things up until they cannot be told apart, not a mess from things going wrong
@@ -12,5 +10,4 @@ examples:
 - The mixing of the two lists caused confusion for the clerks.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 196
-sourceFinalSha256: 6fcf065f594944903b3b28b483320c7712dfd8f668be95e8eeec3561b11e88b6
 reviewVerdict: first-pass

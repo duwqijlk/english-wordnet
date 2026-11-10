@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'target_organ%1:08:00::'
 synsetId: 05523718-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ed299f1aeebbba0ad8957c44985baaadc07d7172f6038b8226970d78203cf8c1
 simpleMeaning: In radiology, the body part meant to take in the healing dose of a substance that gives
   off rays
 scope: In radiology, the body part meant to take in the healing dose of a substance that gives off rays;
@@ -12,5 +10,4 @@ examples:
 - The target organ took in most of the healing rays.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1150
-sourceFinalSha256: 9e2c01bcd9f8d5f47d78efcd142ffb49939ea7b20fa4087f9c0695fb1ac4a73e
 reviewVerdict: first-pass

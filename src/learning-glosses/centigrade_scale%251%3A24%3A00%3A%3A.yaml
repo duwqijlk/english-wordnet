@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'centigrade_scale%1:24:00::'
 synsetId: 13874797-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c45b7d54ddc8c01f1fbf5fc2e73fd4c37b57121dd14311e749286634d477c120
 simpleMeaning: a way of measuring heat in which water freezes at 0 degrees and boils at 100 degrees
 scope: A way of measuring heat in which water freezes at 0 degrees and boils at 100 degrees; international
   scale is another name for this sense, not the Fahrenheit way of measuring heat and not a ruler.
@@ -11,5 +9,4 @@ examples:
 - We used the centigrade scale to read the heat of the water.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1070
-sourceFinalSha256: c9d839eb6c11a39a3b358dfdd23c9b172e9f6e8841bc408f344b1a7a05eeb958
 reviewVerdict: first-pass

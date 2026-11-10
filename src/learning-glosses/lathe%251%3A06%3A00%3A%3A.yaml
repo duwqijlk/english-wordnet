@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'lathe%1:06:00::'
 synsetId: 03651610-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a566e3ccf98a9968e306c28d5ccae3875b69d2f64862902d2edcfc2151bd5f19
 simpleMeaning: a machine for shaping metal or wood, where the piece being made turns on a line that goes
   from side to side against a tool that stays still
 scope: A machine that shapes metal or wood by turning the piece against a still tool, not a machine that
@@ -12,5 +10,4 @@ examples:
 - The metal part turns on the lathe while the tool cuts it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 649
-sourceFinalSha256: eaf8719045fee7626bbec0c78ed005d9a1d0591daf196b935efacf7b5dfcfde4
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'classification%1:04:01::'
 synsetId: 01151399-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e39c28225cf29cdc345be13a96d12e87498901420bbe4758764f9eef969aa489
 simpleMeaning: a rule from the government that only allowed people may see or have certain papers or weapons
 scope: This is a government rule that keeps certain papers or weapons for allowed people only; it is not
   sorting things into groups, and not a group made by sorting.
@@ -11,5 +9,4 @@ examples:
 - Because of its classification, the new weapon could be seen only by allowed staff.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 590
-sourceFinalSha256: d8d39296e1e452fec144602a127707086453417c2bc58f6fbfc0c67733139f76
 reviewVerdict: first-pass

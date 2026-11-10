@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radar_target%1:10:00::'
 synsetId: 07278026-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 608b0690f6231445d93e59902b6a96ff146a628d8492e7979fba3245433113b4
 simpleMeaning: A mark on a screen that shows the place of a thing throwing the signal back
 scope: 'Also called a pip or a blip: a mark on a screen showing where a thing throwing the signal back
   is, not the thing itself.'
@@ -11,5 +9,4 @@ examples:
 - Two radar targets showed up near the coast.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1464
-sourceFinalSha256: 751822963d9d80e4f5c556cfeff4e38a1d0701985369ee3418c18842b6fc0642
 reviewVerdict: first-pass

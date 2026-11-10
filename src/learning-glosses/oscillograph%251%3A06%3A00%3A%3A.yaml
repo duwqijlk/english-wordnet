@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'oscillograph%1:06:00::'
 synsetId: 03863207-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 589f4ea3e9eb6c02d585a48965a80a6e7e791dcb6ab346b2dc9094bc6586b0ee
 simpleMeaning: A tool that draws a record of the wave shapes made by electric push and flow as they go
   up and down
 scope: A tool that records the wave shapes of changing electric push and flow, not a tool that measures
@@ -12,5 +10,4 @@ examples:
 - An oscillograph drew the changing voltage as a wavy line on paper.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1445
-sourceFinalSha256: 22a46d26eedf70a389691ac0db80b5684c1a3d63090017b90f766a528b918d2d
 reviewVerdict: first-pass

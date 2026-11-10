@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dip_circle%1:06:00::'
 synsetId: 03571735-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ed897baffd83d9cf8a3f2c745ff91a2f3eabb277df1634901dfd87c7d399fe46
 simpleMeaning: Used in a plane, this tool finds the angle at which a magnet's pull tilts down from level.
 scope: This tool, also called an inclinometer, is used in a plane to find the angle at which a magnet's
   pull tilts down from level.
@@ -11,5 +9,4 @@ examples:
 - A dip circle on the plane showed how far the pull tilted down from level.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 994
-sourceFinalSha256: 54aa95ed15551e110c631068e5945c46ca112890882ceafd4c0cb8dd93901ffb
 reviewVerdict: first-pass

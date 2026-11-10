@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: elect%5:00:00:incoming:00
 synsetId: 01297980-s
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 80c11b0c748f0865a337ae9f744466561e1aa9111f79db3c71bb0d8326a100c7
 simpleMeaning: chosen by vote for a post, but not yet started in the post
 scope: Chosen by vote for a post but not yet started in it, not someone already in the post.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The mayor elect met with the town council.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 291
-sourceFinalSha256: dccfd7cd24909dc9240688544a4f063917b0ee226f2f0fa1af793dc29b575c3f
 reviewVerdict: first-pass

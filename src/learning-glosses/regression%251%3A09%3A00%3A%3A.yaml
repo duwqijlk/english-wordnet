@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'regression%1:09:00::'
 synsetId: 06036794-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d6b09aa0db097783763b4812dbe25fd5ef150bd9ec68c5c352906f1136963c2e
 simpleMeaning: In statistics, how picked values of x are linked to seen values of y, in a way that lets
   you work out the most likely y for any x
 scope: Also called regression toward the mean, simple regression, and statistical regression. In statistics,
@@ -13,5 +11,4 @@ examples:
 - With regression, she could predict sales from the price.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 619
-sourceFinalSha256: 100c8e4ed0b621fae6b65fe9c14a799a59a79b7dc20ad00283dfddbb894454c4
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'part-of-speech_tagger%1:10:00::'
 synsetId: 06590092-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 722d32f508ecde1fea226407d6bf8fc6634094a0b9930a4d605de6ba2820d1dc
 simpleMeaning: Marks put on each word by a computer program show what kind of word it is
 scope: 'Also called a pos tagger: a program that marks words by kind, not a program that checks spelling
   or grammar.'
@@ -11,5 +9,4 @@ examples:
 - Our part-of-speech tagger marks nouns, verbs, and adjectives.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1448
-sourceFinalSha256: 4854629bfa2a8007523eaf18248af3870d7f7aba515e8a9d42cd81ca1d7a13f9
 reviewVerdict: first-pass

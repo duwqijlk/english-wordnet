@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'musical_accompaniment%1:10:00::'
 synsetId: 07045239-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d60c12b5d69167215ce2250fa51187e0cc6ac1174dc8d02a4fc71af4c0eab606
 simpleMeaning: A sung or played part in music that backs up or sets the background for other parts.
 scope: A sung or played part in music that backs up other parts; support, backup and accompaniment are
   other names for it, not the main tune and not a part played alone.
@@ -11,5 +9,4 @@ examples:
 - He wrote the musical accompaniment for the choir.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1250
-sourceFinalSha256: 7a31a5bf7a6adb9762c335e1ed90401f97bc4771271c61eb4ba61acc3afc84d6
 reviewVerdict: first-pass

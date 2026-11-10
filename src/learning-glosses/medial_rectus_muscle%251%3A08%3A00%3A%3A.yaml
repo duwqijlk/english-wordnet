@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'medial_rectus_muscle%1:08:00::'
 synsetId: 05324400-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 432e6e357cdb530ed09d2c0635d0950f621424ce6a66fa25a7d5b60d62dd7ad5
 simpleMeaning: A cord of flesh in the eye that turns the eyeball toward the nose when it tightens
 scope: A cord of flesh in the eye that pulls the eyeball toward the nose; medial rectus is another name
   for this sense, not the cord that turns the eye outward and not a cord of the eyelid.
@@ -11,5 +9,4 @@ examples:
 - When the medial rectus muscle tightens, the eye turns inward.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1245
-sourceFinalSha256: a967a6f48a3b92522f8557d3f90e953f3fd9265a5bcbfe3be30b8f268fa6679e
 reviewVerdict: first-pass

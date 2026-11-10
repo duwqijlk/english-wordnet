@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hospital%1:14:00::'
 synsetId: 08071169-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 482042aa707796ed79f06b8fbacbd43f1c3ed8c82f14e898a3d2e9ce6a782db2
 simpleMeaning: a place where doctors and nurses treat people who are ill or hurt.
 scope: This is not a pharmacy where you only buy medicine, and not a care home for older people; it is
   a place where ill or injured people receive treatment, often staying overnight.
@@ -11,5 +9,4 @@ examples:
 - The hospital has a new unit for children.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 18
-sourceFinalSha256: 1f9e46344cd2c919a91fcdbbc9440ce87979f49694ab50e4d12ce339997beb26
 reviewVerdict: first-pass

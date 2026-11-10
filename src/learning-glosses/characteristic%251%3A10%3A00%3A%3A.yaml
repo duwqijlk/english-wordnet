@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'characteristic%1:10:00::'
 synsetId: 06826168-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3fe783e13d0a3b234eaaa94a789a8c34071e483b306e163c83a25c3ee0008549
 simpleMeaning: In logs, the whole-number part, with its sign, of a log's value — in ‘log 643 = 2.808’
   it is 2
 scope: In logs, the whole-number part of a log's value, not a quality of a machine and not a striking
@@ -12,5 +10,4 @@ examples:
 - The characteristic of the log tells you the size of the number.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 330
-sourceFinalSha256: 2f3985ac76cb8265ccede452014759f37aa7b3fecf96cd9db17b173cc47a063f
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stock_issue%1:04:00::'
 synsetId: 01062454-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4381203cb115c3f4a9d475ad2d65fdd7fba9edb9c4f3bb4654aeb222508843bb
 simpleMeaning: In company law, the approval and giving out of shares for sale to the public, or the shares
   given out at one time
 scope: This is the approval and giving out of shares for sale, or the shares given out at one time, not
@@ -12,5 +10,4 @@ examples:
 - Investors bought into the stock issue on its first day.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1292
-sourceFinalSha256: 9915e12f3c6ec97ff227d4aa01b906f68d0447842ede13425187a6bf174ffd31
 reviewVerdict: first-pass

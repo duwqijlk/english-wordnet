@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'transformer%1:06:00::'
 synsetId: 04478550-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 28d67782287cba9d40d634b39cc6898f182863d96013020fdcacd63a44281aee
 simpleMeaning: An electric device that takes a flow of power that keeps changing direction, at one strength,
   and turns it into a flow at a different strength
 scope: This changes power from one strength to another, not a device that makes power and not one that
@@ -12,5 +10,4 @@ examples:
 - A broken transformer left the whole street without light.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 452
-sourceFinalSha256: 5835e96ce78b783d720e814bf85548b6848a8aefaf6720ea38bd4781e500f9ba
 reviewVerdict: first-pass

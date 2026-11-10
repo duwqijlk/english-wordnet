@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'judgment_lien%1:21:00::'
 synsetId: 13422919-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a3c3c94bc658b0898c5ae9abb1841804c6f7b777cfb5a65bc9b3b70703e670f1
 simpleMeaning: a court order giving a person owed money a claim on what the debtor owns, which can be
   carried out by the sheriff taking it and selling it
 scope: A claim on a debtor's property given by a court, not a loan and not a claim made without a court
@@ -12,5 +10,4 @@ examples:
 - The judgment lien meant the house could not be sold until the debt was paid.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 869
-sourceFinalSha256: 0f285b1260dd1b78e7b8a61f2cbc72f0b5c28555f7f58878ee8851ae0b52668c
 reviewVerdict: first-pass

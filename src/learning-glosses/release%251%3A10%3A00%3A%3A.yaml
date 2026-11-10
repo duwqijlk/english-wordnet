@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'release%1:10:00::'
 synsetId: 06760197-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fb4f22736beb549090d64c15c39b8fe7e6720476f7cff03b6fb194f48f30cedb
 simpleMeaning: an announcement given out to journalists to add to or take the place of something spoken.
 scope: This is a statement for journalists, not the act of setting something free, ending a job, or letting
   fluid out.
@@ -11,5 +9,4 @@ examples:
 - The senator's office issued a release denying the rumors.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 63
-sourceFinalSha256: 819faaacdf851836e3e5298b306d3408cfd429b096faf4ce8820a54606cfbb24
 reviewVerdict: first-pass

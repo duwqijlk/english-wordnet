@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radiologist%1:18:00::'
 synsetId: 10523799-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5bde6ac81e803356b8636506460793fe3770b997f230f089a7c4f070ba7658e7
 simpleMeaning: a special kind of doctor who treats illness with X-rays and substances that give off strong
   rays
 scope: A doctor who treats illness in this way, not a general doctor and not a surgeon who cuts the body
@@ -12,5 +10,4 @@ examples:
 - She saw a radiologist for treatment with strong rays from a special substance.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 550
-sourceFinalSha256: 0e375efac8666e95173508c536cbac3bce44d4e9d6368b13229a81ae0a098511
 reviewVerdict: first-pass

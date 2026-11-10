@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gas_line%1:06:01::'
 synsetId: 03406415-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8524e78288874b17702e796b818cea3bd14e4e5735b35401cef17d34f38df3f8
 simpleMeaning: A pipe that takes fuel from a tank to a motor that burns it.
 scope: This is a pipe that takes fuel from a tank to a motor that burns it; fuel line and petrol line
   are other names for this sense, not a pipe that carries water and not the tank itself.
@@ -11,5 +9,4 @@ examples:
 - The mechanic replaced a cracked gas line.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1218
-sourceFinalSha256: f93b4cae349d0328b71eb823a8768cec46bf8090659cbae684415531f7bfa348
 reviewVerdict: first-pass

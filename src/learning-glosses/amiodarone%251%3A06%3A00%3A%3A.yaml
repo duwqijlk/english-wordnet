@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'amiodarone%1:06:00::'
 synsetId: 02705163-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 376b3c5cc571433e812a7bea348062e482f83e04d85395b24ce9710cb71f3e5e
 simpleMeaning: This drug, sold as Cordarone, steadies a badly out-of-beat heart, but it can kill, so it
   is used only when safer drugs have failed.
 scope: This drug steadies a badly out-of-beat heart and is used only when safer drugs have failed, not
@@ -12,5 +10,4 @@ examples:
 - He took amiodarone only after safer drugs had failed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 921
-sourceFinalSha256: 3608d1ac49942b7c843a9b546fee8dac677879fe4e3639ab6e2d2628ac5dadb9
 reviewVerdict: first-pass

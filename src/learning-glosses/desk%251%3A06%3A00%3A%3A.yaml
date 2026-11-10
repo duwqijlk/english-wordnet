@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'desk%1:06:00::'
 synsetId: 03184367-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e82760afcdad3c01dd4a6223293649b1b9673b5420ced546522905278f76cac6
 simpleMeaning: a table-like piece of furniture with a flat surface for writing on, often with drawers
   or storage compartments
 scope: This is furniture made for writing at, not a dining table or a shop counter.
@@ -11,5 +9,4 @@ examples:
 - The letter had been sitting on her desk for a week.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 135
-sourceFinalSha256: 8b84ea6c1dbf9a6683e3972acc13d92a662d02389f492d27453cda87aef885f2
 reviewVerdict: first-pass

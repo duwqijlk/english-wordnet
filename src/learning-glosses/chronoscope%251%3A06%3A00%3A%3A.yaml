@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'chronoscope%1:06:00::'
 synsetId: 03030791-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e8e5e211e0fa67d0bd95b77dfaa6bd0bd036fe6cdfe28c5e2ce7144f8b10717c
 simpleMeaning: a tool that measures very short bits of time with great care
 scope: This is a tool that measures very short bits of time with great care, not a clock that shows the
   time of day and not a tool that measures long stretches of time.
@@ -11,5 +9,4 @@ examples:
 - The chronoscope measured the short gap between the two sounds.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1350
-sourceFinalSha256: dcf98a1f72c29cc32763bfc6a6003eaf22ec128741f1df94727063d2ccc4470a
 reviewVerdict: first-pass

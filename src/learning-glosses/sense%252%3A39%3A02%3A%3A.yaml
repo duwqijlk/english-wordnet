@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sense%2:39:02::'
 synsetId: 02159678-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5c4b728bcc855ae953f526641c1f15b09dffe34370663f258534c0d16ba73b53
 simpleMeaning: To pick up something by itself, without a person doing it, as a machine does.
 scope: It is about a device noticing something, not about a person's feelings.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The door senses movement and opens by itself.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 13
-sourceFinalSha256: 98f542dd535f7b222be5cc05fc92c11c7fc234cd998ee5738f6e94edeb410658
 reviewVerdict: first-pass

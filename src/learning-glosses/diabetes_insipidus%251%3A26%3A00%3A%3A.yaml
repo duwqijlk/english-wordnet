@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'diabetes_insipidus%1:26:00::'
 synsetId: 14143252-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a77eca1bbaa2678f9c36b9352bd9843f8a17d8e4b79767e9b1aba3131c0ea04a
 simpleMeaning: A rare condition where the body lacks a hormone that controls the kidneys, so large amounts
   of pale, watery urine are passed, causing great thirst and loss of water.
 scope: This is a rare hormone-related condition that causes huge amounts of watery urine, not the common
@@ -12,5 +10,4 @@ examples:
 - Diabetes insipidus results from too little of the hormone that tells the kidneys to conserve water.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 93
-sourceFinalSha256: 732cd663dce69fd9e03a5358dd5bad2aa6c1b1a0d4a2018b0cb77675cf6cf9b6
 reviewVerdict: first-pass

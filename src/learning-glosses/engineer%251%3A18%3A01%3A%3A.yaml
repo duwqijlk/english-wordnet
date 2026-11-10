@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'engineer%1:18:01::'
 synsetId: 10077522-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: af16e98978966139d472c0bd3364a59b5f46cd5a11e7275600e5262904e871b1
 simpleMeaning: the person who drives a train
 scope: The person who drives a train, not a person who plans out machines or buildings.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Our engineer stopped the train at the small station.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 180
-sourceFinalSha256: 71b36ce0eaf97c1873bb64e20a1208bd202db5fccaba7c0fb8baffcbd4f0fb14
 reviewVerdict: first-pass

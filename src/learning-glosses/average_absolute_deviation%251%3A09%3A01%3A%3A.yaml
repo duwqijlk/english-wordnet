@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'average_absolute_deviation%1:09:01::'
 synsetId: 92436720-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 57f79da7f30f19f3fe2fd5d4b297a3c581915f83c3ee408bd7a3847bd408a1ff
 simpleMeaning: 'How much a set of numbers spreads out: take how far each number sits from the middle value,
   and take the mean of those gaps.'
 scope: It is a single figure for the spread of a set of numbers, not for where its middle value lies,
@@ -12,5 +10,4 @@ examples:
 - She worked out the average absolute deviation to see how spread out the test results were.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 978
-sourceFinalSha256: 1a73a6c3cb296626a6c2ee32532b7d78ca1542ec9a3e5051adb16a5d5a199fb1
 reviewVerdict: first-pass

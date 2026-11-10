@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'isometry%1:24:00::'
 synsetId: 13808399-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 59cef58f8db6c5a29c9febe5b76ed94305cb9e920d9fefe6724cbe25946bcb13
 simpleMeaning: A matching that pairs each point of one set of points with one point of another set, keeping
   the gaps between each pair of points the same
 scope: A matching of point sets that keeps every gap the same, not a mere equality of measure and not
@@ -12,5 +10,4 @@ examples:
 - A turn of the shape is an isometry of the plane.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1233
-sourceFinalSha256: 59e8a11b56252a134a82f93796e08afcb009e7fb1e494e05dddbeb05fb3c0283
 reviewVerdict: first-pass

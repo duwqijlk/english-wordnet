@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'law_of_partial_pressures%1:09:00::'
 synsetId: 05885076-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f7cf9cfa5f9a436a818e2605f15cc190a1c8367bf038aa564775a9f235c6627f
 simpleMeaning: In chemistry and physics, the rule that a gas mixture's pressure equals the sum of what
   each gas would exert alone in the same space at the same temperature.
 scope: This is the rule for adding up the separate contributions of the gases in one mixture. It is not
@@ -14,5 +12,4 @@ examples:
 - Using the law of partial pressures, she calculated how much oxygen the breathing mixture held.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 95
-sourceFinalSha256: 9dd5cb50fbc9c9c146ffab4f7883d31524b9ef778259e5353a4016225c197b7d
 reviewVerdict: first-pass

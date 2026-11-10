@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'printed_circuit%1:06:00::'
 synsetId: 04010586-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0d72f24c40551c44461535c832d2ec0feeee96cae9ce586ffebad9f6cd83c20b
 simpleMeaning: 'A computer circuit built as an electronic unit: thin copper tracks are bonded onto an
   insulating board or card, and parts are pushed through holes and dip-soldered in place.'
 scope: This is the finished board carrying its copper wiring and soldered parts, not the bare board before
@@ -12,5 +10,4 @@ examples:
 - Machines place the parts on the printed circuit before it is dipped in the solder bath.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 101
-sourceFinalSha256: 7d226cd47c8c606161170e7fae5fe5b521c239086226cc9606989fbe424776bf
 reviewVerdict: first-pass

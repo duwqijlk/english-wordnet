@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'demister%1:06:00::'
 synsetId: 03179271-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 84c5f98059706fbeeca1d112802110810884f119b52d98cb37719ad4da17493e
 simpleMeaning: a heater that clears the thin cloud of water drops from the front window of a car
 scope: This is a heater that clears the thin cloud of water drops from a car's front window, not a wiper
   that pushes rain off and not a heater that warms the people in the car.
@@ -11,5 +9,4 @@ examples:
 - The demister cleared the mist in less than a minute.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1367
-sourceFinalSha256: ed86f76c6d4d64974a8e31c19ea6e30ca2c27ab2bd7e5897dca0478a192adaca
 reviewVerdict: first-pass

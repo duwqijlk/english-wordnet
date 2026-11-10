@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'marketable_yield%1:23:01::'
 synsetId: 92414972-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fe7aba3c8c5df23cb81c1db4fd1398ab2ceeb745aa99d13a4b92b2c527703f94
 simpleMeaning: the amount of a crop that can be sold, counted in kilograms for each hectare of land
 scope: The amount of a crop that can be sold; not the whole crop grown and not the amount from one plant
   only.
@@ -11,5 +9,4 @@ examples:
 - Farmers count the marketable yield in kilograms per hectare.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1111
-sourceFinalSha256: da5c0647da6de728ba98580d29462b8a850f9b05f88ad1d196957c22ebdb0945
 reviewVerdict: first-pass

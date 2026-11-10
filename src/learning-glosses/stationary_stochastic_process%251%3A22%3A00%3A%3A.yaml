@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stationary_stochastic_process%1:22:00::'
 synsetId: 13582401-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6d60d40b35ea0d833e5d0a27504a3e647392c115bbfa4705c07f8b0427e95c8e
 simpleMeaning: A run of chance events in which the spread of possible results stays the same whatever
   the value of the changing factor
 scope: A run of chance events whose spread of possible results stays the same whatever the value of the
@@ -12,5 +10,4 @@ examples:
 - The teacher used a stationary stochastic process to show how chance events behave.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1146
-sourceFinalSha256: b61123b8679b258b05d52077c261a1b57edf9891117f85c4aa0e2e1d6b2499df
 reviewVerdict: first-pass

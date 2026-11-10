@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'computed_tomography%1:04:00::'
 synsetId: 00903174-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d1c28c906a1a085750ceceeee115f029b33ade8fbd286cfe36e9803288c5df20
 simpleMeaning: a machine takes X-ray pictures through the body and joins them into flat slices along one
   line, so doctors can see the organs inside
 scope: 'Also called computed axial tomography, computerized axial tomography, and computerized tomography:
@@ -12,5 +10,4 @@ examples:
 - The computed tomography pictures showed flat slices of his brain.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 890
-sourceFinalSha256: e8bfcabf41594c23aa176aa637d70747447f44585640843b421b6220d20c9f27
 reviewVerdict: first-pass

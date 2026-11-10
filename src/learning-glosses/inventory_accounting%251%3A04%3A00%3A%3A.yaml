@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inventory_accounting%1:04:00::'
 synsetId: 00620978-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 69f3ca0339371577b6e6822f532cc912f5268c3a083705e45a0454190675cd06
 simpleMeaning: The work of keeping track of the goods a firm holds and working out what they are worth
 scope: The work of keeping track of the goods a firm holds and working out their worth, not the keeping
   of the firm's money records in general.
@@ -11,5 +9,4 @@ examples:
 - Good inventory accounting kept the shop from running out of stock.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1412
-sourceFinalSha256: cb6c589b77c80b9a87220684f4cc16870faf2fcd097d7afcd3b4bbddbaecde16
 reviewVerdict: first-pass

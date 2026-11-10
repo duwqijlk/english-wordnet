@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pharmacist%1:18:00::'
 synsetId: 10441215-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b025a09652d1b940b703e4d00cf64acc35b72052938abbc4c43bd2438c808990
 simpleMeaning: A person trained in health care who makes up and gives out medicines
 scope: A person trained to make up and give out medicines, not a doctor who orders them and not a shopkeeper
   who sells other goods.
@@ -11,5 +9,4 @@ examples:
 - Ask the pharmacist if you are unsure how to take the pills.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 462
-sourceFinalSha256: c2641ca9ee8638023b9f3fc92bcdbe4b5f2e5214a057684154aed0a546bbe2ec
 reviewVerdict: first-pass

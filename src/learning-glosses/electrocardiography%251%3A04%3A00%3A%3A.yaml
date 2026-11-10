@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electrocardiography%1:04:00::'
 synsetId: 00833753-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 74e98fbac5265457ac4f7cd8b8fbeba46320b65ad4800ddad389b54fe8e79922
 simpleMeaning: A machine reads the heart's beats by electric signals and writes them down as a chart,
   in a test of how the heart works.
 scope: Also called cardiography, it is a test that records how the heart works, using a machine that writes
@@ -12,5 +10,4 @@ examples:
 - Electrocardiography is used when the heart's beats need to be read.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 935
-sourceFinalSha256: 9f472c7b94d64ecf985deaccb71eb88da5e65a6e47f917d404fab2052ec11616
 reviewVerdict: first-pass

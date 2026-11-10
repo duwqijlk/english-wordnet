@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'elastic_demand%1:22:01::'
 synsetId: 92420715-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 478ae1e0f5b9f0c174daf5abd35cea222523ed03688549ddc9ab4c427906218e
 simpleMeaning: how much people want to buy goes up when the price falls and goes down when the price rises
 scope: How much people want to buy, rising when the price falls and falling when it rises, not a wish
   to buy that stays the same whatever the price.
@@ -11,5 +9,4 @@ examples:
 - When the shop cut the price, elastic demand for the coats rose sharply.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1377
-sourceFinalSha256: c61a92be34ff104ac687ca9bf5c7ac805672bdd916e357d721a385dbaa4ae20b
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cat%1:05:00::'
 synsetId: 02124272-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5a2f3449c2d2d33e4a2833005f847039f85b30465f12aefd56a0b6f236b45ab2
 simpleMeaning: a furry mammal related to lions and tigers but unable to roar, usually with thick soft
   fur
 scope: This is the animal itself, not the verb meaning to vomit and not a spiteful person.
@@ -11,5 +9,4 @@ examples:
 - A cat can squeeze through gaps much narrower than its body.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 35
-sourceFinalSha256: 05ba0251f0c8dbc1cb8b01cc1b66a13ca052b08a6f92618e9dfb733129e60978
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'read/write_head%1:06:00::'
 synsetId: 04065833-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 56da0a5bafdc63f7ce7c50dd6e252263d9a2a3f2a9020068bed7634010e3cfcb
 simpleMeaning: Magnetic marks are put on a disk, and taken off again to use, by this tiny coil worked
   by a magnet, with a metal rod.
 scope: Also called a head, it is the tiny coil and metal rod that put magnetic marks on a disk and take
@@ -12,5 +10,4 @@ examples:
 - The read/write head wrote new marks on the disk and read them back.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1030
-sourceFinalSha256: 4d65ea7be841e652730059a1d88a23f3a962c937a159999153a7c3d67616ddfe
 reviewVerdict: first-pass

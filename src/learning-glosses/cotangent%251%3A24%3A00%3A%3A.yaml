@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cotangent%1:24:00::'
 synsetId: 13810581-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e907b931dce81dba38b452389ff6257fef35203d2f5a1fd3dc0fcfc60ff93d38
 simpleMeaning: The number you get when you divide the length of the side next to an angle by the length
   of the side across from it in a right-angled triangle
 scope: This is a ratio of two sides of a right-angled triangle; cotan is another name for it; not the
@@ -12,5 +10,4 @@ examples:
 - To find the cotangent, divide the length of the adjacent side by the length of the opposite side.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1194
-sourceFinalSha256: 1ca8ba34e0b7fb4194ad65b5042e5ef698c6f034500dd353f71860cac2d894ef
 reviewVerdict: first-pass

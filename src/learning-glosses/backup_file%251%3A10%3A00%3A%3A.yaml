@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'backup_file%1:10:00::'
 synsetId: 06521504-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 95cacb1624dadd01df8a118b366e1ceac6191c7ff4eada88eff6204c2b35f028
 simpleMeaning: In computing, a place to keep copies of saved work, kept up to date
 scope: A store of spare copies of saved work in computing, not the work itself and not a single copy kept
   for reading.
@@ -11,5 +9,4 @@ examples:
 - She keeps a backup file on a second drive.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1329
-sourceFinalSha256: 36e0922f3f3e002c5ebf9f7f39ad014caa9ac3d35c27c3e2a3bd85488ffd1005
 reviewVerdict: first-pass

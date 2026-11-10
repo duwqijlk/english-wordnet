@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'equidistribution%1:09:00::'
 synsetId: 05737307-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 37ea8e04bb94e174b39ceb0fd2dcc1a037d46f008e70b2879747087416ff2f9e
 simpleMeaning: a spread of numbers in which each value turns up just as often as any other
 scope: A spread of numbers where each value turns up as often as any other, not a spread where some values
   turn up more often and not a single number on its own.
@@ -11,5 +9,4 @@ examples:
 - In an equidistribution, no value is more common than the rest.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1380
-sourceFinalSha256: cc773080219453f38efbecd7054e011b549efd00e890fa78ed8cda1b9de12a1a
 reviewVerdict: first-pass

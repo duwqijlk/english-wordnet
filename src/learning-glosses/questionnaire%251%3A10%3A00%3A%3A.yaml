@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'questionnaire%1:10:00::'
 synsetId: 06485793-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 09292e0c16b9142375dd27bd500378e1a01e11d2cecd2f8cb7d0992122957c08
 simpleMeaning: a form with a set of questions that is given to people to get facts and numbers about a
   group
 scope: This is a written form with questions for many people, not one question asked in talk and not a
@@ -12,5 +10,4 @@ examples:
 - Hundreds of people answered the questionnaire about health care.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 486
-sourceFinalSha256: 63f9794cc19050de490f6cdd068aa28d306e2663e933c36c453242c6b9bd42f6
 reviewVerdict: first-pass

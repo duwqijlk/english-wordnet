@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'commodore%1:18:00::'
 synsetId: 09964500-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e2367f2768e821bb0c05e5571b5fed077ecd102e45085f701faa56794ef4c6e9
 simpleMeaning: A navy officer given an official rank above a captain and below a rear admiral, and the
   lowest rank of admiral
 scope: This is the navy rank between captain and rear admiral, not a captain in charge of one ship and
@@ -12,5 +10,4 @@ examples:
 - The commodore gave orders to the captains who served under him.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 633
-sourceFinalSha256: 6b9fc7b8afb4194a7a28e7a6e0608166c14c25bbaec49d55d32ce51c9b17a9b8
 reviewVerdict: first-pass

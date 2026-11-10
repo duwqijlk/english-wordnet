@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pot%1:23:00::'
 synsetId: 13791173-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 81ab64fb8cbdc1f1b4e16a6a353721f851d2869d3d2fb7b65b55bec0e1db8f90
 simpleMeaning: the amount of something that is in one cooking container
 scope: This is the amount in one pot, not the pot itself, and not a toilet.
 examples:
@@ -10,5 +8,4 @@ examples:
 - He drank a whole pot of coffee in the morning.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 171
-sourceFinalSha256: 21150e36d676da1b123b13d8b89a039bb5c1fbeb5168a32c86a6baf0ce7a389d
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'protocol%1:10:01::'
 synsetId: 06677853-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ecbb46bc74c7861bec5c2b313caf1e3dfa8bbeab0426fcb6f37b5c4442715dfc
 simpleMeaning: In computer science, the set of rules that fix how data is set out and sent.
 scope: In computer science, the rules for how data is set out and sent, not the forms of ceremony used
   by diplomats.
@@ -11,5 +9,4 @@ examples:
 - A new protocol now governs how the data is sent.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 345
-sourceFinalSha256: 316b1f279b9749f4b890bf2018f368dc26b45a48b90f7154a69a5baf5f5c7405
 reviewVerdict: first-pass

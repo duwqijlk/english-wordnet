@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'glass%1:23:00::'
 synsetId: 13789379-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 944a54dc23486da3d8db96a5308c115804625e7f5dc5718f89998587e0dd8b13
 simpleMeaning: the amount of liquid that a drinking container can hold.
 scope: This is the amount held, not the container itself and not the material.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Add two glasses of water to the pot.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 30
-sourceFinalSha256: 4d616413347f44db1832b60282f9e89654ac0819c65f59a977140ee616c5c192
 reviewVerdict: first-pass

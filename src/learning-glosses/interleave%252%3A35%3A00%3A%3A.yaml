@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'interleave%2:35:00::'
 synsetId: 01379483-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 936a65b91e4ee82f7b81d67ee28a6fd6f393ec02bc0758efd9dd36d2f336465a
 simpleMeaning: To guide how a computer disk stores and records data, its parts are spread out across round
   rings of magnetism, one inside another, written on its face.
 scope: To spread the parts of a computer disk across its round magnetic rings so it can store and record
@@ -12,5 +10,4 @@ examples:
 - Interleaving the sectors guides how the disk stores data.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 899
-sourceFinalSha256: 1d28b561c1e7cae5f91c0202b9deac60adfe715f6d057f6dafdd86286b27883f
 reviewVerdict: first-pass

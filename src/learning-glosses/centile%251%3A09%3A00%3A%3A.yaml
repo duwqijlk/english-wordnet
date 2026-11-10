@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'centile%1:09:00::'
 synsetId: 05745697-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3eb5ec5d0203b69b0654af2c41a25a563cfbbc059866336bcad00fb9dfb810a5
 simpleMeaning: In statistics, one of the 99 numbered points that cut a set of scores in order into 100
   parts, each holding one hundredth of the whole.
 scope: In statistics, one of 99 points cutting scores into 100 equal parts, not a single score and not
@@ -12,5 +10,4 @@ examples:
 - The centile shows where a score stands among all the scores.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1185
-sourceFinalSha256: 2624bd95d7ecc828bfb40e30ea636b60450350f6fe85fe04a1488cf919f88c72
 reviewVerdict: first-pass

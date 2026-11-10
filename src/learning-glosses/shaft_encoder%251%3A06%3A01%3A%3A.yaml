@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'shaft_encoder%1:06:01::'
 synsetId: 92462650-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d46a84cfe0a7d102366298e6842388bab13197194eace6c495f457fc573783b7
 simpleMeaning: A code of numbers or waves comes from a machine worked by power and moving parts, which
   reads how far a rod or axle has turned.
 scope: Also called a rotary encoder, it is a machine that reads the turn of a rod and gives it back as
@@ -12,5 +10,4 @@ examples:
 - A shaft encoder on the rod turned its movement into a code of waves.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 962
-sourceFinalSha256: ce71918634e7b7e67fc5baf894dde2f7d11783e710a513c64df2f5548d7bde74
 reviewVerdict: first-pass

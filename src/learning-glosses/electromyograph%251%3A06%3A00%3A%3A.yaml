@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electromyograph%1:06:00::'
 synsetId: 03281750-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c5bde23788ec0ebd5c08af03f4a5e023519857f6c4181a5c7d9bc4ba9fb8b561
 simpleMeaning: A medical tool that records the electric signals made when the muscles attached to bones
   work.
 scope: A medical tool for recording muscle signals, not a heart monitor and not a brain scanner.
@@ -11,5 +9,4 @@ examples:
 - An electromyograph recorded the signals as he bent his knee.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1206
-sourceFinalSha256: 3c1d7f00a7350bb61cb8dd460854030dc8aba59979715901a741ff1b8cefe899
 reviewVerdict: first-pass

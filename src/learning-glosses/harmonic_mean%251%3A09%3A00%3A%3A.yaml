@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'harmonic_mean%1:09:00::'
 synsetId: 06033984-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5fb15840070743bc32439d2b607cad71e92da0464f330645e7bdb6ce6b266ded
 simpleMeaning: The average of a set of numbers worked out by taking one divided by each number, averaging
   those, then taking one divided by that average
 scope: The average of a set of numbers worked out by dividing one by each number and then dividing one
@@ -12,5 +10,4 @@ examples:
 - Use the harmonic mean when you average rates.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1224
-sourceFinalSha256: bac8b14ae391165449ff9d0cdb949d54ebf1c9868f2810ba7eac6663371e0596
 reviewVerdict: first-pass

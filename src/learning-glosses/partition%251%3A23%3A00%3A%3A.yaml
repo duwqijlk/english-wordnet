@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'partition%1:23:00::'
 synsetId: 13648585-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a912b34afec524d0ccd5eb6f330d12a86ca5c03cd8c7a87ed7798949c729c47a
 simpleMeaning: In computing, a part of a hard disk set aside for one system or program and used as if
   it were a disk of its own
 scope: In computing, a part of a hard disk set aside for one system or program; not a wall in a room and
@@ -12,5 +10,4 @@ examples:
 - The partition holds only the files for that one program.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 446
-sourceFinalSha256: 4a8cdec1b94f4d9a8911eac4adfcb644e7a5bda88d2270cae6bfd2711eb54f35
 reviewVerdict: first-pass

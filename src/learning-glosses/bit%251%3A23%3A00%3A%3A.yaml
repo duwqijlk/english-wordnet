@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bit%1:23:00::'
 synsetId: 13646708-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5865cb2a07d6cc0b8285cf7a903c31a9bd721e173b1f726849aab958b1058282
 simpleMeaning: A basic unit for measuring information; the name is short for binary digit; it is the information
   in a system with two equally likely states, such as yes or no.
 scope: This is not the cutting end of a drill, the end of a key, or the metal piece in a horse's mouth;
@@ -12,5 +10,4 @@ examples:
 - Each pixel needs one bit to record whether it is black or white.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 53
-sourceFinalSha256: 2ba1343194e2d5cbd9f1541ccc383b990e7ef3da8759cd0be3fceab317aa22d0
 reviewVerdict: second-pass

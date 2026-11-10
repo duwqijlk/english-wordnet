@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'diopter%1:23:00::'
 synsetId: 13606121-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 006a1255c459a053ce73bcd550fb7bef8bcc63caf27e9bad9fefe81865feda30
 simpleMeaning: A measure of how strongly a lens bends light, worked out from one over its focal length
   in metres, and used by eye doctors
 scope: A measure of a lens's power, also called dioptre; not the lens itself.
@@ -11,5 +9,4 @@ examples:
 - The eye doctor checked the diopter before ordering new glasses.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 893
-sourceFinalSha256: 919747f64cce959e693b5dc4c358f2829a60f02e83bdaca5daa6183648a5a638
 reviewVerdict: first-pass

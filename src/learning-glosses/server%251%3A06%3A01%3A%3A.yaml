@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'server%1:06:01::'
 synsetId: 04182208-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 734315b275460234db9e6031bbe9a55d5370f33f619908b6bd0acb74a9f882a7
 simpleMeaning: In computer science, one computer that lets other computers on a network use its files
   and printers
 scope: In computer science, one computer that lets others on a network use its files and printers, also
@@ -13,5 +11,4 @@ examples:
 - The printer is shared through the server.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 302
-sourceFinalSha256: f3aef7efd4c3abb17c561a6d22a38768c90022c9a9dbc92d3aeab60566b382ed
 reviewVerdict: first-pass

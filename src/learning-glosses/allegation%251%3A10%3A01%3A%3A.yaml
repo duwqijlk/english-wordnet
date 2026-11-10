@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'allegation%1:10:01::'
 synsetId: 06743935-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 621e5b05d597ce185effbcce0af04e182fa9b41fdae49eae835fa32dffec8e0d
 simpleMeaning: words that say a fact is true or is not true, and that you are ready to show proof for
   it
 scope: This is words that say a fact is true or not true and can be backed with proof, not a claim made
@@ -12,5 +10,4 @@ examples:
 - Her allegations set out facts she said she could prove.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 511
-sourceFinalSha256: 5a5e892b54fe291e3b28ed209d392923122e7d5e6b531567a5f2869b18fb5187
 reviewVerdict: first-pass

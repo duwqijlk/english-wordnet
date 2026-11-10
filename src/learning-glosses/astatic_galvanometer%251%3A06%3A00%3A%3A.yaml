@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'astatic_galvanometer%1:06:00::'
 synsetId: 02753657-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 33f2d8cb658088a3b51e890095ac4b9322dec6ed52d4cc972f20e9a7d8607c3f
 simpleMeaning: Coils set to cancel the pull of the earth's magnetic field let a measuring device work
   with a moving magnet
 scope: This measuring device has a moving magnet and coils set to cancel the pull of the earth's magnetic
@@ -12,5 +10,4 @@ examples:
 - He set up an astatic galvanometer to watch the magnet move without the earth's pull getting in the way.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 978
-sourceFinalSha256: 1a73a6c3cb296626a6c2ee32532b7d78ca1542ec9a3e5051adb16a5d5a199fb1
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'exceedance%1:07:00::'
 synsetId: 05099897-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b61cf8f78275a3c34a3239dd9d4479eadd99a4378828ff8687a0f344f45e753a
 simpleMeaning: During a given length of time, the chance that a quake will shake the ground past a set
   level
 scope: This is the chance that ground shaking passes a set level in a given time, not the strength of
@@ -12,5 +10,4 @@ examples:
 - The exceedance told them how likely strong shaking was.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 936
-sourceFinalSha256: b77dd9d1984e87b7d3e6e63dd77d8ffd03875251173f83ba5eeeb56ece7992e8
 reviewVerdict: first-pass

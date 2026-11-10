@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'acoustic_modem%1:06:00::'
 synsetId: 02679524-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 866ed095eb362dfd456f041f48cf871232ac70ef391d54a7e6f1b4950422885e
 simpleMeaning: This box swaps sounds on the phone line for electric signals, and electric signals for
   sounds on the phone line.
 scope: This box changes what comes down a phone line into electric signals, and changes electric signals
@@ -12,5 +10,4 @@ examples:
 - The acoustic modem turns the computer's signals into tones the phone can carry.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1054
-sourceFinalSha256: 18d097072104868791c4ba86370a35d7d13337857fba1e6bcecd2c9fcf398b70
 reviewVerdict: first-pass

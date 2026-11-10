@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'landmark%1:08:00::'
 synsetId: 05237687-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 80545eba719b831a810dc865faf2c0b554f91d5f924bc61cf12bd14754e063a6
 simpleMeaning: a part of the body used as a fixed point for finding other parts of the body, as in surgery,
   or for taking measurements
 scope: A part of the body that serves as a fixed point, not a famous event in history and not a well-known
@@ -12,5 +10,4 @@ examples:
 - The doctor measured from a landmark on the patient's skull.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 375
-sourceFinalSha256: 325af6ccfcd939aa1a1b345d4736ca04d106411dc1b09d002436d6b2e75faa1a
 reviewVerdict: first-pass

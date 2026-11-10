@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radar_echo%1:10:00::'
 synsetId: 07278171-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4cc187750a639eaf95f59e95cb28f9fe2b065e6e9eb6f49bd7231a69212baca8
 simpleMeaning: An electronic signal reflected back to a radar antenna, containing information about the
   reflecting object's location and distance.
 scope: Unlike the object out there, this is the signal that comes back to the set that sent it.
@@ -11,5 +9,4 @@ examples:
 - A radar echo from the ship told them how far away it was.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1029
-sourceFinalSha256: d9318da09f46bf81f119dc90d18c620aa067caf30d35887c23fa7e0132dce480
 reviewVerdict: second-pass

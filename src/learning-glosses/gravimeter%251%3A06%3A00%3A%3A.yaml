@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gravimeter%1:06:00::'
 synsetId: 03558666-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 245a4411f100ba1a4d5a91351c38ed6c9dff4378ab7c357b92b137bfd5ad4f58
 simpleMeaning: A tool for finding the weight of a liquid or solid for its size, compared with water
 scope: This is a tool for finding how heavy a liquid or solid is for its size; hydrometer is another name
   for it, not a tool for finding changes in the pull of the earth.
@@ -11,5 +9,4 @@ examples:
 - The gravimeter showed the oil was lighter than water.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1221
-sourceFinalSha256: bd675682e7c683bcbb9b91810c11cdf1635d22ab9ed8983ff3574417cd01ff84
 reviewVerdict: first-pass

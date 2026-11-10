@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'parameter%1:09:03::'
 synsetId: 05867861-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: da4345577790803687b8fd7555b57395e5871278ee606e61a9d9592c498d9a63
 simpleMeaning: A number that tells something about a whole group, such as its mean (average) or variance
   (how far values spread out), and worked out from part of the group
 scope: This is a number about a whole group, worked out from a part of it; not a value in a curve's equation
@@ -12,5 +10,4 @@ examples:
 - They used the sample figures to work out the parameter for the whole town.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 492
-sourceFinalSha256: 4e06d419177b254f0c3bd189c3c5278b0668585da03922fc218d252f937fee6c
 reviewVerdict: first-pass

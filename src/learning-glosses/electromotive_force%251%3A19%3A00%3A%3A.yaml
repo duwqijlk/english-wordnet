@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electromotive_force%1:19:00::'
 synsetId: 11543971-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 14010769e183f147242404b9ed2f496891b3fb8598d335778631ed8e8ca708f9
 simpleMeaning: how fast a source gives out power to make it flow round a path, shown in volts
 scope: The speed at which power is drawn from a source, also called voltage and emf; not the flow of power
   itself and not the push of water in a pipe.
@@ -11,5 +9,4 @@ examples:
 - They measured the electromotive force across the battery.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1085
-sourceFinalSha256: 347d02a8328c69d33ee9718b0238d2bb8b3feb6d8632a8983e8b233486f01156
 reviewVerdict: first-pass

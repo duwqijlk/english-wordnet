@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sandwich%1:13:00::'
 synsetId: 07711710-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3bf6f1df467409965b6ea4ac7a96efdfa84a67dd28c0482578b73722243b4557
 simpleMeaning: food made of bread in two or more slices, with other food in the middle
 scope: This is the food itself, not putting a person tightly between two others and not the act of making
   this food.
@@ -11,5 +9,4 @@ examples:
 - He made a sandwich with bread and eggs.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 172
-sourceFinalSha256: 6b842dc3c92ddbc23d35b4544eec47f4623a27f8890bee870f068ffa85ec3533
 reviewVerdict: first-pass

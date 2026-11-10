@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'logic_diagram%1:10:00::'
 synsetId: 06594443-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e76e555e41e3f29f22f3a4c1d60ac41da80634c3e9d4fee3873a95d928e0437e
 simpleMeaning: A picture that shows how a computer program works, drawn with strict rules for what follows
   from what
 scope: A drawing that shows how a computer program works, also called a logical diagram; not the program
@@ -12,5 +10,4 @@ examples:
 - She drew a logic diagram before she wrote any code.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1423
-sourceFinalSha256: 98756ea34de09a75532c3439336c7666484003f532244bdf80b3356de6bd758f
 reviewVerdict: first-pass

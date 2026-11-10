@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'volt%1:23:00::'
 synsetId: 13664755-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5edcac2c375a7bd88192f31176dab05627e55a856d97a20cb97ad7c06cda7491
 simpleMeaning: A unit for electrical potential; one is between two points on a conductor when 1 ampere
   flows and 1 watt is lost, or across 1 ohm when 1 ampere flows
 scope: This sense is the unit for electrical push, not the ampere, which measures how much current flows,
@@ -12,5 +10,4 @@ examples:
 - This lamp needs 240 volts to work.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 514
-sourceFinalSha256: 9d2829f41f87a6bfd2ac53a81485c761d45dc42b1875d62c8255658cc725ffda
 reviewVerdict: first-pass

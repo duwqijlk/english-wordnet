@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'computer%1:06:00::'
 synsetId: 03086983-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 18afb85ca5fe2398d62ecb557f57a2bf81d371cdd01e981d058ce536e94901d4
 simpleMeaning: a machine that works out numerical answers by itself
 scope: A machine that performs calculations, not a person who is an expert at calculation.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The computer solved the equation in less than a second.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 69
-sourceFinalSha256: b3c3c455efa4b08c8ba093e6eea947a53b4326cb06bb285e6f5518ea99d7e2c6
 reviewVerdict: first-pass

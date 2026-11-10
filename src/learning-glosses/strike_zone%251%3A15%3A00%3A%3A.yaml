@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'strike_zone%1:15:00::'
 synsetId: 08708712-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ff1b4607bc7e57cf5233049b61c48d37cd4a00f547b291aaf02106ea247fd612
 simpleMeaning: A pitch must pass through the space above home plate, from a hitter's knees up to the shoulders,
   for the call to go against the hitter in baseball.
 scope: In baseball, it is the space above home plate, from a hitter's knees up to the shoulders, through
@@ -12,5 +10,4 @@ examples:
 - Pitches that miss the strike zone are not called against the hitter.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1040
-sourceFinalSha256: a04d40236b8071c544ed32a8a1d7a59ce6a9c05e816bdc4e62bfeb16229ebe3d
 reviewVerdict: first-pass

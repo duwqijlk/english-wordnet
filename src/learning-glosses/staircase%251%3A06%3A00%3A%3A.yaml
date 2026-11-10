@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'staircase%1:06:00::'
 synsetId: 04305446-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6eb303a65ddf369394f355b2f99223a94970a46cf811c993161e653cdbcd8b55
 simpleMeaning: a set of steps that lets people go up and down between floors
 scope: A set of steps for going up and down between floors, not a single step and not a lift.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The staircase was wide and made of stone.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 195
-sourceFinalSha256: c54cf32cf359e17e495554aeec4045642edce7e91c4831383b34c55d85931b19
 reviewVerdict: first-pass

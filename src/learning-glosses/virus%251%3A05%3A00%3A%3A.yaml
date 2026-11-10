@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'virus%1:05:00::'
 synsetId: 01331343-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0e3a1c6a045c9ae51b78fd21c7c7bc996b33751f8ed4855d5069adc865feaa67
 simpleMeaning: In virology, a tiny infectious agent that can multiply only inside living host cells; many
   cause disease; it is genetic material (DNA or RNA) in a thin protein coat.
 scope: This is the biological infectious agent, not a computer program or a harmful influence; it is the
@@ -12,5 +10,4 @@ examples:
 - A virus cannot reproduce on its own; it must enter a living cell first.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 107
-sourceFinalSha256: c316060da3af0d7ea6da15e6b913eca4aa7070cf7b5df3d7ab34173564eb475d
 reviewVerdict: first-pass

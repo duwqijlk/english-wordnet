@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'population%1:23:00::'
 synsetId: 13802016-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b85841dc9f94ed282b9ebc67f137a419b710f7e3b3e98b48ce68a6faeb50ca4a
 simpleMeaning: the number of people living in a place, either all of them or those of a certain race or
   class
 scope: This is the count of people in a place, not the people themselves and not the act of settling them
@@ -12,5 +10,4 @@ examples:
 - The city has a large population of retired teachers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 66
-sourceFinalSha256: e2bc97848f2bd3b0ad71b6003f7acc7abd6e8b52d365739583d631faa44b9f2c
 reviewVerdict: first-pass

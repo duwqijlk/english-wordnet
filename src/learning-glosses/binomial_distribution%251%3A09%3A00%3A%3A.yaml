@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'binomial_distribution%1:09:00::'
 synsetId: 06046209-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e8ab607b701ad447cd5f4062aeb25715957b88411cec8dc05901f95f7ce707c9
 simpleMeaning: A pattern, worked out in theory, of how often each count of wins turns up in a set number
   of separate tries with the same chance of a win.
 scope: This pattern, worked out in theory, shows how often each count of wins turns up in a set number
@@ -12,5 +10,4 @@ examples:
 - She used the binomial distribution to work out the chances.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 980
-sourceFinalSha256: 9a95542fa1a55293c99092a8c4d72933457fe9bdc1b7b376c02091541753bfb4
 reviewVerdict: first-pass

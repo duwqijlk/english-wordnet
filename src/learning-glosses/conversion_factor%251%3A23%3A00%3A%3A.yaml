@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'conversion_factor%1:23:00::'
 synsetId: 13614641-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2066a7e20349fe0b82632472c5ac562c4d3174b9c0e824d9de7d6cb3015e3930
 simpleMeaning: a number that a size in one set of units is multiplied by to get it in another set of units
 scope: This is a number used to change units, not the size itself and not a rate of exchange.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The book gave a conversion factor for changing pounds to kilograms.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1358
-sourceFinalSha256: cbd314acb9261fcfdd1f9dd211870e3fba367663e09ad9c0f14329183963d13e
 reviewVerdict: first-pass

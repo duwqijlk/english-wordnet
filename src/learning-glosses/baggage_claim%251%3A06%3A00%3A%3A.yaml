@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'baggage_claim%1:06:00::'
 synsetId: 02778183-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b70957f66dded8fcbff9e8606edea2c9f1014baf66e5c4582cb0254087f5b2b0
 simpleMeaning: A place in an airport where people who have just landed pick up the bags carried in the
   lower part of the plane
 scope: The place in an airport where arriving people pick up their bags, not the desk where bags are handed
@@ -12,5 +10,4 @@ examples:
 - The baggage claim was crowded after the flight landed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1172
-sourceFinalSha256: a6d786ae9e24fa0a582a85b246aa7632a9dfb403446646957c7743941c7ee406
 reviewVerdict: first-pass

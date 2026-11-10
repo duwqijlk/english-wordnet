@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'phrase%1:10:02::'
 synsetId: 07169038-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c90137d1dbf671de074dcaaae19e80757284d43461f3b62099c11677b48e8c9c
 simpleMeaning: a group of words with a meaning you cannot guess from the separate words
 scope: This is an expression with an unpredictable meaning, also called an idiom, not an ordinary grammatical
   unit of words and not a dance sequence.
@@ -11,5 +9,4 @@ examples:
 - Learners often misunderstand a phrase like 'under the weather'.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 134
-sourceFinalSha256: 4a8f73f98df94e011d28441f05ee29191a1ff2450aa19657b39700fd57fd876d
 reviewVerdict: first-pass

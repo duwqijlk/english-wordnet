@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dissociation_constant%1:23:00::'
 synsetId: 13611160-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 80d5b34c42b14d2f19da05c49e9eb251203181d0724286f75862e0f2af146bd3
 simpleMeaning: a number that shows where the balance sits when a thing can split apart and come back together
 scope: A number showing the balance point of a splitting that can run back the other way, not a measure
   of how fast the splitting happens and not the heat it takes.
@@ -11,5 +9,4 @@ examples:
 - A high dissociation constant means the salt splits apart more easily in water.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1371
-sourceFinalSha256: 933fb1e89cadb32a14779090d6d7db69c3ba56cecfcb4bf320533c0bbe82f950
 reviewVerdict: first-pass

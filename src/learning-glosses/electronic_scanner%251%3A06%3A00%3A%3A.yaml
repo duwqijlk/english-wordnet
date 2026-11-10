@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electronic_scanner%1:06:00::'
 synsetId: 04149796-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 90bdc9fda5566b816246b08cb1a890b74b8dc0d77da3196c5c91117db4bcb8e1
 simpleMeaning: A radio set that moves by itself over a chosen range of wave rates, looking for a signal
   or a state.
 scope: A radio set that scans wave rates by itself, also called a scanner; not a fixed radio and not a
@@ -12,5 +10,4 @@ examples:
 - The electronic scanner stopped when it found a strong signal.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1206
-sourceFinalSha256: 3c1d7f00a7350bb61cb8dd460854030dc8aba59979715901a741ff1b8cefe899
 reviewVerdict: first-pass

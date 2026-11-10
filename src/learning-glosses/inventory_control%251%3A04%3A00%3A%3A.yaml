@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inventory_control%1:04:00::'
 synsetId: 00621129-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c1bfba50833411f6a5b7da0359d55697d9b84101a8b3e5250add838f3a44dd09
 simpleMeaning: So that there is enough stock but never far too much, someone watches over how much is
   kept, where it is stored, and how easy it is to reach
 scope: Good stock keeping means watching how much is kept, where it is stored, and how easy it is to reach,
@@ -12,5 +10,4 @@ examples:
 - Without inventory control, a shop may hold far too much stock.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1009
-sourceFinalSha256: 152682c3b2b9531410e2f6bad61f236acdf9bc2e3c3c48d7193e7ec291e37e51
 reviewVerdict: first-pass

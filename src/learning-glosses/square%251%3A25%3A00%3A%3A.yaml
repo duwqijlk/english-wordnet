@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'square%1:25:00::'
 synsetId: 13901273-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: edc87d40242adb415353a45d1c64090cf25fe3ebb37f52db7af9b1e013382e24
 simpleMeaning: in geometry, a flat rectangle with four sides of equal length and four right angles, that
   is, a regular four-sided polygon
 scope: This is the geometric figure with four equal sides and four right angles, not the result of multiplying
@@ -13,5 +11,4 @@ examples:
 - The children cut a square from the paper.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 70
-sourceFinalSha256: 3a0e61cf05163cf538cb0f48d11d41d0915bbefb8312b5bebbccb3ab57769ced
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'document%1:10:01::'
 synsetId: 06522968-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 87cdd5bf5c679583608cd528a9268486448a0de3a6a7fe302ac3a29c037d3158
 simpleMeaning: In computer science, a file that holds words and may also hold notes on how to show them,
   made from a basic set of letters and signs
 scope: In computer science, a file that holds words, not a thing with marks that shows what a person thinks
@@ -12,5 +10,4 @@ examples:
 - Open the document and read the first page.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 216
-sourceFinalSha256: 87904efe0d10d0d744e97f1514538ead24ca3f0619acad0a7bf58d90c927fab6
 reviewVerdict: first-pass

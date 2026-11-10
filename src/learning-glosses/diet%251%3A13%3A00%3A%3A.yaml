@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'diet%1:13:00::'
 synsetId: 07576677-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c24d8854a371668863a275eb23924ca801273c3cc7d92eb91f2ce24bdb0e2c4a
 simpleMeaning: a set of foods chosen for a person to eat, as a doctor orders
 scope: A set of foods chosen for a person to eat, not the food a person usually eats, not the act of eating
   less, and not a law-making body.
@@ -11,5 +9,4 @@ examples:
 - His diet after the operation had no meat in it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 287
-sourceFinalSha256: 668cf8ca774cfec79a6cf01dd11df2351276ea96ef17311d6c6323b9844d5bdb
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'waybill%1:10:00::'
 synsetId: 06532733-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9c52ad30c5e9d4ff0d8037c1c4dd000feee48b60244255c5c0076dfb72c5dd49
 simpleMeaning: The carrier gives the sender this note when goods are shipped, saying the goods have been
   taken in and stating the terms of delivery.
 scope: Also called bill of lading, it is the note a carrier gives a sender for goods taken in.
@@ -11,5 +9,4 @@ examples:
 - She kept the waybill until the goods were delivered.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 918
-sourceFinalSha256: 19a52a93af8016869092699b0e75440309adc4c896c6e1e2ea4bd4814cb98e6a
 reviewVerdict: first-pass

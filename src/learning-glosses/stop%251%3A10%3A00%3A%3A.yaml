@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stop%1:10:00::'
 synsetId: 07130622-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f2cea51012f3c16084a61fa43af40625089b189b72eba6b3bfa592849046fc71
 simpleMeaning: A consonant sound made by blocking the flow of air at some point and then suddenly releasing
   it.
 scope: This is a kind of speech sound, not a written punctuation mark.
@@ -11,5 +9,4 @@ examples:
 - The first sound in 'dog' briefly blocks the air before letting it out.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 50
-sourceFinalSha256: e199f6a95e53b8d3272c2e59c355a86de7a4cf2c71c9984f9e888b36755153fe
 reviewVerdict: first-pass

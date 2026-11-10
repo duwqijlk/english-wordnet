@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'decimal_system_of_classification%1:09:00::'
 synsetId: 05735372-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7fed9266209466fd1529bcfbb6c20d3843cd3f621bfa160a7e956bcb53e873eb
 simpleMeaning: A library scheme that sorts factual publications into subject groups, gives each a three-digit
   number and further digits after a point, then shelves them in number order.
 scope: The scheme itself, not a particular library's shelves or catalog; it covers factual publications
@@ -12,5 +10,4 @@ examples:
 - Under the decimal system of classification, every subject has its own three-digit place.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 110
-sourceFinalSha256: 03227586c5fb1a74242b23487d857ccb30f4b53279d18d0a2b55e00251d5d808
 reviewVerdict: self-approved

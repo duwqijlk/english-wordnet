@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'expectation%1:09:01::'
 synsetId: 06033638-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 39baa6c906ced10b5cb3567d7d282045dda8821290e7dfa4fc14f4e38fc5295f
 simpleMeaning: In maths, the number you get when you add up the values of a thing that can change by chance
   and split the total by how many values there are
 scope: In maths, a number worked out from values of a thing that can change by chance; not the feeling
@@ -12,5 +10,4 @@ examples:
 - For this game, the expectation is two, because the values add up to ten and there are five of them.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 243
-sourceFinalSha256: 0d3b079fd252afbf19d76f999fbc116d730ef9a8aadbf6fa146ce43c93417902
 reviewVerdict: first-pass

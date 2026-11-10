@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'psychrometer%1:06:00::'
 synsetId: 04023965-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 06d1167f97b4d38cb0af288619128ab16d08c97b59237f444b8c34ce0f87baf9
 simpleMeaning: a tool that shows how damp the air is, made of a dry-bulb thermometer and a wet-bulb thermometer;
   the gap between their readings shows how dry it is
 scope: A tool with two thermometers for judging damp air, not a single thermometer and not a rain gauge.
@@ -11,5 +9,4 @@ examples:
 - She read the two bulbs of the psychrometer to work out the dampness of the room.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 875
-sourceFinalSha256: 990b730d8f22df0ae0ffd69d8881006c907598a51fc153b46a93d3ec4cfae542
 reviewVerdict: first-pass

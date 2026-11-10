@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'diagnostic_assay%1:09:00::'
 synsetId: 05746988-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 722a4f1d4c83f14401eac19a9af97c76f04ad9c4673e615c7b80c53242b10957
 simpleMeaning: a test carried out to find what is wrong
 scope: A test carried out to find what is wrong, also called a diagnostic test; not a treatment and not
   a guess made without a test.
@@ -11,5 +9,4 @@ examples:
 - The doctor ordered a diagnostic assay to find the cause of the fever.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1369
-sourceFinalSha256: af5d197d3aaf730e00cd1be18936a4c9a0d2bd2ca58ea14e065ce6d341ac20d1
 reviewVerdict: first-pass

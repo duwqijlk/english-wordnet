@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'word_class%1:10:00::'
 synsetId: 06328457-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ac167ef4d87a4887749baa8fb6d446a01f8badebbd8fda531a6fb734bb9e7122
 simpleMeaning: One of the long-used groups that sort speech by the job each part does in a sentence
 scope: A long-used group that sorts speech by the job each part does in a sentence; form class and part
   of speech are other names for this sense, not a single word and not a pattern of sentence building.
@@ -11,5 +9,4 @@ examples:
 - To sort the words in the sentence, first name each word class.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1311
-sourceFinalSha256: 088574aa0f6c729c7c29ac35f2ce16889de7d5ea1190894e86fda3e87eb7a211
 reviewVerdict: first-pass

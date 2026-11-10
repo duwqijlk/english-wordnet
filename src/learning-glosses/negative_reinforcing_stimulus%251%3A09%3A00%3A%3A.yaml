@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'negative_reinforcing_stimulus%1:09:00::'
 synsetId: 05837336-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 324d5365a21ab4655117d86509cc0ca58eef9930eff89989982a26814896c9d8
 simpleMeaning: Something whose taking away makes an action less likely to happen again.
 scope: Something whose taking away makes an action less likely to happen again, also called negative reinforcer;
   not a reward and not a punishment.
@@ -11,5 +9,4 @@ examples:
 - A negative reinforcing stimulus works by being taken away after the action.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1117
-sourceFinalSha256: 64375f4486da7887f5a90937d7d55a6f69ed9265fa10efcf0cff6b09be277838
 reviewVerdict: first-pass

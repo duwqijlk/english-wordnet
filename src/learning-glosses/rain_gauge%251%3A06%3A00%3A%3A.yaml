@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'rain_gauge%1:06:00::'
 synsetId: 04056697-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d72a83cd4ba1c42f1060d324c32c72fef4533375d7e22f6b69c6ae3b7f800aac
 simpleMeaning: An instrument that tells how much water has fallen from the sky
 scope: A tool for measuring how much water falls from the sky, also called a rain gage, a pluviometer
   or an udometer; not a thermometer and not a wind gauge.
@@ -11,5 +9,4 @@ examples:
 - He checked the rain gauge after the night's storm.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1132
-sourceFinalSha256: e758061268167dc999b2c2a3b0fd3e8f98f32a033d93e436049e2611a22b1eb7
 reviewVerdict: first-pass

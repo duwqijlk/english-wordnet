@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'clock%2:30:00::'
 synsetId: 00491904-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 07c721ad0fb12fe4c7de529e02781b4833f8e02563d303f0cdcb94da17da4be7
 simpleMeaning: to measure how long an event or action takes, or how long a person takes to do an action
   in a set period of time
 scope: 'Also called time: this is measuring how long an action takes, not the object on a wall that shows
@@ -12,5 +10,4 @@ examples:
 - The coach clocked him at ten seconds for the short race.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 163
-sourceFinalSha256: 17f44f5cbb870f81322bbd593751a6baf9cc33da92cf18f3b2d3550ecf35488e
 reviewVerdict: first-pass

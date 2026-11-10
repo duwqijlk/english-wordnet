@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hyperlink%1:10:00::'
 synsetId: 06598848-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 69e0ddb118b3063c1d3081a9f3128c9fab1e8e6b637bf7212c071788d07192ba
 simpleMeaning: Clicking a marked word or small picture on the screen most often jumps you from one text
   file to another place or file.
 scope: A word or picture you can click to jump to another place or file is this, not a plain word or picture
@@ -12,5 +10,4 @@ examples:
 - The hyperlink in the text took you to another place.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1007
-sourceFinalSha256: 507a052f390701645998a0dff9f6b9895d200e0da3939968ae2c4b4b82ef2cf3
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'weight%1:23:01::'
 synsetId: 13737860-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 451864bf3bc39e8871fe4e5864079d7b8a073a3faa1508cdb23d8438b3f4ede5
 simpleMeaning: a set of standard units, such as metric or imperial, used to state how heavy something
   is
 scope: This is the whole set of units, not one single unit, not the heaviness of an object, and not a
@@ -12,5 +10,4 @@ examples:
 - Britain changed its weight system from imperial to metric over many years.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 66
-sourceFinalSha256: e2bc97848f2bd3b0ad71b6003f7acc7abd6e8b52d365739583d631faa44b9f2c
 reviewVerdict: first-pass

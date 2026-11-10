@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'protease_inhibitor%1:06:00::'
 synsetId: 04020369-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5cdfb99a3f8106c06edc490f3b4c9938a3e1267fc3d6d43254512dbee6c20663
 simpleMeaning: a drug against HIV that stops the virus from making copies of itself by fastening onto
   and blocking the HIV protein that cuts other proteins; often used with other drugs
 scope: A drug that blocks HIV from copying itself, not a drug that kills the virus outright and not a
@@ -12,5 +10,4 @@ examples:
 - Doctors gave her a protease inhibitor with two other drugs.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 875
-sourceFinalSha256: 990b730d8f22df0ae0ffd69d8881006c907598a51fc153b46a93d3ec4cfae542
 reviewVerdict: first-pass

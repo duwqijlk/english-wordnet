@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'indirect_discourse%1:10:00::'
 synsetId: 07153212-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 281661591f6d9941a7c93ffe518abe5215bf3285737f8abe0a44795d33741edf
 simpleMeaning: A report of speech in which pointing words are suitably changed, as 'I am a fool' becoming
   'he is a fool'.
 scope: Words told again with the pointing words changed to fit the new telling, not direct discourse,
@@ -12,5 +10,4 @@ examples:
 - The teacher asked us to turn the direct words into indirect discourse.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 899
-sourceFinalSha256: 1d28b561c1e7cae5f91c0202b9deac60adfe715f6d057f6dafdd86286b27883f
 reviewVerdict: second-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inductance%1:19:00::'
 synsetId: 11488572-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1325798c5b2f3869e9da48af37b6761989ba0e8935bb635b52ccc5e353f6b0ba
 simpleMeaning: An electrical effect in which an electromotive force is made in a closed circuit by a change
   in current flow
 scope: Also called induction, this push is made in a closed wire loop when the flow of current changes,
@@ -12,5 +10,4 @@ examples:
 - We measured the inductance in the wire loop after the current changed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1008
-sourceFinalSha256: 283655ae243cb5fc9a9a3add8e857e56394f3958d32f5563bea4d461f61ad6d2
 reviewVerdict: second-pass

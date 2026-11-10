@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'season_ticket%1:10:00::'
 synsetId: 06531068-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 03cfd26ca6583e55f5ecf08413df347f93faf671eb4edbd3773f1c759af8be90
 simpleMeaning: a pass that is good for several trips or a full set of shows, sold for less than the full
   price
 scope: A pass good for several trips or a whole set of shows, sold for less; commutation ticket is another
@@ -12,5 +10,4 @@ examples:
 - Our season ticket covers every concert in the series.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1281
-sourceFinalSha256: 8b893bd77c1b9ad6b898793c241d730b40c7ea879c9df924705bad4587db3860
 reviewVerdict: first-pass

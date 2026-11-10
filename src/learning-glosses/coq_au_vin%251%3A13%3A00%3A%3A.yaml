@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'coq_au_vin%1:13:00::'
 synsetId: 07877533-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 08256dcd139547a59ae3439375325998e577352120f062a411c27b3e5a8ff72e
 simpleMeaning: Chicken cooked slowly with onions and mushrooms in red wine with herbs and spices.
 scope: This is chicken cooked slowly with onions and mushrooms in red wine, not plain roast chicken and
   not a chicken soup.
@@ -11,5 +9,4 @@ examples:
 - The coq au vin had simmered in red wine all afternoon.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1193
-sourceFinalSha256: 74375f1462b3df94efb5cf6a0e00993fc635dcd3303f658f6957409891cb9cfa
 reviewVerdict: first-pass

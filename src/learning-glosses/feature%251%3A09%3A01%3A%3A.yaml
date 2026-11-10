@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'feature%1:09:01::'
 synsetId: 05858739-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4e45c424207b42578ddcfac7ed39bacc5fbbba116aecbde77a452b74437eb067
 simpleMeaning: In linguistics, a property that lets you tell one language unit from another of the same
   type.
 scope: This is the technical linguistics use, a property that tells one language unit from another, not
@@ -12,5 +10,4 @@ examples:
 - Each sound is described by a set of features such as voicing and place of articulation.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 83
-sourceFinalSha256: 7387fd9f6b067eb5effebeb4aecdb14ce8d7ea68051123e044b91b53807d3337
 reviewVerdict: first-pass

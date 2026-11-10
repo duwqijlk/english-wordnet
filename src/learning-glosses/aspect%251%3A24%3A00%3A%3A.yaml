@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'aspect%1:24:00::'
 synsetId: 13826881-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 08739604436b87fb3f65af969f55c7330f0c73a7231f23b482bf6f856cf6a251
 simpleMeaning: The part of a verb that shows whether an action is just starting, going on, finished, or
   done again
 scope: How a verb shows the timing of an action, not the look of a thing and not one side of a question.
@@ -11,5 +9,4 @@ examples:
 - The aspect of the verb tells us the action has finished.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 223
-sourceFinalSha256: 52876c7669e1723319c2d58cbdf1001f241a075ba91068c472fdb69db22e6c98
 reviewVerdict: first-pass

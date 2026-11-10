@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'roentgenoscope%1:06:00::'
 synsetId: 03375492-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 654ca3ac75a5c94e761b4cf7cc0e3ac75d318cc8ba9c195842118a6946ebce0d
 simpleMeaning: A glowing screen joined to a source of X-rays in one machine lets a person look straight
   inside the body.
 scope: Fluoroscope is another name for this machine, which lets a person look straight inside the body
@@ -12,5 +10,4 @@ examples:
 - They looked straight inside the body with the roentgenoscope.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 960
-sourceFinalSha256: 3feefd53fdc8456bd6ea9b83beadd5bb937d81e9aa27771ff3443fd95ef46388
 reviewVerdict: first-pass

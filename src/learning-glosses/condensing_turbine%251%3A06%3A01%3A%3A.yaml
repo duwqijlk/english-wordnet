@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'condensing_turbine%1:06:01::'
 synsetId: 92459856-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 84b2139668bef55004656fa84df387c108f1a07116671fd29d36e02c1da7dac0
 simpleMeaning: Steam from a boiler drives a wheel and leaves it at a pressure well below that of the air,
   passing into a cooler.
 scope: This steam-driven wheel sends its steam out at low pressure to be cooled.
@@ -11,5 +9,4 @@ examples:
 - Steam from the boiler passed through the condensing turbine.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 990
-sourceFinalSha256: a7b42758e14cabf7c9aa7c69a3582368c83bc9417909c6614d18a533a2786407
 reviewVerdict: first-pass

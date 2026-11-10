@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'greatest_common_divisor%1:23:00::'
 synsetId: 13757303-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c356d4313af6e995f2ddd02c07a59539de483d1052cd06347420f906c18a6a81
 simpleMeaning: For a set of whole numbers, the biggest whole number that goes into each of them with nothing
   left over
 scope: For a set of whole numbers, this is the biggest whole number that goes into each of them with nothing
@@ -13,5 +11,4 @@ examples:
 - We worked out the greatest common divisor of 24 and 36.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1397
-sourceFinalSha256: d59b8bb210f100e73b27eb6c6c903715169e21229d06bb0576fcfe6c70eae2cc
 reviewVerdict: first-pass

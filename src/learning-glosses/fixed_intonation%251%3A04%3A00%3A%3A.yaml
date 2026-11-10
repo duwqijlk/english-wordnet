@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fixed_intonation%1:04:00::'
 synsetId: 01257712-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 77389d3e469d98293c1457edac22f6a85f12e508d84ab66321fd4b23409c42c8
 simpleMeaning: The set pitch of each note on a keyed music tool, which the player cannot shift
 scope: This is the set pitch of each note on a keyed music tool, which the player cannot shift; not the
   pitch a singer can bend and not the tuning of a string tool.
@@ -11,5 +9,4 @@ examples:
 - Fixed intonation means each key keeps its pitch.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1090
-sourceFinalSha256: d0bcec5dccc9222aea36e4ca26da672adc5bea272b820d748a694e6055fdca96
 reviewVerdict: first-pass

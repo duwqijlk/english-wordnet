@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'traffic%1:14:00::'
 synsetId: 08442260-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 18c764c36ba8537e3813b1add7154072b0f2500b182563b2512ea5c6d1ae161d
 simpleMeaning: The flow of people or vehicles through a particular area at a particular time.
 scope: This sense is not the illegal buying and selling of goods, but the movement of people or vehicles
   through an area.
@@ -11,5 +9,4 @@ examples:
 - Police directed traffic around the accident.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 31
-sourceFinalSha256: 63fcc43c1bde76add4a005888e1a1db308cb7922052b3e73cb228aeaa30bf16c
 reviewVerdict: first-pass

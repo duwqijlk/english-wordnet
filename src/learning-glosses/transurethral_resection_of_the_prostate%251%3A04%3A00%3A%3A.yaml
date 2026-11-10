@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'transurethral_resection_of_the_prostate%1:04:00::'
 synsetId: 00695341-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8e5ec552c2ed18fcef2d3695f52581763a8d1bc26fc7b57aeb02b89aeb235a45
 simpleMeaning: Removal of large amounts of prostate tissue, as in cases of benign prostatic hyperplasia
   (a prostate grown too large without cancer).
 scope: This operation takes away a large part of the gland below a man's bladder when it has grown too
@@ -12,5 +10,4 @@ examples:
 - After the transurethral resection of the prostate, a large part of the gland was gone.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1045
-sourceFinalSha256: 35831228425a9d86d7b40a39717f71022f9bd169892f608a952dd5d585fd6484
 reviewVerdict: second-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fallacy%1:09:00::'
 synsetId: 05902523-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6a2ef6ce523a6f5538973731b662f88fc71481425bdcf04d4265b226f1a1c4c2
 simpleMeaning: A belief that is not true because it comes from thinking in a wrong way
 scope: This is a wrong idea that comes from bad thinking, not a lie told on purpose and not a plain mistake
   about a fact.
@@ -11,5 +9,4 @@ examples:
 - The teacher showed why that argument was a fallacy.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 557
-sourceFinalSha256: 630a9612b8fd8e5e83b9627ed905400f017bff7ea7ba76b4d8138fb43c9dc6f2
 reviewVerdict: first-pass

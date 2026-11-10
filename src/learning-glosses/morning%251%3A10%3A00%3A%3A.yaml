@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'morning%1:10:00::'
 synsetId: 06645178-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6017ae3d628f5cd17befc827918948d55f4dbf63ea8364a433502695022814f8
 simpleMeaning: A short friendly word used to greet someone, or say goodbye, early in the day.
 scope: This is the spoken greeting, not the early part of the day itself.
 examples:
@@ -10,5 +8,4 @@ examples:
 - He nodded and said 'morning' to the guard at the gate.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 9
-sourceFinalSha256: 2188a42c9b5e1d6f4f8b0980c0433d539db3b9fe3c88c53722838dcfaba2be8a
 reviewVerdict: first-pass

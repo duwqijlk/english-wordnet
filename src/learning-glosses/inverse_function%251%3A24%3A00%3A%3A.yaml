@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inverse_function%1:24:00::'
 synsetId: 13806749-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e00fc538ae74003f508f14a1a16ce57a7755c7d068f16ad8eac314d7126ec976
 simpleMeaning: 'A mathematical rule that undoes another: if one turns x into y, the other turns y back
   into x.'
 scope: The mathematical rule that reverses another rule's effect, so applying both returns the starting
@@ -12,5 +10,4 @@ examples:
 - The class found the inverse function of f(x) = 2x + 1.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 100
-sourceFinalSha256: 62af9890a08735a2f5927cfa2754bfcdd97223a6f007722a1e4ded312ceb730f
 reviewVerdict: first-pass

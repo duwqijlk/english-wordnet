@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radiolocation%1:06:00::'
 synsetId: 04046324-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a4aa7e1cb59bb193b15e3d328d8e3f954ec3eada4471bba0afe9df1f91c99f7e
 simpleMeaning: a way of finding far-off things by sending out microwave pulses and listening for the echo
   that comes back
 scope: Also called radar, microwave radar, and radio detection and ranging; it finds distant objects by
@@ -12,5 +10,4 @@ examples:
 - The plane used radiolocation to spot the runway.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 875
-sourceFinalSha256: 990b730d8f22df0ae0ffd69d8881006c907598a51fc153b46a93d3ec4cfae542
 reviewVerdict: first-pass

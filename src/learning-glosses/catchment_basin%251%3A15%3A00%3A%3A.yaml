@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'catchment_basin%1:15:00::'
 synsetId: 08536123-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d34aaa42692514eb700eccaef8d8213e462524b5b624fdb1ba498dff5732fb83
 simpleMeaning: One outlet takes all the water from the whole stretch of land drained by a river and its
   smaller streams.
 scope: This stretch of land is also called basin, watershed, catchment area, drainage area, drainage basin
@@ -12,5 +10,4 @@ examples:
 - All the water in the catchment basin leaves by one outlet.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 986
-sourceFinalSha256: 595d846264cf08ce61a461819e258ff3995fae07adb3a9b0969cc7037931e724
 reviewVerdict: first-pass

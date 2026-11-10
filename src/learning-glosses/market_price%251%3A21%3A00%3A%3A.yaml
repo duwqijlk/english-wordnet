@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'market_price%1:21:00::'
 synsetId: 13358337-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 925ecca64c42a3662c6496fe741c3683b4a209fcfca0e7de99ade9518cee2718
 simpleMeaning: Buyers and sellers trade a thing out in the open for this amount of money
 scope: Also called market value, this is the amount of money a thing sells for in the open, not a set
   price and not the cost of making it.
@@ -11,5 +9,4 @@ examples:
 - They sold the car at the market price, not a penny more.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1428
-sourceFinalSha256: 8fef546d70a1d9bb3a7a6f1ead07ac601b55b6cd398dca718f8cf2dc8183da48
 reviewVerdict: first-pass

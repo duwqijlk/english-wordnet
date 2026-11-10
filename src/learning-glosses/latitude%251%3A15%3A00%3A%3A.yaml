@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'latitude%1:15:00::'
 synsetId: 08613087-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d07218141c91e2f3a0688632b3a83a63a1bed1a32e92666c623cfc6b41cef135
 simpleMeaning: The distance in degrees between the equator (a line around the middle of a planet or star)
   and an imaginary line around it that runs in the same direction
 scope: This is the distance in degrees from the equator, not the line around the Earth itself and not
@@ -12,5 +10,4 @@ examples:
 - That island's latitude puts it far south of the equator.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 549
-sourceFinalSha256: a9dcd31da60bdf3c0147251798ffdfda076f0eebfb4a52fc586c23fa7e119272
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'academic_degree%1:10:00::'
 synsetId: 06710094-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 90535be9f21f86245d7130505fbd5a64621f7672a26c6f73a2abf0e8229e998b
 simpleMeaning: a title given by a college or school of higher learning when a student has finished a course
   of study well
 scope: This is a title a college or university gives when a student finishes a course of study; degree
@@ -12,5 +10,4 @@ examples:
 - His academic degree shows he finished the full course of study.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1314
-sourceFinalSha256: 11f2f90745a4c68d3c7ac51ad06d769b784d0bf511470cc08481fe918f968fe4
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'reverse_split%1:04:00::'
 synsetId: 00440224-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f49d7f4dd41567457860d2d2af2d695ddcc3381e5f18dfba8a2fcfcdf754e2a3
 simpleMeaning: a cut in the number of a firm's shares that are out in the world, while what each owner
   holds in worth stays the same
 scope: Not a rise in share price, and not a cut in what owners are owed; also called reverse stock split
@@ -12,5 +10,4 @@ examples:
 - After the reverse split, each holder owned fewer shares.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1134
-sourceFinalSha256: 3923816f6137eb27f39c0dd7da20bafd99ca134c16dedaa34749016da9e0e083
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gastroscopy%1:04:00::'
 synsetId: 00644005-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 84b7602448463061377007886f216fe52b602f8e225bb6a8282b856d6f9a6f31
 simpleMeaning: Looking inside the stomach by passing a thin tube down the throat
 scope: This is looking inside the stomach with a tube, not washing the stomach out and not an X-ray picture
   of the stomach.
@@ -11,5 +9,4 @@ examples:
 - Her gastroscopy showed a sore in the stomach lining.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1094
-sourceFinalSha256: 5b8ec299372b30c8b1d14f6af40c973b27c1662476b63a4e786bb12123957cfb
 reviewVerdict: first-pass

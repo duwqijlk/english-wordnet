@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'classical_conditioning%1:09:00::'
 synsetId: 05767179-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e266cbd1a631d598c725c7170fe16eb4e59bb74073f210ae7b3fb5c11121c72f
 simpleMeaning: A learning process where a meaningless signal is repeatedly paired with one that triggers
   a reflex, whether or not that response appears, until the signal alone brings it.
 scope: This is the reflex-based pairing made famous by Pavlov, not the reward-and-punishment learning
@@ -12,5 +10,4 @@ examples:
 - Through classical conditioning, the smell of the clinic alone could make her anxious.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 96
-sourceFinalSha256: 83acb82a5ae64faebda532e7c5c27681fe51ee262d22319a999aae55ca8799cc
 reviewVerdict: first-pass

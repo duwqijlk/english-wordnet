@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'absentee_ballot%1:10:00::'
 synsetId: 06488244-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a4d0f8f743c2ca390c4da742a7cc0970ca02b7683e4958f664dd8fc4583a4749
 simpleMeaning: In elections, a vote cast while away, most often sent by post before polling day
 scope: In elections, a vote cast while away, most often sent by post before polling day; not a vote cast
   in person and not a vote counted after polling day.
@@ -11,5 +9,4 @@ examples:
 - His absentee ballot arrived by post.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1161
-sourceFinalSha256: f58c7f3e494f22d951f941e32fafddd8ff0024ba111d05b10b4b8eb6372025c8
 reviewVerdict: first-pass

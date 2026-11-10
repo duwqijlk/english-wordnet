@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bill%1:10:06::'
 synsetId: 06498711-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bc16ac56f035c1f18a29a277c7bf7007a271f6d5501d18153b0c70d2f36846dd
 simpleMeaning: a list of details about what is offered, such as the acts in a show or the food on a restaurant's
   menu
 scope: This is a detailed list of what a show or menu offers, not a printed advertisement or a request
@@ -12,5 +10,4 @@ examples:
 - The restaurant's bill of fare changes with the seasons.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 60
-sourceFinalSha256: ebd819c802e692f286b7956eefd0c8e731dd7049a0fb0ea772db66025da594e6
 reviewVerdict: first-pass

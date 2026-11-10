@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'tank_furnace%1:06:00::'
 synsetId: 04397243-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e7492c3757a26b421c01d757a2ea461877b39ee5b49b8f3455e2dde38561b2e2
 simpleMeaning: Hot liquid glass comes out of one end of this heater, after a set amount of raw stuff is
   shovelled in at the other end.
 scope: 'This heater is used to make glass: raw stuff goes in one end and hot liquid glass comes out the
@@ -12,5 +10,4 @@ examples:
 - Hot glass flowed from the tank furnace.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1042
-sourceFinalSha256: b1a0a993d4edb06a416ffc96490d8d1f9ebfb3ef87e25925a1b2f75745d1cffa
 reviewVerdict: first-pass

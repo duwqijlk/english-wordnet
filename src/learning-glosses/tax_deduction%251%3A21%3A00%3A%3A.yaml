@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'tax_deduction%1:21:00::'
 synsetId: 13350069-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 58939b4fe1112ddedd3bab08fdd2d266ee69836ae8a05a84f9e9554869f8921a
 simpleMeaning: By a set share tied to the payer's income band, a cut in the full sum on which the sum
   owed to the state is worked out leaves less owed.
 scope: Also called deduction and tax write-off, this is a cut in the full sum on which the sum owed to
@@ -12,5 +10,4 @@ examples:
 - His tax deduction saved him money.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 967
-sourceFinalSha256: b9d9e8a1d09ded6a271f1975affbef02c013503f092d49f52b2c3ded73192cd5
 reviewVerdict: first-pass

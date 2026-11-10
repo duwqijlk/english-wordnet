@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mens_rea%1:09:00::'
 synsetId: 05803965-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d9773f3a343c026939ab6c48e4544946c218e4251bd87adc8036d8bda14301d0
 simpleMeaning: Often in murder trials, the question is whether the person who did a wrong act knew it
   broke the law and meant to do it
 scope: This is the guilty mind behind a wrong act in law, also called malice aforethought, not the wrong
@@ -12,5 +10,4 @@ examples:
 - Mens rea was the key question in the murder trial, since the act itself was not in doubt.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1430
-sourceFinalSha256: 4ac91b9aa5ba25038530c8edefd24a229893fd8dc52f7cb31771fa42b9fb2d49
 reviewVerdict: first-pass

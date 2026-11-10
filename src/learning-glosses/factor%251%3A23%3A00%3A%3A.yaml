@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'factor%1:23:00::'
 synsetId: 13755542-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0b5601d3eee2c40770f025707d754901472dd48ebaaf521026a350a195d6610b
 simpleMeaning: One of two or more whole numbers that divide another whole number exactly, leaving no remainder.
 scope: This is a number that divides another exactly, not a circumstance that helps cause a result.
 examples:
@@ -10,5 +8,4 @@ examples:
 - List all the factors of twenty-four.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 44
-sourceFinalSha256: 1c5943db711d7af221a759a30fb9fbd975ae88afb244e4baa0263ea2974f4615
 reviewVerdict: first-pass

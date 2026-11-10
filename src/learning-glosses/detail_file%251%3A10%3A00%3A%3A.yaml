@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'detail_file%1:10:00::'
 synsetId: 06522262-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fa63f551ad33918d68f6d04c9c3f55e5d26abca75a879c642434f8c279578fcc
 simpleMeaning: In computer science, a computer record holding short-lived facts about one particular job
   of handling facts
 scope: In computer science, this is a computer record holding short-lived facts about one particular job,
@@ -12,5 +10,4 @@ examples:
 - Each night the detail file was cleared and made anew.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1200
-sourceFinalSha256: f7371d8cb67b6d6a6e5b8bede2b52edcad0da971d99bce77604fd5ef651b15ac
 reviewVerdict: first-pass

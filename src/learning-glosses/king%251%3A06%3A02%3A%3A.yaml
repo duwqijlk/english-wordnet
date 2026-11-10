@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'king%1:06:02::'
 synsetId: 03623548-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d780ec55fcbd7ae3be7619bd7884c89a920467a7166022db1108f97ad1d37fa1
 simpleMeaning: A piece in checkers that, after reaching the opponent's first row, is upgraded so it can
   move both forward and backward.
 scope: This is the checkers piece, not a male ruler of a country, not the chess piece, not a playing card
@@ -13,5 +11,4 @@ examples:
 - In checkers, a king may move backward as well as forward.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 73
-sourceFinalSha256: 2e5d5ea7d3c44a2147d6123a49a160ed7ed321a7b5b0479999cf92f5a6f8436d
 reviewVerdict: self-approved

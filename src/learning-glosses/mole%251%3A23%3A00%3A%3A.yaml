@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mole%1:23:00::'
 synsetId: 13746191-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f32834b6e6f9e87e9826621e78c16e5506814ae631fb5e78945a8db7ab38b9de
 simpleMeaning: The basic unit for how much of a substance there is, set by the weight in grams of one
   amount of it, as used by the world system of units
 scope: A unit for how much of a substance there is, also called a mol; not the small burrowing animal,
@@ -12,5 +10,4 @@ examples:
 - One mole of water has a set weight in grams.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 326
-sourceFinalSha256: de63e00323c9ebaef0fd6f5b46892330af572d90c67d9f49e58f1e26791dc1e0
 reviewVerdict: first-pass

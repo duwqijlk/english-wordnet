@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'flight%1:04:02::'
 synsetId: 00302018-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5c862468949ed18f1ec7911c9b3115dc3ae8ebe5b56b63f3dd13a879c69ab199
 simpleMeaning: A plane journey listed on a timetable, travelling between specified airports.
 scope: This is a scheduled plane service between airports, not air travel in general and not a bold leap
   of imagination or language.
@@ -11,5 +9,4 @@ examples:
 - She booked the earliest flight home after the conference.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 81
-sourceFinalSha256: 76c9a5f568d6bee3c09437cda3c0c4ba7ae641ffade136995c28a8c3945d9f33
 reviewVerdict: first-pass

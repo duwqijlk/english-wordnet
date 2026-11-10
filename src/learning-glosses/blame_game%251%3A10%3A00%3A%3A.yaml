@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'blame_game%1:10:00::'
 synsetId: 07250967-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6746ff830db0e8c9c30f2818309a90b73ea0e16a35ccd3d80c51f009d6fa55ab
 simpleMeaning: A round of fault-finding in which people pass the fault for a bad event from one to another
   instead of owning it.
 scope: A round of fault-finding in which people pass the fault for a bad event from one to another instead
@@ -12,5 +10,4 @@ examples:
 - Stop the blame game and fix the problem.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1177
-sourceFinalSha256: fbaefdb85a8999d69a97d46fdd4814f83c507175b5175f4c0acaafb6890d7079
 reviewVerdict: first-pass

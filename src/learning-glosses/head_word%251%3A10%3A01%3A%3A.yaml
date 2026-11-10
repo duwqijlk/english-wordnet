@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'head_word%1:10:01::'
 synsetId: 06302589-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 53039afa23145d48ae95ac4ef90541866dc12c561455e67be55720e50b9cc8b3
 simpleMeaning: In grammar, the term in a group of terms that fills the same role in a sentence as the
   whole group.
 scope: The term in a group of terms that fills the same role as the whole group, also called head; not
@@ -12,5 +10,4 @@ examples:
 - The head word of 'a cup of tea' is 'cup'.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1225
-sourceFinalSha256: 14947976d614b88bbb0beb4e052cdff3383d36dea66651c159c985e80857821d
 reviewVerdict: first-pass

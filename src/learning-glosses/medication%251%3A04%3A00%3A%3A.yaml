@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'medication%1:04:00::'
 synsetId: 00665353-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0faeb9519370c87711659d0e72d9a2390b2f64172bbef4b022bfe0fdf12fc84a
 simpleMeaning: the act of giving a sick person drugs or other remedies
 scope: The act of giving a sick person drugs or other remedies, not the drug or remedy itself.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She oversaw the medication of the patients each morning.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 309
-sourceFinalSha256: 8c38409ad7d70f0f1e08761aab581a1df49def6b02e62fb4cbc07a60a3dcf7fb
 reviewVerdict: first-pass

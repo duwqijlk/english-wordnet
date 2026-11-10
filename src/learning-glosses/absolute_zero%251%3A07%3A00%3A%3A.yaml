@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'absolute_zero%1:07:00::'
 synsetId: 05020388-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5cf5cff6d48ce0d22f604822f5b926a26c81a643ac245371ec1d87630d804949
 simpleMeaning: 'In cryogenics, the lowest temperature theory allows, where atoms and molecules have the
   least possible kinetic energy: 0 Kelvin, -273.15 °C, or -459.67 °F.'
 scope: This is the theoretical lower limit of temperature, not the coldest reading ever recorded and not
@@ -13,5 +11,4 @@ examples:
 - Absolute zero cannot be reached, but it sets the scale for low-temperature physics.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 121
-sourceFinalSha256: 400fc945acebf5a6cfae6d170c2ba2bfaadfa9f25e284d2a0267a539f1ace975
 reviewVerdict: first-pass

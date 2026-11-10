@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'iron_lung%1:06:00::'
 synsetId: 03591388-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: dc6218bff7d08c1100e362a8e8c5756cb450ab32a24998783b3749f83a5672cb
 simpleMeaning: a breathing machine that changes the air pressure in a box around a sick person's chest,
   pushing air in and out of their lungs so they can keep breathing
 scope: A machine that helps a sick person breathe by changing air pressure around the chest, not a mask
@@ -12,5 +10,4 @@ examples:
 - Nurses checked the iron lung to be sure its air pressure was right.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 869
-sourceFinalSha256: 0f285b1260dd1b78e7b8a61f2cbc72f0b5c28555f7f58878ee8851ae0b52668c
 reviewVerdict: first-pass

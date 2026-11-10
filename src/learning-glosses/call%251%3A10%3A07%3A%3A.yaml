@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'call%1:10:07::'
 synsetId: 06594937-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7836a1212f4cae5db7baa2ec62c797df1fd2cc296287430710e6f24cdd338623
 simpleMeaning: a command that interrupts a computer program while it is running
 scope: This is not a phone conversation or a shout; it is a computing command.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The debugger logged the call that interrupted the loop.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 50
-sourceFinalSha256: e199f6a95e53b8d3272c2e59c355a86de7a4cf2c71c9984f9e888b36755153fe
 reviewVerdict: first-pass

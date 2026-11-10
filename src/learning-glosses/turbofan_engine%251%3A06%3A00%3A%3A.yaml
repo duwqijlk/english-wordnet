@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'turbofan_engine%1:06:00::'
 synsetId: 03326048-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 74c4637a403d7eadd95a694b81c7b6acc9ac6376493df76f4fb1bc8cb003d1f5
 simpleMeaning: a jet in which blades driven by a turbine send extra air to the burner and give extra push
 scope: 'Also called turbofan, fan-jet, fanjet and fanjet engine: a jet that gains extra push from air
   sent to the burner, not a plain jet and not a propeller plane.'
@@ -11,5 +9,4 @@ examples:
 - Engineers tested the turbofan engine on the ground before the first flight.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1304
-sourceFinalSha256: dff1cd45e3c7f042295035d2af4ba95f1fdb1bc3a84b6c49c049ddc5a3185a8b
 reviewVerdict: first-pass

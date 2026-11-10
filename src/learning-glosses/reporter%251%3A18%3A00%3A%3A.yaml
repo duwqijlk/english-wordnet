@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'reporter%1:18:00::'
 synsetId: 10541255-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 757233b77efcef3c17d883ac428900e8f031e6bbc5845e5a099c7a43b64c3923
 simpleMeaning: a person whose job is to find out about news stories and tell them to others or fix them
 scope: This is a person who finds and writes news stories for work. It is not a person who just reads
   the news or tells a story to friends.
@@ -11,5 +9,4 @@ examples:
 - A reporter fixed the news story before it was printed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 242
-sourceFinalSha256: d20b89505979d94211b2866bb0bab1f2307067feac1ac82836eabf579b5d563f
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hitting_average%1:24:00::'
 synsetId: 13840084-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1db789547376fd2089e954427ba215fb8b31b99d2c98b856e4185a00e64532d1
 simpleMeaning: 'In baseball, a mark of how well a batter does: the count of safe hits split by the count
   of official turns at bat'
 scope: In baseball, a mark of a batter's skill, worked out from hits and turns at bat; batting average
@@ -12,5 +10,4 @@ examples:
 - A hitting average above .300 marks a fine season at the plate.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1100
-sourceFinalSha256: f9e8827b36ee77fcbe333f92a89fc13ecdb63af125848b672304c0cc049c7f4a
 reviewVerdict: first-pass

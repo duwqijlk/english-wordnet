@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'restrictive_clause%1:10:00::'
 synsetId: 06326294-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 55810ae893c4c5271cb7648bcc235d91e068b849bcf87d505cab96aae0a827ce
 simpleMeaning: A part of a sentence that leans on the rest of it and cannot be left out without changing
   what the group of words it goes with means.
 scope: It is a part of a sentence, not a free-standing sentence of its own, and it narrows what the group
@@ -12,5 +10,4 @@ examples:
 - Without the restrictive clause, the sentence would point to a different group of people.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1031
-sourceFinalSha256: 31dd9d7c54e2c23aa8a5aed25c18ff19482361e421537e69212ec094107f4511
 reviewVerdict: first-pass

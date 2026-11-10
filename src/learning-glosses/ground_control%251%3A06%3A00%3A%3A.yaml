@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ground_control%1:06:00::'
 synsetId: 03468117-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5a8c92e42d58fd184a17f736e70d6c97a5fafec55795d2c46a4f6a4b93db5afd
 simpleMeaning: From the land below, a set of radio links sends a pilot coming in to land a stream of messages
   without a break.
 scope: This is the radio link from the land below that sends a pilot coming in to land a stream of messages
@@ -12,5 +10,4 @@ examples:
 - The pilot followed ground control all the way to the runway.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1003
-sourceFinalSha256: 8ba2adb32d90b21131d3177c9b1e5befaa6d820802862ddf51ea230ba312262b
 reviewVerdict: first-pass

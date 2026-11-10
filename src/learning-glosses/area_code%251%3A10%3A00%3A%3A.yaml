@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'area_code%1:10:00::'
 synsetId: 06366033-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ccdc14b13f6234594b96687bf5a83da1d41ab2bb4dbc217dfefa63e66b0931bb
 simpleMeaning: a number, most often of three figures, that marks the phone part of a country such as the
   United States or Canada
 scope: A set of figures that marks a phone part of a country, not the rest of the phone number and not
@@ -12,5 +10,4 @@ examples:
 - She asked for the area code before she dialed the number.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1324
-sourceFinalSha256: 61f732dbaf6e8c371ecb1bf7010d89ea6644202223406d1b209608c0196b11a3
 reviewVerdict: first-pass

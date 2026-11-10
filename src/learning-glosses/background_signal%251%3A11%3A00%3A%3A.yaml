@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'background_signal%1:11:00::'
 synsetId: 07445080-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 122aae21d7e9cdc05626fb2c0b4a79c55d8150b2d73b08f4dd9500fe10530837
 simpleMeaning: Stray noise that turns up alongside a reading and can pass for the thing the reading is
   meant to show.
 scope: 'This is also called background: it is the stray noise that turns up with a reading, not the thing
@@ -12,5 +10,4 @@ examples:
 - They had to filter out the background signal before they could trust the numbers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1060
-sourceFinalSha256: d1d5707f5d4550671a87957ff0b6ee45e4cb063a065d051e7808294fcf042a6e
 reviewVerdict: first-pass

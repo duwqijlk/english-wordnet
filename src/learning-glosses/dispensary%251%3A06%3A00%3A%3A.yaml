@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dispensary%1:06:00::'
 synsetId: 03215273-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3dffa8be329c3bffc1d034ec4db44f2e643a458a633396260dff38158467832f
 simpleMeaning: a clinic where people are given medicine and supplies used in medical care
 scope: This is a place that gives out medicine and medical supplies as part of care. It is not a shop
   where you buy medicine, and not a big hospital where sick people stay.
@@ -11,5 +9,4 @@ examples:
 - She went to the dispensary to pick up bandages and medicine.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 546
-sourceFinalSha256: 37472c19826291c83875f3040bf1d730d2bf43d28482224a98985c2271a6d4ea
 reviewVerdict: first-pass

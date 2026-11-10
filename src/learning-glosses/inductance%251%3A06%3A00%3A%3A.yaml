@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inductance%1:06:00::'
 synsetId: 03574194-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 64f46b15e15d173fb731932b7be6cc7a82a974aa25f2348aea3068491ecec429
 simpleMeaning: Most often a coil of wire, this small electric part adds to a circuit the power to make
   a push when the flow of current changes.
 scope: Also called an inductor, this small electric part is most often a coil of wire, and it is not the
@@ -12,5 +10,4 @@ examples:
 - We wound a new inductance for the set.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1008
-sourceFinalSha256: 283655ae243cb5fc9a9a3add8e857e56394f3958d32f5563bea4d461f61ad6d2
 reviewVerdict: first-pass

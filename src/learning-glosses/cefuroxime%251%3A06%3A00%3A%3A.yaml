@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cefuroxime%1:06:00::'
 synsetId: 02993558-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3072536a6df88419776d279d05279abba196f96c928baa3a8ab8b8d1953749e5
 simpleMeaning: A cephalosporin antibiotic that can be injected or taken as tablets under the brand names
   Zinacef and Ceftin, used for infections of the lungs, throat, ears, urinary tract, and meninges.
 scope: This is the drug itself; Zinacef and Ceftin are trade names for this same antibiotic, not different
@@ -12,5 +10,4 @@ examples:
 - Cefuroxime can also be given by injection in hospital.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 103
-sourceFinalSha256: 57ff49dd2f705f9046c91c15ac7da6ad81384c0b643dc05418f156415823bab1
 reviewVerdict: first-pass

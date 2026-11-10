@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'nondirectional_antenna%1:06:00::'
 synsetId: 03852292-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 758fe1d4dd0be132fe71dead490b9b43d0009eb7b5708e1e289101e444273df8
 simpleMeaning: a device that sends out or picks up signals the same in every direction
 scope: A device that sends out or picks up signals the same in every direction; also called omnidirectional
   antenna, not a device that points its signals one way and not a dish.
@@ -11,5 +9,4 @@ examples:
 - A nondirectional antenna sends its signal out in every direction.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1118
-sourceFinalSha256: a8cfe8fd63d539eea3a4d022f0f8af5f90459ab7196c9372fda2b32b4b40a32c
 reviewVerdict: first-pass

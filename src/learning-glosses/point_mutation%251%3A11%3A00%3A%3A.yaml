@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'point_mutation%1:11:00::'
 synsetId: 07441006-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6df655326489b665586898b4cc143b868c8942f711baefabbc07d155a2d361b7
 simpleMeaning: In genetics, a change in a gene caused by a shift inside the gene itself
 scope: In genetics, a change in a gene caused by a shift inside the gene itself; also called gene mutation;
   not a change that adds or drops a whole gene and not a change in a whole set of genes.
@@ -11,5 +9,4 @@ examples:
 - The point mutation made the gene give a new signal.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1265
-sourceFinalSha256: 1fadde4f28793680f2da5bd8ca25fae1640b3adcb454a9ddff8a49f00632c0e7
 reviewVerdict: first-pass

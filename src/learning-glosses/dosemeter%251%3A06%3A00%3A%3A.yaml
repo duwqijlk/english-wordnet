@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dosemeter%1:06:00::'
 synsetId: 03230161-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6b0bc2f44b5bab6e5746feb8623577423592fe5a552b2ede3fd66977d82864bd
 simpleMeaning: this tool reads how much ionizing radiation, such as X-rays or radioactivity, has been
   taken in
 scope: 'Also called dosimeter: a tool that reads how much ionizing radiation has been taken in, not a
@@ -12,5 +10,4 @@ examples:
 - After the X-ray work, the dosemeter showed a small dose.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 893
-sourceFinalSha256: 919747f64cce959e693b5dc4c358f2829a60f02e83bdaca5daa6183648a5a638
 reviewVerdict: first-pass

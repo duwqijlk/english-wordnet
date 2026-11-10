@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'translator%1:18:00::'
 synsetId: 10232171-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a0c0ed582f8daea289fd193f895fa0873d9aee3d48534f2110e35a74e33bef63
 simpleMeaning: a person who stands between people who speak different languages and puts what each says
   into the other's language
 scope: A person who helps people who speak different languages talk to each other in person, not a computer
@@ -13,5 +11,4 @@ examples:
 - We hired a translator so the visitors could follow the meeting.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 395
-sourceFinalSha256: d1644dd2094487c5849686ee79bf94ad0c96772adb5981e53d6a47dc36a35291
 reviewVerdict: first-pass

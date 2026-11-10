@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'complex_plane%1:25:00::'
 synsetId: 13883813-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4ec53f52fd9f9174320b9b0fa28b9af6970d921788a94f1627a5bb1f8df8fde2
 simpleMeaning: 'A flat surface for graphing numbers with a real part and an imaginary part: real values
   run along the horizontal axis, imaginary values along the vertical one.'
 scope: This is the two-axis map used for numbers with an imaginary part, not the ordinary number line
@@ -12,5 +10,4 @@ examples:
 - The roots of the equation form a circle in the complex plane.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 96
-sourceFinalSha256: 83acb82a5ae64faebda532e7c5c27681fe51ee262d22319a999aae55ca8799cc
 reviewVerdict: first-pass

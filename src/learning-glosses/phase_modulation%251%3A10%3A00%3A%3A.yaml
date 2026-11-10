@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'phase_modulation%1:10:00::'
 synsetId: 06292501-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0455bf59794df0953fc8ae2f9227dcb4f964c0a7c86789766a994d61e323fc69
 simpleMeaning: The timing of the wave that carries a signal is changed
 scope: A change in the timing of a wave that carries a signal, not a change in its height and not a change
   in how often it repeats.
@@ -11,5 +9,4 @@ examples:
 - The engineer chose phase modulation for the new link.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1451
-sourceFinalSha256: 92be25cbb07d04c3e4759504f3d3d9126f67204de78d27019fb2b35e57edcf0e
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'forced_landing%1:04:00::'
 synsetId: 00053611-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 91b6c8346ae6888d9305199d4fa2f8d47af17bf2dc00b522bdaf26cb46f7afc8
 simpleMeaning: a plane coming down at a time not planned, when the pilot cannot control events such as
   engine failure or bad weather
 scope: This is a plane coming down when it was not planned, because of engine failure or bad weather;
@@ -12,5 +10,4 @@ examples:
 - The storm caused a forced landing on a country road.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1092
-sourceFinalSha256: a50c2e46e45be5ef937016ee2d4084996393943408acca4a824d8b3acc1fe8fd
 reviewVerdict: first-pass

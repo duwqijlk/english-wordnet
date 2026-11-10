@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'detector%1:06:01::'
 synsetId: 03185959-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 070846ee60f0e5edff6cd45d744695bf721c45152057f901a00a18d32cef6bb8
 simpleMeaning: an electronic device that finds radio signals or signs of radioactivity
 scope: Not any device that picks up a signal, and not the part in a radio that takes out the sound.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The ship's detector picked up faint radio signals from far away.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 439
-sourceFinalSha256: 007fdd832dd101580be84fc9d8cc8f35fba30b8e9e7d2f3620b5f1e5d394e307
 reviewVerdict: first-pass

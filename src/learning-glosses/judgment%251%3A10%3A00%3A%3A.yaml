@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'judgment%1:10:00::'
 synsetId: 06563775-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 824df1668d9e83b53e16e27595228704d2972f817947bf95c74412cf8642b7d5
 simpleMeaning: A paper from a court that sets out the reasons behind what the court has decided.
 scope: A court paper setting out the reasons for a ruling, also called an opinion, not the ruling itself
   and not a person's power to size things up.
@@ -11,5 +9,4 @@ examples:
 - She read the judgment to learn why the court had ruled as it did.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 225
-sourceFinalSha256: 71c85ce7339f29e64f07e849f45023df15ea505be5e757902487026843aab990
 reviewVerdict: first-pass

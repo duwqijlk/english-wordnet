@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'streetcar%1:06:00::'
 synsetId: 04342573-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d84efb00bf184305d6c4248de053270f3ef11b0475aaf1dc891c377213ff25a4
 simpleMeaning: A vehicle with wheels. It gets its power from electricity and runs on rails.
 scope: This is a vehicle that carries people along rails in a street, also called tram and trolley; it
   is not a train that runs between towns and not a bus that runs on roads without rails.
@@ -11,5 +9,4 @@ examples:
 - We rode a streetcar across the city centre.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 511
-sourceFinalSha256: 5a5e892b54fe291e3b28ed209d392923122e7d5e6b531567a5f2869b18fb5187
 reviewVerdict: first-pass

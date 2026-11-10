@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mail%1:10:00::'
 synsetId: 06275051-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a0b1c0bfea0d0bea348871f83a60faffd5be27b719ce60d3134e3b97fc824a67
 simpleMeaning: the public system that sends letters, parcels and other messages through the post office
 scope: This is the postal service as a system, not the letters and parcels it carries, and not the vehicle
   that carries them.
@@ -11,5 +9,4 @@ examples:
 - Cheques were sent by mail in those days.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 40
-sourceFinalSha256: b356673d78af3ca0b218a03d4eacc372ea789907d8cd60f56c434084257842dd
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electromagnetic_intrusion%1:04:00::'
 synsetId: 00997941-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 101d0973fc73ba42b53faf4836b3ee6fa86990cef62b78e1aee1a28e959b28e0
 simpleMeaning: To confuse or trick the people who run them, someone puts electric and magnetic energy
   into signal paths on purpose
 scope: Putting energy into signal paths on purpose to confuse operators, not chance noise and not a break
@@ -12,5 +10,4 @@ examples:
 - Operators spotted the electromagnetic intrusion when their screens filled with false signals.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 894
-sourceFinalSha256: 50803dc7ea3e68c8e236f7786e8d2490cefcb4fd281c1c0a9516ba432fc5616a
 reviewVerdict: first-pass

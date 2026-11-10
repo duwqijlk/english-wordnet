@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'simple_sentence%1:10:00::'
 synsetId: 06296088-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bf5ec60af587f946052c9dfe4066991d50bc258453e5d32e8d2fdd8ce2dc972e
 simpleMeaning: a group of words with one main thought and no extra joined parts
 scope: A group of words with one main thought, not a group with two joined thoughts and not a group with
   a side thought.
@@ -11,5 +9,4 @@ examples:
 - She wrote a simple sentence with one main thought.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1285
-sourceFinalSha256: e3b3db781a0f2a924b6dbf57f3375bd16b2430f573f0b05dc8a6ec3e0d45d3f8
 reviewVerdict: first-pass

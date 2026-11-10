@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'weather%1:19:00::'
 synsetId: 11545095-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 246482147f53e76ec0188398fe44c92ea0b3d1de1433b3f64efbe9f0e9fb37f0
 simpleMeaning: the conditions in the air, described by temperature, wind, clouds, and moisture falling
   from the sky
 scope: This is the state of the air, not the side facing the wind, not the verb for surviving a storm,
@@ -13,5 +11,4 @@ examples:
 - Bad weather delayed all flights out of the city.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 70
-sourceFinalSha256: 3a0e61cf05163cf538cb0f48d11d41d0915bbefb8312b5bebbccb3ab57769ced
 reviewVerdict: first-pass

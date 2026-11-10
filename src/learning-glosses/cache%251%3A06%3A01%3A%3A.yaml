@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cache%1:06:01::'
 synsetId: 02938401-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2b71b2a23d68dd31babc46ad72b06e2ece609ac4184cc92d5756979477028f61
 simpleMeaning: In computer science, part of a computer's fast memory (RAM), set aside to hold data and
   kept up to date, to make data move better between unlike parts
 scope: 'Also called memory cache: a part of a computer''s fast memory, not a hidden place where money,
@@ -12,5 +10,4 @@ examples:
 - Clearing the cache made the program load its data in a new way.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 480
-sourceFinalSha256: b5a73cb28888a52d6279495372d591be4176ba5b2ba02f686db5fab73901f20c
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'quarterback%1:18:00::'
 synsetId: 10518401-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 975eaf18f2470a2bac50fb20d478a2df23d2bf2f04a065406dd47eaa59ec11be
 simpleMeaning: In football, the player who stands behind the line and leads the team's attack
 scope: This is the person who plays this part in football, not the position itself and not the act of
   playing it.
@@ -11,5 +9,4 @@ examples:
 - Our team's quarterback was hurt during the game.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 569
-sourceFinalSha256: de19ead899aed0b3d7f61ed210404c700df67d2483fc5822bbfd42663d7790c2
 reviewVerdict: first-pass

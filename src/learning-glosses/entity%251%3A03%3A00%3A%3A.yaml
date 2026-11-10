@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'entity%1:03:00::'
 synsetId: 00001740-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a86379450ad8b4753f3e53619676b6fe98d17defa9eacc9464379d12daf0bfc7
 simpleMeaning: a thing that is seen, known, or judged to exist on its own, living or not
 scope: A thing that exists on its own, living or not; not a part of something else and not a mere idea.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Each entity in the list has its own name.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 349
-sourceFinalSha256: 63b77ad8fc2c7ba0c729c6b693cfb0ebd1bf50069c441c2f69206471eb09db3e
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'kelvin%1:23:00::'
 synsetId: 13736861-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 688d649026549a0e3be01d7caa1b147ca74cc1ad3781aec2c11d61bc596c31ff
 simpleMeaning: The base unit of absolute temperature, set by the worldwide system of units
 scope: This is the base unit of absolute temperature, set by the worldwide system of units, not a degree
   on the Celsius or Fahrenheit scale and not a unit of heat energy.
@@ -11,5 +9,4 @@ examples:
 - The kelvin is the base unit of absolute temperature.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1235
-sourceFinalSha256: 75220a74e64acfb7be297a27fa48174f9fb48228a64c14b0214ce646e0dd1eb7
 reviewVerdict: first-pass

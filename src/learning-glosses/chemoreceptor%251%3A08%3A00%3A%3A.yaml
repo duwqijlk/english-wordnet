@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'chemoreceptor%1:08:00::'
 synsetId: 05307730-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8526299bb17c8df68824961f6ad12e605df31e68a6c27a82516b1b2fb5741242
 simpleMeaning: a sense part that answers to chemical signals
 scope: A sense part that answers to chemical signals, not a sense part for light and not a nerve on its
   own.
@@ -11,5 +9,4 @@ examples:
 - Each chemoreceptor sends a signal when it meets a chemical.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1186
-sourceFinalSha256: d87db2f3093607698dc8219d5d3dd07a18f102a36744c04c7b8fccddef3e209a
 reviewVerdict: first-pass

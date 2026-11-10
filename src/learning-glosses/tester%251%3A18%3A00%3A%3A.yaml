@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'tester%1:18:00::'
 synsetId: 10088041-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3ebf3cfe95d3455006c58cdbc6dc8ef123ca47baa3a71aa160ead9b88831a354
 simpleMeaning: a person who gives you a test to see if you have the skills or knowledge you need for something
 scope: 'Also called examiner: a person who gives a test, not the person who takes the test and not a tool
   or machine used to check how a thing works.'
@@ -11,5 +9,4 @@ examples:
 - Our tester told us to start the exam and wrote down the time.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 595
-sourceFinalSha256: 1e4420b6b43469568724b731c2be0e4589c632cc234658967a8ab6de50d265fa
 reviewVerdict: first-pass

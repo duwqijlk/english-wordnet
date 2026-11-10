@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'default_judgment%1:04:00::'
 synsetId: 01191027-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cc8ffe3a8ef428514209b23774c6107d726b2672ddc80319a948355e5086d92c
 simpleMeaning: A court order in favour of the person who brought the case, made because the other side
   did not come to court
 scope: A court order for the person who brought the case when the other side fails to appear; also called
@@ -12,5 +10,4 @@ examples:
 - His lawyer asked for a default judgment after the other side stayed away.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1081
-sourceFinalSha256: 6fd94ed45f6c4105cc4c286d2e2921b9eec4750ad327505d1f5723021738c2d8
 reviewVerdict: first-pass

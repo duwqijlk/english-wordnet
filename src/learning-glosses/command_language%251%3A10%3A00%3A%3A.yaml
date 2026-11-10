@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'command_language%1:10:00::'
 synsetId: 06912222-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6e5bd52457b043f70dd09544635003ff7cc9d466b0d546434411ce435cc8f076
 simpleMeaning: a way of writing orders for a computer, made of steps that call up jobs for the machine
   to do
 scope: A set of orders for a computer; query language and search language are other names for this sense;
@@ -12,5 +10,4 @@ examples:
 - She typed a command language order to list the files.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1075
-sourceFinalSha256: d0d550f0e0261e1d29319736290b54202b90481afeb54000591daae5807f567d
 reviewVerdict: first-pass

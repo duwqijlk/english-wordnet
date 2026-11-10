@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bucket%1:23:00::'
 synsetId: 13787889-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cd7ac86d45de9a50b9be95f95312e4e282e02317c2dacae73ec95b569cba2b94
 simpleMeaning: the amount of a thing that fills one round open pot
 scope: The amount of a thing that fills a bucket, not the round open pot itself and not the act of carrying
   a thing in such a pot.
@@ -11,5 +9,4 @@ examples:
 - He poured a bucket of sand on the path.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 183
-sourceFinalSha256: b530ef48d58c1619ea28b046f56b61a465756db7090cb4083dc78e7072fa2a19
 reviewVerdict: first-pass

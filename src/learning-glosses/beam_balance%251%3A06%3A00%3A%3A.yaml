@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'beam_balance%1:06:00::'
 synsetId: 02819629-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 97c38bba692883258074d87f26a1f703716c314d12b18d0f99f75d534a3e849c
 simpleMeaning: A weighing tool made of a bar with two arms of the same length, with a dish hung from each
   arm
 scope: A weighing tool with two arms and a dish on each, not a spring scale and not a single-pan scale.
@@ -11,5 +9,4 @@ examples:
 - The beam balance showed the two parcels had the same weight.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1174
-sourceFinalSha256: d16d05c40fc708192fa104226af6db16865317f34334f911311e22ccde9fde24
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'diastolic_pressure%1:19:00::'
 synsetId: 11450773-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ed473d477686c6256d25a0de4882409b3c1294e2fc1beb72822f64aad7281c71
 simpleMeaning: The force of the blood, as read on a cuff that measures blood force, after the heart has
   squeezed and while its rooms fill with blood again
 scope: This is the force of the blood after the heart has squeezed and while its rooms fill with blood
@@ -12,5 +10,4 @@ examples:
 - The nurse wrote down the diastolic pressure after the heart squeeze.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1200
-sourceFinalSha256: f7371d8cb67b6d6a6e5b8bede2b52edcad0da971d99bce77604fd5ef651b15ac
 reviewVerdict: first-pass

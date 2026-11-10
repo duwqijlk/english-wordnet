@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'odds%1:07:00::'
 synsetId: 04763759-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6e190b0d9128ceb6230c06a73553c747578eef9fc67b612ac8e3b352391372ea
 simpleMeaning: how likely a thing is to happen rather than not happen
 scope: How likely something is to happen, not the betting number that compares one person's bet with another
   person's bet.
@@ -11,5 +9,4 @@ examples:
 - What are the odds that the train will be late?
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 233
-sourceFinalSha256: caefdb0d7c758bab2e86670ac153a69e585fe4ffa24f4ffc004bec66573cef47
 reviewVerdict: first-pass

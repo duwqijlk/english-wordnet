@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'remind%2:32:00::'
 synsetId: 00879379-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3e21b4bceaab8e1f6ea012301d65d100bc3f58fad2a9d4fe4c3b659515c5d190
 simpleMeaning: Help a performer or speaker by supplying the next words they have forgotten or not fully
   learned.
 scope: This sense shares its synset with prompt and cue; it is giving a performer the next words, not
@@ -12,5 +10,4 @@ examples:
 - When the class faltered halfway through the poem, the teacher reminded them of the next line.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 134
-sourceFinalSha256: 4a8f73f98df94e011d28441f05ee29191a1ff2450aa19657b39700fd57fd876d
 reviewVerdict: first-pass

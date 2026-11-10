@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hydrometer%1:06:00::'
 synsetId: 03558666-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 245a4411f100ba1a4d5a91351c38ed6c9dff4378ab7c357b92b137bfd5ad4f58
 simpleMeaning: A tool for measuring how heavy a liquid or solid is for its size.
 scope: A tool for measuring how heavy a liquid or solid is for its size, not a thermometer and not a barometer;
   gravimeter is another name for this sense.
@@ -11,5 +9,4 @@ examples:
 - A hydrometer floats higher in a heavy liquid.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1229
-sourceFinalSha256: a5411a176038f2635a7c622c3c26d81e09b53a71f14d35642b3e116900981382
 reviewVerdict: first-pass

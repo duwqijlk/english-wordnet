@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'switch%1:06:02::'
 synsetId: 04379843-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f5a290f1c80528afe2e41913dd594584b8691f93a98df7665ac5e50df51264d6
 simpleMeaning: a part of a train track with two moving rails and needed links, used to send a train to
   another track or to keep trains aside
 scope: This is a part of a train track, not a part for turning power on or off and not a move in basketball.
@@ -11,5 +9,4 @@ examples:
 - The train waited while the switch moved it to another track.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 175
-sourceFinalSha256: f24a9ddeebe94e783306d31ef39763005b83eeaea539e03ebcb1a47f75bb7985
 reviewVerdict: first-pass

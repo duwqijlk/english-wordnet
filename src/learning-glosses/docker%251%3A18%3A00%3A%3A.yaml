@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'docker%1:18:00::'
 synsetId: 10674608-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1b05b7584d07a6a9a3c0f22aed234efad19814ca9297b01bc9ff4b22530f6dfb
 simpleMeaning: ships in a port get their goods put on board and taken off by this worker
 scope: A worker who loads and unloads ships at a port, also called a dock worker, dock-walloper, dockhand,
   dockworker, loader and lumper, and not a sailor or a ship's captain.
@@ -11,5 +9,4 @@ examples:
 - Hundreds of dockers went on strike at the port.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1372
-sourceFinalSha256: 7a451d241dbbf8e5285077140bf62e79f900cc91817f859a31e77e8ceefbe14a
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'udometer%1:06:00::'
 synsetId: 04056697-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d72a83cd4ba1c42f1060d324c32c72fef4533375d7e22f6b69c6ae3b7f800aac
 simpleMeaning: A gauge, a tool that measures how much water has fallen from the sky.
 scope: This is a gauge that measures how much water has fallen from the sky, also called pluviometer,
   rain gage and rain gauge; not a thermometer and not a barometer.
@@ -11,5 +9,4 @@ examples:
 - He read the udometer each morning.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1154
-sourceFinalSha256: 7293fa962a4420246e7f9c8d28e0528831b66f318706a661e31c041d6c0256a7
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'median%1:09:00::'
 synsetId: 06033170-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5a89186cd721c69554294055c5dadae66f62c152f0309c975c3ed936f2046485
 simpleMeaning: In a set of numbers, the value half way between the two numbers in the middle; the set
   may have an even or an odd number of items
 scope: This is a number in a set of numbers; it is not the describing word for a thing that sits in or
@@ -12,5 +10,4 @@ examples:
 - For these five numbers, the median sits in the middle of the list.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 534
-sourceFinalSha256: cc990005814d202cd272c3ac1051c173958cf96913b1f388a6eed4677c0efbc0
 reviewVerdict: first-pass

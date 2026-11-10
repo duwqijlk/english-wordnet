@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'squelch_circuit%1:06:00::'
 synsetId: 04300396-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 757d52594fa9c8f5bc9e78eaae0071396d4f8a42d4eeb660238beca4c0f5bc2a
 simpleMeaning: a set of electric wires that shuts off a receiving set when the signal grows weaker than
   the background hiss
 scope: A set of electric wires that shuts off a receiving set when the signal grows weaker than the background
@@ -13,5 +11,4 @@ examples:
 - A squelch circuit keeps the radio quiet between calls.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1145
-sourceFinalSha256: 74a6d398062769dd553fdca109be32b00da9b83a1b8fbfc0cbe84836d1018922
 reviewVerdict: first-pass

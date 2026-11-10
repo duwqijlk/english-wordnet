@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stock_index%1:10:00::'
 synsetId: 06654573-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 17c5b496c24b4bcc8bea6b189ec2f36454ff9e97758dd6ee9f9ea3bdf0f45899
 simpleMeaning: a number made from the prices of shares of a group of firms that stand for the whole market
 scope: This is a number that shows how a group of shares is doing, also called stock market index, not
   the price of one share and not a list of all shares.
@@ -11,5 +9,4 @@ examples:
 - Traders watch the stock index to see how the market is doing.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1292
-sourceFinalSha256: 9915e12f3c6ec97ff227d4aa01b906f68d0447842ede13425187a6bf174ffd31
 reviewVerdict: first-pass

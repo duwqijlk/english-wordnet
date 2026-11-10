@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fuel_cell%1:06:00::'
 synsetId: 03405713-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a1839c09e30b74ab75f066784e5fd3b061a69b349d8d090f7d2b800bcb20cffa
 simpleMeaning: a unit that makes electricity by a chemical change in hydrogen and oxygen or zinc and air,
   often used in electric cars
 scope: This is a unit that makes electricity from hydrogen and oxygen or zinc and air; not a battery that
@@ -12,5 +10,4 @@ examples:
 - Fuel cells are often used in electric cars.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1092
-sourceFinalSha256: a50c2e46e45be5ef937016ee2d4084996393943408acca4a824d8b3acc1fe8fd
 reviewVerdict: first-pass

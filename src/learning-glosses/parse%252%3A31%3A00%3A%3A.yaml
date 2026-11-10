@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'parse%2:31:00::'
 synsetId: 00645572-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 12cda553189fa6074919f38c205aff00edaf9a8c0d89c1dc7f4d06e26dea960d
 simpleMeaning: to break a sentence into its parts and show how each part fits with the other parts
 scope: This means breaking a sentence into its parts and showing how they fit together, not just reading
   a sentence or working out what it means in general.
@@ -11,5 +9,4 @@ examples:
 - The teacher asked him to parse the sentence and name each part.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 496
-sourceFinalSha256: 061cb759f7d0a612c9abcab52bea20dc87f3622acb446864aa7f7300ff1700eb
 reviewVerdict: first-pass

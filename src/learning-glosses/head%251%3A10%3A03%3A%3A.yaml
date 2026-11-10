@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'head%1:10:03::'
 synsetId: 06302589-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 53039afa23145d48ae95ac4ef90541866dc12c561455e67be55720e50b9cc8b3
 simpleMeaning: in grammar, the word in a grammatical unit that fills the same grammatical role as the
   whole unit
 scope: This is the key word that gives a grammatical unit its role, not the body part above the neck,
@@ -13,5 +11,4 @@ examples:
 - In 'very quickly', 'quickly' is the head of the adverbial phrase.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 72
-sourceFinalSha256: 801b30d8e36b60e608fca6f31e02a830a77d6f0a87b66c32b242f67df7fe7255
 reviewVerdict: first-pass

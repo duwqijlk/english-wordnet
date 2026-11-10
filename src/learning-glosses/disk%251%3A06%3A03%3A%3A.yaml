@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'disk%1:06:03::'
 synsetId: 03712192-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 267c2bc83bf92482bca46b5f2c5076d9a53bb2ebb96582d9bc1a9cc491969c4c
 simpleMeaning: In computers, a flat round plate with a magnetic coat, used to keep facts on it.
 scope: 'Also called disc: in computers, a flat round plate with a magnetic coat that keeps facts, not
   the round plate that plays music and not any round flat thing.'
@@ -11,5 +9,4 @@ examples:
 - The computer could not read the disk.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 338
-sourceFinalSha256: c9358b3f7c5ca7b6547ff36f69ec496f35eefc3639a9237c3481352e87a4df90
 reviewVerdict: first-pass

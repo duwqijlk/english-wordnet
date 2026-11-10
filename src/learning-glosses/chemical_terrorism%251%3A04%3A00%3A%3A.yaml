@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'chemical_terrorism%1:04:00::'
 synsetId: 00764635-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8633f568515fd646d8ce24dc9a68e8e32ac8d91b7214bbc249ec2f2c833b54f7
 simpleMeaning: violent attacks that use harmful substances made for war, which can put people's safety
   at risk
 scope: Violent attacks that use harmful substances made for war, not a war fought with guns and tanks
@@ -12,5 +10,4 @@ examples:
 - The police trained to face chemical terrorism.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1071
-sourceFinalSha256: cb044ebc55ef7827761756ee8d570f42af8ab71ae74fdfd2f30db271bf90d697
 reviewVerdict: first-pass

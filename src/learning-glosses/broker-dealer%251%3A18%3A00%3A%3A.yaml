@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'broker-dealer%1:18:00::'
 synsetId: 09895618-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e35d362c770ff76568b3b564764a0a27d0315ef7c8be605da90db7d62f660e3b
 simpleMeaning: A money expert who buys and sells for their own account, acting both as a go-between for
   others and as a buyer or seller in their own right.
 scope: A money expert who trades for their own account, acting both as go-between and as buyer or seller;
@@ -12,5 +10,4 @@ examples:
 - As a broker-dealer, she can trade for clients and for herself.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1179
-sourceFinalSha256: 8e9a5de59509a7950ed77d39d9f8d664599cb29bcac0dc41befb1d125e712028
 reviewVerdict: first-pass

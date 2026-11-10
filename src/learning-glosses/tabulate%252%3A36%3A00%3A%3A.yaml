@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'tabulate%2:36:00::'
 synsetId: 01749344-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 96ef61e595141a7ba04ca3d2d7c930ca4d8cf128434206a408766cfb6136dbbc
 simpleMeaning: to put facts or numbers in rows and columns
 scope: This means putting facts or numbers in rows and columns, not counting them for the first time and
   not explaining what they mean.
@@ -11,5 +9,4 @@ examples:
 - The clerk will tabulate all the votes by town.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 587
-sourceFinalSha256: 60a1e90f952fa162bdb9e627e9de8a086b9dcd781eb61c6149d62739336bd203
 reviewVerdict: first-pass

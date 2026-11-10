@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'impulse_relay%1:06:01::'
 synsetId: 92463799-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f184b9311e5e83a3b3861e60d26c5f2aef9257e5297ee9a59cddb591ffcba566
 simpleMeaning: A switch that stays in place, on or off, for as long as it is left, with no power to hold
   it there
 scope: A switch that holds its on or off place with no power to the coil, also called a bistable relay,
@@ -12,5 +10,4 @@ examples:
 - An impulse relay in the panel holds the circuit either on or off.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1409
-sourceFinalSha256: 371a494b1383a1bc1d6ed154af81e6992eef7187ace8d481edcd788893acbec4
 reviewVerdict: first-pass

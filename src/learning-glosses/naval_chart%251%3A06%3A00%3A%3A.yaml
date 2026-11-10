@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'naval_chart%1:06:00::'
 synsetId: 03817188-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fd71b69a1ffd3a3194509ed424ac08e67fc277a09849fcea8530fc0b84a0780c
 simpleMeaning: A map for a person who sails a ship, showing the weather, water and sailing conditions
   that are usual in a place.
 scope: A map for a person who sails a ship, showing the weather, water and sailing conditions that are
@@ -13,5 +11,4 @@ examples:
 - A naval chart shows the weather and water conditions.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1116
-sourceFinalSha256: 2aa32a2acc3deaa24cd4c6b21ddd3521b8de93db1e7ed804491938adb9429048
 reviewVerdict: first-pass

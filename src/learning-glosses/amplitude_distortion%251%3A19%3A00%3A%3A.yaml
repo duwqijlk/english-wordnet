@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'amplitude_distortion%1:19:00::'
 synsetId: 11532577-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b22dc17e5bd236dcdad03a2ccdd9ffbc5ea7864bee7b977102fbf633aeb25b9b
 simpleMeaning: A warping of a signal in which the output does not grow in a straight-line relation to
   the input.
 scope: Also called nonlinear distortion, this warping of a signal means what comes out does not grow in
@@ -12,5 +10,4 @@ examples:
 - The amplitude distortion broke the straight link between input and output.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 921
-sourceFinalSha256: 3608d1ac49942b7c843a9b546fee8dac677879fe4e3639ab6e2d2628ac5dadb9
 reviewVerdict: second-pass

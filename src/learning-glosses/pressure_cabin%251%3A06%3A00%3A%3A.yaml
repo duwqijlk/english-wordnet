@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pressure_cabin%1:06:00::'
 synsetId: 04007490-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e37e30b96e346b6ad8d4d5f20de100181dce14876c5bb21153f1b8d0791f77ed
 simpleMeaning: the room in a plane or space ship where air is held at a level that lets people breathe
 scope: The room inside a plane or space ship where people travel and breathe, not the plane itself and
   not the outside air.
@@ -11,5 +9,4 @@ examples:
 - Passengers sat in the pressure cabin while the plane flew high above the clouds.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1268
-sourceFinalSha256: af886557e0de40a2d2850e439b76d25e81323fba983da82a18b300ee58f38e78
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'acoustic_absorption%1:07:01::'
 synsetId: 92423932-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6985b8bd959d2b8e218555a51d591473d4179ca6a9f799bcea0e4a42523638f4
 simpleMeaning: In acoustics, when sound waves hit it, a thing, a built shape, or an object takes in sound
   energy instead of bouncing the energy back
 scope: In acoustics, it is the way a thing, a built shape, or an object takes in sound energy when sound
@@ -12,5 +10,4 @@ examples:
 - Thick curtains raised the acoustic absorption of the room.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 974
-sourceFinalSha256: 3e7bd68dd3d6ef48a4d53c5eb71327858417d3e455a9845fae7909e878748039
 reviewVerdict: first-pass

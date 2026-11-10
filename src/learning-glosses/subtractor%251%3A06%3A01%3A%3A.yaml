@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'subtractor%1:06:01::'
 synsetId: 92441650-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 62a9655b9520263969481335fe5b439319340d04fed7feb536efef9d689d990f
 simpleMeaning: an electric circuit that works out the difference between two numbers made of ones and
   noughts
 scope: A circuit that finds the difference between two binary numbers, not a circuit that adds numbers
@@ -12,5 +10,4 @@ examples:
 - Engineers tested the subtractor with pairs of binary numbers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1293
-sourceFinalSha256: c81184f0583dc1c82e7b7b8422c143e8461e6bc67209b747bd2e7616a94f85f1
 reviewVerdict: first-pass

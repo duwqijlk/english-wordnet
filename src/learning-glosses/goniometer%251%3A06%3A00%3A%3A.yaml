@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'goniometer%1:06:00::'
 synsetId: 03452838-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1dd8d1e73fff059017f2d5ecbf62121cf08ba7b856ba3dbbbcff2cb21ec76017
 simpleMeaning: A tool that finds the direction of radio signals coming in, by working out their angle.
 scope: A tool that works out the angle of radio signals coming in, not a compass and not a radio set itself.
 examples:
@@ -10,5 +8,4 @@ examples:
 - They used a goniometer to find the direction of the radio signals.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1220
-sourceFinalSha256: 51100a39bb80794bbd05463e4dfada4783db9a19987676a680a8047063b63ec1
 reviewVerdict: first-pass

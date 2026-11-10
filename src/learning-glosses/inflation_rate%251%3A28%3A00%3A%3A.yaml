@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inflation_rate%1:28:00::'
 synsetId: 15304320-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d0aa6801314d85b2144df5304271da5a2cd7492bd6bdcc7b924c03b9fa91eab1
 simpleMeaning: How fast prices rise or fall over a month or a year, worked out from a list of prices
 scope: How fast prices change over a month or a year; not one price going up and not the cost of living.
 examples:
@@ -10,5 +8,4 @@ examples:
 - A high inflation rate means your money buys less each year.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1410
-sourceFinalSha256: 51e6b59195aaa987d5ad0d0f375f1662193e6a953bd6693f92ed5abdf2465511
 reviewVerdict: first-pass

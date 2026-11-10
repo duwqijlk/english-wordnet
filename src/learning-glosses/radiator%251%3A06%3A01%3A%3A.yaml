@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radiator%1:06:01::'
 synsetId: 04047235-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1c109eb2f04414e29a3af2e8424187565d952ee793b5805d3a35e220e2b3ce05
 simpleMeaning: a vehicle part that takes heat from hot liquid running through a thin metal grid, as air
   blown past it by the vehicle or a fan carries the heat away
 scope: A cooling part in a vehicle, not a room heater and not anything that gives off energy.
@@ -11,5 +9,4 @@ examples:
 - A fan behind the radiator blows air through the metal grid.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 385
-sourceFinalSha256: d77def4645de3818baca95dadacbc8e7c992bad528476e27c492ca06a1909ea0
 reviewVerdict: first-pass

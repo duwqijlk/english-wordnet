@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bank_examiner%1:18:00::'
 synsetId: 09857369-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b5d49ba2c2f975db20aa42a6011429674e70629a76ec413ab15ab9104ca58199
 simpleMeaning: a person named to check the books of lenders in one area and make sure their figures are
   right
 scope: A person who checks a lender's books, not the lender's own worker and not a judge.
@@ -11,5 +9,4 @@ examples:
 - A bank examiner found that the figures did not add up.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1330
-sourceFinalSha256: 5903f7248f6b0684b4a289f5cfac6b67b4413d682c6b1603126dc6a1adce7866
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'industrial_process%1:22:00::'
 synsetId: 13519131-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d1a5c08597c430622232c2f5590ac5a21d6a465e130870368df0560fbca6b7b4
 simpleMeaning: A set of steps, done in order with machines or with chemicals, that make something
 scope: A set of steps done in order to make something, not a single step and not the machine that does
   the work.
@@ -11,5 +9,4 @@ examples:
 - Each industrial process at the plant follows the same set of steps.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1410
-sourceFinalSha256: 51e6b59195aaa987d5ad0d0f375f1662193e6a953bd6693f92ed5abdf2465511
 reviewVerdict: first-pass

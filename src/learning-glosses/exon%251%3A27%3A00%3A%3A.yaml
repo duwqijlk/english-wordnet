@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'exon%1:27:00::'
 synsetId: 14855162-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e0ab4cab0158cd4767b06b8b59e8d9a3b0259ff02793c474134f42cc338d3434
 simpleMeaning: a part of a gene's DNA that is copied into the instructions for making a protein
 scope: This is a coding part of a gene; not an intron, the part cut out before a protein is made, and
   not the whole gene.
@@ -11,5 +9,4 @@ examples:
 - The exon was copied when the gene was read.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1088
-sourceFinalSha256: ea8e27555c33dab63f34c34f496bf375a9584bb31232e83f92ebab08e37dad84
 reviewVerdict: first-pass

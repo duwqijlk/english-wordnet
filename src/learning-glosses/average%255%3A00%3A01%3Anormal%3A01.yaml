@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: average%5:00:01:normal:01
 synsetId: 01599054-s
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 51a8d7c8e01ffeec90d9c42c4e81759b1f811aec35a79ae1355db05fb81afe2f
 simpleMeaning: Of or being the middle value in an ordered list, or the mean of the two middle values when
   the list has an even count.
 scope: This is the middle value of an ordered set (or the mean of the two middle values when the count
@@ -13,5 +11,4 @@ examples:
 - With an even number of scores, the average is the mean of the two middle ones.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 73
-sourceFinalSha256: 2e5d5ea7d3c44a2147d6123a49a160ed7ed321a7b5b0479999cf92f5a6f8436d
 reviewVerdict: self-approved

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'weighted_average%1:09:01::'
 synsetId: 92436725-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cd4ae219a2064e0baa613308556fe05cade5261cda8ecf07394720b1d7ec13d7
 simpleMeaning: The final figure counts some numbers more than others, because each number to be worked
   out carries a weight.
 scope: Also called weighted arithmetic mean and weighted mean, it is the figure where each number carries
@@ -12,5 +10,4 @@ examples:
 - The weighted average of the test marks was worked out.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1050
-sourceFinalSha256: 5ed1fe5287f5ef4112055cc7b58c7ce629b399c7b7f1dfa89a214737ecef5dba
 reviewVerdict: first-pass

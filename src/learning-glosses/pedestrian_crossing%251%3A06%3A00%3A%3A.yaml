@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pedestrian_crossing%1:06:00::'
 synsetId: 03910302-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 665ee95256e8de74a499ab7aa2656c2c173baa35012ee289491f4ed0ef6ddf20
 simpleMeaning: A place in a road where people on foot may go across and cars must let them pass; often
   marked, above all with lines that run at a slant.
 scope: A marked place for people on foot to go across a road, not a footbridge over the road and not a
@@ -12,5 +10,4 @@ examples:
 - Drivers must stop when people are using the pedestrian crossing.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1261
-sourceFinalSha256: 2e45e5f09a0e728d2576e4626d7dbba5438be102e3a10bc0ef7b65ae3bd59272
 reviewVerdict: first-pass

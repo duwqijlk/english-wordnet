@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'message%1:10:00::'
 synsetId: 06611268-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 04db4e82e8ab4c142edd3b67ffca53df7867140e094cda87a95cd44bd537c89f
 simpleMeaning: The main idea or point that a book, film, or action is trying to express.
 scope: It is not the note or words that are sent, but the meaning behind a work or an act.
 examples:
@@ -10,5 +8,4 @@ examples:
 - What message do you think the painting is trying to give?
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 23
-sourceFinalSha256: de0eb6311ff829e4a925f9abb9e8810b6e6bb15d6c7730055cda82898ed3c581
 reviewVerdict: first-pass

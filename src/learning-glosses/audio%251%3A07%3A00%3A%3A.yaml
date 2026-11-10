@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'audio%1:07:00::'
 synsetId: 05063537-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7908471d1ccc55b8d7568d9ce8f7fce3bfb59e422bd5198e720b054da1699432
 simpleMeaning: A sound wave that the ear can hear, counted by how often it moves back and forth.
 scope: A sound wave the ear can hear, not a recording of sounds and not the sound part of a broadcast.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Dogs can hear audio far above what we can catch.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 336
-sourceFinalSha256: 42b1b0e6371ff267df490f45a5916d19897c9e0a09554956d4c9b76e3b089292
 reviewVerdict: first-pass

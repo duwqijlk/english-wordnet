@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'indefinite_integral%1:09:00::'
 synsetId: 06025049-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ba16caa5df36173241014df9603e9e8df1c6c6ee1601ce95774d714bd3f7c13d
 simpleMeaning: the set of all functions got by adding any fixed real number to one function whose rate
   of change is the given function
 scope: In maths, the set of functions got by adding any fixed number to one function, not a single number
@@ -12,5 +10,4 @@ examples:
 - Her teacher asked for the indefinite integral of 3x squared.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 869
-sourceFinalSha256: 0f285b1260dd1b78e7b8a61f2cbc72f0b5c28555f7f58878ee8851ae0b52668c
 reviewVerdict: first-pass

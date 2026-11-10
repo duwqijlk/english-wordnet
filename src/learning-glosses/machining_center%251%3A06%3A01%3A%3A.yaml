@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'machining_center%1:06:01::'
 synsetId: 92462131-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cd4e11cbde642592d2add0d4d18d115e2ec06e3122d452ecf0805b95952d74ff
 simpleMeaning: a milling machine that changes its own tools, holds them in magazines or round trays, is
   run by computer control, and has cooling and a housing around it
 scope: A milling machine that changes its own tools, not a hand drill and not a simple lathe.
@@ -11,5 +9,4 @@ examples:
 - Our shop bought a new machining center with computer control.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 871
-sourceFinalSha256: 767b2b9c2bc43f585de7c85c16d86c29dfa521c5e0f44e686bd39fd31e60f1de
 reviewVerdict: first-pass

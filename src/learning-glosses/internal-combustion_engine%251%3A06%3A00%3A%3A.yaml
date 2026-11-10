@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'internal-combustion_engine%1:06:00::'
 synsetId: 03585151-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: dd92fe04499fc7428035fe02616673ace4245c62a6587b84690ccff7176d9498
 simpleMeaning: Heat from fuel burning inside this machine makes a gas swell, and the swelling gas pushes
   a moving part or spins a wheel with blades
 scope: Unlike a machine fed by heat from a fire outside it, this machine burns its fuel inside itself.
@@ -11,5 +9,4 @@ examples:
 - They fitted the boat with a small internal-combustion engine.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1009
-sourceFinalSha256: 152682c3b2b9531410e2f6bad61f236acdf9bc2e3c3c48d7193e7ec291e37e51
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'documentation%1:10:01::'
 synsetId: 06600607-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f5b578a5e0b03ff4b2365756f4382ab38770e866f14ed02bf5b7b948a6b65448
 simpleMeaning: Lists of a program's code or handbooks that tell how a computer program works and how to
   use it
 scope: This is lists of program code or handbooks about how a program works, not proof that a fact is
@@ -12,5 +10,4 @@ examples:
 - The documentation tells you how to use every part of the software.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 452
-sourceFinalSha256: 5835e96ce78b783d720e814bf85548b6848a8aefaf6720ea38bd4781e500f9ba
 reviewVerdict: first-pass

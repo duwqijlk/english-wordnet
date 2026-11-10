@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'transmission_system%1:06:00::'
 synsetId: 04479478-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ed23e68cc3ac4f34f2f567dd4373b850903372ebec813387dc56ece892e009fa
 simpleMeaning: the gears in a car that send power from the engine through a long rod to the wheels that
   drive it
 scope: These are the gears in a car that send power from the engine to the wheels that drive it; transmission
@@ -12,5 +10,4 @@ examples:
 - A fault in the transmission system stopped power reaching the wheels.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1302
-sourceFinalSha256: d912f3a117cf2b48c5cbbad3bbe7bce9d251fb63fcf043185a3ee99d7559a208
 reviewVerdict: first-pass

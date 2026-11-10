@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'expert_witness%1:18:00::'
 synsetId: 10092134-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f9f68eadeaca316404164fea270980256026a63e49388b53dccb9b4a0d5b0f47
 simpleMeaning: a person called to speak in court because they know a great deal about the subject being
   discussed
 scope: This is a person with special knowledge who speaks in court; not an ordinary person who saw an
@@ -12,5 +10,4 @@ examples:
 - They called an expert witness to speak about the building's safety.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1088
-sourceFinalSha256: ea8e27555c33dab63f34c34f496bf375a9584bb31232e83f92ebab08e37dad84
 reviewVerdict: first-pass

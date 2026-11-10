@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'colorimeter%1:06:00::'
 synsetId: 03075556-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2c26ef4bc4e4530ee0bf7293989277af0edc11aef1a82fc2f78ea1bfb721e19d
 simpleMeaning: A measuring instrument used in colorimetric analysis to work out how much of a substance
   there is from the colour it makes with specific reagents
 scope: This tool, also called a tintometer, works out the amount of a substance in a mix from the shade
@@ -12,5 +10,4 @@ examples:
 - She used a colorimeter to test the shade the mix turned.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 930
-sourceFinalSha256: a09a192dead595835506acfb10b90b253f0b3ae84be3cfc9be1916c82aff98ad
 reviewVerdict: second-pass

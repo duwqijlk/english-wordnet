@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'any-and-all_bid%1:04:00::'
 synsetId: 00792338-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5c2cb06ec399b57cf769a9fb81fe85d057642e035b5e68baa7661b3b6fc233e4
 simpleMeaning: An offer to take over a firm by buying every share that is still held by others.
 scope: An offer to buy every share still held when taking over a firm, not an offer for part of the shares
   and not a bid for one asset only.
@@ -11,5 +9,4 @@ examples:
 - Shareholders accepted the any-and-all bid at once.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1168
-sourceFinalSha256: 8566f80d7b15aa6a0b209ba447622a8fe0424f6f6514c0c840b833d130fe4ff8
 reviewVerdict: first-pass

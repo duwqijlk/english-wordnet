@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'background_noise%1:11:00::'
 synsetId: 07445370-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fbb2284ffb7a85b5c65afbbb22d2fffa725ddc5818b8d7638cc0eba7b6223b99
 simpleMeaning: Extra noise that spoils sound measurements and cannot be separated from the desired signal.
 scope: Also called ground noise, this is the extra sound that gets into a sound reading and cannot be
   kept apart from the sound you want to hear.
@@ -11,5 +9,4 @@ examples:
 - They could not take the background noise out of the tape.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 979
-sourceFinalSha256: 727f34bf2bb1cc3b6f47ba53c3a38fe43fcc88c4339683e471253012c6a4609f
 reviewVerdict: second-pass

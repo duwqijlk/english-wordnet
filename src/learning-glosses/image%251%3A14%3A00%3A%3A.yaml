@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'image%1:14:00::'
 synsetId: 08016746-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c6115da51745ac8452dc7c2b800b73f9f3f3e2a16c5a6a4ada4168830ae1f144
 simpleMeaning: (mathematics) every result a rule can produce from the values it accepts
 scope: 'This is the mathematics sense of the values a function produces; distinct from image%1:09:00::
   (a mental picture), image%1:07:00:: (a public facade in Jungian psychology), image%1:06:00:: (a picture
@@ -15,5 +13,4 @@ examples:
 - For this function, the image contains only positive values.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 76
-sourceFinalSha256: 91cd4cee1f42e0b8f16479f2eb5495a5151bb6ea188cebddd230230fc1887c74
 reviewVerdict: first-pass

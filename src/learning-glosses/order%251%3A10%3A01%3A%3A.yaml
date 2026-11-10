@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'order%1:10:01::'
 synsetId: 06541210-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 473f256003b858b519242a6eb624de05c38bf5913bf4799330e4573ee8e0b04e
 simpleMeaning: A business document that asks a supplier to provide stated goods in stated amounts, in
   return for payment.
 scope: This is a buying document, not a command, a neat arrangement, or a rank on a scale.
@@ -11,5 +9,4 @@ examples:
 - We received the goods two days after placing the order.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 51
-sourceFinalSha256: 233fe5e8530a3a432e7d85ec19f52f2f926f09706607f54866ac53d59d56b994
 reviewVerdict: first-pass

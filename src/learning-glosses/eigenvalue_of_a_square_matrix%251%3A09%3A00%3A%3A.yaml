@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'eigenvalue_of_a_square_matrix%1:09:00::'
 synsetId: 05865173-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 683890f6df19fcc25a8c5a20e3df54f6128223e45835d70235716ef00b5383fd
 simpleMeaning: In maths, the number leaving a grid worth nought when the number times the ones-and-noughts
   grid is taken from a grid with as many rows as columns.
 scope: Eigenvalue, eigenvalue of a matrix, and characteristic root of a square matrix are other names
@@ -12,5 +10,4 @@ examples:
 - She checked the eigenvalue of a square matrix before going on to the next question.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 996
-sourceFinalSha256: d3cc1f792c56f52b969bac3970d0416c92ad262288697baa92ab43a0c52bb057
 reviewVerdict: first-pass

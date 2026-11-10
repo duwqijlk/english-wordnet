@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fragmentation%1:22:00::'
 synsetId: 13505506-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bc2bb5bab2709785c1bbc141246285e048bf8a5e64bc78f1b1cf7d3dc4236fdc
 simpleMeaning: In computer science, this is when one file is not kept in one place on a magnetic disk,
   but its parts are in many different places
 scope: This is the computer sense, about a file split across a disk; it is not the scattering of pieces
@@ -12,5 +10,4 @@ examples:
 - After years of use, fragmentation made the magnetic disk slow to read files.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 600
-sourceFinalSha256: dbfe3db5982f224b790d9400f5347acd84f330c61a9513b00d9cb057d8b1f1e3
 reviewVerdict: first-pass

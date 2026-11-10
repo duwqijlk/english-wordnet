@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ignition_switch%1:06:00::'
 synsetId: 03566349-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: afa1e67d9c0fd5de92021904cfbe647b1a2cf9882f36758a1c9629e44af69dad
 simpleMeaning: A switch that works a solenoid to close a circuit and operate the starter
 scope: It is the switch that sets the starter going by closing the path of power, not the starter itself.
 examples:
@@ -10,5 +8,4 @@ examples:
 - A worn ignition switch would not close the circuit at all.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1008
-sourceFinalSha256: 283655ae243cb5fc9a9a3add8e857e56394f3958d32f5563bea4d461f61ad6d2
 reviewVerdict: second-pass

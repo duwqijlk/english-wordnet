@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'n-type_semiconductor%1:06:00::'
 synsetId: 03839290-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 88646c34ee9751bed130961d1c2337617367465a92a9909fa1c8bc033e5fc6db
 simpleMeaning: A piece of matter that carries electric current, mostly because tiny charged bits (electrons)
   move through it.
 scope: A piece of matter that carries current mostly by moving electrons, not a piece that carries current
@@ -12,5 +10,4 @@ examples:
 - An n-type semiconductor was used in the circuit.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1251
-sourceFinalSha256: f095f7b8347dc74415134c73e6ac3c3d0abddeb12771c6cd4a882e796dc7d124
 reviewVerdict: first-pass

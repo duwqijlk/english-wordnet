@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'charge%1:19:00::'
 synsetId: 11455142-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 44a90d397f37f3f046ef0402245ce4a85e8d58f14c40d73669d6e5f5f4707d95
 simpleMeaning: the amount of unbalanced electricity held in a body or object, positive or negative, seen
   as too many or too few electrons
 scope: This is the stored electrical imbalance itself, not the act of putting power into a battery and
@@ -12,5 +10,4 @@ examples:
 - Opposite charges attract, while like charges push apart.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 65
-sourceFinalSha256: 7e090f016861e99e3c5f026a1ab28aedd6a43aae4dd6a6f5aea43f6bb657d3c3
 reviewVerdict: first-pass

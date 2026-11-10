@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'law_of_large_numbers%1:09:00::'
 synsetId: 05883755-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2620660bf95306e24c4371a106b6c2a7dd8191038699212ae43085c93faa6343
 simpleMeaning: In statistics, the figures of a whole group are, on the whole, the same figures that many
   things picked by chance from that group will show
 scope: In statistics, a rule about chance picks from a group matching the group as a whole, not a rule
@@ -12,5 +10,4 @@ examples:
 - By the law of large numbers, the average of many coin tosses comes close to half heads.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1419
-sourceFinalSha256: 3a26d028fb0316783ac8dbad4b94b3d93cedb5bc10a92db684164927f53e0e71
 reviewVerdict: first-pass

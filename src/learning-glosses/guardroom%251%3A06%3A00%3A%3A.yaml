@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'guardroom%1:06:00::'
 synsetId: 03469884-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2a6014f61b2c47e7955cb56f4e5f441903b204fc6283942df80a6f2757d28fe2
 simpleMeaning: a room used by soldiers who watch and keep a place safe
 scope: This is a room for soldiers who are on watch, not the open place where a soldier stands to watch
   and not a room for sleeping.
@@ -11,5 +9,4 @@ examples:
 - There is a small guardroom just inside the main gate.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 607
-sourceFinalSha256: d6b5b67930be250cd4789c8b1f541c9e3136045bc71bae5fd92214ce93c40db5
 reviewVerdict: first-pass

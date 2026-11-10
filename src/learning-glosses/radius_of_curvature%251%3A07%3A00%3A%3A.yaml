@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radius_of_curvature%1:07:00::'
 synsetId: 05109840-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f281e6fb22fe5f24e17a17116d017c6c4e52ad060b00e3eedc3d5f183fc23df7
 simpleMeaning: One divided by how sharply a line bends at one point, with no minus sign, equals half the
   width of the round shape that fits the bend best.
 scope: It is the reciprocal of how much a line bends at one point, not the bending itself.
@@ -11,5 +9,4 @@ examples:
 - They worked out the radius of curvature from the shape of the bend.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1029
-sourceFinalSha256: d9318da09f46bf81f119dc90d18c620aa067caf30d35887c23fa7e0132dce480
 reviewVerdict: first-pass

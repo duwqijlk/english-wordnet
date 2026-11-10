@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'charge%2:40:02::'
 synsetId: 02326026-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 26a9a692abe2cdf1fd90560270cc6b311c3d1ad1ab96df6398f5074d228d72c5
 simpleMeaning: record a particular sum of money as an amount owed
 scope: This is noting a sum owed in an account, not paying with a card and not making an electrical imbalance.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The clerk charged the full amount to the customer's account.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 65
-sourceFinalSha256: 7e090f016861e99e3c5f026a1ab28aedd6a43aae4dd6a6f5aea43f6bb657d3c3
 reviewVerdict: first-pass

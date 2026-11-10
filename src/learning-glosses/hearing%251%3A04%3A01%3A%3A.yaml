@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hearing%1:04:01::'
 synsetId: 01202187-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d3afe9ccb37fa107dc79e0168a68360be75fdf903ba48f85602cae9bbffd6261
 simpleMeaning: A legal session, usually in a court, in which evidence is presented so that a question
   of fact can be settled and a ruling made on that evidence.
 scope: This is a legal proceeding where evidence settles a question of fact, not 'the ability to hear,'
@@ -14,5 +12,4 @@ examples:
 - At the hearing, the defense called two witnesses before the court ruled.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 70
-sourceFinalSha256: 3a0e61cf05163cf538cb0f48d11d41d0915bbefb8312b5bebbccb3ab57769ced
 reviewVerdict: first-pass

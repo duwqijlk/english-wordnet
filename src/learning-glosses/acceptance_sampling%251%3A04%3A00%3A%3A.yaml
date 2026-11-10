@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'acceptance_sampling%1:04:00::'
 synsetId: 00808282-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5e9d3adc9b94221a0db2326054f56a9327a42a1448c6484dae22cef3fc9de6b2
 simpleMeaning: 'A statistical method for accepting or rejecting a whole batch of goods or documents: a
   small group is checked, and the batch is rejected if it has too many defects.'
 scope: A quality-control statistical method for judging a whole lot from a small group of items, not the
@@ -12,5 +10,4 @@ examples:
 - Under acceptance sampling, a batch is rejected when the sample contains too many faulty items.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 101
-sourceFinalSha256: 7d226cd47c8c606161170e7fae5fe5b521c239086226cc9606989fbe424776bf
 reviewVerdict: first-pass

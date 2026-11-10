@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'reference%1:10:07::'
 synsetId: 07273332-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ef809b50e96d512521738e2ce6823f617d41a36c69de8cd01015b55cabd2684d
 simpleMeaning: A publication, or a passage from one, that a writer points to as a source.
 scope: This is a cited source, not a fact book you keep for consultation, and not the act of looking something
   up.
@@ -11,5 +9,4 @@ examples:
 - Every claim in the essay is backed by a reference to a published study.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 88
-sourceFinalSha256: be468f314af71362bdddd3af022c5e315b1c878a0fc025e50123cfff47d315ba
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'taxi_strip%1:06:00::'
 synsetId: 04403601-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 278f27819a613759c9e818109d0e3028967dea3f405005c353ccac19480f42e7
 simpleMeaning: a long hard flat path on the ground where planes move slowly on their way to or from the
   runway
 scope: 'Also called a taxiway: a path for planes to move slowly on at an airport, not the runway itself
@@ -12,5 +10,4 @@ examples:
 - Workers repaired a crack in the taxi strip before the morning flights.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1297
-sourceFinalSha256: eb5e48b9dc29d9a7766de6d13c8b973c792ce3dbc3017e7bc7881e0acea7ecf2
 reviewVerdict: first-pass

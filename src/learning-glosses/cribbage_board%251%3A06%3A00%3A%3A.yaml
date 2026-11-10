@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cribbage_board%1:06:00::'
 synsetId: 03136442-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b9a0ec79486374d7074f80c8580b24e3e0a7fec0606d8efd94d01ce1285d9f72
 simpleMeaning: A flat piece with pegs and rows of holes to hold the pegs, used to keep the score in the
   game.
 scope: This is a flat scoring piece for the game of cribbage, not a chess piece or a toy.
@@ -11,5 +9,4 @@ examples:
 - The cribbage board sat on the table between them.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1078
-sourceFinalSha256: 44f13f872954f95364383b0b3759a85ef23c590828ca2c31e63dd26ddca0e767
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'individual_retirement_account%1:09:00::'
 synsetId: 05920606-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 537effbef7b3fa3ffaf9bdfdfc77b81ff71b406ba01ef615f84d78cb58964f55
 simpleMeaning: Each year you may put in a set sum for the years after you stop work, and the tax on the
   interest it earns is put off till later
 scope: This plan puts off the tax on its interest till later, rather than taxing it each year.
@@ -11,5 +9,4 @@ examples:
 - His individual retirement account lets the tax on its interest wait till later.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 943
-sourceFinalSha256: 7c4ed492cab5ff44a89311d9affbf836e932d46b8840c770f403d943b133456c
 reviewVerdict: first-pass

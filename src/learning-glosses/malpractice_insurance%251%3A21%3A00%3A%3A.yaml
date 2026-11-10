@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'malpractice_insurance%1:21:00::'
 synsetId: 13369242-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4f336c856c10f8b8a13cadb1165e72501beb55c16c65d9e548ac47de1ce10f8b
 simpleMeaning: A plan bought by doctors and hospitals that pays the cost of a lawsuit over bad care
 scope: A plan that pays the cost of a lawsuit over bad care, not cover for a car or a house and not a
   payment for an accident at work.
@@ -11,5 +9,4 @@ examples:
 - The hospital renewed its malpractice insurance before the new year.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1243
-sourceFinalSha256: d36a78900d5450acb68ae0d981781ce8531f79c846c412aa8110f3433209ff51
 reviewVerdict: first-pass

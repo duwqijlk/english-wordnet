@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'major_surgery%1:04:00::'
 synsetId: 00686090-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6c4deb85c1cf0b1b754280c1f2a0876dd0f2e0922ffe588cb76536eb3a6c54d4
 simpleMeaning: Any operation that needs drugs to put the patient to sleep or a machine to help them breathe.
 scope: Any operation that needs sleep drugs or help with breathing; not a small cut stitched up while
   the patient stays awake.
@@ -11,5 +9,4 @@ examples:
 - Her major surgery needed a night in the hospital.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1110
-sourceFinalSha256: cbc777c248e7b0bc2ffb10bab7b3603341adcad9f178e07742eaa4fe4ed1226f
 reviewVerdict: first-pass

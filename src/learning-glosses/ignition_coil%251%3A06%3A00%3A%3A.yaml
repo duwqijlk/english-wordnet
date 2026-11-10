@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ignition_coil%1:06:00::'
 synsetId: 03566040-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6c38b47a928e3923925c3d5d4adc8d32dda175191c8bce85eb2c5d7110c90ab7
 simpleMeaning: Weak power from a battery goes into this wound coil and comes out strong enough to make
   the small plugs fire.
 scope: It is the coil between the battery and the plugs, turning weak power into strong power, not the
@@ -12,5 +10,4 @@ examples:
 - The mechanic tested the ignition coil before changing the plugs.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1008
-sourceFinalSha256: 283655ae243cb5fc9a9a3add8e857e56394f3958d32f5563bea4d461f61ad6d2
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'proof%1:10:00::'
 synsetId: 06660359-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 10c5783048317c0a9ad15ee938fd2e88fe8a75b6c7841e36e2448510d518630a
 simpleMeaning: a carefully ordered set of statements showing that one claim must be true whenever another
   holds
 scope: This is a formal chain of reasoning in logic or mathematics, not factual evidence that something
@@ -13,5 +11,4 @@ examples:
 - Her proof rests on two earlier theorems.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 71
-sourceFinalSha256: 3602f46e5de85795d953c0ced88e0eeab4e8c19bcfe4910695988397d71d80eb
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'jitter%1:11:00::'
 synsetId: 07446102-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 044a8df6c1d090dee0559696f6f54ab9b4c145ceec6ec11f73d85fc19c1ecc10
 simpleMeaning: small, fast changes in a wave form (the shape of a signal as it rises and falls), caused
   by changes in the electric power supply, shaking, or other things
 scope: This is small fast changes in a signal, not a person feeling nervous and shaky and not the act
@@ -12,5 +10,4 @@ examples:
 - The engineer measured the jitter in the waveform and checked the power supply.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 555
-sourceFinalSha256: f868220913c8866ab16e55ec090eaaa67907e4b8c36def97c6376839d5ebf0ab
 reviewVerdict: first-pass

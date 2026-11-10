@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'midspread%1:09:01::'
 synsetId: 92436708-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8c08d75212420635a84e2b2a93f68a927350ab852613a1a741cac2a997602e4c
 simpleMeaning: A measure of how spread out a set of numbers is, worked out as the gap between the upper
   and lower quarter marks.
 scope: A measure of how spread out a set of numbers is, worked out as the gap between the upper and lower
@@ -13,5 +11,4 @@ examples:
 - To find the midspread, take the gap between the upper and lower quarter marks.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1246
-sourceFinalSha256: 9e7f367b8f8c51bc3e15938500a792c5d341265e7d908a08fcab0fdc71cfd3c4
 reviewVerdict: first-pass

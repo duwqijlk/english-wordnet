@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'quotation%1:10:01::'
 synsetId: 06776392-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9e53acd0ad90b6e2fe3c3a7d9fe08742b967794b52112386b0db8401a13aeca7
 simpleMeaning: a short note that says where a piece of information or a copied passage came from
 scope: 'Also called mention, reference, credit, cite, acknowledgment and citation: this is the short note
   that says where words or facts came from, not the copied words themselves.'
@@ -11,5 +9,4 @@ examples:
 - He wrote a short quotation after the copied lines to show where they came from.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 529
-sourceFinalSha256: 2964774ab66e423301cc27f18be566043b0adc721a7f490fec4c9f41aa0f32f0
 reviewVerdict: first-pass

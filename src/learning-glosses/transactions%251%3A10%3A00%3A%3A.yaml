@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'transactions%1:10:00::'
 synsetId: 06520103-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6da75372862f1270ccc7cdc8a3cb40a95920482d72d4d60f95068acf83f1e966
 simpleMeaning: a written record of what was said and done at a meeting
 scope: A written record of a meeting, not a deal to buy or sell something.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She typed up the transactions before lunch.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 383
-sourceFinalSha256: d1f8c5f612c4908dd0d4be289bf3ff6a8c490bd3cd9888df451f8ea36e9f43a5
 reviewVerdict: first-pass

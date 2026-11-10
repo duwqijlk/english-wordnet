@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'face%1:08:00::'
 synsetId: 05608392-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 11d3137e19fa54f752e623b4829e75d5e03be18ae289030f039d2c9e71a23192
 simpleMeaning: the front part of a person's head, from the top of the forehead down to the chin and across
   from one ear to the other
 scope: This is the front of the head itself, not the whole head and not the look on someone's face.
@@ -11,5 +9,4 @@ examples:
 - A fly landed on his face and he brushed it away.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 7
-sourceFinalSha256: eeea1bca52daf0d3dbdac824e8191b570bdf035d2615d34bcb5356be2c49cd98
 reviewVerdict: first-pass

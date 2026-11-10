@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'summarize%2:32:00::'
 synsetId: 01009951-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d5d763d251a9cff3dd671ade4cd6e66300d83298babad807db2d80b5fa84913e
 simpleMeaning: to give the main points of something in a few words
 scope: To tell the main points in short form, not the sense of a thing that itself gives the main points.
 examples:
@@ -10,5 +8,4 @@ examples:
 - He summed up his results in two short paragraphs.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 381
-sourceFinalSha256: 2a9650c75dde6b855d62e904ac60dba814cfcb748608cb93a36d8d65eb833819
 reviewVerdict: first-pass

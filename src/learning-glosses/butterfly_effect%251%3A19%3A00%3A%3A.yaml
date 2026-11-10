@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'butterfly_effect%1:19:00::'
 synsetId: 11432448-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 947af091ebfb4a167bf9cb552e8929b22dcfc6bd52f09218056af7f33c71abf8
 simpleMeaning: 'In chaos theory, a complex system can turn a tiny local change into huge effects far away:
   a butterfly flapping in Rio might change Chicago''s weather.'
 scope: The chaos-theory principle that tiny changes can have large distant effects; not the insect butterfly
@@ -12,5 +10,4 @@ examples:
 - The butterfly effect makes long-range weather forecasts unreliable.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 118
-sourceFinalSha256: e9218b96f93634d8649361402019d5089a2e9c5144a48d55c44e12110f74176f
 reviewVerdict: self-approved

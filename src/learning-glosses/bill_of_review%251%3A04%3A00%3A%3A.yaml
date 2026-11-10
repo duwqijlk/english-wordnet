@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bill_of_review%1:04:00::'
 synsetId: 01199969-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bd4fcf6bc9f6c049599afaea4ec3851088cc4049145e3ce1921ccbec61142480
 simpleMeaning: To ask the court that gave an order to explain, change, or undo it, a step is taken in
   court.
 scope: This step in court asks the same court to explain, change, or undo its own order, not a fresh case
@@ -12,5 +10,4 @@ examples:
 - A bill of review goes to the court that gave the order in the first place.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 980
-sourceFinalSha256: 9a95542fa1a55293c99092a8c4d72933457fe9bdc1b7b376c02091541753bfb4
 reviewVerdict: first-pass

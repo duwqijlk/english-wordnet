@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'high-level_formatting%1:10:00::'
 synsetId: 06649674-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 25a889c5da4f34b8cf8744c98794b23501fd034adfa26711fd4a864892246852
 simpleMeaning: In computer science, the set-up of a disk's main list of files and the tables that say
   where files sit, with the other basic settings
 scope: In computer science, this is the basic set-up of a disk's file lists and tables, not the act of
@@ -12,5 +10,4 @@ examples:
 - The drive needed high-level formatting after the file tables were damaged.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1100
-sourceFinalSha256: f9e8827b36ee77fcbe333f92a89fc13ecdb63af125848b672304c0cc049c7f4a
 reviewVerdict: first-pass

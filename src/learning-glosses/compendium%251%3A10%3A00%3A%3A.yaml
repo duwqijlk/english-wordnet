@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'compendium%1:10:00::'
 synsetId: 06479667-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3e0bd215fe60f3fd7d11de2e3803bc650817cf3c7a477f7ea46f8d794d496369
 simpleMeaning: a short writing that gives the main points of a larger work and covers the whole thing
 scope: A short writing that covers a larger work in full, not the larger work itself and not a note about
   just one part of it.
@@ -11,5 +9,4 @@ examples:
 - This compendium gives a short form of the whole work in one small book.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 512
-sourceFinalSha256: 4727908e80410875b093bbbd530c8bd3a6d3c3eb93712e9be397214f6158bd05
 reviewVerdict: first-pass

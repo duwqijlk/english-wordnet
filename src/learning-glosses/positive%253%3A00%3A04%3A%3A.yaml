@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'positive%3:00:04::'
 synsetId: 01825985-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9c55b145daec47e4d9272751701fe3fe80e5eee89373f6be3e3f62b040b052bd
 simpleMeaning: Showing that a suspected illness or germ that causes disease is present.
 scope: This describes a test result that detects a suspected illness or germ, not an affirming, hopeful
   or accepting attitude, not being certain or very sure, not something beneficial, not something formally
@@ -14,5 +12,4 @@ examples:
 - The vet said the blood sample was positive, which meant the dog had been exposed to the infection.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 74
-sourceFinalSha256: ed1591d24f6259be89ab28419a0c4f4ccf684a305af0667fe4c8d69d24854e90
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'laparotomy%1:04:00::'
 synsetId: 00684109-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 37f623e0dd4af1c48ce64acf4bbde0f935f31443e65fad9e78c38aa45a9ee438
 simpleMeaning: A cut made by a surgeon through the wall of the belly, often to look at the organs inside
 scope: This is a cut made by a surgeon through the wall of the belly, often to look at the organs inside,
   not a cut to remove an organ and not a small keyhole cut.
@@ -11,5 +9,4 @@ examples:
 - A laparotomy let the doctors look at the organs inside her belly.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1106
-sourceFinalSha256: 563f0cd1618414339b4e1a7dfe6b856378b4a1470206753d5633572f59b5f89d
 reviewVerdict: first-pass

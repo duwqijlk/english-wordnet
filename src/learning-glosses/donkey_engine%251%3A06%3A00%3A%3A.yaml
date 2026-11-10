@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'donkey_engine%1:06:00::'
 synsetId: 02765914-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 00eac6a92b8f4fe31e91c6ea182e7ccbcd28b87091f3eaa36c982b87ac595bec
 simpleMeaning: In ships, a small machine used on board to work a windlass, a wheel that winds in ropes
 scope: A small machine on board a ship that works the wheel that winds in ropes, also called an auxiliary
   engine, and not the ship's main power plant and not a rail-yard machine for moving cars.
@@ -11,5 +9,4 @@ examples:
 - The donkey engine wound in the rope while the ship lay at anchor.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1372
-sourceFinalSha256: 7a451d241dbbf8e5285077140bf62e79f900cc91817f859a31e77e8ceefbe14a
 reviewVerdict: first-pass

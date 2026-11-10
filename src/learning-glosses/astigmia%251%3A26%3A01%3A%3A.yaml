@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'astigmia%1:26:01::'
 synsetId: 13961932-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0ef9884c22bce155dc42b1594386083afc76a5e95a8ac22dffb95355c44f8ced
 simpleMeaning: In optics, rays from one point of light do not come together at a single point of focus
   in a system with this flaw
 scope: Also called astigmatism, this is a flaw in an optical system where light from one point fails to
@@ -12,5 +10,4 @@ examples:
 - Engineers checked the new lens for astigmia before they shipped it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 978
-sourceFinalSha256: 1a73a6c3cb296626a6c2ee32532b7d78ca1542ec9a3e5051adb16a5d5a199fb1
 reviewVerdict: first-pass

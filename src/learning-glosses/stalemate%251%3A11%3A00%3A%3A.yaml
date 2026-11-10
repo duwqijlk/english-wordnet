@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stalemate%1:11:00::'
 synsetId: 07368680-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8e823036ad2fa7fd3cb17be7e04fcefd233035601c6f72c57b8482524e672269
 simpleMeaning: In chess, a place in the game where a player cannot make a move without putting their own
   king in danger, so no one wins
 scope: A chess position that ends the game with no winner; not checkmate, where one player wins, and not
@@ -12,5 +10,4 @@ examples:
 - She had more pieces, but the position was a stalemate, so neither player won.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 592
-sourceFinalSha256: b5cbe1e75601b8d89621e403d15822f831a9cb8168b5771f28d7fce94f9c362b
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mph%1:28:01::'
 synsetId: 15305564-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7d33bb40cbf0d3304cb7f913eef0633ae1ed67464b3832099f125dbba2957bb2
 simpleMeaning: a measure of speed that shows how many miles something travels in one hour
 scope: This measures speed in miles travelled in one hour, not the total distance travelled and not the
   time a trip takes.
@@ -11,5 +9,4 @@ examples:
 - The speed limit in town is 30 mph.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 658
-sourceFinalSha256: 82fb06938a6a01b833358549017f96535232ceb75b9502a62a6ce487db30d2cb
 reviewVerdict: first-pass

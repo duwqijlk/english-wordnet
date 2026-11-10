@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'correlation_table%1:09:00::'
 synsetId: 06040436-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 76e809432a57894da6760e54bf9bbfc9fce51a583d55edf73c3e5f90e9569149
 simpleMeaning: 'A two-way grid showing how two variables relate: one variable''s scores run down the side,
   the other''s across the top, and each cell counts how often two scores went together.'
 scope: A statistical display that tallies paired scores in a grid; not a correlation coefficient, which
@@ -12,5 +10,4 @@ examples:
 - Each cell of the correlation table held the number of students with that pair of scores.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 120
-sourceFinalSha256: f068533b5edefc8cb428ab88b2d776dcc4a851f4c6d04289b561bc65056d9ecd
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'premise%1:10:00::'
 synsetId: 06766514-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0da278e6e626bc296e16b21b833812cb36afc03cbdd7e3cffe441fcc3535a67a
 simpleMeaning: A claim taken as true at the start, from which a later claim is worked out.
 scope: Also called an assumption, this is a claim taken as true so a conclusion can follow, not the act
   of putting words before a talk.
@@ -11,5 +9,4 @@ examples:
 - If we accept his premise, the rest of his case follows.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 342
-sourceFinalSha256: 802fb4c9d000896552fec387c82b14a8a183bae6f036cc07ed2f3446a012cb0d
 reviewVerdict: first-pass

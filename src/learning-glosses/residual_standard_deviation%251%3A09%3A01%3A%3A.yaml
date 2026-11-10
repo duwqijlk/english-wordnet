@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'residual_standard_deviation%1:09:01::'
 synsetId: 92443349-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 40ef658fe7c610ea20c2124cbf4cc2d8a17c8f2ef0feb5931d82d4a99a275d71
 simpleMeaning: This number judges how close values worked out from a straight line are to the true ones,
   and how far the points spread from that line.
 scope: It belongs with other measures of spread, but it is the one that deals with points round a straight
@@ -13,5 +11,4 @@ examples:
 - When the residual standard deviation grew, the line's guesses moved further from the true values.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1031
-sourceFinalSha256: 31dd9d7c54e2c23aa8a5aed25c18ff19482361e421537e69212ec094107f4511
 reviewVerdict: first-pass

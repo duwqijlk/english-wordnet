@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mammogram%1:06:00::'
 synsetId: 03721767-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 29554c43325bcaacd6c9120954c498de3110f0dcd96de456c156bd33c2257ba9
 simpleMeaning: a film picture of the soft parts inside the breast, made with X-rays
 scope: The film picture itself, made with X-rays; not the visit or test in which it is taken, and not
   a picture of bone or of another part of the body.
@@ -11,5 +9,4 @@ examples:
 - Her mammogram showed a small lump that needed more tests.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 601
-sourceFinalSha256: 9131e2df702bb9ed7586d2bb1593e60da4e1d52bdfc8a1bb318db1c751e5af1b
 reviewVerdict: first-pass

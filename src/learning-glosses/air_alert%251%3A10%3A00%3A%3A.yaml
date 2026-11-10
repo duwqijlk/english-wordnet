@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'air_alert%1:10:00::'
 synsetId: 06815881-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b4f6cb4343b04286e37f026784814fbbd3daf6b981b50781905d522c83510891
 simpleMeaning: a sound or sign that tells people to get ready for an enemy attack from the sky
 scope: A warning that an enemy attack from the sky may come, not the attack itself and not a warning of
   danger on the ground.
@@ -11,5 +9,4 @@ examples:
 - When the air alert began, people went to the shelters.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1317
-sourceFinalSha256: e6f94c78f209d6b45cc9cc092db59e5a8f649c109ee13125b110de0483e25981
 reviewVerdict: first-pass

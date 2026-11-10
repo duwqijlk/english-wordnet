@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'universal_quantifier%1:10:00::'
 synsetId: 06313957-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c6e25d1e65ee52fcab9f4ab3bc2feeaa6e5ca671203e2384d2acd3be0f24cf87
 simpleMeaning: In logic, a word or sign that says a claim holds for every member of a group
 scope: A sign meaning 'for every one of them', not a sign meaning 'for some of them' and not the claim
   itself.
@@ -11,5 +9,4 @@ examples:
 - The universal quantifier at the start of the formula means the claim holds for all members of the class.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1305
-sourceFinalSha256: 1517cc409c233e734a9b7949ae7edb73526b9b34af5ab61d3afda99a9dab4356
 reviewVerdict: first-pass

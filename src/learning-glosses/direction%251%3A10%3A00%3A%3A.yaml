@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'direction%1:10:00::'
 synsetId: 06663446-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 401c35be15572e7b52a6509ac69f1790aad65a2820b1c5cc8c2a98494c5fb851
 simpleMeaning: something that offers guidance or advice on what to decide or how to proceed
 scope: Advice or guidance that helps someone decide what to do; not a line or point in space (direction%1:15:00::,
   direction%1:24:00::), not a general course of development (direction%1:09:00::), not the act of managing
@@ -14,5 +12,4 @@ examples:
 - The committee waited for direction from the board before acting.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 77
-sourceFinalSha256: 697c53a60463fbe070960ad03457b00110b05daedfe30dd1e14f9a6e2d358e5f
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'compression_ratio%1:24:01::'
 synsetId: 92441253-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 38511626643a8aac439ba19ce7e2c674f0f5438ae1abf685dd8d8b2cae773f30
 simpleMeaning: the pressure of gas as it leaves a machine that squeezes gas divided by the pressure as
   it enters it
 scope: The number got by dividing the out pressure of a gas machine by its in pressure; not the power
@@ -12,5 +10,4 @@ examples:
 - A high compression ratio means the gas leaves at much higher pressure than it entered.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1356
-sourceFinalSha256: 2f8da85ab72127e01d4342e8fc9712a88818ea9dceef4b2017636b30cc3a77e8
 reviewVerdict: first-pass

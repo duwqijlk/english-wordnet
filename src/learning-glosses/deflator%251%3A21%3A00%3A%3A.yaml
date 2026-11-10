@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'deflator%1:21:00::'
 synsetId: 13278691-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: efe5101edb814dbc06da255899dd613e6d53c68e9827744e87f5951966237b39
 simpleMeaning: A figure used in money maths that takes out the effect of rising prices, so sums are shown
   in dollars of fixed worth
 scope: A figure that strips price rises out of money sums, not a price rise itself and not a tax.
@@ -11,5 +9,4 @@ examples:
 - The deflator showed that pay had barely risen in real terms.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1081
-sourceFinalSha256: 6fd94ed45f6c4105cc4c286d2e2921b9eec4750ad327505d1f5723021738c2d8
 reviewVerdict: first-pass

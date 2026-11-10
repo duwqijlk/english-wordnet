@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'accounting%1:10:00::'
 synsetId: 06752258-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3f8b8902e864ba7ce50cc8b7f24ddc9fa4070427967bb7de58e19d83d19e8370
 simpleMeaning: an answer that makes clear why something happened, and leaves no doubt about the real reasons
 scope: This is an explanation that lays bare the true reasons, not the job of keeping money records and
   not a list of debits and credits.
@@ -11,5 +9,4 @@ examples:
 - Her accounting of the failure showed what had really gone wrong.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 401
-sourceFinalSha256: 0c3f20ebd3288eb9b9e2c0bcb659da5473e4450f27a4909ad317f8ce030bd900
 reviewVerdict: first-pass

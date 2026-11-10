@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'steamer%1:06:01::'
 synsetId: 04316686-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ffb319bc116e8c139caa92acd03573fe743b974e880abbdf82604457c5d86f02
 simpleMeaning: a cooking tool that can be used to cook food in steam from boiling water
 scope: This is a cooking tool that cooks food in steam, not a ship driven by steam and not a clam cooked
   in its shell.
@@ -11,5 +9,4 @@ examples:
 - The fish was cooked in a bamboo steamer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 409
-sourceFinalSha256: 5a1645e7514b7cefcd4579149195068f906061295f3831229a62b9aac7e6349f
 reviewVerdict: first-pass

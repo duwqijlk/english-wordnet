@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'out%1:04:00::'
 synsetId: 00130347-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f0a3a5470c4fc674f5042f18e7e369def18078333ee03fe043abb0473bb96e7d
 simpleMeaning: in baseball, a failure by a batter or runner to reach a base safely
 scope: The noun event, not the predicate "was out".
 examples:
@@ -10,5 +8,4 @@ examples:
 - That catch turned a hit into an out.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1
-sourceFinalSha256: 7872e0dc86da93ea8c3321970d81c724f939211f04e4dad99c4afa43c4e6008a
 reviewVerdict: third-pass

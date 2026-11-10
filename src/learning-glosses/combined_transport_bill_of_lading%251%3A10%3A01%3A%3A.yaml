@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'combined_transport_bill_of_lading%1:10:01::'
 synsetId: 92439180-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 696914239d2b8c68526ad5c44abef07971920fbf8ec328cbbb89d24edbcee93b
 simpleMeaning: a paper given when goods move by two or more kinds of travel
 scope: A paper for goods that move by two or more kinds of travel, with multimodal bill of lading as another
   name for this sense, and not a paper for goods that move by one kind of travel only.
@@ -11,5 +9,4 @@ examples:
 - She filed the combined transport bill of lading before the goods left the port.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1354
-sourceFinalSha256: 0a09a9b3fcf2966aa68313ce1f2dfb6ebada14836d61450818e401111469349b
 reviewVerdict: first-pass

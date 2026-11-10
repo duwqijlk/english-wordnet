@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'double_blind%1:04:00::'
 synsetId: 00795505-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2ecaabcfe6ff4f6bd7dea3b354de508aa37e35b36a0a142a54942c4fe52b821f
 simpleMeaning: no one knows who got what is being tested, neither those giving it nor those getting it,
   until the test is over, to cut bias out of the results
 scope: A test that hides who got what is being tested until it is over, not a double-blind experiment,
@@ -12,5 +10,4 @@ examples:
 - They ran the trial as a double blind so no one knew who got the real treatment.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 893
-sourceFinalSha256: 919747f64cce959e693b5dc4c358f2829a60f02e83bdaca5daa6183648a5a638
 reviewVerdict: first-pass

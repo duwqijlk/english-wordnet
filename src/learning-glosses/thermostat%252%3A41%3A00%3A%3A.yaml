@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'thermostat%2:41:00::'
 synsetId: 02517090-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 27f319ba42f31638a6f34f2ba868c4b4d4baddde83345f6820af5a4360e97ccf
 simpleMeaning: to control how hot or cold a place is by using a device that turns the heat on and off
   by itself
 scope: Doing the controlling with such a device; not the device itself that turns the heat on and off
@@ -12,5 +10,4 @@ examples:
 - The new system can thermostat each room on its own.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 514
-sourceFinalSha256: 9d2829f41f87a6bfd2ac53a81485c761d45dc42b1875d62c8255658cc725ffda
 reviewVerdict: first-pass

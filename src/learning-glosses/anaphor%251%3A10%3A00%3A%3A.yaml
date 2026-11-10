@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'anaphor%1:10:00::'
 synsetId: 06298530-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: da8707d8e918f69dc8e9f27dd52e7c56c0aab652bc3acf6e387befe4c3aaec75
 simpleMeaning: A pronoun or other short word that stands in for a word said before, and gets what it points
   to from that earlier word.
 scope: Words of this kind stand in for one said before, taking what they point to from that earlier word.
@@ -11,5 +9,4 @@ examples:
 - The pronoun in the second sentence works as an anaphor for the name in the first.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1056
-sourceFinalSha256: 1f39ac90ab2d03db3462c89502871993651653309db7d6c78ed5005ee80dfb0f
 reviewVerdict: first-pass

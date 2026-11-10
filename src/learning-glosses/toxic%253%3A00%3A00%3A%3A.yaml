@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'toxic%3:00:00::'
 synsetId: 02458503-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: eea2ffbe8642235c13fe4878fdf4606ca1328106dc83398e811fabb5e982fe62
 simpleMeaning: having to do with a poison, or caused by one
 scope: Having to do with a poison, or caused by one, not a thing that is merely bad for you in some other
   way.
@@ -11,5 +9,4 @@ examples:
 - The fumes from the old paint were toxic.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 308
-sourceFinalSha256: 2646314eb671b7a9b4fd43e45f8166068ab481c9132fb8397130b0cb45f54d53
 reviewVerdict: first-pass

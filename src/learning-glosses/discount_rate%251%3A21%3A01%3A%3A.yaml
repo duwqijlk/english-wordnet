@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'discount_rate%1:21:01::'
 synsetId: 13340534-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9ca0385ec3460b9edaa9fb4efd817ecc712085dfd5cfa77f85f6ca95772d5eb5
 simpleMeaning: The charge for borrowing set by the Federal Reserve, paid by member banks when they borrow
   through its system
 scope: The charge the Federal Reserve sets for member banks that borrow through its system, not the charge
@@ -12,5 +10,4 @@ examples:
 - Banks watch the discount rate set by the Federal Reserve.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1082
-sourceFinalSha256: 17070e0ee431e32a9fd02f8048e83bdfe1ed78cca6113ebfd1cabc632bf71d3b
 reviewVerdict: first-pass

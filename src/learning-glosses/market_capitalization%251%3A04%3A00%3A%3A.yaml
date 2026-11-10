@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'market_capitalization%1:04:00::'
 synsetId: 00954497-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4839e7755c749b8c709f4ce21a76e08c0b1a80a132f0a9824dd47ac8af5e4fd6
 simpleMeaning: A rough guess at the worth of a firm, worked out by multiplying the number of shares still
   in people's hands by the price of one share now
 scope: A rough guess at the worth of a firm worked out from its shares, also called market capitalisation;
@@ -12,5 +10,4 @@ examples:
 - Analysts watch market capitalization to judge the size of a firm.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1244
-sourceFinalSha256: d40fd407213479de9f51c19fc2dd875b4762db209aa258772896ba95688c3692
 reviewVerdict: first-pass

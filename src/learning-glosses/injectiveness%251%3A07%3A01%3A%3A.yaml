@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'injectiveness%1:07:01::'
 synsetId: 92443586-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c77fbadbf4515d55d6a6ab96d3ad2261bca0ed268980e251432a5c5f32c5cbf4
 simpleMeaning: In mathematics, the mark of a pairing in which each thing made comes from just one start,
   never from two.
 scope: In mathematics, this is the mark of a one-to-one pairing, not of a pairing that lets two starts
@@ -12,5 +10,4 @@ examples:
 - Without injectiveness, two different starts could give the same result.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1009
-sourceFinalSha256: 152682c3b2b9531410e2f6bad61f236acdf9bc2e3c3c48d7193e7ec291e37e51
 reviewVerdict: first-pass

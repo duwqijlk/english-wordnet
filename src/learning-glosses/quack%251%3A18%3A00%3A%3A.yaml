@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'quack%1:18:00::'
 synsetId: 10516787-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6b81149327fa5034f3e3851d9f6cf34cc69853ecdb31fb8394facebbe4fc252f
 simpleMeaning: A person with no medical training who acts like a doctor and gives people health advice
 scope: This is a person with no medical training who acts like a doctor, not a duck making its call and
   not the act of pretending to be a doctor.
@@ -11,5 +9,4 @@ examples:
 - Do not trust a quack who sells cures with no proof.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 430
-sourceFinalSha256: ae34144e7151f83d5c28468d4e4928995e351d39caae726cd02822a195ece246
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gas_fitter%1:18:00::'
 synsetId: 10141252-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7c6b53cbce0bbad93d3fae492a9586ebe2063cb54d38ed6654aad563da97f538
 simpleMeaning: A worker who puts in and mends the pipes and machines that use fuel vapour.
 scope: This is a worker who puts in and mends pipes and machines that burn fuel vapour, not a plumber
   who works on water pipes and not an electrician who works on wires.
@@ -11,5 +9,4 @@ examples:
 - We called a gas fitter when the heater stopped working.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1218
-sourceFinalSha256: f93b4cae349d0328b71eb823a8768cec46bf8090659cbae684415531f7bfa348
 reviewVerdict: first-pass

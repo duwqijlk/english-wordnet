@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'interviewer%1:18:00::'
 synsetId: 10232989-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 65f1a7c6f8b65c12aa1fc7abf3aa38ae8409ccab7049d4dab067e04c21980702
 simpleMeaning: the person on the asking side of an interview, putting the questions while the other person
   answers
 scope: The person who asks the questions in an interview, not the person being questioned.
@@ -11,5 +9,4 @@ examples:
 - He thanked the interviewer and left the room.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 397
-sourceFinalSha256: 56f849c8756c09d5807d7afed2b7ce386ae8f12160480e740a67ae5646f22223
 reviewVerdict: first-pass

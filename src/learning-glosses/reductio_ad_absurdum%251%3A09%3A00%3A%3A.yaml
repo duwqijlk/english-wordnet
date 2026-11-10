@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'reductio_ad_absurdum%1:09:00::'
 synsetId: 05833309-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2b00a6c9ba734628e1da9a0899f1fb5549ea2a7cf5a130a1f58c119c4e173f33
 simpleMeaning: a proof that works by taking a claim and showing that what comes out of it is absurd, or
   that denying the claim ends in a contradiction
 scope: Also called reductio; a proof by showing a claim leads to nonsense, not a direct proof from facts.
@@ -11,5 +9,4 @@ examples:
 - The proof by reductio ad absurdum ended in a contradiction.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 876
-sourceFinalSha256: 572187130b812ba32b4e0c86ab76ba1e35c292f8f240adb8b47bcfda4386eeff
 reviewVerdict: first-pass

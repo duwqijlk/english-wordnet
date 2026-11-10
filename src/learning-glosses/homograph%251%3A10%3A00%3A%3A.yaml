@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'homograph%1:10:00::'
 synsetId: 07145730-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3735fd2fc18ce1f68ca3e832e17154f749ecbdbabc0d8d09d9d3f2a34d5ac7db
 simpleMeaning: Two words spelled exactly the same but with different meanings, like fair, which can mean
   just or a show
 scope: Two words with the same spelling but different meanings; not two words that sound the same but
@@ -12,5 +10,4 @@ examples:
 - A homograph can trick a reader who knows only one of its meanings.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1228
-sourceFinalSha256: b49cba69dcad6aeb6ef8507e6dc05d0c0185d263843a3f6e580805a79c01b3c6
 reviewVerdict: first-pass

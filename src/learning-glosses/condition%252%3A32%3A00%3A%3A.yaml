@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'condition%2:32:00::'
 synsetId: 01020937-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3f5d24b64246b3a771dde39b5bfe1a3798d0f1cd42898da58099a3d32dadee20
 simpleMeaning: To state in a contract or agreement that something must be done or supplied, and to make
   that demand clearly.
 scope: This is about writing a requirement into a formal agreement, not about training someone's behavior,
@@ -12,5 +10,4 @@ examples:
 - The agreement conditions the loan on an independent audit.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 30
-sourceFinalSha256: 4d616413347f44db1832b60282f9e89654ac0819c65f59a977140ee616c5c192
 reviewVerdict: first-pass

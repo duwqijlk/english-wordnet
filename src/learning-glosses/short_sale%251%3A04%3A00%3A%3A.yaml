@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'short_sale%1:04:00::'
 synsetId: 00080728-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1da2877d89d824d2272bfc350e185ae2f61552d911852efe0b194cc356b9fbd2
 simpleMeaning: shares, or goods to be traded at a later date, that the trader does not own, in the hope
   of buying them back later for less money
 scope: Selling shares or goods you do not own, also called short selling; not an ordinary sale of what
@@ -12,5 +10,4 @@ examples:
 - A short sale lets a trader gain when prices drop.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1284
-sourceFinalSha256: 88b89f65091b7e6565bae6ad19459a851f249765512fb71d3a8ee3ffe7f4ea02
 reviewVerdict: first-pass

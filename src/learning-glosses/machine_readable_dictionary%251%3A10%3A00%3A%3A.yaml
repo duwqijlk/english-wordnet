@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'machine_readable_dictionary%1:10:00::'
 synsetId: 06651548-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: abf4df53b1a309357673507cb394dd8deca578233607c40691913ac937b138c6
 simpleMeaning: A book of word meanings in a form a computer can use, with its words in A to Z order
 scope: Also called electronic dictionary, this is a word book in a form a computer can use, not a printed
   book and not a word list in no order.
@@ -11,5 +9,4 @@ examples:
 - She looked up the word in a machine readable dictionary.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1426
-sourceFinalSha256: dd6dc865f475759710179a459b6e96e51acce26cf1a717937ed7cd4f0912cc9f
 reviewVerdict: first-pass

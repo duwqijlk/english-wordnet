@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radar%1:06:00::'
 synsetId: 04046324-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a4aa7e1cb59bb193b15e3d328d8e3f954ec3eada4471bba0afe9df1f91c99f7e
 simpleMeaning: a tool that sends out short bursts of microwave energy and reads the echo to find and place
   far-off things
 scope: A tool that finds far-off things by radio echo, not a tool that only measures size or heat.
@@ -11,5 +9,4 @@ examples:
 - Pilots use radar to find storms ahead of them.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 377
-sourceFinalSha256: 655e34a0f11cb9db6da94abf7e1cb714c6128f35e2b5f9c96708c27349a1feeb
 reviewVerdict: first-pass

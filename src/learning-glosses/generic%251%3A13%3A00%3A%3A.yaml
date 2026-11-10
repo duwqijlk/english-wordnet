@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'generic%1:13:00::'
 synsetId: 07915951-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b28d2dd49161db37c2198cb6f097dd5850c9b18ac93ef7bfb0e6476b8ff5f9d1
 simpleMeaning: Wine that does not qualify for a label naming its region or grape type, so it is labeled
   only with a made-up brand, a color, or a basic table-wine class.
 scope: This is the wine sense, not the adjective meaning 'shared by a whole class' and not a no-brand
@@ -12,5 +10,4 @@ examples:
 - A generic cannot put a place of origin or a grape variety on its label.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 91
-sourceFinalSha256: 43fad67d1b5fbc9bc8df2910c2fb29702e838c03268bfd2e064e427da2933b7d
 reviewVerdict: first-pass

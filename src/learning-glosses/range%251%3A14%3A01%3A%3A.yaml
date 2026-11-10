@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'range%1:14:01::'
 synsetId: 08016746-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c6115da51745ac8452dc7c2b800b73f9f3f3e2a16c5a6a4ada4168830ae1f144
 simpleMeaning: In mathematics, all the possible output values of a function.
 scope: This is the mathematical output set of a function, not a variety of different things, not the area
   or limits within which something works, not the limit of someone's ability, not a grassy grazing tract,
@@ -13,5 +11,4 @@ examples:
 - A function's range depends on both its rule and its domain.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 73
-sourceFinalSha256: 2e5d5ea7d3c44a2147d6123a49a160ed7ed321a7b5b0479999cf92f5a6f8436d
 reviewVerdict: self-approved

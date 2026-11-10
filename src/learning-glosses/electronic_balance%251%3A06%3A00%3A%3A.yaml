@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electronic_balance%1:06:00::'
 synsetId: 03282370-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9a36f9481b94b0ba8234a79b693e11406b5350fa7311ae72af5082ade98014ff
 simpleMeaning: a set of scales that makes a flow of charge that grows with how far its dish moves
 scope: A set of scales that makes a flow of charge that grows with how far its dish moves, not a set of
   scales that uses weights and not a meter that shows how much charge flows.
@@ -11,5 +9,4 @@ examples:
 - The electronic balance gave a reading as soon as the dish moved down.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1377
-sourceFinalSha256: c61a92be34ff104ac687ca9bf5c7ac805672bdd916e357d721a385dbaa4ae20b
 reviewVerdict: first-pass

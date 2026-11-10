@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'proxy%1:10:00::'
 synsetId: 06543132-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a76598bf5b77e0502387dc7e7c97c81161b677f1905810e09c7a7e5923d24b75
 simpleMeaning: a written paper from people who own parts of a company, giving a person the legal right
   to cast a set vote for them at a company meeting
 scope: This is the paper that gives the right to vote for the owners at a company meeting, not the person
@@ -12,5 +10,4 @@ examples:
 - Each owner sent in a proxy naming the vote to be cast for them.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 496
-sourceFinalSha256: 061cb759f7d0a612c9abcab52bea20dc87f3622acb446864aa7f7300ff1700eb
 reviewVerdict: first-pass

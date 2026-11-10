@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'rheumatoid_arthritis%1:26:00::'
 synsetId: 14210220-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fbd7b28e13f9292c128366f644b2824fcf1c55dadb87216b79de9b4dd8fbef91
 simpleMeaning: A long-term condition in which the immune system attacks the joint lining, causing inflammation
   and lasting deformity; a virus may start it, and it can destroy the whole joint.
 scope: This sense is the specific autoimmune disease that erodes joints; it is not osteoarthritis or the
@@ -12,5 +10,4 @@ examples:
 - She was diagnosed with rheumatoid arthritis after months of joint pain and stiffness.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 95
-sourceFinalSha256: 9dd5cb50fbc9c9c146ffab4f7883d31524b9ef778259e5353a4016225c197b7d
 reviewVerdict: first-pass

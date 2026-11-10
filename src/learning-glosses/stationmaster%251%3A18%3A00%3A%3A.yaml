@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stationmaster%1:18:00::'
 synsetId: 10672276-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 997a00976b947a98e7539a2649c51ba6034fa499886d5738e65856c6e1f207e6
 simpleMeaning: the person who runs a train station and looks after it
 scope: The person who runs a train station, not the person who drives the train and not the person who
   travels on it.
@@ -11,5 +9,4 @@ examples:
 - She asked the stationmaster when the next train would come.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 561
-sourceFinalSha256: 706906598c7ded66d3d5be007d798b5801af149aa2cc12be2b2c5b06ec2db324
 reviewVerdict: first-pass

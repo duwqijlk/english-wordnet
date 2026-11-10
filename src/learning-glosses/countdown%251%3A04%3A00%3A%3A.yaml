@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'countdown%1:04:00::'
 synsetId: 00654761-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: dcece4ef96ffdef075350f565532f5ddafbfeb612f2fbaf061cdc2dbc5ec64ab
 simpleMeaning: saying or showing numbers in falling order from a chosen number, to show how much time
   is left before something happens, such as sending a space ship up
 scope: This is the backward count before an event, not the event itself and not counting up to reach a
@@ -12,5 +10,4 @@ examples:
 - We watched the final countdown on the screen before the new year began.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 520
-sourceFinalSha256: 6ee8acabf88dafcb451ac9213bb77209494c5ab4ccf1c0c884f4c359cd43477e
 reviewVerdict: first-pass

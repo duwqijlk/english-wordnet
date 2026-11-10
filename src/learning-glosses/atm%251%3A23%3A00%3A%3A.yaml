@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'atm%1:23:00::'
 synsetId: 13733165-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fa95dc12675d90e89bb6d4e8772aaf8add5cf54142e30cb13c52a1230f629ea3
 simpleMeaning: A unit for measuring pressure, equal to the push that holds up a column of mercury 760
   mm high at sea level when the temperature is 0 degrees centigrade
 scope: This is one unit of pressure, also called atmosphere, not a pascal and not a bar.
@@ -11,5 +9,4 @@ examples:
 - At sea level the air presses down with one atm.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1171
-sourceFinalSha256: 6fc06707ec43c669a739d3a0f1d23bbee564849413315131ab22e81fcf8d0c4e
 reviewVerdict: first-pass

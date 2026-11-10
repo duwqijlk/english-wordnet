@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fare_increase%1:07:00::'
 synsetId: 05117286-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1ed0a454da11df562699e765ecdbbb4350d072897fd6065abf101fbf816c7bfe
 simpleMeaning: A rise in the amount charged to ride on public transport.
 scope: A rise in what riders pay for public transport, not a rise in the price of a ticket for a show
   and not a pay rise for workers.
@@ -11,5 +9,4 @@ examples:
 - Commuters protested the fare increase on the morning train.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1384
-sourceFinalSha256: 0d2a3d3b884448d283c01a372ed2277cefdd0cadbf782adeb9fe36dd51590533
 reviewVerdict: second-pass

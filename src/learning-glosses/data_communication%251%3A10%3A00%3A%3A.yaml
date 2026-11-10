@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'data_communication%1:10:00::'
 synsetId: 06289483-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 869f7878f15db938ffda32e7587c397f0a880c106de84d5748228194e6975a19
 simpleMeaning: Facts turned into numbers are sent by machine, so other machines can keep them and work
   on them
 scope: Digital communication is another name for facts sent by machine in number form, so machines can
@@ -12,5 +10,4 @@ examples:
 - The office uses data communication to share files between computers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 993
-sourceFinalSha256: 7dbc61a84a99e5cd9163dab2a12acaa857ceb4581f348a399fa0543b9200c70a
 reviewVerdict: first-pass

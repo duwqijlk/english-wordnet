@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stemming_algorithm%1:09:00::'
 synsetId: 05856280-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cd8ece63ef259c95bd002d2b989d222a75e2724071f3f7e18e55d7723e503629
 simpleMeaning: A set of steps that cuts off endings that change a word's form or make a new word, so changed
   forms all go back to one base form
 scope: A set of steps for cutting word endings, also called a stemmer; not the worker who takes the stiff
@@ -12,5 +10,4 @@ examples:
 - A stemming algorithm cuts endings off word forms.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1146
-sourceFinalSha256: b61123b8679b258b05d52077c261a1b57edf9891117f85c4aa0e2e1d6b2499df
 reviewVerdict: first-pass

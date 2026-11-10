@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'isentropic%3:01:00::'
 synsetId: 02762661-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c52d96d3a3ec2abc5d4c5c5fcbb4b2259d77b528115426fd044ac42aaef6fd9a
 simpleMeaning: A change or a state in which entropy, the measure of disorder in a thing, does not change
   at all
 scope: A change or a state in which entropy stays the same; not a change in which disorder grows and not
@@ -12,5 +10,4 @@ examples:
 - Engineers model the turbine as isentropic to keep the maths simple.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1413
-sourceFinalSha256: 08f3fffc5825622f75f63434f49c7b7f79dae95c37e67fd3602341826ba20fa5
 reviewVerdict: first-pass

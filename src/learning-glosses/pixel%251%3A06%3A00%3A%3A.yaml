@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pixel%1:06:00::'
 synsetId: 03958553-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 61c7abae9f2fd17a909c92b5dfa8dc3ff2dd652b17fef07835961cd02e50483e
 simpleMeaning: In computer science, the smallest separate part of a picture on a screen, often a coloured
   dot
 scope: In computer science, the smallest part of a screen picture; not a whole picture, and not a dot
@@ -12,5 +10,4 @@ examples:
 - A dead pixel showed as a black spot.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 447
-sourceFinalSha256: fd718a2ae7a4b87199b188e34eb25ee4aad340c291324c48da949e5fff38f363
 reviewVerdict: first-pass

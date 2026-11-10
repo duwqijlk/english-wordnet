@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'data_hierarchy%1:14:00::'
 synsetId: 08394911-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7a7bbb6bc5d4fee3f926957cb43de002152598d3a00b1f2cfe9058e230938df9
 simpleMeaning: An arrangement of facts in groups and smaller groups, in which every smaller group sits
   below the group it belongs to.
 scope: An arrangement of facts in groups and smaller groups by rank; not a list and not a pile of facts.
@@ -11,5 +9,4 @@ examples:
 - She drew the data hierarchy as a set of boxes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1198
-sourceFinalSha256: a95f668695cb4b9bf9fbc80057945781aca2753acd4a7cc36f922d83e294c678
 reviewVerdict: first-pass

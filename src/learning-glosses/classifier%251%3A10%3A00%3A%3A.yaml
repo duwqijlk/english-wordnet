@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'classifier%1:10:00::'
 synsetId: 06319426-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b3905e6e2cb85b069dbb75df4dc7572b3bfc7b5021a62d6a7fd2cde62b105bbd
 simpleMeaning: a word or word part used in some tongues in some settings, such as when counting things,
   to show what kind of thing is counted
 scope: A word or word part that shows the kind of a counted thing in some languages, not a word that names
@@ -12,5 +10,4 @@ examples:
 - The classifier in the phrase tells you what kind of thing is being counted.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 889
-sourceFinalSha256: 073cecb6409e7c8459d8740d7268b5badfa53aef3fc4986ae6af546704491ea0
 reviewVerdict: first-pass

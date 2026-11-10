@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'automated_moderator%1:10:01::'
 synsetId: 91001161-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7539d1777b6063b34d9240d5e123901da23426c910a08c0522f5b4dc2331da6a
 simpleMeaning: a computer program that keeps order in an online forum or talk by itself
 scope: A computer program that keeps order in an online forum by itself, not a person who runs a forum.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Our automated moderator checks every new message in the forum.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1328
-sourceFinalSha256: 7fc2dc90963842be6ce1910f14cb58846a853dd48a159a1dd7a239e911111da5
 reviewVerdict: first-pass

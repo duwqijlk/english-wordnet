@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ceftazidime%1:06:00::'
 synsetId: 02993140-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 45e0920b27e4a27c3d26d5c31dfff6cd7e16114781e0738039a78cbdf93db6e4
 simpleMeaning: a germ-killing drug of the kind called cephalosporin, given by needle, sold as Fortaz and
   Tazicef, used to treat medium-level infections
 scope: A germ-killing drug given by needle for medium-level infections, not a pill and not a drug for
@@ -12,5 +10,4 @@ examples:
 - Ceftazidime is sold under the names Fortaz and Tazicef.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1070
-sourceFinalSha256: c9d839eb6c11a39a3b358dfdd23c9b172e9f6e8841bc408f344b1a7a05eeb958
 reviewVerdict: first-pass

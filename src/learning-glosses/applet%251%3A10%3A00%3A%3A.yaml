@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'applet%1:10:00::'
 synsetId: 06582823-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1b177074ffc9de6cc0e50d08afb2686814d810c5d4892b34cda4e50d8fc23555
 simpleMeaning: A Java program that runs in a web browser to give the user a screen to work with.
 scope: A Java program that runs in a web browser to give the user a screen to work with, not a web page
   itself and not a program that runs outside a browser.
@@ -11,5 +9,4 @@ examples:
 - Click the applet to start the picture tool.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1168
-sourceFinalSha256: 8566f80d7b15aa6a0b209ba447622a8fe0424f6f6514c0c840b833d130fe4ff8
 reviewVerdict: first-pass

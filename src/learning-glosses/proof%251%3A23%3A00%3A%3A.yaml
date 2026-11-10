@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'proof%1:23:00::'
 synsetId: 13802392-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0fa6b528030f9a9191d3f359dfba463ca5545e3715e7babc8285ed241410e1de
 simpleMeaning: a strength rating for alcoholic drinks, equal to twice the percentage of alcohol they contain
   by volume.
 scope: This is a strength rating for drink, not evidence that something is true and not a trial print.
@@ -11,5 +9,4 @@ examples:
 - The bottle of rum is 80 proof, which is fairly strong.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 42
-sourceFinalSha256: 3aa1bedd17f7f5ef1add0bd74e24dcc1e5f0483837ae04b67a8a21014673a90b
 reviewVerdict: first-pass

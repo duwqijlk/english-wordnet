@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'magistrate%1:18:00::'
 synsetId: 10300642-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e65a041d04dfb2972f9d1a31ca4370625a559916e74bffdd668936e7180ffb59
 simpleMeaning: a judge who is not a trained lawyer, or a civil officer, who runs the law, most of all
   one who hears small cases in a low court
 scope: A low-court judge or civil officer who runs the law, not a judge of a high court and not a police
@@ -12,5 +10,4 @@ examples:
 - She took the matter to the local magistrate.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 366
-sourceFinalSha256: 7ceaf12b85535fb73bd1a603f28384415ebd93dfddab6d1868f3bf51339fa729
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'metric_space%1:14:00::'
 synsetId: 08021137-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a8c1327059ad7b966035ec73396d93e9a19c731787d4ab9d21fe345a2cdeaa4d
 simpleMeaning: A set of points where each pair has a distance, never below zero, the same in both directions,
   and never longer than going by way of a third point.
 scope: A set of points where each pair has a distance that follows the three rules above, not a loose
@@ -12,5 +10,4 @@ examples:
 - The teacher showed that a metric space needs a distance for each pair of points.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1246
-sourceFinalSha256: 9e7f367b8f8c51bc3e15938500a792c5d341265e7d908a08fcab0fdc71cfd3c4
 reviewVerdict: first-pass

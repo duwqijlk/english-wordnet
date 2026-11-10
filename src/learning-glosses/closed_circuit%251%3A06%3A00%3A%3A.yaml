@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'closed_circuit%1:06:00::'
 synsetId: 03052868-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2e3f0e3b6fde7b6f33ba52ee2dd4a4197a8489c87da0a1c3831472892a3a4ac7
 simpleMeaning: A full loop of wire through which power flows or a signal travels round and round.
 scope: This is a full loop of wire through which power or a signal travels round and round; loop is another
   name for this sense, not a broken loop where power cannot flow and not a short cut that lets power jump
@@ -12,5 +10,4 @@ examples:
 - When the switch breaks the closed circuit, the light goes out.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1189
-sourceFinalSha256: 7910b01936f4779b81b8a76d4b4d09179a56a98b2b0ab423b0249700c1187d30
 reviewVerdict: first-pass

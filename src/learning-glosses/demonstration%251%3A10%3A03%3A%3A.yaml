@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'demonstration%1:10:03::'
 synsetId: 06660791-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 458db3268885bda8ccdc94c7b066892e4fb679b2cf52ef27af0eae759e88c25d
 simpleMeaning: A proof that works through a chain of points, each one leading to the next, until the claim
   is shown true
 scope: A proof worked out by a chain of points that shows a claim is true, not a show in which a thing
@@ -12,5 +10,4 @@ examples:
 - The demonstration left no doubt about the answer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 323
-sourceFinalSha256: fb4fe2ea0ab477b3102450515c01c26d070361d7bd5478afa8a3ccdf7c65aadc
 reviewVerdict: first-pass

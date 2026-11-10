@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'condition%1:09:01::'
 synsetId: 05806871-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3046d10189390176665809ce61d6df51d9525c2e65e564bf2323f0cf0c0df526
 simpleMeaning: In an experiment, the step or treatment that is deliberately changed so that its effect
   on a variable can be judged against a control.
 scope: A research-design term for the factor an experimenter deliberately alters and compares with a control;
@@ -13,5 +11,4 @@ examples:
 - The researchers changed only one condition between the two groups.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 80
-sourceFinalSha256: c3687f72d352738048fbdd5eef8679336cfe18b53e9f68050ffff2d0198e8657
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'semitone%1:10:00::'
 synsetId: 06872225-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: de3d9eea64ea6640d949716c496e7fd6e4b3367cfb93a02bc7cee081a3a71ada
 simpleMeaning: In music, the gap between two notes that lie next to each other on a keyboard
 scope: 'Also called a half step: the gap between two notes next to each other on a keyboard, not a whole
   tone and not a single note.'
@@ -11,5 +9,4 @@ examples:
 - The two notes are a semitone apart.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1139
-sourceFinalSha256: 28696a96f7a5ffd0bda07ad1b48cd8edc086ac37d9a92b9f1225a9a175789f71
 reviewVerdict: first-pass

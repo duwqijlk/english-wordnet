@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'local%1:06:00::'
 synsetId: 03686268-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bf6c91fa4b13293640b5d987a1c00cb836fc2b3c6f82d25f05ff8bc6d4c2726e
 simpleMeaning: a bus or train that stops at every station on its route
 scope: This is the slow bus or train that stops everywhere, not a person who lives in the area.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The local takes forty minutes longer than the express.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 7
-sourceFinalSha256: eeea1bca52daf0d3dbdac824e8191b570bdf035d2615d34bcb5356be2c49cd98
 reviewVerdict: self-approved

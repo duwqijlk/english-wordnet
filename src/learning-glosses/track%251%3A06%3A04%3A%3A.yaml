@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'track%1:06:04::'
 synsetId: 04471446-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f9b0c8c23545fd9a6ad104c2626c5f91b264a9790996096e456ab469de5db8f5
 simpleMeaning: In computing, one of the circular bands into which a magnetic disk is divided, with data
   written and read along each band.
 scope: This is a data-storage band on a computer disk, not a route or rough path, not a clue or piece
@@ -15,5 +13,4 @@ examples:
 - Bad sectors were concentrated on the outermost track of the hard disk.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 74
-sourceFinalSha256: ed1591d24f6259be89ab28419a0c4f4ccf684a305af0667fe4c8d69d24854e90
 reviewVerdict: self-approved

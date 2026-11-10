@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'statistical_regression%1:09:00::'
 synsetId: 06036794-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d6b09aa0db097783763b4812dbe25fd5ef150bd9ec68c5c352906f1136963c2e
 simpleMeaning: Given picked values of x and seen values of y, the most likely value of y for any value
   of x can be guessed from their link.
 scope: This is also called regression, regression toward the mean, and simple regression, a link between
@@ -12,5 +10,4 @@ examples:
 - Statistical regression links picked values of x with seen values of y.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 965
-sourceFinalSha256: 2e907fe1a78aa8757e8f5ac6236ddb61d248073011c451ed43e58213c6446c71
 reviewVerdict: first-pass

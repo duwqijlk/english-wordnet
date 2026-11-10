@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'constituency%1:14:00::'
 synsetId: 08255077-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2484645e69ff9f0f58b9038534971a03fef187d1810aedbbd55edcb86965ed48
 simpleMeaning: all the people in an area who can vote to choose the person who will speak and act for
   them in government
 scope: This is the group of people who vote in an area, not the area itself and not the person they choose.
@@ -11,5 +9,4 @@ examples:
 - Most people in her constituency told her they wanted lower taxes and better schools.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 640
-sourceFinalSha256: 10f9426411b92fbb4aa69bc1bca5839c61112827f8b39c63cc49e1680e762857
 reviewVerdict: first-pass

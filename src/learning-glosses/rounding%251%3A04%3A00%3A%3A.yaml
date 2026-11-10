@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'rounding%1:04:00::'
 synsetId: 00073997-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 15ed6fdb114f72a61894d3a3fe3efc78a12c17e03b8f1ee20512d740104f6f08
 simpleMeaning: In mathematics, an error that comes from cutting numbers short to a handy number of decimal
   places.
 scope: In mathematics, an error from cutting numbers short, not a mistake in adding up.
@@ -11,5 +9,4 @@ examples:
 - Small roundings can add up to a large error.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 406
-sourceFinalSha256: e8539aad401cdbe73735e20fed5a94404f584bf6224cadc3e056e96a52a0e03a
 reviewVerdict: first-pass

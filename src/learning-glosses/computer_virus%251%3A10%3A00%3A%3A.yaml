@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'computer_virus%1:10:00::'
 synsetId: 06597992-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 131a1eea1eff9e88a530aee344009a755b53b6be2289f6cf3a83ff4b6b8e7c8f
 simpleMeaning: A set of coded orders that spreads by copying itself and usually does great harm to files
   or other sets of orders on the same machine.
 scope: Also called a virus, this set of coded orders runs on one machine, copies itself, and usually does
@@ -12,5 +10,4 @@ examples:
 - The computer virus did great harm to the office files.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 990
-sourceFinalSha256: a7b42758e14cabf7c9aa7c69a3582368c83bc9417909c6614d18a533a2786407
 reviewVerdict: first-pass

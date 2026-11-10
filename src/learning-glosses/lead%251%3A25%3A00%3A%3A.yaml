@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'lead%1:25:00::'
 synsetId: 13915822-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 105a41aa1627fa58e1f98edebad95867f73beb2e3affabd1f9bd1f77e508d44a
 simpleMeaning: the angle between where a gun is aimed and where a moving target will be when the shot
   reaches it, allowing for flight time
 scope: This is about aiming ahead of a moving target, not the rope for an animal or the timing of a spark
@@ -12,5 +10,4 @@ examples:
 - At that distance the bullet takes almost a second to arrive, so the hunter must allow plenty of lead.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 58
-sourceFinalSha256: e08a866a653cb151f2e0885b07e2b3f69d4b0c8652453cae3d8d86195180a3d6
 reviewVerdict: first-pass

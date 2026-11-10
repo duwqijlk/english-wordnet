@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'air-conditioner%1:06:01::'
 synsetId: 04047719-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 47b5a79ade7e9dc429ef7e01454bb233b4f1460d801193110dace1426d8d1a60
 simpleMeaning: a machine that takes dampness out of a room and makes the room cool
 scope: This is a machine that dries and cools room air, also called an air conditioner; not a fan that
   only moves air and not a heater.
@@ -11,5 +9,4 @@ examples:
 - The air-conditioner made the room cool and dry.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1317
-sourceFinalSha256: e6f94c78f209d6b45cc9cc092db59e5a8f649c109ee13125b110de0483e25981
 reviewVerdict: first-pass

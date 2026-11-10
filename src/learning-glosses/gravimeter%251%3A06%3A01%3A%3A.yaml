@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gravimeter%1:06:01::'
 synsetId: 03460586-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4d2cf66e8da6cd8b58fb7a35a647e07f3d26c2c32d3ec87c77493837e37bd1b8
 simpleMeaning: A tool for finding changes in the pull of the earth on things
 scope: This is a tool for finding changes in the pull of the earth; gravity meter is another name for
   it, not a tool for finding how heavy a liquid is for its size.
@@ -11,5 +9,4 @@ examples:
 - Scientists used a gravimeter to map the field below the ground.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1221
-sourceFinalSha256: bd675682e7c683bcbb9b91810c11cdf1635d22ab9ed8983ff3574417cd01ff84
 reviewVerdict: first-pass

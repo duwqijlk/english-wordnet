@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'positive_balance%1:21:01::'
 synsetId: 92440439-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ad62e9c013ee4a34aebe2278814ccfd7ae56394804166afe8b10db4bbd35dadb
 simpleMeaning: money left in an account after more money has gone in than has gone out, so the bank owes
   that money to the person who holds the account
 scope: Also called credit balance, this is money left in an account when more has gone in than out, so
@@ -12,5 +10,4 @@ examples:
 - With a positive balance, the bank owes her money, not the other way round.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1266
-sourceFinalSha256: 37c6af910ad21b7b179d6f3bbf2d247bcb8e2a9143787d676f227e1f32b6a6d7
 reviewVerdict: first-pass

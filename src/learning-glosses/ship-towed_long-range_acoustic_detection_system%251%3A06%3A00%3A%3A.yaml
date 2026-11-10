@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ship-towed_long-range_acoustic_detection_system%1:06:00::'
 synsetId: 04203968-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: dc3c5503e20ff518ab6b3feb73767e1dd868ad5a57d3cdda1afa22c324fa7b34
 simpleMeaning: a set of gear on a boat that listens for sounds and is pulled along behind the boat
 scope: A set of gear on a boat that listens for sounds and is pulled along behind the boat; not a fixed
   listening post on land and not a radar set.
@@ -11,5 +9,4 @@ examples:
 - The ship-towed long-range acoustic detection system trailed behind the boat for miles.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1284
-sourceFinalSha256: 88b89f65091b7e6565bae6ad19459a851f249765512fb71d3a8ee3ffe7f4ea02
 reviewVerdict: first-pass

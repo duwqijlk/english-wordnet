@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'surety_bond%1:21:00::'
 synsetId: 13359975-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b67d15969fcaf584f3ae8e598ee18dbe1e33c40dde660c7b4a461f7b045f0783
 simpleMeaning: A written promise that guards the one who gets it from loss if a contract is not kept,
   with the firm that gives it taking on the loss.
 scope: A written promise guarding the one who gets it from loss if a contract is not kept; also called
@@ -12,5 +10,4 @@ examples:
 - A surety bond guards the owner if the builder fails to finish.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1148
-sourceFinalSha256: 117fb4613610ee31b3eabd262cbca48c5b620272d157430f1c4152a1f17b8546
 reviewVerdict: first-pass

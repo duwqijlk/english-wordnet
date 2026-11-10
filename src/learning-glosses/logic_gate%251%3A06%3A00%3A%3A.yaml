@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'logic_gate%1:06:00::'
 synsetId: 03432566-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 83d28fa7dd5b58e84e30b0df6f8eee1f7d1663a6db82a8a47f7f9473f5d4c9da
 simpleMeaning: In a computer, a part with several inputs but only one output, switched on by certain sets
   of inputs.
 scope: In a computer, this is a part with several inputs and one output, not a switch worked by hand and
@@ -12,5 +10,4 @@ examples:
 - Each logic gate in the chip has one output.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1109
-sourceFinalSha256: 3607b7d32ac6da985a7e4de97448126096c3ff9cd93edd38900a426b816504ec
 reviewVerdict: first-pass

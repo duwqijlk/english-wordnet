@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'day_return%1:10:00::'
 synsetId: 06532083-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d3e2ddb0c3d1b69ff6c4fda6fb89133fd9ed9e28b97bd3eaaee6d36d84e17b45
 simpleMeaning: a ticket at a lower price for a trip out and back on the same date
 scope: A cheap ticket for going and coming back on the same date, not a ticket for one way only and not
   a ticket that can be used on another date.
@@ -11,5 +9,4 @@ examples:
 - A day return saved him money because he came back the same evening.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1365
-sourceFinalSha256: 2cba503110da233865e4d8e7187934fe7749b23d1ca82420987338d2138c4512
 reviewVerdict: first-pass

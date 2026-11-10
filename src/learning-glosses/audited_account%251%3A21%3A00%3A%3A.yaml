@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'audited_account%1:21:00::'
 synsetId: 13432330-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0003d1a8298ef8d460c185b18c613a4a1eb5074f11beb4c18998aa9a17f13ac9
 simpleMeaning: A firm's books and the ways it keeps them are gone over by a trained book-checker in this
   check.
 scope: This is a check of a firm's books by a trained person, also called an audit, not the books themselves.
@@ -11,5 +9,4 @@ examples:
 - An audited account checked the firm's books and records.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1059
-sourceFinalSha256: b7c24a56e725f9b82ac2765c3d1a193e11199c2daa46c42766b29a37092a2785
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ham_sandwich%1:13:00::'
 synsetId: 07712370-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1e657343af2dd474e742a2964db2c7a2bf9ace5b0f68a0c05164296ce6275a8e
 simpleMeaning: two slices of bread with sliced cured pork put between them
 scope: Two slices of bread with sliced cured pork between them, not a roll and not a pork roast.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The ham sandwich had mustard on the bread.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1400
-sourceFinalSha256: 2349f91e5ea03a7be294a220e2bdda17461c5df004116f5eb7a0f39b4533c8f9
 reviewVerdict: first-pass

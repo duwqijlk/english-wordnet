@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'evasion%1:10:00::'
 synsetId: 06773810-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8d849ba1b6497b57bda1e66f7949c94a71382a09c8a08d45c3d1d5345617192b
 simpleMeaning: Something said that is true word by word, but is said in a clever way so that an unpleasant
   truth stays hidden
 scope: 'Also called equivocation: words that are not false but hide an unpleasant truth. This is not failing
@@ -12,5 +10,4 @@ examples:
 - Her evasion sounded true, but it left out the unpleasant part.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 488
-sourceFinalSha256: 79ea797e7d1c3a268586d6cb197f3a3f69ebf210ba62c8ecb6ba8ed88b8c4e1e
 reviewVerdict: first-pass

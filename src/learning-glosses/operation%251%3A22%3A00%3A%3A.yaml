@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'operation%1:22:00::'
 synsetId: 13546128-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bbb47c709f06aae9de6f887ca3551e7938ae88686f512f9ceaacf60cfcc9df17
 simpleMeaning: In computer science, the handling of data where a fixed rule fully determines the outcome,
   such as what one single instruction produces.
 scope: Computer-science data handling in which a rule fixes every result - not arithmetic calculation,
@@ -14,5 +12,4 @@ examples:
 - Each operation in the program follows a fixed rule, so the same input always gives the same output.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 77
-sourceFinalSha256: 697c53a60463fbe070960ad03457b00110b05daedfe30dd1e14f9a6e2d358e5f
 reviewVerdict: first-pass

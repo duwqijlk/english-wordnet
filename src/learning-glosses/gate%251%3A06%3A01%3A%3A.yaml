@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gate%1:06:01::'
 synsetId: 03432566-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 83d28fa7dd5b58e84e30b0df6f8eee1f7d1663a6db82a8a47f7f9473f5d4c9da
 simpleMeaning: a circuit in a computer that sends one result only when several inputs combine in a set
   way
 scope: A logic circuit also called a logic gate, not a barrier in a fence or a boarding passage in an
@@ -12,5 +10,4 @@ examples:
 - A single faulty gate can stop the whole chip from working.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 135
-sourceFinalSha256: 8b84ea6c1dbf9a6683e3972acc13d92a662d02389f492d27453cda87aef885f2
 reviewVerdict: first-pass

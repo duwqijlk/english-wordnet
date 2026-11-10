@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'respiratory_rate%1:28:00::'
 synsetId: 15306871-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6467a4879e9cf5e06c5816155214481b5a245134f1e0da31f8a91b119fd52432
 simpleMeaning: how fast a person breathes in and out, most often counted to get a quick check on how well
   the person is
 scope: Not the depth of each breath, and not the beat of the heart; also called rate of respiration.
@@ -11,5 +9,4 @@ examples:
 - A high respiratory rate can be a sign of fever.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1134
-sourceFinalSha256: 3923816f6137eb27f39c0dd7da20bafd99ca134c16dedaa34749016da9e0e083
 reviewVerdict: first-pass

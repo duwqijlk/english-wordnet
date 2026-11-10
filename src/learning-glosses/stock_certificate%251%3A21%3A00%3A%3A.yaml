@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stock_certificate%1:21:00::'
 synsetId: 13438244-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7578ed46deee56b990b835ce6e62aeaa07f8a14015ab697b979adaedf94480a1
 simpleMeaning: a paper that proves a person owns a share of a company
 scope: This is a paper that proves ownership, also called stock, not the shares themselves and not a paper
   that proves a loan.
@@ -11,5 +9,4 @@ examples:
 - The stock certificate showed that she owned one hundred shares.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1292
-sourceFinalSha256: 9915e12f3c6ec97ff227d4aa01b906f68d0447842ede13425187a6bf174ffd31
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hydrogen_ion_concentration%1:07:00::'
 synsetId: 05046114-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 633fd4ba012abb7e0e3ca5eca828615329373d50c0243ec276f7e34816ec2223
 simpleMeaning: The number of tiny charged bits of the lightest gas in each litre.
 scope: How many tiny charged bits of the lightest gas there are in each litre, not the pH scale and not
   a measure of the gas itself.
@@ -11,5 +9,4 @@ examples:
 - A low hydrogen ion concentration means the liquid is not very sour.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1229
-sourceFinalSha256: a5411a176038f2635a7c622c3c26d81e09b53a71f14d35642b3e116900981382
 reviewVerdict: first-pass

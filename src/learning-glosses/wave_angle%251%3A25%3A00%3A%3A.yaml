@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'wave_angle%1:25:00::'
 synsetId: 13942427-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c8a8da0fece49028af14ea68940be95ffc3d393004d65677333279e99041f23e
 simpleMeaning: A row of aerials has a line through it, and a signal coming in or going out turns from
   that line by this much.
 scope: In radio work, it is the turn of a signal from the line through a row of aerials, as the signal
@@ -12,5 +10,4 @@ examples:
 - The wave angle of the signal was measured as it left the row of aerials.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1050
-sourceFinalSha256: 5ed1fe5287f5ef4112055cc7b58c7ce629b399c7b7f1dfa89a214737ecef5dba
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'keyhole_limpet%1:05:00::'
 synsetId: 01952140-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 64fb3f2a2821510ab4588b100046c5233afdb635c22db2d112d97960ba2669f6
 simpleMeaning: A sea animal with a cone-shaped shell that has a hole at its top
 scope: This is a sea animal with a cone-shaped shell that has a hole at its top, not a sea animal with
   a plain shell and not a land snail.
@@ -11,5 +9,4 @@ examples:
 - A keyhole limpet has a hole at the top of its shell.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1235
-sourceFinalSha256: 75220a74e64acfb7be297a27fa48174f9fb48228a64c14b0214ce646e0dd1eb7
 reviewVerdict: first-pass

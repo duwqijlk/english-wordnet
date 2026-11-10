@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cadastral_value%1:07:01::'
 synsetId: 92418668-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 14e98b4e47d979e9b1d54af756dd2bfaa90992d4deb8c3875ba8fba85246b985
 simpleMeaning: The worth of a plot of land with its buildings on it, used to work out the tax owed on
   it.
 scope: The worth of land and buildings used to work out tax, not the price a buyer would pay and not the
@@ -12,5 +10,4 @@ examples:
 - Officials fixed the cadastral value of the land.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1181
-sourceFinalSha256: 573172221b8de9460eef7b916a5585a9413cae0c9eddecf278c123fd62fcd61b
 reviewVerdict: first-pass

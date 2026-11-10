@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'license_number%1:10:00::'
 synsetId: 06437478-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 910ddf6db33a705c59e427146bdbac682df9be5397c5086b8ed0a292854f120a
 simpleMeaning: The marks on a car's plate tell that car apart from other cars
 scope: The marks on a car's plate that pick out one car, not the plate itself and not the name of the
   car.
@@ -11,5 +9,4 @@ examples:
 - Her license number was hard to read in the dark.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1421
-sourceFinalSha256: 5d5ab042a78fe75bffb25dd348191177434257bd60fac88bf871d47eef1d8478
 reviewVerdict: first-pass

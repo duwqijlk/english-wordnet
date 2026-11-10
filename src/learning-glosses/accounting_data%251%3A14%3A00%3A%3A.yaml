@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'accounting_data%1:14:00::'
 synsetId: 08479545-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 442e59fcfd81fbf7b36b23c4b52a9501b31f36804949895f7942f6d8758f134c
 simpleMeaning: all the lists and books, on paper or on a computer, that back up a firm's money report
 scope: This is the full set of records behind a money report, not the report itself and not the work of
   one bookkeeping firm.
@@ -11,5 +9,4 @@ examples:
 - All the accounting data was kept on paper and on disk.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1315
-sourceFinalSha256: 9a4296b008c4e4d04cdcff701df5ec9c5511b45382ad0a392de3e8aba7d9fb18
 reviewVerdict: first-pass

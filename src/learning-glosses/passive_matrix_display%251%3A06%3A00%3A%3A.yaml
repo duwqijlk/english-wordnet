@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'passive_matrix_display%1:06:00::'
 synsetId: 03902325-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 44386e5dca241252bdd3fd98c85ba90b05fdd3034d2c7e0b04f6e119968b78c2
 simpleMeaning: A liquid-crystal screen used in some portable computers, where each dot lights only if
   both the horizontal and vertical wires crossing at it carry current.
 scope: A liquid-crystal screen switched by crossed wires, not the faster active-matrix kind.
@@ -11,5 +9,4 @@ examples:
 - A passive matrix display reacts more slowly than an active matrix one.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 113
-sourceFinalSha256: 70692066ee317cc1596c7241f59309716ddcfa6a90260d9ba4bdc7e743fe516b
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'logical_subject%1:10:01::'
 synsetId: 92464557-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bf62194edf75fda98874a34ccc5d5ea840100852dd6800970edd35909816a0f2
 simpleMeaning: The part of a sentence that names the doer of the action, or the thing the sentence is
   about
 scope: The part of a sentence that names the doer of the action, or the thing the sentence is about, not
@@ -12,5 +10,4 @@ examples:
 - In 'it is hard to do right', the logical subject is 'to do right'.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1240
-sourceFinalSha256: 6980541b53258a86f67ca98adc9091592f89efc6ccbe1c831ba701a66fd2107f
 reviewVerdict: first-pass

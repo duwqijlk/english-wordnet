@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'income_tax_return%1:10:00::'
 synsetId: 06560662-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 668f7931efdb8df4090540dc1e97bb451466cdfb77c88aec74749ce53970cd60
 simpleMeaning: A paper that gives the tax collector facts about what tax a person owes.
 scope: This is a paper that tells the revenue office what tax is owed; return is another name for this
   sense. Not the tax itself and not money paid back.
@@ -11,5 +9,4 @@ examples:
 - His income tax return showed he had overpaid last year.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1409
-sourceFinalSha256: 2859b5cd31643563073d4cb63bb2aa39946267f8bd1d9d8546b3b2b1f2a69449
 reviewVerdict: second-pass

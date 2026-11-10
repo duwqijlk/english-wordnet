@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'allergist%1:18:00::'
 synsetId: 09803747-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 098e3d2f8c127fd7a941b883e1008d71e8b86e02a697f8814aa00c03435c47aa
 simpleMeaning: a doctor who is good at finding out what makes people react badly to things like pollen
   and treating them
 scope: A doctor who finds and treats allergies, not a doctor for general illness and not the allergy itself.
@@ -11,5 +9,4 @@ examples:
 - She went to an allergist to find out why her eyes itched every spring.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1319
-sourceFinalSha256: f7b8e1099919ac715d0a04fb6df727ad1b2f27fb748b103171fae97c988e4a19
 reviewVerdict: first-pass

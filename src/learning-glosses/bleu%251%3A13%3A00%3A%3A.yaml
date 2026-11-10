@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bleu%1:13:00::'
 synsetId: 07868021-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 131ee7621eb3d751ccbb4e293f07a7b17d4b60512710e7e9e7e375979cf788ff
 simpleMeaning: a cheese that has blue mold growing in it
 scope: A cheese with blue mold in it; not any cheese, and not just the color blue.
 examples:
@@ -10,5 +8,4 @@ examples:
 - He likes bleu, a cheese with blue lines in it, because it has a strong taste.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 655
-sourceFinalSha256: 13770ad1f212cb6953f171b83c09c03fd5c821e65fee80396f5ca91815675274
 reviewVerdict: first-pass

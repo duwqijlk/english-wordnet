@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'assumption%1:10:00::'
 synsetId: 06766514-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0da278e6e626bc296e16b21b833812cb36afc03cbdd7e3cffe441fcc3535a67a
 simpleMeaning: a statement that is taken to be true and is used as the starting point to reach a conclusion
 scope: 'This sense is also called premise: a statement taken as true so you can reach an answer; it is
   not the act of treating something as true without checking.'
@@ -11,5 +9,4 @@ examples:
 - Write down each assumption you use before you try to prove the result.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 282
-sourceFinalSha256: 47a5717ad0a46adf8a660c3b4806700c50b301c570160364187e80cee428b76e
 reviewVerdict: first-pass

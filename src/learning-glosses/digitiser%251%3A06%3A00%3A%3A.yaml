@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'digitiser%1:06:00::'
 synsetId: 03202130-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b157a582c0346108270cffc2bc747a6510aa526a2aec57daa69c7342c5cb8188
 simpleMeaning: a machine that changes smooth signals, which vary without breaks, into signals made of
   numbers
 scope: A machine that turns smooth signals into signals made of numbers, also called an analog-digital
@@ -13,5 +11,4 @@ examples:
 - We used a digitiser to turn the radio signal into numbers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1370
-sourceFinalSha256: 0721731498db9e2864ac8e60b5264215ff386a432d6279cad426862292c11d48
 reviewVerdict: first-pass

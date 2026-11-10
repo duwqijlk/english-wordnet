@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'parathyroid_hormone%1:08:00::'
 synsetId: 05419128-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 96ec2f3fbb03d1ec368a8b07f37cb832628cae94a2d6edf04b0aba4e1d4fa773
 simpleMeaning: A hormone that the parathyroid glands make and release into the blood; it balances phosphorus
   and calcium and plays a role in nerve and muscle activity and blood clotting.
 scope: Another name for parathormone; it is the hormone, not the parathyroid glands that release it.
@@ -11,5 +9,4 @@ examples:
 - Parathyroid hormone keeps calcium and phosphorus levels in balance.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 125
-sourceFinalSha256: 0474dfa67400a6637e95bb23f755fcc3b8615e7aa219986db18c4964c8225e74
 reviewVerdict: first-pass

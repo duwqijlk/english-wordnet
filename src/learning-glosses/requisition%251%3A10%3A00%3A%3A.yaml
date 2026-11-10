@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'requisition%1:10:00::'
 synsetId: 07206900-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b19b4fb0d929cfd58974aa5888b8692a5d9d416a5cc055c06e04da9cb1cd686f
 simpleMeaning: An official order asking for something. Most often, an army or public office takes a thing
   over for its own use, usually for a short time.
 scope: An official order or demand, most often when an army or public office takes a thing for its own
@@ -13,5 +11,4 @@ examples:
 - The city sent a requisition to take the hall for use as a shelter.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 535
-sourceFinalSha256: fc51749163af846990cf075590804fbcafd7be8681d5b388ce8bdeceb9666b71
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'milliammeter%1:06:00::'
 synsetId: 03771753-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e1cebdebb5b69cbcdcb257ca3cf5eb0b5ad4331af3c77fe437504060c1cb4b05
 simpleMeaning: A tool that measures electric current, and can pick up very small currents, marked in thousandths
   of an ampere
 scope: A tool for measuring very small electric currents, not a tool for measuring larger currents and
@@ -12,5 +10,4 @@ examples:
 - The milliammeter showed only a few thousandths of an ampere.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1432
-sourceFinalSha256: 4bb939da3a8c1d51fc982d94b9abd81e23c72a85f5e6c73b750c76f03351db8f
 reviewVerdict: first-pass

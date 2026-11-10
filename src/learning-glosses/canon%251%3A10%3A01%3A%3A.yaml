@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'canon%1:10:01::'
 synsetId: 07056608-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6250ca33efdffbc16e08a19d6ce7ca149733509e26a05c1370fba0f95db4cb13
 simpleMeaning: a piece of music where one tune is sung or played, and then other parts copy that same
   tune in the exact same way
 scope: This is a piece of music where parts copy the same tune, not a church priest, not a set of rules,
@@ -12,5 +10,4 @@ examples:
 - In this canon, the piano plays the tune first and the violins copy it exactly.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 655
-sourceFinalSha256: 13770ad1f212cb6953f171b83c09c03fd5c821e65fee80396f5ca91815675274
 reviewVerdict: first-pass

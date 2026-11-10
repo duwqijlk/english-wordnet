@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hemolytic_anemia%1:26:00::'
 synsetId: 14188722-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5141799d62d93adbb2877c68f41ecc0cc9bc2a65fad1f3d6ccc28d108cbf938f
 simpleMeaning: Red blood cells are broken up and destroyed, so the body ends up with too few of them
 scope: A low count of red blood cells after they have been broken up and destroyed, also called haemolytic
   anaemia, not a low count from too little iron and not a low count from blood loss.
@@ -11,5 +9,4 @@ examples:
 - The test showed hemolytic anemia after the red cells broke down.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1402
-sourceFinalSha256: edb883c68a7049dee56e96a8dbf44feba1377b67f5c350c4cabd1c346aa515ee
 reviewVerdict: first-pass

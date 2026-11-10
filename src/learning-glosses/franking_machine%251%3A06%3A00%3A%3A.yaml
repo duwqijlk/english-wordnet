@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'franking_machine%1:06:00::'
 synsetId: 03397595-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b771ba5dac188b294c770a4bcd09f5e116e0d7a5daaa8b691225a390ef718348
 simpleMeaning: A device that by itself marks letters or parcels as they pass through it and works out
   the full cost.
 scope: A device that marks mail by itself and works out the cost, not a device that only weighs mail and
@@ -12,5 +10,4 @@ examples:
 - Letters passed through the franking machine in seconds.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1215
-sourceFinalSha256: 0251f885641de28bee88cc36b41c02a4d5592154c7ff1c30ade433b2d323ff44
 reviewVerdict: first-pass

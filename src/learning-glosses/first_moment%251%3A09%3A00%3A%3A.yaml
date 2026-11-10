@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'first_moment%1:09:00::'
 synsetId: 06033638-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 39baa6c906ced10b5cb3567d7d282045dda8821290e7dfa4fc14f4e38fc5295f
 simpleMeaning: Take all the values a chance thing can have, add them, and work out the mean by dividing
   by how many values there are
 scope: 'Also called arithmetic mean, expectation, and expected value: the mean of a thing that can change
@@ -12,5 +10,4 @@ examples:
 - To find the first moment, add all the values and divide by how many there are.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1387
-sourceFinalSha256: e015fc4c4c719633b830beca2ac58d3813cbc60d1499e3c2ecafdd552bfbbc4a
 reviewVerdict: first-pass

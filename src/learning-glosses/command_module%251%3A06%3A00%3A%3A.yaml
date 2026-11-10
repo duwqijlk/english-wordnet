@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'command_module%1:06:00::'
 synsetId: 03079950-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 39ff7411947c5f8b264ebae490c8d942e130c6b90ecf60a27211b5983b71dba8
 simpleMeaning: the part of a space ship where the crew live, steer the ship, and talk to earth
 scope: This is the crew's living and control part of a space ship, not the part that lands on the moon
   and not the part that stores fuel.
@@ -11,5 +9,4 @@ examples:
 - She checked the controls inside the command module before the crew woke.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1355
-sourceFinalSha256: ced6931197713b9548595421e3dad56ba5241ea2bd72848a67bc7a0dc3eac19a
 reviewVerdict: first-pass

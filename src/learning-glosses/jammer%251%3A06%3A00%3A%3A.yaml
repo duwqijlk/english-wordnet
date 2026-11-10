@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'jammer%1:06:00::'
 synsetId: 03598118-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: faeee1ad7a73904122195fe66844d59a756a7c201daf031d82d34aec68ff3c92
 simpleMeaning: A device that sends out signals to stop other signals from getting through
 scope: A device that sends out signals to block other signals; not a radio set that picks up signals and
   not a device that makes signals clearer.
@@ -11,5 +9,4 @@ examples:
 - The jammer stopped the remote signal from reaching the plane.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1414
-sourceFinalSha256: 5bc357173dbcf5b874939d56fb94cdf141681a00b2e0b3343b601879bd29f283
 reviewVerdict: first-pass

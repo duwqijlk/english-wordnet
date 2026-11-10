@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'semiconductor_diode%1:06:00::'
 synsetId: 03207444-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d8f15ded155590e120092ab97bd29251ab016f33636a88f69df0b5d44a74d853
 simpleMeaning: a piece of a special material that has a p-n junction, a join between two kinds of that
   material
 scope: This is a piece of special material with a p-n junction; diode, crystal rectifier and junction
@@ -12,5 +10,4 @@ examples:
 - She soldered a semiconductor diode into the circuit.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1282
-sourceFinalSha256: f2cb2d53fd21a99e4b561792eeb6fa126ee8764ae3c081b4fbefe7b5e96f7507
 reviewVerdict: first-pass

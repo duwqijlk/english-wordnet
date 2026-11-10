@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mean%1:09:00::'
 synsetId: 06033377-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a6f4337191d76dfcd230109ff4837e36d32b4949e133dc5e99846ed625f009e7
 simpleMeaning: an average of a set of values found by adding a function of those values and dividing by
   a function of how many values there are
 scope: This is the statistical average, not the adjective meaning typical, cruel, or stingy, and not the
@@ -12,5 +10,4 @@ examples:
 - We found the mean by adding the scores and dividing by the number of students.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 68
-sourceFinalSha256: eb127fcac1fcd201b49d5cadbfcfc3325058b83ac7bd2867336c7b613395b9a8
 reviewVerdict: first-pass

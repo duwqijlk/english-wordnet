@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'derived_function%1:09:00::'
 synsetId: 06024079-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a45ea837efc9ac47f20d424be2d3d8f2fdce1a89f3ed04e730cfe4caa36dee08
 simpleMeaning: 'Differentiation gives this rate: how fast one amount changes with another at a single
   moment, written df(x)/dx'
 scope: In mathematics it is also called a derivative, a differential, a differential coefficient and a
@@ -12,5 +10,4 @@ examples:
 - We found the derived function of x squared.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 933
-sourceFinalSha256: 007981fa05c6376cbe824c16d4155c7bc3e9b88022fb187b4ff0a5b18ef3196f
 reviewVerdict: first-pass

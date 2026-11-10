@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'lobe%1:10:00::'
 synsetId: 07018639-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3367bad39019b839a6c078f81b7bb5c5665b9c04505b6f3567f723a2630d024a
 simpleMeaning: the stronger response of an antenna in one direction, shown as a loop in a pattern that
   shows how strongly it sends out waves in each direction
 scope: This is the radio sense, about an antenna and the way it points; it is not the rounded part of
@@ -12,5 +10,4 @@ examples:
 - A side lobe picked up weak signals from the wrong direction.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 474
-sourceFinalSha256: 29a3b8d5ea439a30eb0e2a5d318c2a1a030ef33d83b053891c1e46abbb32fc6f
 reviewVerdict: first-pass

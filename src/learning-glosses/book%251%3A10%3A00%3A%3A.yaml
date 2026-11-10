@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'book%1:10:00::'
 synsetId: 06422547-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2a2799defaaa32eb60c29519c349c8a44f0133ff97090a57015cb9186103b5b8
 simpleMeaning: a written work that has been printed and made available to the public
 scope: This is the published written work and its content, not just the paper object on a shelf.
 examples:
@@ -10,5 +8,4 @@ examples:
 - He is writing a book about his travels.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 7
-sourceFinalSha256: eeea1bca52daf0d3dbdac824e8191b570bdf035d2615d34bcb5356be2c49cd98
 reviewVerdict: first-pass

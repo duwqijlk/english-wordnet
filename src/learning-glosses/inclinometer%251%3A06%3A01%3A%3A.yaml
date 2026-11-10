@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inclinometer%1:06:01::'
 synsetId: 03571910-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a72f64b77e56448c62ff450769e6f915e8ed1742ad4f866080a062f1dafbce28
 simpleMeaning: a tool on a plane that shows how far the plane tilts from level flight
 scope: A tool that shows a plane's tilt from the horizon, not a compass and not a tool for measuring magnetic
   dip or land slopes.
@@ -11,5 +9,4 @@ examples:
 - The inclinometer showed the plane was tilted ten degrees.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1409
-sourceFinalSha256: 371a494b1383a1bc1d6ed154af81e6992eef7187ace8d481edcd788893acbec4
 reviewVerdict: first-pass

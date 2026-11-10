@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'boarding%1:04:00::'
 synsetId: 00059157-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d4819a49987ce40d3ea1bbd00486d43ec21461d15107bff6ae3343437471870d
 simpleMeaning: passengers and crew going on board a ship or a plane
 scope: Passengers and crew going on board a ship or a plane, not a wall of boards of batch 301.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Boarding of the passengers took an hour.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 300
-sourceFinalSha256: 04c26ccc522a20964ea43c3d178b3a3a5480a7457f61e903f970edea1e28eaa3
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'disambiguator%1:10:00::'
 synsetId: 06584380-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fe95f17526f253e0d85acbc10aae8adab0337b89d0383466258ed3462c7e808d
 simpleMeaning: In computing, a program that tries to work out what a word or phrase means from the words
   around it, for handling human speech and writing.
 scope: This program in computing tries to work out what a word or phrase means from the words around it.
@@ -11,5 +9,4 @@ examples:
 - A disambiguator helps a computer tell which meaning of a word is meant.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 994
-sourceFinalSha256: 54aa95ed15551e110c631068e5945c46ca112890882ceafd4c0cb8dd93901ffb
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'computerized_axial_tomography_scanner%1:06:00::'
 synsetId: 03088876-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0f65505970f322bf6d624fd094ed297445e1f229130d7f6d8939ba0b1a9b0e5a
 simpleMeaning: 'Flat views taken side by side put together make a picture with depth of a thing: that
   is what this machine does.'
 scope: This machine puts flat views together to build a picture with depth of a thing.
@@ -11,5 +9,4 @@ examples:
 - The computerized axial tomography scanner built a picture with depth of her knee.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 990
-sourceFinalSha256: a7b42758e14cabf7c9aa7c69a3582368c83bc9417909c6614d18a533a2786407
 reviewVerdict: first-pass

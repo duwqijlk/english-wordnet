@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'trioxide%1:27:00::'
 synsetId: 15104492-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f17d556b0a48cfe4104f49d846ef3530c17ff5a44c5d2c861334c6aef5f31ea1
 simpleMeaning: a chemical made of oxygen and another part, with three oxygen atoms in each molecule
 scope: This is a chemical with three oxygen atoms in each molecule. Not a chemical with two oxygen atoms
   and not a chemical with no oxygen at all.
@@ -11,5 +9,4 @@ examples:
 - Arsenic trioxide is a trioxide that can be very harmful.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1302
-sourceFinalSha256: d912f3a117cf2b48c5cbbad3bbe7bce9d251fb63fcf043185a3ee99d7559a208
 reviewVerdict: first-pass

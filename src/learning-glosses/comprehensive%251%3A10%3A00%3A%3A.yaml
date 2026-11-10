@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'comprehensive%1:10:00::'
 synsetId: 07212549-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c4646b60279b933ba5e6ad8f11f4059db3fc391bf71353c0997019f2561cff36
 simpleMeaning: a test that checks in depth how much a student knows in one special subject
 scope: A deep test of knowledge in one subject, with comp as another name for this sense, and not a school
   lesson or a general test.
@@ -11,5 +9,4 @@ examples:
 - He passed the comprehensive after months of study.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 442
-sourceFinalSha256: de7f04ef1629be706e77c3c2d0d9f11766a7912ec296586cfec9de80cd5827d3
 reviewVerdict: first-pass

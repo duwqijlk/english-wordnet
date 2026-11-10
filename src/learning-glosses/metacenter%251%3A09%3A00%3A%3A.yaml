@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'metacenter%1:09:00::'
 synsetId: 05875406-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 436b485416251f5cc573f08484cb93febe3c3f1f01021444ab681584b18d431d
 simpleMeaning: In shipbuilding, the point where vertical lines through a hull's center of buoyancy, upright
   or tilted, cross; its height above the center of gravity shows the ship's stability.
 scope: 'This is the shipbuilding sense: the crossing point used to judge a vessel''s steadiness; metacentre
@@ -13,5 +11,4 @@ examples:
 - Naval architects calculate the metacenter to check a hull's stability.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 112
-sourceFinalSha256: 92c991a4bbe419b47ae3b9de3cb6f9ecb00702912e1b21dfe6db45c436a3917e
 reviewVerdict: first-pass

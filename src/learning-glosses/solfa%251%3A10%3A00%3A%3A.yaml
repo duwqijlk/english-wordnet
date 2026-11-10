@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'solfa%1:10:00::'
 synsetId: 06880930-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1177b46938c4d3caa504adb836b4e194fa2791fa39e0027d64dd84d2566fb337
 simpleMeaning: A way of singing notes by name, using the names do, re, mi, fa, sol, la, ti.
 scope: 'Also called tonic solfa, this is a way of singing notes by their names: do, re, mi, fa, sol, la,
   ti.'
@@ -11,5 +9,4 @@ examples:
 - She sang the scale in solfa, do, re, mi, fa, sol, la, ti.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 913
-sourceFinalSha256: 1c75074c9466118114ccb9a9572df51c0364b0c0bf263543b6a63915da31ec61
 reviewVerdict: first-pass

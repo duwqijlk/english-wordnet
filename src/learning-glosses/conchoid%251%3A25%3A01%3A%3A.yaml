@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'conchoid%1:25:01::'
 synsetId: 92440987-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8481ea431da07d3727ff5c61b385cfe7bae564470a4702c1780ba1ed0747b9cd
 simpleMeaning: 'Any of a family of curves: the set of points a fixed distance from a given curve, measured
   along lines through one fixed point.'
 scope: A whole family of curves built by a fixed-distance rule from another curve, not one particular
@@ -12,5 +10,4 @@ examples:
 - As the chosen distance grows, the two branches of the conchoid move further apart.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 92
-sourceFinalSha256: b61a7c90b4f07974b09449cd17468ede9f61706d1e619bbc611801c821fcb9a7
 reviewVerdict: first-pass

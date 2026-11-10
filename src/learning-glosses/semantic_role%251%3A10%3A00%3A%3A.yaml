@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'semantic_role%1:10:00::'
 synsetId: 06342796-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 17cfce645391742c28d56e3838dc2793aabf64c9c5cff55a73befcca92d5d53d
 simpleMeaning: In the study of language, the hidden link that a part of a sentence has to the main verb
 scope: 'Also called a participant role: the hidden link a part of a sentence has to the main verb, not
   the part of speech of a word and not its job as subject or object.'
@@ -11,5 +9,4 @@ examples:
 - Students learn the semantic role each part of the sentence plays.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1139
-sourceFinalSha256: 28696a96f7a5ffd0bda07ad1b48cd8edc086ac37d9a92b9f1225a9a175789f71
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'current_collector%1:06:01::'
 synsetId: 92461280-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5d9e9fd3936473448b059d23a72469f79b6f399af644aadf0064d15bc98bee7f
 simpleMeaning: a roof fitting on a tram, trolleybus or electric train that draws power from overhead wires
   or a third rail to power the vehicle's electrical equipment
 scope: The device on a tram or electric train roof that draws power from an overhead wire or third rail;
@@ -12,5 +10,4 @@ examples:
 - Engineers inspected the current collector for wear.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 120
-sourceFinalSha256: f068533b5edefc8cb428ab88b2d776dcc4a851f4c6d04289b561bc65056d9ecd
 reviewVerdict: first-pass

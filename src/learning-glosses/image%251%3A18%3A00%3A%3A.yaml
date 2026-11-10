@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'image%1:18:00::'
 synsetId: 10046971-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8fe60fd65fbbba9d4ae9e5d349eaa0811a87ebd8f31454b5032a816b2b43de1b
 simpleMeaning: a person who looks almost exactly like a celebrity, often an actor who copies one
 scope: 'This is the look-alike person sense; distinct from image%1:14:00:: (the values a function produces),
   image%1:09:00:: (a mental picture), image%1:07:00:: (a public facade in Jungian psychology), image%1:06:00::
@@ -15,5 +13,4 @@ examples:
 - The new actor was picked because he is the image of a famous singer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 76
-sourceFinalSha256: 91cd4cee1f42e0b8f16479f2eb5495a5151bb6ea188cebddd230230fc1887c74
 reviewVerdict: self-approved

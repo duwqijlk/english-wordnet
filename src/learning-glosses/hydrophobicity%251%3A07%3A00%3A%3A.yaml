@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hydrophobicity%1:07:00::'
 synsetId: 05203488-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6cbc32ab2b78930efa2be1f3eefd75a27a100a1b9599c3bd8d013d353ecc6c90
 simpleMeaning: How much a thing pushes water away and keeps it from soaking in
 scope: How strongly a thing turns water away, not how much water it takes in and not a thing that likes
   water.
@@ -11,5 +9,4 @@ examples:
 - They tested the hydrophobicity of the cloth by pouring water on it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1406
-sourceFinalSha256: 5fd5a359d5717fabbb421e2e705ce650e18cb145393c535e98eccd216a79191a
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'run-on_sentence%1:10:00::'
 synsetId: 06613406-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 46a9fea461dc96d28deb32dc78f5904beb6264e121c6f7d238bf44049380b20e
 simpleMeaning: a wrong string of words that joins two or more full thoughts with no joining word
 scope: A wrong string of words that joins two or more full thoughts with no joining word, not a well-made
   long string of words and not a short bit of writing.
@@ -11,5 +9,4 @@ examples:
 - A run-on sentence joins two full thoughts with no word like 'and'.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1278
-sourceFinalSha256: f4128a3e8da4ef5fac7d77904d4a5d657d823fff1831f51f1883ee880bce6af2
 reviewVerdict: first-pass

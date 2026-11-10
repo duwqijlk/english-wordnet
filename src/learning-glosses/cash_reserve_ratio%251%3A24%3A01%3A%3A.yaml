@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cash_reserve_ratio%1:24:01::'
 synsetId: 92411756-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b269bf3ce46fa9fa2f02f62f616dff2079ecbf593a272e39d3a3eeb180c18ecc
 simpleMeaning: the share of a bank's total deposits kept by, so it can pay an unusually high number of
   withdrawals from accounts that pay on demand
 scope: A share of deposits a bank must keep by, also called required reserve ratio and reserve ratio;
@@ -12,5 +10,4 @@ examples:
 - Banks must hold the cash reserve ratio in ready money.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1069
-sourceFinalSha256: f967a3e983d49ac0c24e6864c1223635e0e494e33073e2e35ec222cd1da59200
 reviewVerdict: first-pass

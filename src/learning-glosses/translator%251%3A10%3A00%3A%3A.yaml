@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'translator%1:10:00::'
 synsetId: 06593444-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 21f864684ab982b823e3693e9bad987aef744b44ef822e3f88f8ce74fdfc0ce2
 simpleMeaning: a piece of software that turns code written in one computer language into code in another
 scope: A piece of software that turns one computer language into another, not a person who turns written
   words from one language into another, and not someone who speaks for people talking in different languages.
@@ -11,5 +9,4 @@ examples:
 - We used a translator to change the program from C into Java.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 395
-sourceFinalSha256: d1644dd2094487c5849686ee79bf94ad0c96772adb5981e53d6a47dc36a35291
 reviewVerdict: first-pass

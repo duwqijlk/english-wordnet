@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'life_support%1:06:00::'
 synsetId: 03669236-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: dd7529c826ff924dd233d7a71abe15ea0dbfcfb48b99bae5918c365743740dd9
 simpleMeaning: medical machines that take over key body jobs for a very sick person, so the person stays
   alive when they might not live without them
 scope: This is medical equipment that keeps a very sick person alive; life-support system is another name
@@ -12,5 +10,4 @@ examples:
 - Doctors kept him on life support until his lungs could work again.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1108
-sourceFinalSha256: 434fe1ec5e0a82ecd319c44c7a87165845b7fcef15390ce929eb8a4e4089bfe9
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'uptick%1:04:00::'
 synsetId: 01112878-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 42ad745769497fc000734244a081e9a454cb2fc3e1b0010d7e632ba18c36e74a
 simpleMeaning: on the stock market, a buy or sale at a price higher than the price of the one just before
   it
 scope: This is one single buy or sale on the stock market at a higher price than the last one, not a general
@@ -12,5 +10,4 @@ examples:
 - Traders saw an uptick when the stock sold for more than in the sale just before.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 644
-sourceFinalSha256: cc911ceaa72056886cd64bb8f41b8a8bdf0a03b589ec79d2a85a558605dc803e
 reviewVerdict: first-pass

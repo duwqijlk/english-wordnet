@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'automatic_pilot%1:06:00::'
 synsetId: 02765174-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5ee5d94912e90401f7029e6b3ee75240f3cab7b611919892a0ec5c9ef7904626
 simpleMeaning: Ships, planes, and spacecraft stay on a steady course with this device doing the steering
   by itself.
 scope: This is a device that does the steering for a ship, a plane, or a spacecraft, also called an autopilot
@@ -12,5 +10,4 @@ examples:
 - When the storm hit, the automatic pilot held the ship steady.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1060
-sourceFinalSha256: d1d5707f5d4550671a87957ff0b6ee45e4cb063a065d051e7808294fcf042a6e
 reviewVerdict: first-pass

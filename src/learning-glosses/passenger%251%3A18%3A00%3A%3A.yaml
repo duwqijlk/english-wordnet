@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'passenger%1:18:00::'
 synsetId: 10423621-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 19d4d018365c275a3328672312762410cacac040d257391840ccd6b51e37e6b7
 simpleMeaning: a person who rides in a boat, bus, car, plane, or train, and does not drive it
 scope: 'Also called rider: a person who rides in a boat, bus, car, plane, or train, and does not drive
   it.'
@@ -11,5 +9,4 @@ examples:
 - Every passenger must wear a belt on the bus.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 181
-sourceFinalSha256: 4a7984b658cf4d526049e4a402472b197da2161f872885434b66915d3c52dd0d
 reviewVerdict: first-pass

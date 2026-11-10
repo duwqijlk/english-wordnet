@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'quote%1:10:01::'
 synsetId: 06625409-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: aab10d79366337b351ca370fc231a0b052cb00a50904d93102205b9579ed4dea
 simpleMeaning: words that are taken from something a person said or wrote, and are used again by someone
   else
 scope: Words taken from what someone said or wrote and used again. Not the mark that goes around such
@@ -12,5 +10,4 @@ examples:
 - The article ends with a short quote from the mayor's speech.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 231
-sourceFinalSha256: c22399eaaaaed41656d6637866dc9457ed59c20b39c09ac0fa288b05c2bdac5c
 reviewVerdict: first-pass

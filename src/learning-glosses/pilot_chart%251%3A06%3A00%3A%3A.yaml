@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pilot_chart%1:06:00::'
 synsetId: 03817188-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fd71b69a1ffd3a3194509ed424ac08e67fc277a09849fcea8530fc0b84a0780c
 simpleMeaning: a sea map for a sailor that shows the usual weather, water and sailing conditions
 scope: 'Also called naval chart and navigational chart: a sea map for a sailor showing usual weather and
   water conditions, not a land map and not a book of sailing rules.'
@@ -11,5 +9,4 @@ examples:
 - The pilot chart showed strong winds along the route.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1125
-sourceFinalSha256: a20c59cffa1d5e875ae4ac53cd84f5320c67164024750a1fd0ed1079b63a7c58
 reviewVerdict: first-pass

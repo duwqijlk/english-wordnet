@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radius_vector%1:09:00::'
 synsetId: 05873758-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 031911d91f20ac06c24efc2e655d8de64bea2653fdd45ef82b1acdcf08380220
 simpleMeaning: A line that joins a point in space to the starting point of a way of fixing a place with
   a distance and a direction
 scope: A line joining a point to the starting point of a way of fixing places, not a line from the middle
@@ -12,5 +10,4 @@ examples:
 - She drew the radius vector to show where the point lay.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1465
-sourceFinalSha256: a06aedab73b471ecda210f0981cf5ca437b948f91e9e9203e9fc9d0fd7a44a38
 reviewVerdict: first-pass

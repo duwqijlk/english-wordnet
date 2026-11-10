@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mortgage%1:21:00::'
 synsetId: 13373153-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 59b9a4a96239da22c90405c01c7e36b0b9d4a1f28512c0575fc0e08072785239
 simpleMeaning: a deal where you give a lender a claim on your property until you pay back the money you
   borrowed
 scope: A loan deal where a lender holds a claim on your property until you pay it back, not a plain loan
@@ -12,5 +10,4 @@ examples:
 - The bank holds a mortgage on the farm until the loan is paid off.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 379
-sourceFinalSha256: 211f4d95ab547c08e4b492c56df372af147b038a6c6aaee27df8b577f3567d41
 reviewVerdict: first-pass

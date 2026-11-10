@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'declare%2:40:00::'
 synsetId: 02305510-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c939f97a7b00e59a8b2061c373dc7d59da58ad0c822f97f4eaede0740591f8cc
 simpleMeaning: In a card game, to name the trump suit (whose cards beat cards of other suits) or no-trump
   (no trump suit is picked), with the last bid of a hand
 scope: In a card game, this is naming the trump suit or no-trump at the end of bidding; it is not announcing
@@ -12,5 +10,4 @@ examples:
 - He declared no-trump in the last bid of the hand.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 171
-sourceFinalSha256: 21150e36d676da1b123b13d8b89a039bb5c1fbeb5168a32c86a6baf0ce7a389d
 reviewVerdict: first-pass

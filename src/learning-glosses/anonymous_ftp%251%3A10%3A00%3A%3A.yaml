@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'anonymous_ftp%1:10:00::'
 synsetId: 06678357-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 904b4a754ebdffc2a5247393c1ed5752b4d6cded8627bc6f16efa4c4bc404991
 simpleMeaning: A common way to share computer programs, where people can sign in as 'guest' with no secret
   word and take copies of what is on offer
 scope: A common way to share computer programs, where people can sign in as 'guest' with no secret word;
@@ -13,5 +11,4 @@ examples:
 - With anonymous ftp, anyone can copy the files as 'guest'.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1167
-sourceFinalSha256: 51f08a6b0604f2452ea921b24b0298fb214ab7c728c38a948e9be621f3238193
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bronchoscopic_smear%1:08:00::'
 synsetId: 05273985-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6722e0a609d1cbe959b402b90a359079e1dd7abdb648ce6feab6b124b95df49e
 simpleMeaning: Taken from different parts of the lower airways, one of several thin spreads of cells used
   to study cancer and other sicknesses of the lungs by looking at the cells.
 scope: Also called lower respiratory tract smear and sputum smear, this is a thin spread of cells from
@@ -13,5 +11,4 @@ examples:
 - The bronchoscopic smear was used to study cancer of the lungs.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 926
-sourceFinalSha256: b0d8e33514e906c9b09cf7750bd1f8937ca2bc85ae29e8ac9f552d40173b0b37
 reviewVerdict: first-pass

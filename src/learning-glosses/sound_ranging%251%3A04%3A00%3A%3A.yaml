@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sound_ranging%1:04:00::'
 synsetId: 01007042-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 023c09b6506734b001db356394605b5adc079c58f7fdf259efeb4e218c3ecd64
 simpleMeaning: finding where a noise comes from by timing when it reaches microphones set out in known
   places
 scope: Finding where a noise comes from, such as a gun, by timing when it reaches set microphones; not
@@ -12,5 +10,4 @@ examples:
 - The team used sound ranging to track the blast back to its source.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1288
-sourceFinalSha256: 2caf32c08303a54e58188e00bf98ad7ea88b02b3dd3be3f14b2c514eae007847
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'trace_detector%1:06:00::'
 synsetId: 04469811-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: dbde8b502c5e32162abd9b615d0967c7e103f2ee403d7afcf90ee95526ab1eac
 simpleMeaning: a machine that checks for tiny amounts of explosives, used at airport terminals
 scope: A machine that checks for tiny amounts of explosives at airport terminals, not a machine that checks
   bags by X-ray and not a hand-held metal finder.
@@ -11,5 +9,4 @@ examples:
 - Each passenger's bag passed through a trace detector before boarding.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1301
-sourceFinalSha256: 75d4a5f1f6c930ae9b2fbee39b063f0b13efbe134b311ed5675f38de9ebfbc6f
 reviewVerdict: first-pass

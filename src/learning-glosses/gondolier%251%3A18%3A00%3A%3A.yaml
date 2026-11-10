@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gondolier%1:18:00::'
 synsetId: 10157345-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0bd87c3a89f63b9fce6394f1c0d6af5314ca2cf4b5ef8e388c70ea742cdade43
 simpleMeaning: a man in Venice who moves a gondola (a long, thin boat) through the water
 scope: This is the person in Venice who moves a gondola, not the boat itself and not a person riding in
   it.
@@ -11,5 +9,4 @@ examples:
 - Our gondolier sang as he took us through Venice.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 467
-sourceFinalSha256: ecb4ef40c77da57da7fa0ae4b9fd32cc9606bb6927835f5127b5c3ca48c7e7bc
 reviewVerdict: first-pass

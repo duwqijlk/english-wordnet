@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'estimated_tax%1:21:00::'
 synsetId: 13331561-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4055eb49ff64ae7b666fc9b6f9697eab53d22dfb516bba8beafbb3debe28f9ed
 simpleMeaning: Money paid to the state at set times on pay with no money taken off at the source, worked
   out from what the payer thinks they will owe.
 scope: Money paid to the state on pay with nothing taken off at the source, not a bill for one year and
@@ -12,5 +10,4 @@ examples:
 - Her estimated tax is based on what she thinks she will owe.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1087
-sourceFinalSha256: e56c108c0a73a863d40d60cc92645689e536c4528ef29b31d24bdf87196c85f1
 reviewVerdict: first-pass

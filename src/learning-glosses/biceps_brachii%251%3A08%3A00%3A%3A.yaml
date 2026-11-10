@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'biceps_brachii%1:08:00::'
 synsetId: 05587067-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 695d84be31cc6dcbe0946987eb7028b783c8929d2e0cb782c81b13138f668a20
 simpleMeaning: a muscle in the upper arm that bends the forearm and turns the palm up
 scope: 'Also called biceps humeri and musculus biceps brachii: a muscle in the upper arm that bends the
   forearm and turns the palm up, not the muscle at the back of the upper arm and not a muscle of the leg.'
@@ -11,5 +9,4 @@ examples:
 - The biceps brachii bends the forearm when you curl your arm.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1333
-sourceFinalSha256: 7f2a343ac4dd10890f37a94d5697d9bfd0b01a483e57b69d4808001a33b8f580
 reviewVerdict: first-pass

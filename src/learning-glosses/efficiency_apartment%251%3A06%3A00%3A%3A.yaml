@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'efficiency_apartment%1:06:00::'
 synsetId: 03270665-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4d8a95a361d8df0be226ec4460d7c8de35147ee0c033e9cc10419eb8a312ad72
 simpleMeaning: a furnished flat with a tiny kitchen and a bathroom
 scope: A furnished flat with a tiny kitchen and a bathroom, not a large home and not a room with no kitchen.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The efficiency apartment came with a bed, a table, and a tiny kitchen.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1377
-sourceFinalSha256: c61a92be34ff104ac687ca9bf5c7ac805672bdd916e357d721a385dbaa4ae20b
 reviewVerdict: first-pass

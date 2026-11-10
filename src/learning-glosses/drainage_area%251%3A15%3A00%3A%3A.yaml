@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'drainage_area%1:15:00::'
 synsetId: 08536123-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d34aaa42692514eb700eccaef8d8213e462524b5b624fdb1ba498dff5732fb83
 simpleMeaning: One outlet takes all the water that runs off the land round one river and its smaller streams.
 scope: All the water that runs off the land round one river leaves by one outlet, and this land is also
   called a basin, a watershed, a catchment area, a catchment basin, a drainage basin, and a river basin.
@@ -11,5 +9,4 @@ examples:
 - All the streams in the drainage area run into one river.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 995
-sourceFinalSha256: f0a3c64b2c1ed5c9ed357f02c78f0952e5890b1d50caae4a384e023e921d6c26
 reviewVerdict: first-pass

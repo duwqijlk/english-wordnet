@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'naval_radar%1:06:00::'
 synsetId: 03817922-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c47cfdc6675593e470dd6515abf4d76461911233f1d5ddda1f198c10108bbc53
 simpleMeaning: A device on a ship that uses radio waves to find other ships and planes at sea
 scope: A radio-wave device on a ship for finding other ships, not a device on land and not a weapon.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The crew watched the naval radar through the night.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1438
-sourceFinalSha256: c09f7d5d7db95ff425e0b7bceb6484ca56de91438780fc154c74ccd88e875019
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'software_optimization%1:04:01::'
 synsetId: 92443352-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0821c71d54d1c47da5b0f3bd981f2ee602d42c5954788da52404db01748ac2a5
 simpleMeaning: changing a computer program so that part of it runs better or takes less from the computer
 scope: Also called program optimisation, program optimization and software optimisation; changing a computer
   program to run better, not writing a new program and not fixing a fault in it.
@@ -11,5 +9,4 @@ examples:
 - Good software optimization can make an old program run much faster.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1287
-sourceFinalSha256: 766a7fc5e81e5d41d9df35eba2f6830781bccb5f4e591eb5b1233f4e15755f1d
 reviewVerdict: first-pass

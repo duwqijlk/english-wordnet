@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'densitometry%1:04:00::'
 synsetId: 01003950-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2a1753c4507f0b1d6e7e421b1107a3384a0016d5a3b281761b4a33b28321e989
 simpleMeaning: It shines light on a substance and finds how much gets through, which shows how much light
   the substance holds back
 scope: This is a way of finding how much light a substance lets through, by shining light on it and finding
@@ -12,5 +10,4 @@ examples:
 - Densitometry was used to check the sample.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 993
-sourceFinalSha256: 7dbc61a84a99e5cd9163dab2a12acaa857ceb4581f348a399fa0543b9200c70a
 reviewVerdict: first-pass

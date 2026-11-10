@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'rank-order_correlation%1:09:00::'
 synsetId: 06043831-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e8325ffb3d242df80483a75990b441e3c38d7f7fbe2cb8537ba773e7653f132d
 simpleMeaning: Sort each set of marks first, and this is the way most often used to find how closely the
   two sets move together.
 scope: It is also called a rank-difference correlation, a rank-difference correlation coefficient, or
@@ -13,5 +11,4 @@ examples:
 - We worked out the rank-order correlation for the two tests.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1029
-sourceFinalSha256: d9318da09f46bf81f119dc90d18c620aa067caf30d35887c23fa7e0132dce480
 reviewVerdict: first-pass

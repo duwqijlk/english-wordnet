@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'tax_write-off%1:21:00::'
 synsetId: 13350069-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 58939b4fe1112ddedd3bab08fdd2d266ee69836ae8a05a84f9e9554869f8921a
 simpleMeaning: A reduction in the gross amount on which tax is calculated, cutting the tax by the percentage
   set for the taxpayer's income bracket
 scope: People also call it a deduction or a tax deduction, and it works by cutting the whole sum on which
@@ -12,5 +10,4 @@ examples:
 - She listed the old van as a tax write-off.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 967
-sourceFinalSha256: b9d9e8a1d09ded6a271f1975affbef02c013503f092d49f52b2c3ded73192cd5
 reviewVerdict: second-pass

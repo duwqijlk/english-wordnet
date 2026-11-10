@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'exchange%1:04:04::'
 synsetId: 00167884-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 55c5fec4e5c682b2c827f336e06bc7e2b2148597650ca8acdc57b5f058466f14
 simpleMeaning: In chess, a swap, usually on back-to-back moves, in which each player takes a piece of
   the same worth as the one they lost.
 scope: This is a trade of pieces of equal worth during play, not the chess gain or loss of a rook in return
@@ -13,5 +11,4 @@ examples:
 - He avoided the exchange because it would leave his king exposed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 81
-sourceFinalSha256: 76c9a5f568d6bee3c09437cda3c0c4ba7ae641ffade136995c28a8c3945d9f33
 reviewVerdict: self-approved

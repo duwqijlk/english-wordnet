@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'strike%1:04:05::'
 synsetId: 00110234-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6e7306a07e648f3c08f200a9151e656fcc966df1a3fc5f9365d0d8758c54b9f9
 simpleMeaning: In baseball, a pitch the batter misses, hits into foul ground, or leaves alone when the
   umpire judges it to cross home plate between the knees and shoulders.
 scope: A pitch call in baseball, not a refusal to work, a military attack, or a bowling score.
@@ -11,5 +9,4 @@ examples:
 - The umpire called a strike on a pitch that looked low and outside.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 95
-sourceFinalSha256: 9dd5cb50fbc9c9c146ffab4f7883d31524b9ef778259e5353a4016225c197b7d
 reviewVerdict: first-pass

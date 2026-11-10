@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'atomic_clock%1:06:00::'
 synsetId: 02756399-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1b566b8be6b86bebec3d80abad210a3be2a8b1a8e93ff82851aad29bc144d73e
 simpleMeaning: A timekeeper that sets its time from the shaking of the smallest bits of matter
 scope: This is a timekeeper set by the shaking of the smallest bits of matter, not a timekeeper set by
   a swinging weight and not one set by the sun.
@@ -11,5 +9,4 @@ examples:
 - An atomic clock sets its time from the shaking of tiny bits of matter.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1171
-sourceFinalSha256: 6fc06707ec43c669a739d3a0f1d23bbee564849413315131ab22e81fcf8d0c4e
 reviewVerdict: first-pass
