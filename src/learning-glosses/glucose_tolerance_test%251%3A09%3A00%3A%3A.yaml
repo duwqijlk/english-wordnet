@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'glucose_tolerance_test%1:09:00::'
 synsetId: 05749710-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c44738d44cf51f73cb1ed687d54683738bca75531b47b33b677a6395260f18e4
 simpleMeaning: To find out if a person has low blood sugar or diabetes, this check looks at how well the
   body handles sugar from food.
 scope: This is the name for the check that looks at how the body handles sugar, used to find out about
@@ -12,5 +10,4 @@ examples:
 - His glucose tolerance test came back normal.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1002
-sourceFinalSha256: 4c4059e56f5e4db060d0e52861dd2c98167ac6c96fdff7272805974401dcf3c3
 reviewVerdict: first-pass

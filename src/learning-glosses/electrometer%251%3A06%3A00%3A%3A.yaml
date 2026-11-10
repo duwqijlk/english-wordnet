@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electrometer%1:06:00::'
 synsetId: 03281607-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 947051d066376580a045fea7e3c27f9da060f89f4caa2f8c7019a0f98fcf50e9
 simpleMeaning: a meter that measures gaps in power between two points and takes no power from what it
   measures
 scope: A meter for gaps in power that takes no power itself, not a meter for flow of power and not a battery
@@ -12,5 +10,4 @@ examples:
 - He read the charge with an electrometer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1085
-sourceFinalSha256: 347d02a8328c69d33ee9718b0238d2bb8b3feb6d8632a8983e8b233486f01156
 reviewVerdict: first-pass

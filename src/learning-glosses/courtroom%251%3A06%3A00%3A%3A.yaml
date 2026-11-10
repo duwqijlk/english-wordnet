@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'courtroom%1:06:00::'
 synsetId: 03125429-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f7da399b95ea9edef5a45a8a8de68bd7f4f0d5767928b20f76d1399c54da4885
 simpleMeaning: a room where a judge hears and decides cases about the law
 scope: 'Also called court: this is the room where a judge hears cases, not an open yard and not a sports
   ground.'
@@ -11,5 +9,4 @@ examples:
 - The courtroom was quiet as the witness began to speak.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 275
-sourceFinalSha256: 615b1714866dcaecd20b2315a05a70e1c8ab43c03b993962cf0e61db64ea14da
 reviewVerdict: first-pass

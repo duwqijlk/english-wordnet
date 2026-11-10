@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'rain%1:19:00::'
 synsetId: 11521799-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e413218e71ce6eb12a51bc73c7e32229afd3c4d07c7744ab4b3124728bbe5d54
 simpleMeaning: the falling of water from the sky in drops, after water vapor in the air cools and turns
   to liquid
 scope: This is the weather event of water falling, not the water itself.
@@ -11,5 +9,4 @@ examples:
 - The rain lasted all morning.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 41
-sourceFinalSha256: 425302f94fdca3c5708b5ae11a48a169dfc51175359d891d50f40d366d33ad95
 reviewVerdict: first-pass

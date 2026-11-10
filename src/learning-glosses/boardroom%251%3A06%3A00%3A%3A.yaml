@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'boardroom%1:06:00::'
 synsetId: 02860924-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4610b500a79c977f0f19460dded10bc6b3df3b0c031ee4b8676ca14399eec96e
 simpleMeaning: a room where a small group of people meets to make decisions, such as the top leaders of
   a company
 scope: This is the meeting room itself, not the group of leaders who meet in it and not an office for
@@ -12,5 +10,4 @@ examples:
 - She walked into the boardroom and sat at the long table.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 483
-sourceFinalSha256: 61f713ace3e25f86b52190e70bdbcc6463b56921ae7347173c36a85ffd512c0d
 reviewVerdict: first-pass

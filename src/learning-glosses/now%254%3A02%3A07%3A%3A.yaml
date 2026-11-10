@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'now%4:02:07::'
 synsetId: 00050296-r
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c9f7aaae2f913931b916d2759bd2b8c229a677df850eee79fe68d14467c0fa37
 simpleMeaning: Used at the start of a remark to show that the speaker is turning to a different subject
   or activity.
 scope: This marks a change of subject or activity; it does not mean at this moment and does not introduce
@@ -12,5 +10,4 @@ examples:
 - Now then, who wants more coffee?
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 45
-sourceFinalSha256: d172843c71d9803793a2174dda9e6b56cadb58bfb2da9fa11a4c9b6c20d4cbd0
 reviewVerdict: first-pass

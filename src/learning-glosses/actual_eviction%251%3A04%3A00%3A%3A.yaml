@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'actual_eviction%1:04:00::'
 synsetId: 01197201-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 319a6fee3a186ea9a6701be2239d7e1c99b375c5c10fbbebc0551bae663d0081
 simpleMeaning: the tenant no longer has to pay rent once forced out of the rented place in person
 scope: Forcing a tenant out of the rented place in person, not a case where the tenant leaves by choice,
   ends the tenant's duty to pay rent.
@@ -11,5 +9,4 @@ examples:
 - After the actual eviction, she moved out and stopped paying rent.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 974
-sourceFinalSha256: 3e7bd68dd3d6ef48a4d53c5eb71327858417d3e455a9845fae7909e878748039
 reviewVerdict: first-pass

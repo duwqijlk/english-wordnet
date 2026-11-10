@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'magnetic_core%1:06:00::'
 synsetId: 03112720-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 122192b2e14e944b49494724a7e61c88bd1ebfdd8faa564c97f32c7853cd05e2
 simpleMeaning: One bit of data was once held in this tiny ring of iron stuff, in a memory where any bit
   could be reached at once, until chips pushed it out.
 scope: Also called core, it is a tiny ring that once held one bit of data in a memory where any bit could
@@ -12,5 +10,4 @@ examples:
 - Each magnetic core held a single bit.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 947
-sourceFinalSha256: 85f930a8d29ed580a66e15d7d9f611bf90da0c64f05899211826e0b55876cc17
 reviewVerdict: first-pass

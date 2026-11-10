@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'judicial_decision%1:04:00::'
 synsetId: 01190300-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c516cb152ef3f8ac6ea8ff75ceafd1d4629af1380ff9d8b84a608994dbc1c822
 simpleMeaning: The ruling that a court with the power to decide gives on the matters put before it.
 scope: The answer a court with the power to rule gives to the questions put before it, also called judgment
   or judgement; not the view of a court with no power to rule and not a ruling made outside the case.
@@ -11,5 +9,4 @@ examples:
 - A judicial decision from the high court settled the matter.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1414
-sourceFinalSha256: d0244156785497cdb0e1466b5658fd65e270f4b6058b41860742bcd6692614e0
 reviewVerdict: second-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'medallion%1:13:00::'
 synsetId: 07664811-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 80112245d821bc09440bf7415c6c1d637f9de8628d1ff61a6e7b82bae2635ce7
 simpleMeaning: a round serving of food, most of all a piece of meat with no bone in it
 scope: A round serving of food, not the round metal badge on a taxi.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The menu lists a medallion of pork for dinner.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 360
-sourceFinalSha256: dcd3d4a5a7fd0967cb8e2ad9e1dee5ec3879cd89c3e00b9d7ae3ffc6864774c4
 reviewVerdict: first-pass

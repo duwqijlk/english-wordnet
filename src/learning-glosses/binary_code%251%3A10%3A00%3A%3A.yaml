@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'binary_code%1:10:00::'
 synsetId: 06368711-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 68e365ba4f05a26470153b11d58955567952ee14ffa5ee4f574cb4c43ed48be3
 simpleMeaning: a way of writing letters and signs as a line of 8 ones and zeros
 scope: A way of writing signs as ones and zeros, not ordinary writing and not a secret code for hiding
   a message.
@@ -11,5 +9,4 @@ examples:
 - Each letter in binary code is written with eight ones and zeros.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1334
-sourceFinalSha256: ebb82c2c7672f9e952a6b4ebdd85dd0268a46d8db6811dc0e792915ebc771d8a
 reviewVerdict: first-pass

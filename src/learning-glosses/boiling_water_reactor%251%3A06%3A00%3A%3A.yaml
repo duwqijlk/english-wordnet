@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'boiling_water_reactor%1:06:00::'
 synsetId: 02867462-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6b862ab219b4fc22e6cb7eb78a8f52f73ac91c8feed122fc6c5580c34e8ea89b
 simpleMeaning: A machine that splits atoms to make heat, cooled and slowed by the liquid in its middle,
   which turns to steam that can turn a wheel that makes power.
 scope: This is a machine that splits atoms to make heat, cooled and slowed by the liquid in its middle,
@@ -12,5 +10,4 @@ examples:
 - In a boiling water reactor, the liquid turns to steam that drives the turbine.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 925
-sourceFinalSha256: 617c9d7801d151a525e5f34f98b6e00bf37c36a58999f1a33f5efac7158d3003
 reviewVerdict: first-pass

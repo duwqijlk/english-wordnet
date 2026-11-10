@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'resolution%1:19:00::'
 synsetId: 11526187-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 694fc2186964a58ac46558cc4fd68dbefc41b57b0a2a8815f63168defb585cd4
 simpleMeaning: the power of a microscope or telescope to show images that are close together as separate
   images, and to measure the angle between them
 scope: This is about how well a microscope or telescope shows close images apart, not the number of small
@@ -12,5 +10,4 @@ examples:
 - The microscope's resolution was too low to show the tiny parts clearly.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 282
-sourceFinalSha256: 47a5717ad0a46adf8a660c3b4806700c50b301c570160364187e80cee428b76e
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'minor_premise%1:10:00::'
 synsetId: 06767126-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 543d23e3570cd3899da15ae647420655f3dde93bb12c3f5ad4788de767d159a8
 simpleMeaning: A chain of reasoning has a starting point that holds the small term, the thing its last
   point is about
 scope: 'Also called a minor premiss and subsumption: the starting point of a chain of reasoning that holds
@@ -12,5 +10,4 @@ examples:
 - The minor premise of the syllogism names the subject of the conclusion.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1433
-sourceFinalSha256: 3a22e5054938d9fcbb8bb9045c70b1b707e88e13a7d5e83e93564582641332c1
 reviewVerdict: first-pass

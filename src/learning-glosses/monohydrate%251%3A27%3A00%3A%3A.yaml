@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'monohydrate%1:27:00::'
 synsetId: 14978291-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 47adac1f594013c0a6be858df0b148f07e60848110f06f29323aa65a9e9eb4f5
 simpleMeaning: a compound that holds one molecule of water for each molecule of the compound itself
 scope: A compound with one molecule of water for each molecule of the compound, not a compound with no
   water in it and not one with two molecules of water per molecule.
@@ -11,5 +9,4 @@ examples:
 - The label said the powder was a monohydrate, so each grain held water inside.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1434
-sourceFinalSha256: 79696de94ef406fc0c001c74d0bb538c74247fe0542363d6f86df7fa2a40eed7
 reviewVerdict: second-pass

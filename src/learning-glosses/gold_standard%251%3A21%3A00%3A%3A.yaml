@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gold_standard%1:21:00::'
 synsetId: 13394599-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a1624ff1ea0d46e3e453d8fe92e61532713874bcef15428b260c0b1c0fc0f0b5
 simpleMeaning: The yellow metal sets what each unit of money is worth, and that is the money system
 scope: A money system where each unit of money is worth a set amount of the yellow metal, not a test of
   quality and not paper money on its own.
@@ -11,5 +9,4 @@ examples:
 - The country left the gold standard in the nineteen thirties.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1396
-sourceFinalSha256: d7d0fef02d27f02b0b261ac539edf062c38faf065b595aa06ef39e0012598a84
 reviewVerdict: first-pass

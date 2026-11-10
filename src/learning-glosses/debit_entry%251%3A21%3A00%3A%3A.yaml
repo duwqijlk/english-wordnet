@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'debit_entry%1:21:00::'
 synsetId: 13426980-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 25c9001ef96b8ff717916974f052f3c57660abfebd64495380cc2766d2c875a7
 simpleMeaning: In accounting, a written record that says money is owed
 scope: This is a written record in a set of books saying money is owed, also called a debit; not a payment
   made and not a credit entry.
@@ -11,5 +9,4 @@ examples:
 - She checked the debit entry before she closed the books for the month.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1366
-sourceFinalSha256: 539e76e42331508ad39802c45817c91e24f383cb9feea8c6f8fd3ee5b52006a6
 reviewVerdict: first-pass

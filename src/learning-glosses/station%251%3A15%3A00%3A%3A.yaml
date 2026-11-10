@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'station%1:15:00::'
 synsetId: 08641960-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 273a590cb7be0f519d5a52fd8b35b04d03afdfb03eb57c39af83b4c1a24fb364
 simpleMeaning: the place where a guard or lookout is told to stand and remain on duty
 scope: This is a person's assigned post, not a radio frequency, not a stop on a railway, and not a broadcasting
   building.
@@ -11,5 +9,4 @@ examples:
 - Two guards left their stations for a few minutes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 66
-sourceFinalSha256: e2bc97848f2bd3b0ad71b6003f7acc7abd6e8b52d365739583d631faa44b9f2c
 reviewVerdict: first-pass

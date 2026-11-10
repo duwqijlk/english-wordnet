@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'isochrone%1:15:00::'
 synsetId: 08607088-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 491ca6da8182c50b70aef8d5aecc67e3bde478c8a7db53d15fe1b7b569f0aece
 simpleMeaning: Where the same thing happens or is reached at the same time, a line joins those places
 scope: A line joining places where the same thing happens or is reached at the same time; not a line joining
   places of the same height and not a line joining places of the same heat.
@@ -11,5 +9,4 @@ examples:
 - Draw an isochrone to show where the quake was felt at the same time.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1413
-sourceFinalSha256: 08f3fffc5825622f75f63434f49c7b7f79dae95c37e67fd3602341826ba20fa5
 reviewVerdict: first-pass

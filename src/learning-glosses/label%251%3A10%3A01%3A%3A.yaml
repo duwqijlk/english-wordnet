@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'label%1:10:01::'
 synsetId: 07217239-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5de6d89e2397370d3381f1727a4123a639a5a1fed977ad420bc1ae791f0457e7
 simpleMeaning: a short set of words that says what a thing is, so it can be known
 scope: A short set of words that says what a thing is, not a piece fixed to a thing and not a music company's
   name.
@@ -11,5 +9,4 @@ examples:
 - She gave the plan a short label so people would know what it was.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 208
-sourceFinalSha256: 73e77f34ca8254cd712da5836df06ea99168fe324b43bc54b449749c74a02b9d
 reviewVerdict: first-pass

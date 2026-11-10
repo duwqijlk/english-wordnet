@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'middle_term%1:10:00::'
 synsetId: 06767683-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4e01e638fc976b22b8e4260f8e63a74264aad3ecd36f3b9dfd8b9d293659855a
 simpleMeaning: Two starting points of a chain of reasoning share one word or phrase, and the last point
   leaves it out
 scope: The word shared by both starting points of a chain of reasoning, not the word that shows up in
@@ -12,5 +10,4 @@ examples:
 - 'She spotted the middle term at once: the word that joined the two starting points.'
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1432
-sourceFinalSha256: 4bb939da3a8c1d51fc982d94b9abd81e23c72a85f5e6c73b750c76f03351db8f
 reviewVerdict: first-pass

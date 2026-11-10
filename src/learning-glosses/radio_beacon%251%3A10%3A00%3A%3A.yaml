@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radio_beacon%1:10:00::'
 synsetId: 07278754-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1bce20bc3e82829e0e99e3f5e90ee6c4b549c4984b25541566804ac839bba391
 simpleMeaning: a set signal sent out by a sender, used to help travelers find their way
 scope: This is the signal itself, not the station that sends it and not a light that marks a shore.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The ship followed the radio beacon through the fog.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1272
-sourceFinalSha256: 44e4fe42da13857fa0f01c0776e6007f28bbc4923e5d1ff9c4d51cd652fbc65e
 reviewVerdict: first-pass

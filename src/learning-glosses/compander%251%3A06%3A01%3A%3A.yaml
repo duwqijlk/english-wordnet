@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'compander%1:06:01::'
 synsetId: 92446138-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 86570a0427c25ca8cf7c657be7b119341f315a70cbade30ca3d57c47c25cc075
 simpleMeaning: A system that narrows a signal's loudness range before sending or recording it, then widens
   it back at the receiving or playback unit, so the signal stands out above noise.
 scope: A two-stage signal system that both squeezes and restores the range; not a simple compressor, which
@@ -12,5 +10,4 @@ examples:
 - A compander makes the quiet parts of a recording stand out more clearly.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 104
-sourceFinalSha256: 1b2d31ce4ef61ca4f7380a597518171100751954aa1762e86e4966deec947c8e
 reviewVerdict: first-pass

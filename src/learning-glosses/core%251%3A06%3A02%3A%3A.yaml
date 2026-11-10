@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'core%1:06:02::'
 synsetId: 03112720-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 122192b2e14e944b49494724a7e61c88bd1ebfdd8faa564c97f32c7853cd05e2
 simpleMeaning: In computer science, a tiny ring of magnetic material once used in random-access memory
   to hold one bit of data, now replaced by semiconductor chips
 scope: This sense is the old magnetic memory ring of early computers, not the magnetic bar inside a coil,
@@ -12,5 +10,4 @@ examples:
 - The museum's memory board still holds hundreds of hand-wired cores.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 88
-sourceFinalSha256: be468f314af71362bdddd3af022c5e315b1c878a0fc025e50123cfff47d315ba
 reviewVerdict: first-pass

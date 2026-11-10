@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'adiabaticity%1:19:01::'
 synsetId: 92422925-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: df2e06a2406d1025f9bd93ee5ef7a94a64162c85242469a5407c8d17e068dec7
 simpleMeaning: the state of a change that takes place with no heat gained or lost, so the measure of disorder
   stays the same when the change is slow and steady
 scope: A change with no heat gained or lost and no change in disorder, not a change that gives off heat
@@ -12,5 +10,4 @@ examples:
 - They checked the adiabaticity of the process to see if its heat stayed the same.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1316
-sourceFinalSha256: c2ac2408d0a940fb60b2b62cc9cb5aa510f7e50335dee01423e0599cce763886
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'tonic_solfa%1:10:00::'
 synsetId: 06880930-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1177b46938c4d3caa504adb836b4e194fa2791fa39e0027d64dd84d2566fb337
 simpleMeaning: A fixed set of names for the notes of a scale — do, re, mi, fa, sol, la, ti — used to sing
   each note by name.
 scope: Also called solfa, this is a fixed set of names for the notes of a scale, used to sing each note
@@ -12,5 +10,4 @@ examples:
 - She sang the scale in tonic solfa, do to ti.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 916
-sourceFinalSha256: feb23ef1871f608b965ebd1f35e41e5494087453ac8558fd7a975f9e811f65c8
 reviewVerdict: first-pass

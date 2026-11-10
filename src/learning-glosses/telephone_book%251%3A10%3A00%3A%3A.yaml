@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'telephone_book%1:10:00::'
 synsetId: 06435397-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c26163a8aaf51779aad93dcb3b3c520df9b690acdc7e2acbe9adf0de79f0c020
 simpleMeaning: A list of phone users in ABC order, with each person's phone number
 scope: A list of phone users in ABC order with each person's phone number, also called a phonebook, a
   phone book, and a telephone directory; not a book of addresses and not a yellow pages of firms.
@@ -11,5 +9,4 @@ examples:
 - The telephone book lists every home in the town.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1150
-sourceFinalSha256: 9e2c01bcd9f8d5f47d78efcd142ffb49939ea7b20fa4087f9c0695fb1ac4a73e
 reviewVerdict: first-pass

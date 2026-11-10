@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'anticholinesterase%1:06:00::'
 synsetId: 02720995-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 08c0855d3f47c8cf8c3c38cf23b7f797da923f4146ecfe74d9ca055540b10d4e
 simpleMeaning: a medicine that joins with cholinesterase, a chemical that breaks down acetylcholine, and
   stops it, so acetylcholine can work longer
 scope: A medicine that stops cholinesterase so acetylcholine can work longer, not a drug that blocks acetylcholine,
@@ -12,5 +10,4 @@ examples:
 - An anticholinesterase keeps acetylcholine in place by stopping the chemical that breaks it down.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1322
-sourceFinalSha256: 4292ef68c9787a0d0d1129c21a0f1a7f97fee19a662955455becff5bb3ee9aaf
 reviewVerdict: first-pass

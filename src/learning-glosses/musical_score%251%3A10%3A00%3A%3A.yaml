@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'musical_score%1:10:00::'
 synsetId: 06828572-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6561028fbf7e5f78afa19ae7e624720e73ecf1f3545e1175f8c352233cf6e4c9
 simpleMeaning: A written form of a piece of music, with the parts for each instrument on separate sets
   of lines across big pages.
 scope: A written form of a piece of music, with each instrument's part on a separate set of lines; score
@@ -12,5 +10,4 @@ examples:
 - The conductor marked the musical score before the concert.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1250
-sourceFinalSha256: 7a31a5bf7a6adb9762c335e1ed90401f97bc4771271c61eb4ba61acc3afc84d6
 reviewVerdict: first-pass

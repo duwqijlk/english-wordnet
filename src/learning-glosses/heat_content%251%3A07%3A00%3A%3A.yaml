@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'heat_content%1:07:00::'
 synsetId: 05019456-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ab5a792aa7ad8520937db665c78fb88cec719bd6e31991cabafddfe7be20bc4d
 simpleMeaning: In thermodynamics, a thing's inner power, added to its size times the push it puts out,
   is the whole store of power in it
 scope: 'Also called enthalpy: In thermodynamics, the whole store of power in a thing, not the power it
@@ -12,5 +10,4 @@ examples:
 - Engineers worked out the heat content of the gas before they built the plant.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1401
-sourceFinalSha256: 9be1f6a7945175c3b84cfec7b8188e09bc8825fe3fbfc51449ec7285cf6f5fe6
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stack%1:06:01::'
 synsetId: 04033980-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b4b19bcca22028de9bf552720fe21a6c6cfdb99a3d066c54f5564786d2ecc113
 simpleMeaning: a part of a computer that keeps data so the last thing put in is the first thing taken
   out
 scope: The computer part that holds data in last-in, first-out order, not just the list of data itself,
@@ -12,5 +10,4 @@ examples:
 - When the stack is full, the computer cannot keep another item in this way.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 172
-sourceFinalSha256: 6b842dc3c92ddbc23d35b4544eec47f4623a27f8890bee870f068ffa85ec3533
 reviewVerdict: first-pass

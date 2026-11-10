@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'head%1:06:05::'
 synsetId: 04065833-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 56da0a5bafdc63f7ce7c50dd6e252263d9a2a3f2a9020068bed7634010e3cfcb
 simpleMeaning: in computer science, a small electromagnetic coil and metal rod used to record and read
   magnetic patterns on a disk
 scope: This is the part of a disk drive that records and reads magnetic data, not the body part above
@@ -13,5 +11,4 @@ examples:
 - A dirty head can cause errors when the disk is read.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 72
-sourceFinalSha256: 801b30d8e36b60e608fca6f31e02a830a77d6f0a87b66c32b242f67df7fe7255
 reviewVerdict: first-pass

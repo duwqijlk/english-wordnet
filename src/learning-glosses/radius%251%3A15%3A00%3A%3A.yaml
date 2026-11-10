@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radius%1:15:00::'
 synsetId: 08646153-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 00597050e1347e7af7a6e1b306cab1d6170964cc54b3d6404933c16ea01132a3
 simpleMeaning: a round area around a centre point, whose size is shown by the distance from the centre
   to its edge
 scope: This sense is the round area around a point, not the straight line from the centre to the edge
@@ -12,5 +10,4 @@ examples:
 - Police searched the area within a radius of two miles from the station.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 486
-sourceFinalSha256: 63f9794cc19050de490f6cdd068aa28d306e2663e933c36c453242c6b9bd42f6
 reviewVerdict: first-pass

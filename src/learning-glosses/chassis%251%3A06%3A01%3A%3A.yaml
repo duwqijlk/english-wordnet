@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'chassis%1:06:01::'
 synsetId: 03014310-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f72d45b578cfdc2afb5083569b0c3b65a58a12332aa0282e4c1fe83911c04106
 simpleMeaning: a metal frame that holds the parts of a circuit in an electronic device
 scope: This is the metal frame inside an electronic device, not the steel frame of a motor vehicle that
   holds its body and motor.
@@ -11,5 +9,4 @@ examples:
 - The chassis of the television held all its electronic parts.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 571
-sourceFinalSha256: 93ce7221b08e5efef02a7ca11aabbd0c330791ad4a3d599fa0a1dc732f61ef72
 reviewVerdict: first-pass

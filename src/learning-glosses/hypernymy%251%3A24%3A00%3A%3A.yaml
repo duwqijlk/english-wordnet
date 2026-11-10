@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hypernymy%1:24:00::'
 synsetId: 13830216-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c9768c81b029437aa7161efcd592351929da9c21f6838f421d4282ee5dc46dbf
 simpleMeaning: In the study of word meanings, the link in which one word names a wider group that holds
   another word.
 scope: The word-meaning link in which one word stands above another as the wider term, not the link in
@@ -12,5 +10,4 @@ examples:
 - Hypernymy is the link between a wide word and a narrower one.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1230
-sourceFinalSha256: bb7271bdfe29278ed6820a93e3068d521d54b6b5a245852003ea63b237f5ce95
 reviewVerdict: first-pass

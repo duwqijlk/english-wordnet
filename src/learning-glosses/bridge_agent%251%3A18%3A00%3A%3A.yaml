@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bridge_agent%1:18:00::'
 synsetId: 09894491-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c461efd025baded14293a97741a05bf5f3081ea6650009f6bcae117a3b062726
 simpleMeaning: a person who carries messages between a person in charge and a person who works in secret
   in a place held by the enemy
 scope: A person who passes messages between two others, not a secret agent and not an ordinary courier
@@ -12,5 +10,4 @@ examples:
 - She worked as a bridge agent, carrying sealed notes from the officer to the man in hiding.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1340
-sourceFinalSha256: bb3a748b740ef49be811631e93f3186321a2b758019db06b74cd08507c122ea9
 reviewVerdict: first-pass

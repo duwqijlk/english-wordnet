@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: cold%5:00:00:far:00
 synsetId: 00444844-s
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bbb37e363fb210290f3f74e4218a6e573c8193195c22b17e085a3a66219ccb3a
 simpleMeaning: used of someone searching for something, meaning they are still far from what they are
   trying to find
 scope: This describes a searcher's distance from the goal, not the temperature of the air or a person's
@@ -12,5 +10,4 @@ examples:
 - The children shouted 'cold' whenever the seeker moved farther from the toy.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 66
-sourceFinalSha256: e2bc97848f2bd3b0ad71b6003f7acc7abd6e8b52d365739583d631faa44b9f2c
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'buffet%1:13:00::'
 synsetId: 07591747-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ede030e4b643a798d1da1fdf7e4cee5e808fd5682d6f7eb9c0c47ccae88dc2b7
 simpleMeaning: a meal laid out on a table, where guests take the food for themselves
 scope: A meal laid out for guests to take food for themselves, not a sideboard with shelves and drawers,
   and not food served to each guest at the table.
@@ -11,5 +9,4 @@ examples:
 - We filled our plates at the buffet and sat down to eat.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 352
-sourceFinalSha256: 4ddd18ff181d864fadacd4018b8120a8667a4f7fa875b2ed653822c4480da18b
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'saturation%1:26:00::'
 synsetId: 13948221-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9c93e03b3937d28548e7623ad6d37ebdbba4af1b7dba230df88ea5a96f353d72
 simpleMeaning: a state in which an amount no longer changes, even when something from outside acts on
   it
 scope: A state in which an amount no longer changes under outside action, not the act of soaking something
@@ -12,5 +10,4 @@ examples:
 - Saturation was reached when the amount stopped rising, even though more heat was added.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 629
-sourceFinalSha256: 44cb511def9347ad75b3865d5d917b39d38bedfc6e3aaed56e3b5e51131c954a
 reviewVerdict: first-pass

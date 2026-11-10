@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'compiler%1:10:00::'
 synsetId: 06585776-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f54287d343861b60da57c9f2b7c5c57c31f6a039a9ab325400922a9624f00941
 simpleMeaning: In computer science, a program that changes instructions in a language closer to human
   words into a program in assembly language, a language close to how a computer works
 scope: A computer program that changes code from one language to another, not a person who gathers information
@@ -12,5 +10,4 @@ examples:
 - When the compiler finished, it had made a new assembly language program.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 637
-sourceFinalSha256: 6f681ec5680a0c7fbadaca535e08cb594d3f544cba2483b667eddf1eaa81e9bc
 reviewVerdict: first-pass

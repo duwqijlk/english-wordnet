@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'experimental_extinction%1:09:00::'
 synsetId: 05766689-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ce4f78e2f6b2c3faf2207e7c3972ce9df65acc7efd6feefdadf22ead32290db7
 simpleMeaning: In learning by conditioning, the process in which the reward is taken away and the learned
   response stops depending on the signal that once set it off.
 scope: In learning by conditioning, the process in which the reward is taken away; also called extinction,
@@ -12,5 +10,4 @@ examples:
 - The rat showed experimental extinction after the reward was removed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1209
-sourceFinalSha256: 82d68202495f4642114c77b02069bd58bad1dffbea8b2dd507d20390e0fbad0f
 reviewVerdict: first-pass

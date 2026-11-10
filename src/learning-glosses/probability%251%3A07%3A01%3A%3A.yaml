@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'probability%1:07:01::'
 synsetId: 05098974-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ffc2f39757a16b11c3f2ed0499b399740dbc222f886b06bfcac5e6ca0781b9a4
 simpleMeaning: how likely an event is to happen, given as a number that sets the cases in its favour against
   all the cases that are possible
 scope: 'Also called chance: how likely an event is to happen, shown as a number, not the mere quality
@@ -12,5 +10,4 @@ examples:
 - The probability of rain tomorrow is high, so take an umbrella.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 374
-sourceFinalSha256: 5f658c59dcad154c97a4d4319a7fe9e1aa9724abc7740edb6d05f413ca84a947
 reviewVerdict: first-pass

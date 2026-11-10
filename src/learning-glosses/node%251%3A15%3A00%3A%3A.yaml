@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'node%1:15:00::'
 synsetId: 08515452-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e816f1d92828473ddd80026286d40aa1209a85e97b60d1b55e6734d824c8e31c
 simpleMeaning: In astronomy, a point where the path of a body in space (its orbit) crosses a flat surface
   (a plane)
 scope: In astronomy, this is a point where a path in space crosses a flat surface, not a lump on the body
@@ -12,5 +10,4 @@ examples:
 - At the node, the planet's path crosses the flat surface used to measure it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 523
-sourceFinalSha256: 4175848daf1fff0f5589bddbc5db51dc16fa28bf8259586e2845029bc36aeabb
 reviewVerdict: first-pass

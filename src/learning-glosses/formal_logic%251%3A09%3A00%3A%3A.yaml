@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'formal_logic%1:09:00::'
 synsetId: 06174381-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fced1262521f23c5ccf5e0f545067ddbf34331aced904f0212cad3ce7fa9bf3c
 simpleMeaning: To set tests for whether claims hold together and are sound, any set of rules here looks
   only at the shape of claims, not at what they say
 scope: Mathematical logic and symbolic logic are other names for this set of rules, which looks only at
@@ -12,5 +10,4 @@ examples:
 - She studied formal logic to test whether claims hold together.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 938
-sourceFinalSha256: 27f4772018028868c95c41eef1f3205c1a190ca235265139f6f6474f2ef59b8f
 reviewVerdict: first-pass

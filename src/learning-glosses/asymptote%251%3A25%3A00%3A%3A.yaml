@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'asymptote%1:25:00::'
 synsetId: 13893574-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d2a98799e9bf3436249660a9db42f559d00ae5add51b0bd2bb706c4e2364a29e
 simpleMeaning: a straight line that a curve gets closer and closer to but never reaches, as if it touched
   the curve at a point very far away
 scope: A line a curve draws nearer to without touching, not the curve itself and not a line that crosses
@@ -12,5 +10,4 @@ examples:
 - In the graph, the asymptote ran along the top while the curve rose toward it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1326
-sourceFinalSha256: 7cfd6174aa5dffd376b237d45be153dd66374dc884a872a5b5ddf491a12bb436
 reviewVerdict: first-pass

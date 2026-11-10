@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'on-off_switch%1:06:00::'
 synsetId: 04453086-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 17e1b2f76d50ce0fde9347281856c73d4d571139bcadd9f286971e73e3ee129a
 simpleMeaning: A control that can sit in either of two places, moved by a turn at a joint
 scope: A control that sits in either of two places, also called toggle and on/off switch; not a dial that
   turns through many places and not a button that is only pushed in.
@@ -11,5 +9,4 @@ examples:
 - The on-off switch on the radio was stuck between its two places.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1443
-sourceFinalSha256: d674b40093ca41e8960d6ebd74851191125fa33a2f07914238e871e41bc290fa
 reviewVerdict: first-pass

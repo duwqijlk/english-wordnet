@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sequence%1:11:00::'
 synsetId: 07356983-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 862b51ec4c2a60a27ef1393d822a136d2eda79c40045f44192ab6a2abe10eeac
 simpleMeaning: in music, the same tune played several times, each time using a different set of notes
   built on one main note (a different key)
 scope: 'This is the music sense: a tune played again and again in different keys; it is not things set
@@ -12,5 +10,4 @@ examples:
 - The piano part has a sequence that repeats the same tune in three different keys.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 265
-sourceFinalSha256: 91883712960b345454227f09bd57127eb84131f6d94072c37bc25269c86fa5b4
 reviewVerdict: first-pass

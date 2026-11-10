@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'contradictory%1:24:00::'
 synsetId: 13805471-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d5fbb3d18733021f2b34370add8f13c5731601a8f097b64b2de99a5b389377aa
 simpleMeaning: In logic, two claims of which both cannot be true at once, and both cannot be false at
   once
 scope: In logic, this is a pair of claims that cannot both be true and cannot both be false at once, not
@@ -12,5 +10,4 @@ examples:
 - '''He is here'' and ''He is not here'' are contradictory claims.'
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 430
-sourceFinalSha256: ae34144e7151f83d5c28468d4e4928995e351d39caae726cd02822a195ece246
 reviewVerdict: first-pass

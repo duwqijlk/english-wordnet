@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hardware_error%1:11:00::'
 synsetId: 07314408-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e6035cfb7ae74dcd6bcde828a40757e89cb31b0662fcd52ecb0489f54605f50d
 simpleMeaning: A fault caused by a physical part of a computer going wrong.
 scope: A fault that comes from a broken part of the machine, not a mistake in the program and not a wrong
   keystroke.
@@ -11,5 +9,4 @@ examples:
 - The technician traced the hardware error to a failed memory chip.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1400
-sourceFinalSha256: 1f5fa33ba9ffaf53bef6fa053483e9633350ebb5be04e0b12da800546d0de898
 reviewVerdict: second-pass

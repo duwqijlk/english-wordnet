@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'identity_matrix%1:14:00::'
 synsetId: 08286178-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4db8f2f55676245d8502bad72f967947d5c62aace7e5f95b43509647997b5aa6
 simpleMeaning: In maths, a square grid of numbers with numbers only on the line from the top left to the
   bottom right, and all of those numbers are one
 scope: A square grid of numbers with ones down its middle line, not a grid with a different number down
@@ -12,5 +10,4 @@ examples:
 - The 3 by 3 identity matrix has three ones down its middle line.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1408
-sourceFinalSha256: 4461464edab450219193ba0ebfd32149e3c8f1a6b3de06e4edcbf3ffd52570c6
 reviewVerdict: first-pass

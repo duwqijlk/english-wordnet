@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'lucky_dip%1:04:00::'
 synsetId: 00509351-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d3aad696af41b95496b1c8cac6f35f2f0c0294d080f33f4c799bb08ed126bd1c
 simpleMeaning: In this game, a player pays a small sum, reaches into a box where prizes such as sweets
   or coins lie hidden, and takes one out without seeing it
 scope: A game where a player draws a hidden prize from a box for a small sum, not a raffle with numbered
@@ -12,5 +10,4 @@ examples:
 - He won a small toy in the lucky dip.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 902
-sourceFinalSha256: 6202df3d2c71b6d59c95862cd5e4860a0b9df7b450c9438bb18050c446b74a26
 reviewVerdict: first-pass

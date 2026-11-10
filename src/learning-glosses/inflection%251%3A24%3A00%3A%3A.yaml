@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inflection%1:24:00::'
 synsetId: 13825994-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c1603ed41b85d3ff2fe666b0af1136003f794442c458c5717bd0c89f1a487b70
 simpleMeaning: a change to the end or shape of a word, most often by adding a bit to the end, that shows
   its job in a sentence
 scope: A change in a word's form that shows its job in a sentence, not a change in the loudness or pitch
@@ -12,5 +10,4 @@ examples:
 - In Latin, a noun's inflection changes with its case.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 405
-sourceFinalSha256: 90b3db025a522de541ce273e2283dcc847bb259fbf15ea78305f0f692ace2d24
 reviewVerdict: first-pass

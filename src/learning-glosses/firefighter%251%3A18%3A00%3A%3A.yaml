@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'firefighter%1:18:00::'
 synsetId: 10111420-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9d6860bf42ff0a2e18396df5ac54bfd1d2916e5607e9f1c81c169a230edd00d1
 simpleMeaning: a person who works for the fire service and tries to put out fires
 scope: This is a person who works for the fire service and tries to put out fires; not a person who lights
   fires and not a fire engine.
@@ -11,5 +9,4 @@ examples:
 - Two firefighters worked all night to put out the blaze.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 423
-sourceFinalSha256: 4397bd16618f3a65ab6ce47d32bde332540e2dceb74ae93613365e8939a670f2
 reviewVerdict: first-pass

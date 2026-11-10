@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'alpaca%1:05:00::'
 synsetId: 02440903-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f77e3072fa1d711fa29beaaace435c9a0511d5007b8cc902753c50ebed12dc51
 simpleMeaning: This tame animal, kin to the wild guanaco, is kept for the long soft shiny fleece on its
   back.
 scope: It is the tame animal kept for its long soft shiny fleece, not the cloth made from that fleece.
@@ -11,5 +9,4 @@ examples:
 - An alpaca stood in the field beside the other tame llamas.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1055
-sourceFinalSha256: a4c81b9d6a7b62e9c40efa636657ceed328656b0781c6488f64e4382baec0f09
 reviewVerdict: first-pass

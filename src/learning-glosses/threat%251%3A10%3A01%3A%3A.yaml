@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'threat%1:10:01::'
 synsetId: 06746225-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 81d6a5e0be9caeb9c6a11674dd969364ee89f3e25d55735f9303ad796d3c3a6f
 simpleMeaning: words that a person says or writes to tell another person that they will hurt them
 scope: Words a person says or writes to say they will cause harm, not a sign that something bad is about
   to happen.
@@ -11,5 +9,4 @@ examples:
 - She took his threat seriously and called the police.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 163
-sourceFinalSha256: 17f44f5cbb870f81322bbd593751a6baf9cc33da92cf18f3b2d3550ecf35488e
 reviewVerdict: first-pass

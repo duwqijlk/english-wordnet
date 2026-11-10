@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'watt%1:23:00::'
 synsetId: 13666001-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e7f8e8e0820570bcfd5fcad2218a40198fba7047e67edbcc0c87c58a96bd3d0f
 simpleMeaning: a unit of power equal to 1 joule per second, or to the power used up when a current of
   1 ampere flows through a resistance of 1 ohm
 scope: A unit for measuring power, not a unit of energy itself.
@@ -11,5 +9,4 @@ examples:
 - The heater is rated at 1,000 watts.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 514
-sourceFinalSha256: 9d2829f41f87a6bfd2ac53a81485c761d45dc42b1875d62c8255658cc725ffda
 reviewVerdict: first-pass

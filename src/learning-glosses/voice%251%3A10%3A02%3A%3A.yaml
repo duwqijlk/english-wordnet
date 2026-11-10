@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'voice%1:10:02::'
 synsetId: 07044205-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a5774a35acbdc548007630383257aea6e387fd048ab2965e7d905c7d4b50e652
 simpleMeaning: The tune or melodic line carried by one singer or instrument in music where several independent
   parts sound at once.
 scope: This is a melodic part in music, not the sound of a person speaking, and not a right to be heard.
@@ -11,5 +9,4 @@ examples:
 - The cello plays the lower voice in this fugue.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 64
-sourceFinalSha256: 84853b7be4b8585c510146126adcc6cdd39b62ca070545117e54ad738fcabfd5
 reviewVerdict: first-pass

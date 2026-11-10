@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'exit_poll%1:09:00::'
 synsetId: 05809294-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 06bf00de2e5016c29ac2109c6744e1823df1585b838f0d3ba807a87530a88daf
 simpleMeaning: A count of votes asked of people as they come out of the place where they vote, most often
   done by news groups to guess who will win.
 scope: A count of votes asked of people as they leave the voting place, not a count before the vote and
@@ -12,5 +10,4 @@ examples:
 - News groups ran an exit poll outside the voting place.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1087
-sourceFinalSha256: e56c108c0a73a863d40d60cc92645689e536c4528ef29b31d24bdf87196c85f1
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'base_pair%1:27:00::'
 synsetId: 14654947-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b25469b4382dbaf03d43fd0337168ef9dc3bf4d1608488b4019de1f0cf2ed5ba
 simpleMeaning: 'One of the links between matching DNA strands (or double-stranded RNA), where hydrogen
   bonds join two building blocks: adenine joins thymine, guanine joins cytosine, and uracil replaces thymine
   in RNA.'
@@ -13,5 +11,4 @@ examples:
 - One changed base pair was enough to alter the protein.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 91
-sourceFinalSha256: 43fad67d1b5fbc9bc8df2910c2fb29702e838c03268bfd2e064e427da2933b7d
 reviewVerdict: first-pass

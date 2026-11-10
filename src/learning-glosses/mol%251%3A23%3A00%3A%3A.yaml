@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mol%1:23:00::'
 synsetId: 13746191-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f32834b6e6f9e87e9826621e78c16e5506814ae631fb5e78945a8db7ab38b9de
 simpleMeaning: a unit for how much of a thing there is in the world system of units, equal to its smallest-part
   weight in grams
 scope: 'Also called a mole: a unit for how much of a thing there is, worked out from the weight of its
@@ -12,5 +10,4 @@ examples:
 - The chemist measured out two mol of the salt.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 305
-sourceFinalSha256: 2f1790a871ddb325543fce6dcf657a581159acfb7718a55c3471383e27cf4c1f
 reviewVerdict: first-pass

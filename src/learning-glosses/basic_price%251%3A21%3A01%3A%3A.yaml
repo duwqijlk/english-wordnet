@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'basic_price%1:21:01::'
 synsetId: 92414340-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4a75562158bcbf28de6696dee2881a86a52f2e4499a568d18c783a9132fe9e60
 simpleMeaning: The sum counted for a good or a job once the buyer-paid tax is set aside and the state's
   gift to the seller is counted in.
 scope: This is the starting sum for a good or a job, before tax is taken off and the seller's subsidy
@@ -12,5 +10,4 @@ examples:
 - The shop set a basic price for the machine before adding the tax.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1061
-sourceFinalSha256: 7e3b41d71e7d486751129c32e0d4bf72ab466fb3a22a53ba42f93f1f1b537770
 reviewVerdict: first-pass

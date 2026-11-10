@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'block%1:23:00::'
 synsetId: 13647935-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0a0a8b0a91f5847156d636e31d8865d653a16781d5c5bbc159f70ba37368ab50
 simpleMeaning: In computing, the smallest allowed amount of data, made up of one or more sections of a
   disk called sectors.
 scope: A unit of data in computing, one or more sectors treated as the smallest permitted amount; not
@@ -13,5 +11,4 @@ examples:
 - The program reads the data one block at a time.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 79
-sourceFinalSha256: dfaf525da6593496857faeade94d68497b215a178f21c1f004d11ac4553a922e
 reviewVerdict: self-approved

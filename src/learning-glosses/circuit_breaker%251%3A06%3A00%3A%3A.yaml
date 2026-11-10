@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'circuit_breaker%1:06:00::'
 synsetId: 03038229-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: de14fa6dc87fa341e0daab6b4ae72aed3da8dbcf74e1f9474248885981c372a3
 simpleMeaning: A device that cuts off the power, like a switch, when too much power runs through it
 scope: A device that cuts off the power, like a switch, when too much power runs through it; breaker is
   another name for this sense, not a fuse that melts to cut power and not a plain switch worked by hand.
@@ -11,5 +9,4 @@ examples:
 - Reset the circuit breaker after the lights go out.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1187
-sourceFinalSha256: 3f4006c53895a6b924ff0c2922dae6242c18c5d852b4860e9195971f3ffb55b0
 reviewVerdict: first-pass

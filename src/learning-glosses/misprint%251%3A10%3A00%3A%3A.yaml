@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'misprint%1:10:00::'
 synsetId: 06782461-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 177631395accd8487447574c9a87ae95729945ff60140c0ce7b35ffa594c4790
 simpleMeaning: a mistake in something printed, caused by a machine failing in some way
 scope: 'Also called literal, and also called typo: a mistake in printed words, caused by a machine failing
   in some way. It is not a mistake in handwriting, and it is not a wrong word a writer chose.'
@@ -11,5 +9,4 @@ examples:
 - A misprint in the newspaper turned the word 'cat' into 'car'.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 653
-sourceFinalSha256: 59a0d92f4dbd87a4d51881231db9492b9165e9f69611a7291e4fb791ddbec76c
 reviewVerdict: first-pass

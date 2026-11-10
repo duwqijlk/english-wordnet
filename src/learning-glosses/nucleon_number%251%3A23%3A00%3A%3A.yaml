@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'nucleon_number%1:23:00::'
 synsetId: 13737719-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 75d9d206ded744ccdba1c896e94f2ddd05a3909755c17ec5bb77279324544ace
 simpleMeaning: The total count of the neutrons and protons in the heart of an atom
 scope: The total count of the neutrons and protons in the heart of an atom, with mass number as another
   name for this sense; not the count of electrons, and not the weight of the atom.
@@ -11,5 +9,4 @@ examples:
 - To find the nucleon number, add the protons and neutrons.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1254
-sourceFinalSha256: ecfa20c61fc1e1a238f871d0a0cd289eb537f72b1cc4d97c951e3e97eb8f8660
 reviewVerdict: first-pass

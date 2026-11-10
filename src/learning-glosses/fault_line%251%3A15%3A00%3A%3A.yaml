@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fault_line%1:15:00::'
 synsetId: 08587120-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4f7a6047da74775e3e2db7868dc590cd085c138b6fb43eec847bb9034fcbfd26
 simpleMeaning: In geology, the place on the ground where a break in the rock meets the surface
 scope: This is where a break in the rock reaches the ground, not the break itself deep underground and
   not a line drawn on a map.
@@ -11,5 +9,4 @@ examples:
 - They mapped the fault line before building the road.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1089
-sourceFinalSha256: 5ef0372ed889c634f0b7547bbaec8fb4fbe1402fa6fa0992f9e53a1ff20cd7af
 reviewVerdict: first-pass

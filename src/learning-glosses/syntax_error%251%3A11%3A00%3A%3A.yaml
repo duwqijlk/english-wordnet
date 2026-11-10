@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'syntax_error%1:11:00::'
 synsetId: 07315112-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0807b152f6037b2dee2a86799a5f0bfd6544368e7eb5b6ab9d7b162cf16a9132
 simpleMeaning: a mistake in a computer program where the written code breaks the rules of the language
   it is written in
 scope: This is a mistake in the written code of a program, not a mistake in what the program is meant
@@ -12,5 +10,4 @@ examples:
 - The compiler found a syntax error on the first line.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1296
-sourceFinalSha256: 79dd2f28b3d875b5a2910b1da13b631149d47a2172fc5aefccaae71ea8da2548
 reviewVerdict: first-pass

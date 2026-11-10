@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'weather_vane%1:06:00::'
 synsetId: 04575355-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 44dc604f8d541fc09d1a30cee555ca1a1b6629cdab4d4bb9785fb8a34b50352a
 simpleMeaning: a tool fixed high up that turns on its own to show which way the wind blows
 scope: 'Also called vane, weathervane and wind vane: a tool fixed high up that turns on its own to show
   which way the wind blows, not a flag and not a tool that tells how hard the wind blows.'
@@ -11,5 +9,4 @@ examples:
 - She looked up at the weather vane to see which way the wind blew.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1309
-sourceFinalSha256: c28792a869410799caebac3996d5ac33acb02f1e16696821fce12743db4f3721
 reviewVerdict: first-pass

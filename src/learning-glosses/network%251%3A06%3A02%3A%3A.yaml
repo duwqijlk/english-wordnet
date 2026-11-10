@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'network%1:06:02::'
 synsetId: 03826268-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7a95db64aab4d2bec94064bd6829a95944c1d895754f1c5df5e89b6413ac3568
 simpleMeaning: In electronics, a set of linked parts or circuits that work together.
 scope: This is a set of linked electronic parts or circuits, not a general system of connected things
   or people, not a group of broadcasting stations that air the same programs, not a fabric of woven string,
@@ -13,5 +11,4 @@ examples:
 - Each part in the network is connected to at least one other part.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 74
-sourceFinalSha256: ed1591d24f6259be89ab28419a0c4f4ccf684a305af0667fe4c8d69d24854e90
 reviewVerdict: self-approved

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'kilometers_per_second%1:28:01::'
 synsetId: 92416943-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 03551a4ad2ea0201276252a37d16a253ecd470aac115c20a5686e3416945d123
 simpleMeaning: The length a thing covers in one sixtieth of a minute shows its speed
 scope: A speed got by dividing the length covered by the time taken, with time counted in sixtieths of
   a minute; also called kilometres per second and km/s, not a speed counted in sixty-minute units.
@@ -11,5 +9,4 @@ examples:
 - The rocket moved at 7 kilometers per second.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1416
-sourceFinalSha256: 8f35c2689e397b870939adb35f1ab1d6efc8a233685306dcfd402485de01ea04
 reviewVerdict: first-pass

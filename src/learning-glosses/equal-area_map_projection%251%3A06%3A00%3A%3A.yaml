@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'equal-area_map_projection%1:06:00::'
 synsetId: 03298382-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f88eb037594df252046af9371927700adb03da48f17214682316b593a1f872b5
 simpleMeaning: A way to draw the earth flat so four-sided shapes from lines north to south and east to
   west keep their size in relation to their size on the globe.
 scope: A way of drawing the earth flat that keeps the true size of shapes, also called equal-area projection;
@@ -12,5 +10,4 @@ examples:
 - Teachers like the equal-area map projection because it shows land sizes fairly.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1087
-sourceFinalSha256: e56c108c0a73a863d40d60cc92645689e536c4528ef29b31d24bdf87196c85f1
 reviewVerdict: first-pass

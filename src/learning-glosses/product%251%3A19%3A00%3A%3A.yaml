@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'product%1:19:00::'
 synsetId: 11435956-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: db358d0486fe7e3e4c061cb3f3b4fcd4c1fc6f1f43e85437cf5aef934a6eaf3c
 simpleMeaning: Something that results from a person's work or from the conditions surrounding an event.
 scope: 'This is the sense of an outcome caused by effort or circumstances; distinct from product%1:27:00::
   (a substance formed by a chemical reaction), product%1:06:00:: (a thing made by a process), product%1:06:01::
@@ -13,5 +11,4 @@ examples:
 - The riot was the product of hunger, heat, and a long, bitter summer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 76
-sourceFinalSha256: 91cd4cee1f42e0b8f16479f2eb5495a5151bb6ea188cebddd230230fc1887c74
 reviewVerdict: first-pass

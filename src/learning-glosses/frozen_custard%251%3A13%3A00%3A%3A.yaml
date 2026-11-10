@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'frozen_custard%1:13:00::'
 synsetId: 07632660-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8a9cad20864bca971bfe80b1c2c62075ec832c0015e70ac9d9125464cc3e425d
 simpleMeaning: A cold sweet dish like ice cream, but made with a base of boiled egg, milk and sugar
 scope: A cold sweet dish with a boiled egg base, not plain ice cream and not frozen yogurt.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Frozen custard is thicker than ice cream.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1216
-sourceFinalSha256: 8ced8e59e430eca8770df42d081477012197c5b5a43a362a388039af1a7b18c0
 reviewVerdict: first-pass

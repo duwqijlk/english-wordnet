@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'affine_transformation%1:24:00::'
 synsetId: 13808177-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 86ff7ec49ba4688112d9d9b27edc50c511fd516502daaf806acd9e8033c1bda4
 simpleMeaning: In mathematics, several single changes — a shift, a turn, or a flip over a line — joined
   into one change.
 scope: In mathematics, a change built from single changes put together, not one shift alone and not one
@@ -12,5 +10,4 @@ examples:
 - The affine transformation joined a shift and a turn into one change.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 920
-sourceFinalSha256: d8f785bd4ab901d159f95ba6f9349335a87068bd78605de875925527c10f66d3
 reviewVerdict: first-pass

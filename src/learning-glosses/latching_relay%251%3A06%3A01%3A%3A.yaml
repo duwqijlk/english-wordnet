@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'latching_relay%1:06:01::'
 synsetId: 92463799-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f184b9311e5e83a3b3861e60d26c5f2aef9257e5297ee9a59cddb591ffcba566
 simpleMeaning: Either of its two settings is held by this switch, even when the wire that moves it gets
   no power
 scope: 'Also called bistable relay, impulse relay and keep relay: a switch that holds either position
@@ -12,5 +10,4 @@ examples:
 - A latching relay lets the lights be switched from far away without a constant hum.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1418
-sourceFinalSha256: 8b374d0a210e944de050394adf34b2261c3b8dc8cee432a45e08326bea264289
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radian%1:23:00::'
 synsetId: 13633285-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b2af738162c7c7f2e2eb5b0dc39af8cc15425256f718401126424c21e8b25a4f
 simpleMeaning: 'Take an arc along a circle''s edge as long as the radius: the angle it makes at the centre
   is the standard international measure of angles, about 57.3 degrees.'
 scope: The same angle unit that the abbreviation rad names; not the rad used for absorbed radiation dose,
@@ -12,5 +10,4 @@ examples:
 - The telescope's tracking angle is recorded in radians, not degrees.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 114
-sourceFinalSha256: 18c3f129ac2b7be5d4fdf35d640c84e172de87b1b58d491f780f7a62c1cf4a91
 reviewVerdict: first-pass

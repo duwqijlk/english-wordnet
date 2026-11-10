@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'medical_intern%1:18:00::'
 synsetId: 10230873-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f2feef6299453e30a7259dde35c84cee350103ef0c847571a8c512871cf675b6
 simpleMeaning: Under a senior doctor's watch, a student near the end of training, or a new doctor, learns
   by doing real work
 scope: 'Also called intern, houseman or interne: a student near the end of training, or a new doctor,
@@ -13,5 +11,4 @@ examples:
 - The medical intern took my blood pressure before the doctor arrived.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1430
-sourceFinalSha256: 4ac91b9aa5ba25038530c8edefd24a229893fd8dc52f7cb31771fa42b9fb2d49
 reviewVerdict: first-pass

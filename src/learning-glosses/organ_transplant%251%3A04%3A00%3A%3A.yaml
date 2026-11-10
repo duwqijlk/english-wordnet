@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'organ_transplant%1:04:00::'
 synsetId: 00694932-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ebbdea81c6294f07166673d8fdfa4ff371d09145c9c9b2e2c329287b8216d5a4
 simpleMeaning: A body part is taken from one living being, the giver, and put into another, the one who
   gets it, in an act done by a doctor
 scope: Moving a body part from one living being to another, also called transplant; not a gift of blood
@@ -12,5 +10,4 @@ examples:
 - The organ transplant gave him a new kidney.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1444
-sourceFinalSha256: ee0fe06ff5d2c16c5d432d2fa01ec1a1318478ef856b44987aaa805022e9b805
 reviewVerdict: first-pass

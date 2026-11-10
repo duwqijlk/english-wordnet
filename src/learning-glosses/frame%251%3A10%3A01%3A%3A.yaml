@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'frame%1:10:01::'
 synsetId: 06582981-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 060f583eb1b795bcc6fa2a9de61e166fd6250d63ab28a74d83daa276a4d6628f
 simpleMeaning: a computer program that splits a user's screen into two or more windows, and the things
   shown in each window can be moved up or down on their own
 scope: This is a computer program that splits a screen into windows, and the things shown in each window
@@ -13,5 +11,4 @@ examples:
 - The website uses a frame on the left for the menu and a frame on the right for the text.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 156
-sourceFinalSha256: fa5d5549373f8a93a1f7157d469f08af0351121a4aaa03bff021553a647e0142
 reviewVerdict: first-pass

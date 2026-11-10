@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'virus%1:10:00::'
 synsetId: 06597992-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 131a1eea1eff9e88a530aee344009a755b53b6be2289f6cf3a83ff4b6b8e7c8f
 simpleMeaning: a computer program that copies itself and usually harms files or other programs on the
   same computer badly
 scope: 'This is the computer sense: a harmful program that copies itself. It is not the tiny thing that
@@ -12,5 +10,4 @@ examples:
 - He used a safety program to find and remove the virus.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 243
-sourceFinalSha256: 0d3b079fd252afbf19d76f999fbc116d730ef9a8aadbf6fa146ce43c93417902
 reviewVerdict: first-pass

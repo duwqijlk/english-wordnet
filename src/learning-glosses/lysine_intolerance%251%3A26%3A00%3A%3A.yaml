@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'lysine_intolerance%1:26:00::'
 synsetId: 14217665-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fbe4dd8656b49d298decc32c07c2b58c9d27daf479a3c068e9e0c680d148df3c
 simpleMeaning: A health problem in which the body lacks certain enzymes, so it cannot break down and use
   one of the building blocks of protein.
 scope: A health problem in which the body cannot break down one building block of protein; not an allergy
@@ -12,5 +10,4 @@ examples:
 - Lysine intolerance was found when the baby failed to grow.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1110
-sourceFinalSha256: cbc777c248e7b0bc2ffb10bab7b3603341adcad9f178e07742eaa4fe4ed1226f
 reviewVerdict: first-pass

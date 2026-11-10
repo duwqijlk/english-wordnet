@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bandwidth%1:23:00::'
 synsetId: 13600713-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 664dd2a35e9d4b447bcdab2ad69f1403f85ee16ecc725dbf8270e25f5e803db6
 simpleMeaning: how fast data can be sent, and the most data that can be sent in one second along a path,
   measured in bits (small pieces of data) per second
 scope: This is about how much data can be sent and how fast, not a person's time or power to do things,
@@ -12,5 +10,4 @@ examples:
 - This connection has enough bandwidth to send large files quickly.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 622
-sourceFinalSha256: 4b713b1b83a507eb6625fc47c9e13c50b5ddef91315edc2c87f652e092f1e0f1
 reviewVerdict: first-pass

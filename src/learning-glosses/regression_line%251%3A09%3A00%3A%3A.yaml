@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'regression_line%1:09:00::'
 synsetId: 06038836-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ce6874a9ae6ba44aa1e087785a2d136928670bbfca068b0836414a50c1226e9a
 simpleMeaning: A smooth curve fitted to a set of paired data in regression analysis; for linear regression,
   the curve is a straight line.
 scope: Also called a regression curve, this smooth curve through paired numbers is a straight line when
@@ -12,5 +10,4 @@ examples:
 - They drew a regression line through the paired numbers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 959
-sourceFinalSha256: 3812c22f42c0c47b7d92cad5c9c6c4bf4246d46d6e2b9cd7ae7a6308917e5883
 reviewVerdict: second-pass

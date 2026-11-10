@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'retailer%1:18:00::'
 synsetId: 10545011-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d6893032d2e0633d4da1667f5969f0fc8dc3ec2902954321de300ac864059ab8
 simpleMeaning: a person or shop that sells goods to people who buy them for their own use
 scope: A seller who sells to people for their own use; not a seller who sells goods in large amounts to
   other shops.
@@ -11,5 +9,4 @@ examples:
 - A small retailer on our street sells fresh bread and milk.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 582
-sourceFinalSha256: 302cab331619455239cde93ea91a6b50abafef5a017c98a2ac6624d05d08130b
 reviewVerdict: first-pass

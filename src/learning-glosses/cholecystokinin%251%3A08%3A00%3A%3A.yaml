@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cholecystokinin%1:08:00::'
 synsetId: 05416479-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b838bb0dd33eb0e2254fed6e68a8332eda0ca186f5a70dc310fcd72649a26871
 simpleMeaning: A digestive hormone (a chemical messenger) that makes the pancreas release enzymes and
   the gall bladder tighten and empty; fats and proteins in the small intestine trigger its release.
 scope: This is the body's own gut hormone, not a digestive enzyme or a drug that mimics it.
@@ -11,5 +9,4 @@ examples:
 - The doctor measured cholecystokinin levels after the patient ate.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 96
-sourceFinalSha256: 83acb82a5ae64faebda532e7c5c27681fe51ee262d22319a999aae55ca8799cc
 reviewVerdict: first-pass

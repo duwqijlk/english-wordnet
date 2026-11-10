@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'frequency_distribution%1:09:00::'
 synsetId: 06034929-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 607bca5846d293f7bb91a7a3caa1c79c4d440ee2285dd4861bfe46349e963d80
 simpleMeaning: A list or chart showing how often each value of a thing that can change has been seen to
   occur
 scope: A showing of how often each value occurs, not a single counted value and not a list of chances
@@ -12,5 +10,4 @@ examples:
 - A frequency distribution of heights tells how many pupils are of each height.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1216
-sourceFinalSha256: 8ced8e59e430eca8770df42d081477012197c5b5a43a362a388039af1a7b18c0
 reviewVerdict: first-pass

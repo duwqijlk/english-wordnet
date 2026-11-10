@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'weight%1:07:00::'
 synsetId: 05034009-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4bed0ba0b87bedf314fdff9927d6f9da0dfed8c629877bebfbb62defd45181ee
 simpleMeaning: the downward pull of gravity on an object, which makes it feel heavy.
 scope: This is the force of gravity on an object, not a gym object you lift and not how important something
   is.
@@ -11,5 +9,4 @@ examples:
 - On the Moon, your weight is much less than on Earth.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 21
-sourceFinalSha256: 51bbc70d460a9c4c674e33072dafa6c8d859b0be15471350e8b626fbcaebc1f6
 reviewVerdict: first-pass

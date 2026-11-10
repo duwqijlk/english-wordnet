@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'master%1:06:00::'
 synsetId: 03732765-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e623e632e9dc65921ebc81d8e0b9b016a20fb91f8a62d82be2bfcf012f4ad5d6
 simpleMeaning: the original from which copies are produced, such as a recording
 scope: The first recording or other original item from which later copies are made; not the important
   adjective sense (master%5:00:00:important:00), not a highly skilled artist (master%1:18:00::), not a
@@ -15,5 +13,4 @@ examples:
 - They lost the master, so every copy now comes from a second-generation tape.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 77
-sourceFinalSha256: 697c53a60463fbe070960ad03457b00110b05daedfe30dd1e14f9a6e2d358e5f
 reviewVerdict: first-pass

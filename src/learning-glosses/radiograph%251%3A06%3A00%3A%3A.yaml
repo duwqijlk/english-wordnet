@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radiograph%1:06:00::'
 synsetId: 04049438-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cc6c9a4925d48c222d3f59861cb440aff90aa53fac04db3ad1a32abebe958df7
 simpleMeaning: On a surface that answers to rays you cannot see, this picture is made, above all by X-rays
   or gamma rays.
 scope: This picture, also called radiogram, shadowgraph, skiagram and skiagraph, is made by unseen rays
@@ -12,5 +10,4 @@ examples:
 - The radiograph showed the inside of his chest.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 958
-sourceFinalSha256: 8f3a485b45033da8f53f6185f88ad924b1c4d0f195c143a0979fbb44babb2100
 reviewVerdict: first-pass

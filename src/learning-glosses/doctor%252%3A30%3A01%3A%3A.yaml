@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'doctor%2:30:01::'
 synsetId: 00261534-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 396dfda151360c5ab8d21ef429c9d7dd55ce530f0f08e5b0cc1d19ea652957b5
 simpleMeaning: to make something work again by fitting a new part in place of a damaged one or by joining
   together pieces that have been torn or broken.
 scope: This is not the medical sense of treating a sick person, and not the sense of changing a document
@@ -12,5 +10,4 @@ examples:
 - The old clock was doctored so carefully that it ran like new.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 28
-sourceFinalSha256: fc8696aa6e575f78efaa9e05327619b1ae760113b86738e6d75025f2182115ee
 reviewVerdict: first-pass

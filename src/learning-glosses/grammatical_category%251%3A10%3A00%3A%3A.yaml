@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'grammatical_category%1:10:00::'
 synsetId: 06320373-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8915e99f4a410dcdbc4aca2e884737e89a58bfbf4239fe67d67ce6b3cbbf4c0d
 simpleMeaning: In grammar, a group of words that all work in the same way in a sentence
 scope: In grammar, a group of words that work the same way in a sentence, not one word and not a group
   of words with different jobs.
@@ -11,5 +9,4 @@ examples:
 - The teacher asked which grammatical category the word belonged to.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1397
-sourceFinalSha256: d59b8bb210f100e73b27eb6c6c903715169e21229d06bb0576fcfe6c70eae2cc
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'corridor%1:06:00::'
 synsetId: 03116750-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4b7a3c6f478cf010836f6e613328736c162f85a678821ebee96f29057ebc37a8
 simpleMeaning: a way inside a building with walls on both sides, where rooms usually open out to it
 scope: This is a way inside a building that leads to rooms. It is not a room itself and not a way outside
   a building.
@@ -11,5 +9,4 @@ examples:
 - We waited in the corridor outside the office.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 156
-sourceFinalSha256: fa5d5549373f8a93a1f7157d469f08af0351121a4aaa03bff021553a647e0142
 reviewVerdict: first-pass

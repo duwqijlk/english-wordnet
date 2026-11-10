@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'text%1:10:01::'
 synsetId: 06400222-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 96c369787208d35e2dacd8dac1fcde54262b0b5065dd0018d048100571984ffc
 simpleMeaning: the main written part of a work, not its pictures, notes, or other extra material
 scope: This is the central written content of a book or article, not a short phone message and not a textbook.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She read the text first and looked at the pictures later.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 66
-sourceFinalSha256: e2bc97848f2bd3b0ad71b6003f7acc7abd6e8b52d365739583d631faa44b9f2c
 reviewVerdict: first-pass

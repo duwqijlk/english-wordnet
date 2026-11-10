@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gluten-free_diet%1:13:00::'
 synsetId: 07578549-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2b92c22fcaf0515428c8abad81b8878d1efbc1ef68efc8c5bc0322950fd978e9
 simpleMeaning: A prescribed way of eating for celiac disease that leaves out wheat, rye, oats, beans,
   cabbage, turnips, cucumbers and similar foods rich in a protein that must be avoided.
 scope: This is the eating plan prescribed to treat celiac disease by removing wheat, rye, oats and other
@@ -13,5 +11,4 @@ examples:
 - He checks every label carefully because his gluten-free diet rules out wheat, rye and oats.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 111
-sourceFinalSha256: 1030ad98129d32b36db60e98f6adedbdd19f919f9e9ad18aab7ad35bbb0aed3a
 reviewVerdict: first-pass

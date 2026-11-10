@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'timer%1:06:01::'
 synsetId: 04445641-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 40a36b5f569dcba7bf64058ce61b3fadbe6bd0af5760b805f7b1213bde688b2d
 simpleMeaning: a device that switches a machine on or off at times fixed in advance
 scope: A device that switches a machine on or off at set times; not a clock that only shows the time or
   measures a stretch of time.
@@ -11,5 +9,4 @@ examples:
 - The timer switched the heater off at midnight.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 433
-sourceFinalSha256: b9171a66653e16118cd73adafa82917e938ff6e8a9f7c80820577f0e9b52cf78
 reviewVerdict: first-pass

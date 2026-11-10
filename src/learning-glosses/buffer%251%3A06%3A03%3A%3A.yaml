@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'buffer%1:06:03::'
 synsetId: 02914831-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b6e1b72cda180cbf6733681d943a12f64854689d8d6e4c3949ed865175f83ea9
 simpleMeaning: In computers, a part of memory holding data briefly while it waits to be sent to a device,
   evening out the different speeds of the parts of the computer
 scope: In computers, a part of memory holding data briefly while it waits to be sent to a device, evening
@@ -13,5 +11,4 @@ examples:
 - Data waits in a buffer until the printer is ready.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 460
-sourceFinalSha256: eed42b7497207ca273aa57998545867d54b1cbb53bdcf5e58ded9c55899e07a4
 reviewVerdict: first-pass

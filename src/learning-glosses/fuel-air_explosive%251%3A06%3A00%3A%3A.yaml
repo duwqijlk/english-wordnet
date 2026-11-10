@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fuel-air_explosive%1:06:00::'
 synsetId: 03405304-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2a793f51ff10982641a98a2e61117549dd4973bccd958e3bf7b17dcd06ae36b9
 simpleMeaning: 'A device with flammable material and two charges: one opens the tank at a set height,
   spreading a cloud that mixes with oxygen; the other ignites it, burning everything below.'
 scope: A two-charge weapon that turns fuel into a cloud and then ignites it, producing a wide blast; it
@@ -12,5 +10,4 @@ examples:
 - Fuel-air explosives spread a cloud of fuel before igniting it, creating a powerful pressure wave.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 92
-sourceFinalSha256: b61a7c90b4f07974b09449cd17468ede9f61706d1e619bbc611801c821fcb9a7
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radiance%1:19:00::'
 synsetId: 11483770-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 61c6de493917b25c7fb3a4c5b19fcc4e9cc1a21518350b0bbb60d5d921c1e592
 simpleMeaning: at one small spot on a surface, the amount of ray energy, of the kind light is made of,
   that comes to it or leaves it
 scope: 'Also called glow and glowing: the amount of ray energy at one spot on a surface, not the bright
@@ -12,5 +10,4 @@ examples:
 - The radiance leaving that spot on the surface was higher at noon.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 401
-sourceFinalSha256: 0c3f20ebd3288eb9b9e2c0bcb659da5473e4450f27a4909ad317f8ce030bd900
 reviewVerdict: first-pass

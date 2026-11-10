@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cancer_drug%1:06:00::'
 synsetId: 02725383-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a87378bb9b985c0f94a41a89739555b623a1e0abc13b809aade729b148335d0b
 simpleMeaning: In chemotherapy, one of several medicines holds back or kills growing sick cells, though
   all can bring on feeling sick, throwing up, hair loss, and bone marrow working less well.
 scope: One of several medicines used to hold back or kill growing sick cells, also called antineoplastic
@@ -12,5 +10,4 @@ examples:
 - After the cancer drug, she felt sick and lost some hair.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 927
-sourceFinalSha256: 6757858ae320ee02cf8f53f5003b4b0e971cbea4b2e0bbcf47be9803a472e99a
 reviewVerdict: first-pass

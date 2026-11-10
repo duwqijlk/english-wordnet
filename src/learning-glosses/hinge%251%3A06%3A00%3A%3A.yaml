@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hinge%1:06:00::'
 synsetId: 03526239-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 66a7f508506632aa1e7640ce2d709503b38fae0e014ab81e7e47f2cb8f51ea01
 simpleMeaning: a part that joins two pieces and lets one piece swing while the other piece stays in place
 scope: A real part that lets a door or lid swing, not the key fact that later events depend on and not
   the act of fixing such a part in place.
@@ -11,5 +9,4 @@ examples:
 - One hinge on the box lid broke, so the lid would not stay up.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 268
-sourceFinalSha256: ef50ea037658e122cb2cf0d08f7593085264f7f9fd74ff24e5e26714d42cd343
 reviewVerdict: first-pass

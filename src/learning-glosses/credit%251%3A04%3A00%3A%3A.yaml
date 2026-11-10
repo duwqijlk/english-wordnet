@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'credit%1:04:00::'
 synsetId: 00066675-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0efb49d3f1f8cafd0b87480ef874d02b1fb7ece86d5c6a109120fb1e4bd716da
 simpleMeaning: a college or university's official recognition that a student has passed a course, usually
   counted in hours for each semester
 scope: This is the academic unit for finishing a course, not praise for an achievement or a lender's trust
@@ -12,5 +10,4 @@ examples:
 - He needs six more credits to graduate.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 67
-sourceFinalSha256: fe525cbe62ad9e2cf1dfafab5c32da8d3a488da46a5a0cdeacb14f76cf8cfda6
 reviewVerdict: first-pass

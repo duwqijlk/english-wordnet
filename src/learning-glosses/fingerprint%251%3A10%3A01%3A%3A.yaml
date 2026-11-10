@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fingerprint%1:10:01::'
 synsetId: 06657156-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fd5410bfac9dbf6581c54a85381c9a9cc3696aefefd31c9d9fe65a9c3d4a12e0
 simpleMeaning: a mark left by the raised lines on a finger, often used by police to tell who a person
   is when they look into a crime
 scope: A mark from the lines on a finger, often used by police to tell who a person is; not a dirty mark
@@ -12,5 +10,4 @@ examples:
 - His fingerprint was used to prove he had been at the scene.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 261
-sourceFinalSha256: c1a88cfc3dee572bf1c7a6d259f799223040920b222475702629e095215e63c6
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'selsyn%1:06:00::'
 synsetId: 04177755-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7019f02afeca6c20d72c5f0af9eac1df4633a383a66d6343dd917c8d0e410b06
 simpleMeaning: a pair of machines, one that makes power and one that uses it, wired so the second takes
   the same place as the first, the two moving in step
 scope: Also called a synchro; a linked pair of machines that move in step, not a single motor on its own.
@@ -11,5 +9,4 @@ examples:
 - A selsyn links the generator to the motor.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 877
-sourceFinalSha256: de579f1fb5efc7677e45c877fc5c9098ef9e410ec73ecd269dfa030cc2b9bf9c
 reviewVerdict: first-pass

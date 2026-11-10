@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'turnpike%1:06:00::'
 synsetId: 04508313-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d7c891e51e9b6985e7a905ad0a41126a7f057deebf2cc916e0d84c218bdfe8ba
 simpleMeaning: a wide fast road where drivers must pay money to use it
 scope: This is the road itself that drivers pay to use, not the old gates across a road that stopped people
   until they paid.
@@ -11,5 +9,4 @@ examples:
 - Drivers pay at a booth before they enter the turnpike.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 596
-sourceFinalSha256: c68d9b76dcc6a01a769e0bde960668d1700523a08d248d1c9f2f195579f8081e
 reviewVerdict: first-pass

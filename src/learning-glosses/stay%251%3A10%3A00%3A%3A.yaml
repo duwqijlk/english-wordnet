@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stay%1:10:00::'
 synsetId: 06554258-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6966542efbab723e3cb4332bbbb25a13829c6655ba8f7568d06b53f8b2dabd9d
 simpleMeaning: a judge's ruling that blocks an action until an event takes place or the ruling is cancelled
 scope: A court order blocking an action, not a period of remaining in a place, a strip stiffening a garment,
   or a rope supporting a ship's mast.
@@ -11,5 +9,4 @@ examples:
 - The company asked the court for a stay while it appealed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 68
-sourceFinalSha256: eb127fcac1fcd201b49d5cadbfcfc3325058b83ac7bd2867336c7b613395b9a8
 reviewVerdict: first-pass

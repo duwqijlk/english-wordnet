@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'stock_ticker%1:06:00::'
 synsetId: 04439527-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4bab01688821fb3dc74a06fd152bae18e13a3211b86eda39c27f3c54030d6696
 simpleMeaning: A printing machine that by itself prints share prices on a long strip of paper
 scope: A printing machine that by itself prints share prices on a long strip of paper, also called a ticker;
   not a machine that prints tickets and not a share price itself.
@@ -11,5 +9,4 @@ examples:
 - In the old days, a stock ticker chattered all day in the office.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1146
-sourceFinalSha256: b61123b8679b258b05d52077c261a1b57edf9891117f85c4aa0e2e1d6b2499df
 reviewVerdict: first-pass

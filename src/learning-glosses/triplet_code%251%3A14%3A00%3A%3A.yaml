@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'triplet_code%1:14:00::'
 synsetId: 08474800-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7fe5909a02624a1df05e490df3592320809d23deab6b231b9137fc1db1d4a9a8
 simpleMeaning: Three small bits at a time tell a cell which building block of a protein to make, and that
   is the usual way living things spell out their building blocks.
 scope: It is the usual way living things spell out their building blocks, three small bits at a time.
@@ -11,5 +9,4 @@ examples:
 - The triplet code lets a cell read a gene three bits at a time.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1046
-sourceFinalSha256: a0bf29094aab46fbb93d42fc7e2814ad02e5339b5087e77b97db2f34b6554bb7
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'target%1:15:00::'
 synsetId: 08678672-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1c51ced9d0e7b27e8d6f20259d15d77a4f915a3d0a243062d5811332379668b8
 simpleMeaning: the spot that a shot, missile, or throw is aimed at and meant to hit.
 scope: This is not the person being attacked and not the thing being aimed with; it is the place or point
   that is meant to be hit.
@@ -11,5 +9,4 @@ examples:
 - The instructor marked the target on the map.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 33
-sourceFinalSha256: 424dee8e89d9645ba6de778efa3b3afb04bb1a2d82edfda669b71d7fa2d13200
 reviewVerdict: first-pass

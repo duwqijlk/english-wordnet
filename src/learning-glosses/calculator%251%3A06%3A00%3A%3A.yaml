@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'calculator%1:06:00::'
 synsetId: 02942270-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 631e997d4352bcc362f2fd417ae19a35d0bdf4ce96056e3ffeeb570f9334b2cd
 simpleMeaning: a small machine used to work out maths sums; it may use moving parts or use electricity
 scope: A small machine for maths sums, not a person who is very good at sums.
 examples:
@@ -10,5 +8,4 @@ examples:
 - He pressed the numbers on his calculator to work out the total.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 521
-sourceFinalSha256: b601487348adf02bed4ea5cd3f1fe383541c08db4d70052278b0d31076bbc91d
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'immediate_constituent%1:10:00::'
 synsetId: 06324290-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6c67566c96aa51a0c466a2b440fdaf2095cc0bb7de2fe99c237e4063d184a763
 simpleMeaning: In grammar, a part of a sentence found at the first step of breaking it down, such as the
   subject or the predicate.
 scope: A part found at the first step of breaking down a sentence, not a single word and not the whole
@@ -12,5 +10,4 @@ examples:
 - The teacher asked us to name the immediate constituents of the sentence.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1231
-sourceFinalSha256: e184ceef181a495a0f77e428b887a58f19a76abe5cd57465ad9edbf058cc0db0
 reviewVerdict: first-pass

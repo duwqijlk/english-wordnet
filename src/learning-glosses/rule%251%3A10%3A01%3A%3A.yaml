@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'rule%1:10:01::'
 synsetId: 07274440-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 78b05a8f01fcfb3d241b0826e63ca48bb9236a5aaaa5475e6c908fd684a43c4d
 simpleMeaning: In linguistics, a statement about how a language is or should be used.
 scope: A language-use statement only; not a behavior principle, a normative example, a conduct guide,
   an accepted general truth, a math method, a natural law, a game's directions, a religious order's regulations,
@@ -13,5 +11,4 @@ examples:
 - The grammar rule says the verb must agree with its subject.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 77
-sourceFinalSha256: 697c53a60463fbe070960ad03457b00110b05daedfe30dd1e14f9a6e2d358e5f
 reviewVerdict: first-pass

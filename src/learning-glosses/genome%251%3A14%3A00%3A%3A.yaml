@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'genome%1:14:00::'
 synsetId: 08474554-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ba8726ccb70f8b1db17707ce3270475ce97e185907b2126093b45be0f9e255df
 simpleMeaning: all the genes of one living thing, in the order they sit in its cells; the whole of its
   DNA, the plans in its cells for how it grows
 scope: The full set of genes of one living thing, in order; not one single gene and not the genes of a
@@ -12,5 +10,4 @@ examples:
 - Scientists have mapped the whole genome of the mouse.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 355
-sourceFinalSha256: 8329869c8fd9db0f09e7d3a61c738b4762a1ec97b4d77aea6588c0370e922d93
 reviewVerdict: first-pass

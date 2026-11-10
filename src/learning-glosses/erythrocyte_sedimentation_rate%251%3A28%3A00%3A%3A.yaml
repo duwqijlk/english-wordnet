@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'erythrocyte_sedimentation_rate%1:28:00::'
 synsetId: 15302448-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bdb4d6f19af8021b647364d6bde13ac146799fb245b695e1539b957b8019aa52
 simpleMeaning: How fast red blood cells sink to the bottom in a tube of blood kept under set conditions;
   a fast fall most often means swelling somewhere in the body
 scope: How fast red blood cells sink in a tube of blood; not the number of red cells, and not the speed
@@ -12,5 +10,4 @@ examples:
 - Doctors use the erythrocyte sedimentation rate to spot hidden swelling.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1208
-sourceFinalSha256: 83835de7f62b38f0080f858a939f5523ca7dff1fccb291534dcdee15e3b77c3f
 reviewVerdict: first-pass

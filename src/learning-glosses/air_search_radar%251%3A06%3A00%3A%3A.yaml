@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'air_search_radar%1:06:00::'
 synsetId: 02695539-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: afb4ff43b25fe154071ac8d0dca008209b54a172e1a8dfbc0b6210e8729a5a6f
 simpleMeaning: a ship's radio set that looks for planes in the sky
 scope: A ship's radio set that looks for planes in the sky, not a land-based set and not a set that guides
   ships.
@@ -11,5 +9,4 @@ examples:
 - Sailors watched the air search radar all night.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1317
-sourceFinalSha256: e6f94c78f209d6b45cc9cc092db59e5a8f649c109ee13125b110de0483e25981
 reviewVerdict: first-pass

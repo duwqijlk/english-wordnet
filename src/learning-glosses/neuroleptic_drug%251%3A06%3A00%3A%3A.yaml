@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'neuroleptic_drug%1:06:00::'
 synsetId: 03719275-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 29fd24accfd3e489fcb7afabac159f534ea58d889718a154bdebe3344c18efa7
 simpleMeaning: a calming medicine used to treat psychotic conditions, when a calming effect is wanted
 scope: A calming medicine for psychotic conditions, used when calm is wanted; antipsychotic, antipsychotic
   agent, antipsychotic drug, major tranquilizer, neuroleptic and neuroleptic agent are other names for
@@ -12,5 +10,4 @@ examples:
 - The nurse gave her a neuroleptic drug to quiet the fear in her mind.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1439
-sourceFinalSha256: 2717a5ac76dff8d22d9179fec9bd206fedc10007aa6c3e57bc7f9d2c105a5664
 reviewVerdict: second-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'division%1:04:01::'
 synsetId: 00872590-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c060ad7cc3c51b46d2ed9d8e9f96e045c000f5b68f692a421aa4cb8b6dd55ae0
 simpleMeaning: An arithmetic operation that undoes multiplication by working out how many times one number
   fits into another.
 scope: 'The arithmetic meaning: a calculation with numbers; it is not the act of separating things with
@@ -12,5 +10,4 @@ examples:
 - Division by zero is not allowed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 80
-sourceFinalSha256: c3687f72d352738048fbdd5eef8679336cfe18b53e9f68050ffff2d0198e8657
 reviewVerdict: first-pass

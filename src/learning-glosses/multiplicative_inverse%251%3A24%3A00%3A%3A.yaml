@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'multiplicative_inverse%1:24:00::'
 synsetId: 13865372-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fe7a48b833981a80149f3a6e974365e9bbfb071ad705a5f1220e9f5ac05e2bc7
 simpleMeaning: In mathematics, one of two numbers that make 1 when one is times the other, such as 3/2
   for 2/3 and 1/7 for 7
 scope: 'Also called a reciprocal: in mathematics, one of two numbers that make 1 when one is times the
@@ -12,5 +10,4 @@ examples:
 - To find the multiplicative inverse of 2/3, turn the top and bottom numbers round to get 3/2.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1436
-sourceFinalSha256: 492f49a63324904e10e83bb9a765892b4ae9ad209d300d7df3379630acc2d54d
 reviewVerdict: first-pass

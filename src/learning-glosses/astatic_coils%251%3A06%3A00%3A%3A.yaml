@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'astatic_coils%1:06:00::'
 synsetId: 02753325-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7d3a391796dec01a012d076981bf3c9037233d9892631ffaceb41cf6a07c0a92
 simpleMeaning: A pair of wire loops in a sensitive meter, wound so their magnetic effects cancel and outside
   fields induce no current, keeping the needle steady.
 scope: The paired, self-cancelling winding of a sensitive instrument, not an ordinary winding that sets
@@ -12,5 +10,4 @@ examples:
 - Astatic coils must be matched in pairs, or the reading will drift.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 94
-sourceFinalSha256: 44ccc7bfec0513216b7102f1b7a8fa2c08f191cd909011b7f02d43756ba5030f
 reviewVerdict: first-pass

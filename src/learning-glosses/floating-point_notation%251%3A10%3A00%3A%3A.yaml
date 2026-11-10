@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'floating-point_notation%1:10:00::'
 synsetId: 06826558-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 26cbfa33a3dcc9f6666aaf1138a9dcb7cb89f1db375115857fc0946c92b6dcf0
 simpleMeaning: a base system for writing numbers where a raised number shows where the dot goes; 0.0012
   is written as 0.12 with -2, and -2 is the raised number
 scope: A way of writing numbers with a raised number showing where the dot goes; floating-point representation
@@ -13,5 +11,4 @@ examples:
 - The computer stores the number in floating-point notation to save space.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 866
-sourceFinalSha256: ed047d7f5951888bf58958574a54af75767706c0b093c4be39458db06f831f86
 reviewVerdict: first-pass

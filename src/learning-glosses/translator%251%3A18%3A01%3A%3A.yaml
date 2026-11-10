@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'translator%1:18:01::'
 synsetId: 10744916-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 66f3deb2e33b71c39b29444005d6b708903cb3dfafc042a7a4a8434cf2f3be32
 simpleMeaning: someone who takes a piece of writing and puts it into the words of a different language
 scope: A person who turns written words from one language into another, not a computer program that does
   the same for code, and not someone who speaks for people talking in different languages.
@@ -11,5 +9,4 @@ examples:
 - She hired a translator to put the letters into French.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 395
-sourceFinalSha256: d1644dd2094487c5849686ee79bf94ad0c96772adb5981e53d6a47dc36a35291
 reviewVerdict: first-pass

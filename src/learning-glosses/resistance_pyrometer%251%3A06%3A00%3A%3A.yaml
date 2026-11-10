@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'resistance_pyrometer%1:06:00::'
 synsetId: 04086715-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 572ebf2bffacc74b33456c11e3f74aa3a078953bd2ef353e32ef24edc1f33fb9
 simpleMeaning: a tool that tells how hot a thing is when it is very hot, by how much a heated wire slows
   down the flow of power through it
 scope: A tool that finds very high heat, not a plain thermometer for the body and not a gauge that reads
@@ -12,5 +10,4 @@ examples:
 - They used a resistance pyrometer to check the heat of the kiln.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1275
-sourceFinalSha256: bb027818bae82ff122bb3f7261357e5178ff31712a28232dcf1b8eebfabe1c90
 reviewVerdict: first-pass

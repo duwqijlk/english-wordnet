@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'trend_extrapolation%1:09:01::'
 synsetId: 92445639-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ebee70b12f402c19dba1f7eb6a4c08355ca508443e1705aa3eccdfe659879b81
 simpleMeaning: Figures over time are guessed ahead by number work, such as smoothing that leans on the
   latest figures or moving averages.
 scope: One of the ways of looking ahead by number work, it guesses how figures over time will go on.
@@ -11,5 +9,4 @@ examples:
 - With trend extrapolation, the pattern of the figures was guessed ahead.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1046
-sourceFinalSha256: a0bf29094aab46fbb93d42fc7e2814ad02e5339b5087e77b97db2f34b6554bb7
 reviewVerdict: first-pass

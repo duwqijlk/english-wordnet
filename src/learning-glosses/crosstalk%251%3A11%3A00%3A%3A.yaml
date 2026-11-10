@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'crosstalk%1:11:00::'
 synsetId: 07445847-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a0904343c4bd7a3dd949fe504637cfc39902b7525648e9f8bd7c77801f1b7785
 simpleMeaning: an unwanted signal that comes in by mistake through a chance link to another signal
 scope: An unwanted signal that gets in by mistake, not the signal a person wants to hear and not a fault
   in the set itself.
@@ -11,5 +9,4 @@ examples:
 - The engineers worked to cut down the crosstalk between the two phone lines.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1362
-sourceFinalSha256: 500e78bbc4502e65a1029eeb87030391c5f4cc504d525f95d32739b0d838144a
 reviewVerdict: first-pass

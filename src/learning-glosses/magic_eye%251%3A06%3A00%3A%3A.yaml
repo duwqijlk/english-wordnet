@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'magic_eye%1:06:00::'
 synsetId: 03931100-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9d281a619c85f39ec1ff79a2a138651122f2e79d0bc2630f15412d19c6b8bf11
 simpleMeaning: Light and other rays are found by this device, which also tells how strong they are
 scope: Also called electric eye, photocell, photoconductive cell and photoelectric cell, this is a device
   that senses light and other rays, not a human eye and not a lamp.
@@ -11,5 +9,4 @@ examples:
 - Engineers tested the magic eye to see how well it measured the rays.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1426
-sourceFinalSha256: dd6dc865f475759710179a459b6e96e51acce26cf1a717937ed7cd4f0912cc9f
 reviewVerdict: first-pass

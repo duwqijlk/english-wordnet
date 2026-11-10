@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'router%1:06:01::'
 synsetId: 04121938-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4983adb7b7ee27f0088b3c5a5687ecec5a066144a167d7f315b7d31d700b59b2
 simpleMeaning: In computer science, a device that sends small pieces of data between computer networks
 scope: A device that sends data between computer networks, not a power tool for cutting wood and not a
   worker who sends goods on their way.
@@ -11,5 +9,4 @@ examples:
 - If the router stops working, no computer in the office can get online.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 560
-sourceFinalSha256: 57c78473a3bb1087b3c25857c1ff420f630e081a4c1711ba5d6cad3563b4b8c0
 reviewVerdict: first-pass

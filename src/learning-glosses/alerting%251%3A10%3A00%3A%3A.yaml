@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'alerting%1:10:00::'
 synsetId: 07239434-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5a96118f7dde3f1f2fca5e7b54887ccb549b8ec0f12edd3245412e0591de223e
 simpleMeaning: a warning that helps you watch for danger and be ready for it
 scope: 'Also called alert: a warning that makes you watch for danger, not being ready and watchful yourself.'
 examples:
@@ -10,5 +8,4 @@ examples:
 - His quick alerting helped the family leave before the fire spread.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 470
-sourceFinalSha256: c34baebf50b40d211dc72c16894632ca8b2f9a318c6b514129073f82c1cb7e5b
 reviewVerdict: first-pass

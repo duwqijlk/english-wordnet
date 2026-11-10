@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'veterinary%3:01:00::'
 synsetId: 03140484-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c61477ea1923351706b49202fd68c8f95a06bd77ebf5a52e02ccb7db10cc1347
 simpleMeaning: about animal doctors or about medicine and care for animals
 scope: Describing animal doctors or medicine and care for animals, not the animal doctor as a person.
 examples:
@@ -10,5 +8,4 @@ examples:
 - He took his dog to a veterinary clinic for care.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 660
-sourceFinalSha256: a345a9c776cba9f51f238535b4d2aa86060007b61e1a47c34e831086d3da1df3
 reviewVerdict: first-pass

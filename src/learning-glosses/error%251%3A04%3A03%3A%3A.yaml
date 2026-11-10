@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'error%1:04:03::'
 synsetId: 00072888-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 03becc094946fbc57ac0f375ffb7643ec4def45662f705609d10187aa249dfbe
 simpleMeaning: In baseball, a player who is trying to stop the other team fails to get a player out when
   a normal play would have been enough
 scope: In baseball, a failed play by the team trying to stop the other team; not a wrong action in general,
@@ -12,5 +10,4 @@ examples:
 - An error by the first baseman let the runner reach first base.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 258
-sourceFinalSha256: 96ad9269e6b4b18a7d405048bc599dbecb8faa65f4ce52d9095458523e759e38
 reviewVerdict: first-pass

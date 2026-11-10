@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'converse%1:10:00::'
 synsetId: 06764456-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 526963f259750f88fce87101290d63788323f120870847d3b22013761307edad
 simpleMeaning: a statement made by turning another statement around, so what was first becomes last and
   what was last becomes first
 scope: A statement got by turning another statement around, not words that reverse each other's relation
@@ -12,5 +10,4 @@ examples:
 - In logic class, they asked us to write the converse of the statement.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 362
-sourceFinalSha256: a7c062e7f92594300fc91df2dbe2c72505667eab74121d17d7043d9b5ee44c25
 reviewVerdict: first-pass

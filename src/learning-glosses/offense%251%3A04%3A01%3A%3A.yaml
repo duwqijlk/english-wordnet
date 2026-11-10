@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'offense%1:04:01::'
 synsetId: 00767587-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 708c2c501ee45617ee435e8900b80a00cdc21861a489bc87a7cad1afa0cd758a
 simpleMeaning: an act that goes against what people judge to be right
 scope: This is a wrong act that breaks what people judge to be right, not a rude act that hurts feelings
   and not the feeling of anger itself.
@@ -11,5 +9,4 @@ examples:
 - He knew that cheating his neighbours was an offense, even if no law was broken.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 265
-sourceFinalSha256: 91883712960b345454227f09bd57127eb84131f6d94072c37bc25269c86fa5b4
 reviewVerdict: first-pass

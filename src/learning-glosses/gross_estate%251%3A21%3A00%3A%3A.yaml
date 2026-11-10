@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gross_estate%1:21:00::'
 synsetId: 13272188-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c3fba0d3c7209932cb341ca29585501bbc5beee4b828853bf4b93529c0d3be37
 simpleMeaning: At the time of a person's death, all their things are added up to find what they are worth
 scope: All that a dead person's things are worth when added up at the time of death, not the part left
   after debts are paid and not a dead person's yearly income.
@@ -11,5 +9,4 @@ examples:
 - Tax was charged on the gross estate, not on what each child got.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1398
-sourceFinalSha256: 20256ef3017b2edcaf98f634b599323049fab45e96cf9182158e112068bbf4ce
 reviewVerdict: first-pass

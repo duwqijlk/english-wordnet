@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'calendar%1:28:00::'
 synsetId: 15198526-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 55fbf99e3ade23a9fdb4dcf4118fd002d739ba5faff9cc85be2cf69be4de6b2b
 simpleMeaning: A way of counting time that sets when the year starts, how long it lasts, and how it is
   split up
 scope: A system for counting the days of the year, not a list of coming events and not the act of writing
@@ -12,5 +10,4 @@ examples:
 - Each calendar divides the year in its own way.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 314
-sourceFinalSha256: 7b40b02c808d1769c61631516733fcdc24d33b981906e6cdd19d3aa1e502aae4
 reviewVerdict: first-pass

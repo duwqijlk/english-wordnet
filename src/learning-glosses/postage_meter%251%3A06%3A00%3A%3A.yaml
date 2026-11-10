@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'postage_meter%1:06:00::'
 synsetId: 03995116-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ec19f49cbb3d6ac61c9a83a60e3afdd1a777033ab1933ecfd9932401d2c715f0
 simpleMeaning: A machine for large mailings that stamps the right paid fee on each piece of mail and keeps
   a count of the whole cost
 scope: A machine for large mailings that stamps the right paid fee on each piece of mail and keeps a count
@@ -12,5 +10,4 @@ examples:
 - A postage meter stamped each envelope and added up the cost.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1127
-sourceFinalSha256: 0378f8345c402538529a6199e232f6958f528fc10cc57be9fe1b0d8ddab4bfb2
 reviewVerdict: first-pass

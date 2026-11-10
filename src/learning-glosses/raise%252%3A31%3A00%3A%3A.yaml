@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'raise%2:31:00::'
 synsetId: 00643591-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e8adab4cee24a9cfa5800226edec32d2b17fb270eb46dd58eea61133fb0d6fd2
 simpleMeaning: multiply a number by itself repeatedly, for example two times two times two equals eight
 scope: 'This is the mathematics sense: using a number as a repeated factor, not increasing an amount or
   lifting something.'
@@ -11,5 +9,4 @@ examples:
 - The function raises every input to the power of two.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 87
-sourceFinalSha256: 19343afe60690ead6b02fdb8a42d81c3860dc33d766b9ba840a2f636f65d7dd8
 reviewVerdict: self-approved

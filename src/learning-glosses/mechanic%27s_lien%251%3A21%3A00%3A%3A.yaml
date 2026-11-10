@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mechanic''s_lien%1:21:00::'
 synsetId: 13423382-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 675d354d0f636f9d282bcf6265b3b7ff5a54f28eab13bb584a83abe9802750ac
 simpleMeaning: A claim on a building or other thing that has been built or fixed, so the worker gets paid
   for the work and the goods used
 scope: A claim on a building that makes sure the builder is paid for work and goods used, not a claim
@@ -12,5 +10,4 @@ examples:
 - After the repairs, the worker put a mechanic's lien on the shop.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1429
-sourceFinalSha256: 0019287a367bd112301993bd2af7ebd0cf17dd2f1dc8e53e48a309834d1cd949
 reviewVerdict: first-pass

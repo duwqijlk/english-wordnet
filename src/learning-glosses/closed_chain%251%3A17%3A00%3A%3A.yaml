@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'closed_chain%1:17:00::'
 synsetId: 09269789-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d839d7a42cdb836fae3aa4a853b1e2468180f087a7e6d01c0ed340ea49dc9de0
 simpleMeaning: In chemistry, atoms in a molecule joined end to end so they form a loop.
 scope: This is atoms in a molecule joined end to end so they form a loop; ring is another name for this
   sense, not a line of atoms left open at the ends and not a branch with side arms.
@@ -11,5 +9,4 @@ examples:
 - Benzene has a closed chain of six carbon atoms.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1189
-sourceFinalSha256: 7910b01936f4779b81b8a76d4b4d09179a56a98b2b0ab423b0249700c1187d30
 reviewVerdict: first-pass

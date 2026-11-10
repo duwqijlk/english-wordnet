@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'federal_tax_lien%1:21:00::'
 synsetId: 13422585-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d428523ff11448865337974802a19d3387427994a408cfadb6868273267fff19
 simpleMeaning: A claim by the United States on all that a person owns when that person has not paid the
   money owed to the country's government
 scope: A claim by the United States on all that a person owns when the money owed to the government goes
@@ -12,5 +10,4 @@ examples:
 - A federal tax lien was placed on the house.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1089
-sourceFinalSha256: 5ef0372ed889c634f0b7547bbaec8fb4fbe1402fa6fa0992f9e53a1ff20cd7af
 reviewVerdict: first-pass

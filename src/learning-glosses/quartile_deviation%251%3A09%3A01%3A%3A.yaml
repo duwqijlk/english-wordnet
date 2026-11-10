@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'quartile_deviation%1:09:01::'
 synsetId: 92436715-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: bff3177ab0ddd596d11ce7fc4462a451287f950cf207acc7127e1bb4370b96af
 simpleMeaning: Half the gap between the first and third quarter marks in a set of counted values
 scope: Half the gap between two quarter marks in counted values; not the full gap, and not an average.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She worked out the quartile deviation from the marks.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1131
-sourceFinalSha256: 09e3c1202fa6de793f020ce7d2a59033e92b733c0e2065cf2ee6ff81756a6862
 reviewVerdict: first-pass

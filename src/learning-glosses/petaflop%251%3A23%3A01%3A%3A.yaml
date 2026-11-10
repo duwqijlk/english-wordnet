@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'petaflop%1:23:01::'
 synsetId: 92467435-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f6005921f6bc1a7298498ff4f9261b25d4cedd31f52832bd2746c34a6fd01cce
 simpleMeaning: One thousand million million calculations with decimal numbers in one second is what this
   unit counts in computer science to show how fast a computer works
 scope: A unit that counts how fast a computer works, not a unit of size or weight and not the computer
@@ -12,5 +10,4 @@ examples:
 - Their computer reached a speed of three petaflops.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1451
-sourceFinalSha256: 92be25cbb07d04c3e4759504f3d3d9126f67204de78d27019fb2b35e57edcf0e
 reviewVerdict: first-pass

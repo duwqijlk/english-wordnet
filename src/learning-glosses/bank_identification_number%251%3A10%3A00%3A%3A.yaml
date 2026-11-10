@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bank_identification_number%1:10:00::'
 synsetId: 06437204-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ee8b985cc970f9c2a56065517b86a08fde36f58c0d19a420ccce5fc2301eea88
 simpleMeaning: 'Places that keep money for people are given a code in two parts: the first part shows
   where it is, and the second part says which place it is.'
 scope: A place that keeps money for people is given this code in two parts, the first showing where it
@@ -12,5 +10,4 @@ examples:
 - Each bank has its own bank identification number.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1061
-sourceFinalSha256: 7e3b41d71e7d486751129c32e0d4bf72ab466fb3a22a53ba42f93f1f1b537770
 reviewVerdict: first-pass

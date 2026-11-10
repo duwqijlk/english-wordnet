@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'descriptor%1:09:00::'
 synsetId: 05832071-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f44d4f970ef5867b56a87153bcb6d0f456f9a95217dd80fdb27eced068d896f7
 simpleMeaning: a piece of saved information used to pick out one item in a system that stores information
   and finds it again
 scope: This is saved information that picks out an item in a storage system, not the sound or look of
@@ -12,5 +10,4 @@ examples:
 - The librarian checked the descriptor to find the right book in the system.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 609
-sourceFinalSha256: b85bb5235d9a67327d2081ec398f9a7864248636cc9746b96b219998c8af6c63
 reviewVerdict: first-pass

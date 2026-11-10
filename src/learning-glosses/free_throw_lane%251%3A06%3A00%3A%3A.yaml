@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'free_throw_lane%1:06:00::'
 synsetId: 03398370-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0c7e64a01d7d08693df0dc02278aa8081e6d8c6245b081e975ddb43e0c041f53
 simpleMeaning: A marked strip on a basketball court from the end line to 15 feet in front of the backboard,
   kept clear while a shot is taken from the line
 scope: The marked strip under the basket on a basketball court, not the three-point line and not the whole
@@ -12,5 +10,4 @@ examples:
 - The free throw lane is painted a different colour from the rest of the court.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1216
-sourceFinalSha256: 8ced8e59e430eca8770df42d081477012197c5b5a43a362a388039af1a7b18c0
 reviewVerdict: first-pass

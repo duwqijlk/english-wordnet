@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'postfix_notation%1:10:00::'
 synsetId: 06827513-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9f086a4651e37f4fdba7413a35edf5dd9da827700cc2c9168fb597ded891da22
 simpleMeaning: Each sign that joins numbers comes after the numbers it joins, in a way of writing sums
   with no round brackets.
 scope: Also called suffix notation, this way of writing sums puts the joining sign after the numbers,
@@ -12,5 +10,4 @@ examples:
 - They wrote the sum in postfix notation, with the sign at the end.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1027
-sourceFinalSha256: 92045fc84c8ecab002cf3585af15d19d2a50ef1c3e34874f2b837a5214477dcc
 reviewVerdict: first-pass

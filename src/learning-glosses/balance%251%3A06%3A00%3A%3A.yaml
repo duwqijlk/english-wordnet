@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'balance%1:06:00::'
 synsetId: 02780105-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: beb56eafa3d8ea76ee41825f47c15d06213eb748542637fcc605408f7074e4a5
 simpleMeaning: A device that measures how heavy something is; it works through the downward pull of gravity.
 scope: The weighing instrument itself, not a counterweight hung on it or the regulating wheel inside a
   clock.
@@ -11,5 +9,4 @@ examples:
 - She checked the balance before weighing out the flour.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 86
-sourceFinalSha256: 5423d6b0f965fa6554b1e36843276cb439979e5caae8a6b64b642bba036285aa
 reviewVerdict: first-pass

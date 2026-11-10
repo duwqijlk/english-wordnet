@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'kilogram_calorie%1:23:00::'
 synsetId: 13748672-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0c640d1e0966b91da17b4138e71de384bd51fd078478acfe30761057f7cf50b8
 simpleMeaning: Heat needed to warm a thousand grams of water by one degree at normal air pressure, a unit
   food experts use to show the fuel a food gives the body.
 scope: This unit of heat is also called a calorie, a kilocalorie, a large calorie, or a nutritionist's
@@ -12,5 +10,4 @@ examples:
 - The diet chart gives each meal in kilogram calories.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1011
-sourceFinalSha256: bf4e5c3aa66fe31dc880a47e29ef4dfaaebd83213523bf0138a67ded3734343a
 reviewVerdict: first-pass

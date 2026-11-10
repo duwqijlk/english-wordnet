@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'extinction%1:09:00::'
 synsetId: 05766689-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ce4f78e2f6b2c3faf2207e7c3972ce9df65acc7efd6feefdadf22ead32290db7
 simpleMeaning: In learning, a learned act fading away once its reward is gone and it no longer follows
   the cue
 scope: A learned act fading once its reward is gone, not the putting out of a fire and not the weakening
@@ -12,5 +10,4 @@ examples:
 - The trainer watched the extinction of the learned trick.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 335
-sourceFinalSha256: f36eea75a03e1e41641b59c939ef7e2c9a11624b27fee186ca12a96f3b360a29
 reviewVerdict: first-pass

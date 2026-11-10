@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'newspaper%1:14:00::'
 synsetId: 08079806-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8e817f384eb18918e7719eab8a4b64d5f5b2c27cb843d33cb3f8d277c6c36788
 simpleMeaning: a company that publishes papers that carry news
 scope: This is the company that makes the paper, not the paper with news itself, not one copy of it, and
   not the cheap paper it is printed on.
@@ -11,5 +9,4 @@ examples:
 - She works for a large newspaper that has offices in three cities.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 154
-sourceFinalSha256: 3df776e5700f847bdf3c5aa306811ffa5cb76b946b0f41070ad47df64c73c11b
 reviewVerdict: first-pass

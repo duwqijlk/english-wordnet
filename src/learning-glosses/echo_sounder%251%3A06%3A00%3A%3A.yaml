@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'echo_sounder%1:06:00::'
 synsetId: 04266881-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 892f26ad350690f4df3cd224e6f258e4cea1747aa9fbfd8d83c0db85e4ce5863
 simpleMeaning: A tool that sends a burst of sound through water and works out how far away things are
   from the time the sound takes to come back.
 scope: People also call it sonar and asdic; the names mark a tool that finds how far away things under
@@ -12,5 +10,4 @@ examples:
 - The crew used the echo sounder to work out how deep the water was.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 935
-sourceFinalSha256: 9f472c7b94d64ecf985deaccb71eb88da5e65a6e47f917d404fab2052ec11616
 reviewVerdict: first-pass

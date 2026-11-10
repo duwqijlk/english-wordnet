@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'prediction%1:09:00::'
 synsetId: 05783078-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 24321bb267a6e4648f22a551b9cb4b9eb8fb2d26fc109b691e8f1cb93de73839
 simpleMeaning: the act of saying what will happen in the future, by thinking and reasoning about it
 scope: This is the act of saying, after thinking, what will happen in the future; it is not a single statement
   that says what will happen, and it is not the thing that later happens.
@@ -11,5 +9,4 @@ examples:
 - The team's prediction of next year's sales took a week of studying past sales.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 235
-sourceFinalSha256: 3b1754afbfade331fd7b7931d91c348e11ee555c13d3bbf2bdc2ad661714c771
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: autosemantic%5:00:00:categorematic:00
 synsetId: 02603439-s
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1c05ac8a5ac59e110b597f9bfbfaae4589ec99581f9d70b69ccc5766a2be06cb
 simpleMeaning: a word or short group of words that still has a clear sense on its own, with no other words
   around it
 scope: A word or phrase that keeps its sense on its own, not a word that needs the words around it to
@@ -12,5 +10,4 @@ examples:
 - She wrote 'rain' as an autosemantic word that needs no other words to make sense.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1328
-sourceFinalSha256: 7fc2dc90963842be6ce1910f14cb58846a853dd48a159a1dd7a239e911111da5
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hysteron_proteron%1:09:00::'
 synsetId: 05902918-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 966539a2d41bb9d65124cd6c952b83ade6e4b96ccbfd1aaf7a463a8d7d72bbff
 simpleMeaning: In reasoning, the mistake of taking as already true a claim that still has to be proved.
 scope: In reasoning, the mistake of taking an unproved claim as already true, not a mistake in the facts
   themselves and not a claim that is simply false.
@@ -11,5 +9,4 @@ examples:
 - The hysteron proteron in her argument hid the missing step.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1230
-sourceFinalSha256: bb7271bdfe29278ed6820a93e3068d521d54b6b5a245852003ea63b237f5ce95
 reviewVerdict: first-pass

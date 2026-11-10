@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'signal-to-noise_ratio%1:24:00::'
 synsetId: 13847877-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a3df860504f198107f673f46b4de236f9a89e4717d99b3269e0c29456d55b08c
 simpleMeaning: how much stronger the sound you want is than the sound you do not want
 scope: How much stronger the sound you want is than the sound you do not want, also called signal-to-noise,
   signal/noise and signal/noise ratio; not the strength of the wanted sound on its own and not the strength
@@ -12,5 +10,4 @@ examples:
 - A low signal-to-noise ratio makes speech hard to hear.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1285
-sourceFinalSha256: e3b3db781a0f2a924b6dbf57f3375bd16b2430f573f0b05dc8a6ec3e0d45d3f8
 reviewVerdict: first-pass

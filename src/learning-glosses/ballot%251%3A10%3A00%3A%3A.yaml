@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ballot%1:10:00::'
 synsetId: 06482593-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 859898d5c4ac2c6a639ef1f7a123b20e3970325d76fe0655884f858837ab5b3e
 simpleMeaning: a paper that lists the choices in a vote, used to record how people vote
 scope: The paper used to vote, not the act of voting and not the result of the vote.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The ballot listed three names for mayor.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 442
-sourceFinalSha256: de7f04ef1629be706e77c3c2d0d9f11766a7912ec296586cfec9de80cd5827d3
 reviewVerdict: first-pass

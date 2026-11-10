@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'paddock%1:06:00::'
 synsetId: 03880165-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f107fa6bf6aee29f3f3a571ec0ef1b860c62955c4d9988d6e705120d69ffd860
 simpleMeaning: a small fenced area where horses for a race have saddles put on and are walked around to
   be seen before the race
 scope: This is the area at a race track where horses are readied and shown before a race, not a field
@@ -12,5 +10,4 @@ examples:
 - People stood by the paddock to see the horses before the race.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 467
-sourceFinalSha256: ecb4ef40c77da57da7fa0ae4b9fd32cc9606bb6927835f5127b5c3ca48c7e7bc
 reviewVerdict: first-pass

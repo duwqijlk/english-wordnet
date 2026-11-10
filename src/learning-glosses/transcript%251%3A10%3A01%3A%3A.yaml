@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'transcript%1:10:01::'
 synsetId: 07292089-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7bc78720803cf5edfe60acee20bbe972245e1df593f21331aef1f47e45703096
 simpleMeaning: The written text of words that were spoken or recorded, typically typed out from the recording.
 scope: This is a typed-out record of speech, not a reproduced document such as a school or court record,
   and not the recording itself.
@@ -11,5 +9,4 @@ examples:
 - She ordered a transcript of the interview to check his exact words.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 132
-sourceFinalSha256: 23e0ac0e36db5575dbe5ca80f736d2a63114a4fac7f348d6e8f59f96cf819d8b
 reviewVerdict: first-pass

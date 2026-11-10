@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'interrupt%1:19:00::'
 synsetId: 11467628-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ed0108c09b769efaf2894c38a10ae766f89fbac729937e85e29ea4a509e7009c
 simpleMeaning: a signal that stops a computer program for a short time so that another job can be done
   first
 scope: A computer signal that stops a program for a short time; it is not the act of disturbing someone
@@ -13,5 +11,4 @@ examples:
   key.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 159
-sourceFinalSha256: df9a1b67397c570fbdad2ef3441db295e2e2fddb8ccf5ef42a098c65d4acf8a3
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'lymphography%1:04:00::'
 synsetId: 00907226-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d196c980b6742190a1564000248721e137d01e56f743cb08f6d11b0c037a5ff0
 simpleMeaning: An X-ray examination of the lymph nodes and lymph vessels after a special injected liquid
   that X-rays cannot pass through; it produces a lymphangiogram, an image of these vessels.
 scope: Another name for lymphangiography; an X-ray study of lymph nodes and vessels, not a blood test
@@ -12,5 +10,4 @@ examples:
 - Lymphography uses an injected contrast agent so the vessels show up on X-ray film.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 124
-sourceFinalSha256: a58e4d75676f695a1313261d7b01cd4247d47b7e7ee1d9da56cba15992ac5571
 reviewVerdict: first-pass

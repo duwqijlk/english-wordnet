@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'credit_rating%1:09:00::'
 synsetId: 05811755-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5cb9bab0e59f5b00c4fcb111d32a70082adf9c2e8d630c61871cdc888d190e72
 simpleMeaning: A judgment, based on past dealings, of how well a person or firm can meet its money promises.
 scope: This is a judgment of how well someone can pay what they owe, not a loan or a bank account; also
   called credit.
@@ -11,5 +9,4 @@ examples:
 - A bad credit rating can make borrowing hard.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1078
-sourceFinalSha256: 44f13f872954f95364383b0b3759a85ef23c590828ca2c31e63dd26ddca0e767
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'travel_expense%1:21:00::'
 synsetId: 13327691-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f1ce6c806ca06cb0155ca6296a8dd7188c2626046fc4c6aca4847821871ae125
 simpleMeaning: Expenses, often plural, incurred by an employee while doing the job and usually reimbursed
   by the employer.
 scope: This is money spent in doing a job, most often in the plural, which the firm the worker works for
@@ -12,5 +10,4 @@ examples:
 - The travel expenses were claimed back after the trip.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1045
-sourceFinalSha256: 35831228425a9d86d7b40a39717f71022f9bd169892f608a952dd5d585fd6484
 reviewVerdict: second-pass

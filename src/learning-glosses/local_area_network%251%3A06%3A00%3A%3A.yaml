@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'local_area_network%1:06:00::'
 synsetId: 03686803-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5e7569d4c67404acad239696e12b01395ecf7a022a43e44815074ce0830c4164
 simpleMeaning: A set of computers in one place, joined so they can share messages, above all one joining
   computers and word machines and other office machines to link offices together.
 scope: This is a set of computers joined in one place to share messages, not a set joined across a whole
@@ -12,5 +10,4 @@ examples:
 - Our local area network went down this morning.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1109
-sourceFinalSha256: 3607b7d32ac6da985a7e4de97448126096c3ff9cd93edd38900a426b816504ec
 reviewVerdict: first-pass

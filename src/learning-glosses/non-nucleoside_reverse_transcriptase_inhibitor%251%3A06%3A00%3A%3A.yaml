@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'non-nucleoside_reverse_transcriptase_inhibitor%1:06:00::'
 synsetId: 03833695-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fe2ab49e498bd4e2bfd423a6d47414e6d6fe96acca3484db9c37b7fcd64a49b0
 simpleMeaning: a virus-fighting drug used against HIV that fastens straight onto reverse transcriptase
   and stops RNA from turning into DNA, often used along with other drugs
 scope: A drug that blocks reverse transcriptase by fastening straight onto it, not a nucleoside reverse
@@ -13,5 +11,4 @@ examples:
 - This non-nucleoside reverse transcriptase inhibitor stops the virus from turning RNA into DNA.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 872
-sourceFinalSha256: 03fdb4bfdba1485624923ee4c1e0be74ba5afb0ca24fe74eceac3c2b690e2329
 reviewVerdict: first-pass

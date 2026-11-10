@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electrode%1:06:00::'
 synsetId: 03279707-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 302395f62ababb4b1d0a9f65af0f99edf7f41c3e1174ac374acb185a266910aa
 simpleMeaning: a piece of material that carries electricity and is used to make a link with part of a
   circuit (the path electricity moves along)
 scope: A part that carries electricity into or out of a circuit, not the whole circuit itself and not
@@ -12,5 +10,4 @@ examples:
 - One electrode was joined to each end of the battery.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 593
-sourceFinalSha256: ba0592367c038528336c1c753e222bb171d0d43593694e662389afbd6f2a66d5
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'symptom%1:10:00::'
 synsetId: 06811045-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 74542ba2d33b857d3ca92c5dbd4ba4a21a64418b5f85fc292f75319cdfdff374
 simpleMeaning: anything that appears with something else and is seen as a sign that that thing is there
 scope: A sign that something is there. Not only the medical sense, where it is a feeling or change in
   the body linked to a sickness.
@@ -11,5 +9,4 @@ examples:
 - Empty streets were a symptom of the fear in the town.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 264
-sourceFinalSha256: c7197c8ea69ec0cac5dc0165f69d1869c4822fe59369e31e95c781d9ba180b5b
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'absolute_scale%1:24:00::'
 synsetId: 13875199-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 68b74fce96c60ff777fbd36a723f4886fbd058307a2521eaa91550604a7c7477
 simpleMeaning: a way of gauging heat that sets the coldest point possible at 0 degrees; water turns to
   ice at 273.16 degrees and boils at 373.16 degrees
 scope: A heat gauge that starts at the coldest point possible, not the Celsius or Fahrenheit gauge.
@@ -11,5 +9,4 @@ examples:
 - Zero on the absolute scale is the coldest point possible.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 883
-sourceFinalSha256: 970d7d906666f59a3829bbcbb5956b733364d1bbfa7a2f3584098b097b0f158c
 reviewVerdict: first-pass

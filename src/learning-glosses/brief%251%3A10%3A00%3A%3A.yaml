@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'brief%1:10:00::'
 synsetId: 06480311-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8e7231fe5b88483bc258e1de1f49526545d5374934ff359dd8b7d19f718ea18f
 simpleMeaning: a short written piece that gives only the main points of something
 scope: This is a short piece that gives only the main points of something; it is not the paper for a court
   case that sets out what happened and what the law says about it.
@@ -11,5 +9,4 @@ examples:
 - He wrote a short brief that summed up the long report in two pages.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 158
-sourceFinalSha256: 6cada62c2d290e87dfb97dd4d303f3c192e072eff310e9bc8fff6cb6437c33a5
 reviewVerdict: first-pass

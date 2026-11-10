@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'descriptive_clause%1:10:00::'
 synsetId: 06326447-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8a9e39609eb29aebcff0b4ccd73c63b92b09ba928bf4f98f1d4e9458f646155f
 simpleMeaning: A part of a sentence that adds to a noun group but does not cut down what that group means
 scope: A part of a sentence that adds to a noun group without cutting down its meaning; also called nonrestrictive
   clause, not a clause that picks out one thing from many.
@@ -11,5 +9,4 @@ examples:
 - In the sentence 'My brother, who lives in York, called', the descriptive clause is 'who lives in York'.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1081
-sourceFinalSha256: 6fd94ed45f6c4105cc4c286d2e2921b9eec4750ad327505d1f5723021738c2d8
 reviewVerdict: first-pass

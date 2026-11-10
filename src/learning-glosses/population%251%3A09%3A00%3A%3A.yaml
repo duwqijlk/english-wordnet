@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'population%1:09:00::'
 synsetId: 06035684-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 45624cfb59a2f75f38decbb6f7baed68787a176607e4497f88b9ae4bdf7393af
 simpleMeaning: in statistics, the whole collection of items that a sample comes from
 scope: The full set of items a sample comes from, not the people living in a place, a group of animals
   of one species, or the number of inhabitants.
@@ -11,5 +9,4 @@ examples:
 - The study's population included every school in the district.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 69
-sourceFinalSha256: b3c3c455efa4b08c8ba093e6eea947a53b4326cb06bb285e6f5518ea99d7e2c6
 reviewVerdict: first-pass

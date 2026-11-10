@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'target_acquisition_system%1:06:00::'
 synsetId: 04401514-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a550e6a732dd37d23f974bb7e62ed13e613f053cae7cd09377529ce063503ab9
 simpleMeaning: Weapons on a ship can be aimed well because this set of tools first finds a thing to hit
   and marks out just where it is.
 scope: On a ship, this set of tools finds what the weapons are meant to hit.
@@ -11,5 +9,4 @@ examples:
 - With the target acquisition system on, the guns could be aimed at just the right spot.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1043
-sourceFinalSha256: ec0ce220c3c265164e278b9c7e02a950a32b884f3a276a085e8d60467bf4a179
 reviewVerdict: first-pass

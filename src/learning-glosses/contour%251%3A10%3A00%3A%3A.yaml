@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'contour%1:10:00::'
 synsetId: 06814438-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a29cbef61e2b671b232caf352a7f53ee7274103f3fa20b0721f83a6a448c562f
 simpleMeaning: A line on a map that shows one height of land by joining every spot at that height.
 scope: A map line joining points of equal height, not the shape of a thing.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Follow the contour to stay at the same height.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 406
-sourceFinalSha256: e8539aad401cdbe73735e20fed5a94404f584bf6224cadc3e056e96a52a0e03a
 reviewVerdict: first-pass

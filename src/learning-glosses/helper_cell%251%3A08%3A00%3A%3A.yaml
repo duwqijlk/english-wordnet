@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'helper_cell%1:08:00::'
 synsetId: 05459780-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1660d95e003d5098de7940a17d0fe8370fb43d71cd3341ad73b9dd4b7ea7f89c
 simpleMeaning: A white blood cell that spots germ markers on an infected cell and releases chemical signals
   that spur other defender cells into action; HIV kills these cells.
 scope: This is the immune cell that calls other defenders into action, not the killer cell that destroys
@@ -12,5 +10,4 @@ examples:
 - The vaccine prompts helper cells to call other immune defenders into action.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 93
-sourceFinalSha256: 732cd663dce69fd9e03a5358dd5bad2aa6c1b1a0d4a2018b0cb77675cf6cf9b6
 reviewVerdict: first-pass

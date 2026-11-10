@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'optical_telescope%1:06:00::'
 synsetId: 03858208-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 786eb461a561ed915def7cff218681ea6a133da4b070d717f619960f4eee41cd
 simpleMeaning: A tool for looking at the stars that takes in and keeps a record of light from far-off
   things in the sky
 scope: A tool that takes in and keeps a record of light from far-off things in the sky, not a tool for
@@ -12,5 +10,4 @@ examples:
 - They used an optical telescope to keep a record of the light from a far star.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1444
-sourceFinalSha256: ee0fe06ff5d2c16c5d432d2fa01ec1a1318478ef856b44987aaa805022e9b805
 reviewVerdict: first-pass

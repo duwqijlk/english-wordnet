@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'generic_drug%1:06:00::'
 synsetId: 03439459-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 137efa828240eb536f52b404eca0229ca009fb161fb407b2ae79451944d6503c
 simpleMeaning: A copy of a named medicine that may be sold once the first maker's patent ends, if the
   FDA agrees
 scope: This is a copy of a named medicine that may be sold once the first maker's patent ends; not the
@@ -12,5 +10,4 @@ examples:
 - The doctor said a generic drug would work just as well.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1094
-sourceFinalSha256: 5b8ec299372b30c8b1d14f6af40c973b27c1662476b63a4e786bb12123957cfb
 reviewVerdict: first-pass

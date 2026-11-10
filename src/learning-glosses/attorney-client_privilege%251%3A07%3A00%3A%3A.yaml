@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'attorney-client_privilege%1:07:00::'
 synsetId: 05187365-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 829e36d08af817faac32b26636e18cfca69debc8a3a3e8b01771cf7d7dc598e5
 simpleMeaning: the right of a lawyer to keep secret what a person who hired them has told them in trust
 scope: The right of a lawyer to keep a client's secrets, not a rule that lets a lawyer lie and not the
   client's own right to stay silent.
@@ -11,5 +9,4 @@ examples:
 - He trusted that attorney-client privilege would keep his words secret.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1327
-sourceFinalSha256: 6a32332567bfc858812046290bd3deb9bc9f8db89027d88aa497ef95bc7ed9d6
 reviewVerdict: first-pass

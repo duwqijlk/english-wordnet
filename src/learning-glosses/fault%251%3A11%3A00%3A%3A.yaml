@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fault%1:11:00::'
 synsetId: 07436844-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a9f06ae6fc4a2980881541cf3dd2d992bd41c5b0bc27ab1bcaae2d7b8c5d156e
 simpleMeaning: In electronics, a failure of equipment caused by a problem in its circuit
 scope: A breakdown in electrical equipment, not a crack in rock, not a mistake in behaviour, and not an
   illegal serve in tennis.
@@ -11,5 +9,4 @@ examples:
 - A fault in the circuit cut power to the whole building.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 153
-sourceFinalSha256: 26fcc5e31ddd20f4e3c1ea7719a165b2f42bab9041aece394bb25778416b1129
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'paramedic%1:18:00::'
 synsetId: 10417875-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 017b001fa4c1e3f3ec5a5cebe7be4b0647e8ab723e60f5c0333d8c10b9a25ced
 simpleMeaning: a trained worker who backs up doctors and other health staff and gives quick care to sick
   or hurt people in a crisis
 scope: A person trained to help medical staff and give emergency care, not a doctor and not a nurse.
@@ -11,5 +9,4 @@ examples:
 - Paramedics carried the injured man to the ambulance.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 416
-sourceFinalSha256: be0f54b74e52f9b961e35832c7147728ed8663a13c3583e785890cfe0ecf7d22
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cut%1:10:01::'
 synsetId: 06439886-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4dece7439ce2d4394e5334a775ff49ad8ab4ee32e51eea3a2067a3147be7dfee
 simpleMeaning: the part left out when an editor's change makes a written passage shorter
 scope: This is text left out during editing, not a track of recorded music or a remark that hurts someone.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The editor marked the longest cut in red so the author could restore it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 56
-sourceFinalSha256: 284a29e5bd902ee943892b3f3478850b31315065f1e045ef99dddb98a69105df
 reviewVerdict: first-pass

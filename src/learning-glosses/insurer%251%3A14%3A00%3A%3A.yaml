@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'insurer%1:14:00::'
 synsetId: 08087301-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a34517e49f15bc7086ca75f7bb8f9cde487096b682b3cfda7aab1a5e12498a7f
 simpleMeaning: a company that deals with money and sells a promise to pay costs when loss or harm happens
 scope: A company that sells this promise to pay, not the person who buys it and not the promise itself.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She asked her insurer to pay the cost of the accident.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 586
-sourceFinalSha256: 4a972fb6ebb24ed277fe767be4a6e2f0d68532d928b98b669849f98db157e209
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cookbook%1:10:00::'
 synsetId: 06424663-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 50fd5f6d46b27ba7cc3cf217803e9a90dbca92f6d545a55cb0f09b21e89f747f
 simpleMeaning: a book that gives lists of what to put in dishes and tells you how to make them
 scope: A book for making meals, not a book about food in general and not a single written recipe on its
   own.
@@ -11,5 +9,4 @@ examples:
 - This cookbook has easy meals for new cooks.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 503
-sourceFinalSha256: b8f339e6da6d854746fa66f3ea0bede013d3967acd45c5ea065568b6d3d2eeb7
 reviewVerdict: first-pass

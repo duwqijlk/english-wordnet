@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'eccentricity%1:25:00::'
 synsetId: 13899768-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 28a84cf0fe0dbf1271142557aa81c083a72e176c19b1a573b50d54f8757a6232
 simpleMeaning: 'In geometry, a number for the shape of a curve made by cutting a cone: the distance between
   two fixed points, divided by the length of the longest line across'
 scope: In geometry, this number shows the shape of a curve made by cutting a cone; it is not about a circle
@@ -12,5 +10,4 @@ examples:
 - With higher eccentricity, the curve becomes less round and more stretched.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 536
-sourceFinalSha256: a70c0e9358a114f096416b43aaf8a89846cf08fa3c5213580ed2049734ff04f5
 reviewVerdict: first-pass

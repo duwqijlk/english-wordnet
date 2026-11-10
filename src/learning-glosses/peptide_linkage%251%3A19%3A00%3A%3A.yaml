@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'peptide_linkage%1:19:00::'
 synsetId: 11458374-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f149aeb365ead4a548eb04494fb749915a2a8af35a02b827b6ba2eff93c00ce2
 simpleMeaning: The chemical join between an acid group and an amine group is the main link in every protein,
   tying its parts together.
 scope: 'Also called peptide bond: the main chemical link that holds every protein together.'
@@ -11,5 +9,4 @@ examples:
 - A peptide linkage joins an acid group to an amine group.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 906
-sourceFinalSha256: 044440888ab4a76b2349a41b37d84d1dde6822723e00f9ef248a150139563c8c
 reviewVerdict: first-pass

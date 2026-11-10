@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fixed-point_part%1:10:00::'
 synsetId: 06825973-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0ee919b040c0c13072770b28e4d0a7c2830d1ac5c9241726299431797eb4f2d1
 simpleMeaning: The share after the dot in the written form of a log number; in 'log 643 = 2.808' it is
   .808
 scope: This is the share after the dot in the written form of a log number; mantissa is another name for
@@ -12,5 +10,4 @@ examples:
 - She found the fixed-point part after the dot.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1090
-sourceFinalSha256: d0bcec5dccc9222aea36e4ca26da672adc5bea272b820d748a694e6055fdca96
 reviewVerdict: first-pass

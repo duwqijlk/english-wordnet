@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'variometer%1:06:00::'
 synsetId: 04529158-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3b0a7beef754d2f40c96fa66f9433f0519786c8d57f76686de1aa66d20fef7ca
 simpleMeaning: a tool that measures changes in a magnetic field, the unseen force around a magnet
 scope: A tool that measures changes in a magnetic field, not a compass and not a tool that measures heat.
 examples:
@@ -10,5 +8,4 @@ examples:
 - He used the variometer to track changes in the magnetic field over the day.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1306
-sourceFinalSha256: c94b95eb75cf3aa522f680a96364dd2168fdab85143c2046d9bb78198e1a15f0
 reviewVerdict: first-pass

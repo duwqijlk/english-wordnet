@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'endowment_insurance%1:21:00::'
 synsetId: 13368504-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 92b4b52e13a4ab3e6c6c740289fce9199b98e239edfd044947678f07b9af5c89
 simpleMeaning: Life insurance paying a set amount to the insured person after a set period, or to a named
   beneficiary at once if the insured dies.
 scope: A set sum is paid out when the set time ends, or at once to a named person if the person covered
@@ -12,5 +10,4 @@ examples:
 - Her endowment insurance names the person who will receive the sum.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 997
-sourceFinalSha256: d824b8d2ba5cdc98375d4191f6b35371aa711fb21faff28f0fb78767d5040dce
 reviewVerdict: second-pass

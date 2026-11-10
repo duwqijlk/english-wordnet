@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'credit%1:10:02::'
 synsetId: 06776392-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9e53acd0ad90b6e2fe3c3a7d9fe08742b967794b52112386b0db8401a13aeca7
 simpleMeaning: a brief note that names where a piece of information or a quoted passage came from
 scope: This is a note naming a source, not praise for an achievement or an academic course unit.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She added a credit for the original article at the end of her essay.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 67
-sourceFinalSha256: fe525cbe62ad9e2cf1dfafab5c32da8d3a488da46a5a0cdeacb14f76cf8cfda6
 reviewVerdict: first-pass

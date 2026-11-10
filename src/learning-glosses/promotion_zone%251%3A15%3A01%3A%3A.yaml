@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'promotion_zone%1:15:01::'
 synsetId: 92444046-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e7e0e9c9317839a7f7ad53913379784be5635db1c2b317a5cbfec2510de6fb6b
 simpleMeaning: The part of the chess board set out before the game that a piece which started the game
   must reach to be made into a stronger piece
 scope: The part of the board a piece must reach to be made stronger; not the whole board and not the square
@@ -12,5 +10,4 @@ examples:
 - Once a pawn enters the promotion zone, it can become a queen.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1461
-sourceFinalSha256: 54117106e764b8a2d3ced0db25e914b2046777921c0eaf2006599fd894dcb1a7
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'volt-ampere%1:23:00::'
 synsetId: 13666611-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d2af4fcc9a2adf3ae3a77f3000123b6f816247a0ae4b450bf7efe7fc78489291
 simpleMeaning: A unit of electrical power in an AC circuit, equal to the power used up when 1 volt produces
   a current of 1 ampere.
 scope: Also called var, it is the measure of electric power in a circuit with changing current.
@@ -11,5 +9,4 @@ examples:
 - Engineers measured the load in volt-amperes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 971
-sourceFinalSha256: 5a7c649db4db9724eaa908c51aa85ec1e766719a378eb1c7aab4c93e21d858ef
 reviewVerdict: second-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'trial_balance%1:21:00::'
 synsetId: 13432178-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 292841d7a6a895790d79a12457c78a1f2434332e082d5c8dfdd51c47a0b5fba8
 simpleMeaning: a list of amounts on two sides in bookkeeping with two columns, made to check that the
   two sides add up to the same
 scope: In bookkeeping, a check that the two sides of the books add up to the same; not a bank balance
@@ -12,5 +10,4 @@ examples:
 - A trial balance showed that the debits and credits did not match.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1302
-sourceFinalSha256: d912f3a117cf2b48c5cbbad3bbe7bce9d251fb63fcf043185a3ee99d7559a208
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'phot%1:23:00::'
 synsetId: 13662345-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 66ab34c53d950491073256cfcd929219db725b1b74ed7c0b376e069f7f38d49b
 simpleMeaning: 'This unit measures the light that falls on a surface: one lumen on each square centimetre,
   with ten thousand of them making one lux.'
 scope: This unit measures the light that falls on a surface, and ten thousand of them make one lux, not
@@ -12,5 +10,4 @@ examples:
 - Ten thousand phots make one lux.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1024
-sourceFinalSha256: bcfedf9383f4d5c6520a1632a3723d91c1230b768fa6138d58eb604bd472a1a6
 reviewVerdict: first-pass

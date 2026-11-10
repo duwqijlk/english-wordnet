@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'juror%1:18:00::'
 synsetId: 10247948-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 72f7d75af92f7e687b0fc40d19c192c64a6b42fa113436a163488bacc40eeea7
 simpleMeaning: a person who sits on a jury, or who is waiting to be called to sit on one
 scope: This is a person who sits on a jury or waits to be called to one, not a judge and not a witness.
 examples:
@@ -10,5 +8,4 @@ examples:
 - As a juror, she had to decide whether the man was guilty.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 438
-sourceFinalSha256: 06beb93630a9a1def421dbe0a589cb1086b83bc91a5d400f4da0101516421da0
 reviewVerdict: first-pass

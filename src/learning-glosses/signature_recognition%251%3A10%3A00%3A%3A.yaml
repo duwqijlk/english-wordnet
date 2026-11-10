@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'signature_recognition%1:10:00::'
 synsetId: 06658386-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a021218fafdf5e693683fbe8ea13eff70680c89d278caf3bba4bb178adad3404
 simpleMeaning: A machine reads the way a person signs their name and, by computer, matches it with samples
   it already holds, so it can tell who they are.
 scope: A way of checking who someone is from the way they sign their name.
@@ -11,5 +9,4 @@ examples:
 - Signature recognition matched the signing with one it already knew.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 912
-sourceFinalSha256: 60d6cdb10e022a93cc4a465e959c8c5dc2eea795086186ea5cb10df135b80c37
 reviewVerdict: first-pass

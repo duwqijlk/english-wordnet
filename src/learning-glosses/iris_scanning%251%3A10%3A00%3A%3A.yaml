@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'iris_scanning%1:10:00::'
 synsetId: 06658221-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 420646512efd13394cdff2fb6c53939a5c4ca5b318fd7b8046e984c61e18edcf
 simpleMeaning: A way to know a person by the coloured ring of the eye, which is read by a machine
 scope: A way to tell one person from another by the coloured ring of the eye; not a fingerprint check
   and not a face check.
@@ -11,5 +9,4 @@ examples:
 - Iris scanning took only a few seconds at the gate.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1413
-sourceFinalSha256: 08f3fffc5825622f75f63434f49c7b7f79dae95c37e67fd3602341826ba20fa5
 reviewVerdict: first-pass

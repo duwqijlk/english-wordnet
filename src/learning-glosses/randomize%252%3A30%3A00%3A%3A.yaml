@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'randomize%2:30:00::'
 synsetId: 00279669-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b9c3fbb8c4feaf04542f0035602b3f5a0f429c1eef4ce7b773fadf3879110a17
 simpleMeaning: to put things in an order that is chosen by chance, not by a plan
 scope: This is putting things in a chance order; it is not sorting them by size, name, or any planned
   rule.
@@ -11,5 +9,4 @@ examples:
 - The computer randomized the list of names before the draw.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 542
-sourceFinalSha256: 59c6fcbae1ad5636a5701965c4b5a4f90d400730c7e3ca6d84f460970729ee3f
 reviewVerdict: first-pass

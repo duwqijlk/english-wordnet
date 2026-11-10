@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'evidence%1:10:00::'
 synsetId: 06746688-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a4ba1cff6a8e7fbe45a47c22a6c10742bc161285b428701354cecb084b5f9a55
 simpleMeaning: in a court case, everything used to prove or disprove a disputed fact under examination
 scope: This is the material used in a court trial, not the general basis for a person's belief or a sign
   that makes something obvious.
@@ -11,5 +9,4 @@ examples:
 - The jury weighed the evidence before reaching a verdict.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 69
-sourceFinalSha256: b3c3c455efa4b08c8ba093e6eea947a53b4326cb06bb285e6f5518ea99d7e2c6
 reviewVerdict: first-pass

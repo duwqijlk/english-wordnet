@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'grand_jury%1:14:00::'
 synsetId: 08431921-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c3fbbe01b3d4b20879e795404744a44f3250aeacd1df5f0ec44e7927517f5b49
 simpleMeaning: A group of people chosen to look into charges of crime and to judge whether there is enough
   reason to bring a person to trial
 scope: This is a body that screens crime charges before trial, not the small group that decides guilt
@@ -12,5 +10,4 @@ examples:
 - After weeks of testimony, the grand jury returned its decision.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1096
-sourceFinalSha256: c0dee824b3c70f7cf6a3a81ea4803693f014704c2c1d50f30aa991d14fc45eed
 reviewVerdict: first-pass

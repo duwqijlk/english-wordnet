@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dependent_variable%1:09:00::'
 synsetId: 05867283-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f8c0a85ebada06ba9991b017b8b5144528b8cd26eb90034c0b5269bdc748d97f
 simpleMeaning: In statistics, the value in a maths or logic statement that shifts when another value shifts.
 scope: This is a value that shifts with another value, not the value that sets it.
 examples:
@@ -10,5 +8,4 @@ examples:
 - In the test, the dependent variable was the score each child got.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 993
-sourceFinalSha256: 7dbc61a84a99e5cd9163dab2a12acaa857ceb4581f348a399fa0543b9200c70a
 reviewVerdict: first-pass

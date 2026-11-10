@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'filter%1:06:01::'
 synsetId: 03344954-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ab8858220fb803febef6fb827b58f8de3f6de933973b72ee0c3449bfcf09cce3
 simpleMeaning: an electrical device that changes the mix of high and low waves in signals that pass through
   it
 scope: This is an electrical device for changing signals; it is not a thing that cleans liquid or air
@@ -13,5 +11,4 @@ examples:
 - He fitted a filter to cut out unwanted high-frequency signals from the audio.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 249
-sourceFinalSha256: da051816399fa51bd6690837b5cb864013e62cb03d15c74f036ee2156868197a
 reviewVerdict: first-pass

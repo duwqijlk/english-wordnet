@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'choropleth_map%1:06:00::'
 synsetId: 03029776-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6cbfc94f8a073631ae5a92ecbd9d2db512d7f7535a5dcbe1701d5e4c14b7622c
 simpleMeaning: Darker and lighter shades or colours, or marks set inside marked-off parts, show the usual
   amount of something in each part of a picture of a place
 scope: This picture of a place shows the usual amount of something in each marked-off part by darker and
@@ -12,5 +10,4 @@ examples:
 - On the choropleth map, each part had a shade for its usual amount.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 929
-sourceFinalSha256: 2a9cec2468f383ce3f8667f5677a4020785105c5516755a220a2e0bae60e245b
 reviewVerdict: first-pass

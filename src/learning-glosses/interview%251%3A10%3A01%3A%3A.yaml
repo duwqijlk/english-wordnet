@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'interview%1:10:01::'
 synsetId: 07210735-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8b854af2372433209c4ad9fd42b690437c4756b22a7fabb7b2988fb0d6bde62f
 simpleMeaning: A conversation in which one person asks another questions to draw out information, often
   for a news report.
 scope: This is the questioning event itself, not a job selection meeting and not a written questionnaire.
@@ -11,5 +9,4 @@ examples:
 - Police conducted an interview with the witness.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 30
-sourceFinalSha256: 4d616413347f44db1832b60282f9e89654ac0819c65f59a977140ee616c5c192
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'salinometer%1:06:00::'
 synsetId: 04137649-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6ae1779298da05d9f5ffa854fa255e27dcc49aa3f7c7d4433edc9376b59569a4
 simpleMeaning: By finding how heavy a salt water mix is for its size, this glass float works out how much
   salt is in it.
 scope: Among floats that measure liquids, this one works out how much salt is in a salt water mix by finding
@@ -12,5 +10,4 @@ examples:
 - They checked the mix with a salinometer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1033
-sourceFinalSha256: 4e6a7ffb14bc8dae387e0f684eab57af4a4995733c73bc928a43ee18038d4148
 reviewVerdict: first-pass

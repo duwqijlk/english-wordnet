@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'inn%1:06:00::'
 synsetId: 03546876-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1d9655b9ba52343827257331aaacf2f6ab4aaa41323e18605674c8061e705f79
 simpleMeaning: a place like a hotel where people travelling can pay to stay and sleep for the night
 scope: A place where travellers pay to sleep for the night, not a home where people live for a long time
   and not a place that only serves food.
@@ -11,5 +9,4 @@ examples:
 - The inn gave travellers a warm room and a bed for the night.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 173
-sourceFinalSha256: 9cff663464f8fd3040b60fa82abce01817f093d74165155dffbbf300df16ac78
 reviewVerdict: first-pass

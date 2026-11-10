@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'modem%1:06:00::'
 synsetId: 03783287-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 57e808000bec4b13ef881b949fb45c858cb8f69a4c2ca56f0b8ffe1f12ce8ba1
 simpleMeaning: electronic equipment, a device that lets computers join each other through a telephone
   line
 scope: A device that joins computers through a telephone line, not a computer itself and not a telephone.
@@ -11,5 +9,4 @@ examples:
 - When the modem stopped working, the computers could no longer join each other.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 648
-sourceFinalSha256: c4c3570f703d0d428a179df6ac4a11ec48c580f4aa4860a284145103f03a2975
 reviewVerdict: first-pass

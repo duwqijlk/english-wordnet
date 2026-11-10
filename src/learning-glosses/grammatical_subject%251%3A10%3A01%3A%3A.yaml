@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'grammatical_subject%1:10:01::'
 synsetId: 92464977-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4211bca966a0d213b809f684d8bd4a0b70b2c877d86f0794224adbbbf60ebd79
 simpleMeaning: a noun or pronoun that stands first in a plain English sentence and points ahead to later
   words that give the real thing the sentence is about
 scope: The word that stands first in a plain sentence and points ahead to the real thing the sentence
@@ -12,5 +10,4 @@ examples:
 - The teacher asked us to find the grammatical subject of each sentence.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 867
-sourceFinalSha256: c6c2ce307f194bc76b2786d017e8a59f8d09a4d570e73fa18f26091004d056c5
 reviewVerdict: first-pass

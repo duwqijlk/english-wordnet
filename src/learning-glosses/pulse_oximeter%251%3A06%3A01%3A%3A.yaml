@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pulse_oximeter%1:06:01::'
 synsetId: 92459552-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 51123eaf2e5536997adeb6ee1a0ed7ece685459c26917f93633417706a91b06a
 simpleMeaning: A medical device that shines light through the skin to estimate how much oxygen the blood
   is carrying, rather than testing a blood sample directly.
 scope: A noninvasive monitor that estimates blood oxygen through the skin; not a blood test and not a
@@ -12,5 +10,4 @@ examples:
 - A pulse oximeter uses light to measure oxygen in the blood.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 106
-sourceFinalSha256: bd340dfe295cded4ac044bce99bf1ac042b06f764caf4df686cf5e2988255c28
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'multichannel_recorder%1:06:00::'
 synsetId: 03803964-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 54078587328da5dee0e3e2f449223ef23c8ca6076773f509aa05a4b332b8bba5
 simpleMeaning: A machine with two or more channels that keeps steady written records of two or more signals
   at the same time.
 scope: A machine that writes down two or more signals at once, not a machine that takes in only one signal
@@ -12,5 +10,4 @@ examples:
 - The multichannel recorder wrote down the heat and the pressure at the same time.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1250
-sourceFinalSha256: 7a31a5bf7a6adb9762c335e1ed90401f97bc4771271c61eb4ba61acc3afc84d6
 reviewVerdict: first-pass

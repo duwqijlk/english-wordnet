@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'register%1:06:03::'
 synsetId: 04078988-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9773b05fcb0017be19efa8f35dd7ea2428c842c9d4afe1ff83df4ef506f6352f
 simpleMeaning: In computer science, a part of a computer's memory with its own place, used to hold one
   kind of fact
 scope: In computer science, a part of a computer's memory with its own place for one kind of fact, not
@@ -12,5 +10,4 @@ examples:
 - Data moved from the register to the main memory.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 182
-sourceFinalSha256: 5cfbd45f4086b618534ba618707441d9e4c3e27fb78bd15f77999f19ee78aa50
 reviewVerdict: first-pass

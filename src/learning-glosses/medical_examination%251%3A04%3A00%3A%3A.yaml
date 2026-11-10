@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'medical_examination%1:04:00::'
 synsetId: 00143181-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b3db058b8ff10a4c283a94ee0cdea9f1a1243d184903fa63f8a1db21afe191c6
 simpleMeaning: A doctor gives the body a full look-over, then runs tests picked to fit the person's age,
   sex and health
 scope: 'Also called checkup, health check, medical, medical checkup or medical exam: a full check of the
@@ -12,5 +10,4 @@ examples:
 - Before he started the new job, he had a medical examination.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1430
-sourceFinalSha256: 4ac91b9aa5ba25038530c8edefd24a229893fd8dc52f7cb31771fa42b9fb2d49
 reviewVerdict: first-pass

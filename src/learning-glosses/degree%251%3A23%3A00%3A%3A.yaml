@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'degree%1:23:00::'
 synsetId: 13632450-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9ee8cc6b686502859f8a239d7d5fbaea7c2221c32ed3cf9162d1dc80ea83696a
 simpleMeaning: a unit that tells how far something has turned, or how widely two lines open at a point
 scope: 'This is the angular unit sense; distinct from degree%1:07:00:: (a point on a scale of intensity
   or amount), degree%1:26:01:: (a stage in a process or series), degree%1:10:00:: (a college or university
@@ -13,5 +11,4 @@ examples:
 - The telescope was turned by fifteen degrees to the left.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 76
-sourceFinalSha256: 91cd4cee1f42e0b8f16479f2eb5495a5151bb6ea188cebddd230230fc1887c74
 reviewVerdict: first-pass

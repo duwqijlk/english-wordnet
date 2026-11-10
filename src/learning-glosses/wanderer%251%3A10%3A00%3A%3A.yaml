@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'wanderer%1:10:00::'
 synsetId: 06591891-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 42e4b9e4eda74cf6dad7ecc87ea8e48b9809c273872e16589230c6b09bd11a97
 simpleMeaning: a computer program that moves through the internet looking for things anyone can see, to
   add them to a database (a store of information) that a search tool can search
 scope: 'Also called spider: a program that looks through the internet for things to add to a store of
@@ -12,5 +10,4 @@ examples:
 - A search tool used the store of facts built up by the wanderer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 484
-sourceFinalSha256: 1d733f5a0efe6846a8e00acc9d9fccc1d9c813c95a17f0d98d4ffcf7b1f82fac
 reviewVerdict: first-pass

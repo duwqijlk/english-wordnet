@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'disease%1:26:00::'
 synsetId: 14093842-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3a15b7b81772227d93d1b2a485b9500c8347396717bfdcc2944ffa68fa079a7d
 simpleMeaning: A condition in which health is weakened or the body does not work as it should.
 scope: This is not a wound or injury from an accident; it is a condition in which the body or mind works
   abnormally.
@@ -11,5 +9,4 @@ examples:
 - The village was hit by a rare disease that year.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 27
-sourceFinalSha256: dbd2ff39953ab3169763f382dbd483a8d8b9a2915866b62769ff3c20e1a66452
 reviewVerdict: first-pass

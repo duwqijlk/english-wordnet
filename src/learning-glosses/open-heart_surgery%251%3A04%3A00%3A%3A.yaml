@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'open-heart_surgery%1:04:00::'
 synsetId: 00676783-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 601c4946fc7d2630da4a7b2318d2ea499a623210b4483544719b84e12f0a726d
 simpleMeaning: 'an operation on the heart: the chest is opened, the heart is stopped, and blood runs through
   a heart-lung machine while a valve or heart blood vessel is fixed'
 scope: An operation in which the chest is opened and the heart is stopped, not surgery done through a
@@ -12,5 +10,4 @@ examples:
 - The baby recovered well after open-heart surgery.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 873
-sourceFinalSha256: 39f7e45d13add6e75c4f7e420f361fbd843490fb5c5514c48087d00cb3f055ec
 reviewVerdict: first-pass

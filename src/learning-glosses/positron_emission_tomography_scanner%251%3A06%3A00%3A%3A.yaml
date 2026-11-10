@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'positron_emission_tomography_scanner%1:06:00::'
 synsetId: 03994348-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 14cd390d3dc27912e4179dd7465420eb7963bb56fd529a7cdfbcad84136afad4
 simpleMeaning: This machine takes cross-sectional X-ray pictures through the body, showing how the body's
   inner workings go on inside.
 scope: This machine belongs with the machines that make pictures of the inside of the body, showing how
@@ -12,5 +10,4 @@ examples:
 - The positron emission tomography scanner showed how the body's inner workings went on.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1026
-sourceFinalSha256: 4e2638f836bdbe66468d675ba57cfd29319183020479d43cd63a3f5208801f81
 reviewVerdict: first-pass

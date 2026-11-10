@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'suit%1:04:00::'
 synsetId: 01185144-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1d165d061370041079adfa93bee1322874e2bcc0264bf009632a9e5a7e999f49
 simpleMeaning: any kind of court proceeding in which a person asks the court for a legal remedy
 scope: This is a court case seeking a legal remedy, not a set of matching clothes, not a business executive,
   not a man's courting of a woman, not a plea to someone of higher rank, and not one of the four groups
@@ -12,5 +10,4 @@ examples:
 - She filed suit against the company for breach of contract.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 71
-sourceFinalSha256: 3602f46e5de85795d953c0ced88e0eeab4e8c19bcfe4910695988397d71d80eb
 reviewVerdict: first-pass

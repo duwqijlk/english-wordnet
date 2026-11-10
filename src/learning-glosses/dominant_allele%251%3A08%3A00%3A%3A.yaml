@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dominant_allele%1:08:00::'
 synsetId: 05445706-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: aca04b5b8407451ab67d0c0f1a8c54e07656494613ce3d53b4d8578e3f4c0fca
 simpleMeaning: A gene form that shows the same outward effect whether the form paired with it matches
   or not
 scope: A gene form that shows the same outward effect whether its pair matches or not; dominant is another
@@ -12,5 +10,4 @@ examples:
 - A dominant allele needs only one copy to show its effect.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1083
-sourceFinalSha256: 29dc4c275e01854ce7b0573cdf5dfa15ff209dd2e564493b84f0609c9a60b575
 reviewVerdict: first-pass

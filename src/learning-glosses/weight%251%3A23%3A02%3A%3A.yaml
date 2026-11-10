@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'weight%1:23:02::'
 synsetId: 13610524-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 059d382e059be756dc2fb5eea48a3d88d319617cd4cbaaed0acf9c4d48c8509a
 simpleMeaning: In statistics, a number that each item in a frequency distribution is multiplied by to
   show how much it matters compared with the rest.
 scope: This is a statistical number applied to data, not the heaviness of an object or the downward force
@@ -14,5 +12,4 @@ examples:
 - The software multiplies every score by a weight before adding the scores together.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 74
-sourceFinalSha256: ed1591d24f6259be89ab28419a0c4f4ccf684a305af0667fe4c8d69d24854e90
 reviewVerdict: first-pass

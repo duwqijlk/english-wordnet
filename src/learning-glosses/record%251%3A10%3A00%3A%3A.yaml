@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'record%1:10:00::'
 synsetId: 06502164-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6792b44baa56ecf0b474a67ed86a9aeda39fff20ccbdc7b935153c6c678fbc63
 simpleMeaning: an official list of the crimes a person accused of an offence has been found guilty of
   before
 scope: This is a list of past crimes, not a tally of achievements and not a single best or worst result.
@@ -11,5 +9,4 @@ examples:
 - A clean record can help someone find work after release from prison.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 58
-sourceFinalSha256: e08a866a653cb151f2e0885b07e2b3f69d4b0c8652453cae3d8d86195180a3d6
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'preclinical_trial%1:04:00::'
 synsetId: 00795784-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c5b9aedfde8eab8e9ab9d8e6a62a2e862444fb82b1d12fd126c965ad73735f4e
 simpleMeaning: A laboratory test of a new drug or new invasive medical device on animals, done to gather
   evidence justifying a clinical trial.
 scope: It is also called a preclinical phase or a preclinical test, and it is done on animals in a lab
@@ -12,5 +10,4 @@ examples:
 - Before the preclinical trial, no people had tried the drug.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1027
-sourceFinalSha256: 92045fc84c8ecab002cf3585af15d19d2a50ef1c3e34874f2b837a5214477dcc
 reviewVerdict: second-pass

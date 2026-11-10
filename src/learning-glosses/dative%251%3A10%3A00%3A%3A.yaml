@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dative%1:10:00::'
 synsetId: 06322713-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0df0af9570b70c9095679406d41d9baaf739ae33a29703ce2b08cff5311e170b
 simpleMeaning: The group of nouns used to name the person or thing that a verb's action is done for.
 scope: This is the group of nouns that act as the indirect object of a verb, also called the dative case,
   not the group that acts as the direct object or the group that shows who owns a thing.
@@ -11,5 +9,4 @@ examples:
 - The teacher asked us to find the dative in the sentence.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1080
-sourceFinalSha256: eecdf8aa61cfcecaee03a54477bf6499a79b13d7cb93078fd31318380295bfb2
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'brief%1:10:01::'
 synsetId: 06555772-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6f4d289b6c4bd666ca56c92686ff70ad703dd8a2498640f44fb7b2a172bd178d
 simpleMeaning: a written paper that sets out what happened in a client's case and what the law says about
   it
 scope: This is the written paper for a client's case. It sets out what happened and what the law says
@@ -12,5 +10,4 @@ examples:
 - Her brief gave the facts and the points of law for her client's case.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 158
-sourceFinalSha256: 6cada62c2d290e87dfb97dd4d303f3c192e072eff310e9bc8fff6cb6437c33a5
 reviewVerdict: first-pass

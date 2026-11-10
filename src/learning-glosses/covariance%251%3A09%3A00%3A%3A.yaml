@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'covariance%1:09:00::'
 synsetId: 06034695-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3269c305d36dd118df1baf41b478f5ee21d5ffd3d64ec5cd6dba807d4fe0eb0e
 simpleMeaning: In statistics, the average of the numbers made by multiplying the gaps of two things that
   change from their own averages
 scope: A number in statistics that shows how two things that change move together, not how one thing on
@@ -12,5 +10,4 @@ examples:
 - We worked out the covariance of the two sets of marks to see how they moved together.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1361
-sourceFinalSha256: b5b989ca2c8a90c4283b449a3e04a736f617f2f8508178bfbf856d8d26f01025
 reviewVerdict: first-pass

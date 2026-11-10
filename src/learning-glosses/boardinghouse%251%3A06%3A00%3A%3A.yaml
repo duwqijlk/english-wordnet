@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'boardinghouse%1:06:00::'
 synsetId: 02860757-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0ed1f4f3b8d2546d3619fbcb642bf5343a20a6f7b8bf1ffb2e30891c46eae974
 simpleMeaning: a private house that gives rooms and meals to guests who pay
 scope: A private house where guests pay to sleep and eat, not a hotel and not a home where guests stay
   for free.
@@ -11,5 +9,4 @@ examples:
 - The old boardinghouse had ten rooms for paying guests.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 502
-sourceFinalSha256: e2ec3d84e855b0d5e21063e788b995cb950eb20af63d97cfbff610ec782f1859
 reviewVerdict: first-pass

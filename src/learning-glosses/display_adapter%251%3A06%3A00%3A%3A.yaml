@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'display_adapter%1:06:00::'
 synsetId: 03216134-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ea7e94221d57e31f47e17faf42174e7e86dc6e8069ccd4f0252fa3cbd7413167
 simpleMeaning: In computer science, a part inside a computer that turns facts held in its memory into
   pictures shown on a screen
 scope: A part inside a computer that turns facts in memory into pictures on a screen, also called a display
@@ -12,5 +10,4 @@ examples:
 - He fitted a display adapter so the screen could show the game.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1371
-sourceFinalSha256: 933fb1e89cadb32a14779090d6d7db69c3ba56cecfcb4bf320533c0bbe82f950
 reviewVerdict: first-pass

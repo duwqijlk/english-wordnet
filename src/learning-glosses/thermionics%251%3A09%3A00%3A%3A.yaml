@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'thermionics%1:09:00::'
 synsetId: 06124929-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 183bfd73f642ce13a31be4a74e2e11acaecd82739874b5553df4fd4ae4150092
 simpleMeaning: Heat makes tiny charged bits fly off things, and the part of electronics that deals with
   this works most of all in empty glass tubes.
 scope: This is the part of electronics that deals with the bits heat throws off, not the bits themselves.
@@ -11,5 +9,4 @@ examples:
 - Thermionics explains why the hot filament gives off a stream of charged bits.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 968
-sourceFinalSha256: eb6d1185eaaf5b2a1f6612b9bdd230de9c26bb99e09f605826e1bcc5eb3c6d95
 reviewVerdict: first-pass

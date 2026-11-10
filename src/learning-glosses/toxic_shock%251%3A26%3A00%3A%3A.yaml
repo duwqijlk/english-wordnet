@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'toxic_shock%1:26:00::'
 synsetId: 14493728-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 04113130e89099543b97f821d9e8d15875060c6617585c5cd261324dc3bcd6c8
 simpleMeaning: a severe condition caused by a sudden staphylococcus infection, with fever, loose stools,
   nausea, reddened skin and dangerously low blood pressure, mostly in women using highly absorbent tampons
   while menstruating
@@ -13,5 +11,4 @@ examples:
 - She was treated in hospital for toxic shock after her blood pressure fell sharply.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 95
-sourceFinalSha256: 9dd5cb50fbc9c9c146ffab4f7883d31524b9ef778259e5353a4016225c197b7d
 reviewVerdict: first-pass

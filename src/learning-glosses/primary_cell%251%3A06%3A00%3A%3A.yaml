@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'primary_cell%1:06:00::'
 synsetId: 04548047-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ae1af650d5347b06d1f25b00b06794778578f1f03863531928cdeb65e9eed27f
 simpleMeaning: Chemicals stored inside turn into a push that drives a current, and the change cannot be
   undone, so the power source cannot be charged up again.
 scope: Galvanic cell and voltaic cell are other names for it, and the power source works once only, since
@@ -12,5 +10,4 @@ examples:
 - When the primary cell ran out, we put in a new one.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1027
-sourceFinalSha256: 92045fc84c8ecab002cf3585af15d19d2a50ef1c3e34874f2b837a5214477dcc
 reviewVerdict: first-pass

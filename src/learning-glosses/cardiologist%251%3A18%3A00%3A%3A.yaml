@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cardiologist%1:18:00::'
 synsetId: 09913897-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: da92abb0b1a88567e8332d2dae4d158665eaac7571a75132310c78010c829fcb
 simpleMeaning: a doctor who knows a lot about the heart, how it is made, how it works, and what can go
   wrong with it
 scope: A doctor for the heart only, not a doctor for all sickness and not a doctor for the brain or bones.
@@ -11,5 +9,4 @@ examples:
 - After the chest pain, she went to a cardiologist for tests.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 532
-sourceFinalSha256: c3218178594890033465152048dfa19c8dd89de139e594314a8c949831bef5a8
 reviewVerdict: first-pass

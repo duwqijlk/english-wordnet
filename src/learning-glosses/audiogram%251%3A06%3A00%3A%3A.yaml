@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'audiogram%1:06:00::'
 synsetId: 02760216-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 406ac34ce7aff4dea891e2f8b8a0752a14715de8ba729ef9b63ec37600f86628
 simpleMeaning: A chart that shows how well a person can hear sounds
 scope: This is a chart that shows how well a person can hear sounds, not the test itself and not the machine
   used to make the chart.
@@ -11,5 +9,4 @@ examples:
 - The doctor looked at his audiogram to see how well he could hear.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1171
-sourceFinalSha256: 6fc06707ec43c669a739d3a0f1d23bbee564849413315131ab22e81fcf8d0c4e
 reviewVerdict: first-pass

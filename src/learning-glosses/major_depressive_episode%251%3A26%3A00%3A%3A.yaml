@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'major_depressive_episode%1:26:00::'
 synsetId: 14413871-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 82fb23afca92ea74556bb0f08e1bade308ab7f76ee24cbf7cccc3146a0ca5250
 simpleMeaning: 'In psychiatry, a bout of severe low mood with classic signs: loss of pleasure, tiredness,
   poor sleep, despair, grim thoughts, feeling worthless; sometimes suicide attempts, but no known physical
   cause.'
@@ -13,5 +11,4 @@ examples:
 - His major depressive episode had no apparent physical trigger, so treatment focused on therapy.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 112
-sourceFinalSha256: 92c991a4bbe419b47ae3b9de3cb6f9ecb00702912e1b21dfe6db45c436a3917e
 reviewVerdict: first-pass

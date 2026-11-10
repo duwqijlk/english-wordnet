@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ad_val%4:02:00::'
 synsetId: 00252635-r
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9dd95c44e233531bf33039d6789aa6a888561bb0b7004de3d6dc52ebff98e16a
 simpleMeaning: a tax rate that rises or falls with the guessed worth of the goods taxed
 scope: This is a tax rate tied to the worth of the goods, also called ad valorem; not a fixed sum per
   item and not a tax on income.
@@ -11,5 +9,4 @@ examples:
 - Ad val duties change when the value of the goods changes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1316
-sourceFinalSha256: c2ac2408d0a940fb60b2b62cc9cb5aa510f7e50335dee01423e0599cce763886
 reviewVerdict: first-pass

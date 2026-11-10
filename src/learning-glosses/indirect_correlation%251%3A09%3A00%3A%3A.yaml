@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'indirect_correlation%1:09:00::'
 synsetId: 06042702-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 71636f7d2521066fec27e8094c0884fbbac69d1bd7333648fcb064ff4c3660e4
 simpleMeaning: A link in which one thing is large when the other is small, and the number for the link
   lies between 0 and -1.
 scope: A link in which one thing grows as the other shrinks, also called a negative correlation; not a
@@ -12,5 +10,4 @@ examples:
 - An indirect correlation shows up when more rain means fewer hours of sun.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1410
-sourceFinalSha256: 195d6307706d6eb5d64925a96ade4ebd73e3d6a0e022ebc00c0cd88813ebc707
 reviewVerdict: second-pass

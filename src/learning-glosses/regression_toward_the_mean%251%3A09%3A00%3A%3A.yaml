@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'regression_toward_the_mean%1:09:00::'
 synsetId: 06036794-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d6b09aa0db097783763b4812dbe25fd5ef150bd9ec68c5c352906f1136963c2e
 simpleMeaning: From the link between chosen values of x and seen values of y, the most likely value of
   y can be guessed for any value of x.
 scope: Also called regression, simple regression, and statistical regression, this is the link between
@@ -12,5 +10,4 @@ examples:
 - He used regression toward the mean to work out the value of y.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 959
-sourceFinalSha256: 3812c22f42c0c47b7d92cad5c9c6c4bf4246d46d6e2b9cd7ae7a6308917e5883
 reviewVerdict: first-pass

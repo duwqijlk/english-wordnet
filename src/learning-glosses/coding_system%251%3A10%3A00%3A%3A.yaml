@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'coding_system%1:10:00::'
 synsetId: 06365164-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1ed9bfbee9ba60d4c0071b960c2ff05f227f1015c87c0bfed671085f612f1452
 simpleMeaning: a set of signs that stand for letters or numbers when a note is sent
 scope: This is a set of signs that stand for letters or numbers when a note is sent, not the note itself
   and not the machine that sends it.
@@ -11,5 +9,4 @@ examples:
 - The army's coding system let soldiers send numbers by flag.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1353
-sourceFinalSha256: 657f81070382c0126df87c5291ecd782e6f8d9015de590257c137b376a76e52b
 reviewVerdict: first-pass

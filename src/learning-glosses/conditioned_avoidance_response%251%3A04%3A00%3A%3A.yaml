@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'conditioned_avoidance_response%1:04:00::'
 synsetId: 00866358-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0a7d9d016ec64d175a5537c023f0e56df89e8160c8e10d0a4aeac34921d3a4b6
 simpleMeaning: A learned act that comes just before an unpleasant thing happens
 scope: A learned act that comes just before an unpleasant thing happens; conditioned avoidance is another
   name for this sense, not a natural act done without learning and not the unpleasant thing itself.
@@ -11,5 +9,4 @@ examples:
 - His conditioned avoidance response came just before the unpleasant thing happened.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1191
-sourceFinalSha256: dfa955a3349a12a8b73d52ae57aba9b7f1f4e608651fdf0dd1e92384c58cb0f1
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fixed-point_notation%1:10:00::'
 synsetId: 06826364-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f5caa3acbb1d969ea73606f9bb6da903361f657696d6dc61af7cf25111b2cd4a
 simpleMeaning: a way of writing numbers with a set base, in which the dot that marks whole numbers from
   parts of a whole stays in one place by agreement
 scope: 'Also called a fixed-point representation system: a way of writing numbers where the dot stays
@@ -12,5 +10,4 @@ examples:
 - The old machine used fixed-point notation to write its numbers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1387
-sourceFinalSha256: e015fc4c4c719633b830beca2ac58d3813cbc60d1499e3c2ecafdd552bfbbc4a
 reviewVerdict: first-pass

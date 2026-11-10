@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'question%1:07:00::'
 synsetId: 04764777-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c1aeb3f70cf150c8b09df0ba6e69941f83f2e6b96903accb05f6220a583dc276
 simpleMeaning: doubt about whether something is true, is a fact, or really exists.
 scope: This is not a sentence that asks for information, and not a formal proposal voted on at a meeting;
   it is doubt about whether something is true or exists.
@@ -11,5 +9,4 @@ examples:
 - There is some question about whether the results can be trusted.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 54
-sourceFinalSha256: 51951ddc7b163bfe1764189bd3104cffc047cef636b8860dfcc635210beffc61
 reviewVerdict: first-pass

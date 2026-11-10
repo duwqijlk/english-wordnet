@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electrolytic_cell%1:06:00::'
 synsetId: 03280775-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 44e96bc8c1bb543ac757e6ea090a71b5d613e9d690787d12ca17670f58928caa
 simpleMeaning: Power from outside can split water into hydrogen and oxygen in this cell, where fluid that
   carries charge lets a change happen that would not happen alone
 scope: A cell where power from outside drives a change, not a cell that makes power on its own and not
@@ -12,5 +10,4 @@ examples:
 - They ran power through the electrolytic cell to coat the metal.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 894
-sourceFinalSha256: 50803dc7ea3e68c8e236f7786e8d2490cefcb4fd281c1c0a9516ba432fc5616a
 reviewVerdict: first-pass

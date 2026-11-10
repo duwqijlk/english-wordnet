@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'clinical_thermometer%1:06:00::'
 synsetId: 03047408-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ae4b094657b192e99a96cce126fd207e7f76cc9535f281a92ec3f51ac65db46c
 simpleMeaning: Marked to show a few degrees above and below the usual body heat, this mercury tool takes
   a person's temperature.
 scope: Also called mercury-in-glass clinical thermometer, this mercury tool is made to take a person's
@@ -12,5 +10,4 @@ examples:
 - She shook the clinical thermometer down before she used it again.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 988
-sourceFinalSha256: a23901c0d7404cd1488103aeb7a6792e912a99504aa5dbb57b6e7ebebee2f14e
 reviewVerdict: first-pass

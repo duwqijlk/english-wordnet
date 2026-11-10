@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'panel%1:06:03::'
 synsetId: 03191952-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 455f9e69a730f6ee53615fac50a775d9dde5c75f5dc4461344817a0009303404
 simpleMeaning: In computing, a small box that pops up on screen for a short time to ask for facts, which
   you close with 'okay' or 'cancel' once you have given them
 scope: In computing, a small box that asks you for facts, not the flat board with switches and dials and
@@ -12,5 +10,4 @@ examples:
 - He filled in the panel and clicked 'okay' to close it.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 213
-sourceFinalSha256: 8a8aeb2b13b32af9422b15b78e8f3cf0912ed8f70da6dbcfc1ac053bc070be89
 reviewVerdict: first-pass

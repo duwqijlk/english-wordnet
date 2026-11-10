@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'tonne-kilometer%1:23:01::'
 synsetId: 92410103-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 61266cd28d34a833ca001de3ff11dc4c64f8a940496711f663c90fc0438ca6ee
 simpleMeaning: One thousand kilograms of goods moved by one kind of transport over one thousand metres
   counts as one unit of freight work.
 scope: Freight work is counted in these units, also called tkm and tonne-kilometre.
@@ -11,5 +9,4 @@ examples:
 - The freight was counted in tonne-kilometers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1045
-sourceFinalSha256: 35831228425a9d86d7b40a39717f71022f9bd169892f608a952dd5d585fd6484
 reviewVerdict: second-pass

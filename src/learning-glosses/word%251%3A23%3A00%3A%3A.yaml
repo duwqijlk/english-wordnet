@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'word%1:23:00::'
 synsetId: 13648798-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a89d65c9d037a00914c1d3d2693a653b7b015d8e05527ccc2bb34f4ffe5694e2
 simpleMeaning: a run of bits, the smallest units of computer data, held in a computer's memory as one
   unit
 scope: This is a unit of computer data, not a unit of language that carries meaning.
@@ -11,5 +9,4 @@ examples:
 - Each word in the buffer held the code for one character.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 56
-sourceFinalSha256: 284a29e5bd902ee943892b3f3478850b31315065f1e045ef99dddb98a69105df
 reviewVerdict: first-pass

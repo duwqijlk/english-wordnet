@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'field%1:14:00::'
 synsetId: 08021702-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b0ebf7216be2a639c4005b3eadeca1d1b75b3e3aaac6b68ad1432ed249504088
 simpleMeaning: a mathematical set of elements in which addition and multiplication can be regrouped or
   swapped without changing the result, multiplication distributes over addition, and 0 and 1 are present.
 scope: This is the mathematical structure, not a plot of land, not an area of study, not a sports ground,
@@ -12,5 +10,4 @@ examples:
 - Every finite field has a number of elements equal to a power of a prime.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 73
-sourceFinalSha256: 2e5d5ea7d3c44a2147d6123a49a160ed7ed321a7b5b0479999cf92f5a6f8436d
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'metronidazole%1:06:00::'
 synsetId: 03762957-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 14b64137f7cd5a1c541b71a0e8d639a6e1a38433de7954895127194b03f6fcaa
 simpleMeaning: A drug (sold as Flagyl) used to treat two infections caused by tiny one-celled creatures.
 scope: A drug (sold as Flagyl) used to treat two infections caused by tiny one-celled creatures; not a
   drug for bacteria and not a drug for worms.
@@ -11,5 +9,4 @@ examples:
 - Metronidazole, sold as Flagyl, treats infections caused by tiny one-celled creatures.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1246
-sourceFinalSha256: 9e7f367b8f8c51bc3e15938500a792c5d341265e7d908a08fcab0fdc71cfd3c4
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ionization_chamber%1:06:00::'
 synsetId: 03588790-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 38e3820744a3937f22ad52fa7a29a8f1b704f8fbf868c657724612bfae2a6b2d
 simpleMeaning: Rays that give atoms an electric charge are read by this tool, which shows how much of
   them is in a place
 scope: A tool that tells how much radiation is in a place, also called an ionization tube; not a tool
@@ -12,5 +10,4 @@ examples:
 - They checked the ionization chamber before going into the lab.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1413
-sourceFinalSha256: 08f3fffc5825622f75f63434f49c7b7f79dae95c37e67fd3602341826ba20fa5
 reviewVerdict: first-pass

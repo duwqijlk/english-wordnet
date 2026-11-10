@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'wave_equation%1:10:00::'
 synsetId: 06684084-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f388627da4d9b1280a3221fb2f53cd4d8d0540b0cd3e342bc2ce09bea555fbeb
 simpleMeaning: A differential equation describing how smooth, repeating waves travel through a medium.
 scope: In maths, this equation relates rates of change to describe waves travelling through a medium;
   it is not the wave itself.
@@ -11,5 +9,4 @@ examples:
 - A solution of the wave equation shows how a wave changes over time.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1050
-sourceFinalSha256: 5ed1fe5287f5ef4112055cc7b58c7ce629b399c7b7f1dfa89a214737ecef5dba
 reviewVerdict: second-pass

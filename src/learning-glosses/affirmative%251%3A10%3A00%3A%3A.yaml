@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'affirmative%1:10:00::'
 synsetId: 07218356-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b6f8c8f6f207542cde93efc4ebe7a603a939a22d6e53bae4f2958382418a72c8
 simpleMeaning: a reply that says yes or shows agreement
 scope: This is the yes reply itself, not the describing word for giving agreement and not the describing
   word for showing approval.
@@ -11,5 +9,4 @@ examples:
 - When asked if he would help, he replied in the affirmative.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 473
-sourceFinalSha256: af7fc320a72046ea440cf8fcf94bdece728c4e1fc6ca21c76444750f66a23675
 reviewVerdict: first-pass

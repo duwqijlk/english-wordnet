@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'vintage%1:13:00::'
 synsetId: 07908393-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8e4232c22b78662d6b382f827a76b28b06590ca64f99c3a28c10fdafc52af9b6
 simpleMeaning: all the wine made from the grapes picked in one year at one vineyard
 scope: All the wine made from the grapes picked in one year at one vineyard, not wine from any year and
   not the vineyard itself.
@@ -11,5 +9,4 @@ examples:
 - This vintage comes from grapes grown on the south slope.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 379
-sourceFinalSha256: 211f4d95ab547c08e4b492c56df372af147b038a6c6aaee27df8b577f3567d41
 reviewVerdict: first-pass

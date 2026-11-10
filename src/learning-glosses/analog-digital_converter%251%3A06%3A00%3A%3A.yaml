@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'analog-digital_converter%1:06:00::'
 synsetId: 03202130-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b157a582c0346108270cffc2bc747a6510aa526a2aec57daa69c7342c5cb8188
 simpleMeaning: a machine that turns a smooth, unbroken signal into numbers that a computer can read
 scope: A machine that turns a smooth, unbroken stream into numbers a computer can read; also called analog-to-digital
   converter, digitiser and digitizer, not a machine that turns numbers back into a smooth stream.
@@ -11,5 +9,4 @@ examples:
 - With this analog-digital converter, the smooth sound from the record becomes numbers.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1320
-sourceFinalSha256: 8f9f3793e56773f88cbb3565e9f89bb59d7962e34f1387ad10cad91ed9ad16a2
 reviewVerdict: first-pass

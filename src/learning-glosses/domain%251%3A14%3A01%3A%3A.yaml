@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'domain%1:14:01::'
 synsetId: 08016560-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4586ace1e6b641d08b65cc9be7cafb85e2d153ec6c7459e9350879bae0659683
 simpleMeaning: In mathematics, all the values that can be put into a function (a rule that gives an answer)
   and for which it gives an answer
 scope: In mathematics, all the values that can be put into a function and for which it gives an answer;
@@ -12,5 +10,4 @@ examples:
 - The teacher asked us to find the domain before drawing the graph.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 284
-sourceFinalSha256: 096e3923c87668883fc45ecd07c816201674c4b369b865a506c0149e65c90f51
 reviewVerdict: first-pass

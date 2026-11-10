@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'truncation_error%1:04:00::'
 synsetId: 00074345-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2569b342729fd665da9f77c1e0712c26e42f0e97174480d12d925346e0b4702f
 simpleMeaning: In mathematics, a wrong answer that comes from stopping a sum with numbers before it is
   done
 scope: In mathematics, a wrong answer from stopping a sum with numbers before it is done; not a wrong
@@ -12,5 +10,4 @@ examples:
 - A truncation error made the answer too small.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1303
-sourceFinalSha256: fe78fef3f9ed55a2f9af6b3fdccc49c461bf30638670b5e1d947450ae7b7245f
 reviewVerdict: first-pass

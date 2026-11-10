@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'power_grid%1:06:00::'
 synsetId: 04003385-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6e03d98f2e7c0a83c473f494daf5c6f3e49bd14bdff4cc43fe07911ac2bfcdc0
 simpleMeaning: Wires that carry a strong flow share out the flow across a whole area
 scope: 'Another name for a power system, also called a grid: a set of wires that share out the flow across
   a whole area, not a set of lines on a map and not a cooking grill.'
@@ -11,5 +9,4 @@ examples:
 - Workers repaired the power grid after the cables came down.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1458
-sourceFinalSha256: 0d7f9fa8cccf11807f7ca42756af33f4d8a938785dbb07eb5d7e764160558039
 reviewVerdict: first-pass

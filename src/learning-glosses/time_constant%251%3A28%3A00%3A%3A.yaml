@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'time_constant%1:28:00::'
 synsetId: 15294953-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 023bb99aaf582623ba708c4b0c58a1bd72a68ec673b55a08e574742b0703e9e8
 simpleMeaning: In electronics, how long it takes a current or voltage in a circuit to rise or fall by
   about 63 per cent of its full size, in ever smaller steps
 scope: How long a current or voltage takes to change in a circuit, not a number got by dividing inductance
@@ -12,5 +10,4 @@ examples:
 - Engineers measured the time constant of the circuit.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1152
-sourceFinalSha256: f6542d1ea5598753f2b572930417f13e592d6b1a1bf3f8d99a064a44f8647035
 reviewVerdict: first-pass

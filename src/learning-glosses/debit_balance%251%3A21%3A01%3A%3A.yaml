@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'debit_balance%1:21:01::'
 synsetId: 92440435-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 31a581de13ead24452986a26115ba55e2304df4b81566cc854bab5b6de960cbb
 simpleMeaning: An account sum in which what is taken out is more than what is put in, so the customer
   owes the bank money.
 scope: An account sum where what is taken out is more than what is put in, so the customer owes the bank
@@ -12,5 +10,4 @@ examples:
 - His account showed a debit balance after the payment.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1198
-sourceFinalSha256: a95f668695cb4b9bf9fbc80057945781aca2753acd4a7cc36f922d83e294c678
 reviewVerdict: first-pass

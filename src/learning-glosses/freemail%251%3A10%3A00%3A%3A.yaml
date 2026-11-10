@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'freemail%1:10:00::'
 synsetId: 06290458-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d4c237bbc2b837625f7147e63f6d4a1e3b4f629cea4b535dc10faebbdff363b4
 simpleMeaning: A service that delivers email at no cost in return for showing ads to the person using
   it.
 scope: A free mail service paid for by ads, not a paid mail service and not a service that blocks ads.
@@ -11,5 +9,4 @@ examples:
 - Freemail shows ads to pay for the free service.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1390
-sourceFinalSha256: 175a877a74e9eb40621249558a0eb733b2516d379d392b9695b718d738f5a9bc
 reviewVerdict: second-pass

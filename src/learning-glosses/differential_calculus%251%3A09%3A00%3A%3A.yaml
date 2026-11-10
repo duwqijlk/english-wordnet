@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'differential_calculus%1:09:00::'
 synsetId: 06023784-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1543ebe4357184d54de2c887291ba8d30cd00c8be3ad62f5b9ae8a4c4fc48aa1
 simpleMeaning: Using slopes and tiny steps of change, this branch of maths works out how a quantity changes
   when the number it depends on changes.
 scope: Also called the method of fluxions; it works out how a quantity changes when the number it depends
@@ -12,5 +10,4 @@ examples:
 - He used differential calculus to find how the number changes with time.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 933
-sourceFinalSha256: 007981fa05c6376cbe824c16d4155c7bc3e9b88022fb187b4ff0a5b18ef3196f
 reviewVerdict: first-pass

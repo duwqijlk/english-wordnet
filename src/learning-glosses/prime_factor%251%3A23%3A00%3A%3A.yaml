@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'prime_factor%1:23:00::'
 synsetId: 13615379-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3dd3a3bd7f64be0c0cb6bdc89c2ee00e2cc6821f2143af9e0268f250a5d646d5
 simpleMeaning: one of the whole numbers that can only be split by one and itself, and that split a given
   number with no part left over
 scope: This is one of the numbers that split a given number with no part left over and can only be split
@@ -12,5 +10,4 @@ examples:
 - To find a prime factor of 15, start with 3 and 5.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1269
-sourceFinalSha256: ec456da39cdf6c0b6f5715649cd71e2ad5908faaa4fd2a6bb6e01e4a33dc50e3
 reviewVerdict: first-pass

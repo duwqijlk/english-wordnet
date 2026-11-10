@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'heating_element%1:06:00::'
 synsetId: 03513772-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a3f122729f8e615e26c793f33aab8e8799e569e7e6e2aa5ce1a5a411ae88304f
 simpleMeaning: Fuel or power is turned into heat by this part of a stove or cooker
 scope: The part of a stove or cooker that turns fuel or power into heat, not the whole stove and not a
   switch that turns it on.
@@ -11,5 +9,4 @@ examples:
 - She replaced the heating element in the old cooker.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1401
-sourceFinalSha256: 9be1f6a7945175c3b84cfec7b8188e09bc8825fe3fbfc51449ec7285cf6f5fe6
 reviewVerdict: first-pass

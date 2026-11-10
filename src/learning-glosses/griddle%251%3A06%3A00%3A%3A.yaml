@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'griddle%1:06:00::'
 synsetId: 03464260-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 474f9fb316942f6fe2be9913486eb702962713704dafc209270d153e45bf5a33
 simpleMeaning: a cooking tool with a flat, hot surface, such as on top of a stove, where food is cooked
 scope: This is the flat cooking surface itself, not the act of cooking food on it and not a deep pan.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The eggs cooked quickly on the hot griddle.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 608
-sourceFinalSha256: fafa505a6f3208d8a624ebf88f2e62951594945e82ac03afbb43df9a01c06755
 reviewVerdict: first-pass

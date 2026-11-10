@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'feedback%1:22:00::'
 synsetId: 13500583-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 89fc7084f89d79857baa5d77a070a3f27e2a6fbd0fd18c8958db539e1d914cae
 simpleMeaning: A way of keeping a system working right by sending some of what comes out back in to change
   what comes out next
 scope: A process that controls what a system puts out, not a spoken answer to what someone has done and
@@ -12,5 +10,4 @@ examples:
 - Feedback from the sensor stops the motor when it runs too fast.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 218
-sourceFinalSha256: 385902f96a019a77ffda3e7036ba27369e9705280c0fe4e91fc7c2011ba3a556
 reviewVerdict: first-pass

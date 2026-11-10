@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'translation%1:24:00::'
 synsetId: 13807948-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 78566d9e03bd20b764110cc94827123bc96e9ef401ced4d087297f45f4a6e9ba
 simpleMeaning: In mathematics, a change that moves the starting point of the lines used to show positions
   to a new place, but keeps each line pointing the same way
 scope: In mathematics, this is moving a starting point while the lines keep the same direction, not the
@@ -12,5 +10,4 @@ examples:
 - The teacher showed a translation where the starting point changed place and each line kept its direction.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 159
-sourceFinalSha256: df9a1b67397c570fbdad2ef3441db295e2e2fddb8ccf5ef42a098c65d4acf8a3
 reviewVerdict: first-pass

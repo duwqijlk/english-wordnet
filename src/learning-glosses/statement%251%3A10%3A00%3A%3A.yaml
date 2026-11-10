@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'statement%1:10:00::'
 synsetId: 06735202-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a8f01399be8a1f4db1a5d3b98b683adf86ae9c42caf31a6022cb8a929ead92df
 simpleMeaning: Something a person says aloud or writes down to give facts or information.
 scope: This is the information itself, not a bank record or a formal list of accounts.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Her statement to the court described what she saw.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 24
-sourceFinalSha256: 28bac6a33506e2869d7aab99ac53c3409708117f44bc4304476efa065d045f69
 reviewVerdict: first-pass

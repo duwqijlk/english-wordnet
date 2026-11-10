@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'security_deposit%1:21:00::'
 synsetId: 13372293-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1a4840c1eecc0caabb286b56b2ff8d268eb2313118a3059e2b299304a144e76d
 simpleMeaning: The amount of collateral a customer deposits with a broker when borrowing from the broker
   to buy securities.
 scope: This is also called margin, and it is the money or goods a buyer leaves with a broker as a promise
@@ -12,5 +10,4 @@ examples:
 - They left a security deposit with the broker when borrowing to buy shares.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1034
-sourceFinalSha256: 377fe8d11ae7b278a0883615b8d7d609be973aa76bb5353918c2872c82cc390a
 reviewVerdict: second-pass

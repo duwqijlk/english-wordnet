@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'classified_stock%1:21:00::'
 synsetId: 13356023-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b03a0d4bfb9f3c83e560e95cebe342a7a8e8b64b33fe8fc6df7ffd20ef68b0bd
 simpleMeaning: Two kinds of shares in a firm, A and B, differ because the A kind gives its owners more
   say, such as a vote
 scope: This covers shares in a firm that come in two kinds, A and B, not shares that all carry the same
@@ -12,5 +10,4 @@ examples:
 - She held classified stock in both classes, A and B.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 988
-sourceFinalSha256: a23901c0d7404cd1488103aeb7a6792e912a99504aa5dbb57b6e7ebebee2f14e
 reviewVerdict: first-pass

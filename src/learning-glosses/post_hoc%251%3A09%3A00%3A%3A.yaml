@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'post_hoc%1:09:00::'
 synsetId: 05903579-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8ff202c2ccf6ec6619ada2a2ffd628caa1445fe6c2ba341603b71a9ccf0e8c18
 simpleMeaning: Because one thing came after another, a person wrongly holds that the first thing made
   the second happen.
 scope: This is the mistake of taking what came first to have made what came after happen, also called
@@ -12,5 +10,4 @@ examples:
 - 'She saw the post hoc error: the bell rang after lunch, but lunch did not ring the bell.'
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 956
-sourceFinalSha256: 697c31df3e0f0daa2ef9db500d42cdeb0b0ffeb1d9880d00ae21c189ce599337
 reviewVerdict: first-pass

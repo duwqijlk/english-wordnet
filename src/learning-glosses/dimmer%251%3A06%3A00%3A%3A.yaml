@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dimmer%1:06:00::'
 synsetId: 03204172-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 54b8ef736b8276f3ad30d60c4fa7eb9f5330474dc4535aaeb33739b47364fd04
 simpleMeaning: a part that changes the flow of power to an electric light, so you can make the light brighter
   or less bright
 scope: This is a control that sets how bright a light is; it is not a simple switch that only turns a
@@ -12,5 +10,4 @@ examples:
 - We put a dimmer on the lamp in the living room.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 498
-sourceFinalSha256: 4921fa69f5c9da234baaec6a9b5c94c4f0a92491ed449aaf5deca4fd7403acbf
 reviewVerdict: first-pass

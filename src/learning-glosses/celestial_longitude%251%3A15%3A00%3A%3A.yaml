@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'celestial_longitude%1:15:00::'
 synsetId: 08650766-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a5ffd1828b67fe9419195aa23d3fc72d7df02fe66d87f74e76dec86651859ce3
 simpleMeaning: In astronomy, how far east an object lies from the spring equinox, measured along the sky's
   equator, usually in hours, minutes and seconds, with declination giving its north-south position.
 scope: The angle that tells how far around the sky a point lies, not how far north or south it is (declination)
@@ -12,5 +10,4 @@ examples:
 - The two stars share a celestial longitude but sit at very different declinations.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 92
-sourceFinalSha256: b61a7c90b4f07974b09449cd17468ede9f61706d1e619bbc611801c821fcb9a7
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: finished%5:00:00:painted:00
 synsetId: 01718003-s
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 096482a1bc77e9e646b36caed7bbf967833bd62306b227758c0282bcdd8375b5
 simpleMeaning: given a layer of paint, varnish, or another treatment on the outside
 scope: 'This describes a treated outside surface; distinct from finished%3:00:02:: (brought to the desired
   final state), finished%3:00:01:: (ended), finished%5:00:00:polished:00 (perfected to the highest level),
@@ -12,5 +10,4 @@ examples:
 - A finished door sells for more than a bare one.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 76
-sourceFinalSha256: 91cd4cee1f42e0b8f16479f2eb5495a5151bb6ea188cebddd230230fc1887c74
 reviewVerdict: first-pass

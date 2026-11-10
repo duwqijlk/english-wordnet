@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'great_hall%1:06:00::'
 synsetId: 03461950-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1ee117a59f5e184a325be680d7674edf15f696e3fa756542c650ec4f1276d3ef
 simpleMeaning: The main room in a castle or big house, that can be used for eating or for fun
 scope: This is the main room in a castle or big house, not a small side room and not a room for sleeping.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Guests danced in the great hall after dinner.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1221
-sourceFinalSha256: bd675682e7c683bcbb9b91810c11cdf1635d22ab9ed8983ff3574417cd01ff84
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'foreword%1:10:00::'
 synsetId: 06409546-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5b66358f6fe92ec3b019461318ca2b3987c90212238e1ad2badf4977acfb7d32
 simpleMeaning: a short piece of writing at the start of a book, before the main text
 scope: 'Also called preface: this is the short writing at the start of a book, not the main text of the
   book itself.'
@@ -11,5 +9,4 @@ examples:
 - I read the foreword before I started the first chapter.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 641
-sourceFinalSha256: d2bdc7333485864b3519fa789757a5eb2cb44012d9111f3edf6f5be472b32580
 reviewVerdict: first-pass

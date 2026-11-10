@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'deictic_word%1:10:00::'
 synsetId: 06300473-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 287be012668fb3395ecb2dbf3c26c93caf9e6099f0ec32d77271f33f03ae0fd4
 simpleMeaning: a word whose meaning changes with the speaker, hearer, and the place and time of the talk,
   naming who or what is meant or where or when something is
 scope: 'Also called deictic: a word whose meaning shifts with who speaks and where and when, not a word
@@ -12,5 +10,4 @@ examples:
 - In the sentence 'I will meet you there', the deictic word 'there' points to a place known from the talk.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 892
-sourceFinalSha256: 610254233200add6dfe43538c4f8c09eb9aeee29485930e19466815d6ce0d26f
 reviewVerdict: first-pass

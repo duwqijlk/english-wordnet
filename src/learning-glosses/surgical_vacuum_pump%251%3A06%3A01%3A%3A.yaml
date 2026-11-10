@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'surgical_vacuum_pump%1:06:01::'
 synsetId: 92460065-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 855a9e1b825b4c38d32252d3f818fda2d3a1d191cebdfbf9744bf90f05e72985
 simpleMeaning: a machine used in and after an operation to take out fluids, bits of body, or gases
 scope: This is a machine used in and after an operation to take out fluids, bits of body, or gases, also
   called a surgical suction pump; not a machine that puts fluid into the body and not a heart-lung machine.
@@ -11,5 +9,4 @@ examples:
 - The surgical vacuum pump removed fluid from the chest after surgery.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1294
-sourceFinalSha256: de8a7a0f8c8d063985ea792d1841132647ef9769c9a85ff4649f626d20970e38
 reviewVerdict: first-pass

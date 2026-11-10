@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'negative%3:00:05::'
 synsetId: 01825842-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 20c04c5eb27daf3c17539c268046a406c1db4a6e43c50fc3cc083bfb0a53cdd1
 simpleMeaning: measured or counted in the opposite direction from the one called positive
 scope: This is about a direction or value measured opposite to the positive one, not about a number below
   zero and not about electric charge.
@@ -11,5 +9,4 @@ examples:
 - The meter showed a negative reading, meaning the flow had reversed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 85
-sourceFinalSha256: 44855bc1803b8a79605e2f97a10c48106136fdcccc1def056d1466201f76fcbc
 reviewVerdict: first-pass

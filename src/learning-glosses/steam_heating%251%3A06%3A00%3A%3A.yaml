@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'steam_heating%1:06:00::'
 synsetId: 04316820-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 832b323a26fe08be113ddd94a6d73990deb3c6e9e797049dffab464b732d466e
 simpleMeaning: A system that makes hot vapour in boilers and sends it through pipes to radiators to give
   out warmth
 scope: A system that makes hot vapour in boilers and sends it to radiators, also called steam heat; not
@@ -12,5 +10,4 @@ examples:
 - The hotel changed to steam heating last year.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1146
-sourceFinalSha256: b61123b8679b258b05d52077c261a1b57edf9891117f85c4aa0e2e1d6b2499df
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'factor_analysis%1:09:00::'
 synsetId: 06039726-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c6a566d0c3c67187bf551a750cdb0d716b54f19fc55d78e18ae76562e9768d39
 simpleMeaning: Any of several statistical methods that shrink a big set of correlated measurements into
   a few underlying factors, which then explain how the measurements relate.
 scope: A statistical method for finding a few hidden factors behind a mass of correlated measurements,
@@ -12,5 +10,4 @@ examples:
 - Factor analysis showed that the twelve test scores mostly reflected three underlying abilities.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 111
-sourceFinalSha256: 1030ad98129d32b36db60e98f6adedbdd19f919f9e9ad18aab7ad35bbb0aed3a
 reviewVerdict: self-approved

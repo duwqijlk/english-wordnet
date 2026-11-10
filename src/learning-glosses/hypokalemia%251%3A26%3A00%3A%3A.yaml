@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'hypokalemia%1:26:00::'
 synsetId: 14293274-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 22990c6ea8b47d68a4c4a8cb8d15cb0a704fbee514caa25cfb9124079f4d839e
 simpleMeaning: The blood holds far too little potassium, so a person grows weak and the heart beats wrongly,
   with tumors of the adrenal gland, starvation, or taking water pills.
 scope: This is too little potassium in the blood, not a weak heart on its own.
@@ -11,5 +9,4 @@ examples:
 - The doctor found hypokalemia after the patient had taken water pills for weeks.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 899
-sourceFinalSha256: 1d28b561c1e7cae5f91c0202b9deac60adfe715f6d057f6dafdd86286b27883f
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'instrument_panel%1:06:00::'
 synsetId: 03102791-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c755b8a3da0e49cc1b15856b4a98235011a5334fdff506a44448a75f578e11f0
 simpleMeaning: Switches, dials, and meters sit on one flat board that blocks power, so they can run other
   machines that use power.
 scope: Also called board, panel, control board, and control panel, this is a flat board holding switches,
@@ -12,5 +10,4 @@ examples:
 - All the dials on the instrument panel went dark.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 899
-sourceFinalSha256: 1d28b561c1e7cae5f91c0202b9deac60adfe715f6d057f6dafdd86286b27883f
 reviewVerdict: first-pass

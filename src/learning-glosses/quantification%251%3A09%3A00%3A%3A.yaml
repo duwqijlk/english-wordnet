@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'quantification%1:09:00::'
 synsetId: 06175339-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2d6dd0ffc2038c8a248a582469fb3fcc85c909746921d2a5d143e81c881ce31d
 simpleMeaning: A limit put on the parts of a statement that can stand for different things, by words like
   'some', 'all' or 'no'
 scope: This is the limit that words like 'some', 'all' or 'no' put on a statement, not the act of finding
@@ -12,5 +10,4 @@ examples:
 - The quantification in her statement was weak because 'some' did not say how many.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 651
-sourceFinalSha256: 797db1a00a92086f7ea0cc8e35de22c3daa424df2f14d4cab37e3c43759ef1e1
 reviewVerdict: first-pass

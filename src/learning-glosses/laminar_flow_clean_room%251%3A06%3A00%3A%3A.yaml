@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'laminar_flow_clean_room%1:06:00::'
 synsetId: 03640807-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 59acf0c9551055038754abc9ef71ef84fa1044ef2d2486ef3ad905d4d999a34a
 simpleMeaning: A place with no stray bits in the air, used to make the tiny chips that run computers
 scope: A work place kept free of stray bits in the air for making computer chips, not an ordinary work
   place and not a place for washing.
@@ -11,5 +9,4 @@ examples:
 - The laminar flow clean room keeps dust away from the chips being made.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1417
-sourceFinalSha256: c45706378c82401db93ea165671f6c4b6ac75524051d5f7debea80a7d5b8ef8b
 reviewVerdict: first-pass

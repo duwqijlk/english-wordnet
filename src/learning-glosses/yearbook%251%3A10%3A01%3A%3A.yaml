@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'yearbook%1:10:01::'
 synsetId: 07297202-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9acf52b40fe8c6b03e141fce8e6c3974d6c76a2c9787ce412c1983f3ec6bc138
 simpleMeaning: A book brought out each year by the class finishing a high school or college, usually with
   photos of teachers and of the students who are finishing
 scope: This is the yearly book of a finishing class, with photos of its teachers and students, not a textbook
@@ -12,5 +10,4 @@ examples:
 - Our yearbook has a page of photos for every student in the class.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 484
-sourceFinalSha256: 1d733f5a0efe6846a8e00acc9d9fccc1d9c813c95a17f0d98d4ffcf7b1f82fac
 reviewVerdict: first-pass

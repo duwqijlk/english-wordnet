@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'function%1:24:00::'
 synsetId: 13806028-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5fd1b6f490d51975812c5df69daa1d2b6c13181ed544b0b9b22ea21ee52df920
 simpleMeaning: in mathematics, a rule that pairs every member of one set with a member of another set
 scope: This is the mathematical link between two sets, not a purpose or use, a duty or role, a relation
   in which one thing depends on another, a social gathering, or a computer routine.
@@ -11,5 +9,4 @@ examples:
 - For each input, the function gives exactly one output.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 70
-sourceFinalSha256: 3a0e61cf05163cf538cb0f48d11d41d0915bbefb8312b5bebbccb3ab57769ced
 reviewVerdict: first-pass

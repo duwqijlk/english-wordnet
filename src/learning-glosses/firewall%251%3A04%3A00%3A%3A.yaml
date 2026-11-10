@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'firewall%1:04:00::'
 synsetId: 00104908-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d4308c0e54edd22b429f1dd0bc614ecbcc380f8e0dc298b669855000fb1d6958
 simpleMeaning: in everyday talk, giving a machine full power by pushing its control as far as it will
   go
 scope: In everyday talk, giving a machine full power, not the wall of hardware and software that guards
@@ -12,5 +10,4 @@ examples:
 - The pilot pushed the firewall to climb away fast.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 459
-sourceFinalSha256: 4217d9b0e5a86cacba318cdee72c7c2597f6d9ae516079927061408d82f6836a
 reviewVerdict: first-pass

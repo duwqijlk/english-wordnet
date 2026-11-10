@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gloss%1:10:00::'
 synsetId: 06756695-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 728d5588303e756d86772d62fd7f35af33ade7006b044547df335d6199edc58f
 simpleMeaning: an explanation or definition that tells what a hard word in a piece of writing means
 scope: This is an explanation or definition that tells what a hard word in a text means, not a list of
   such words and not a false front put on to mislead.
@@ -11,5 +9,4 @@ examples:
 - She wrote a gloss in the margin to explain the strange term.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 409
-sourceFinalSha256: 5a1645e7514b7cefcd4579149195068f906061295f3831229a62b9aac7e6349f
 reviewVerdict: first-pass

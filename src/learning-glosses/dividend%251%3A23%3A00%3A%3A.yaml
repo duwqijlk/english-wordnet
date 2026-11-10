@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dividend%1:23:00::'
 synsetId: 13755093-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f42e3fc0378bd71689d9c22d42695c1ab2a5557ae6aa709258cf3899a961e801
 simpleMeaning: The number you start with in a maths sum, before another number splits it
 scope: This is the number in a maths sum that gets split by another number, not the money a company pays
   to people who own parts of it.
@@ -11,5 +9,4 @@ examples:
 - The teacher wrote the dividend in large numbers on the board so we could split it by 4.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 536
-sourceFinalSha256: a70c0e9358a114f096416b43aaf8a89846cf08fa3c5213580ed2049734ff04f5
 reviewVerdict: first-pass

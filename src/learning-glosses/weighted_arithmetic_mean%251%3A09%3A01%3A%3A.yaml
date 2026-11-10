@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'weighted_arithmetic_mean%1:09:01::'
 synsetId: 92436725-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cd4ae219a2064e0baa613308556fe05cade5261cda8ecf07394720b1d7ec13d7
 simpleMeaning: An average comes out with some numbers counting more than others, when each number to be
   worked out is given a weight.
 scope: Also called weighted average and weighted mean, it is an average where a weight is given to each
@@ -12,5 +10,4 @@ examples:
 - The weighted arithmetic mean of the three scores was worked out.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1050
-sourceFinalSha256: 5ed1fe5287f5ef4112055cc7b58c7ce629b399c7b7f1dfa89a214737ecef5dba
 reviewVerdict: first-pass

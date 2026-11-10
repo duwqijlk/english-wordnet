@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'medallion%1:10:01::'
 synsetId: 06896510-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8f386532c3021157f2c00bb416eadf01b9afd5d9e511836332c4d33460c0f4f2
 simpleMeaning: a badge that shows a taxi has been officially listed to carry passengers
 scope: A badge showing a taxi is officially registered, not a round piece of food or a medal.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Without a medallion, a cab cannot pick up passengers legally in the city.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 359
-sourceFinalSha256: 811be0440a1d95181d919526daa0a29a5dbd31bd1714168a35e6f9e2b1b1e4d5
 reviewVerdict: first-pass

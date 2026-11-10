@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'predictor_variable%1:09:00::'
 synsetId: 05872320-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c3c6b2dbfe01c11100c19b8c18022afcd34c4c28ad659ea76b95ffbaa30e8dc1
 simpleMeaning: a changing value that can be used to guess the value of another changing value, as in statistical
   regression, a way of finding a link in numbers
 scope: A changing value used to guess another changing value, not the value being guessed.
@@ -11,5 +9,4 @@ examples:
 - In the model, hours of study was a predictor variable for test scores.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1268
-sourceFinalSha256: af886557e0de40a2d2850e439b76d25e81323fba983da82a18b300ee58f38e78
 reviewVerdict: first-pass

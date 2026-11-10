@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sampling%1:04:01::'
 synsetId: 01006717-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 172f47e1c50d2a6a53e6835469b1de9edad5a50c8890d3bb0b9eeb1e55ea6afb
 simpleMeaning: The act of measuring how high a sound or other wave goes, at set times again and again,
   to change it into numbers a computer can store
 scope: Measuring a changing signal at set times to make it digital; not choosing a small group of things
@@ -12,5 +10,4 @@ examples:
 - The machine does sampling many times each second to record the sound.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 470
-sourceFinalSha256: c34baebf50b40d211dc72c16894632ca8b2f9a318c6b514129073f82c1cb7e5b
 reviewVerdict: first-pass

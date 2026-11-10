@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'low-pass_filter%1:06:00::'
 synsetId: 03699522-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d6672628de2adea1352c73a3a751cdc70b3cb224f68f26e109227fa1b719840b
 simpleMeaning: A device that lets through waves under a set mark and weakens those above that mark.
 scope: A device that lets through waves under a set mark and weakens those above it, not one that lets
   through only waves above a set mark.
@@ -11,5 +9,4 @@ examples:
 - A low-pass filter in the radio let the bass through and weakened the treble.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1241
-sourceFinalSha256: 1d71072a04cedf7e53dae47617c8d67969783f12a0fbce711fd0cd150f818e23
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'anomaly%1:15:00::'
 synsetId: 08640338-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 910bd7c1463de55eb62fb4467dedfed3bfc87348cf462cbeb2a887bdf969f3a4
 simpleMeaning: In astronomy, the place of a planet, shown by the angle between it and perihelion (its
   nearest point to the sun), as seen from the sun
 scope: In astronomy, this is a planet's place measured as an angle. It is not the general sense of something
@@ -12,5 +10,4 @@ examples:
 - The astronomer worked out the planet's anomaly to find where it was in its path around the sun.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 496
-sourceFinalSha256: 061cb759f7d0a612c9abcab52bea20dc87f3622acb446864aa7f7300ff1700eb
 reviewVerdict: first-pass

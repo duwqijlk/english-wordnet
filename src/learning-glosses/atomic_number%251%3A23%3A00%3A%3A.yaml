@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'atomic_number%1:23:00::'
 synsetId: 13619958-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ebf03847b065cab6fe33bb3574ade5c1a779ba88c5cabbb1e5c779d1df220020
 simpleMeaning: the place of an element in Mendeleyev's table, the number of protons in the centre of its
   atom, or of electrons when the atom has no charge
 scope: The place of an element in Mendeleyev's table, not the weight of an atom and not the number of
@@ -12,5 +10,4 @@ examples:
 - The atomic number tells you how many protons are in the atom.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 885
-sourceFinalSha256: 9c691fe545226f434ddfd304609fc5f22ffce15292d3a27635416ffc8627aaf6
 reviewVerdict: first-pass

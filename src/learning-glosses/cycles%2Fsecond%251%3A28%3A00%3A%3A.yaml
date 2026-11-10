@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cycles/second%1:28:00::'
 synsetId: 15304090-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0cd7104df124eddbe5524294a0e8393d46a007b741ecb08b4b0e4bdebd4bbfe1
 simpleMeaning: 'A rate for repeats: it says how many times a thing happens in one unit of time, with one
   hertz for one repeat, named for Heinrich Rudolph Hertz.'
 scope: Also called cycle, hertz, cps, and cycle per second, it gives the rate at which a thing repeats.
@@ -11,5 +9,4 @@ examples:
 - The book gave the wave rate as cycles/second.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 992
-sourceFinalSha256: 8f8fe71f6cd997a695d678f94bc8be4ec2e7969a5bfbfdd3bcc364b46f410b41
 reviewVerdict: first-pass

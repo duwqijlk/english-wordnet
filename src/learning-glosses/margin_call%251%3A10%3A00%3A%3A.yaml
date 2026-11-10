@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'margin_call%1:10:00::'
 synsetId: 07207321-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 041d370516e444fd7d94674eb91bfe8f71443c7c09ff2522c8ab4f2c1ff9cb2c
 simpleMeaning: A demand from a broker that a person with an account put in more money until the money
   in the account reaches the least amount the broker asks for
 scope: Also called call; a demand from a broker for more money, not a demand for a loan and not a bill.
@@ -11,5 +9,4 @@ examples:
 - A margin call forced him to put in more money.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1243
-sourceFinalSha256: d36a78900d5450acb68ae0d981781ce8531f79c846c412aa8110f3433209ff51
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'amendment%1:10:00::'
 synsetId: 06736384-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b6966839f37604294a6c4b5e8afa2656eb2a2142bd466fe45a200c9b804209d9
 simpleMeaning: a statement added to a plan or paper, or one that changes it or makes it better, such as
   a bill or a country's main laws
 scope: This is the written change itself; it is not the act of making a change or fixing something.
@@ -11,5 +9,4 @@ examples:
 - Members of parliament voted for the amendment to the bill.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 496
-sourceFinalSha256: 061cb759f7d0a612c9abcab52bea20dc87f3622acb446864aa7f7300ff1700eb
 reviewVerdict: first-pass

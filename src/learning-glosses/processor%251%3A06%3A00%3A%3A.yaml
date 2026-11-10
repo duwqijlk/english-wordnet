@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'processor%1:06:00::'
 synsetId: 02998952-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 74c02f3a017809319b446728c6b13728416c249ba51fb34894c6e3df707bf8c8
 simpleMeaning: In computer science, the part of a computer that does most of the work of handling data;
   it is a small chip (a microprocessor)
 scope: In computers, this is the main chip, also called mainframe; it is not a person who works on things
@@ -12,5 +10,4 @@ examples:
 - The laptop's processor gets hot when you play games.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 479
-sourceFinalSha256: 7147c0390389d2b28424ccccb7989226daa9617f11d34e501745d71b3272d730
 reviewVerdict: first-pass

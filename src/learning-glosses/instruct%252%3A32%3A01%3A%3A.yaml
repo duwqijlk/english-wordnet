@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'instruct%2:32:01::'
 synsetId: 00751969-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 889ab99b39c53abee80f7983903eb2f9588f94375ee926a15e8d82f63de51c79
 simpleMeaning: to tell a person what they should do to carry out a piece of work
 scope: This is telling a person how to do a piece of work. It is not doing the work yourself.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She instructed him to check the machine before turning it on.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 231
-sourceFinalSha256: c22399eaaaaed41656d6637866dc9457ed59c20b39c09ac0fa288b05c2bdac5c
 reviewVerdict: first-pass

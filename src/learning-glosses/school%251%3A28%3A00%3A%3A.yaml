@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'school%1:28:00::'
 synsetId: 15228025-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b1b2e380896d17f3ae79276bac1012f174e59d8827e27cc31e384a371fecd4e8
 simpleMeaning: The time of day or year when lessons are taught and classes are in session.
 scope: This is not the building, the people or a holiday; it is the period when lessons are actually taking
   place.
@@ -11,5 +9,4 @@ examples:
 - We stayed late after school to finish the project.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 47
-sourceFinalSha256: 7224165e04356c686d933f67a4a42ae04bc609d5011f84993ac8eb4dec7f5db5
 reviewVerdict: first-pass

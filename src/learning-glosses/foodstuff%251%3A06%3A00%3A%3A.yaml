@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'foodstuff%1:06:00::'
 synsetId: 03466051-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a62a8e89e2de433d82ebb42307bbca16b4c4aa84cece6c58f2c8f5c346e3eaf1
 simpleMeaning: things sold by a grocer, usually used in the plural
 scope: 'Also called grocery: things a grocer sells, usually in the plural, not the shop where they are
   sold.'
@@ -11,5 +9,4 @@ examples:
 - The grocer keeps his foodstuffs on shelves near the door.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 600
-sourceFinalSha256: dbfe3db5982f224b790d9400f5347acd84f330c61a9513b00d9cb057d8b1f1e3
 reviewVerdict: first-pass

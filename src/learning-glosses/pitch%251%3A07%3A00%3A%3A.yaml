@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pitch%1:07:00::'
 synsetId: 04992447-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ba2cf327b0ac3e1539dbd10cdcaf462b369bb3690c7a2f875100081dde8d1196
 simpleMeaning: whether a sound is high or low, which changes with how many times a second the thing making
   it shakes back and forth
 scope: This is about how high or low a sound is, not a throw in baseball and not the dark, thick, sticky
@@ -12,5 +10,4 @@ examples:
 - Her voice rose in pitch when she was excited.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 160
-sourceFinalSha256: 193e029aee1bcb01d292879aa92c1039a7f371ca597181cb058691e61271cb30
 reviewVerdict: first-pass

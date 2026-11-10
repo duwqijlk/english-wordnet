@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'lombard_rate%1:21:01::'
 synsetId: 92413446-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6ef8048e9337d01740db9482f4a34a62841c64797616de2df277eae1a4ff3e6c
 simpleMeaning: For very short loans to other banks, a country's main bank sets the cost, and the banks
   give it approved things of worth as a pledge
 scope: This is the cost a country's main bank sets for very short loans to other banks, not the charge
@@ -12,5 +10,4 @@ examples:
 - Banks paid the Lombard rate for the overnight loan.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1423
-sourceFinalSha256: 98756ea34de09a75532c3439336c7666484003f532244bdf80b3356de6bd758f
 reviewVerdict: first-pass

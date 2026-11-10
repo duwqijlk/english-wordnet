@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pistonphone%1:06:01::'
 synsetId: 92448343-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2a1fd4d90f290155d8b8b1daf2f9a3004d247a98a6f8df429db0149fb746a6cd
 simpleMeaning: To check microphones that measure sound, this tool gives out one set sound of known strength
   inside a closed space.
 scope: It is a sound source that checks microphones with a known sound, and not a microphone itself.
@@ -11,5 +9,4 @@ examples:
 - They checked the microphone with a pistonphone.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 955
-sourceFinalSha256: bcf10b9aecbfc6ac3824017ecd11d44b935c28c03cd4049539195d6396a3bb5d
 reviewVerdict: first-pass

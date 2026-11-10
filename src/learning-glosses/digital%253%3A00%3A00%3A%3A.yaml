@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'digital%3:00:00::'
 synsetId: 00111512-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 58df6ee977ca5ad551bfdff47500ba3e8084d7fcb9b3fd40780489476c8f36bb
 simpleMeaning: Describing a circuit or piece of equipment that expresses measured amounts as numbers.
 scope: This describes how a circuit or device handles values, not 'showing figures on a display instead
   of a dial or scale,' and not 'relating to the fingers.'
@@ -11,5 +9,4 @@ examples:
 - A digital computer works with numbers rather than continuously varying voltages.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 70
-sourceFinalSha256: 3a0e61cf05163cf538cb0f48d11d41d0915bbefb8312b5bebbccb3ab57769ced
 reviewVerdict: first-pass

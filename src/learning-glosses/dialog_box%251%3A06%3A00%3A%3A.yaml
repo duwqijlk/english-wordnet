@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dialog_box%1:06:00::'
 synsetId: 03191952-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 455f9e69a730f6ee53615fac50a775d9dde5c75f5dc4461344817a0009303404
 simpleMeaning: A program opens this small short-lived window to ask you for facts, and it goes away when
   you pick 'okay' or 'cancel'
 scope: Panel is another name for this short-lived window in computing, which asks the user for facts and
@@ -12,5 +10,4 @@ examples:
 - Close the dialog box with 'okay' when you are done.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 933
-sourceFinalSha256: 007981fa05c6376cbe824c16d4155c7bc3e9b88022fb187b4ff0a5b18ef3196f
 reviewVerdict: first-pass

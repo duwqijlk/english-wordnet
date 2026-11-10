@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'course_credit%1:04:00::'
 synsetId: 00066675-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0efb49d3f1f8cafd0b87480ef874d02b1fb7ece86d5c6a109120fb1e4bd716da
 simpleMeaning: A college or university's formal note that a student has finished a set of classes well,
   usually counted in hours for each term
 scope: This is a college or university's formal note that a student has finished a set of classes well;
@@ -12,5 +10,4 @@ examples:
 - He needs one more course credit to finish the year.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1194
-sourceFinalSha256: 1ca8ba34e0b7fb4194ad65b5042e5ef698c6f034500dd353f71860cac2d894ef
 reviewVerdict: first-pass

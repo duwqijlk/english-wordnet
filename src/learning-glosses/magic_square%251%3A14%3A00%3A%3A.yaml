@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'magic_square%1:14:00::'
 synsetId: 08286628-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1db0aae6a1c1e53b04b119c5413f4a39fca259f9e299f2210f5a689f0aad2c5d
 simpleMeaning: A grid with n rows and columns, filled with the first n squared whole numbers so that every
   row, column, and diagonal adds up to the same total.
 scope: A number grid whose rows, columns and diagonals share one total, not a Sudoku puzzle or a plain
@@ -12,5 +10,4 @@ examples:
 - In a magic square, every row, column and diagonal adds up to the same number.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 124
-sourceFinalSha256: a58e4d75676f695a1313261d7b01cd4247d47b7e7ee1d9da56cba15992ac5571
 reviewVerdict: first-pass

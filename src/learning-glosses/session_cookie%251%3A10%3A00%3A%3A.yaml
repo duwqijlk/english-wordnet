@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'session_cookie%1:10:00::'
 synsetId: 06399370-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 596e3d707ba0f5b3a4a75d672b66051422756e04416051a5687c03decb78c3b7
 simpleMeaning: a small piece of data kept for a short time and wiped when you close the link
 scope: A small piece of data kept only while you are on a site, then wiped when you close the link; not
   a file kept on your computer for good, and not a sweet biscuit.
@@ -11,5 +9,4 @@ examples:
 - When I closed the link, the session cookie was wiped.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1283
-sourceFinalSha256: 18f624570dd9cbfe84565ce8202326e264c0c975137cc19f50ec8255987e793b
 reviewVerdict: first-pass

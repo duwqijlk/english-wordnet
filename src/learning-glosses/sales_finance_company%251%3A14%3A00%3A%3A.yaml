@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sales_finance_company%1:14:00::'
 synsetId: 08438601-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c79e649a4f6e7db708d409ff6b21eec47b7f73879e0700a03ff823bd33c9f073
 simpleMeaning: Shops sell their pay-later deals to this money-lending business, which pays less than the
   deals are worth.
 scope: This money-lending business buys pay-later deals from shops, paying less than the deals are worth.
@@ -11,5 +9,4 @@ examples:
 - Shops sell their pay-later deals to a sales finance company when they need cash.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1033
-sourceFinalSha256: 4e6a7ffb14bc8dae387e0f684eab57af4a4995733c73bc928a43ee18038d4148
 reviewVerdict: first-pass

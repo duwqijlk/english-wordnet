@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'risk%1:07:01::'
 synsetId: 05100555-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 15d2b55cdc4267269db8d569b306b9b8c3dbe7fcdab0d05af56f159e91210a76
 simpleMeaning: how likely it is that a person will come into contact with a germ that causes disease
 scope: This is the chance of meeting a germ, not the danger of losing money.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The risk of infection rises sharply in crowded rooms.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 65
-sourceFinalSha256: 7e090f016861e99e3c5f026a1ab28aedd6a43aae4dd6a6f5aea43f6bb657d3c3
 reviewVerdict: first-pass

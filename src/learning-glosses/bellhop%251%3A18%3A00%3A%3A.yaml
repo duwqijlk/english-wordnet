@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bellhop%1:18:00::'
 synsetId: 09868183-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ab0414d13b3aeb861283514d0b330dac8a081446ba2f5f454fcf0706e5e03bf1
 simpleMeaning: a person who works in a hotel, running small jobs for guests and carrying their bags
 scope: A worker in a hotel who carries bags and runs small jobs for guests; not the person at the front
   desk who gives out rooms, and not a guest staying at the hotel.
@@ -11,5 +9,4 @@ examples:
 - A bellhop met us at the hotel door and took our cases.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 492
-sourceFinalSha256: 4e06d419177b254f0c3bd189c3c5278b0668585da03922fc218d252f937fee6c
 reviewVerdict: first-pass

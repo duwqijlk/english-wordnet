@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'code%1:10:02::'
 synsetId: 06367301-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c2487a5f3d478585efbd363ce09f4fe588bba31ce7a24841cb15bf99f98effa2
 simpleMeaning: in computing, the way symbols are arranged as data or commands in a program, or a whole
   set of such commands
 scope: This is the symbolic content of a computer program, not a set of laws, not a system for sending
@@ -12,5 +10,4 @@ examples:
 - She spent the weekend writing code for her game.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 69
-sourceFinalSha256: b3c3c455efa4b08c8ba093e6eea947a53b4326cb06bb285e6f5518ea99d7e2c6
 reviewVerdict: first-pass

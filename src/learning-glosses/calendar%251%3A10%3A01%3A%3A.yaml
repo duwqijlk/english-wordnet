@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'calendar%1:10:01::'
 synsetId: 06499232-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 227f5506d92a18bd909c58811dc26de31a5bf93dc11aa8b737ac4bb1305263b1
 simpleMeaning: A list of things to happen, such as meetings, parties, or court days
 scope: A list of coming events, not the whole system of days and months and not the act of writing an
   event down.
@@ -11,5 +9,4 @@ examples:
 - His calendar was full of meetings all week.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 314
-sourceFinalSha256: 7b40b02c808d1769c61631516733fcdc24d33b981906e6cdd19d3aa1e502aae4
 reviewVerdict: first-pass

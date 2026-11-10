@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dossier%1:10:00::'
 synsetId: 06515542-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f39eca4cd39f477c82c245b63524b8d446b27b8a66f25f0a2cab44e20270e3a3
 simpleMeaning: a set of papers with many details about one person or subject, usually a record of one
   person
 scope: A set of papers about one person or subject, not a single letter or report and not a book written
@@ -12,5 +10,4 @@ examples:
 - She read the dossier before the meeting.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 591
-sourceFinalSha256: c64b9bd1067295e85b35f130ad259bfc90fd6d1b47f9eb468fe4aea0069e7820
 reviewVerdict: first-pass

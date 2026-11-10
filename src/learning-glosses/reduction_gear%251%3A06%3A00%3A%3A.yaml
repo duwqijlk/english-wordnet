@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'reduction_gear%1:06:00::'
 synsetId: 04073879-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9d66c0c68130d1d0ccef8dca8d86fcba9ca4e830d059f64b8346eb67e501d85f
 simpleMeaning: a set of turning wheels that slow down a fast turning part, so it comes out slower
 scope: A set of parts that slows a fast turning part down, not a box that changes speed in both ways and
   not a brake that stops a part.
@@ -11,5 +9,4 @@ examples:
 - The mill uses a reduction gear to turn the fast motor into a slow, strong turn.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1274
-sourceFinalSha256: 76e99967df7f53b6e4c150734ce764d678edfc5ced199c8320f24c1328416cec
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'iteration%1:22:00::'
 synsetId: 13525111-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 95801961863db434e3b08227ea6d190af12b1a36ffdeba5edfbf41828fc2e1dd
 simpleMeaning: In computer science, doing the same steps again and again, a set number of times or until
   a set result is reached
 scope: 'Also called looping: the act of carrying out the same steps again and again in a program; not
@@ -12,5 +10,4 @@ examples:
 - By iteration, the computer repeated the steps until it found the answer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 521
-sourceFinalSha256: b601487348adf02bed4ea5cd3f1fe383541c08db4d70052278b0d31076bbc91d
 reviewVerdict: first-pass

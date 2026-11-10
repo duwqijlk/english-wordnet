@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'genetic_algorithm%1:09:01::'
 synsetId: 92441268-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c5e537d1461f672bc2b69fd84876e582374b32e1a986d2865da203bb895f5f07
 simpleMeaning: In computing, a search method that uses ideas copied from the theory of natural selection
 scope: In computing, this is a search method that copies ideas from natural selection, not a search by
   hand and not a fixed set of steps for one sum.
@@ -11,5 +9,4 @@ examples:
 - Engineers used a genetic algorithm to plan the routes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1094
-sourceFinalSha256: 5b8ec299372b30c8b1d14f6af40c973b27c1662476b63a4e786bb12123957cfb
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'flash_memory%1:06:00::'
 synsetId: 03364282-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 52efaa6c93f5960e9c45aade7915da03045f5868720748c326e93a92d2c18022
 simpleMeaning: A store for data that keeps its data with no power, and can be wiped and written again
   by electric power
 scope: This is a store for data that keeps its data with no power and can be wiped and written again,
@@ -12,5 +10,4 @@ examples:
 - She saved the file to flash memory.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1090
-sourceFinalSha256: d0bcec5dccc9222aea36e4ca26da672adc5bea272b820d748a694e6055fdca96
 reviewVerdict: first-pass

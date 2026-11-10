@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'intravenous_pyelography%1:04:00::'
 synsetId: 00908527-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0e70a66c205e016cb0704bc8f16df5267c6dec9b6e5bedf365949288da60fd10
 simpleMeaning: An X-ray test of the kidneys and the tubes that carry urine, done after a dye is put into
   a vein to make them show up.
 scope: An X-ray test of the kidneys done with dye put into a vein, not a plain X-ray and not a test done
@@ -12,5 +10,4 @@ examples:
 - Intravenous pyelography showed a blockage in the tube from the kidney.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1104
-sourceFinalSha256: a26c930905d6fa2a9ddcacb2c6ed43cb2e4a1f34e259accc5c5f9c495bfc1c7f
 reviewVerdict: first-pass

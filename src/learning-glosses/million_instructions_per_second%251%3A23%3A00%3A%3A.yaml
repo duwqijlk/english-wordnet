@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'million_instructions_per_second%1:23:00::'
 synsetId: 13628859-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 871f0e9562bb6fe59be8db2ac28bf305f3747f2cd1391118cebfee7103c8bee2
 simpleMeaning: In computer science, this unit counts how fast a computer's main chip carries out orders,
   not the whole machine
 scope: In computer science, a measure of a computer's main chip alone, not of the whole machine and not
@@ -12,5 +10,4 @@ examples:
 - Engineers quoted the speed in million instructions per second.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1432
-sourceFinalSha256: 4bb939da3a8c1d51fc982d94b9abd81e23c72a85f5e6c73b750c76f03351db8f
 reviewVerdict: first-pass

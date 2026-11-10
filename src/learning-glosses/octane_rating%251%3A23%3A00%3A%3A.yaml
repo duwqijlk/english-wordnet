@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'octane_rating%1:23:00::'
 synsetId: 13601136-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2c8f0f5ada16d5dbdb70a50cba7559036e3e0ea7a06c58f25094cde35242b7c6
 simpleMeaning: Fuel is given this mark by how well it holds back the sharp knock that can come in an engine
 scope: A mark that tells how well fuel holds back the sharp knock that can come in an engine, also called
   octane number; not a measure of how much power fuel gives and not the fuel itself.
@@ -11,5 +9,4 @@ examples:
 - Cars with high-compression engines need a high octane rating.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1442
-sourceFinalSha256: 0d15c5b28fc8948a23ca188199b4a0526b5b4c9adac8a648a4a6b487748f40ab
 reviewVerdict: first-pass

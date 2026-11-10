@@ -1,36 +1,64 @@
-# Daily learning-gloss maintenance in this fork
+# Daily learning-gloss maintenance
 
-**One Git repository, one editable record per OEWN sense.** To simplify a particular sense, change only its file under `src/learning-glosses/<URL-quoted senseId>.yaml`. Do not edit the official `src/yaml/` synset definition, the release JSON ZIP, a SQLite database, or the migration manifest for an ordinary wording edit. The `manifest.json` and `lineage/` directory are the immutable 2025 pilot import ledger, not a second daily-maintained index.
+## Two branches, one source version
 
-Each gloss record retains its existing `senseId`, `synsetId`, original archive/definition hashes, separate learning `simpleMeaning`, editorial `scope`, and examples. Editing the gloss never changes the original sense→synset relation. A pull request should show the single file's diff, explain why the original was difficult and how the new wording preserves meaning, and include actual editorial review. The current `reviewed-model-not-student-validated` label is historical, not a human authorization or student acceptance signal. GitHub PR approvals, branch protection and CI rules still need configuring on the fork; they are not supplied by a label in YAML.
+- `main` is upstream-only reference history. Fetching upstream does not change our dictionary automatically.
+- `learning-glosses/base-2025` is our accumulating maintenance branch, not the untouched source baseline.
+- `2025-edition` and `LEARNING_SOURCE.json` identify the original source commit. The config is recorded once for the whole repository; never move the tag to make checks pass.
 
-Build process: validate upstream YAML sense identity and all learning-gloss original-definition hashes; enumerate `*.yaml` directly; produce an immutable read-only SQLite with original and reviewed meaning keyed by sense ID. The SQL is a query artifact, not an editing surface. The build discovers new gloss files automatically and hashes the current content into metadata, so **changing one gloss does not require changing 3,412 manifest hashes**. A missing old imported file is rejected to avoid silent disappearance; intentional withdrawal needs an explicit reviewed migration process. The pure source check is `scripts/check_learning_glosses.py --repo PATH` (YAML/original ID/formal structure; not meaning approval). The reviewed SQL builder is included at `scripts/build_learning_sql.py`. Run it with Python -I from outside the downloaded checkout; current CI integration and branch protections have not been configured. Every build recomputes the source-file inventory rather than requiring manifest edits for one gloss.
+Each task starts a temporary branch at the current maintenance tip, receives a reviewed PR, merges back and deletes the temporary branch. Part completion tags are immutable checkpoints. Do not add a third permanent branch or rewrite old history for tidiness.
 
-Upgrading OEWN upstream is a separate migration: compare original sense IDs, synset links, definitions, forms and license notice changes. If an original definition changes, re-review dependent glosses instead of silently carrying forward. Existing books pin a dictionary release; a newly built SQL does not rewrite their meanings by itself.
+## One sense, one editable YAML
 
-Local command (run Python -I from the englishbook project root, not inside this downloaded checkout):
+The current schema is `oewn-learning-gloss-v2`:
 
-```bash
-python -I -X utf8 local-resources/oewn-2025-upstream-clone/scripts/build_learning_sql.py --repo local-resources/oewn-2025-upstream-clone --out local-exports/NEW-release.sqlite --report local-exports/NEW-release-report.json
+```yaml
+schema: oewn-learning-gloss-v2
+senseId: existing OEWN sense ID
+synsetId: existing OEWN synset ID
+simpleMeaning: A clear, accurate learner definition.
+scope: Source-supported sense boundaries or other names.
+examples:
+  - A natural example of this sense.
+  - Another natural example of this sense.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 123
+reviewVerdict: second-pass
 ```
 
-The exact 2025 YAML tag matches the initially downloaded JSON on synset IDs, definitions, lexical sense mappings and declared forms. That comparison does not establish learner correctness. Reviewed batches are published by internal PRs in `duwqijlk/english-wordnet`; this is not an upstream submission or a production API deployment.
+No per-record archive, definition, row or batch hashes are required. `sourceBatch` records origin, not a record-set seal. Editing one gloss does not require modifying sibling records, updating a hash inventory or rebuilding SQLite.
 
-## Branches and checkpoints
+Git commits identify exact content; PRs record reasons and review; tags identify releases. Hash-bearing records and review files in old commits or immutable pilot `manifest.json` / `lineage/` remain historical evidence, not an active update index. Do not delete old evidence or pretend a model review means teacher/student validation.
 
-Keep two long-lived branches:
+## Editing and incoming packs
 
-- `main`: upstream-only tracking branch. Never merge learning-gloss work into it.
-- `learning-glosses/base-2025`: the accumulating 2025 learning-gloss integration branch, not an untouched source baseline.
+1. Identify the exact existing sense and inspect its source definition, synset binding and related senses.
+2. Edit only its learning YAML; never change `src/yaml/` original definitions, create a sense ID or hand-edit deployed databases/JSON.
+3. Preserve accuracy, restrictions, natural examples and useful scope. Do not invent exclusions or distort facts merely to avoid a headword component.
+4. Freeze the change in a commit. An independent reviewer must review that actual commit, not an unspecified earlier draft. If the text changes, obtain confirmation of the new revision.
+5. Run source/format checks and compare the exact sense-ID sets. Check the PR diff contains only intended learning changes.
+6. Merge, retain the PR/commit and clean up the temporary branch.
 
-The immutable source baseline is tag `2025-edition` (`dc343f2683279ecbb13fab4e2fd778d7b162d287`). Do not move this tag or merge a later OEWN release into `base-2025`.
+External parts 9, 13, 14 and 15 already in progress may retain their old draft/review/hash delivery format. Do not send them back merely for this schema migration. The receiving adapter checks the old inputs, records their untouched evidence, and emits v2. New repair handoffs identify the baseline maintenance commit and expected previous field values rather than creating fresh row hashes. If either differs, stop and reconcile; no blind overwrite. Already-issued legacy row-hash patches can be compared against the recorded pre-migration Git commit and current text without adding hashes back to active records.
 
-Start each temporary work branch at the current integration tip. After review, validation and PR merge, remove the work branch locally and on the fork, but only after checking that its exact tip is an ancestor of the integration branch and it has no independent work. Ancestry through earlier merged batches is normal; do not rewrite history merely to make batches appear independent. Keep `part-N` completion tags at the corresponding merge commits, and give later polish work its own checkpoint rather than moving an existing tag. An outstanding external pack is data, not a branch: parts 9, 13, 14 and 15 keep their assigned rows and numbers through repository cleanup.
+## Validation and optional builds
 
-A revert is an inverse change, not a branch deletion. Disjoint added sense files can usually be reverted independently; later edits to the same files may require resolution. Rollback must also reconcile the local maintenance catalog and audit records. Neither a tag nor a clean Git revert proves that the resulting dictionary is semantically correct.
+`LEARNING_SOURCE.json` centrally pins the source commit. Validation compares source YAML and license notices with that Git snapshot and checks actual sense IDs, filenames, synset bindings, schema and content. This replaces per-gloss source hashes, not source verification. Source file edits must fail validation even when an existing sense still exists.
 
-Before publishing a batch, compare the exact sense-ID/filename sets in the catalog, emitted YAML and Git tree, not only their counts. Ignore rules can hide an otherwise valid file. Run the source checker, and keep the result separate from the content-review evidence. Do not rebuild SQLite for routine batches unless a deliverable is needed.
+Run the trusted script with isolated Python from outside the downloaded checkout:
 
-## A later OEWN release
+```bash
+python -I -X utf8 local-resources/oewn-2025-upstream-clone/scripts/check_learning_glosses.py --repo local-resources/oewn-2025-upstream-clone
+```
 
-Create a separate version directory and a new integration branch such as `learning-glosses/base-2026`, based on the verified new source release. Preserve the 2025 branch, source tag and release pins. Migration must compare sense existence, sense-to-synset links, lemma/POS/forms, original definitions, relevant relations/usage context and license notices. A sense ID or an unchanged definition hash alone is not sufficient proof of compatibility. Re-review affected glosses; quarantine removed, split or ambiguous mappings rather than inventing identifiers. Rebind archive/definition hashes only after checking against the new source, never simply to make validation pass.
+The checker validates structure and source identity, not meaning or reviewer identity. Editorial review is separate. Compare catalog, emitted YAML and Git-tree sense-ID/path sets before publishing: ignore patterns can hide a file.
+
+SQLite is an optional derived query/offline artifact, not the editing source and not required for each batch. The builder discovers current YAML; it does not need updated pilot-manifest hashes. Build only when a deliverable is needed. Old readers may retain a deprecated empty hash-named compatibility column; it is not an active verification mechanism.
+
+## A later source release
+
+Create a separate version directory and a new version integration branch for a verified source release. Preserve the 2025 branch and original tag. Compare sense existence, sense-to-synset mappings, definitions, POS/forms, relevant relations/context and license changes; an unchanged ID alone does not prove compatibility. Re-review affected glosses and quarantine removed/split/ambiguous mappings. Existing books retain their release pin until explicitly migrated.
+
+## Rollback
+
+Use Git/PR history to revert an intended change. Disjoint additions usually revert independently; later edits to the same file can conflict. Reconcile the local maintenance catalog as well. Deleting a branch is not rollback, and a clean revert is not proof of semantic correctness.

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'comprehensive_examination%1:10:00::'
 synsetId: 07212549-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c4646b60279b933ba5e6ad8f11f4059db3fc391bf71353c0997019f2561cff36
 simpleMeaning: a hard test that checks how well a student knows one special subject
 scope: A hard test of how well a student knows one special subject, also called a comp or comprehensive;
   not a short quiz and not a test of one short course.
@@ -11,5 +9,4 @@ examples:
 - He passed the comprehensive examination after months of study.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1356
-sourceFinalSha256: 2f8da85ab72127e01d4342e8fc9712a88818ea9dceef4b2017636b30cc3a77e8
 reviewVerdict: first-pass

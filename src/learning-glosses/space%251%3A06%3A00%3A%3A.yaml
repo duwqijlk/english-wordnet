@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'space%1:06:00::'
 synsetId: 04037131-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: f51d18a9792b66839931889d644958e7dead302329740c5d2e9d1d5002a5f55a
 simpleMeaning: in printing, a piece of type that has no letter standing on top, put between words or sentences
   to leave a gap
 scope: This is the printer's physical block, not the blank character on a keyboard, not an empty area
@@ -12,5 +10,4 @@ examples:
 - A missing space made the two words run together when the page was printed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 73
-sourceFinalSha256: 2e5d5ea7d3c44a2147d6123a49a160ed7ed321a7b5b0479999cf92f5a6f8436d
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'formulary%1:10:00::'
 synsetId: 06423526-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cfe8d20390e224c912b72cc7fbee884edf370568293ff96de9565b4e4db324ab
 simpleMeaning: In pharmacology, a book that lists drugs and gives their recipes and how to make them
 scope: This is a book listing drugs with their recipes and ways of making them; pharmacopeia is another
   name for it, not a book of medical advice or a list of prices.
@@ -11,5 +9,4 @@ examples:
 - She looked up the dose in the formulary.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1092
-sourceFinalSha256: a50c2e46e45be5ef937016ee2d4084996393943408acca4a824d8b3acc1fe8fd
 reviewVerdict: first-pass

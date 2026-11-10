@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: streaming%5:00:00:unprocessed:00
 synsetId: 01959729-s
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7145d13d8cab02edc253eecddb8245b84fa803c899116237d336170f8aed79ad
 simpleMeaning: In computing, describing data sent and loaded continuously, piece by piece, as earlier
   parts are used, or continuous tape transport used mainly to back up unedited data.
 scope: A computing adjective for continuous data transfer or tape backup; not the everyday sense 'flowing',
@@ -13,5 +11,4 @@ examples:
 - The old backup system wrote to a streaming tape drive.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 121
-sourceFinalSha256: 400fc945acebf5a6cfae6d170c2ba2bfaadfa9f25e284d2a0267a539f1ace975
 reviewVerdict: first-pass

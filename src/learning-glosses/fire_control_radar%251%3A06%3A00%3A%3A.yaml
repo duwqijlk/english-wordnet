@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fire_control_radar%1:06:00::'
 synsetId: 03349630-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b18c2f4839ff7606ed28fe3df0a9bec0301eca2c640ef78e7bd6219ab3f262fc
 simpleMeaning: a set of tools on a warship that finds a target and aims the ship's guns at it
 scope: A warship's aiming system for its guns, not a radar that watches the sky and not a gun itself.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Sailors tested the fire control radar before the ship left port.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1387
-sourceFinalSha256: e015fc4c4c719633b830beca2ac58d3813cbc60d1499e3c2ecafdd552bfbbc4a
 reviewVerdict: first-pass

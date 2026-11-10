@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cytologic_specimen%1:08:00::'
 synsetId: 05274572-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 67bdfc7f43e028d9898bc3ccd8575353814162eaf6e70883ab80c16e72ba5314
 simpleMeaning: a sample taken from the body to look at its cells and find what illness is there
 scope: A sample used to look at cells and find an illness, not a drug and not a tool used in surgery.
 examples:
@@ -10,5 +8,4 @@ examples:
 - A cytologic specimen from her throat showed no sign of disease.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1365
-sourceFinalSha256: 2cba503110da233865e4d8e7187934fe7749b23d1ca82420987338d2138c4512
 reviewVerdict: first-pass

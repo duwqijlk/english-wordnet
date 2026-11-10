@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'emoticon%1:10:00::'
 synsetId: 06290592-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8d9e4c2963bd5044751f0bf948a9afab71f2583ee63b98551d6fe6c2e709c05a
 simpleMeaning: Typed keys in a note sent by email can form a face, like a smile or a frown
 scope: A typed face such as a smile or a frown in a written note, not a picture drawn by hand and not
   a word that says how you feel.
@@ -11,5 +9,4 @@ examples:
 - He typed an emoticon instead of writing that he was sad.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 894
-sourceFinalSha256: 50803dc7ea3e68c8e236f7786e8d2490cefcb4fd281c1c0a9516ba432fc5616a
 reviewVerdict: first-pass

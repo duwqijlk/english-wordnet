@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'check_in%2:32:00::'
 synsetId: 00968184-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7b11394550a537a1a866a541774e5f3e1b6baae941ff40d95eb5d5f909b80e60
 simpleMeaning: At a hotel or an airport, you tell the staff you have arrived
 scope: Also called sign in, this is what you do at a hotel or an airport when you tell the staff you have
   arrived.
@@ -11,5 +9,4 @@ examples:
 - Passengers must check in at the airport before they fly.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 986
-sourceFinalSha256: 595d846264cf08ce61a461819e258ff3995fae07adb3a9b0969cc7037931e724
 reviewVerdict: first-pass

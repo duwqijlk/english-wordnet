@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'market_capitalisation%1:04:00::'
 synsetId: 00954497-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4839e7755c749b8c709f4ce21a76e08c0b1a80a132f0a9824dd47ac8af5e4fd6
 simpleMeaning: A worked-out value of a firm, found by multiplying the number of shares out by the price
   of one share now
 scope: Also called market capitalization; a worked-out value of a firm from its shares, not the price
@@ -12,5 +10,4 @@ examples:
 - Market capitalisation is found from the share price.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1243
-sourceFinalSha256: d36a78900d5450acb68ae0d981781ce8531f79c846c412aa8110f3433209ff51
 reviewVerdict: first-pass

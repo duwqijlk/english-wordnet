@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'valet_parking%1:04:00::'
 synsetId: 00099881-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7a830639007c2720b12c29105a9a5bb8ea4bcd4bb8b13e5022f2e1abe7ba48a1
 simpleMeaning: A worker at the door takes the car, puts it away, and brings it back when asked, at a club,
   a place to eat, an airport, or somewhere like that.
 scope: A club, a place to eat, or an airport may offer this service, in which a worker takes a car at
@@ -12,5 +10,4 @@ examples:
 - The hotel offers valet parking, so you can leave the car at the entrance.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1047
-sourceFinalSha256: f04c13e26d02ae26bdd32cab42259fd549711b5d09fa57d354d68d02043b5ef9
 reviewVerdict: first-pass

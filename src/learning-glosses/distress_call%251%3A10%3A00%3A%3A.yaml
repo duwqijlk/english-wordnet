@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'distress_call%1:10:00::'
 synsetId: 06816494-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cbc5963a729f90b191822c1283408f41a4928258cbcb212438729239f96b7c86
 simpleMeaning: a sign agreed on around the world, sent by a ship or plane to say that help is needed
 scope: A sign sent out by a ship or plane to ask for help, also called a distress signal, and not a normal
   radio message or a call for help on land.
@@ -11,5 +9,4 @@ examples:
 - A passing ship picked up the distress call and turned back to help.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1371
-sourceFinalSha256: 933fb1e89cadb32a14779090d6d7db69c3ba56cecfcb4bf320533c0bbe82f950
 reviewVerdict: first-pass

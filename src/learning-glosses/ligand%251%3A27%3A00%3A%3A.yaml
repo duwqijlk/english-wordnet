@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'ligand%1:27:00::'
 synsetId: 15134874-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1c2b6153f509ff085384e37d1ec6bff969f48b81cd5a73eabf485c4da5c9873b
 simpleMeaning: a bit of matter — an atom, a molecule, a radical, or an ion — that joins onto a central
   atom and forms a larger whole around it
 scope: A bit of matter that joins a central atom and forms a larger whole around it; not the central atom
@@ -12,5 +10,4 @@ examples:
 - In the lab, a ligand joined to the central atom to form a new compound.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1108
-sourceFinalSha256: 434fe1ec5e0a82ecd319c44c7a87165845b7fcef15390ce929eb8a4e4089bfe9
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'housing%1:06:00::'
 synsetId: 03551520-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 21103d064c48cde89f589f77396ebb9cb4478656fed942c8788836efd0ec54cc
 simpleMeaning: the buildings in which people live, considered together as a group.
 scope: This means buildings where people live, not a machine cover or a horse's cloth.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Poor housing is linked to bad health.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 36
-sourceFinalSha256: 539428fc75d0a369ac6d3b41751fa30951eeae57d0fda81709af939193379901
 reviewVerdict: first-pass

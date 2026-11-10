@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'scoreboard%1:06:00::'
 synsetId: 04156878-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: caeb395ede052830f265d7c8a603cb1b1ef476124280dc21fca89ea687f058b3
 simpleMeaning: a large board that shows the points in a game or match, and sometimes shows other facts
   too
 scope: This is the large board at a game that shows the points, not the points themselves and not a small
@@ -12,5 +10,4 @@ examples:
 - The scoreboard showed the home team ahead by two points.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 548
-sourceFinalSha256: a35ec86f1df404664173c794333d2bd1560754ae5e3c57b503e1441559f8b6dc
 reviewVerdict: first-pass

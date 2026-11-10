@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'information_audit%1:04:01::'
 synsetId: 92448712-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8834d1b2db7fba3f692173b86e35766dfc529c21e215d674bf985285ba912d73
 simpleMeaning: A careful look at how facts are used, kept and passed on, checked against papers and people,
   to make the stored facts better.
 scope: A careful look at how facts are used, kept and passed on, not a check of money and not a look at
@@ -12,5 +10,4 @@ examples:
 - An information audit showed where the records went wrong.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1231
-sourceFinalSha256: e184ceef181a495a0f77e428b887a58f19a76abe5cd57465ad9edbf058cc0db0
 reviewVerdict: first-pass

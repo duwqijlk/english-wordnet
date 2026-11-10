@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'exanthema_subitum%1:26:00::'
 synsetId: 14147241-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4c3f96ea21231943a7a9e7d4bd29ada210ad97dbf32df73e79fdec31afe305d2
 simpleMeaning: 'A viral illness of babies and young children: sudden high fever, mild sore throat, then
   a faint pinkish rash a few days later lasting a few hours or days.'
 scope: This is the whole illness, with fever first and a rash a few days later, not a rash on its own
@@ -13,5 +11,4 @@ examples:
 - Her son had exanthema subitum at eighteen months, and the rash faded within a few days.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 122
-sourceFinalSha256: 2853a917f3f43cc67be882254ac37e0ebec8991078a28dfc731a1d3edabad917
 reviewVerdict: first-pass

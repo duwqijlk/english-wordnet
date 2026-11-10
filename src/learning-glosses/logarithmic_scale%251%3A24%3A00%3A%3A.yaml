@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'logarithmic_scale%1:24:00::'
 synsetId: 13873442-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5423371cf56d8e8c89bf87487d2ab61a453e33985b7ef80a0ef7c3534f261310
 simpleMeaning: A measuring line on which the real gaps from the start grow in step with the logarithms
   of the numbers marked on it
 scope: A measuring line on which the real gaps from the start grow in step with the logarithms of the
@@ -12,5 +10,4 @@ examples:
 - On a logarithmic scale, a small move along the line can stand for a very large change in the number.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1240
-sourceFinalSha256: 6980541b53258a86f67ca98adc9091592f89efc6ccbe1c831ba701a66fd2107f
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'heat_of_condensation%1:19:00::'
 synsetId: 11491759-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9ad14f935f652813eea71d926f3d8ecbf08cb32e77c73646bf7702be2a353618
 simpleMeaning: The warmth given out by a fixed amount of gas at its boiling point as it turns into a liquid.
 scope: Warmth given out when gas turns back into a liquid, not the warmth taken in when a liquid turns
   to gas and not the warmth of a hot gas.
@@ -11,5 +9,4 @@ examples:
 - Engineers used the heat of condensation to heat the building.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1401
-sourceFinalSha256: 0c845110894fd9a1239512ec53869fbdf07fc73f831081eb48d416106b513506
 reviewVerdict: second-pass

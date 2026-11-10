@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'potential_divider%1:06:00::'
 synsetId: 03997801-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a9c652774b105f79a64754d67b72eaa4f0021196ec7b648b144e261bff5696c5
 simpleMeaning: Parts that slow the flow of power, joined one after another across a source of voltage,
   used to get a chosen part of the voltage
 scope: This is a set of parts that slow the flow of power, joined one after another to get a chosen part
@@ -12,5 +10,4 @@ examples:
 - A potential divider gave us half the voltage we needed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1128
-sourceFinalSha256: 985171cc8366e331dd810b6042dea1c4aac4d0c40f95139f3181e8015949913a
 reviewVerdict: first-pass

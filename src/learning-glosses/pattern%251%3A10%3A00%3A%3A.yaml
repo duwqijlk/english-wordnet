@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'pattern%1:10:00::'
 synsetId: 07018386-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 19433a607279d46921d323635550f840beef5a0826c199b169004a0ace97650a
 simpleMeaning: A drawing that shows how the power sent out by an antenna spreads at each angle. It marks
   places by angle and distance, or by side and height numbers.
 scope: A drawing of how waves spread from an antenna, not the set path a plane follows when it comes in
@@ -12,5 +10,4 @@ examples:
 - Engineers drew the pattern to check the signal at each angle.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 162
-sourceFinalSha256: 0fe8fdbc3c5e9da5b5e36d726575e4582a0177ac1d54e24be368fcfdd212bc6c
 reviewVerdict: first-pass

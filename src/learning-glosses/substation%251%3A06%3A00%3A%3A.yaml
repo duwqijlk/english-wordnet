@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'substation%1:06:00::'
 synsetId: 04355780-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ee62f253c6b22b36a668dea0bf269d75d295e789afe343bc3eb56d63abd37140
 simpleMeaning: A part of a power system where electric power is changed to a lower voltage (lower electric
   strength) and sent out through wires for use in the area
 scope: This station takes electric power and changes it to a lower strength before sending it out for
@@ -12,5 +10,4 @@ examples:
 - Workers fixed the damaged substation before night.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 622
-sourceFinalSha256: 4b713b1b83a507eb6625fc47c9e13c50b5ddef91315edc2c87f652e092f1e0f1
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'second_law_of_thermodynamics%1:09:00::'
 synsetId: 05891642-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3b1d06a558fca0b9392cc57e3045d8d92e60d8a6bf14286491712d5f4e893298
 simpleMeaning: A body can only do work while touching a colder body, and on its own, any change makes
   things more jumbled up.
 scope: In physics, this rule tells when heat can be turned into work, and it also says things grow more
@@ -12,5 +10,4 @@ examples:
 - Because of the second law of thermodynamics, heat left alone spreads out and never gathers itself back.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1034
-sourceFinalSha256: 377fe8d11ae7b278a0883615b8d7d609be973aa76bb5353918c2872c82cc390a
 reviewVerdict: first-pass

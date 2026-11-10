@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cardiopulmonary_arrest%1:26:00::'
 synsetId: 14048052-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c84a47f8ef053f0a4978a7ba1b1eaf52478f309848661369dcde99b0de65fd0a
 simpleMeaning: Breathing and the heartbeat stop when the lower chambers stop squeezing, usually because
   they shake out of rhythm, so the body gets no air, and death follows.
 scope: 'Also called asystole and cardiac arrest: a state in which breathing and the heartbeat have both
@@ -12,5 +10,4 @@ examples:
 - Cardiopulmonary arrest leads to death because the body gets no air.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 928
-sourceFinalSha256: eb81db60ee6f6f9d1760fd25f8096adeedca70263c32ee588eb9d5d0b3021719
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'series%1:24:00::'
 synsetId: 13814122-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 637ca933affc8467158e8ac73032eb5cbccc7654794bbbc945ef1e307e28ae53
 simpleMeaning: In electronics, a way of linking parts so the current passes through them one after another.
 scope: This is an electrical connection, not similar things one after another, not a set of television
   or radio programs, not a periodical published on a schedule, not a set of sports contests, not a matching
@@ -12,5 +10,4 @@ examples:
 - In a series circuit, the same current flows through every component.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 72
-sourceFinalSha256: 801b30d8e36b60e608fca6f31e02a830a77d6f0a87b66c32b242f67df7fe7255
 reviewVerdict: first-pass

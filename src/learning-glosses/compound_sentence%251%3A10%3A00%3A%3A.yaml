@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'compound_sentence%1:10:00::'
 synsetId: 06296753-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 586c21f93c9a3e50ff99ef53f2635119a8339086972ccf64802bf3c8debc35a9
 simpleMeaning: a group of words that says a full thought, made of two or more whole parts joined as equals
 scope: A group of words with two or more whole parts joined as equals, not a group with only one whole
   part and not a group where one part depends on another.
@@ -11,5 +9,4 @@ examples:
 - She wrote a compound sentence with two main parts.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1356
-sourceFinalSha256: 2f8da85ab72127e01d4342e8fc9712a88818ea9dceef4b2017636b30cc3a77e8
 reviewVerdict: first-pass

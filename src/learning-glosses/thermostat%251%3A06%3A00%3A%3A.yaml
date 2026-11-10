@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'thermostat%1:06:00::'
 synsetId: 04430010-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3f8f213535c5273df13b681ef173685ea065aad59ee906663c14e1ecb78ef45b
 simpleMeaning: a device that controls temperature on its own by starting or stopping the supply of heat
 scope: The device that controls temperature on its own, not the action of controlling temperature with
   such a device.
@@ -11,5 +9,4 @@ examples:
 - The thermostat keeps the house warm through the night.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 510
-sourceFinalSha256: 075143e8e0b9b5d6131ee0db476bfcdad31b86b6ddd218f08b2345dca75dd3c1
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'floor%1:06:03::'
 synsetId: 03371310-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 90a3942901e8d473593067ad2c88c140a61313be2c4f98189903c15f2ed22518
 simpleMeaning: the large room where lawmakers meet to argue, vote, and do the work of governing
 scope: 'This is the debating chamber sense; distinct from floor%1:06:00:: (the surface you walk on), floor%1:06:01::
   (a set of rooms on one level), floor%1:10:00:: (a lower limit), floor%1:17:01:: (the ground outdoors),
@@ -15,5 +13,4 @@ examples:
 - The bill was debated on the floor for six hours.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 76
-sourceFinalSha256: 91cd4cee1f42e0b8f16479f2eb5495a5151bb6ea188cebddd230230fc1887c74
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'parquet%1:06:00::'
 synsetId: 03897732-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 95e55283f79e26af05a78f8b79c499c896516a40bb63808822bc20923923fcb2
 simpleMeaning: seats on the main floor of a theatre, between the orchestra seats and the circle of seats
   behind them
 scope: Seats on the main floor of a theatre, not a floor made of small blocks of wood laid in a pattern.
@@ -11,5 +9,4 @@ examples:
 - The parquet seats cost more than the seats high up at the back.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 653
-sourceFinalSha256: 59a0d92f4dbd87a4d51881231db9492b9165e9f69611a7291e4fb791ddbec76c
 reviewVerdict: first-pass

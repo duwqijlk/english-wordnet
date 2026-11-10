@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'elimination%1:09:00::'
 synsetId: 05790242-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0bbc4c4a58b805c8ac5e28e3ec57b8bd989b2568f62d28b144cc9920a55ec2d8
 simpleMeaning: Looking at a problem by listing the different ways it could be, then crossing out each
   way that does not work, one by one.
 scope: A way of working on a problem by ruling out each bad choice; not the math sense, where number statements
@@ -12,5 +10,4 @@ examples:
 - We used elimination to find the right answer, crossing out the wrong ones one by one.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 563
-sourceFinalSha256: 3b9aa41c673db719a13f2de9b4983f62ff501727b3559f25750f675bdb8c1c6a
 reviewVerdict: first-pass

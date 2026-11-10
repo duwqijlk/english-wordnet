@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'cardiography%1:04:00::'
 synsetId: 00833753-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 74e98fbac5265457ac4f7cd8b8fbeba46320b65ad4800ddad389b54fe8e79922
 simpleMeaning: This test uses an electric machine to make a written record of how the heart works.
 scope: 'Also called electrocardiography: the test that records how the heart works, not the machine that
   does the recording.'
@@ -11,5 +9,4 @@ examples:
 - Cardiography makes a written record of the heart's work.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 928
-sourceFinalSha256: eb81db60ee6f6f9d1760fd25f8096adeedca70263c32ee588eb9d5d0b3021719
 reviewVerdict: first-pass

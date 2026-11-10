@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'preclinical_phase%1:04:00::'
 synsetId: 00795784-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c5b9aedfde8eab8e9ab9d8e6a62a2e862444fb82b1d12fd126c965ad73735f4e
 simpleMeaning: In a lab, a new drug or a new device put inside the body is tried on animals, to gather
   proof that a test on people is worth doing.
 scope: It is also called a preclinical test or a preclinical trial, and it comes before any test on people.
@@ -11,5 +9,4 @@ examples:
 - No people took part in the preclinical phase.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1027
-sourceFinalSha256: 92045fc84c8ecab002cf3585af15d19d2a50ef1c3e34874f2b837a5214477dcc
 reviewVerdict: first-pass

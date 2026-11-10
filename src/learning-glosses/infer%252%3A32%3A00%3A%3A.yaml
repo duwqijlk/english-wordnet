@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'infer%2:32:00::'
 synsetId: 00946956-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 00abd82b8f6fec254a1aedd79cbeaabf16177fb8b105ed6e04a4a8b2068b6703
 simpleMeaning: In logic, to reach a clear decision that something is true by thinking step by step from
   the statements given
 scope: 'Also called deduce: in logic, this is reaching a decision that something is true by thinking step
@@ -13,5 +11,4 @@ examples:
 - From 'all men die' and 'he is a man', we infer that he will die.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 641
-sourceFinalSha256: d2bdc7333485864b3519fa789757a5eb2cb44012d9111f3edf6f5be472b32580
 reviewVerdict: first-pass

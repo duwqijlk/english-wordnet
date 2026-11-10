@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'prime_meridian%1:15:00::'
 synsetId: 08616848-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a851bf7b5741a8cfd2fed1fa42eb45dbbb887f8c3241cf3de00dfb8df067ec2e
 simpleMeaning: East and west are counted from this line round the earth, which lies at zero degrees; most
   often it is the line through Greenwich in England.
 scope: This is the one line of longitude from which east and west are counted, and every other line of
@@ -12,5 +10,4 @@ examples:
 - Their longitude was counted east or west from the prime meridian.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1027
-sourceFinalSha256: 92045fc84c8ecab002cf3585af15d19d2a50ef1c3e34874f2b837a5214477dcc
 reviewVerdict: first-pass

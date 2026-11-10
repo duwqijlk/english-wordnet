@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'heat_capacity_ratio%1:24:01::'
 synsetId: 92439903-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2a7fff4cc00c569c06af2c31ad8a7a2f34f57e20ed858ae9be30f65a6cef029f
 simpleMeaning: The ratio of heat capacity at constant pressure (C_P) to heat capacity at constant volume
   (C_V).
 scope: This number, also called the adiabatic index, is got by dividing what a thing takes in as warmth
@@ -12,5 +10,4 @@ examples:
 - We worked out the heat capacity ratio from the two values.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1004
-sourceFinalSha256: 53571b2690800b27820d66a9a8f8c748f32881f3c70b41f0250d3b9d8346d3e7
 reviewVerdict: second-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'linear_operator%1:24:00::'
 synsetId: 13808807-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d8619e25ce066834eb4875bec179a9b95297f471c6e592cc3023d32e7a8b5e6a
 simpleMeaning: 'in maths, an action on functions that splits over a sum: acting on f plus g is the same
   as acting on f and on g apart'
 scope: In maths, an action that splits over a sum, not a number and not a plain function that adds things
@@ -12,5 +10,4 @@ examples:
 - In her maths class she showed that a linear operator splits over a sum.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 870
-sourceFinalSha256: 77d02d87f295569c13355e426e516a65b868e99c4cb1830f5a1c3c60b5743aee
 reviewVerdict: first-pass

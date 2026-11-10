@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'phi_coefficient%1:09:00::'
 synsetId: 06044943-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0251a174e4b1905bf93dccd5962eecd144cb32e4d2248e5bd1e007c1fc6490af
 simpleMeaning: An index of the relation between two sets of scores that can both be shown on ordered binary
   dimensions, such as male-female.
 scope: 'It is also called phi correlation and fourfold point correlation: the number that shows how two
@@ -12,5 +10,4 @@ examples:
 - They worked out the phi coefficient for male and female scores.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 954
-sourceFinalSha256: 03226622df38999d01a9e69c843f0457e46b86ca0dce457111a4418e041d5072
 reviewVerdict: second-pass

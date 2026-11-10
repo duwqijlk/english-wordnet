@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'feedback_circuit%1:06:00::'
 synsetId: 03331018-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 899cf5909dc77132be17fed669baaf45ec1f72f18e9a49f9ec201374d3413755
 simpleMeaning: a set of wires that sends some of what a machine puts out back into the machine at the
   start
 scope: 'Also called a feedback loop: a set of wires that sends some of what a machine puts out back to
@@ -12,5 +10,4 @@ examples:
 - Engineers tested the feedback circuit to see how the machine would react.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1384
-sourceFinalSha256: cdd23ac8f6b671ce0fdf8d8c5d6ea90ce94a0e03c7440df40cdf7c1263db92b1
 reviewVerdict: first-pass

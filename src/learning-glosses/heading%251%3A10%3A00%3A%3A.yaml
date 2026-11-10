@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'heading%1:10:00::'
 synsetId: 06355341-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3e10b166eb13e869780c3e0b26c1a08d9fde99924fd7ca00520e2effa9c45778
 simpleMeaning: One line of words at the top of a part of a text, put there to show what that part is about
 scope: This is the line of words above a part of a text, also called head. It is not a level way dug in
   a mine.
@@ -11,5 +9,4 @@ examples:
 - She wrote a short heading at the top of each page.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 173
-sourceFinalSha256: 9cff663464f8fd3040b60fa82abce01817f093d74165155dffbbf300df16ac78
 reviewVerdict: first-pass

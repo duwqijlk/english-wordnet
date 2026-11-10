@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'asdic%1:06:00::'
 synsetId: 04266881-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 892f26ad350690f4df3cd224e6f258e4cea1747aa9fbfd8d83c0db85e4ce5863
 simpleMeaning: How far away things are under water is worked out by this tool, which sends a sound pulse
   and times its echo.
 scope: A tool that finds how far away things are under water by sound, also called sonar and echo sounder.
@@ -11,5 +9,4 @@ examples:
 - With the asdic, the crew worked out how far away the sea floor was.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 923
-sourceFinalSha256: 37e269f11aef5cf8b6157e1940e6be37b722380bbe5f8489d1c87a699231fd06
 reviewVerdict: first-pass

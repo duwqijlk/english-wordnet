@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'analogue_computer%1:06:00::'
 synsetId: 02711083-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 76f04dc3f245b1b48c58d0b5cc52320c5f59e879f202006ee71a606ebaadd285
 simpleMeaning: Facts come out of this machine as amounts that can change, such as where a needle points
   or how strong a voltage is.
 scope: This is the machine that shows facts as amounts that can change, also called an analog computer.
@@ -11,5 +9,4 @@ examples:
 - An analogue computer used the place of a needle to show speed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 976
-sourceFinalSha256: 843a028185ea540a54930b72988461cd2c820b906a659072ac9d885483f0a147
 reviewVerdict: first-pass

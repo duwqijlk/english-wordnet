@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'booth%1:06:02::'
 synsetId: 02877456-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 68ba52cb01928dce5ee6198d24bd504a2860f41e4d6812b5cbe79e08225f2bcc
 simpleMeaning: a table in a restaurant or bar, with two long seats with high backs, one on each side
 scope: This is a place to sit and eat at a table in a restaurant or bar, not a small closed space where
   one person votes, makes a call, or sells things.
@@ -11,5 +9,4 @@ examples:
 - The four friends slid into a booth at the back of the bar.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 252
-sourceFinalSha256: abf16ca9ed34cd64986b3b2cb32d49ec9f541ecee0512d38e6307e96d15d7316
 reviewVerdict: first-pass

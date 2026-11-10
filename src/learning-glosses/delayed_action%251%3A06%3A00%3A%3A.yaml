@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'delayed_action%1:06:00::'
 synsetId: 03177404-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 87434c467f0bf4eed634e4a3c03f0508945cd721fe399c436196ddd3bf73e16a
 simpleMeaning: A camera device that by itself holds back the shutter for a set time so the person taking
   the picture can get into it
 scope: A camera device that waits a set time before taking the picture so the photographer can join it;
@@ -12,5 +10,4 @@ examples:
 - The delayed action gave him ten seconds to get into the picture.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1199
-sourceFinalSha256: b084b7b0612c08ddd66a6ea275fd5a7937562a3ec38e993b2f1ae53ab2ffb3dd
 reviewVerdict: first-pass

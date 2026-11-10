@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sedation%1:04:00::'
 synsetId: 00696553-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 055b40db732826c962cb23e7616e9a177353500d6c39b3ec07387f012527ac2d
 simpleMeaning: the act of giving a person a drug that makes them calm or sleepy
 scope: This is the act of giving the drug, not the calm or sleepy state that the drug brings.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Sedation was given to the patient through a tube in his arm.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 661
-sourceFinalSha256: 9812f5da09f0094c89414a68626527655dcce720117f1279a989edc893459fe9
 reviewVerdict: first-pass

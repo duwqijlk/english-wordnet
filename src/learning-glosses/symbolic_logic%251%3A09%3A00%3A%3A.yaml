@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'symbolic_logic%1:09:00::'
 synsetId: 06174381-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fced1262521f23c5ccf5e0f545067ddbf34331aced904f0212cad3ce7fa9bf3c
 simpleMeaning: By looking only at the shape of claims, not what they say, this set of rules tests whether
   claims hold together and hold true.
 scope: Formal logic and mathematical logic are other names for this set of rules that tests claims by
@@ -12,5 +10,4 @@ examples:
 - She used symbolic logic to test if the two claims could both hold true.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 967
-sourceFinalSha256: b9d9e8a1d09ded6a271f1975affbef02c013503f092d49f52b2c3ded73192cd5
 reviewVerdict: first-pass

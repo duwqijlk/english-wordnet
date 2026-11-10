@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'robot_pilot%1:06:00::'
 synsetId: 02765174-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5ee5d94912e90401f7029e6b3ee75240f3cab7b611919892a0ec5c9ef7904626
 simpleMeaning: a machine that by itself keeps a ship, plane or spacecraft on a steady course
 scope: A machine that by itself keeps a ship, plane or spacecraft on a steady course; autopilot and automatic
   pilot are other names for it, not a person who flies a plane and not a hand-held steering wheel.
@@ -11,5 +9,4 @@ examples:
 - Pilots switch on the robot pilot once the plane is in the air.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1135
-sourceFinalSha256: c257e82aa2dc481b5e510251f7a99111c505d28542ab64800640528355000c59
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'thermopile%1:06:00::'
 synsetId: 04429701-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5120cfedf7fc3dc13784cf31de28470332a7cfb8115af140c99e5fd073025827
 simpleMeaning: A kind of heat meter that measures heat sent out as rays, made of several heat-to-power
   joints joined in a row
 scope: This is a heat meter made of several joints in a row; not a thermometer for air temperature and
@@ -12,5 +10,4 @@ examples:
 - A thermopile of several joints in a row stood on the bench.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1151
-sourceFinalSha256: b7836c9d299c4d6863903c907938d0018ea938432537ac297e99c463f0c8b001
 reviewVerdict: first-pass

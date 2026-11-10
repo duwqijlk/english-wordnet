@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'prescription%1:06:00::'
 synsetId: 04005638-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6e5b8ba4fa4aff766c4f61e7cc652a0062a9da2b369a2fb63d208632f3191a1b
 simpleMeaning: a medicine you can only get when a doctor or dentist writes to the pharmacist that you
   should have it
 scope: A medicine that needs a doctor's written order, not the written order itself and not glasses made
@@ -12,5 +10,4 @@ examples:
 - You need a prescription to buy this medicine.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 349
-sourceFinalSha256: 63b77ad8fc2c7ba0c729c6b693cfb0ebd1bf50069c441c2f69206471eb09db3e
 reviewVerdict: first-pass

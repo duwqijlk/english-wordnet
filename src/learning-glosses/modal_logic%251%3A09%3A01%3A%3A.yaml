@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'modal_logic%1:09:01::'
 synsetId: 06175539-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d60cb8531a752bed426bd9b5c259b79592596d164c5dd22e3116ded81f3debdd
 simpleMeaning: A set of rules for claims about what must be true and what may be true, shaped like ideas
   about duty and about what people know.
 scope: This is a set of rules for sorting out claims about what must be true and claims about what may
@@ -12,5 +10,4 @@ examples:
 - The modal logic in the book deals with what has to be true, not only with what is true.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1017
-sourceFinalSha256: f8191717bee0e68d94195c1e2f0a0acb91e66641f6094c7b82551996857eba8e
 reviewVerdict: first-pass

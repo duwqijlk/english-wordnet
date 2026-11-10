@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'potion%1:13:00::'
 synsetId: 07899226-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 44acc5e14abc70d4b0d866c7d48f5b9a4a872503876543c98d7c9add7791fcc7
 simpleMeaning: a drink used as medicine, or for magic, or one that has poison in it
 scope: A drink with a special power to heal, to work magic, or to harm with poison, not a plain drink
   with no such power.
@@ -11,5 +9,4 @@ examples:
 - She mixed a magic potion in a small glass bottle.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 244
-sourceFinalSha256: 608d242a371b6e3d214d9a5f6291c55647a8543a266e0ffa6516f8be66e14888
 reviewVerdict: first-pass

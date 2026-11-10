@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'memory_cache%1:06:00::'
 synsetId: 02938401-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2b71b2a23d68dd31babc46ad72b06e2ece609ac4184cc92d5756979477028f61
 simpleMeaning: In computer science, a fast store inside computers set aside and kept up to date, to speed
   up data movement between parts of the system that work in different ways
 scope: In computer science, a fast store inside computers, also called cache; not the computer's main
@@ -12,5 +10,4 @@ examples:
 - A bigger memory cache can help the computer work faster.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 871
-sourceFinalSha256: 767b2b9c2bc43f585de7c85c16d86c29dfa521c5e0f44e686bd39fd31e60f1de
 reviewVerdict: first-pass

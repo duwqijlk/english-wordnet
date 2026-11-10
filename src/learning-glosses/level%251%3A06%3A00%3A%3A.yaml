@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'level%1:06:00::'
 synsetId: 03664184-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 713381b92fbd98999ce059bdd4801960eaeceae191e1c6968fe20e2cd066bbe7
 simpleMeaning: a tool used to show whether a surface is horizontal, with a bubble that sits centered in
   a tube of liquid
 scope: This is a tool for checking flat surfaces, not a floor of a building, a non-physical layer, or
@@ -12,5 +10,4 @@ examples:
 - Hold the level against the wall and adjust the frame until the bubble sits in the middle.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 52
-sourceFinalSha256: 3c27df2597cef8034cac9924a665282a1b7849edca0c4742ce2097dab6d61e0c
 reviewVerdict: first-pass

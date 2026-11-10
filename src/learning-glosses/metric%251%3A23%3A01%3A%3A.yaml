@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'metric%1:23:01::'
 synsetId: 13625518-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3defa519df6ec7e0c880ea938dca5be54f7abdaf9473824410a3c5f6e6ee3448
 simpleMeaning: a unit of measure in the system based on metres, kilos, and seconds, counted in tens
 scope: A unit of measure counted in tens, not a whole set of linked measures, and not the beat of words
   in verse.
@@ -11,5 +9,4 @@ examples:
 - Convert all the measurements to metric units.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 292
-sourceFinalSha256: 94133b0d3f8dc5e15e1923aac956b2c611130f8402f4816fc3fdd7dfd2969e35
 reviewVerdict: first-pass

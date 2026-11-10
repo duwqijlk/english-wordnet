@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'transformation%1:24:00::'
 synsetId: 13807348-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4e7c08ddf61f872c1f662b46f149e29f84d1796f0e2d780f12e19be2e040c1b7
 simpleMeaning: In mathematics, a rule that matches points to new points and changes the place or direction
   of the axes (the lines of a system for showing where points are)
 scope: This is the mathematics sense, about moving or turning the lines used for points, not a change
@@ -12,5 +10,4 @@ examples:
 - In class, a transformation turned the lines of the chart by a quarter turn.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 264
-sourceFinalSha256: c7197c8ea69ec0cac5dc0165f69d1869c4822fe59369e31e95c781d9ba180b5b
 reviewVerdict: first-pass

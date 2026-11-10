@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'point_of_accumulation%1:23:00::'
 synsetId: 13780696-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6cd259b5c08c6a4d2eb957b3adf6aa722fc3f3968e224580fd90323bb103be10
 simpleMeaning: In maths, a number that a rule for turning one number into another comes nearer and nearer
   to as one number grows without end
 scope: Also called a limit or a limit point, this is a number in maths that a rule comes nearer and nearer
@@ -13,5 +11,4 @@ examples:
 - For this rule, the point of accumulation is 0, because the answers shrink toward 0.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1455
-sourceFinalSha256: c1511ae08e96ee9812a68b4e7b7e29906787d8e080d617e0759223ff1ff0bc9d
 reviewVerdict: first-pass

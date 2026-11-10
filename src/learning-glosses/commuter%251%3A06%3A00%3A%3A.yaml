@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'commuter%1:06:00::'
 synsetId: 03082806-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 15f06e436c3601b0a674d60efbb328f7db1a6fda969b1fd0353ba45a1388f4fe
 simpleMeaning: a train for people to ride, used mainly by people who travel often between the same places
 scope: This is a train, also called a commuter train, not a person who travels to work each day.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She takes the commuter train to the city every day.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 556
-sourceFinalSha256: 36613f333a468166fe34da2f1c145f1beb020c9b4ffa76ded7c2653489d524be
 reviewVerdict: first-pass

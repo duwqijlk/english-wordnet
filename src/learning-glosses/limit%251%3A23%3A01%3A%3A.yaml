@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'limit%1:23:01::'
 synsetId: 13780696-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6cd259b5c08c6a4d2eb957b3adf6aa722fc3f3968e224580fd90323bb103be10
 simpleMeaning: In mathematics, the value a function (a rule linking input to output) approaches as its
   input grows without end.
 scope: This is the value a function tends toward in calculus, not a maximum allowed amount or a boundary
@@ -12,5 +10,4 @@ examples:
 - As x grows without bound, the function approaches a limit of zero.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 90
-sourceFinalSha256: 818e40869bdbfbff3aba13e0171e278992618fb2cab6afcaf04c212df261d609
 reviewVerdict: first-pass

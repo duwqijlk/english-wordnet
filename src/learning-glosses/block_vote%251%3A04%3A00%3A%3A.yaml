@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'block_vote%1:04:00::'
 synsetId: 00184844-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 699184c1052e941a976ff29aae7bf23da1e2cbc63bbe6a175ce7c9fce4353b3c
 simpleMeaning: a choice that counts as much as the number of people the person casting it speaks for
 scope: A choice that counts as much as the number of people the person casting it speaks for, not a vote
   where each person counts as one and not a vote taken by a show of hands.
@@ -11,5 +9,4 @@ examples:
 - The union used a block vote, so each delegate's vote stood for the whole group he spoke for.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1336
-sourceFinalSha256: 340e7c986992c1d0b0b1dafe91e71cc7f01ac218fd1d33b13d44851fbe3e81c1
 reviewVerdict: first-pass

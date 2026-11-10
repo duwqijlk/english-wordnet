@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'vector%1:09:00::'
 synsetId: 05873161-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 961116d08b0180d9e96e4c5ec4a216e5c59ae1b4bcf08fc91015eee7bc2438ba
 simpleMeaning: an amount that can change in value and can be split into smaller parts that together make
   the whole amount
 scope: An amount that can be split into parts. It is not an agent that carries disease, not an agent used
@@ -12,5 +10,4 @@ examples:
 - In this problem, the vector changes in value when the force grows stronger.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 602
-sourceFinalSha256: f16b8833e37406e34c980dfb988a07d44ea35022bad2f2d2942af8eb3101f1cb
 reviewVerdict: first-pass

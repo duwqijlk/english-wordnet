@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'sump_pump%1:06:00::'
 synsetId: 04361565-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 571054d84dda0e3c35613dd50bf38222cfaaa5cd4950b89d7af24ebd5df83d16
 simpleMeaning: a machine that sucks liquid out of a low pit where water gathers
 scope: A machine that clears liquid out of a low pit, not a machine that brings water in and not a hand
   tool for lifting water.
@@ -11,5 +9,4 @@ examples:
 - We switched on the sump pump to clear the water from the pit.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1294
-sourceFinalSha256: de8a7a0f8c8d063985ea792d1841132647ef9769c9a85ff4649f626d20970e38
 reviewVerdict: first-pass

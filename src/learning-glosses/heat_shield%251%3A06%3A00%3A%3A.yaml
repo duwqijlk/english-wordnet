@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'heat_shield%1:06:00::'
 synsetId: 03515216-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2c10c45e5d85a452a437ebc8b6da4b0405e21a175d61e51e1dfaf06a7674e2cd
 simpleMeaning: A cover that guards a space craft from getting too hot when it comes back into the air
 scope: This is a cover that guards a space craft from getting too hot when it comes back into the air,
   and not a cover that guards against cold or a crash.
@@ -11,5 +9,4 @@ examples:
 - A damaged heat shield can put the crew at risk.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1099
-sourceFinalSha256: 9871e832fde48ae1fcbc33876c1c61f72d6239fcaa4b51f2c54bb70d9f53764a
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'miles_per_gallon%1:23:00::'
 synsetId: 13625815-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fb2d91ffce6daf4f7e07736a2aebb48b8b8eb971043d6b11ccdb306085a6ca60
 simpleMeaning: The distance a vehicle goes on one fixed amount of petrol or diesel fuel.
 scope: The distance a vehicle goes on one fixed amount of petrol or diesel fuel; not the speed of the
   vehicle and not the size of the tank.
@@ -11,5 +9,4 @@ examples:
 - Miles per gallon is the usual way to talk about how much fuel a car uses.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1246
-sourceFinalSha256: 9e7f367b8f8c51bc3e15938500a792c5d341265e7d908a08fcab0fdc71cfd3c4
 reviewVerdict: first-pass

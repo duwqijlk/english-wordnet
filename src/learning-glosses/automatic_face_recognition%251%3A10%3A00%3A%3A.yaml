@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'automatic_face_recognition%1:10:00::'
 synsetId: 06656868-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 24b7836fc56c3ace05f1095cd241cce4f9b1dd2fd33b43a94d19ecddb43dccb1
 simpleMeaning: A scanned look is checked against looks kept on file, so the system can tell who the person
   is.
 scope: This is a system that checks a scanned look against looks kept on file, also called face recognition
@@ -12,5 +10,4 @@ examples:
 - Automatic face recognition matched her looks to the photo on file.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1060
-sourceFinalSha256: d1d5707f5d4550671a87957ff0b6ee45e4cb063a065d051e7808294fcf042a6e
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'man-month%1:23:01::'
 synsetId: 92411486-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8e4039e2b29f40d6e9f892d68826fc18d552cc75dd48ffdc9a8de6d49946046a
 simpleMeaning: One person's work for about four weeks, or the same amount of work done in a different
   way, used to measure how much work a job takes
 scope: A measure of work in person-time, not a measure of clock time and not a count of workers.
@@ -11,5 +9,4 @@ examples:
 - Three man-months of work went into the report.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1243
-sourceFinalSha256: d36a78900d5450acb68ae0d981781ce8531f79c846c412aa8110f3433209ff51
 reviewVerdict: first-pass

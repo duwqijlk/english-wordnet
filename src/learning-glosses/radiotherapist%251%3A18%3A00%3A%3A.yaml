@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'radiotherapist%1:18:00::'
 synsetId: 10523799-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5bde6ac81e803356b8636506460793fe3770b997f230f089a7c4f070ba7658e7
 simpleMeaning: a doctor who treats sick people with X-rays and with stuff that gives off rays
 scope: 'Another name for this sense is radiologist: a doctor who treats sick people with rays, not a doctor
   who only takes pictures with X-rays and not a doctor who gives drugs.'
@@ -11,5 +9,4 @@ examples:
 - After the scan, the radiotherapist explained how the rays would help fight the disease.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1273
-sourceFinalSha256: 987d1d4b6fa8ee39b11456bfc587f0ef21b84e5f0379158224d7b228525836be
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'water_level%1:06:00::'
 synsetId: 04568296-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2c4038b5f85db8f5da2dc9d050bad3b7b70185f92a04c16229820299b0ed4d4d
 simpleMeaning: a tool that shows how high liquid stands by showing its top in a long open box or a tube
   bent like a U
 scope: A tool for finding how high liquid stands, not the line of liquid on the side of a ship and not
@@ -12,5 +10,4 @@ examples:
 - He filled the water level and watched the surface in the tube.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1308
-sourceFinalSha256: efde4b5ba6e4362edd4f445850d3bab192f06f5d4d0dd47489eabe01a4516764
 reviewVerdict: first-pass

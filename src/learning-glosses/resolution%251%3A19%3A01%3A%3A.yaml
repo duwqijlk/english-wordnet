@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'resolution%1:19:01::'
 synsetId: 11526370-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6dced400cd838f455b6fcf17b28d2996f660af0209820ff39bf4e31db6eba3f6
 simpleMeaning: In computer science, the number of pixels (tiny dots that make a picture) in each square
   inch on a screen; the more there are, the better the picture
 scope: This is about a computer screen, not how well a microscope or telescope shows close images apart
@@ -12,5 +10,4 @@ examples:
 - This computer display has a resolution of 300 pixels per square inch.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 282
-sourceFinalSha256: 47a5717ad0a46adf8a660c3b4806700c50b301c570160364187e80cee428b76e
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'point_of_periapsis%1:15:00::'
 synsetId: 08635954-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b3d8095625d9a2e4f5a831a5a73ce8a22ddaaaab65be52cb912e66b4b7ffc02b
 simpleMeaning: The spot in an orbit that lies closest to the thing being circled, in astronomy
 scope: Also called a periapsis, this is the spot in an orbit that lies closest to the thing being circled,
   not the farthest spot, which is the apoapsis.
@@ -11,5 +9,4 @@ examples:
 - The point of periapsis of the moon's path is the spot where it comes nearest Earth.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1455
-sourceFinalSha256: c1511ae08e96ee9812a68b4e7b7e29906787d8e080d617e0759223ff1ff0bc9d
 reviewVerdict: first-pass

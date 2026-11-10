@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'temporal_role%1:10:00::'
 synsetId: 06344471-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 83dcb9a97361083d789a9ea7866155aceec7d270d2f04d9961445ab2019fff74
 simpleMeaning: The meaning role of a noun group that names the time of a state or action named by the
   verb
 scope: What a noun group does in meaning when it names the time of a state or action in a sentence, also
@@ -12,5 +10,4 @@ examples:
 - The temporal role tells us when the action took place.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1150
-sourceFinalSha256: 9e2c01bcd9f8d5f47d78efcd142ffb49939ea7b20fa4087f9c0695fb1ac4a73e
 reviewVerdict: second-pass

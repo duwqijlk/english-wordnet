@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'derate%2:30:00::'
 synsetId: 00532724-v
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8cce8fea4b075e5eacdc490bf1399b0a2f151dfa4e0eb2f78dd625955acec53b
 simpleMeaning: To set a lower safe limit on how much power a piece of electrical equipment can carry
 scope: To set a lower safe limit on the power a piece of electrical equipment can carry, not to switch
   it off and not to break it.
@@ -11,5 +9,4 @@ examples:
 - They will derate the transformer before the new line is added.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1200
-sourceFinalSha256: f7371d8cb67b6d6a6e5b8bede2b52edcad0da971d99bce77604fd5ef651b15ac
 reviewVerdict: first-pass

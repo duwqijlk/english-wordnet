@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'adjusting_entry%1:21:00::'
 synsetId: 13426653-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 10ed5a439498ad8b3b2ee063cfab9f4b12aa2f6d988786bbd1fd686bc265c57b
 simpleMeaning: In accounting, a note made at the end of a time span to put sums in the right span.
 scope: In accounting, a note at the end of a time span that puts sums in the right span, not a note that
   closes the books and not a day-to-day note.
@@ -11,5 +9,4 @@ examples:
 - Each adjusting entry moves a sum into the time span it belongs to.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1163
-sourceFinalSha256: 2c74c3ff917e6380a6a92b5bd4277f118df54995b5b57771638c4173d62b5f1b
 reviewVerdict: first-pass

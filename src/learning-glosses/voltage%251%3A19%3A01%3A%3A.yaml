@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'voltage%1:19:01::'
 synsetId: 11514227-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: da70337a1746da4634a0366f6d32e8f4cf51ca015c9c26633ab99bccda89bfc3
 simpleMeaning: How much the electrical charge differs between two points in a circuit (a path for electricity
   to move around), measured in volts
 scope: 'Also called potential: the difference in electrical charge between two points in a circuit. This
@@ -12,5 +10,4 @@ examples:
 - The battery gives a voltage of twelve volts across its two ends.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 533
-sourceFinalSha256: ab6f39bfb3560f4c848c2c69d8a8601059c22c0e93b08be0d0fa3f7522821317
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'capacitive_sensor%1:06:01::'
 synsetId: 92461509-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c30e3727a2feb5a598e1d2b17a6ffe62dc197e269a93bf4cebdff1f0b7b7769b
 simpleMeaning: a device that finds things that carry electric charge or hold a dielectric, a substance
   that holds electric force without letting it flow, unlike air
 scope: A device that finds things that carry charge or hold a dielectric, not a switch and not a meter
@@ -12,5 +10,4 @@ examples:
 - A capacitive sensor can tell a metal key from a plastic one.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1344
-sourceFinalSha256: e0590623238747fd1f2d68f9ef76f8e77c11cddcf34e84e0ed4d9fed72b0e8b7
 reviewVerdict: second-pass

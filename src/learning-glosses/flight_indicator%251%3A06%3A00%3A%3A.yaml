@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'flight_indicator%1:06:00::'
 synsetId: 02748616-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b280467befdae3e2410c51cc49633c02a4cd9e642d72c95ab2ce6ccc04397499
 simpleMeaning: Using a fast-spinning wheel that holds steady, this plane tool gives the pilot a made-up
   level line to steer by as the plane moves.
 scope: Also called an artificial horizon or a gyro horizon, this is the tool that gives a pilot a made-up
@@ -12,5 +10,4 @@ examples:
 - When the flight indicator showed the plane level, she eased the controls forward.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1000
-sourceFinalSha256: e04d7e8f5391703dace24bb0bda1fb638da1077c85ee6c73fc63896fe50aafd4
 reviewVerdict: first-pass

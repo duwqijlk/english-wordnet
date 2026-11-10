@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'chess%1:04:00::'
 synsetId: 00504248-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2db70f1e6486b2c642b8c92135021984951155921a5d835294a77a097d176783
 simpleMeaning: a board game for two people, where each moves 16 pieces by set rules and tries to trap
   the other person's king so it cannot escape attack
 scope: This is the board game for two people, not the weed plant that grows in wheat fields and first
@@ -12,5 +10,4 @@ examples:
 - He won the chess game by trapping my king.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 276
-sourceFinalSha256: 1bccb03f5f968218bfbc7538ed2ad3eb363ee63531a641f5777a99306e8737b2
 reviewVerdict: first-pass

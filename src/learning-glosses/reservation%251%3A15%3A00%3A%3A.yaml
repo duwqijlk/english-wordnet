@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'reservation%1:15:00::'
 synsetId: 08604729-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 787baf9bf8fdaf59798580fa27e7e69a6e1f0bb6a7053e7db5e673e9a7b4d6cd
 simpleMeaning: an area of land that is kept for one special use
 scope: 'Also called a reserve: an area of land kept for one special use, not a booking for a hotel room
   or a seat, and not a doubt about something.'
@@ -11,5 +9,4 @@ examples:
 - No houses may be built on the reservation, because the land is kept for wild animals.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 246
-sourceFinalSha256: 6d24cc28acae018049d5d829a64b29036b758e503ab155319e280039e2ff36e8
 reviewVerdict: first-pass

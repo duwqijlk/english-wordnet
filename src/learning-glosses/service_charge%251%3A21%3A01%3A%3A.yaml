@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'service_charge%1:21:01::'
 synsetId: 92467935-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 613c9c46061558d991a0fa249aa40306685933b7cc2a74696def39ee815d7dfa
 simpleMeaning: money paid to the owner of a block of flats for power, lifts, care of the building, and
   the like
 scope: A payment to the owner of a block of flats for power, lifts and care of the building; not the rent
@@ -12,5 +10,4 @@ examples:
 - We pay a service charge each month to the owner of the flats.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1283
-sourceFinalSha256: 18f624570dd9cbfe84565ce8202326e264c0c975137cc19f50ec8255987e793b
 reviewVerdict: first-pass

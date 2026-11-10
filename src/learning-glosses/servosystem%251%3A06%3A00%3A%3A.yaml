@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'servosystem%1:06:00::'
 synsetId: 04183356-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4a500652003fd42917e45333aa933080e195b87c570c8d7476d826ac89438003
 simpleMeaning: a set of parts that uses a small movement to drive a much more powerful movement, and may
   correct itself
 scope: Also called a servo and a servomechanism; a set of parts that turns a small movement into a much
@@ -12,5 +10,4 @@ examples:
 - A fault in the servosystem stopped the arm from lifting the load.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1283
-sourceFinalSha256: 18f624570dd9cbfe84565ce8202326e264c0c975137cc19f50ec8255987e793b
 reviewVerdict: first-pass

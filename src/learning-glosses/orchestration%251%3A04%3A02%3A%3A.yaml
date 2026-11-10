@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'orchestration%1:04:02::'
 synsetId: 01010743-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 78ac4db25150ea7c857cbef14868b3436af6f790cc2dafd63dd4288ed24511ed
 simpleMeaning: a plan for events, put together in a way meant to have the strongest possible effect
 scope: This is a plan of events meant to have the strongest effect. It is not arranging music for an orchestra,
   and not a piece of music arranged for an orchestra or band.
@@ -11,5 +9,4 @@ examples:
 - Good orchestration of the events made the campaign have a strong effect on voters.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 624
-sourceFinalSha256: 513996c04cbeb2b9993c99c500d2419d16553033a4f9806809427203f6fd7264
 reviewVerdict: first-pass

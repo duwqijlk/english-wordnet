@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dipstick%1:06:00::'
 synsetId: 03209120-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 87828096ac1dbe691696a11d80206fc9ddbd83e3d79e37989386ae2ce9349c87
 simpleMeaning: A rod marked with lines, put down into a container to show how much liquid is in it
 scope: A marked rod dipped in a container to read the liquid level, not a pump and not a gauge on the
   wall.
@@ -11,5 +9,4 @@ examples:
 - The dipstick showed the tank was nearly empty.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1082
-sourceFinalSha256: 17070e0ee431e32a9fd02f8048e83bdfe1ed78cca6113ebfd1cabc632bf71d3b
 reviewVerdict: first-pass

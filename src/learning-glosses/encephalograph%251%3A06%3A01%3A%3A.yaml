@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'encephalograph%1:06:01::'
 synsetId: 92449979-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d4754ad83fb4a33f96371ee1aa5533cd0988d43a3fe6ea3c0983f2f5cb0df352
 simpleMeaning: Any machine that makes a drawn record of brain waves by catching the currents the brain
   makes.
 scope: A machine that records brain currents, not a brain scan picture and not a heart machine.
@@ -11,5 +9,4 @@ examples:
 - An encephalograph was used to record the patient's brain waves.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1206
-sourceFinalSha256: 3c1d7f00a7350bb61cb8dd460854030dc8aba59979715901a741ff1b8cefe899
 reviewVerdict: first-pass

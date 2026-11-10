@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'epsilon_toxin%1:27:00::'
 synsetId: 14738514-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e604d5763b4e39ec173141ab98118d451d2821b74d11f12ef5498b36d97f4760
 simpleMeaning: a poison made by the bacterium Clostridium perfringens that causes severe stomach cramps
   and diarrhea starting 8 to 22 hours after eating food heavily contaminated with the bacteria
 scope: This is the gut poison made by Clostridium perfringens, not the bacterium itself or the other toxins
@@ -12,5 +10,4 @@ examples:
 - Food left out too long can carry the bacteria that produce epsilon toxin.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 104
-sourceFinalSha256: 1b2d31ce4ef61ca4f7380a597518171100751954aa1762e86e4966deec947c8e
 reviewVerdict: first-pass

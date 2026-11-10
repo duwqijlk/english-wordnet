@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'myelomeningocele%1:26:00::'
 synsetId: 14490979-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e26a4c4b071044ee41bbbc3b1bc7b4cccef0e6623b94c27508cee02cd91e3c34
 simpleMeaning: A birth defect in which part of the spinal cord and its coverings push out through a gap
   in the backbone, often with fluid on the brain and intellectual disability.
 scope: This is the severe form in which the spinal cord itself pushes out inside a sac, not a simple gap
@@ -12,5 +10,4 @@ examples:
 - Children with a myelomeningocele often need a shunt to drain extra fluid from the brain.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 97
-sourceFinalSha256: 33ff56aab2175c390214e5608296f920f519d0723869cbe03dbe1f4831e3e134
 reviewVerdict: first-pass

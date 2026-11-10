@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'super-automatic_espresso_machine%1:06:01::'
 synsetId: 92448889-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 69e1f9e1cca03e9ccf3ab3894b07a43eea260064dc5949d98463d7ac0f83587a
 simpleMeaning: a coffee maker that grinds the beans, presses them down, and pulls a shot of espresso by
   itself; some also froth milk and pour it out on their own
 scope: A coffee maker that does the whole job itself, not a hand-run espresso maker and not a drip coffee
@@ -12,5 +10,4 @@ examples:
 - She bought a super-automatic espresso machine that froths the milk for her morning coffee.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 879
-sourceFinalSha256: e81aa35c170f3e86cd433ae9bab7b5445ee5cb392e0548c6ae618f9737e54b36
 reviewVerdict: first-pass

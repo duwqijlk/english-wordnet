@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'some%3:00:00::'
 synsetId: 02275064-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 169a4c492ced54d89b29704e341f9e751e2bf1e7da8326818dc5c9dbaecb30cc
 simpleMeaning: an amount or number that is not stated exactly
 scope: Unspecified quantity, not "approximately".
 examples:
@@ -10,5 +8,4 @@ examples:
 - I need some help.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1
-sourceFinalSha256: 7872e0dc86da93ea8c3321970d81c724f939211f04e4dad99c4afa43c4e6008a
 reviewVerdict: first-pass

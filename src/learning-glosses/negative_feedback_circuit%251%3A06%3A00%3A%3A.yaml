@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'negative_feedback_circuit%1:06:00::'
 synsetId: 03102186-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6d3997c3e85824754d7d78d57fd6e63b05f517a8d06e906173386a4e57df8c54
 simpleMeaning: To cut down what goes in, some of what comes out is sent back along this path
 scope: A path that takes some of what comes out away from what goes in, also called a control circuit;
   not a path that adds to what goes in.
@@ -11,5 +9,4 @@ examples:
 - A negative feedback circuit stops the machine from running too fast by cutting back what goes in.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1438
-sourceFinalSha256: c09f7d5d7db95ff425e0b7bceb6484ca56de91438780fc154c74ccd88e875019
 reviewVerdict: first-pass

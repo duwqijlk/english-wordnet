@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'minor_diatonic_scale%1:10:00::'
 synsetId: 06874070-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cbc4307e09059d0a410ed45af73a6e3f2712a1d52f7dac124b4365262e4cb631
 simpleMeaning: Each note stands a whole tone from the next in this key's set of notes, but for the 2nd
   and 3rd and 5th and 6th.
 scope: Also called minor scale, it is a set of notes with whole tones between them, but for the 2nd and
@@ -12,5 +10,4 @@ examples:
 - The 2nd and 3rd notes of the minor diatonic scale are not a whole tone apart.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1017
-sourceFinalSha256: f8191717bee0e68d94195c1e2f0a0acb91e66641f6094c7b82551996857eba8e
 reviewVerdict: first-pass

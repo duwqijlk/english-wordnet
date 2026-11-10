@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'patient%3:00:00::'
 synsetId: 01739985-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a5a305ee323e82b452818d838165ffba368aaf5adbeca49c0f50496f5b69e189
 simpleMeaning: able to stay calm and keep going through difficulty or delay without getting upset
 scope: This is not about waiting a short while and not about medical care; it is about staying calm through
   real difficulty.
@@ -11,5 +9,4 @@ examples:
 - You have to be patient; the test results will take a week.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 36
-sourceFinalSha256: 539428fc75d0a369ac6d3b41751fa30951eeae57d0fda81709af939193379901
 reviewVerdict: first-pass

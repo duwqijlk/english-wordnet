@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'angular_momentum%1:07:00::'
 synsetId: 05036493-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 670625cb50b81074320984d5a3438c3fb3d8856a1ac85c75e91dc8eb46c04ae9
 simpleMeaning: how much spin a turning thing carries, found by joining its weight and speed of turning
   with how far it lies from the line it turns about
 scope: The amount of spin carried by a spinning thing, not the spin itself and not the speed of a thing
@@ -12,5 +10,4 @@ examples:
 - A spinning top keeps its angular momentum until friction slows it down.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1321
-sourceFinalSha256: 044970c462df71ba30b46e67fdc6d2eaa9519aeaabf6be55b36ea84187bad42b
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'couplet%1:10:00::'
 synsetId: 06390540-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1eb4197f9c30be621480c0a3466a8f7411030ba8dfb888444a7122e8e38582a7
 simpleMeaning: a part of a poem made of two lines, one after the other, that usually end with words that
   sound the same
 scope: This is a two-line part of a poem, not one line alone and not a longer part with three or more
@@ -12,5 +10,4 @@ examples:
 - He wrote a couplet and read the two lines aloud.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 556
-sourceFinalSha256: 36613f333a468166fe34da2f1c145f1beb020c9b4ffa76ded7c2653489d524be
 reviewVerdict: first-pass

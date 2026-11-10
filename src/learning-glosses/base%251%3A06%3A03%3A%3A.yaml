@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'base%1:06:03::'
 synsetId: 02801276-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 95defe586da826cd8f5f517381bddf4a34f360023a58a6968f37d86ea4465055
 simpleMeaning: In electronics, the middle element of a transistor, lying between the emitter and the collector
   and keeping them apart.
 scope: This is the middle part inside a transistor, not a support or foundation or the lowest support
@@ -20,5 +18,4 @@ examples:
 - A small current into the base controls the larger current from the emitter to the collector.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 74
-sourceFinalSha256: ed1591d24f6259be89ab28419a0c4f4ccf684a305af0667fe4c8d69d24854e90
 reviewVerdict: self-approved

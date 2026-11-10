@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'automatic_choke%1:06:00::'
 synsetId: 02763303-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e032581883bbe3ae93f30702e1c7bc8fa823df542b6ae7a233141fdbd9dadc0f
 simpleMeaning: a part in an engine that by itself sets how much air goes to the part that mixes air and
   fuel
 scope: An engine part that sets the air flow by itself, not a hand-set air valve and not a part that feeds
@@ -12,5 +10,4 @@ examples:
 - A working automatic choke lets the engine start well on a cold morning.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1328
-sourceFinalSha256: 7fc2dc90963842be6ce1910f14cb58846a853dd48a159a1dd7a239e911111da5
 reviewVerdict: first-pass

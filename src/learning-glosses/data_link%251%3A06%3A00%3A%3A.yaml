@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'data_link%1:06:00::'
 synsetId: 03679596-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: dc3f32bf0f261752aed66eb51e392cbd5de2b440feef444f498937e754afd852
 simpleMeaning: A joining line between two or more places, made so facts can be sent and got back between
   them.
 scope: A joining line between places for sending and getting facts; link is another name for it, not a
@@ -12,5 +10,4 @@ examples:
 - They set up a data link between the sites.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1198
-sourceFinalSha256: a95f668695cb4b9bf9fbc80057945781aca2753acd4a7cc36f922d83e294c678
 reviewVerdict: first-pass

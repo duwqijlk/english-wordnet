@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'magnetometer%1:06:00::'
 synsetId: 03714382-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 331524a0297efd6fb379b42283b53ad4356abbee8a24ee6bcbbdbcc65d4f0b4d
 simpleMeaning: A tool that measures and compares how strong the pull round magnets is
 scope: A tool that measures and compares how strong the pull round magnets is, not a compass and not a
   magnet itself; gaussmeter is another name for this sense.
@@ -11,5 +9,4 @@ examples:
 - A magnetometer showed that the field was stronger near the iron ore.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1242
-sourceFinalSha256: 95efb257fc436021b115fca48ec26a233b7b0f914e2c2397a01e326332a548da
 reviewVerdict: first-pass

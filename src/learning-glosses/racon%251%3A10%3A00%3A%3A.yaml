@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'racon%1:10:00::'
 synsetId: 07278565-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8e4c97f8e4f2c478ff1fc685b63f34c2e1996fcbf83b7a68986a22bdc6d3f23d
 simpleMeaning: A set that sends back coded signs when it picks up radar waves, so sailors can tell where
   they are.
 scope: This coded-answer set for sailors is also called radar beacon.
@@ -11,5 +9,4 @@ examples:
 - Sailors checked their place against the racon.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 958
-sourceFinalSha256: 8f3a485b45033da8f53f6185f88ad924b1c4d0f195c143a0979fbb44babb2100
 reviewVerdict: first-pass

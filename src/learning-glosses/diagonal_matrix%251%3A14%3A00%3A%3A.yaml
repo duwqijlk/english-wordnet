@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'diagonal_matrix%1:14:00::'
 synsetId: 08285883-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 919625432ae2569a533f62aca826dac53c2e417812be2622fe8eaddb6ee005ba
 simpleMeaning: a square grid of numbers in which every number off the line from one corner to the opposite
   corner is zero
 scope: A square grid of numbers in which every number off the corner-to-corner line is zero; not a grid
@@ -12,5 +10,4 @@ examples:
 - She wrote the diagonal matrix on the board with zeros off the diagonal.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1369
-sourceFinalSha256: af5d197d3aaf730e00cd1be18936a4c9a0d2bd2ca58ea14e065ce6d341ac20d1
 reviewVerdict: first-pass

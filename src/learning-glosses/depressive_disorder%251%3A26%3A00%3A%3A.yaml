@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'depressive_disorder%1:26:00::'
 synsetId: 14412645-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5915acb394c7011e9e1425f0daddadb0cd1ee92aec2f5c4b7c60c26f5016c220
 simpleMeaning: A very low mood with loss of joy, so strong that a person needs care from a doctor or clinic
 scope: This is a very low mood with loss of joy that needs care from a doctor; depression and clinical
   depression are other names for it, not a short spell of feeling sad.
@@ -11,5 +9,4 @@ examples:
 - A depressive disorder can make it hard to get out of bed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1200
-sourceFinalSha256: f7371d8cb67b6d6a6e5b8bede2b52edcad0da971d99bce77604fd5ef651b15ac
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'method_of_least_squares%1:09:00::'
 synsetId: 06030362-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 83766ad1346212a1fbe685d6a60b42242bef074ee12b077c240fb9815e350ed8
 simpleMeaning: Points get the curve that leaves the smallest total of each gap times itself by this way
   of fitting.
 scope: Also called least squares, it is the way of finding the curve, not the curve itself.
@@ -11,5 +9,4 @@ examples:
 - The method of least squares made the gaps between the points and the curve as small as could be.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1016
-sourceFinalSha256: 6fbe295f09376ae368f8994ff8ef978d6e2b8b739de016739028a0d1c7519d65
 reviewVerdict: first-pass

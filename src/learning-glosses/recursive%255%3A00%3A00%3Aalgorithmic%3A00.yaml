@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: recursive%5:00:00:algorithmic:00
 synsetId: 00093701-s
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7dda44761a9d519dfecb5c9c893ce83d45ea28f8e767929e29300196d0324087
 simpleMeaning: about or linked to a way of solving or defining something where a step uses itself again
 scope: About a step or rule that uses itself again to solve or define something; not about a simple set
   of steps that never uses itself.
@@ -11,5 +9,4 @@ examples:
 - A recursive rule can define a list by using the same rule again.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 542
-sourceFinalSha256: 59c6fcbae1ad5636a5701965c4b5a4f90d400730c7e3ca6d84f460970729ee3f
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'fraud_in_the_factum%1:04:00::'
 synsetId: 00780072-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 95dd9303c489fd3cdbada0858c32ce8582027a04b72e7abff85215dc7b6bae43
 simpleMeaning: a trick in law where the paper a person meant to sign is not the paper they did sign, for
   one thing leading them to sign the wrong contract
 scope: A trick in law where the paper signed is not the paper meant to be signed.
@@ -11,5 +9,4 @@ examples:
 - He claimed fraud in the factum because he had signed the wrong contract.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 896
-sourceFinalSha256: 0a8bd0626b03b4ba31272e19ceac4cf012c4fb6a8402972adca0c1c1beab7a1d
 reviewVerdict: first-pass

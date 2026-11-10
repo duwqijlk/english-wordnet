@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'resident_physician%1:18:00::'
 synsetId: 10208897-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: af00a160b10a1703ec647a9d0633e72a631aac3a5eb8903949f2c0c690c79e93
 simpleMeaning: a doctor, often one still in early training (an intern), who lives in a hospital and looks
   after patients there, guided by the hospital's medical staff
 scope: 'Also called a resident and a house physician: a doctor who lives in a hospital and looks after
@@ -12,5 +10,4 @@ examples:
 - Our resident physician lives at the hospital and sees patients on the ward.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1275
-sourceFinalSha256: bb027818bae82ff122bb3f7261357e5178ff31712a28232dcf1b8eebfabe1c90
 reviewVerdict: first-pass

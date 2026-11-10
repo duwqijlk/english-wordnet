@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'grade_point_average%1:10:00::'
 synsetId: 07276210-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6ddfe9c97e2b807566575f66136422cabcb8bb0662b683dfe81d075fa3e52de4
 simpleMeaning: 'At college or university, one number shows how well a student has done: the marks earned,
   divided by the marks tried for.'
 scope: This is the one number that shows how well a student has done at college or university, worked
@@ -12,5 +10,4 @@ examples:
 - They asked for his grade point average.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1003
-sourceFinalSha256: 8ba2adb32d90b21131d3177c9b1e5befaa6d820802862ddf51ea230ba312262b
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'throughput%1:06:00::'
 synsetId: 04436890-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 22efc69c579ca69abb7de64fcd2d53406009af7951ab6cffc54bfc9dea422b9f
 simpleMeaning: How much output a system gives compared with its input; the amount that passes through
   the system, especially for a computer program over a period of time
 scope: This is how much passes through a whole system, especially a computer program, not the input on
@@ -12,5 +10,4 @@ examples:
 - Better software raised the throughput of the old computer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 580
-sourceFinalSha256: 0332f02c4f7dc89cdb620c14f5ee8bae1941742d7b64748fb957851ae98d928d
 reviewVerdict: first-pass

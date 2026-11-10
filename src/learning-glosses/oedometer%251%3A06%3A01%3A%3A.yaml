@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'oedometer%1:06:01::'
 synsetId: 92445728-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a0186252ac18a153ab6b8d6185919a52bc2744eed235cebcb810cdbf74b74fa2
 simpleMeaning: A tool that measures how fast and how much a bit of soil packs down under weight.
 scope: A tool that measures how a bit of soil packs down under weight; not a tool that measures how wet
   soil is and not a tool that measures the weight of soil.
@@ -11,5 +9,4 @@ examples:
 - He used an oedometer to test the soil under weight.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1255
-sourceFinalSha256: fcf90c937185bc0ae6df0a387679eebae9e941a40cd08ce3670f279151ca39bf
 reviewVerdict: first-pass

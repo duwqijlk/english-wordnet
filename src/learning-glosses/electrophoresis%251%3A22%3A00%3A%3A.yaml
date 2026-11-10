@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electrophoresis%1:22:00::'
 synsetId: 13493721-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8413555bdbc8b77119e2b82b44ff0dbe5986ab984b9c6f810a6af935103ac3b3
 simpleMeaning: Under a charged field, charged bits drift through a liquid with bits spread through it,
   plus bits to the minus end and minus bits to the plus end
 scope: This motion, also called cataphoresis, dielectrolysis, and ionophoresis, moves charged bits in
@@ -12,5 +10,4 @@ examples:
 - In electrophoresis, plus bits move to the minus end of the field.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 996
-sourceFinalSha256: d3cc1f792c56f52b969bac3970d0416c92ad262288697baa92ab43a0c52bb057
 reviewVerdict: first-pass

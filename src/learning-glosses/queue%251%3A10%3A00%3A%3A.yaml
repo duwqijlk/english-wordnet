@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'queue%1:10:00::'
 synsetId: 06506807-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: ddd7c5e621988d95673eb69cebc5e53a1c1c53215e016237e4219a45bc2b2b08
 simpleMeaning: In computing, a list of jobs or notes kept in order, waiting to be done or sent
 scope: In computing, an ordered list of jobs or notes waiting their turn; not a line of people.
 examples:
@@ -10,5 +8,4 @@ examples:
 - Messages wait in a queue before they are sent.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 289
-sourceFinalSha256: ccf8cf3d4e851f7284f650dedc041a16f1366eadc5b2b0c6ce5608cbe99861a3
 reviewVerdict: first-pass

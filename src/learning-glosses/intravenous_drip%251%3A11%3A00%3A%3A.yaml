@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'intravenous_drip%1:11:00::'
 synsetId: 07447435-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fe5513f5a2cc89992bec332614fb0f8e7ad75dbeacba28a48247509216486cdc
 simpleMeaning: a slow, steady flow of liquid into a vein, a drop at a time
 scope: A slow, steady flow of liquid into a vein, a drop at a time; not a single injection and not a drink
   of liquid.
@@ -11,5 +9,4 @@ examples:
 - The nurse set up the intravenous drip beside the bed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1232
-sourceFinalSha256: 03649dfa4d50e24c1d05d9df2cd1bb19ef425574c732d3825d8bbf2775280e80
 reviewVerdict: first-pass

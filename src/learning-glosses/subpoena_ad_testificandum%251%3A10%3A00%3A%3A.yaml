@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'subpoena_ad_testificandum%1:10:00::'
 synsetId: 06569038-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2bfbffd13647e25e01b25fa9fda491ee8ed676dc9ebcd50f3c16492005c0c313
 simpleMeaning: A court order that makes a person come to speak as a witness at a trial; one who does not
   come can be punished for contempt of court.
 scope: 'Also called subpoena: a court order that makes a person come to a trial to speak as a witness.'
@@ -11,5 +9,4 @@ examples:
 - He got a subpoena ad testificandum and had to go to the trial as a witness.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 914
-sourceFinalSha256: 594717978f80aea73a0dbf6418a25f04d29e4cf85daa91a419649c9d106ef3a4
 reviewVerdict: first-pass

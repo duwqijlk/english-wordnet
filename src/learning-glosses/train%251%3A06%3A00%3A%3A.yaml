@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'train%1:06:00::'
 synsetId: 04475240-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8636501999e47c424f6933e3d41145e6e5c5607d614b4b184fab3fa3ecb60d2c
 simpleMeaning: A set of connected carriages pulled by an engine along metal tracks, used to carry passengers
   or goods.
 scope: This is not a line of animals or carts, and not a series of events; it is the railway vehicle itself.
@@ -11,5 +9,4 @@ examples:
 - The train was late because of the snow.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 24
-sourceFinalSha256: 28bac6a33506e2869d7aab99ac53c3409708117f44bc4304476efa065d045f69
 reviewVerdict: first-pass

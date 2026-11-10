@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'dental_handpiece%1:06:01::'
 synsetId: 92461194-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: a32de760e2c8708abb926e221bd7e238229ce2e6c3381be231b8cbd7d8ecb17a
 simpleMeaning: A dental tool that holds discs, cups or cutting bits, used to prepare a tooth for a repair
   or to shape, clean or polish a tooth or repair.
 scope: The held tool that grips the rotating disc, cup or bit, not the bit itself; it works both on teeth
@@ -12,5 +10,4 @@ examples:
 - A dental handpiece whirred as she cleaned the plaque from my back teeth.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 110
-sourceFinalSha256: 03227586c5fb1a74242b23487d857ccb30f4b53279d18d0a2b55e00251d5d808
 reviewVerdict: first-pass

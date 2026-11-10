@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'equation%1:10:00::'
 synsetId: 06682609-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0b12277617d37b20d7211128d717aeb856b0b0fff912b47c583d743a98f181d4
 simpleMeaning: a maths statement that says two sums or values are the same
 scope: A maths statement that two sums or values are the same, not a state of things being evenly matched
   in value.
@@ -11,5 +9,4 @@ examples:
 - The teacher wrote an equation on the board.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 302
-sourceFinalSha256: f3aef7efd4c3abb17c561a6d22a38768c90022c9a9dbc92d3aeab60566b382ed
 reviewVerdict: first-pass

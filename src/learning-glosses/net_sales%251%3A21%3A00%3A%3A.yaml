@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'net_sales%1:21:00::'
 synsetId: 13282006-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2a0d8bb3cd1567990ca1fc375bb747d934add109146e2c89fb329f1b09c7bd98
 simpleMeaning: Gross sales minus customer discounts, returns, freight out, and allowances
 scope: The figure counts only what is left after price cuts, goods sent back, sending costs, and money
   allowed back are taken off the gross takings, not the full takings before those are taken off.
@@ -11,5 +9,4 @@ examples:
 - Goods sent back and money allowed back are taken off in net sales.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1019
-sourceFinalSha256: 70977d5c5233cc90e206aaf66cd20850357e1ad4e4a11fd5df97c4a2111b96d8
 reviewVerdict: second-pass

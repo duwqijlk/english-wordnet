@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'last_in_first_out%1:04:00::'
 synsetId: 00621498-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 153ddb7a347c0d478c5d172d95eb02e02fa9a236cbbedb406e3baf2956bbc773
 simpleMeaning: A method of stock accounting in which the newest goods are assumed to be sold before the
   older goods.
 scope: A way of counting stock that counts the newest goods as sold before older ones, not a way that
@@ -13,5 +11,4 @@ examples:
 - Under last in first out, the goods that arrived most lately are treated as the ones sold.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1418
-sourceFinalSha256: 9cc1486050627f7d86c1e76b1a371cc963c2abdae515234bb6d2004721150a3e
 reviewVerdict: second-pass

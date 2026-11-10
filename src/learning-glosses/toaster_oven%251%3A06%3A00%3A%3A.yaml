@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'toaster_oven%1:06:00::'
 synsetId: 04449575-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4cb16b7f7b87fb3ec14a59826559fe07b839e62ee3924f671cc3fd568fa4c489
 simpleMeaning: A small electric box for the kitchen that browns bread or warms food
 scope: A small electric box for browning bread or warming food, not a full-size cooker and not a bread
   bin.
@@ -11,5 +9,4 @@ examples:
 - The toaster oven browned the bread in minutes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1152
-sourceFinalSha256: f6542d1ea5598753f2b572930417f13e592d6b1a1bf3f8d99a064a44f8647035
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'prosecutor%1:18:00::'
 synsetId: 10504443-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 09c7a97073278cd20d1c4cc874d4c96241e6c9735ee43a5c5118bba8d281b9de
 simpleMeaning: a lawyer who works for the state and brings criminal cases to court against people
 scope: A lawyer who brings charges for the state, not a lawyer who defends the accused and not a judge.
 examples:
@@ -10,5 +8,4 @@ examples:
 - The prosecutor called three witnesses to prove the charge.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 393
-sourceFinalSha256: 93a3de0da9ba37edbf58f2a70d523f5c2101d51e8b29a9180dddc8e4f5d8b468
 reviewVerdict: first-pass

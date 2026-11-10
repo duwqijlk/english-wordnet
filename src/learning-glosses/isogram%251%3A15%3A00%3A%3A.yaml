@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'isogram%1:15:00::'
 synsetId: 08607357-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 9286db61778fb0a753ae9e2d815f46891a4d03de31567911cca0a166f7f2da6c
 simpleMeaning: A line on a map links spots that all give the same reading for one thing that is measured
 scope: A line on a map joining places where a measured thing has the same value, also called isarithm
   or isopleth; not a line joining places of different values and not a line drawn on a chart of the sky.
@@ -11,5 +9,4 @@ examples:
 - Draw an isogram through all the points that share the same value.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1413
-sourceFinalSha256: 08f3fffc5825622f75f63434f49c7b7f79dae95c37e67fd3602341826ba20fa5
 reviewVerdict: first-pass

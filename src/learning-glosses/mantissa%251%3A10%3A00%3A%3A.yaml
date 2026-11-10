@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'mantissa%1:10:00::'
 synsetId: 06825973-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0ee919b040c0c13072770b28e4d0a7c2830d1ac5c9241726299431797eb4f2d1
 simpleMeaning: the positive part after the point in a logarithm, as .808 in log 643 = 2.808
 scope: The part after the point in a logarithm; fixed-point part is another name for this sense, not the
   whole number before the point and not the logarithm itself.
@@ -11,5 +9,4 @@ examples:
 - To find the mantissa, look at the part after the point.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1111
-sourceFinalSha256: da5c0647da6de728ba98580d29462b8a850f9b05f88ad1d196957c22ebdb0945
 reviewVerdict: first-pass

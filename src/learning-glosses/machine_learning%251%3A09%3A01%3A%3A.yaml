@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'machine_learning%1:09:01::'
 synsetId: 92463238-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 7ba54e074c4088f44372a7b9d199547277fae4a4d7845fe83d00b6eb51b83dd8
 simpleMeaning: Computers get better at a task from facts they have seen and guess what comes next, and
   this part of computer science studies and builds the ways they do it
 scope: A part of computer science that builds ways for computers to get better from facts they have seen
@@ -12,5 +10,4 @@ examples:
 - She studies machine learning at the university.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1426
-sourceFinalSha256: dd6dc865f475759710179a459b6e96e51acce26cf1a717937ed7cd4f0912cc9f
 reviewVerdict: first-pass

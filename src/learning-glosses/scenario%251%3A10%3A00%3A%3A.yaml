@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'scenario%1:10:00::'
 synsetId: 07025251-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fa12d0823540883ef0bdf0731e63b2e7b6a0e78687a53148083240339bef93b2
 simpleMeaning: a short summary that gives the main points of a play, or, in a wider use, of another piece
   of writing
 scope: This is a short plan for a play or other writing, not a set of events that might happen in the
@@ -12,5 +10,4 @@ examples:
 - The scenario set out each scene of the story in a few lines.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 271
-sourceFinalSha256: 14c7bc3666be855a0d5be3ae6ecb0a44f98bc3a95169c44770a7006617530548
 reviewVerdict: first-pass

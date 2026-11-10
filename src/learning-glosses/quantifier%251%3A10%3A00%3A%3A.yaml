@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'quantifier%1:10:00::'
 synsetId: 06313371-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: af7da0339f1a357b3af56354baab5d843999e45418c1d2ca750a8f386e058ec9
 simpleMeaning: In grammar, a word that says how much or how many, like 'fifteen' or 'many'
 scope: A word that says how much or how many, not the logic sense of a word like 'some' or 'all' that
   binds the parts of a claim.
@@ -11,5 +9,4 @@ examples:
 - In the phrase 'fifteen books', the quantifier is 'fifteen'.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1464
-sourceFinalSha256: 751822963d9d80e4f5c556cfeff4e38a1d0701985369ee3418c18842b6fc0642
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'summary%1:10:00::'
 synsetId: 06478678-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 000609326a2bd46897cfe2702964e9e18aaf07668043b57e1604943d8dd76fa9
 simpleMeaning: A short statement that gives the main points and leaves out the rest
 scope: A short statement of the main points only, not the full account and not a single fact picked out.
 examples:
@@ -10,5 +8,4 @@ examples:
 - She read a summary of the report before the meeting.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 340
-sourceFinalSha256: 694b1c44343e75a37de75b8ffc89bc631cc07df1a6ea13ae8c4b62f988670ddc
 reviewVerdict: first-pass

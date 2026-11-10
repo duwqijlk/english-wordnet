@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'parity%1:23:00::'
 synsetId: 13646953-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2c57c6d628bff1c0aeb9e1342121a2eb661a24352c8463e545e7990817db92b4
 simpleMeaning: In computer science, the bit (0 or 1) added to a group of bits so the group has an odd
   or even number of 1s; a mismatch signals an error.
 scope: This sense is the computing bit, not the mathematical odd-or-even relation, the physics symmetry
@@ -12,5 +10,4 @@ examples:
 - The stored parity was wrong, so the receiver rejected the byte.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 96
-sourceFinalSha256: 83acb82a5ae64faebda532e7c5c27681fe51ee262d22319a999aae55ca8799cc
 reviewVerdict: self-approved

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'electric_thermometer%1:06:00::'
 synsetId: 04428218-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 8309aa0463caaa76917f5c25bb65f154f876dc2faa3d56ff1ad434507642a682
 simpleMeaning: a tool that reads how hot or cold a thing is, using power made from heat
 scope: A tool that reads heat with power made from heat, not a glass tube with liquid that rises and falls
   and not a tool that reads heat from light.
@@ -11,5 +9,4 @@ examples:
 - She checked the oven with an electric thermometer.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1377
-sourceFinalSha256: c61a92be34ff104ac687ca9bf5c7ac805672bdd916e357d721a385dbaa4ae20b
 reviewVerdict: first-pass

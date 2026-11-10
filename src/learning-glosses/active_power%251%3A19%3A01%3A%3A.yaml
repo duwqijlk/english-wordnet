@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'active_power%1:19:01::'
 synsetId: 92466656-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 21a5550125d5751329737721ef4860ec4ccc412edec19ee140a7d55fcb057984
 simpleMeaning: The share of electric flow that, over one full wave cycle, moves energy one way on balance.
 scope: The share of an electric supply that moves energy in one direction and does real work, not the
   part that flows back and forth, and not the whole supply taken together.
@@ -11,5 +9,4 @@ examples:
 - Only part of the supply counts as active power, since some energy flows back to the source.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1163
-sourceFinalSha256: 2c74c3ff917e6380a6a92b5bd4277f118df54995b5b57771638c4173d62b5f1b
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'steamboat%1:06:00::'
 synsetId: 04315945-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3dac1972a2ad324a3c1196171432a740b85bd051fc6b2963baeaab549b6b3662
 simpleMeaning: a boat that moves on water by power from an engine that uses steam
 scope: This is a boat moved by a steam engine, not a boat moved by wind and not a boat rowed by hand.
 examples:
@@ -10,5 +8,4 @@ examples:
 - A steamboat left white smoke as it crossed the lake.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 577
-sourceFinalSha256: 0f40fb53827a19de0e30c5d3e4ce43c34f04dbe4a62fc3a2f82c644cf1fb280d
 reviewVerdict: first-pass

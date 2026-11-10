@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'grade_point%1:09:00::'
 synsetId: 05745477-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 6b015057ea73f2fafb7361728165f62c2e0d5cce2f981b8f8dee3334777aaa0a
 simpleMeaning: Take the mark for a class at a college or university and times it by the hours of credit
   the class is worth; the number you get is this
 scope: The number you get when you times the mark for a class by the hours of credit the class is worth,
@@ -12,5 +10,4 @@ examples:
 - To get the grade point, multiply the mark by the credit hours for the course.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1396
-sourceFinalSha256: d7d0fef02d27f02b0b261ac539edf062c38faf065b595aa06ef39e0012598a84
 reviewVerdict: first-pass

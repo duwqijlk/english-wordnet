@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'floor_plan%1:06:00::'
 synsetId: 03371993-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 70f0115ae7f3bf05c388379b476813213f41dee18c9f0cfd7921778052351289
 simpleMeaning: a drawing made to scale that shows a building cut across at one level, as seen from above,
   not a drawing of the outside of the building
 scope: A drawing of a building cut across at one level, not a drawing of the outside of a building and
@@ -12,5 +10,4 @@ examples:
 - We checked the floor plan before we moved the walls.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1388
-sourceFinalSha256: a25668f1a72a290113c7b87b0fe7b8850225ea9fd3058622761c2b61820311ee
 reviewVerdict: first-pass

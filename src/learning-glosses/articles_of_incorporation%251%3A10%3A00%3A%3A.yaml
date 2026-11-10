@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'articles_of_incorporation%1:10:00::'
 synsetId: 06482359-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: dcfa6c261e1bf7b4678940d760ca60a4e7d645979e4aff6e4f3567708b12c851
 simpleMeaning: This legal paper sets up a company, and the people who start it send it to a state, and
   the laws of that state rule it
 scope: This is the paper filed with a state when a company is formed.
@@ -11,5 +9,4 @@ examples:
 - The founders sent the articles of incorporation to the state.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 978
-sourceFinalSha256: 1a73a6c3cb296626a6c2ee32532b7d78ca1542ec9a3e5051adb16a5d5a199fb1
 reviewVerdict: first-pass

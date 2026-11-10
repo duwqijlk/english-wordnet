@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'postage_franking%1:10:01::'
 synsetId: 92440705-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4d24e46b131c6c9b1ba250b7c8bedd11a284a9287d18370fe257415673236221
 simpleMeaning: stamps, or other marks the post office accepts, that show enough has been paid for the
   kind of mail service the piece of mail is to get or has had
 scope: Stamps or marks showing the mail fee is paid, not a postmark that only shows where and when mail
@@ -12,5 +10,4 @@ examples:
 - Postage franking on the parcel proved the fee was paid.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 874
-sourceFinalSha256: f38529a82b1ecde9f025066b2e0ebc1201cbf479504fc636ffee50e40751304c
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'digitizer%1:06:00::'
 synsetId: 03202130-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: b157a582c0346108270cffc2bc747a6510aa526a2aec57daa69c7342c5cb8188
 simpleMeaning: a tool that takes signals that rise and fall without breaks and turns them into number
   form
 scope: A tool that turns signals that rise and fall without breaks into number form, also called an analog-digital
@@ -13,5 +11,4 @@ examples:
 - She plugged the sensor into a digitizer before the test began.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1370
-sourceFinalSha256: 0721731498db9e2864ac8e60b5264215ff386a432d6279cad426862292c11d48
 reviewVerdict: first-pass

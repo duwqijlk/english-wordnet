@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'freight_agent%1:18:00::'
 synsetId: 10131232-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3b1b2ecd576ba3de1c2817491d091d91992077b11edc3d77fdadda31f368daec
 simpleMeaning: For a firm that carries goods, this worker takes them in when they arrive and sends them
   on to where they must go.
 scope: This names the person in charge of taking in and sending on goods for a firm that carries them.
@@ -11,5 +9,4 @@ examples:
 - Ask the freight agent about the delivery date for your goods.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1001
-sourceFinalSha256: 0d743d10ce7d86062116ef623fe9aadf482e5fa1c62e9b5d91c959054a92d0ce
 reviewVerdict: first-pass

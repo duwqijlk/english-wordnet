@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'corollary%1:09:00::'
 synsetId: 05788560-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3a2845a4ea56a0b1d39f8c7dc2220ca4f2d46ce8de1f7c146fa206c3cdb14552
 simpleMeaning: In logic, a statement that follows straight from the proof of another statement
 scope: 'This is the logic sense: a new statement that follows from one already proved. It is not the everyday
   sense of a result that follows naturally in real life.'
@@ -11,5 +9,4 @@ examples:
 - The corollary can be shown in two short lines from the main proof.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 602
-sourceFinalSha256: f16b8833e37406e34c980dfb988a07d44ea35022bad2f2d2942af8eb3101f1cb
 reviewVerdict: first-pass

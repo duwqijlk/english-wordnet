@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'breathalyzer%1:06:00::'
 synsetId: 02898700-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: da82b6510fe6d198809473fc185fad399f33a548c3128dca4e08b335ad4162d9
 simpleMeaning: A tool that measures chemicals, chiefly alcohol, in the air a person breathes out.
 scope: A tool that measures chemicals, chiefly alcohol, in air breathed out; breathalyser is another name
   for this sense, not a blood test for alcohol and not a lung test.
@@ -11,5 +9,4 @@ examples:
 - She blew into the breathalyzer at the roadside check.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1179
-sourceFinalSha256: 8e9a5de59509a7950ed77d39d9f8d664599cb29bcac0dc41befb1d125e712028
 reviewVerdict: first-pass

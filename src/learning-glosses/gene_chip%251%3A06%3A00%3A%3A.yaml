@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gene_chip%1:06:00::'
 synsetId: 03438157-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3c66a4853e5c6d6f480f4623e9253705cd6d242f59518656099182c77b3c81ec
 simpleMeaning: a tiny plate that holds bits of DNA that match one side of the DNA double twist and can
   pick out matching DNA in test samples
 scope: A tiny plate that holds bits of DNA to test samples, not a computer chip and not a gene test done
@@ -12,5 +10,4 @@ examples:
 - A gene chip can pick out matching DNA from hundreds of samples at once.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 867
-sourceFinalSha256: c6c2ce307f194bc76b2786d017e8a59f8d09a4d570e73fa18f26091004d056c5
 reviewVerdict: first-pass

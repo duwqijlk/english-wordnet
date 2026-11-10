@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'serial_port%1:06:00::'
 synsetId: 04181295-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 810af0a617044d8c623d31e4844c538db987d9d99d74bc1162e55f9e582cfeaa
 simpleMeaning: A socket, often used for modems, mice, and some printers, that sends data one bit at a
   time
 scope: A socket that sends data one bit at a time, not a socket that sends many bits at once and not a
@@ -12,5 +10,4 @@ examples:
 - An old serial port sends data one bit at a time.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1139
-sourceFinalSha256: 28696a96f7a5ffd0bda07ad1b48cd8edc086ac37d9a92b9f1225a9a175789f71
 reviewVerdict: first-pass

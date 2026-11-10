@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'spinner%1:06:01::'
 synsetId: 04285889-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 42cb190fc17814a42ca76fec6d0c3acb122d2551a2f02286a7daaa7accd2204a
 simpleMeaning: a thing used in a board game, with a round face and a pointer that is turned round to choose
   the next move
 scope: This is the board game piece with a pointer, not a fishing lure that turns in water and not a person
@@ -12,5 +10,4 @@ examples:
 - The spinner stopped on red, so it was my turn next.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 610
-sourceFinalSha256: 2d62b1edce8766efbc89b081607a96c127dea968c41d2ed38eacf9ad8446fd33
 reviewVerdict: first-pass

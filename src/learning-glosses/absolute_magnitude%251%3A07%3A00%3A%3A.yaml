@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'absolute_magnitude%1:07:00::'
 synsetId: 05098183-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 17bd80d9d8ff7ec9d4232c1c0b460818fb9e600932289c7c6e5f4087ca5dc779
 simpleMeaning: In astronomy, how bright a star would look if it were seen from a set distance of about
   thirty-three light years from the earth
 scope: This is how bright a star would look from a set distance, not how bright it looks from the earth
@@ -12,5 +10,4 @@ examples:
 - Two stars can look the same from here but have a very different absolute magnitude.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1314
-sourceFinalSha256: 11f2f90745a4c68d3c7ac51ad06d769b784d0bf511470cc08481fe918f968fe4
 reviewVerdict: first-pass

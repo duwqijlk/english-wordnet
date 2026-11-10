@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'demodulation%1:10:00::'
 synsetId: 06292862-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cfd537ea08646c08d9ac67590b315a91b33f9b1fcb1065106c09594550202e26
 simpleMeaning: In electronics, the taking in of a signal by pulling it out of the wave that carries it
 scope: In electronics, taking a signal out of its carrier wave, not sending a signal and not making the
   wave.
@@ -11,5 +9,4 @@ examples:
 - The receiver uses demodulation to pull out the voice.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1081
-sourceFinalSha256: 6fd94ed45f6c4105cc4c286d2e2921b9eec4750ad327505d1f5723021738c2d8
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'bill_of_entry%1:10:00::'
 synsetId: 06498887-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 0704f5413bb72148a217479c638550391e5a6c21202e0a76c9adcd7a56e02dca
 simpleMeaning: a list of goods that have come into a customs house, to be sent out of the country or brought
   in
 scope: A list of goods at a customs house, not a list of prices and not a receipt for goods bought.
@@ -11,5 +9,4 @@ examples:
 - Every shipment needs a bill of entry before it can leave the port.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1334
-sourceFinalSha256: ebb82c2c7672f9e952a6b4ebdd85dd0268a46d8db6811dc0e792915ebc771d8a
 reviewVerdict: first-pass

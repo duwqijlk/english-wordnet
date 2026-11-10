@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'statistic%1:09:00::'
 synsetId: 06030848-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 02031d2da361985bcd29507d0a95d3e4de9fe01fa976d1c24079abf703f3d011
 simpleMeaning: One single fact given as a number
 scope: This is one single fact given as a number, not a whole set of facts or a guess about what is true.
 examples:
@@ -10,5 +8,4 @@ examples:
 - One statistic stood out in the report.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 334
-sourceFinalSha256: 9e70eb6a440911301f8d9241008441366c6a32a8774e5e4131d05bc6ed55d1b0
 reviewVerdict: first-pass

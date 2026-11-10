@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'reciprocal%1:24:00::'
 synsetId: 13865372-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: fe7a48b833981a80149f3a6e974365e9bbfb071ad705a5f1220e9f5ac05e2bc7
 simpleMeaning: In mathematics, one of two numbers that give 1 when multiplied together, such as 3/2 for
   2/3 or 1/7 for 7
 scope: In mathematics, this is a number that pairs with another to make 1 when multiplied together. It
@@ -13,5 +11,4 @@ examples:
 - To divide by 2/3, multiply by its reciprocal, 3/2.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 516
-sourceFinalSha256: 5f8b8be62bec2bba2eb6dc652c3fd22a0c1d1efeeef4bad7b5320063216fbf49
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'auxiliary_engine%1:06:00::'
 synsetId: 02765914-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 00eac6a92b8f4fe31e91c6ea182e7ccbcd28b87091f3eaa36c982b87ac595bec
 simpleMeaning: In ships, a small motor on board used to turn a windlass, a wheel that pulls up the anchor
 scope: 'Also called a donkey engine: a small motor on a ship that works the anchor wheel, not the ship''s
   main motor and not a motor used on land.'
@@ -11,5 +9,4 @@ examples:
 - The crew started the auxiliary engine to lift the anchor chain.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1328
-sourceFinalSha256: 7fc2dc90963842be6ce1910f14cb58846a853dd48a159a1dd7a239e911111da5
 reviewVerdict: first-pass

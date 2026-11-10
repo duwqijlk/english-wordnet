@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'retail_price%1:21:01::'
 synsetId: 92406969-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 94bd63d97fbeeb9cf35a76cc6a371f963d5fe5beec9a40905f941da0d4158192
 simpleMeaning: the full amount a shop asks a buyer to pay for a thing, made up of what it cost to make
   plus the shop's own extra charge
 scope: The full amount a buyer pays in a shop, not the price a shop pays to buy the goods and not a price
@@ -12,5 +10,4 @@ examples:
 - Shoppers check the retail price before they buy.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1275
-sourceFinalSha256: bb027818bae82ff122bb3f7261357e5178ff31712a28232dcf1b8eebfabe1c90
 reviewVerdict: first-pass

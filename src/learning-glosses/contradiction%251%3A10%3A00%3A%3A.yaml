@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'contradiction%1:10:00::'
 synsetId: 07221256-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c09c9c3a48d6f31792e8153e9398107f501a531798b78030d2773750c995d296
 simpleMeaning: saying something that goes against what another person has said
 scope: Saying something that goes against what another person has said, not a statement in logic that
   must always be false.
@@ -11,5 +9,4 @@ examples:
 - She answered his statement with a flat contradiction.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 394
-sourceFinalSha256: 074e5b9bdaf8ff0b4560a894695adb474c53aa7be01068cf62178c37ce77b630
 reviewVerdict: first-pass

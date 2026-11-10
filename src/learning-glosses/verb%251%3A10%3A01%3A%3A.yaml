@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'verb%1:10:01::'
 synsetId: 06329055-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 845f3e69872f4778e10ddd058872aa95bfdd384650baff5ad5b9c543493677fe
 simpleMeaning: the kind of word that forms the main telling part of a sentence
 scope: This is the kind of word that fills the telling part of a sentence, not a single word that just
   names an action, a thing that happens, or a state of being.
@@ -11,5 +9,4 @@ examples:
 - The verb is the telling part of the sentence.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 204
-sourceFinalSha256: b3cb97d425027c8f1b9745cc7dcd0e39ea7b60c61e738b786e16d866a9bcb376
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'gauss%1:23:00::'
 synsetId: 13660326-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: df5d522d0fbcc8e1d6238e87e71b5286e6301c086fb0351fb395d13ebf2a13f7
 simpleMeaning: A unit that measures how strong a magnetic field is, equal to one maxwell for each square
   centimetre
 scope: This is a unit for magnetic field strength, not the field itself and not a unit of electric current.
@@ -11,5 +9,4 @@ examples:
 - Scientists still quote small fields in gauss.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1094
-sourceFinalSha256: 5b8ec299372b30c8b1d14f6af40c973b27c1662476b63a4e786bb12123957cfb
 reviewVerdict: first-pass

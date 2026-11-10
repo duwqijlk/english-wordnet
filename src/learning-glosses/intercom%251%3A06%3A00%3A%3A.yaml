@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'intercom%1:06:00::'
 synsetId: 03583224-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 5dc4be2ceab2fd65f2d24e104e1429742b7247124210f04b8ec0f651e2180eb2
 simpleMeaning: A system that lets people in different rooms of a building, a ship, or another place talk
   to each other
 scope: This is a system that lets people in different rooms talk to each other, not a telephone and not
@@ -12,5 +10,4 @@ examples:
 - Press the intercom button to speak to the front desk.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 430
-sourceFinalSha256: ae34144e7151f83d5c28468d4e4928995e351d39caae726cd02822a195ece246
 reviewVerdict: first-pass

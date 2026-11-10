@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'asynchronous%3:00:01::'
 synsetId: 02389387-a
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 87cfe0eeba219d91e11d3748fb8d9894e653ab01475f21f89ef889d8d0448170
 simpleMeaning: In digital communication, a way of sending data where the devices do not share one clock;
   the timing comes from special marks in the data itself
 scope: The digital communication sense, where sending devices do not share a clock; not the general sense
@@ -12,5 +10,4 @@ examples:
 - The asynchronous link takes its timing from special marks in the data itself.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 569
-sourceFinalSha256: de19ead899aed0b3d7f61ed210404c700df67d2483fc5822bbfd42663d7790c2
 reviewVerdict: first-pass

@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'releasing_hormone%1:08:00::'
 synsetId: 05419585-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e8b5165e03470a5cc10e3db51defb203af1ec22a40f7b62ee22b3ad9d37ec05b
 simpleMeaning: One of a set of chemical messengers the hypothalamus makes and sends through the blood
   to the pituitary, where each one tells it to put out a particular substance.
 scope: This is the hypothalamic messenger that prompts the pituitary, not the broader substance sense
@@ -12,5 +10,4 @@ examples:
 - Researchers blocked one releasing hormone to see which pituitary signal disappeared.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 97
-sourceFinalSha256: 33ff56aab2175c390214e5608296f920f519d0723869cbe03dbe1f4831e3e134
 reviewVerdict: first-pass

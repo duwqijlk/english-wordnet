@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'answering_machine%1:06:00::'
 synsetId: 02717662-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e8098d4de306f94c2d3e56a4f60df564fc5aed9126f586d064c12c4e6a32bb4d
 simpleMeaning: a device that uses power, picks up the phone for you, and saves the words people leave
 scope: A device that picks up the phone and saves the words people leave, not a person who takes calls
   and not a phone that only rings.
@@ -11,5 +9,4 @@ examples:
 - I left a message on their answering machine.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1321
-sourceFinalSha256: 044970c462df71ba30b46e67fdc6d2eaa9519aeaabf6be55b36ea84187bad42b
 reviewVerdict: first-pass

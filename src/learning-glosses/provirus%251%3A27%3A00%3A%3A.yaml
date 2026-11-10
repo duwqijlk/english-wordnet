@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'provirus%1:27:00::'
 synsetId: 14841311-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: c5b24d7f89be2607bc38e7e4d43209dfde4cde0b27c4a96fa8d5ed82e54a1b1b
 simpleMeaning: Inside a host cell, the genes of a virus are a copy made from the RNA of a retrovirus,
   and copy themselves along with the genes of the cell.
 scope: A virus's genes in copy form inside a host cell, not the free virus itself and not the cell's own
@@ -12,5 +10,4 @@ examples:
 - Once the provirus was in place, it copied itself each time the host cell copied its genes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 908
-sourceFinalSha256: 09931b16515af2dcf5f69a4d75ca74f0bd4aaaa6c5e5edba05f28116e853319e
 reviewVerdict: first-pass

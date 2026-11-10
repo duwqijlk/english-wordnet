@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'piano_action%1:06:00::'
 synsetId: 03934827-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cc6b5d87c0920b53398f67853c3c7f111274c7b5e5d2c069f341da468cff1aec
 simpleMeaning: a set of levers that move a hammer covered in felt to hit the strings when a key is pressed
 scope: A set of levers that move a hammer covered in felt to hit the strings when a key is pressed; not
   the keys themselves and not the strings themselves.
@@ -11,5 +9,4 @@ examples:
 - A good piano action lets the hammer strike the strings cleanly when a key is pressed.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1124
-sourceFinalSha256: ba6e6c52c51348e3d7c11188f5c7709f46a116302a78d7f5f37e5593cbfe3c5d
 reviewVerdict: first-pass

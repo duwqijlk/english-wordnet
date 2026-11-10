@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'directmate%1:10:01::'
 synsetId: 92444677-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: cb943cfa21544640f3f74929fec4c5491ebb355fe9071a8060b4439f2f413e1e
 simpleMeaning: a chess puzzle in which White moves first and must win by trapping the black king in a
   set number of moves, whatever Black does
 scope: A chess puzzle in which White must trap the black king in a set number of moves, not a puzzle in
@@ -12,5 +10,4 @@ examples:
 - The directmate asked White to trap the black king in just four moves.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1370
-sourceFinalSha256: 0721731498db9e2864ac8e60b5264215ff386a432d6279cad426862292c11d48
 reviewVerdict: first-pass

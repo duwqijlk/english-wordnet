@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'train%1:14:00::'
 synsetId: 08444586-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: d998332bb84446ce5c4873dbd4bda82b2f0ffeb002aeb3cc856948e687b24b16
 simpleMeaning: A line of wagons or animals that travel one behind the other.
 scope: This is not the railway vehicle, and not a series of events or ideas; it is a line of carts or
   animals moving one after another.
@@ -11,5 +9,4 @@ examples:
 - A train of mules carried supplies up the mountain.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 24
-sourceFinalSha256: 28bac6a33506e2869d7aab99ac53c3409708117f44bc4304476efa065d045f69
 reviewVerdict: first-pass

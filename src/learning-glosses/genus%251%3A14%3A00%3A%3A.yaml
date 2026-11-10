@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'genus%1:14:00::'
 synsetId: 08125938-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 48816536ed8927b3541e76a8c16b353df7b6f6f1aebb3db07cc4627746d695dd
 simpleMeaning: In biology, a group used to sort living things, made up of one or more kinds
 scope: In biology this is a sorting group holding one or more close kinds. It is not one kind itself,
   a smaller group, and not the larger group called family above it.
@@ -11,5 +9,4 @@ examples:
 - Wolves and dogs belong to the same genus, Canis.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 627
-sourceFinalSha256: e39581227bf723da97ee48c5e2cd92170c47818980e7e41c02eadd366962912b
 reviewVerdict: first-pass

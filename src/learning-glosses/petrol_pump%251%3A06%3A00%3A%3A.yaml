@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'petrol_pump%1:06:00::'
 synsetId: 03430323-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 4149b2d7e5d7ff3f68219e3305c868ac3e6a7a3be60b59b0f2959a7791f6b666
 simpleMeaning: a device in a filling station that draws gasoline from tanks stored below the ground
 scope: A device at a filling station that draws fuel from tanks below the ground; gas pump, gasoline pump
   and island dispenser are other names for this sense, not the tank itself and not the hose alone.
@@ -11,5 +9,4 @@ examples:
 - The petrol pump at the corner was out of order, so we drove on to the next station.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1124
-sourceFinalSha256: ba6e6c52c51348e3d7c11188f5c7709f46a116302a78d7f5f37e5593cbfe3c5d
 reviewVerdict: first-pass

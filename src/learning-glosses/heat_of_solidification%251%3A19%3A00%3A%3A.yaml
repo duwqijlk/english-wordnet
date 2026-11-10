@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'heat_of_solidification%1:19:00::'
 synsetId: 11492228-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 587f97078e196eb5a97932b8a10aed289de569845d0f7353e080fc13a3bc7410
 simpleMeaning: As a liquid turns solid and freezes, a fixed weight of it gives off this much warmth
 scope: The warmth a fixed weight of liquid gives off as it turns solid, not the warmth taken in when a
   liquid splits apart and not the warmth taken in when a liquid turns to gas.
@@ -11,5 +9,4 @@ examples:
 - Scientists use the heat of solidification to work out how much warmth freezing gives off.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1401
-sourceFinalSha256: 9be1f6a7945175c3b84cfec7b8188e09bc8825fe3fbfc51449ec7285cf6f5fe6
 reviewVerdict: first-pass

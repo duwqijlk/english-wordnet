@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'clef%1:10:00::'
 synsetId: 06875612-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 2ad141a580af2bf5d42b4215378737aca59d382ed971947b0b987ddaded04551
 simpleMeaning: In music, a sign written at the start of lines of music that shows how high or low the
   notes after it are
 scope: This is the sign at the start of written music that sets how high or low the notes are, not a note
@@ -12,5 +10,4 @@ examples:
 - She drew a bass clef before she wrote the low notes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 600
-sourceFinalSha256: dbfe3db5982f224b790d9400f5347acd84f330c61a9513b00d9cb057d8b1f1e3
 reviewVerdict: first-pass

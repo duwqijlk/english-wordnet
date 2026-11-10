@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'nickel-iron_battery%1:06:00::'
 synsetId: 03829213-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e158727589fe814fab73b157a0796e9142fb8451c087e05b75b1855c4bc44f2f
 simpleMeaning: a power-storing battery with nickel oxide on one side of each cell and iron on the other,
   in potassium hydroxide liquid; each cell gives about 1.2 volts
 scope: 'Another name for this is a nickel-iron accumulator: a storage battery built this way, not a lead-acid
@@ -12,5 +10,4 @@ examples:
 - A nickel-iron battery cell gives about 1.2 volts, so the set uses several cells together.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 872
-sourceFinalSha256: 03fdb4bfdba1485624923ee4c1e0be74ba5afb0ca24fe74eceac3c2b690e2329
 reviewVerdict: first-pass

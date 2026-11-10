@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'opinion%1:10:00::'
 synsetId: 06563775-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 824df1668d9e83b53e16e27595228704d2972f817947bf95c74412cf8642b7d5
 simpleMeaning: A written court document that sets out the reasons behind a judge's ruling.
 scope: 'This is the written-document sense, the paper that records a court''s reasoning; distinct from
   opinion%1:09:00:: (a personal belief held without proof), opinion%1:10:01:: (a stated belief held with
@@ -13,5 +11,4 @@ examples:
 - A clerk added the written opinion to the case file.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 76
-sourceFinalSha256: 91cd4cee1f42e0b8f16479f2eb5495a5151bb6ea188cebddd230230fc1887c74
 reviewVerdict: first-pass

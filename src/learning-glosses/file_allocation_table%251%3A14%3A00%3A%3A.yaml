@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'file_allocation_table%1:14:00::'
 synsetId: 08284118-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 3accaa46f0ad10c80b09e006bdb466a7a348e46a19a1041aabb38a64e554bc4f
 simpleMeaning: In computing, a list on a hard or floppy disk tells where each piece of stored information
   sits, and also where the parts that cannot be used are.
 scope: In computing, this list on a hard or floppy disk keeps track of where each piece of stored information
@@ -12,5 +10,4 @@ examples:
 - A damaged file allocation table can make files hard to find.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 999
-sourceFinalSha256: 0a9f7392bacc35174a655ded57773b6292f19ba79ff992a8485b3a9c717fd52c
 reviewVerdict: first-pass

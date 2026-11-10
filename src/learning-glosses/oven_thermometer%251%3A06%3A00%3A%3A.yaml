@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'oven_thermometer%1:06:00::'
 synsetId: 03868382-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: e2800640d152e31c9a3696ceda38b5616b0de930e806ac415c3532d421e0ac7b
 simpleMeaning: A tool that shows how hot it is inside the box where food is baked
 scope: A tool that shows how hot it is inside the box where food is baked, not one for the body and not
   one for the air outside.
@@ -11,5 +9,4 @@ examples:
 - The oven thermometer read 200 degrees.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1445
-sourceFinalSha256: 22a46d26eedf70a389691ac0db80b5684c1a3d63090017b90f766a528b918d2d
 reviewVerdict: first-pass

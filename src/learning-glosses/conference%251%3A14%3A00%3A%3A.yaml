@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'conference%1:14:00::'
 synsetId: 08325427-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 1ad3c62f6ea107377843667e374de7a91282ede601103fffa02a9bba4889fd16
 simpleMeaning: a planned meeting for discussion, often with a fixed list of topics, where people share
   information.
 scope: This is a formal planned meeting, not a short private talk between two people.
@@ -11,5 +9,4 @@ examples:
 - The company holds a conference for all its managers every year.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 21
-sourceFinalSha256: 51bbc70d460a9c4c674e33072dafa6c8d859b0be15471350e8b626fbcaebc1f6
 reviewVerdict: first-pass

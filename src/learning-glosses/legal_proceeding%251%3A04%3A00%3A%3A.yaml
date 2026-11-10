@@ -1,8 +1,6 @@
-schema: oewn-learning-gloss-v1
+schema: oewn-learning-gloss-v2
 senseId: 'legal_proceeding%1:04:00::'
 synsetId: 01187304-n
-sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
-sourceDefinitionSha256: 68196a43e18d79b3b3e47c31b0d54a174c52611641e8cc1f3cf56505de4975b9
 simpleMeaning: In law, a ruling comes at the end of a set of steps that starts when a court case is begun
 scope: 'Also called proceedings and proceeding: in law, the start of a court case and the steps that follow
   it, not one hearing and not the ruling itself.'
@@ -11,5 +9,4 @@ examples:
 - Both sides hired lawyers for the legal proceeding.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1420
-sourceFinalSha256: e882a74297efff7eafa5ac21cfd316092f1876640d5c87f063aa35f1721ef402
 reviewVerdict: first-pass
