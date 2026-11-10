@@ -23,6 +23,9 @@ src/out
 desktop.ini
 *.lnk
 ewe*
+# our gloss files are named after their sense ID; keep the upstream ignore rules
+# from swallowing one whose lemma happens to match a pattern (ewer)
+!src/learning-glosses/**
 src/xml/
 .DS_Store
 

@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'synchronous%3:00:01::'
+synsetId: 02389133-a
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: afde9bcd2b42791ca38a2b0572757eeceb2a68ffbaea54f62ff295f67c0e6e31
+simpleMeaning: In digital communication, about a way of sending data where devices must share one clock
+  signal (a signal that gives the timing) so their sending is timed together
+scope: This is the digital sending sense, where devices share one timing signal; not the wider sense of
+  things just happening at the same time.
+examples:
+- The two computers use a synchronous link, so both follow the same clock signal.
+- In synchronous transmission, the receiver keeps time with the sender's clock.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 632
+sourceFinalSha256: 5ee8fe07e41210405f1f22ccf6e9746a494ce7f06247e59fcaffd3de0fd0e59d
+reviewVerdict: first-pass

@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'correlation%1:09:01::'
+synsetId: 06040778-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 1856e3ee19467a8c8d271300b2247db9bf01cad2e177cd55c29da5bceb97137b
+simpleMeaning: In statistics, a link between two or more things that can change, where when one changes,
+  the other changes too in a regular way
+scope: Also called correlational statistics, this is the link itself between things that change, not the
+  number from -1 to +1 that shows how strong the link is.
+examples:
+- There is a strong correlation between study time and test scores.
+- The study found a correlation between heat and ice cream sales.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 474
+sourceFinalSha256: 29a3b8d5ea439a30eb0e2a5d318c2a1a030ef33d83b053891c1e46abbb32fc6f
+reviewVerdict: first-pass

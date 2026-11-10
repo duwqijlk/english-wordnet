@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'longitude%1:15:00::'
+synsetId: 08614224-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 6ac33ad6efac2770b988f5f43eed3a7dd81bdfbbc9bc9e9bb2f5bf0808e3778a
+simpleMeaning: the distance, measured in degrees, between a place's north-south line and the main north-south
+  line through Greenwich
+scope: A measure of how far east or west a place is, not latitude, which is how far north or south a place
+  is.
+examples:
+- The city's longitude is about 120 degrees east.
+- Sailors used longitude to know how far east they had sailed.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 611
+sourceFinalSha256: bf603210049ea32e7157c4834bd0fcbc7683ef9cae984f7497cd609297f54375
+reviewVerdict: first-pass

@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'gigabyte%1:23:00::'
+synsetId: 13650222-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: d26830d45667b4c086749697a908e8550368a5e06dde96ffcdbbfbf16337b168
+simpleMeaning: a unit of information equal to 1,024 mebibytes (each one 1,048,576 bytes) or 1,073,741,824
+  bytes in total
+scope: This is the gigabyte unit equal to 1,073,741,824 bytes, not the other gigabyte unit equal to 1,000,000,000
+  bytes and not a smaller unit such as a megabyte.
+examples:
+- This computer has eight gigabytes of memory.
+- The file is too big because it is over two gigabytes.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 575
+sourceFinalSha256: a551bfc1bb172a962d7604e3812a9cae638f255e4030b7a90708ccd6972cc8c6
+reviewVerdict: first-pass
