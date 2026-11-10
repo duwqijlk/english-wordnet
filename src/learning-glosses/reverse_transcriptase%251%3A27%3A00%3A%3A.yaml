@@ -3,14 +3,14 @@ senseId: 'reverse_transcriptase%1:27:00::'
 synsetId: 15009358-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 6e58bed515ee2ea2abd451bb12578289908da0c7f99101bcdf9fdf6af81e379d
-simpleMeaning: Viruses that carry RNA hold this stuff, which helps build DNA using the RNA as the first
+simpleMeaning: Viruses that carry RNA hold this enzyme, which helps build DNA using the RNA as the first
   form it is copied from.
-scope: It is a stuff that helps build DNA using RNA as the first form it is copied from, found most often
-  in viruses that carry RNA, not a stuff that copies DNA from DNA.
+scope: It is an enzyme that helps build DNA using RNA as the first form it is copied from, found most
+  often in viruses that carry RNA, not an enzyme that copies DNA from DNA.
 examples:
 - The virus used reverse transcriptase to build DNA from its RNA.
 - With reverse transcriptase, the RNA was copied into DNA.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1031
-sourceFinalSha256: f62aac24837ed373f5f1c9bd4d013e75bccb6ce160b68b86930685c16827b7f0
-reviewVerdict: first-pass
+sourceFinalSha256: 31dd9d7c54e2c23aa8a5aed25c18ff19482361e421537e69212ec094107f4511
+reviewVerdict: second-pass

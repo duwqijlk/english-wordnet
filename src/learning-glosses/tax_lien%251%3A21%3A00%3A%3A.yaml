@@ -3,8 +3,7 @@ senseId: 'tax_lien%1:21:00::'
 synsetId: 13423863-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 9943c74d4e96353f2f9bc62105c626a7ae793b8511ccedab9d7e9329b030b1c8
-simpleMeaning: When the money owed to the state goes unpaid, a collector can use this claim on property,
-  much like the claim a court gives after a judgment.
+simpleMeaning: A lien a tax collector may use when taxes are not paid, similar to a judgment lien.
 scope: A claim on property that a collector can use when the money owed to the state goes unpaid, much
   like the claim a court gives after a judgment.
 examples:
@@ -12,5 +11,5 @@ examples:
 - He found a tax lien on the land for unpaid taxes.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 915
-sourceFinalSha256: b3db1a9560039abfeda29e1b1aa77685eb5c99669f951c3144a4ca8a5c825aa4
-reviewVerdict: first-pass
+sourceFinalSha256: 0f6e373860a708c4b3d73845b1c2b272daeab9d6ef6c0a1a0a45b1c9e78f1488
+reviewVerdict: second-pass

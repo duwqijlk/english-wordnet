@@ -3,8 +3,8 @@ senseId: 'affected_role%1:10:00::'
 synsetId: 06343129-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: ae32a6556b192e6811e6168078b0d149d332fed10dda7bf5c2a309046945813d
-simpleMeaning: When a verb's action happens to a person or thing that does not do the action, that person
-  or thing has this part in the clause.
+simpleMeaning: The semantic role of a person or thing that does not do the action but is directly involved
+  in or affected by the verb's happening in the clause
 scope: Also called patient or patient role, this is the person or thing a verb's action falls on, not
   the one doing it.
 examples:
@@ -12,5 +12,5 @@ examples:
 - The teacher showed how the noun in 'Mary broke the vase' takes the affected role.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1055
-sourceFinalSha256: 1b69cebb55d676f44a585dcfb716d15214287902390d1b51585145034c650174
-reviewVerdict: first-pass
+sourceFinalSha256: a4c81b9d6a7b62e9c40efa636657ceed328656b0781c6488f64e4382baec0f09
+reviewVerdict: second-pass

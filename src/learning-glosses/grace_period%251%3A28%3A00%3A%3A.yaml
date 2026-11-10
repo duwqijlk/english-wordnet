@@ -3,8 +3,8 @@ senseId: 'grace_period%1:28:00::'
 synsetId: 15142101-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 6e37806c0b7092422fb9ab07ea01f676c2f135f544bb1d7180c60194886780b4
-simpleMeaning: When the date for meeting an obligation has passed, the fine for being late is set aside
-  for a while, above all as a special favour.
+simpleMeaning: Extra time past a deadline for meeting an obligation, when the late penalty is waived,
+  especially as a special favor.
 scope: Also called grace, this is extra time after a deadline with no fine for being late, not a new deadline
   itself.
 examples:
@@ -12,5 +12,5 @@ examples:
 - Her grace period ended on Friday, so she paid on Thursday.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 897
-sourceFinalSha256: d1a9d18eb878870ba671a836a644d30eb6129b171a5df4fdeeac760213923ba7
-reviewVerdict: first-pass
+sourceFinalSha256: af40ed9d8be1d8d148e3bf58adde4fcdebfa9f60793930b8b0a9d251e55182a0
+reviewVerdict: second-pass

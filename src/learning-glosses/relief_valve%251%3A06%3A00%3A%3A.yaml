@@ -3,8 +3,8 @@ senseId: 'relief_valve%1:06:00::'
 synsetId: 04134734-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 6152f34fe2fac489f242d0b2610f7d8d6c450d3c817d0460890d75d89e4b3287
-simpleMeaning: When the push inside a closed pot, like a boiler, grows too strong, this part opens by
-  itself.
+simpleMeaning: A valve in a container where pressure can build up, such as a steam boiler, that opens
+  automatically at a dangerous pressure level
 scope: It is also called escape, escape cock, escape valve, and safety valve, and it opens by itself when
   the push inside grows too strong, not a tap a person turns by hand.
 examples:
@@ -12,5 +12,5 @@ examples:
 - When the pressure rose, the relief valve opened on its own.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1031
-sourceFinalSha256: f62aac24837ed373f5f1c9bd4d013e75bccb6ce160b68b86930685c16827b7f0
-reviewVerdict: first-pass
+sourceFinalSha256: 31dd9d7c54e2c23aa8a5aed25c18ff19482361e421537e69212ec094107f4511
+reviewVerdict: second-pass

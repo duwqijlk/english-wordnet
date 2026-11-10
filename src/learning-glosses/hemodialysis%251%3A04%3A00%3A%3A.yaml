@@ -3,13 +3,13 @@ senseId: 'hemodialysis%1:04:00::'
 synsetId: 00651786-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 7ba40f2f1aabeb1bed4fbb955a4e68875bcc034b53e0e97edc739e467ca20a1d
-simpleMeaning: When the kidneys have failed, this step cleans the blood, taking out poisons and waste
-  from it.
-scope: Also called haemodialysis, this is a step that cleans the blood when the kidneys have failed.
+simpleMeaning: Cleaning the blood to remove toxic substances and body waste from the bloodstream, used
+  when the kidneys have failed.
+scope: Also called haemodialysis.
 examples:
 - The patient went for hemodialysis when the kidneys failed.
 - Hemodialysis takes poisons out of the blood.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1005
-sourceFinalSha256: 1731339719d1540deeaef38027f3443f7e5a56e66031e33d2113654937d6894b
-reviewVerdict: first-pass
+sourceFinalSha256: fcdb94c27d70f31880522e1630415eb2bbf86534a2395bde15b0d1d08c89b5ae
+reviewVerdict: second-pass

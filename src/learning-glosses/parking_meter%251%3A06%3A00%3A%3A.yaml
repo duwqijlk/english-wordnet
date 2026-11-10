@@ -3,8 +3,8 @@ senseId: 'parking_meter%1:06:00::'
 synsetId: 03897029-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: 06d52a8be3fc88900cb236d1d7320bff576dcd6e5f7b23e3173cd9bfdfb8ae9d
-simpleMeaning: You may leave your car in a place for a set time by putting coins into the timer set beside
-  it.
+simpleMeaning: A coin-operated timer beside a parking space; putting money in lets you park a car there
+  for a set length of time.
 scope: 'Beside a place to leave a car stands this timer: put coins into it, and you may leave your car
   there for a set time.'
 examples:
@@ -12,5 +12,5 @@ examples:
 - The parking meter showed no time left, so we moved the car.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1023
-sourceFinalSha256: 8257fcfa0b8c0aa71b066a8d84788f8bb0577e20b864477f5a37da672eeb09d3
-reviewVerdict: first-pass
+sourceFinalSha256: d12da7682381dfa0e8ed1b529f29f3b15fb69b0ad315f63628e3f71b289cc1c7
+reviewVerdict: second-pass

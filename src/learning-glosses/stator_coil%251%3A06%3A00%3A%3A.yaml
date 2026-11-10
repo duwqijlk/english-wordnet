@@ -3,8 +3,7 @@ senseId: 'stator_coil%1:06:00::'
 synsetId: 04313730-n
 sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
 sourceDefinitionSha256: c07cbd1219a8566980be3012adde77f255b8cef210c12a0d823122d5b35a6859
-simpleMeaning: What never moves in a motor is this fixed piece, with the moving piece turning in or round
-  it.
+simpleMeaning: The stationary part of a motor or generator, in or around which the rotor revolves.
 scope: 'Stator is another name for it: the fixed piece of a motor, set against the moving piece that turns
   in it.'
 examples:
@@ -12,5 +11,5 @@ examples:
 - Inside the motor, the stator coil never moves.
 editorialStatus: reviewed-model-not-student-validated
 sourceBatch: 1040
-sourceFinalSha256: d39e8fff6931aa049a0d7862988ad754d65330f32e5147d79105dd1639f3d52a
-reviewVerdict: first-pass
+sourceFinalSha256: a04d40236b8071c544ed32a8a1d7a59ce6a9c05e816bdc4e62bfeb16229ebe3d
+reviewVerdict: second-pass
