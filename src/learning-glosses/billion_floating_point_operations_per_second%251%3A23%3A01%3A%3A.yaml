@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'billion_floating_point_operations_per_second%1:23:01::'
+synsetId: 92467325-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: ed952d7904a6035411d22d0d5c87e2df05905225f9590b313b8f26c3782a8981
+simpleMeaning: a measure of how fast a computer works out sums, equal to one thousand million sums with
+  fractions every time a clock ticks once
+scope: 'Also called gigaflop: a measure of a computer''s speed, not a count of all the work it does and
+  not a measure of its memory.'
+examples:
+- The new machine runs at five billion floating point operations per second.
+- Engineers rate the chip in billion floating point operations per second.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1334
+sourceFinalSha256: ebb82c2c7672f9e952a6b4ebdd85dd0268a46d8db6811dc0e792915ebc771d8a
+reviewVerdict: first-pass

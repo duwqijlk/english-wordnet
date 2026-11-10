@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'signal-to-noise%1:24:00::'
+synsetId: 13847877-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: a3df860504f198107f673f46b4de236f9a89e4717d99b3269e0c29456d55b08c
+simpleMeaning: a number that says how strong a wanted sound is when set against unwanted sound
+scope: A number that says how strong a wanted sound is against unwanted sound, also called signal-to-noise
+  ratio, signal/noise and signal/noise ratio; not the strength of the wanted sound on its own and not
+  the strength of the unwanted sound on its own.
+examples:
+- The engineer checked the signal-to-noise of the radio link before the test.
+- A high signal-to-noise means the wanted sound is easy to hear.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1285
+sourceFinalSha256: e3b3db781a0f2a924b6dbf57f3375bd16b2430f573f0b05dc8a6ec3e0d45d3f8
+reviewVerdict: first-pass

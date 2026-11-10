@@ -1,0 +1,15 @@
+schema: oewn-learning-gloss-v1
+senseId: 'data_multiplexer%1:06:00::'
+synsetId: 03168858-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 3c5c84b3bb73243a23b56de54093f9ab2f511348d23e5071639940a8fe692854
+simpleMeaning: a device that lets two or more streams of facts share one path for sending them
+scope: A device that lets two or more sources share one sending path, not a single line for one source
+  and not a switch that picks one source.
+examples:
+- The data multiplexer lets two computers share one line.
+- A data multiplexer sends facts from many sources down one path.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1365
+sourceFinalSha256: 2cba503110da233865e4d8e7187934fe7749b23d1ca82420987338d2138c4512
+reviewVerdict: first-pass

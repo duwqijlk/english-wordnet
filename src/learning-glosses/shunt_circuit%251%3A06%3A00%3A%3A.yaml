@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'shunt_circuit%1:06:00::'
+synsetId: 03894505-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 607dfc2bdfb14c17565dcaec97049c5b0fc56b783f4c29aceb952aa4b9371a74
+simpleMeaning: a closed loop for electric flow that splits into two or more paths and then joins back
+  to finish the loop
+scope: A closed loop in which electric flow splits into two or more paths and joins back, also called
+  a parallel circuit; not a single-path circuit and not an open circuit.
+examples:
+- The shunt circuit split the current into two paths.
+- The engineer tested the shunt circuit before turning the power on.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1284
+sourceFinalSha256: 88b89f65091b7e6565bae6ad19459a851f249765512fb71d3a8ee3ffe7f4ea02
+reviewVerdict: first-pass

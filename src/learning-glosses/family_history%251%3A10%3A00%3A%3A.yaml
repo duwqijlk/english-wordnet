@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'family_history%1:10:00::'
+synsetId: 06527045-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: aaccc1b564ae1d4b4188059d0a33a34d0fd5c166059d4abdfc73ad37cf710506
+simpleMeaning: Questions about the illnesses of a patient's relatives are asked to learn if the patient
+  may get the same illnesses; this is part of the patient's medical record
+scope: A doctor's questions about illnesses among a patient's relatives, not a list of the patient's own
+  past illnesses and not a record of one relative's health.
+examples:
+- The doctor took a family history to check for heart disease in her relatives.
+- His family history showed that his father and grandfather had diabetes.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1384
+sourceFinalSha256: cdd23ac8f6b671ce0fdf8d8c5d6ea90ce94a0e03c7440df40cdf7c1263db92b1
+reviewVerdict: first-pass

@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'gigaflop%1:23:01::'
+synsetId: 92467325-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: ed952d7904a6035411d22d0d5c87e2df05905225f9590b313b8f26c3782a8981
+simpleMeaning: a count of how fast a computer works, equal to one thousand million sums with decimal points
+  in one second
+scope: Also called billion floating point operations per second, this is a speed measure for a computer,
+  not a count of how much it can store and not a measure of power use.
+examples:
+- The new machine runs at several gigaflops.
+- A gigaflop means the computer can do a billion such sums in one second.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1394
+sourceFinalSha256: 7378f1ebe5c4ae550754e72a740a5d3a4c438dc8c7690473facdb396806dc058
+reviewVerdict: first-pass

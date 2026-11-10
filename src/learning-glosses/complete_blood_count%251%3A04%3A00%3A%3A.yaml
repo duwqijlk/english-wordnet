@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'complete_blood_count%1:04:00::'
+synsetId: 00654218-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: 1ef22a0fb5e313b62aecebdf3b88dce8d972d4a0d5306f61a96a8948f7dc4f35
+simpleMeaning: a test that finds how many white cells, red cells, and platelets, tiny bits that help cuts
+  stop bleeding, are in one cubic millimeter of a sample
+scope: A test that finds how many white cells, red cells, and platelets are in a tiny amount of a sample,
+  also called a blood profile; not a test that finds a person's type and not a test for one illness.
+examples:
+- The doctor ordered a complete blood count to check her white cells.
+- His complete blood count showed too few platelets.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1356
+sourceFinalSha256: 2f8da85ab72127e01d4342e8fc9712a88818ea9dceef4b2017636b30cc3a77e8
+reviewVerdict: first-pass

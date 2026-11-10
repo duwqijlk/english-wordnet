@@ -1,0 +1,16 @@
+schema: oewn-learning-gloss-v1
+senseId: 'system_call%1:10:00::'
+synsetId: 06599393-n
+sourceArchiveSha256: 7d749f6e2c39e6970e4997839dcf6e42fd281f3c2fae0171d2192bae8cfa4b51
+sourceDefinitionSha256: b28d46d4928c38e6d3757792790e3af365891fde6d952c080ce04f1e820345d4
+simpleMeaning: an order that pauses the program now running and hands control to the main program that
+  runs the machine
+scope: This is an order that pauses a running program and hands control to the main program; supervisor
+  call instruction is another name for this sense. Not an order from the user and not a fault in the program.
+examples:
+- The program made a system call to ask for more memory.
+- A system call hands control to the supervisor while the program waits.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 1296
+sourceFinalSha256: 79dd2f28b3d875b5a2910b1da13b631149d47a2172fc5aefccaae71ea8da2548
+reviewVerdict: first-pass
