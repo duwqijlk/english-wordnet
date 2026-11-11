@@ -1,0 +1,13 @@
+schema: oewn-learning-gloss-v2
+senseId: 'markov_process%1:22:00::'
+synsetId: 13532710-n
+simpleMeaning: A random process whose probabilities for future states depend only on its present state,
+  not on its earlier states.
+scope: Also called Markoff process; knowing the present state makes the earlier history irrelevant to
+  the probabilities of future states.
+examples:
+- In a Markov process, the probabilities of future states depend only on the present state.
+- A Markov process can have different possible next states.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4832
+reviewVerdict: first-pass
