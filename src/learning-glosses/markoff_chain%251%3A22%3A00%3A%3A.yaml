@@ -1,0 +1,12 @@
+schema: oewn-learning-gloss-v2
+senseId: 'markoff_chain%1:22:00::'
+synsetId: 13532571-n
+simpleMeaning: A set of steps in which a number that changes can take only separate points in time.
+scope: Also called Markov chain, this is a set of steps in which a number that changes takes only separate
+  points in time, not a set of steps that moves in a smooth flow.
+examples:
+- A Markoff chain takes its next step only at a set point in time.
+- We used a Markoff chain to model the changes.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4832
+reviewVerdict: first-pass
