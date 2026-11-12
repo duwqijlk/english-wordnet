@@ -1,0 +1,13 @@
+schema: oewn-learning-gloss-v2
+senseId: 'bayes''_theorem%1:09:00::'
+synsetId: 05926973-n
+simpleMeaning: In statistics, a rule for finding the chance of each cause of an event seen, from the chance
+  of each cause and the chance of the event under each cause.
+scope: In statistics, it works back from an event already seen to the chances of its possible causes,
+  using the chances known for each cause and for the event under each cause.
+examples:
+- We used Bayes' theorem to work out which cause was most likely.
+- Bayes' theorem lets us find the chance of each cause from the chance of the event.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4571
+reviewVerdict: first-pass

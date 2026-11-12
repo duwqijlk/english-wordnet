@@ -1,0 +1,13 @@
+schema: oewn-learning-gloss-v2
+senseId: 'stop-limit_order%1:10:01::'
+synsetId: 92463199-n
+simpleMeaning: a trade request to a broker that starts once a first price is hit, then trades only at
+  a second price or better
+scope: A trade request to a broker that starts once a first price is hit, then trades only at a second
+  price or better; not a plain request to buy at any price and not a request that ends at the first price.
+examples:
+- A stop-limit order at $15 would not be used if the share fell from $20 to $12.50 without touching $15.
+- She placed a stop-limit order to sell if the price dropped.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4449
+reviewVerdict: first-pass
