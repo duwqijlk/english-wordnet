@@ -1,0 +1,13 @@
+schema: oewn-learning-gloss-v2
+senseId: 'ecc%1:10:00::'
+synsetId: 06368831-n
+simpleMeaning: In telecommunication, a coding system that adds extra bits so that mistakes in a message
+  can be found.
+scope: In telecommunication, a coding system that adds extra bits to find mistakes, also called the error
+  correction code; not a code that hides a message and not a code for storing files.
+examples:
+- ECC adds extra bits to the data it sends.
+- The system used ECC to catch errors in the message.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4648
+reviewVerdict: first-pass

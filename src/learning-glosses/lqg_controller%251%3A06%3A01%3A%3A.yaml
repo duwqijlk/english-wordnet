@@ -1,0 +1,13 @@
+schema: oewn-learning-gloss-v2
+senseId: 'lqg_controller%1:06:01::'
+synsetId: 92462841-n
+simpleMeaning: A device that joins a Kalman filter, a tool that guesses a system's state from noisy measures,
+  with a regulator that keeps a system on course.
+scope: A device that joins a filter and a regulator, not a single filter; also called linear-quadratic-Gaussian
+  controller.
+examples:
+- The LQG controller adjusts itself as conditions change.
+- The LQG controller runs the whole system on its own.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4569
+reviewVerdict: first-pass

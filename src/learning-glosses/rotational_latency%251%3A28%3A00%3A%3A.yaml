@@ -1,0 +1,13 @@
+schema: oewn-learning-gloss-v2
+senseId: 'rotational_latency%1:28:00::'
+synsetId: 15322312-n
+simpleMeaning: In computer science, the time one block of data on a track takes to turn round to the part
+  that reads and writes it
+scope: In computer science, the wait for one block of data on a track to turn round to the part that reads
+  and writes it, not the time to find a file and not the time a disk takes to start.
+examples:
+- Rotational latency slows the reading of old disks.
+- The rotational latency of the drive is only a few thousandths of a second.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4505
+reviewVerdict: first-pass

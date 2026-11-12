@@ -1,0 +1,12 @@
+schema: oewn-learning-gloss-v2
+senseId: 'mathematical_induction%1:10:01::'
+synsetId: 92440880-n
+simpleMeaning: 'A way to prove a math claim: first show it holds for one case, then show that if it holds
+  for any case, it holds for the next case too.'
+scope: A way of proving a math claim case by case, not a single example and not a guess from a few cases.
+examples:
+- We used mathematical induction to prove the formula.
+- Mathematical induction shows the rule holds for every whole number.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4417
+reviewVerdict: first-pass

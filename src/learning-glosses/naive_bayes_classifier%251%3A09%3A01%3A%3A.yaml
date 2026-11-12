@@ -1,0 +1,14 @@
+schema: oewn-learning-gloss-v2
+senseId: 'naive_bayes_classifier%1:09:01::'
+synsetId: 92463242-n
+simpleMeaning: Any simple way of sorting things by how likely each kind is, using a known rule about chances
+  and the strong guess that traits do not change each other.
+scope: This is any simple way of sorting things by how likely each kind is, using a known rule about chances
+  and the strong guess that traits do not change each other, not a way that weighs the traits together
+  and not a way that sorts without chances.
+examples:
+- The naive Bayes classifier sorted the emails into groups by how likely each group was.
+- We used a naive Bayes classifier to sort the messages by how likely each kind was.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4629
+reviewVerdict: first-pass

@@ -1,0 +1,13 @@
+schema: oewn-learning-gloss-v2
+senseId: 'nyquist_rate%1:28:00::'
+synsetId: 15307406-n
+simpleMeaning: In telecommunication, the lowest speed at which an analog signal must be sampled so it
+  can be put back together right
+scope: This is the lowest sampling speed for rebuilding an analog signal, not a higher speed used for
+  safety and not the speed of the signal itself.
+examples:
+- The Nyquist rate sets the lowest sampling speed for the signal.
+- Engineers sample above the Nyquist rate to rebuild the sound.
+editorialStatus: reviewed-model-not-student-validated
+sourceBatch: 4610
+reviewVerdict: first-pass
